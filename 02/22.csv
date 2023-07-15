@@ -1,0 +1,343 @@
+"astro-ph/9402053","Arthur Kosowsky","Scott Dodelson (Fermilab), Arthur Kosowsky (Chicago) and Steven T.
+  Myers (Caltech)","Noise Correlation in Cosmic Microwave Background Experiments","Analysis generalized; conclusions unaltered","Astrophys.J. 440 (1995) L37","10.1086/187755",,"astro-ph",,"  Many analyses of microwave background experiments neglect the correlation of
+noise in different frequency or polarization channels. We show that these
+correlations, should they be present, can lead to severe misinterpretation of
+an experiment. In particular, correlated noise arising from either electronics
+or atmosphere may mimic a cosmic signal. We quantify how the likelihood
+function for a given experiment varies with noise correlation, using both
+simple analytic models and actual data. For a typical microwave background
+anisotropy experiment, noise correlations at the level of 1\% of the overall
+noise can seriously {\it reduce} the significance of a given detection.
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 22:44:39 GMT""},{""version"":""v2"",""created"":""Wed, 16 Nov 1994 03:46:51 GMT""}]","2009-10-22"
+"astro-ph/9402054","Huib Jan van Langevelde","Huib Jan van Langevelde, Ewine F. van Dishoeck, Geoffrey A. Blake","Evidence for Hco+ Infall toward T Tauri?","9 pages, uuencoded PostScript file, including figures",,"10.1086/187307",,"astro-ph",,"  High spectral and spatial resolution observations of the HCO+ molecule toward
+the T Tau binary system obtained with the Owens Valley Millimeter Array reveal
+a broad emission line profile (V_LSR = 7.2 km/s, width = 2.0 km/s) upon which a
+narrow, redshifted absorption feature (V_LSR = 8.5 km/s, width +/- 0.5 km/s) is
+superposed. One possible interpretation of the absorption is that it arises
+from infall of molecular cloud envelope material onto the immediate
+circumbinary region, which would imply that large scale dynamic accretion
+processes are still active well into the optically visible stages of star
+formation. Provided the mass is deposited at radii sufficiently close to the
+young stars, estimates of the accretion rates indicate that infall may add
+enough material to the system to account for the FU~Orionis type flares
+recently observed in T~Tau in =< 100 yr.
+","[{""version"":""v1"",""created"":""Tue, 22 Feb 1994 11:09:02 GMT""}]","2009-10-22"
+"chao-dyn/9402005","L. Biferale","L. Biferale, A. Lambert, R. Lima and G. Paladin","Transition to Chaos in a Shell Model of Turbulence","16 pages, Tex, 20 figures available as hard copy",,"10.1016/0167-2789(95)90065-9",,"chao-dyn nlin.CD",,"  We study a shell model for the energy cascade in three dimensional turbulence
+at varying the coefficients of the non-linear terms in such a way that the
+fundamental symmetries of Navier-Stokes are conserved. When a control parameter
+$\epsilon$ related to the strength of backward energy transfer is enough small,
+the dynamical system has a stable fixed point corresponding to the Kolmogorov
+scaling. This point becomes unstable at $\epsilon=0.3843...$ where a stable
+limit cycle appears via a Hopf bifurcation. By using the bi-orthogonal
+decomposition, the transition to chaos is shown to follow the Ruelle-Takens
+scenario. For $\epsilon > 0.3953..$ the dynamical evolution is intermittent
+with a positive Lyapunov exponent. In this regime, there exists a strange
+attractor which remains close to the Kolmogorov (now unstable) fixed point, and
+a local scaling invariance which can be described via a intermittent
+one-dimensional map.
+","[{""version"":""v1"",""created"":""Tue, 22 Feb 1994 10:24:25 GMT""}]","2015-06-24"
+"chao-dyn/9402006","Julyan Cartwright","David K. Arrowsmith, Julyan H. E. Cartwright, Alexis N. Lansbury, and
+  Colin M. Place","The Bogdanov Map: Bifurcations, Mode Locking, and Chaos in a Dissipative
+  System","Replacement PDF version converted from old 1990s files","International Journal of Bifurcation and Chaos (IJBC) Volume: 3,
+  Issue: 4 (1993) pp. 803-842","10.1142/S021812749300074X",,"chao-dyn math.DS nlin.CD","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  We investigate the bifurcations and basins of attraction in the Bogdanov map,
+a planar quadratic map which is conjugate to the H\'enon area-preserving map in
+its conservative limit. It undergoes a Hopf bifurcation as dissipation is
+added, and exhibits the panoply of mode locking, Arnold tongues, and chaos as
+an invariant circle grows out, finally to be destroyed in the homoclinic
+tangency of the manifolds of a remote saddle point. The Bogdanov map is the
+Euler map of a two-dimensional system of ordinary differential equations first
+considered by Bogdanov and Arnold in their study of the versal unfolding of the
+double-zero-eigenvalue singularity, and equivalently of a vector field
+invariant under rotation of the plane by an angle $2\pi$. It is a useful system
+in which to observe the effect of dissipative perturbations on Hamiltonian
+structure. In addition, we argue that the Bogdanov map provides a good
+approximation to the dynamics of the Poincar\'e maps of periodically forced
+oscillators.
+","[{""version"":""v1"",""created"":""Tue, 22 Feb 1994 13:58:32 GMT""},{""version"":""v2"",""created"":""Wed, 23 Feb 1994 10:32:00 GMT""},{""version"":""v3"",""created"":""Mon, 12 Oct 2015 19:24:34 GMT""}]","2015-10-13"
+"cond-mat/9402085","Franck Laloe","F. Laloe","Ursell operators in statistical physics I: generalizing the Beth
+  Uhlenbeck formula","22, Latex (word scientific), 1",,,,"cond-mat",,"  Using Ursell operators for the study of the poperties of dilute degenerate
+gases
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 16:22:43 GMT""}]","2007-05-23"
+"cond-mat/9402086","Yan Mu-Lin","Yi Cheng, Mu-Lin Yan and Bao-Heng Zhao","Bethe Ansatz and Quantum Davey-Stewartson 1 System with Multicomponent
+  in Two Dimensions","7 pages, no figures",,,"ICTP-94-35","cond-mat",,"  The quantum 2-component DS1 system was reduced to two 1D many-body problems
+with $\delta-$function interactions, which were solved by Bethe ansatz. Using
+the ansatz in ref.[1] and introducing symmetric and antisymmetric Young
+operators of the permutation group, we obtain the exact solutions for the
+system.
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 16:48:12 GMT""}]","2007-05-23"
+"cond-mat/9402087","Niels Gronbech-Jensen","Yuri S. Kivshar, Niels Gr{\o}nbech-Jensen, and Robert D. Parmentier","Kinks in the Presence of Rapidly Varying Perturbations","New copy of the paper of the above title to replace the previous one,
+  lost in the midst of the bulletin board. RevTeX 3.0",,"10.1103/PhysRevE.49.4542",,"cond-mat",,"  Dynamics of sine-Gordon kinks in the presence of rapidly varying periodic
+perturbations of different physical origins is described analytically and
+numerically. The analytical approach is based on asymptotic expansions, and it
+allows to derive, in a rigorous way, an effective nonlinear equation for the
+slowly varying field component in any order of the asymptotic procedure as
+expansions in the small parameter $\omega^{-1}$, $\omega$ being the frequency
+of the rapidly varying ac driving force. Three physically important examples of
+such a dynamics, {\em i.e.}, kinks driven by a direct or parametric ac force,
+and kinks on rotating and oscillating background, are analysed in detail. It is
+shown that in the main order of the asymptotic procedure the effective equation
+for the slowly varying field component is {\em a renormalized sine-Gordon
+equation} in the case of the direct driving force or rotating (but phase-locked
+to an external ac force) background, and it is {\em the double sine-Gordon
+equation} for the parametric driving force. The properties of the kinks
+described by the renormalized nonlinear equations are analysed, and it is
+demonstrated analytically and numerically which kinds of physical phenomena may
+be expected in dealing with the renormalized, rather than the unrenormalized,
+nonlinear dynamics. In particular, we predict several qualitatively new effects
+which include, {\em e.g.}, the perturbation-induced
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 23:55:06 GMT""},{""version"":""v2"",""created"":""Sat, 19 Mar 1994 22:13:55 GMT""}]","2009-10-22"
+"cond-mat/9402088","Ricardo Nunes","R. W. Nunes and David Vanderbilt","Real-space approach to calculation of electric polarization and
+  dielectric constants","Revtex 11 pages; 2 postcript figures at the end (search for CUT HERE)",,"10.1103/PhysRevLett.73.712",,"cond-mat",,"  We describe a real-space approach to the calculation of the properties of an
+insulating crystal in an applied electric field, based on the iterative
+determination of the Wannier functions (WF's) of the occupied bands. It has
+been recently shown that a knowledge of the occupied WF's allows the
+calculation of the spontaneous (zero-field) electronic polarization. Building
+on these ideas, we describe a method for calculating the electronic
+polarization and dielectric constants of a material in non-zero field. The
+method is demonstrated for a one-dimensional tight-binding Hamiltonian.
+","[{""version"":""v1"",""created"":""Tue, 22 Feb 1994 00:52:26 GMT""},{""version"":""v2"",""created"":""Fri, 29 Jul 1994 17:04:45 GMT""}]","2009-10-22"
+"cond-mat/9402089","Steve Simon","Steven H. Simon and Bertrand I. Halperin","Response Function of the Fractional Quantized Hall State on a Sphere I:
+  Fermion Chern-Simons Theory","39 pages (REVTeX 3.0). Postscript file for this paper are available
+  on the World Wide Web at http://cmtw.harvard.edu/~simon/ ; Preprint number
+  HU-CMT-94S01",,"10.1103/PhysRevB.50.1807",,"cond-mat",,"  Using a well known singular gauge transformation, certain fractional
+quantized Hall states can be modeled as integer quantized Hall states of
+transformed fermions interacting with a Chern-Simons field. In previous work we
+have calculated the electromagnetic response function of these states at
+arbitrary frequency and wavevector by using the Random Phase Approximation
+(RPA) in combination with a Landau Fermi Liquid approach. We now adopt these
+calculations to a spherical geometry in order to facilitate comparison with
+exact diagonalizations performed on finite size systems.
+","[{""version"":""v1"",""created"":""Tue, 22 Feb 1994 04:24:35 GMT""}]","2009-10-22"
+"cond-mat/9402090","Steve Simon","Song He, Steven H. Simon, and Bertrand I. Halperin","Response Function of the Fractional Quantized Hall State on a Sphere II:
+  Exact Diagonalization","22 pages (REVTeX 3.0). 10 figures available on request. Complete
+  postscript file (including figures) for this paper are available on the World
+  Wide Web at http://cmtw.harvard.edu/~simon/ ; Preprint number HU-CMT-94S02",,"10.1103/PhysRevB.50.1823",,"cond-mat",,"  We study the excitation spectra and the dynamical structure factor of quantum
+Hall states in a finite size system through exact diagonalization. Comparison
+is made between the numerical results so obtained and the analytic results
+obtained from a modified RPA in the preceding companion paper. We find good
+agreement between the results at low energies.
+","[{""version"":""v1"",""created"":""Tue, 22 Feb 1994 04:26:04 GMT""}]","2009-10-22"
+"cond-mat/9402091","L. Biferale","L. Biferale, A. Lambert, R. Lima and G. Paladin","Transition to Chaos in a Shell Model of Turbulence","16 pages, Tex, 20 figures available upon request to the authors",,,,"cond-mat",,"  We study a shell model for the energy cascade in three dimensional turbulence
+at varying the coefficients of the non-linear terms in such a way that the
+fundamental symmetries of Navier-Stokes are conserved. When a control parameter
+$\epsilon$ related to the strength of backward energy transfer is enough small,
+the dynamical system has a stable fixed point corresponding to the Kolmogorov
+scaling. This point becomes unstable at $\epsilon=0.3843...$ where a stable
+limit cycle appears via a Hopf bifurcation.
+  By using the bi-orthogonal decomposition, the transition to chaos is shown to
+follow the Ruelle-Takens scenario. For $\epsilon > 0.3953..$ the dynamical
+evolution is intermittent with a positive Lyapunov exponent.
+  In this regime, there exists a strange attractor which remains close to the
+Kolmogorov (now unstable) fixed point, and a local scaling invariance which can
+be described via a intermittent one-dimensional map.
+","[{""version"":""v1"",""created"":""Tue, 22 Feb 1994 10:04:29 GMT""},{""version"":""v2"",""created"":""Wed, 23 Feb 1994 10:35:51 GMT""}]","2008-02-03"
+"cond-mat/9402092","Hans Fogedby","B. Dammann, H.C. Fogedby, J.H. Ipsen, and C. Jeppesen","Monte Carlo Study of the Inflation-Deflation Transition in a Fluid
+  Membrane","20 pages + postscript-file, Latex + Postscript, IFA Report No. 94/11",,"10.1051/jp1:1994244",,"cond-mat",,"  We study the conformation and scaling properties of a self-avoiding fluid
+membrane, subject to an osmotic pressure $p$, by means of Monte Carlo
+simulations. Using finite size scaling methods in combination with a histogram
+reweighting techniques we find that the surface undergoes an abrupt
+conformational transition at a critical pressure $p^\ast$, from low pressure
+deflated configurations with a branched polymer characteristics to a high
+pressure inflated phase, in agreement with previous findings
+\cite{gompper,baum}. The transition pressure $p^{\ast}$ scales with the system
+size as $p^\ast \propto N^{-\alpha}$, with $\alpha = 0.69 \pm 0.01$. Below
+$p^\ast$ the enclosed volume scales as $V \propto N$, in accordance with the
+self-avoiding branched polymer structure, and for $p\searrow p^{\ast}$ our data
+are consistent with the finite size scaling form $V \propto N^{\beta_{+}}$,
+where $\beta_{+} = 1.43 \pm 0.04$.
+  Also the finite size scaling behavior of the radii of gyration and the
+compressibility moduli are obtained. Some of the observed exponents and the
+mechanism behind the conformational collapse are interpreted in terms of a
+Flory theory.
+","[{""version"":""v1"",""created"":""Tue, 22 Feb 1994 11:08:11 GMT""}]","2009-10-22"
+"cond-mat/9402093",,"E. Hofstetter and M. Schreiber","Relation between Energy Level Statistics and Phase Transition and its
+  Application to the Anderson Model","9 pages, Latex, 6 PostScript figures in uuencoded compressed tar file
+  are appended",,"10.1103/PhysRevB.49.14726",,"cond-mat",,"  A general method to describe a second-order phase transition is discussed. It
+starts from the energy level statistics and uses of finite-size scaling. It is
+applied to the metal-insulator transition (MIT) in the Anderson model of
+localization, evaluating the cumulative level-spacing distribution as well as
+the Dyson-Metha statistics. The critical disorder $W_{c}=16.5$ and the critical
+exponent $\nu=1.34$ are computed.
+","[{""version"":""v1"",""created"":""Tue, 22 Feb 1994 10:35:53 GMT""}]","2009-10-22"
+"cond-mat/9402094","Andrew P. Gould","Andrew Gould and Jens Villumsen","Weak Lensing By Nearby Structures","14 pages, phyzzx",,"10.1086/187389","OSU-TA-3/94","cond-mat",,"  Weak gravitational lensing due to nearby structures, such as the Coma
+cluster, and the Local Supercluster can be expected to polarize images of
+distant galaxies by ${\cal O}(0.2%\Omega)$ with coherence over scales of tens
+of square degrees. The Sloan Survey, which will image $\gsim 10^4$ galaxies
+$\rm deg^{-2}$ over $\pi$ steradians, should be sensitive to polarizations of
+$\sim 0.1% A^{-1/2}$, where $A$ is the area in square degrees. By measuring the
+polarization, one could determine $\Omega$ in local structures and compare this
+value to that derived from a variety of other techniques.
+","[{""version"":""v1"",""created"":""Tue, 22 Feb 1994 12:37:22 GMT""}]","2009-10-22"
+"cond-mat/9402095",,"C. Zhou, H. J. Schulz","Dynamics of a hole in the large--U Hubbard model: a Feynman diagram
+  approach","Latex 34pages, Orsay Preprint, submitted to Phys. Rev. B",,"10.1051/jp1:1995182",,"cond-mat",,"  We study the dynamics of a single hole in an otherwise half--filled
+two--dimensional Hubbard model by introducing a nonlocal Bogolyubov
+transformation in the antiferromagnetic state. This allows us to rewrite the
+Hamiltonian in a form that makes a separation between high--energy processes
+(involving double--occupancy) and low--energy physics possible. A diagrammatic
+scheme is developped that allows for a systematic study of the different
+processes delocalizing a carrier in the antiferromagnetic state. In particular,
+the so--called Trugman process, important if transverse spin fluctuations are
+neglected, is studied and is shown to be dominated by the leading vertex
+corrections. We analyze the dynamics of a single hole both in the Ising limit
+and with spin fluctuations. The results are compared with previous theories as
+well as with recent exact small--cluster calculations, and we find good
+agreement. The formalism establishes a link between weak and strong coupling
+methodologies.
+","[{""version"":""v1"",""created"":""Tue, 22 Feb 1994 12:55:21 GMT""}]","2009-10-22"
+"cond-mat/9402096","Riccardo Zecchina","Nicolas Brunel and Riccardo Zecchina","Response Functions Improving Performance in Analog Attractor Neural
+  Networks","13 pages (with figures), LaTex (RevTex), to appear on Phys.Rev.E (RC)",,"10.1103/PhysRevE.49.R1823","POLFIS-TH.20/93","cond-mat q-bio",,"  In the context of attractor neural networks, we study how the equilibrium
+analog neural activities, reached by the network dynamics during memory
+retrieval, may improve storage performance by reducing the interferences
+between the recalled pattern and the other stored ones. We determine a simple
+dynamics that stabilizes network states which are highly correlated with the
+retrieved pattern, for a number of stored memories that does not exceed
+$\alpha_{\star} N$, where $\alpha_{\star}\in[0,0.41]$ depends on the global
+activity level in the network and $N$ is the number of neurons.
+","[{""version"":""v1"",""created"":""Tue, 22 Feb 1994 14:02:08 GMT""}]","2009-10-22"
+"gr-qc/9402038","Daniel H. Gottlieb","Daniel H. Gottlieb","A Gravitational Lens need not produce an Odd Number of Images","8 pages, amstex","J.Math.Phys. 35 (1994) 5507-5510","10.1063/1.530762",,"gr-qc",,"  Given any space-time $M$ without singularities and any event $O$, there is a
+natural continuous mapping $f$ of a two dimensional sphere into any space-like
+slice $T$ not containing $O$. The set of future null geodesics (or the set of
+past null geodesics) forms a 2-sphere $S^2$ and the map $f$ sends a point in
+$S^2$ to the point in $T$ which is the intersection of the corresponding
+geodesic with $T$. To require that $f$, which maps a two dimensional space into
+a three dimensional space, satisfy the condition that any point in the image of
+$f$ has an odd number of preimages, is to place a very strong condition on $f$.
+This is exactly what happens in any case where the odd image theorem holds for
+a transparent gravitational lens. It is argued here that this condition on $f$
+is probably too restrictive to occur in general; and if it appears to hold in a
+specific example, then some $f$ should be calculated either analytically or
+numerically to provide either an illustrative example or counterexample.
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 21:27:41 GMT""}]","2015-06-25"
+"hep-lat/9402016",,"Seyong Kim, Aleksandar Kocic and John Kogut","Looking for the Logarithms in Four-Dimensional Nambu-Jona-Lasinio Models","25 pages, 14 ps figures","Nucl.Phys. B429 (1994) 407-430","10.1016/0550-3213(94)00260-6","ILL-(TH)-94-4","hep-lat hep-ph hep-th",,"  We study the problem of triviality in the four dimensional Nambu-Jona-Lasinio
+model with discrete chiral symmetry using both large-N expansions and lattice
+simulations. We find that logarithmic corrections to scaling appear in the
+equation of state as predicted by the large-N expansion. The data from $16^4$
+lattice simulations is sufficiently accurate to distinguish logarithmically
+trivial scaling from power law scaling. Simulations on different lattice sizes
+reveal an interesting interplay of finite size effects and triviality. We argue
+that such effects are qualitatively different for theories based on fundamental
+scalar rather than fermion fields. Several lessons learned here can be applied
+to simulations and analyses of more challenging field theories.
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 23:52:45 GMT""}]","2009-10-22"
+"hep-ph/9402331","Sergio Mendoza","Sergio Mendoza and Jack Smith (ITP, SUNY at Stony Brook)","Exclusive W + photon production in proton-antiproton collisions I:
+  general formalism","ITP-SB-93-72, 40 pages, LateX. 3*4 figures in separate file.
+  (mendoza@max.sunysb.edu) (smith@max.sunysb.edu)","Phys.Rev. D50 (1994) 226-250","10.1103/PhysRevD.50.226",,"hep-ph",,"  We present a detailed computation of the fully exclusive cross section of p +
+antip --> W + photon + X with X = 0 and 1 jet in the framework of the
+factorization theorem and dimensional regularization. Order alpha-strong and
+photon bremsstrahlung contributions are discussed in the MS-bar mass
+factorization scheme. The resulting expressions are ready to be implemented
+numerically using Monte Carlo techniques to compute single and double
+differential cross sections and correlations between outgoing pairs of
+particles.
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 16:37:11 GMT""}]","2009-10-28"
+"hep-ph/9402334","Alex Pomarol","Alex Pomarol","Top Radiative Corrections in Non-minimal Standard Models","9 pages, phyzzx file, UPR-0603T. (a new reference has been added)","Phys.Rev. D50 (1994) 7085","10.1103/PhysRevD.50.7085",,"hep-ph",,"  We derive the one-loop effective action induced by a heavy top in models with
+an extended Higgs sector. We use the effective action to analyze the top
+corrections to the $\rho$ parameter and to the Higgs-gauge boson couplings. We
+show that in models with $\rho\not=1$ at tree-level, one does not lose
+generally the bound on $m_t$ from the $\rho$ parameter.
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 23:51:47 GMT""},{""version"":""v2"",""created"":""Mon, 7 Mar 1994 20:12:47 GMT""}]","2009-10-28"
+"hep-ph/9402335","Raju","Larry McLerran and Raju Venugopalan","Green's Functions in the Color Field of a Large Nucleus","TPI-MINN-94-7/T, NUC-MINN-94-2/T,UMN-HEP-1242/T, LaTex, 21 pages","Phys.Rev.D50:2225-2233,1994","10.1103/PhysRevD.50.2225",,"hep-ph nucl-th",,"  We compute the Green's functions for scalars, fermions and vectors in the
+color field associated with the infinite momentum frame wavefunction of a large
+nucleus. Expectation values of this wavefunction can be computed by integrating
+over random orientations of the valence quark charge density. This relates the
+Green's functions to correlation functions of a two dimensional, ultraviolet
+finite, field theory. We show how one can compute the sea quark distribution
+functions, and explictly compute them in the kinematic range of transverse
+momenta, $\alpha_s^2 \mu^2 << k_t^2 << \mu^2$, where $\mu^2$ is the average
+color charge squared per unit area. When $m_{quark}^2 << \mu^2 \sim A^{1/3}$,
+the sea quark contribution to the infinite momentum frame wave function
+saturates at a value that is the same as that for massless sea quarks.
+","[{""version"":""v1"",""created"":""Tue, 22 Feb 1994 06:17:46 GMT""}]","2011-07-19"
+"hep-ph/9402336","Yan Mu-Lin","Mu-Lin Yan and Xing-He Meng","Second Order Perturbation Corrections to Baryon Mass Spectrum in
+  Skyrmion Quantum Mechanics","12 pages, no figure",,,"NS-USTC/93-50","hep-ph",,"  The corrections to the Gell-Mann-Okubo relations of baryon-masses are
+presented in the SU(3) Skyrme model. These corrections are calculated up to the
+second order in flavor breaking at the skyrmion quantum mechanics. The results
+are compatible with the experimental data. They could be regarded as a signal
+of existence of some obscure SU(3)-multiplets: 27-let(with spin 1/2 or
+3/2),10$^*$-let(with spin 1/2) and 35-let(with spin 3/2).
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 16:51:32 GMT""}]","2007-05-23"
+"hep-ph/9402337","G. Ecker","G. Ecker","Chiral invariant renormalization of the pion--nucleon interaction","13 pages, LaTex, 2 figures in appended postscript file, Univ. Wien
+  preprint UWThPh-1994-1","Phys.Lett. B336 (1994) 508-517","10.1016/0370-2693(94)90565-7",,"hep-ph nucl-th",,"  The leading divergences of the generating functional for Green functions of
+quark currents between one--nucleon states are calculated with heat kernel
+techniques. The results allow for a chiral invariant renormalization of all
+two--nucleon Green functions of the pion--nucleon system to $O(p^3)$ in the
+low--energy expansion.
+","[{""version"":""v1"",""created"":""Tue, 22 Feb 1994 13:04:15 GMT""}]","2009-10-28"
+"hep-ph/9402338","Sergio Mendoza","Sergio Mendoza and Jack Smith","Exclusive W^+ + photon production in proton-antiproton collisions II:
+  results","15 pages (LateX). 50 pages of postscript figures available via ftp
+  anonymous from max.physics.sunysb.edu in the directory
+  preprints/mendoza/EXCLUSIVE_W_GAMMA_II.dir (files named fig_*.ps)
+  ITP-SB-93-80. (mendoza@max.physics.sunysb.edu)(smith@max.physics.sunysb.edu)","Phys.Rev. D50 (1994) 251-265","10.1103/PhysRevD.50.251",,"hep-ph",,"  We present results for total cross sections, single and double differential
+distributions and correlations between pairs of outgoing particles in the
+reactions p + antip --> W^+ + photon and p + antip --> W^+ + photon + jet at
+sqrt(S)=1.8 TeV. Order alpha-strong QCD corrections and leading logarithm
+photon bremsstrahlung contributions are included in the MS-bar mass
+factorization scheme for three experimental scenarios: 1) 2-body inclusive
+production of W^+ and photon, 2) exclusive production of W^+, photon and 1 jet
+and 3) exclusive production of W^+ and photon with 0 jet.
+  The latest CTEQ parton distribution functions, which fit the newly released
+HERA data, are used in our analysis. The dependence of our results on the mass
+factorization scale is used to place error bars on our predictions for the
+single differential distributions and correlations.
+","[{""version"":""v1"",""created"":""Tue, 22 Feb 1994 15:44:41 GMT""}]","2009-10-28"
+"hep-th/9402119","David R. Morrison","Brian R. Greene, David R. Morrison and M. Ronen Plesser","Mirror Manifolds in Higher Dimension","44 pages plus 3 tables using harvmac","Commun.Math.Phys.173:559-598,1995","10.1007/BF02101657","CLNS-93/1253, IASSNS-HEP-94/2, YCTP-P31-92","hep-th alg-geom math.AG",,"  We describe mirror manifolds in dimensions different from the familiar case
+of complex threefolds. We emphasize the simplifying features of dimension three
+and supply more robust methods that do not rely on such special characteristics
+and hence naturally generalize to other dimensions. The moduli spaces for
+Calabi--Yau $d$-folds are somewhat different from the ``special K\""ahler
+manifolds'' which had occurred for $d=3$, and we indicate the new geometrical
+structures which arise. We formulate and apply procedures which allow for the
+construction of mirror maps and the calculation of order-by-order instanton
+corrections to Yukawa couplings. Mathematically, these corrections are expected
+to correspond to calculating Chern classes of various parameter spaces (Hilbert
+schemes) for rational curves on Calabi--Yau manifolds. Our results agree with
+those obtained by more traditional mathematical methods in the limited number
+of cases for which the latter analysis can be carried out. Finally, we make
+explicit some striking relations between instanton corrections for various
+Yukawa couplings, derived from the associativity of the operator product
+algebra.
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 23:01:41 GMT""}]","2011-10-11"
+"hep-th/9402120",,"C. Klimcik and A.A. Tseytlin","Exact four dimensional string solutions and Toda-like sigma models from
+  `null-gauged' WZNW theories","33 p., harvmac, Imperial/TP/93-94/17 (minor changes: few explanations
+  added)","Nucl.Phys.B424:71-96,1994","10.1016/0550-3213(94)90089-2",,"hep-th",,"  We construct a new class of exact string solutions with a four dimensional
+target space metric of signature ($-,+,+,+$) by gauging the independent left
+and right nilpotent subgroups with `null' generators of WZNW models for rank 2
+non-compact groups $G$. The `null' property of the generators (${\rm Tr }(N_n
+N_m)=0$) implies the consistency of the gauging and the absence of
+$\a'$-corrections to the semiclassical backgrounds obtained from the gauged
+WZNW models. In the case of the maximally non-compact groups ($G= SL(3),
+SO(2,2), SO(2,3), G_2$) the construction corresponds to gauging some of the
+subgroups generated by the nilpotent `step' operators in the Gauss
+decomposition. The rank 2 case is a particular example of a general
+construction leading to conformal backgrounds with one time-like direction. The
+conformal theories obtained by integrating out the gauge field can be
+considered as sigma model analogs of Toda models (their classical equations of
+motion are equivalent to Toda model equations). The procedure of `null gauging'
+applies also to other non-compact groups.
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 18:32:42 GMT""},{""version"":""v2"",""created"":""Sat, 23 Apr 1994 17:05:31 GMT""}]","2009-09-17"
+"hep-th/9402121","Grosche Christian","C.Grosche, G.S.Pogosyan and A.N.Sissakian","Path Integral Discussion for Smorodinsky-Winternitz Potentials: I.\ Two-
+  and Three Dimensional Euclidean Space","LaTeX 60 pages, DESY 94-018","Fortsch.Phys.43:453-521,1995","10.1002/prop.2190430602",,"hep-th",,"  Path integral formulations for the Smorodinsky-Winternitz potentials in two-
+and three-dimen\-sional Euclidean space are presented. We mention all
+coordinate systems which separate the Smorodinsky-Winternitz potentials and
+state the corresponding path integral formulations. Whereas in many coordinate
+systems an explicit path integral formulation is not possible, we list in all
+soluble cases the path integral evaluations explicitly in terms of the
+propagators and the spectral expansions into the wave-functions.
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 19:33:32 GMT""},{""version"":""v2"",""created"":""Tue, 22 Feb 1994 10:43:11 GMT""}]","2011-08-11"
+"hep-th/9402122","Mans Henningson","Mans Henningson","Mirror symmetry for the Kazama-Suzuki models","9 pages, IASSNS-HEP-94/13, (An erroneous statement concerning the
+  equivalence of vector and axial gauging has been corrected.)","Nucl.Phys. B423 (1994) 631-638","10.1016/0550-3213(94)90146-5",,"hep-th",,"  We study the $N = 2$ coset models in their formulation as supersymmetric
+gauged Wess-Zumino-Witten models. A model based on the coset $G/H$ is invariant
+under a symmetry group isomorphic to $\Z_{k+Q}$, where $k$ is the level of the
+model and $Q$ is the dual Coxeter number of $G$. Using a duality-like
+relationship, we show that the $\Z_m$ orbifold of the vectorially gauged model
+and the $\Z_{\tilde{m}}$ orbifold of the axially gauged model are each others
+mirror partners when $m \tilde{m} = k + Q$.
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 22:08:45 GMT""},{""version"":""v2"",""created"":""Wed, 13 Apr 1994 14:24:53 GMT""}]","2009-10-28"
+"nucl-th/9402024","Barabanov A. L.","A.L.Barabanov","Fission fragment orientation and gamma ray emission anisotropy","17 pages of text (LATEX), 5 figures (not included, available from the
+  author), Preprint IAE-5670/2, 1993",,,,"nucl-th",,"  Experimental data on angular distributions of gamma rays emitted from binary
+and ternary spontaneous fission of $^{252}{\rm Cf}$ are analyzed. Their
+difference indicates that the alignment of fragments is higher in ternary
+fission than in binary one. The consequences of possible relation between the
+mechanism of ternary fission and the excitation of collective modes during the
+saddle-to-scission stage are discussed.
+","[{""version"":""v1"",""created"":""Tue, 22 Feb 1994 11:52:08 GMT""}]","2009-09-25"

@@ -1,0 +1,498 @@
+"astro-ph/9405012","Avi Loeb","Daniel J. Eisenstein and Abraham Loeb","An Analytical Model for the Triaxial Collapse of Cosmological
+  Perturbations","42 pages, Tex, followed by 10 uuencoded figures","Astrophys.J. 439 (1995) 520","10.1086/175193",,"astro-ph",,"  We present an analytical model for the non-spherical collapse of overdense
+regions out of a Gaussian random field of initial cosmological perturbations.
+The collapsing region is treated as an ellipsoid of constant density, acted
+upon by the quadrupole tidal shear from the surrounding matter. The dynamics of
+the ellipsoid is set by the ellipsoid self-gravity and the external quadrupole
+shear. Both forces are linear in the coordinates and therefore maintain
+homogeneity of the ellipsoid at all times. The amplitude of the external shear
+is evolved into the non-linear regime in thin spherical shells that are allowed
+to move only radially according to the mass interior to them. We describe how
+the initial conditions can be drawn in the appropriate correlated way from a
+random field of initial density perturbations. By considering many random
+realizations of the initial conditions, we calculate the distribution of shapes
+and angular momenta acquired by objects through the coupling of their
+quadrupole moment to the tidal shear. The average value of the spin parameter,
+0.04, is found to be only weakly dependent on the system mass, the mean
+cosmological density, or the initial power spectrum of perturbations, in
+agreement with N-body simulations. For the cold dark matter power spectrum,
+most objects evolve from a quasi-spherical initial state to a pancake or
+filament and then to complete virialization. Low-spin objects tend to be more
+spherical. The evolution history of shapes is primarily induced by the external
+shear and not by the initial triaxiality of the objects. The statistical
+distribution of the triaxial shapes of collapsing regions can be used to test
+cosmological models against galaxy surveys on large scales.
+","[{""version"":""v1"",""created"":""Thu, 5 May 1994 19:04:06 GMT""}]","2009-10-22"
+"astro-ph/9405013",,"Takamitsu Miyaji, Ofer Lahav, Keith Jahoda, Elihu Boldt","The Cosmic X-ray Background -- IRAS galaxy Correlation and the Local
+  X-ray Volume Emissivity","23 pages 4 PS figures upon request (miyaji@lheavx.gsfc.nasa.gov),
+  LaTeX (AAS Macros Included)",,"10.1086/174744","GSFC/LHEA preprint X-Ray: 94-6","astro-ph",,"  We have cross-correlated the galaxies from the IRAS 2 Jy redshift survey
+sample and the 0.7 Jy projected sample with the all-sky cosmic X-ray background
+(CXB) map obtained from the HEAO-1 A2 experiment. We have developed a
+formulation to model the cross-correlation between CXB surface brightness and
+galaxy counts. This includes the effects of source clustering and the X-ray --
+far infrared luminosity correlation. Using an X-ray flux limited sample of
+AGNs, which has IRAS 60 $\mu m$ measurements, we have estimated the
+contribution of the AGN component to the observed CXB -- IRAS galaxy count
+correlations in order to see whether there is an excess component, i.e.
+contribution from low X-ray luminosity sources. We have applied both the
+analytical approach and Monte-Carlo simulations for the estimations. Our
+estimate of the local X-ray volume emissivity in the 2 -- 10 keV band is
+consistent with the value expected from the luminosity function of AGNs alone
+and the contribution to the local volume emissivity from lower-luminosity
+sources is small.
+","[{""version"":""v1"",""created"":""Thu, 5 May 1994 19:10:22 GMT""}]","2009-10-22"
+"astro-ph/9405014","Maggie Best","Hans-Walter Rix, Dan Maoz, Edwin L. Turner and Masataka Fukugita","Galaxy Mergers and Gravitational Lens Statistics","uuencoded postscript file with figures","Astrophys.J. 435 (1994) 49","10.1086/174792","Institute for Advanced Study number AST 94/16","astro-ph",,"  We investigate the impact of hierarchical galaxy merging on the statistics of
+gravitational lensing of distant sources. Since no definite theoretical
+predictions for the merging history of luminous galaxies exist, we adopt a
+parametrized prescription, which allows us to adjust the expected number of
+pieces comprising a typical present galaxy at z=0.65. The existence of global
+parameter relations for elliptical galaxies and constraints on the evolution of
+the phase space density in dissipationless mergers, allow us to limit the
+possible evolution of galaxy lens properties under merging.
+  We draw two lessons from implementing this lens evolution into statistical
+lens calculations: (1) The total optical depth to multiple imaging (e.g. of
+quasars) is quite insensitive to merging. (2) Merging leads to a smaller mean
+separation of observed multiple images. Because merging does not reduce
+drastically the expected lensing frequency it cannot make $\lambda$-dominated
+cosmologies compatible with the existing lensing observations. A comparison
+with the data from the HST Snapshot Survey shows that models with little or no
+evolution of the lens population are statistically favored over strong merging
+scenarios. The specific merging scenario proposed by Toomre (1977) can be
+rejected (95\% level) by such a comparison. Some versions of the scenario
+proposed by Broadhurst, Ellis \& Glazebrook (1992), are statistically
+acceptable.
+","[{""version"":""v1"",""created"":""Thu, 5 May 1994 20:12:08 GMT""}]","2019-08-17"
+"astro-ph/9405015","Joshua A. Frieman","J. Frieman, D. Harari, and G. Surpi","Gravitational Lens Time Delays and Gravitational Waves","22 pages in REVTEX 3.0 (previous versions may not have TeXed due to
+  Unix mailer problems)","Phys.Rev.D50:4895-4902,1994","10.1103/PhysRevD.50.4895",,"astro-ph gr-qc",,"  Using Fermat's principle, we analyze the effects of very long wavelength
+gravitational waves upon the images of a gravitationally lensed quasar. We show
+that the lens equation in the presence of gravity waves is equivalent to that
+of a lens with different alignment between source, deflector, and observer in
+the absence of gravity waves. Contrary to a recent claim, we conclude that
+measurements of time delays in gravitational lenses cannot serve as a method to
+detect or constrain a stochastic background of gravitational waves of
+cosmological wavelengths, because the wave-induced time delay is
+observationally indistinguishable from an intrinsic time delay due to the lens
+geometry.
+","[{""version"":""v1"",""created"":""Fri, 6 May 1994 05:58:51 GMT""},{""version"":""v2"",""created"":""Tue, 10 May 1994 03:45:39 GMT""},{""version"":""v3"",""created"":""Tue, 10 May 1994 20:36:17 GMT""}]","2011-09-09"
+"cond-mat/9405011","Matias Moreno","M. Moreno, R. M. M\'endez-Moreno, S. Orozco and M. A. Ort\'iz and M.
+  de Llano","Exotic and conventional superconductivity in a Dirac supersymmetric
+  scheme","pp.13, LATEX",,,"IFUNAM-FT94-45","cond-mat hep-th",,"  A new pairing theory for many-fermion systems is obtained via the Dirac
+supersymmetry framework recently introduced to describe Dirac particles in
+external potentials. It is shown that the standard Bogoliubov-Valatin canonical
+transformation treatment of the quasi-particle BCS singlet pairing mechanism
+naturally falls within this framework. Straightforward generalizations in which
+the fermions can be ascribed $ \nu$ {\it components} are shown to lead to
+enhanced gap energies and critical temperatures as in the case of cuprate
+superconductors without invoking a stronger electron-boson coupling. The new
+$T_{c}^{max}$ limit is $T_c^{max} = \nu T_c^{BCS}$, with $T_c^{BCS} \approx
+40^0 K$.
+","[{""version"":""v1"",""created"":""Thu, 5 May 1994 19:47:04 GMT""}]","2016-08-14"
+"cond-mat/9405012","Iwan Jensen","Iwan Jensen","Critical behavior of nonequilibrium models with infinitely many
+  absorbing states","13 pages (5 uuencoded PostScript figures appended), LaTeX",,"10.1142/S021797929400138X",,"cond-mat",,"  I study the critical behavior of a two-dimensional dimer-trimer lattice
+model, introduced by K\""{o}hler and ben-Avraham [J. Phys. A {\bf 24}, L621
+(1991)], for heterogeneous catalysis of the reaction
+$\frac{1}{2}A_{2}+\frac{1}{3}B_{3} \rightarrow AB$. The model possesses
+infinitely many absorbing states in which the lattice is saturated by adsorbed
+particles and reactions cease because only isolated vacancies are left. Results
+for various critical exponents show that the model exhibits the same critical
+behavior as directed percolation, contrary to earlier findings by K\""{o}hler
+and ben-Avraham. Together with several other studies, reviewed briefly in this
+article, this confirms that directed percolation is the generic universality
+class for models with infinitely many absorbing states.
+","[{""version"":""v1"",""created"":""Fri, 6 May 1994 00:04:47 GMT""}]","2015-06-25"
+"cond-mat/9405013","Rudolph A Romer","Bill Sutherland, Rudolf A. R\""omer and B. Sriram Shastry","Exact Solution of a One-Dimensional Multicomponent Lattice Gas with
+  Hyperbolic Interaction","13 REVTeX pages + 5 uuencoded figures, UoU-0030594",,"10.1103/PhysRevLett.73.2154",,"cond-mat",,"  We present the exact solution to a one-dimensional multicomponent quantum
+lattice model interacting by an exchange operator which falls off as the
+inverse-sinh-square of the distance. This interaction contains a variable range
+as a parameter, and can thus interpolate between the known solutions for the
+nearest-neighbor chain, and the inverse-square chain. The energy,
+susceptibility, charge stiffness and the dispersion relations for low-lying
+excitations are explicitly calculated for the absolute ground state, as a
+function of both the range of the interaction and the number of species of
+fermions.
+","[{""version"":""v1"",""created"":""Fri, 6 May 1994 02:45:26 GMT""}]","2016-08-14"
+"cond-mat/9405014","Vladimir Valtchinov","T. Ivanov, V. Valtchinov, and L. T. Wille","Effect of the Coulomb repulsion on the {\it ac} transport through a
+  quantum dot","13 pages, REVTEX 3.0, 2 .ps figures from vladimir@margo.cas.neu.edu,
+  NUB-3087",,"10.1103/PhysRevB.50.4917",,"cond-mat",,"  We calculate in a linear response the admittance of a quantum dot out of
+equilibrium. The interaction between two electrons with opposite spins
+simultaneously residing on the resonant level is modeled by an Anderson
+Hamiltonian. The electron correlations lead to the appearence of a new feature
+in the frequency dependence of the conductance. For certain parameter values
+there are two crossover frequencies between a capacitive and an inductive
+behavior of the imaginary part of the admittance. The experimental implications
+of the obtained results are briefly discussed.
+","[{""version"":""v1"",""created"":""Fri, 6 May 1994 04:48:59 GMT""}]","2009-10-22"
+"cond-mat/9405015","Eric Suraud","F.S. Zhang, F. Spiegelmann, E. Suraud, V. Fraysse, R. Poteau, R.
+  Glowinski and F. Chatelin","On the Formation of Transient (Na$_{19}$)$_2$ and (Na$_{20}$)$_2$
+  Cluster Dimers from Molecular Dynamics Simulations","13 pages plain Latex, 5 figures avalaible upon request, Report
+  TR/CC/94/09",,"10.1016/0375-9601(94)00594-X",,"cond-mat",,"  By using tight binding molecular dynamics simulations, we discuss the
+possibilities to form (Na$_{19}$)$_2$ and (Na$_{20}$)$_2$ cluster dimers in
+sodium cluster collisions. In the case of Na$_{19}$ + Na$_{19}$, we show that
+the formation of a prolate dimer-like (Na$_{19}$)$_2$ maybe depend on the
+initial relative orientations of the colliding clusters. A similar study for
+Na$_{20}$ + Na$_{20}$ does not seem to show the same dependence on the initial
+orientations in the formation of the (Na$_{20}$)$_2$ cluster dimer.
+","[{""version"":""v1"",""created"":""Fri, 6 May 1994 10:25:35 GMT""}]","2009-10-22"
+"cond-mat/9405016",,"Shao-Ming Fei and Rui-Hong Yue","Generalized $t$-$j$ Model","13 page, Latex, to appear in J. Phys. A",,"10.1088/0305-4470/27/11/021",,"cond-mat hep-th",,"  By parameterizing the t-j model we present a new electron correlation model
+with one free parameter for high-temperature superconductivity. This model is
+of $SU_{q}(1,2)$ symmetry. The energy spectrums are shown to be modulated by
+the free parameter in the model. The solution and symmetric structures of the
+Hilbert space, as well as the Bethe ansatz approach are discussed for special
+cases.
+","[{""version"":""v1"",""created"":""Fri, 6 May 1994 09:33:46 GMT""}]","2009-10-22"
+"cond-mat/9405017","Erika Zynda","Frank Wilczek and Chetan Nayak","Exclusion Statistics: Low-Temperature Properties, Fluctuations, Duality,
+  Applications","14 pages, no figures, use Phyzzx, IASSNS-HEP 94/25, PUPT 1466",,,,"cond-mat",,"  We derive some physical properties of ideal assemblies of identical particles
+obeying generalized exclusion statistics. We discuss fluctuations, and in this
+connection point out a fundamental contrast to conventional quantum statistics.
+We demonstrate a duality relating the distribution of particles at statistics
+$g$ to the distribution of holes at statistics $1/g$. We suggest applications
+to Mott insulators.
+","[{""version"":""v1"",""created"":""Fri, 6 May 1994 13:09:48 GMT""},{""version"":""v2"",""created"":""Tue, 21 Jun 1994 13:00:29 GMT""}]","2008-02-03"
+"gr-qc/9405011","M. Rainer","U. Bleyer, M. Rainer, A. Zhuk","Classical and Quantum Solutions of Conformally Related Multidimensional
+  Cosmological Models","23+1 pages LaTEX, 1 figure, (WordPerfect 6.0 file for the figure
+  appended, if this can not be processed a hardcopy of the figure can also be
+  requested from: ubleyer@aip.de )",,,,"gr-qc",,"  Consider multidim. universes M= R x M_1 x ... x M_n with D = 1+ d_1 .. + d_n,
+where M_i of dimension d_i are of have constant curvature and compact for i>1.
+For Lagrangian models L(R,phi) on M which depend only on Ricci curvature R and
+a scalar field phi, there exists an explicit description of conformal
+equivalence, with the minimal coupling model and the conformal coupling model
+as distinguished representatives of a conformal class. For the conformally
+coupled model we study classical solutions and their relation to solutions in
+the equivalent minimally coupled model. The domains of equivalence are
+separated by certain critical values of the scalar field phi. Furthermore the
+coupling constant xi of the coupling between phi and R is critical at both, the
+minimal value xi=0 and the conformal value xi_c={D-2}/{4(D-1)}. In different
+noncritical regions of $xi$ the solutions behave qualitatively different. For
+vanishing potential of the minimally coupled scalar field we find a
+multidimensional generalization of Kasner's solution. Its scale factor
+singularity vanishes in the conformal coupling model. Static internal spaces in
+the minimal model become dynamical in the conformal one. The nonsingular
+conformal solution has a particular interesting region, where internal spaces
+shrink while the external space expands. While the Lorentzian solution relates
+to a creation of the universe at finite scale, it Euclidean counterpart is an
+(instanton) wormhole. Solving the Wheeler de Witt equation we obtain the
+quantum counterparts to the classical solutions. A real Euclidean quantum
+wormhole is obtained in a special case.
+","[{""version"":""v1"",""created"":""Thu, 5 May 1994 19:38:30 GMT""}]","2009-09-25"
+"gr-qc/9405012","Pavol Kolnik","C. Klimcik, P. Kolnik, and A. Pompos","Non-commutative black holes in $D$ dimensions","15 pp., LaTeX, preprint PRA-HEP-94/5",,,,"gr-qc",,"  Recently introduced classical theory of gravity in non-commutative geometry
+is studied. The most general (four parametric) family of $D$ dibensional static
+spherically symmetric spacetimes is identified and its properties are studied
+in detail. For wide class of the choices of parameters, the corresponding
+spacetimes have the structure of asymptotically flat black holes with a smooth
+event horizon hiding the curvature singularity. A specific attention is devoted
+to the behavior of components of the metric in non-commutative direction, which
+are interpreted as the black hole hair.
+","[{""version"":""v1"",""created"":""Fri, 6 May 1994 10:10:20 GMT""}]","2007-05-23"
+"gr-qc/9405013","Genadi A. Sardanashvily","G. Sardanashvily","Gravity as a Higgs Field. I.the Geometric Equivalence Principle","20 pages, LaTeX file",,,,"gr-qc",,"  {\it If gravity is a metric field by Einstein, it is a Higgs field.}
+Gravitation theory meets spontaneous symmetry breaking in accordance with the
+Equivalence Principle reformulated in the spirit of Klein-Chern geometries of
+invariants. In gravitation theory, the structure group of the principal linear
+frame bundle $LX$ over a world manifold $X^4$ is reducible to the connected
+Lorentz group $SO(3,1)$. The physical underlying reason of this reduction is
+Dirac fermion matter possessing only exact Lorentz symmetries. The associated
+Higgs field is a tetrad gravitational field $h$ represented by a global section
+of the quotient $\Si$ of $LX$ by $SO(3,1)$. The feature of gravity as a Higgs
+field issues from the fact that, in the presence of different tetrad fields,
+Dirac fermion fields are described by spinor bundles associated with different
+reduced Lorentz subbundles of $LX$, and we have nonequivalent representations
+of cotangent vectors to $X^4$ by Dirac's matrices. It follows that a fermion
+field must be regarded only in a pair with a certain tetrad field. These pairs
+fail to be represented by sections of any product bundle $S\times\Si$, but
+sections of the composite spinor bundle $S\to\Si\to X^4$. They constitute the
+so-called fermion-gravitation complex where values of tetrad gravitational
+fields play the role of coordinate parameters, besides the familiar world
+coordinates. In Part 1 of the article, geometry of the fermion-gravitation
+complex is investigated. The goal is the total Dirac operator into which
+components of a connection on $S\to\Si$ along tetrad coordinate directions make
+contribution. The Part II will be devoted to dynamics of fermion-gravitation
+complex. It is a constraint system to describe which we use the covariant
+multisymplectic generalization of the Hamiltonian formalism when canonical
+momenta correspond to derivatives of fields with respect to all world
+coordinates, not only the time.
+","[{""version"":""v1"",""created"":""Fri, 6 May 1994 14:26:38 GMT""}]","2007-05-23"
+"gr-qc/9405014","Peter Breitenlohner","P. Breitenlohner and D. Maison","On the Limiting Solution of the Bartnik-McKinnon Family","7 pages, MPI PhT/94-20","Commun.Math.Phys.171:685-690,1995","10.1007/BF02104684",,"gr-qc",,"  We analyze the limiting solution of the Bartnik-McKinnon family and show that
+its exterior is an extremal Reissner-Nordstr{\o}m black hole and not a new type
+of non-abelian black hole as claimed in a recent article by Smoller and
+Wasserman.
+","[{""version"":""v1"",""created"":""Fri, 6 May 1994 15:58:16 GMT""}]","2010-11-01"
+"gr-qc/9405018","U. Bleyer","U. Bleyer, V. Ivashchuk","Mass Bounds for Multidimensional Charged Dilatonic Black Holes","11 pages, 1 figure available on request from ubleyer@aip.de, LaTeX,
+  Potsdam University, AIP 94-05","Phys.Lett.B332:292-296,1994","10.1016/0370-2693(94)91256-4",,"gr-qc",,"  The multidimensional charged dilatonic black hole solution with $n$ internal
+Ricci-flat spaces is considered. The bound on the mass of the black hole is
+obtained. In the strong dilatonic coupling limit the critical mass becomes
+zero. The case $n = \infty$ is also considered.
+","[{""version"":""v1"",""created"":""Fri, 6 May 1994 13:36:24 GMT""}]","2014-11-17"
+"gr-qc/9405019","U. Bleyer","U. Bleyer, A. Zhuk","Classical and Quantum Behaviour of Multidimensional Integrable
+  Cosmologies","33 pages, 13 figures available on request from ubleyer@aip.de, LaTeX,
+  Potsdam University, preprint Free University Berlin FUB-HEP/94-1",,,,"gr-qc",,"  Multidimensional cosmological models with $n~(n > 1)$ Einstein spaces are
+discussed classically and with respect to canonical quantization. These models
+are integrable in the case of Ricci flat internal spaces. For negative
+curvature of the external space we find exact classical solutions modelling
+dynamical as well as spontaneous compactification of the internal spaces.
+Spontaneous compactification turns out to be an attractor solution. Solutions
+of the quantum Wheeler-DeWitt equation are also obtained. Some of them describe
+the tunneling process to be interpreted as the birth of the universe from
+''nothing''.
+","[{""version"":""v1"",""created"":""Fri, 6 May 1994 13:41:59 GMT""}]","2009-09-25"
+"gr-qc/9405020","U. Bleyer","U. Bleyer, V. D. Ivashchuk, V. N. Melnikov, A. Zhuk","Multidimensional Classical and Quantum Wormholes in Models with
+  Cosmological Constant","31 pages, 5 figures available on request from ubleyer@aip.de, LaTeX,
+  Potsdam University, preprint AIP 94-06","Nucl.Phys. B429 (1994) 177-204","10.1016/S0550-3213(94)80046-4",,"gr-qc",,"  A multidimensional cosmological model with space-time consisting of $n (n \ge
+2)$ Einstein spaces $M_{i}$ is investigated in the presence of a cosmological
+constant $\Lambda$ and a homogeneous minimally coupled scalar field
+$\varphi(t)$ as a matter source. Classical and quantum wormhole solutions are
+obtained for $\Lambda < 0$ and all $M_{i}$ being Ricci-flat. Classical wormhole
+solutions are also found for $\Lambda < 0$ and only one of the $M_{i}$ being
+Ricci-flat for the case of spontaneous compactification of the internal
+dimensions with fine tuning of parameters.
+","[{""version"":""v1"",""created"":""Fri, 6 May 1994 13:44:36 GMT""}]","2009-10-22"
+"hep-lat/9405006","Graham Boyd","G. Boyd, Sourendu Gupta, F. Karsch and E. Laermann","Spatial and Temporal Hadron Correlators below and above the Chiral Phase
+  Transition","19 pages HLRZ 54/93, BI-TP 93/76, TIFR/TH/94-12","Z.Phys. C64 (1994) 331-338","10.1007/BF01557406",,"hep-lat",,"  Hadronic correlation functions at finite temperature in QCD, with four
+flavours of dynamical quarks, have been analyzed both above and below the
+chiral symmetry restoration temperature. We have used both point and extended
+sources for spatial as well as temporal correlators. The effect of periodic
+temporal boundary conditions for the valence quarks on the spatial meson
+correlators has also been investigated. All our results are consistent with the
+existence of individual quarks at high temperatures. A measurement of the
+residual interaction between the quarks is presented.
+","[{""version"":""v1"",""created"":""Fri, 6 May 1994 10:15:51 GMT""}]","2009-10-22"
+"hep-lat/9405007","Ray Renken","Ray Renken","The Block Spin Renormalization Group Approach and Two-Dimensional
+  Quantum Gravity","10 pages","Phys.Rev.D50:5130-5136,1994","10.1103/PhysRevD.50.5130",,"hep-lat",,"  A block spin renormalization group approach is proposed for the dynamical
+triangulation formulation of two-dimensional quantum gravity. The idea is to
+update link flips on the block lattice in response to link flips on the
+original lattice. Just as the connectivity of the original lattice is meant to
+be a lattice representation of the metric, the block links are determined in
+such a way that the connectivity of the block lattice represents a block
+metric. As an illustration, this approach is applied to the Ising model coupled
+to two-dimensional quantum gravity. The correct critical coupling is
+reproduced, but the critical exponent is obscured by unusually large finite
+size effects.
+","[{""version"":""v1"",""created"":""Fri, 6 May 1994 14:36:51 GMT""}]","2011-09-09"
+"hep-ph/9405235",,"Gautam Bhattacharyya and Amitava Raychaudhuri","Chasing the light-gluino scenario through $b\rightarrow s \gamma$","Latex, 8 pages + 1 Figure available upon request, CERN-TH. 7245/94,
+  DAMTP 94-31","Phys.Rev. D51 (1995) 2433","10.1103/PhysRevD.51.2433",,"hep-ph",,"  We investigate the impact of a light gluino, which might have escaped
+detection at colliders, on inclusive radiative $B$-decays mediated through
+penguin-like diagrams. We find that the viability of the scenario depends
+largely on the magnitude of the flavour-violating $c$-parameter. Some
+previously allowed regions of parameter space are now ruled out.
+","[{""version"":""v1"",""created"":""Thu, 5 May 1994 19:44:56 GMT""}]","2009-10-28"
+"hep-ph/9405236","Ramona Vogt","R. Vogt and S. J. Brodsky","QCD and Intrinsic Heavy Quark Predictions for Leading Charm and Beauty
+  Hadroproduction","16 pages LaTeX with 6 postscript figures available upon request,
+  LBL-35380, SLAC-PUB-6468","Nucl.Phys.B438:261-277,1995","10.1016/0550-3213(94)00543-N",,"hep-ph nucl-th",,"  Recent experiments at Fermilab and CERN have observed a strong asymmetry
+between the hadroproduction cross sections of leading $D$ mesons, containing
+projectile valence quarks, and nonleading charmed mesons, without projectile
+valence quarks. The observed correlations of the $\pi^{\pm} N \to D^\pm X$
+cross section with the projectile charge violates the usual assumption that
+heavy quark jet fragmentation factorizes. We examine the asymmetry between
+leading and nonleading charm production as a function of $x_f$ and $p_T^2$
+assuming a two-component model combining leading-twist fusion subprocesses and
+charm production from intrinsic heavy quark Fock states. We predict a sizable
+asymmetry at low $p_T^2$ and high $x_f$ from coalescence of the charm quarks
+with the comoving spectator quarks of the projectile. An intrinsic $c \overline
+c$ production cross section of 0.5 $\mu$b is sufficient to explain both the
+magnitude and kinematic dependence of the asymmetry. In contrast, the charm jet
+hadronization mechanisms contained in PYTHIA predict a sizeable leading charm
+asymmetry even at low $x_F.$ The two-component model is extended to predict the
+asymmetry in $B$ meson production in proton-proton and pion-proton
+interactions.
+","[{""version"":""v1"",""created"":""Thu, 5 May 1994 19:57:04 GMT""}]","2009-09-25"
+"hep-ph/9405237","Erasmo Ferreira","H.G. Dosch, Erasmo Ferreira, A. Kr\""amer","Non-Perturbative QCD Treatment of High-Energy Hadron-Hadron Scattering","60 pages, Heidelberg preprint","Phys.Rev.D50:1992-2015,1994","10.1103/PhysRevD.50.1992",,"hep-ph",,"  Total cross-sections and logarithmic slopes of the elastic scattering
+cross-sections for different hadronic processes are calculated in the framework
+of the model of the stochastic vacuum. The relevant parameters of this model, a
+correlation length and the gluon condensate, are determined from scattering
+data, and found to be in very good agreement with values coming from completely
+different sources of information. A parameter-free relation is given between
+total cross-sections and slope parameters, which is shown to be remarkably
+valid up to the highest energies for which data exist.
+","[{""version"":""v1"",""created"":""Thu, 5 May 1994 18:51:10 GMT""}]","2009-09-25"
+"hep-ph/9405238",,"P. Geiger and E.S. Swanson","Distinguishing Among Strong Decay Models","20 pages, uuencoded postscript file with 7 figures, MIT-CTP-2295;
+  CMU-HEP94-15","Phys.Rev. D50 (1994) 6855-6862","10.1103/PhysRevD.50.6855",,"hep-ph",,"  Two competing models for strong hadronic decays, the $^3P_0$ and $^3S_1$
+models, are currently in use.
+  Attempts to rule out one or the other have been hindered by a poor
+understanding of final state interactions and by ambiguities in the treatment
+of relativistic effects.
+  In this article we study meson decays in both models, focussing on certain
+amplitude ratios for which the relativistic uncertainties largely cancel out
+(notably the $S/D$ ratios in $b_1\rightarrow\pi\omega$ and
+$a_1\rightarrow\pi\rho$), and using a Quark Born Formalism to estimate the
+final state interactions.
+  We find that the $^3P_0$ model is strongly favoured.
+  In addition, we predict a $P/F$ amplitude ratio of $1.6\pm .2$ for the decay
+$\pi_2\rightarrow\pi\rho$.
+  We also study the parameter-dependence of some individual amplitudes (as
+opposed to amplitude ratios), in an attempt to identify a ``best'' version of
+the $^3P_0$ model.
+","[{""version"":""v1"",""created"":""Thu, 5 May 1994 20:20:41 GMT""}]","2009-10-28"
+"hep-ph/9405239",,"Hisakazu Minakata and Hiroshi Nunokawa","Testing the Principle of Equivalence by Solar Neutrinos","Latex, 17 pages + 6 uuencoded postscript figures, KEK-TH-396,
+  TMUP-HEL-9402 (unnecessary one reference was removed)","Phys.Rev. D51 (1995) 6625-6634","10.1103/PhysRevD.51.6625",,"hep-ph",,"  We discuss the possibility of testing the principle of equivalence with solar
+neutrinos. If there exists a violation of the equivalence principle quarks and
+leptons with different flavors may not universally couple with gravity. The
+method we discuss employs a quantum mechanical phenomenon of neutrino
+oscillation to probe into the non-universality of the gravitational couplings
+of neutrinos. We develop an appropriate formalism to deal with neutrino
+propagation under the weak gravitational fields of the sun in the presence of
+the flavor mixing. We point out that solar neutrino observation by the next
+generation water Cherenkov detectors can improve the existing bound on
+violation of the equivalence principle by 3-4 orders of magnitude if the
+nonadiabatic Mikheyev-Smirnov-Wolfenstein mechanism is the solution to the
+solar neutrino problem.
+","[{""version"":""v1"",""created"":""Fri, 6 May 1994 00:43:36 GMT""},{""version"":""v2"",""created"":""Fri, 6 May 1994 18:07:19 GMT""}]","2009-10-28"
+"hep-ph/9405240","Edmond Iancu","Jean-Paul Blaizot and Edmond Iancu","Gauge Structure and Semi-Classical Aspects of Hard Thermal Loops","16 pages LaTex, Saclay preprint T94/03","Nucl.Phys.B434:662-674,1995","10.1016/0550-3213(94)00496-2",,"hep-ph",,"  Hard thermal loops play a central role in the theory of long wavelength
+excitations of a quark-gluon plasma. We show in this paper how our recent
+derivation of their generating functional from the Dyson-Schwinger equations
+sheds light on their semi-classical nature and their remarkable gauge
+structure. In particular, we show that our kinetic equations can be written in
+terms of auxiliary gauge fields with zero curvature. Remarkably, the latter
+property determines entirely the dynamics in the kinematical regime of hard
+thermal loops. This explains in particular why the generating functional could
+have been obtained by Taylor and Wong from gauge invariance considerations. It
+also clarifies the role of Chern-Simons theory in this context.
+","[{""version"":""v1"",""created"":""Fri, 6 May 1994 09:18:40 GMT""}]","2010-11-01"
+"hep-ph/9405241","Matteo Cacciari","M. Cacciari and M. Greco","J/psi Production via Fragmentation at the Tevatron","LaTeX, 7 pages. Preprint FNT/T-94/13, LNF-94/024(P). Data taken from
+  a reference were incorrect and have been changed. Complete postscript file
+  available via anonymous ftp at cobra1.pv.infn.it, as pub/jpsi.ps(.Z)(.gz)","Phys.Rev.Lett. 73 (1994) 1586-1589","10.1103/PhysRevLett.73.1586",,"hep-ph",,"  The production of $\jpsi$ at large transverse momenta ($\pt > M_\jpsi$) in
+$p\bar p$ collisions is considered by including the mechanism of fragmentation.
+Both contributions of fragmentation to $\jpsi$ and of fragmentation to $\chi$
+states followed by radiative decay to $\jpsi$ are taken into account. The
+latter is found to be dominant and larger than direct production. The overall
+theoretical estimate is shown to be nearly consistent with the experimental
+observation.
+","[{""version"":""v1"",""created"":""Fri, 6 May 1994 09:54:25 GMT""},{""version"":""v2"",""created"":""Tue, 31 May 1994 09:29:19 GMT""}]","2009-10-28"
+"hep-ph/9405242","Debajyoti Choudhury","Debajyoti Choudhury and Saurabh D. Rindani","Test of $CP$ Violating Neutral Gauge Boson Vertices in $ e^+ e^-
+  \rightarrow \gamma Z $","12 pages (LaTeX), 4 figures (uuencoded postscript file submitted
+  through `figures option'), MPI preprint MPI-PhT/94-21 (Original version
+  corrupted by mailer. Hence the replacement.)","Phys.Lett.B335:198-204,1994","10.1016/0370-2693(94)91413-3",,"hep-ph",,"  Forward-backward asymmetry in the process $e^+ e^- \rightarrow \gamma Z$ is
+proposed as a test for $CP$--violating anomalous $\gamma \gamma Z$ and $ \gamma
+Z Z$ couplings. Longitudinally polarized electron beams may be used to
+disentangle the effects of these couplings. We estimate possible limits that
+can be obtained from $e^+ e^-$ colliders at centre-of-mass energies of 200 GeV
+and 500 GeV.
+","[{""version"":""v1"",""created"":""Fri, 6 May 1994 13:24:19 GMT""}]","2010-11-01"
+"hep-ph/9405243","W. James Stirling","Yu.L. Dokshitzer, V.A. Khoze and W.J. Stirling","Gluon Radiation and Energy Losses in Top Quark Production","17 pages, 3 figures (not included)","Nucl.Phys.B428:3-18,1994","10.1016/0550-3213(94)90188-0",,"hep-ph",,"  The emission of energetic gluons in $\tt$ production in $\ee$ annihilation
+can have important experimental consequences, in particular on top quark mass
+measurements. We present compact, analytical expressions for the gluon energy
+distribution and its average value at first order in QCD perturbation theory.
+Our results are valid for arbitrary masses, collision energies and production
+currents. We pay particular attention to top quark production near threshold,
+and show that in certain cases the soft gluon approximation is insufficient to
+describe the radiation spectrum.
+","[{""version"":""v1"",""created"":""Fri, 6 May 1994 11:07:51 GMT""}]","2014-11-17"
+"hep-ph/9405249","Dmitri Kazakov","D.I.Kazakov","On a Possible Explanation of the Origin of the Quark Mass Spectrum","6 pages, LATEX, JINR preprint E2-94-162",,,,"hep-ph",,"  Contrary to the usual case when the quark mass spectrum is defined by that of
+the quark Yukawa couplings while the vacuum expectation value of the Higgs
+field remains universal, we suggest to consider the opposite situation. Each
+generation of quarks and leptons is associated with its own Higgs doublet,
+while the Yukawa couplings are the same. This situation naturally arises in the
+framework of finite supersymmetric Grand Unification scenario. Nondegeneracy of
+the quark mass spectrum is then due to asymmetric vacuum expectation values
+which spontaneously break the discrete flavour symmetry in the Higgs sector.
+","[{""version"":""v1"",""created"":""Fri, 6 May 1994 14:16:21 GMT""}]","2007-05-23"
+"hep-th/9405035","Maxim Kontsevich","M. Kontsevich","Enumeration of rational curves via torus actions","several errors in formulas are corrected",,,,"hep-th alg-geom math.AG",,"  This paper contains an attempt to formulate rigorously and to check
+predictions in enumerative geometry of curves following from Mirror Symmetry.
+The main tool is a new notion of stable map. We give an outline of a
+contsruction of Gromov-Witten invariants for all algebraic projective or closed
+symplectic manifolds. Mirror Symmetry in the basic example of rational curves
+on a quintic 3-folds is reduced to certain complicated but explicit identity.
+The strategy of computations can be described as follows: 1) we reduce counting
+problems to questions concerning Chern classes on spaces of curves on the
+ambient projective space, 2) using Bott's residue formula we pass to the space
+of (degenerate) curves invariant under the action of the group of diagonal
+matrices, 3) we get a sum over trees and evaluate it using the technique of
+Feynman diagrams. Our computation scheme gives ``closed'' formulas for
+generating functions in topological sigma-model for a wide class of manifolds,
+covering many Calabi-Yau and Fano varieties.
+","[{""version"":""v1"",""created"":""Thu, 5 May 1994 16:44:12 GMT""},{""version"":""v2"",""created"":""Tue, 27 Jun 1995 13:47:02 GMT""}]","2008-02-03"
+"hep-th/9405037","Castanos Garza Octavio-ICNUC","O. Casta\~nos, R. L\'opez-Pe\~na and V.I. Man'ko","Linear Time-Dependent Invariants for Scalar Fields and Noether's Theorem","LaTeX, 6 pages, preprint of Instituto de Ciencias Nucleares, UNAM,
+  Departamento de F\ii sica and Matem\'aticas Aplicadas, M\'exico D. F. ,
+  M\'exico No. 04 (1994)","Mod.Phys.Lett. A9 (1994) 1785-1790","10.1142/S0217732394001635",,"hep-th",,"  The infinite number of time-dependent linear in field and conjugated momenta
+invariants is derived for the scalar field using the Noether's theorem
+procedure.
+","[{""version"":""v1"",""created"":""Thu, 5 May 1994 19:13:26 GMT""}]","2015-06-26"
+"hep-th/9405038","Pavel Etingof","Pavel Etingof","Integral formulas for wave functions of quantum many-body problems and
+  representations of gl(n)","6 pages. One reference ([FF]) has been corrected. New references and
+  an introduction have been added","J.Math.Phys. 36 (1995) 1645-1651","10.1063/1.531076",,"hep-th math.QA",,"  We derive explicit integral formulas for eigenfunctions of quantum integrals
+of the Calogero-Sutherland-Moser operator with trigonometric interaction
+potential. In particular, we derive explicit formulas for Jack's symmetric
+functions. To obtain such formulas, we use the representation of these
+eigenfunctions by means of traces of intertwining operators between certain
+modules over the Lie algebra $\frak gl_n$, and the realization of these modules
+on functions of many variables.
+","[{""version"":""v1"",""created"":""Thu, 5 May 1994 22:58:52 GMT""},{""version"":""v2"",""created"":""Sun, 22 May 1994 00:54:17 GMT""}]","2009-10-28"
+"hep-th/9405039","Neil Marcus","Neil Marcus","The N=1 superstring as a topological field theory","8 Pages (LaTeX). TAUP-2155-94","Phys.Rev.Lett.73:1071-1074,1994","10.1103/PhysRevLett.73.1071",,"hep-th",,"  By ""untwisting"" the construction of Berkovits and Vafa, one can see that the
+N=1 superstring contains a topological twisted N=2 algebra, with central charge
+c^ = 2. We discuss to what extent the superstring is actually a topological
+theory.
+","[{""version"":""v1"",""created"":""Fri, 6 May 1994 06:58:17 GMT""}]","2014-11-18"
+"hep-th/9405040","Genadi A. Sardanashvily","G.Sardanashvily","Multimomentum Hamiltonian Formalism in Field Theory. Geometric
+  Supplementary","23 pages, LaTeX file",,,,"hep-th",,"  The well-known geometric approach to field theory is based on description of
+classical fields as sections of fibred manifolds, e.g. bundles with a structure
+group in gauge theory. In this approach, Lagrangian and Hamiltonian formalisms
+including the multiomentum Hamiltonian formalism are phrased in terms of jet
+manifolds. Then, configuration and phase spaces of fields are
+finite-dimensional. Though the jet manifolds have been widely used for theory
+of differential operators, the calculus of variations and differential
+geometry, this powerful mathematical methods remains almost unknown for
+physicists. This Supplementary to our previous article (hep-th/9403172) aims to
+summarize necessary requisites on jet manifolds and general connections.
+","[{""version"":""v1"",""created"":""Fri, 6 May 1994 11:05:46 GMT""}]","2007-05-23"
+"hep-th/9405041","Ralph Kaufmann","Ralph M. Kaufmann","Pathspace Decompositions for the Virasoro Algebra and its Verma Modules","19 pages, LaTeX, BONN TH-94-05","Int.J.Mod.Phys. A10 (1995) 943-962","10.1142/S0217751X95000462",,"hep-th",,"  Starting from a detailed analysis of the structure of pathspaces of the
+${\cal A}$-fusion graphs and the corresponding irreducible Virasoro algebra
+quotients $V(c,h)$ for the ($2,q$ odd) models, we introduce the notion of an
+admissible pathspace representation. The pathspaces ${\cal P_A}$ over the
+${\cal A}$-Graphs are isomorphic to the pathspaces over Coxeter $A$-graphs that
+appear in FB models. We give explicit construction algorithms for admissible
+representations. From the finitedimensional results of these algorithms we
+derive a decomposition of $V(c,h)$ into its positive and negative definite
+subspaces w.r.t. the Shapovalov form and the corresponding signature
+characters. Finally, we treat the Virasoro operation on the lattice induced by
+admissible representations adopting a particle point of view. We use this
+analysis to decompose the Virasoro algebra generators themselves. This
+decomposition also takes the nonunitarity of the ($2,q$) models into account.
+","[{""version"":""v1"",""created"":""Fri, 6 May 1994 08:30:37 GMT""}]","2015-06-26"
+"hep-th/9405043","Stefan Boettcher","Carl M. Bender and Stefan Boettcher","Eleventh-Order Calculation of Green's Functions in the Ising Limit for
+  Arbitrary Space-Time Dimension $D$","13 pages, 6 figures, plain TEX, uuencoded, WUHEP-5-94","Phys.Rev. D51 (1995) 1875-1879","10.1103/PhysRevD.51.1875",,"hep-th",,"  This paper extends an earlier high-temperature lattice calculation of the
+renormalized Green's functions of a $D$-dimensional Euclidean scalar quantum
+field theory in the Ising limit. The previous calculation included all graphs
+through sixth order. Here, we present the results of an eleventh-order
+calculation. The extrapolation to the continuum limit in the previous
+calculation was rather clumsy and did not appear to converge when $D>2$. Here,
+we present an improved extrapolation which gives uniformly good results for all
+real values of the dimension between $D=0$ and $D=4$. We find that the
+four-point Green's function has the value $0.620 \pm 0.007$ when $D=2$ and
+$0.98 \pm 0.01$ when $D=3$ and that the six-point Green's function has the
+value $0.96 \pm 0.03$ when $D=2$ and $1.2 \pm 0.2$ when $D=3$.
+","[{""version"":""v1"",""created"":""Fri, 6 May 1994 13:05:28 GMT""}]","2009-10-28"
+"hep-th/9405044",,"V. D. Lyakhovsky","The Role of Solvable Groups in Quantization of Lie Algebras","10 pages. To be published in ""Zapiski Nauchn. Semin. POMI"", V.209",,,"SPBU-IP-94-7, St.Petersburg","hep-th alg-geom math.AG",,"  The elements of the wide class of quantum universal enveloping algebras are
+prooved to be Hopf algebras $H$ with spectrum $Q(H)$ in the category of groups.
+Such quantum algebras are quantum groups for simply connected solvable Lie
+groups $P(H)$. This provides utilities for a new algorithm of constructing
+quantum algebras especially useful for nonsemisimple ones. The quantization
+procedure can be carried out over an arbitrary field. The properties of the
+algorithm are demonstrated on examples.
+","[{""version"":""v1"",""created"":""Fri, 6 May 1994 12:35:43 GMT""}]","2016-09-06"
+"hep-th/9405045",,"V. D. Lyakhovsky","Group-like Structures in Quantum Lie Algebras and the Process of
+  Quantization","10 pages",,,"SPBU-IP-94-2, St.Petersburg","hep-th alg-geom math.QA",,"  For a certain class of Lie bialgebras $(A,A^*)$ the corresponding quantum
+universal enveloping algebras $U_q(A)$ are prooved to be equivalent to quantum
+groups Fun$_q(F^*)$, $F^*$ being the factor group for the dual group $G^*$.
+This property can be used to simplify the process of quantization. The
+described class appears to be wide enough to contain all the standard
+quantizations of infinite series. The properties of the groups $F^*$ are
+explicitly demonstrated for the standard deformations $U_q(SL(n))$. It is shown
+that for different $A^*$ (remaining in the described class of Lie bialgebras)
+the same algorithm leads to the nonstandard quantizations.
+","[{""version"":""v1"",""created"":""Fri, 6 May 1994 12:36:56 GMT""}]","2008-02-03"
+"nucl-th/9405007","Erich Ormand","W.E. Ormand, P.M. Pizzochero, P.F. Bortignon, and R.A. Broglia","Neutrino Capture Cross Sections for Ar-40 and beta-decay of Ti-40","12 pages including references and table. NTGMI-94-4","Phys.Lett. B345 (1995) 343-350","10.1016/0370-2693(94)01605-C",,"nucl-th",,"  Shell-model calculations of solar neutrino absorption cross sections for
+$^{40}$Ar, the proposed component of the ICARUS detector, are presented. It is
+found that low-lying Gamow-Teller transitions lead to a significant enhancement
+of the absorption rate over that expected from the Fermi transition between the
+isobaric analog states, leading to an overall absorption rate of 6.7 SNU. We
+also note that the pertinent Gamow-Teller transitions in $^{\sss 40}$Ar are
+experimentally accessible from the $\beta$-decay of the mirror nucleus $^{\sss
+40}$Ti. Predictions for the branching ratios to states in $^{\sss 40}$Sc are
+presented, and the theoretical halflife of 53~ms is found to be in good
+agreement with the experimental value of $56^{+18}_{-12}$~ms.
+","[{""version"":""v1"",""created"":""Thu, 5 May 1994 18:16:24 GMT""}]","2009-10-28"
+"nucl-th/9405008","Mart Rentmeester","J.J. de Swart, P.M.M. Maessen and TH.A. Rijken (University of
+  Nijmegen)","The One-Boson-Exchange Potential Model Approach","Report THEF-NYM-94.03; 19 pages LaTeX, 4 PostScript figures included.
+  Invited talk given by J.J. de Swart at the U.S. Japan Seminar on the
+  YN-Interaction, held at Maui, HA, USA, 25--28 October 1993",,,,"nucl-th",,"  A review is given of the present situation in YN scattering. Special
+attention is given to the handling of SU(3) in the various meson exchanges. The
+importance of the almost always ignored contribution of the Pomeron is
+reiterated.
+","[{""version"":""v1"",""created"":""Fri, 6 May 1994 13:42:27 GMT""}]","2007-05-23"

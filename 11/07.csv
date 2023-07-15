@@ -1,0 +1,289 @@
+"astro-ph/9411022","Paul Mancinelli","Paul J. Mancinelli and Amos Yahil","Local Nonlinear Approximations to the Growth of Cosmic Structures","Submitted to ApJ Letters. 13 pages of uuencoded compressed
+  PostScript; 3 figures included",,"10.1086/176280","SUSB0194","astro-ph",,"  Local nonlinear approximations to the growth of cosmic perturbations are
+developed, resulting in relations, at a given epoch, between the peculiar
+velocity and gravity fields and their gradients. Only the equation of motion is
+approximated, while mass conservation and the computation of the gravitational
+field are treated exactly. The second-order relation is derived for arbitrary
+geometry and cosmological parameters. Solutions are developed to fourth order
+for laminar spherical perturbations in an Einstein-de Sitter universe, but the
+gain in accuracy for higher orders is modest. All orders become comparable when
+the peculiar kinetic energy per unit mass equals the peculiar potential,
+typically at relative density perturbations, $\delta \sim 4$. The general
+second-order relation, while implicit, is simple to solve. \nbody\ simulations
+show that it provides moderate gains in accuracy over other local
+approximations. It can therefore be easily applied in the comparison of
+large-scale structures and velocities in the quasi-linear regime, $\delta \sim
+1 - 4$, as well as in the reconstruction of the primordial perturbations from
+which they grew.
+","[{""version"":""v1"",""created"":""Sun, 6 Nov 1994 17:34:55 GMT""}]","2009-10-22"
+"astro-ph/9411023","Albert Zijlstra","Albert A. Zijlstra","Stellar Evolution and Mass Loss on the Asymptotic Giant Branch","latex, 10pages, 3 figures available on request from azijlstr@eso.org","Astrophys.Space Sci. 224 (1995) 309","10.1007/BF00667863","ESO preprint no. 1040","astro-ph",,"  Mass loss dominates the stellar evolution on the Asymptotic Giant Branch. The
+phase of highest mass-loss occurs during the last 1--10\% of the AGB and
+includes the so-called Miras and OH/IR stars. In this review I will discuss the
+characteristics and evolution of especially Miras, and discuss how they are
+linked to the mass loss. There are indications that high mass-loss rates are
+only reached for relatively young stars with massive progenitors. The mass loss
+rates vary both on long and short time scales: the short-term variations are
+likely linked to luminosity variations associated with the thermal-pulse cycle.
+The influence of mass loss in the post-AGB phase is also discussed.
+","[{""version"":""v1"",""created"":""Mon, 7 Nov 1994 11:30:10 GMT""}]","2009-10-22"
+"astro-ph/9411024","Brian Chaboyer","Brian Chaboyer, P. Demarque, D.B. Guenther, M.H. Pinsonneault & L.L.
+  Pinsonneault","Ages of Galactic Globular Clusters from the New Yale Isochrones","4 pages, Latex, uses cupconf.sty complete postscript file (including
+  figures) available via anonymous ftp to:
+  ftp://ftp.cita.utoronto.ca/cita/brian/papers/age.ps",,,"CITA-94-46","astro-ph",,"  A new grid of theoretical isochrones based on the Yale stellar evolution code
+using the OPAL and Kurucz opacities has been constructed. The grid of
+isochrones spans a wide range of metallicities, helium abundances and masses.
+The construction of the isochrones is described and the isochrones are compared
+to galactic globular cluster observations. A solar calibrated mixing length
+($\alpha = 1.7$) yields a good fit to globular cluster colour-magnitude
+diagrams. Ages for 40 globular clusters are determined using the \dv method and
+the formation of the halo is discussed.
+","[{""version"":""v1"",""created"":""Mon, 7 Nov 1994 14:07:26 GMT""}]","2007-05-23"
+"astro-ph/9411025","Andrea Biviano","A. Biviano, F. Durret, D. Gerbal, O. Le F\`evre, C. Lobo, A. Mazure,
+  E. Slezak","On the galaxy luminosity function in the central regions of the Coma
+  cluster","7 pages, uuencoded postscript file (figures included) Accepted for
+  publication on A&A",,,,"astro-ph",,"  We have obtained new redshifts for 265 objects in the central
+48~$\times$~25~arcmin$^2$ region of the Coma cluster. When supplemented with
+literature data, our redshift sample is 95~\% complete up to a magnitude
+b$_{26.5}$=18.0 (the magnitudes are taken from the photometric sample of Godwin
+et al. 1983). Using redshift-confirmed membership for 205 galaxies, and the
+location in the colour-magnitude diagram for another 91 galaxies, we have built
+a sample of cluster members which is complete up to b$_{26.5}$=20.0. We show
+that the Coma cluster luminosity function cannot be adequately fitted by a
+single Schechter (1976) function, because of a dip in the magnitude
+distribution at b$_{26.5}$$\sim$17. The superposition of an Erlang (or a Gauss)
+and a Schechter function provides a significantly better fit. We compare the
+luminosity function of Coma to those of other clusters, and of the field.
+Luminosity functions for rich clusters look similar, with a maximum at $M_{b}
+\simeq -19.5 + 5 \times \log h_{50}$, while the Virgo and the field luminosity
+functions show a nearly monotonic behaviour. These differences may be produced
+by physical processes related to the environment which affect the luminosities
+of a certain class of cluster galaxies.
+","[{""version"":""v1"",""created"":""Mon, 7 Nov 1994 14:02:22 GMT""}]","2007-05-23"
+"astro-ph/9411030","Steve Zepf","Stephen E. Zepf, Keith M. Ashman, and Doug Geisler","Constraints on the Formation History of the Elliptical Galaxy NGC 3923
+  from the Colors of Its Globular Clusters","26 pages + 4 figures, uuencoded, tar, compressed postscript file. To
+  be published in the Astrophysical Journal",,"10.1086/175549","UCB-AST-003","astro-ph",,"  We present a study of the colors of globular clusters associated with the
+elliptical galaxy NGC 3923. Our final sample consists of Washington system C
+and T_1 photometry for 143 globular cluster candidates with an expected
+contamination of no more than 10%. We find that the color distribution of the
+NGC 3923 globular cluster system (GCS) is broad and appears to have at least
+two peaks. A mixture modeling analysis of the color distribution indicates that
+a two component model is favored over a single component one at a high level of
+confidence (>99%). This evidence for more than one population in the GCS of NGC
+3923 is similar to that previously noted for the four other elliptical galaxies
+for which similar data have been published. Furthermore, we find that the NGC
+3923 GCS is redder than the GCSs of previously studied elliptical galaxies of
+similar luminosity. The median metallicity inferred from our (C-T_1)_0 colors
+is [Fe/H]_{med} = -0.56, with an uncertainty of 0.14 dex arising from all
+sources of uncertainty in the mean color. This is more metal rich than the
+median metallicity found for the GCS of M87 using the same method, [Fe/H]_{med}
+= -0.94. Since M87 is more luminous than NGC 3923, this result points to
+significant scatter about any trend of higher GCS metallicity with increasing
+galaxy luminosity. We also show that there is a color gradient in the NGC 3923
+GCS corresponding to about -0.5 dex in Delta[Fe/H]\Delta(log r). We conclude
+that the shape of the color distribution of individual GCSs and the variation
+in mean color among the GCSs of ellipticals are difficult to understand if
+elliptical galaxies are formed in a single protogalactic
+","[{""version"":""v1"",""created"":""Mon, 7 Nov 1994 03:10:35 GMT""}]","2009-10-22"
+"dg-ga/9411002","Alexander Reznikov","Alexander Reznikov","Yamabe Spectra","Plain TEX, 13 pages. The auxilliary files: vanilla.sty, definiti.tex
+  and mathchar.tex should be available from dg-ga, or may be sent by the author",,,,"dg-ga math.DG",,"  We study the set of volumes of constant scalar curvature one metrics on an
+atoroidal three-manifold.The infinum of this set is believed to be attained at
+a hyperbolic metric. We prove that the supremum of this set is always infinity.
+The technique is: minimal surfaces, Thurston norm in homology and new conformal
+invariants.
+","[{""version"":""v1"",""created"":""Mon, 7 Nov 1994 12:35:53 GMT""}]","2016-08-31"
+"gr-qc/9411014","Charles Torre","C. G. Torre","Some Remarks on Gravitational Analogs of Magnetic Charge","11 pages, plain TeX","Class.Quant.Grav.12:L43-L50,1995","10.1088/0264-9381/12/6/001",,"gr-qc hep-th",,"  Existing mathematical results are applied to the problem of classifying
+closed $p$-forms which are locally constructed from Lorentzian metrics on an
+$n$-dimensional orientable manifold $M$ ($0<p<n$). We show that the only
+closed, non-exact forms are generated by representatives of cohomology classes
+of $M$ and $(n-1)$-forms representing $n$-dimensional (with $n$ even)
+generalizations of the conservation of ``kink number'', which was exhibited by
+Finkelstein and Misner for $n=4$. The cohomology class that defines the kink
+number depends only on the diffeomorphism equivalence class of the metric, but
+a result of Gilkey implies that there is no representative of this cohomology
+class which is built from the metric, curvature and covariant derivatives of
+curvature to any finite order.
+","[{""version"":""v1"",""created"":""Mon, 7 Nov 1994 04:41:29 GMT""}]","2010-04-06"
+"hep-lat/9411007",,"A.Galli (PSI)","An Analytic Study of the Phase Structure of Lattice QCD with Wilson
+  Fermions at Infinitely Strong Coupling","Latex",,,"PSI-PR-94-33","hep-lat",,"  The phase structure of lattice QCD with two flavors and Wilson fermions is
+studied analytically. At $\beta=0$ we obtain rigorous lower and upper bounds
+for the critical hopping parameter $k_c(0)$ from a convergent hopping parameter
+expansion to infinite order. The result supports the value $k_c(0)=\frac{1}{4}$
+observed in Monte Carlo simulations.
+","[{""version"":""v1"",""created"":""Mon, 7 Nov 1994 08:40:35 GMT""}]","2009-09-25"
+"hep-lat/9411008",,"J. Ambjorn and J. Jurkiewicz","Computational Ergodicity of $s^4$","9 p.+4 figures (uuencoded ps-files). Latex+epsf","Phys.Lett. B345 (1995) 435-440","10.1016/0370-2693(94)01666-Z","NBI-HE-94-49","hep-lat gr-qc hep-th",,"  It is known that there are four-manifolds which are not algorithmically
+recognizable. This implies that there exist triangulations of these manifolds
+which are separated by large barriers from the point of view of the computer
+algorithm. We have not observed these barriers for triangulations of $S^4$.
+","[{""version"":""v1"",""created"":""Mon, 7 Nov 1994 11:16:50 GMT""}]","2009-10-22"
+"hep-lat/9411010",,"G. Martinelli, C. Pittori, C.T. Sachrajda, M. Testa and A. Vladikas","A General Method for Non-Perturbative Renormalization of Lattice
+  Operators","LaTeX, 30 pages, postscript files of figures will be sent separately","Nucl.Phys.B445:81-108,1995","10.1016/0550-3213(95)00126-D","CERN-TH.7342/94 LPTHE 94/52, ROME 94/1022, SHEP 94/95-03","hep-lat",,"  We propose a non-perturbative method for computing the renormalization
+constants of generic composite operators. This method is intended to reduce
+some systematic errors, which are present when one tries to obtain physical
+predictions from the matrix elements of lattice operators. We also present the
+results of a calculation of the renormalization constants of several
+two-fermion operators, obtained, with our method, by numerical simulation of
+$QCD$, on a $16^3 \times 32$ lattice, at $\beta=6.0$. The results of this
+simulation are encouraging, and further applications to four-fermion operators
+and to the heavy quark effective theory are proposed.
+","[{""version"":""v1"",""created"":""Mon, 7 Nov 1994 13:17:20 GMT""}]","2009-10-09"
+"hep-lat/9411011",,"C.R. Allton, M. Crisafulli, V. Lubicz, G. Martinelli, F. Rapuano, N.
+  Stella, A. Vladikas, A. Bartoloni, C. Battista, S. Cabasino, N. Cabibbo, E.
+  Panizzi, P.S. Paolucci, R. Sarno, G.M. Todesco, M. Torelli, P. Vicini","Lattice Calculation of D- and B-meson Semileptonic Decays, using the
+  Clover Action at beta=6.0 on APE","LaTeX, 15 pages, postscript figures attached uuencoded","Phys.Lett. B345 (1995) 513-523","10.1016/0370-2693(94)01629-Q","BU-HEP 94-29, CERN-TH.7484/94, ROME prep. 94/1050","hep-lat",,"  We present the results of a high statistics lattice calculation of hadronic
+form factors relevant for $D-$ and $B-$meson semi-leptonic decays into light
+pseudoscalar and vector mesons. The results have been obtained by averaging
+over 170 gauge field configurations, generated in the quenched approximation,
+at $\beta=6.0$, on a $18^3 \times 64$ lattice, using the $O(a)$-improved
+SW-Clover action.From the study of the matrix element $<K^-\vert J_\mu \vert
+D^0>$, we obtain $f_+ (0)=0.78\pm 0.08$ and from the matrix element $<\bar K^{*
+0}\vert J_\mu \vert D^+>$ we obtain $V(0)=1.08\pm 0.22$, $A_1(0)=0.67\pm 0.11$
+and $A_2(0)=0.49\pm 0.34$. We also obtain the ratios $V(0)/A_1(0)=1.6\pm 0.3$
+and $A_2(0)/A_1(0)= 0.7\pm 0.4$. Our predictions for the different form factors
+are in good agreement with the experimental data, although, in the case of
+$A_2(0)$, the errors are still too large to draw any firm conclusion. With the
+help of the Heavy Quark Effective Theory (HQET) we have also extrapolated the
+lattice results to $B$-meson decays. The form factors follow a behaviour
+compatible with the HQET predictions. Our results are in agreement with a
+previous lattice calculation, performed at $\beta=6.4$, using the standard
+Wilson action.
+","[{""version"":""v1"",""created"":""Mon, 7 Nov 1994 13:56:13 GMT""}]","2009-10-22"
+"hep-ph/9411232","Johan Bijnens","J. Bijnens, G. Ecker and J. Gasser","Chiral Perturbation Theory","19 pages, latex, 2 figures. To be published in the second edition of
+  the DA$\Phi$NE Physics Handbook, eds. L. Maiani, G. Pancheri and N. Paver.",,,,"hep-ph",,"  An introduction to Chiral Perturbation Theory is given including a discussion
+of power counting, the Wess-Zumino term, the values of the coupling constants
+and the inclusion of the effects of other resonances.
+","[{""version"":""v1"",""created"":""Mon, 7 Nov 1994 10:28:14 GMT""}]","2007-05-23"
+"hep-ph/9411233",,"P.H. Chankowski, Z. P{\l}uciennik and S. Pokorski","$\sin^2\theta_W(M_Z)$ ~in the MSSM and Unification of Couplings","30 pages, standard LaTeX; 8 figures can be obtained from
+  chank@fuw.edu.pl (or chank@padova.infn.it) either as postscript files or via
+  conventional mail","Nucl.Phys. B439 (1995) 23-53","10.1016/0550-3213(95)00033-O","IFT-94/19","hep-ph",,"  We calculate ~$\sin^2\theta(M_Z)$ ~in the MSSM in terms of ~ $\alpha_{EM}$,
+~$G_F$, ~$m_t$, ~$\tan\beta$ ~and SUSY mass parameters with the same accuracy
+as the present calculations of ~$\sin^2\theta(M_Z)$ ~in the SM. We compare the
+results with the standard leading logarithmic approximation used for SUSY
+threshold corrections and find important differences in the case of light
+sparticles. We give approximate formulae connecting coupling constants in the
+SM and in the MSSM and comment on process dependence of such formulae. The
+obtained values of the MSSM couplings ~$\alpha_i(M_Z)$ ~are used to investigate
+gauge coupling unification in the minimal SUSY ~SU(5) ~model. Our
+non-logarithmic corrections lower the predicted value of the Higgs triplet
+mass. The interplay between the supersymmetric and GUT thresholds in achieving
+unification for the coupling constants in the range of the experimentally
+acceptable values is quantified.
+","[{""version"":""v1"",""created"":""Mon, 7 Nov 1994 10:08:31 GMT""}]","2009-10-28"
+"hep-ph/9411235","Charles A. Nelson","Charles A. Nelson","Tau as a Probe for New Physics","Revision 11/8/94 for hep-ph corrects only bad Table 1 printing.
+  Figures 2 & 3 are same as in Published Ref. 9, Fig. 1 is obvious. Cut off
+  ""by-line"" at bottom. Macro ESPCRC2.STY is at end","Nucl.Phys.Proc.Suppl.40:525-540,1995","10.1016/0920-5632(95)00177-B","SUNY BING 10/15/94","hep-ph",,"  The usage of polarimetry and spin-correlation tests to determine the {\em
+complete Lorentz structure} of the tau lepton's charged and neutral-current
+couplings is reviewed. The emphasis is on tests for ``something'' in a $(V-A) +
+$ ``something'' structure in ${J^{Charged}}_{Lepton}$ current, so as to bound
+the scales $\Lambda$ for ``new physics"" such as arising from tau weak
+magnetism, weak electricity, and/or second-class currents. Tests for $T$ and
+for $CP$ violation are discussed.
+","[{""version"":""v1"",""created"":""Mon, 7 Nov 1994 10:41:50 GMT""},{""version"":""v2"",""created"":""Fri, 11 Nov 1994 14:21:52 GMT""}]","2010-11-01"
+"hep-th/9411042","K. S. Viswanathan","K.S.Viswanathan and R.Parthasarathy","A Conformal Field Theory of Extrinsic Geometry of 2-d Surfaces","30 pages","Annals Phys. 244 (1995) 241-261","10.1006/aphy.1995.1112",,"hep-th",,"  In the description of the extrinsic geometry of the string world sheet
+regarded as a conformal immersion of a 2-d surface in $R^3$, it was previously
+shown that, restricting to surfaces with $h\surd{g}\ =\ 1$, where $h$ is the
+mean scalar curvature and $g$ is the determinant of the induced metric on the
+surface, leads to Virasaro symmetry. An explicit form of the effective action
+on such surfaces is constructed in this article which is the extrinsic
+curvature analog of the WZNW action. This action turns out to be the gauge
+invariant combination of the actions encountered in 2-d intrinsic gravity
+theory in light-cone gauge and the geometric action appearing in the
+quantization of the Virasaro group. This action, besides exhibiting Virasaro
+symmetry in $z$-sector, has $SL(2,C)$ conserved currents in the
+$\bar{z}$-sector. This allows us to quantize this theory in the
+$\bar{z}$-sector along the lines of the WZNW model. The quantum theory on
+$h\surd{g}\ =\ 1$ surfaces in $ R^3$ is shown to be in the same universality
+class as the intrinsic 2-d gravity theory.
+","[{""version"":""v1"",""created"":""Sun, 6 Nov 1994 20:22:38 GMT""}]","2015-06-26"
+"hep-th/9411043","K. S. Viswanathan","R.Parthasarathy and K.S.Viswanathan","Harmonic Gauss Maps and Self-Dual Equations in String Theory","24 pages",,,,"hep-th",,"  The string world sheet, regarded as Riemann surface, in background $R^3$ and
+$R^4$ is described by the generalised Gauss map. When the Gauss map is harmonic
+or equivalently for surfaces of constant mean scalar curvature, we obtain an
+Abelian self-dual system, using $SO(3)$ and $SO(4)$ gauge fields constructed in
+our earlier studies. This compliments our earlier result that $h\surd g\ =\ 1$
+surfaces exhibit Virasaro symmetry. The self-dual system so obtained is
+compared with self-dual Chern-Simons system and a generalized Liouville
+equation involving extrinsic geometry is obtained. \vspace{0.2cm} The world
+sheet in background $R^n, \ n>4$ is described by the generalized Gauss map. It
+is first shown that when the Gauss map is harmonic, the scalar mean curvature
+is constant. $SO(n)$ gauge fields are constructed from the geometry of the
+surface and expressed in terms of the Gauss map. It is shown that the harmonic
+map satisfies a non-Abelian self-dual system of equations for the gauge group
+$SO(2)\times SO(n-2)$.
+","[{""version"":""v1"",""created"":""Sun, 6 Nov 1994 20:37:38 GMT""}]","2007-05-23"
+"hep-th/9411044","Suzuki Takeshi","Takeshi Suzuki","Finite-Dimensionality of the Space of Conformal Blocks","9 pages, AMS-Tex Version 2.1",,,"RIMS-996","hep-th",,"  Without using Gabber's theorem, the finite-dimensionality of the space of
+conformal blocks in the WZNW-models is proved.
+","[{""version"":""v1"",""created"":""Mon, 7 Nov 1994 12:04:48 GMT""},{""version"":""v2"",""created"":""Wed, 7 Dec 1994 07:28:23 GMT""}]","2008-02-03"
+"hep-th/9411045","Marek Grabowski","M. P. Grabowski and P. Mathieu","Structure of the conservation laws in integrable spin chains with short
+  range interactions","79 pages in plain TeX plus 4 uuencoded figures; (uses harvmac and
+  epsf)","Annals Phys. 243 (1995) 299-371","10.1006/aphy.1995.1101","LAVAL-PHY-21/94","hep-th cond-mat",,"  We present a detailed analysis of the structure of the conservation laws in
+quantum integrable chains of the XYZ-type and in the Hubbard model. With the
+use of the boost operator, we establish the general form of the XYZ conserved
+charges in terms of simple polynomials in spin variables and derive recursion
+relations for the relative coefficients of these polynomials. For two submodels
+of the XYZ chain - namely the XXX and XY cases, all the charges can be
+calculated in closed form. For the XXX case, a simple description of conserved
+charges is found in terms of a Catalan tree. This construction is generalized
+for the su(M) invariant integrable chain. We also indicate that a quantum
+recursive (ladder) operator can be traced back to the presence of a hamiltonian
+mastersymmetry of degree one in the classical continuous version of the model.
+We show that in the quantum continuous limits of the XYZ model, the ladder
+property of the boost operator disappears. For the Hubbard model we demonstrate
+the non-existence of a ladder operator. Nevertheless, the general structure of
+the conserved charges is indicated, and the expression for the terms linear in
+the model's free parameter for all charges is derived in closed form.
+","[{""version"":""v1"",""created"":""Mon, 7 Nov 1994 11:42:05 GMT""}]","2015-06-26"
+"hep-th/9411046",,"F. Toppan","KP Hierarchies, Polynomial and Rational W Algebras on Riemann Surfaces:
+  a Global Approach","15 pages, LaTex","Mod.Phys.Lett. A10 (1995) 133-148","10.1142/S0217732395000156","DFPD 94-TH-58","hep-th",,"  A covariant pseudodifferential calculus on Riemann surfaces, based on the
+Krichever-Novikov global picture, is presented. It allows defining scalar and
+matrix KP operators, together with their reductions, in higher genus. Globally
+defined Miura maps are considered and the arising of polynomial or rational
+${\cal W}$ algebras on R.S. associated to each reduction are pointed out. The
+higher genus NLS hierarchy is analyzed in detail.
+","[{""version"":""v1"",""created"":""Mon, 7 Nov 1994 12:43:05 GMT""}]","2009-10-28"
+"math/9411203","Walter D. Neumann","Walter D. Neumann and Lawrence Reeves","Regular Cocycles and Biautomatic Structures","Plain Tex, 11 pages, no figures",,,"MAGNUS preprint #94-11-07A","math.GR",,"  Let $E$ be a virtually central extension of the group $G$ by a finitely
+generated abelian group $A$. We show that $E$ carries a biautomatic structure
+if and only if $G$ has a biautomatic structure $L$ for which the cohomology
+class of the extension is represented by an $L$-regular cocycle. Moreover, a
+cohomology class is $L$-regular if some multiple of it is or if its restriction
+to some finite index subgroup is.
+  We also show that the entire second cohomology of a Fuchsian group is
+regular, so any virtually central extension is biautomatic. In particular, if
+the fundamental group of a Seifert fibered 3-manifold is not virtually
+nilpotent then it is biautomatic. ECHLPT had shown automaticity in this case
+and in an unpublished 1992 preprint Gersten constructed a biautomatic structure
+for circle bundles over hyperbolic surfaces and asked if the same could be done
+for these Seifert fibered 3-manifolds.
+","[{""version"":""v1"",""created"":""Mon, 7 Nov 1994 00:00:00 GMT""}]","2016-09-06"
+"math/9411206","Arnold Miller","M. Laczkovich and Arnold W. Miller","Measurability of functions with approximately continuous vertical
+  sections and measurable horizontal sections",,,,"Logic E-prints November 07, 1994","math.LO",,"  A function f:R -> R is approximately continuous iff it is continuous in the
+density topology, i.e., for any ordinary open set U the set E=f^{-1}(U) is
+measurable and has Lebesgue density one at each of its points. Denjoy proved
+that approximately continuous functions are Baire 1., i.e., pointwise For any
+f:R^2 -> R define f_x(y) = f^y(x) = f(x,y). A function f:R^2 -> R is separately
+continuous if f_x and f^y are continuous for every x,y in R. Lebesgue in his
+first paper proved that any separately continuous function is Baire 1.
+Sierpinski showed that there exists a nonmeasurable f:R^2 -> R which is
+separately Baire 1.
+  In this paper we prove:
+  Thm 1. Let f:R^2 -> R be such that f_x is approximately continuous and f^y is
+Baire 1 for every x,y in R. Then f is Baire 2.
+  Thm 2. Suppose there exists a real-valued measurable cardinal. Then for any
+function f:R^2 -> R and countable ordinal i, if f_x is approximately continuous
+and f^y is Baire i for every x,y in R, then f is Baire i+1 as a function of two
+variables.
+  Thm 3. (i) Suppose that R can be covered by omega_1 closed null sets. Then
+there exists a nonmeasurable function f:R^2 -> R such that f_x is approximately
+continuous and f^y is Baire 2 for every x,y in R. (ii) Suppose that R can be
+covered by omega_1 null sets. Then there exists a nonmeasurable function f:R^2
+-> R such that f_x is approximately continuous and f^y is Baire 3 for every x,y
+in R.
+  Thm 4. In the random real model for any function f:R^2 -> R if f_x is
+approximately continuous and f^y is measurable for every x,y in R, then f is
+measurable as a function of two variables.
+","[{""version"":""v1"",""created"":""Mon, 7 Nov 1994 00:00:00 GMT""}]","2016-09-06"
+"math/9411211",,"Martin Bridgeman","The Structure and Enumeration of Link Projections",,,,"MSRI 1995-007","math.GT",,"  We define a decomposition of link projections whose pieces we call atoroidal
+graphs. We describe a surgery operation on these graphs and show that all
+atoroidal graphs can be generated by performing surgery repeatedly on a family
+of well known link projections. This gives a method of enumerating atoroidal
+graphs and hence link projections by recomposing the pieces of the
+decomposition.
+","[{""version"":""v1"",""created"":""Mon, 7 Nov 1994 00:00:00 GMT""}]","2009-09-25"

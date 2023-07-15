@@ -1,0 +1,234 @@
+"alg-geom/9405011","Viacheslav V. Nikulin","Viacheslav V. Nikulin","Algebraic Surfaces with Log-Terminal Singularities and nef Anticanonical
+  Class and Reflection Groups in Lobachevsky Spaces. I (Basics of the Diagram
+  Method)","37 pages, ams-tex, version 2.1",,,,"alg-geom math.AG",,"  In our preprint: ""Algebraic surfaces with log-terminal singularities and nef
+anticanonical class and reflection groups in Lobachevsky spaces"", Preprint
+Max-Planck-Institut f\""ur Mathematik, Bonn, (1989) MPI/89-28 (Russian), we had
+extended the diagram method to algebraic surfaces with nef anticanonical class
+(before, it was applied to Del Pezzo surfaces). The main problem here is that
+Mori polyhedron may not be finite polyhedral in this case. In the \S 4 of this
+preprint we had shown that this method does work for algebraic surfaces with
+nef anticanonical class and log terminal singularities.
+  Recently, using in particular these our results, Valery Alexeev (Boundedness
+and K^2 for log surfaces, Preprint (1994), alg-geom/942007), obtained strong
+and important results for surfaces of general type with semi-log canonical
+singularities. The reason is that Del Pezzo surfaces (the diagram method is
+especially effective for them) and surfaces of general type ""are connected""
+through surfaces with numerically zero canonical class. This was the main
+reason that we decided to make this English translation of the first part (\S
+1--\S 3) of our preprint above with some extensions (where we give omitted
+proofs) and minor corrections.
+  This part contains basics of the diagram method for generalized reflection
+groups in Lobachevsky spaces and for surfaces with nef anticanonical class.
+","[{""version"":""v1"",""created"":""Mon, 23 May 1994 08:12:53 GMT""}]","2008-02-03"
+"cond-mat/9405061","Leonid Levitov","B. L. Altshuler, L. S. Levitov, and A. Yu. Yakovets","Non-equilibrium noise in a mesoscopic conductor: microscopic analysis","6 pages, figures by request, RevTeX, Landau Institute preprint
+  261/6437","JETP Lett. 59, 857 (1994)",,,"cond-mat",,"  Current fluctuations are studied in a mesoscopic conductor using
+non-equilibrium Keldysh technique. We derive a general expression for the
+fluctuations in the presence of a time dependent voltage, valid for arbitrary
+relation between voltage and temperature. Two limits are then treated: a pulse
+of voltage and a DC voltage. A pulse of voltage causes phase sensitive current
+fluctuations for which we derive microscopically an expression periodic in
+$\int V(t)dt$ with the period $h/e$. Applied to current fluctuations in
+Josephson circuits caused by phase slips, it gives an anomalous contribution to
+the noise with a logarithmic singularity near the critical current. In the DC
+case, we get quantum to classical shot noise reduction factor 1/3, in agreement
+with recent results of Beenakker and B\""uttiker.
+","[{""version"":""v1"",""created"":""Mon, 23 May 1994 04:08:30 GMT""}]","2007-05-23"
+"gr-qc/9405048","Carlos O. Lousto","C. O. Lousto","The Emergence of an Effective two - dimensional Quantum Description from
+  the study of Critical Phenomena in Black Holes","Plain TeX, 16 pages, preprint UAB-FT-340 (Fifth Price from the
+  Gravity Research Foundation 1994)","Phys.Rev.D51:1733-1740,1995","10.1103/PhysRevD.51.1733",,"gr-qc astro-ph hep-th",,"  We study the occurrence of critical phenomena in four - dimensional, rotating
+and charged black holes, derive the critical exponents and show that they
+fulfill the scaling laws. Correlation functions critical exponents and
+Renormalization Group considerations assign an effective (spatial) dimension,
+$d=2$, to the system. The two - dimensional Gaussian approximation to critical
+systems is shown to reproduce all the black hole's critical exponents. Higher
+order corrections (which are always relevant) are discussed. Identifying the
+two - dimensional surface with the event horizon and noting that generalization
+of scaling leads to conformal invariance and then to string theory, we arrive
+to 't Hooft's string interpretation of black holes. From this, a model for
+dealing with a coarse grained black hole quantization is proposed. We also give
+simple arguments that lead to a rough quantization of the black hole mass in
+units of the Planck mass, i. e. $M\simeq{1\over\sqrt{2}}M_{pl} \sqrt{l}$ with a
+$l$ positive integer and then, from this result, to the proportionality between
+quantum entropy and area.
+","[{""version"":""v1"",""created"":""Sun, 22 May 1994 19:32:34 GMT""},{""version"":""v2"",""created"":""Wed, 25 May 1994 12:39:33 GMT""}]","2011-07-19"
+"gr-qc/9405049",,"I. H. Dwivedi and P. S. Joshi","On the Occurrence of Naked Singularity in Spherically Symmetric
+  Gravitational Collapse","22 pages, TIFRppt","Commun.Math.Phys. 166 (1994) 117-128","10.1007/BF02099303",,"gr-qc hep-th",,"  Generalizing earlier results of Joshi and Dwivedi (Commun. Math. Phys. 146,
+333 (1992); Lett. Math. Phys. 27, 235 (1993)), we analyze here the spherically
+symmetric gravitational collapse of a matter cloud with a general form of
+matter for the formation of a naked singularity. It is shown that this is
+related basically to the choice of initial data to the Einstein field
+equations, and would therefore occur in generic situations from regular initial
+data within the general context considered here, subject to the matter
+satisfying the weak energy condition. The condition on initial data which leads
+to the formation of black hole is also characterized.
+","[{""version"":""v1"",""created"":""Mon, 23 May 1994 12:51:00 GMT""}]","2009-10-22"
+"gr-qc/9405050",,"George E.A. Matsas","Do Inertial Electric Charges Radiate with Respect to Uniformly
+  Accelerated Observers?","6 pages (REVTEX 3.0), IFT-P017/94","Gen.Rel.Grav.26:1165-1169,1994","10.1007/BF02108941",,"gr-qc",,"  We revisit the long standing problem of analyzing an inertial electric charge
+from the point of view of uniformly accelerated observers in the context of
+semi-classical gravity. We choose a suitable set of accelerated observers with
+respect to which there is no photon emission coming from the inertial charge.
+We discuss this result against previous claims [F. Rohrlich, Ann. Phys. (N.Y.)
+vol: 22, 169 (1963)]. (This Essay was awarded a Honorable Mention for 1994 by
+the Gravity Research Foundation.)
+","[{""version"":""v1"",""created"":""Mon, 23 May 1994 15:01:00 GMT""}]","2010-11-01"
+"hep-ph/9405352","Salman Habib","Fred Cooper, Salman Habib, Yuval Kluger, Emil Mottola, Juan Pablo Paz,
+  and Paul R. Anderson","Non-Equilibrium Quantum Fields in the Large N Expansion","43 pages, LA-UR-94-783 (PRD, in press), uuencoded PostScript","Phys.Rev.D50:2848-2869,1994","10.1103/PhysRevD.50.2848",,"hep-ph gr-qc hep-th",,"  An effective action technique for the time evolution of a closed system
+consisting of one or more mean fields interacting with their quantum
+fluctuations is presented. By marrying large $N$ expansion methods to the
+Schwinger-Keldysh closed time path (CTP) formulation of the quantum effective
+action, causality of the resulting equations of motion is ensured and a
+systematic, energy conserving and gauge invariant expansion about the
+quasi-classical mean field(s) in powers of $1/N$ developed. The general method
+is exposed in two specific examples, $O(N)$ symmetric scalar $\l\F^4$ theory
+and Quantum Electrodynamics (QED) with $N$ fermion fields. The $\l\F^4$ case is
+well suited to the numerical study of the real time dynamics of phase
+transitions characterized by a scalar order parameter. In QED the technique may
+be used to study the quantum non-equilibrium effects of pair creation in strong
+electric fields and the scattering and transport processes in a relativistic
+$e^+e^-$ plasma. A simple renormalization scheme that makes practical the
+numerical solution of the equations of motion of these and other field theories
+is described.
+","[{""version"":""v1"",""created"":""Mon, 23 May 1994 05:42:46 GMT""}]","2008-11-26"
+"hep-ph/9405353","Mannel Thomas","Thomas Mannel","Weak Decays of Heavy-Quark Systems","Contribution to the XXIXth Rencontres de Moriond (Electroweak
+  Interactions and Unified Theories}, Meribel, France, March 12-19, 1994,
+  LaTeX, 10 pages, two figues appended after \end{document} as uu-encoded and
+  compressed .eps files, uses epsf., CERN-TH.7264/94",,,,"hep-ph",,"  The recent theoretical progress in the description of semileptonic decays in
+the framework of the heavy mass expansion is summarized. Both inclusive and
+exclusive decays are considered.
+","[{""version"":""v1"",""created"":""Mon, 23 May 1994 10:36:29 GMT""}]","2007-05-23"
+"hep-ph/9405354","Park Gye Tai","Gye T. Park and T. K. Kuo","Inclusion of Z->b b-bar vertex corrections in Precision Electroweak
+  Tests on the Sp(6)_L X U(1)_Y Model","Latex, 16 pages+4 figures(not included but available as uuencoded or
+  PS files from gtpark@phya.snu.ac.kr), PURD-TH-94-08, SNUTP-94-46","Int.J.Mod.Phys. A10 (1995) 4387-4398","10.1142/S0217751X95002035",,"hep-ph",,"  We extend our previous work on the precision electroweak tests in the Sp(6)_L
+X U(1)_Y family model to include for the first time the important Z->b b-bar
+vertex corrections encoded in a new variable epsilon_b, utilizing all the
+latest LEP data. We include in our analysis the one loop EW radiative
+corrections due to the new bosons in terms of epsilon_1, epsilon_b and
+$\Delta\Gamma_Z$. We find that the correlation between epsilon_1 and epsilon_b
+makes the combined constraint much stronger than the individual ones. The model
+is consistent with the recent CDF result of $m_t=174\pm 10^{+13}_{-12}\GeV$,
+but it can not accomodate $m_t\gsim 195\GeV$.
+","[{""version"":""v1"",""created"":""Mon, 23 May 1994 10:59:46 GMT""}]","2015-06-25"
+"hep-ph/9405355",,"J.Nemchik, N.N. Nikolaev and B.G. Zakharov","Scanning the BFKL pomeron in elastic production of vector mesons at HERA","15 pages, $ 6 figures (to be requested)","Phys.Lett. B341 (1994) 228-237","10.1016/0370-2693(94)90314-X","J\""ulich preprint KFA-IKP(Th)-1994-17","hep-ph",,"  Elastic production of vector mesons $\gamma^{*} N\to V N$ is the
+pomeron-exchange dominated diffractive reaction with much potential of probing
+the BFKL pomeron. The BFKL pomeron can conveniently be described in terms of
+the dipole cross section which is a solution of the generalized BFKL equation.
+In this paper we discuss, how the energy and $Q^{2}$ dependence of elastic
+production of vector mesons at HERA will allow scanning the dipole cross
+section as a function of dipole size $r$. We show that determinaton of the
+intercept of the BFKL pomeron requires measuring the $\rho^{0}$ and $J/\Psi$
+production at $Q^{2} \sim (100-200)GeV^2$ and/or the quasireal photoproduction
+of the $\Upsilon$. We present predictions for the effective intercept in the
+kinematic range of the forthcoming HERA experiments, which can shed much light
+on the nonperturbative component of the pomeron.
+","[{""version"":""v1"",""created"":""Mon, 23 May 1994 14:41:49 GMT""}]","2009-10-28"
+"hep-ph/9405356",,"Nick Evans","Fermion Mass Postdictions in a Generalized Extended Technicolour
+  Scenario","32 pages + 9 pages with figures, ps","Phys.Rev.D51:1377-1385,1995","10.1103/PhysRevD.51.1377","SWAT/33","hep-ph",,"  We review the recent discussion in the literature of one family extended
+technicolour models with techni-fermion mass spectra compatible with the
+experimental data for the precision parameters S,T,U,V, W and X and ETC
+interactions compatible with the LEP measurements of the $Z\to b{\bar b}$
+vertex. To investigate whether these scenarios are consistent with the third
+family fermion masses we develop a generalized ETC model in which ETC
+interactions are represented by four Fermi interactions. We discuss in detail
+the reliability of the gap equation approximation to the non-perturbative
+dynamics. Two generic scenarios of couplings fit the precision data and third
+family masses; one is an unpredicitive existence proof, the other, which
+generates the large top mass by direct top condensation, has a minimal number
+of interactions that break the global symmetry of the light fermions in the
+observed manner. This latter scenario makes surprisingly good predictions of
+the charm, strange and up quark masses.
+","[{""version"":""v1"",""created"":""Mon, 23 May 1994 15:31:20 GMT""}]","2010-11-01"
+"hep-ph/9405357",,"Alon E. Faraggi","Realistic Superstring Models","IASSNS-HEP-94/31, 20 pages, phyzzx",,,,"hep-ph hep-th",,"  I discuss the construction of realistic superstring standard--like models in
+the four dimensional free fermionic formulation. I discuss the massless
+spectrum of the superstring standard--like models and the texture of fermion
+mass matrices. These models suggest an explanation for the top quark mass
+hierarchy. At the cubic level of the superpotential only the top quark get a
+mass term. The lighter quarks and leptons obtain their mass terms from
+nonrenormalizable terms that are suppressed relative to the cubic order term. A
+numerical estimate yielded $m_t\sim175-180~GeV$. The suppression of the
+lightest generation masses results from the horizontal symmetries in the
+superstring models. The problems of neutrino masses, gauge coupling unification
+and hierarchical SUSY breaking are discussed. I argue that the realistic
+features of these models are due to the underlying $Z_2\times Z_2$ orbifold,
+with standard embedding, at the free fermionic point in toroidal
+compactification space.
+","[{""version"":""v1"",""created"":""Mon, 23 May 1994 15:55:31 GMT""}]","2007-05-23"
+"hep-th/9405145","Yusuke Taniguchi","Hiroyuki Hata and Yusuke Taniguchi","Finite Temperature Deconfining Transition in the BRST Formalism","19 pages, LaTeX, 1 latex figure + 2 uuencoded epsf figures, KUNS-1260","Prog.Theor.Phys. 93 (1995) 797-812","10.1143/ptp/93.4.797",,"hep-th hep-ph",,"  We present a toy model study of the high temperature deconfining transition
+in Yang-Mills theory as a breakdown of the confinement condition proposed by
+Kugo and Ojima. Our toy model is a kind of topological field theory obtained
+from the Yang-Mills theory by taking the limit of vanishing gauge coupling
+constant $g_{\rm YM}\to 0$, and therefore the gauge field $A_\mu$ is
+constrained to the pure-gauge configuration $A_\mu=g^{\dagger}\partial_\mu g$.
+At zero temperature this model has been known to satisfy the confinement
+condition of Kugo and Ojima which requires the absence of the massless
+Nambu-Goldstone-like mode coupled to the BRST-exact color current. In the
+finite temperature case based on the real-time formalism, our model in 3+1
+dimensions is reduced, by the Parisi-Sourlas mechanism, to the ``sum'' of
+chiral models in 1+1 dimensions with various boundary conditions of the group
+element $g(t,x)$ at the ends of the time contour. We analyze the effective
+potential of the $SU(2)$ model and find that the deconfining transition in fact
+occurs due to the contribution of the sectors with non-periodic boundary
+conditions.
+","[{""version"":""v1"",""created"":""Mon, 23 May 1994 02:49:17 GMT""}]","2017-02-01"
+"hep-th/9405146","Suresh Govindarajan","Suresh Govindarajan and T. Jayaraman","A proposal for the geometry of W_n gravity","17 pages, LaTeX, TIFR/TH/94-14 = IMSc--94/28. revised version (minor
+  changes and references added)","Phys.Lett. B345 (1995) 211-219","10.1016/0370-2693(94)01639-T",,"hep-th",,"  We relate the Teichmuller spaces obtained by Hitchin to the Teichmuller
+spaces of $WA_{n}$-gravity. The relationship of this space to $W$-gravity is
+obtained by identifying the flat $PSL(n+1,{\BR})$ connections of Hitchin to
+generalised vielbeins and connections. This is explicitly demonstrated for
+$WA_2=W_3$ gravity. We show how $W$-diffeomorphisms are obtained in this
+formulation. We find that particular combinations of the generalised connection
+play the role of projective connections. We thus obtain $W$-diffeomorphisms in
+a geometric fashion without invoking the presence of matter fields. This
+description in terms of vielbeins naturally provides the measure for the
+gravity sector in the Polyakov path integral for $W$-strings.
+","[{""version"":""v1"",""created"":""Mon, 23 May 1994 10:27:54 GMT""},{""version"":""v2"",""created"":""Thu, 2 Jun 1994 00:32:26 GMT""},{""version"":""v3"",""created"":""Thu, 6 Oct 1994 12:23:35 GMT""}]","2009-10-28"
+"hep-th/9405147","Alexandr Andrianov","A.A.Andrianov and R.Soldati","Lorentz Symmetry Breaking in Abelian Vector-Field Models with
+  Wess-Zumino Interaction","11 pages,LaTeX, Preprint DFUB/94 - 10","Phys.Rev.D51:5961-5964,1995","10.1103/PhysRevD.51.5961",,"hep-th",,"  We consider the abelian vector-field models in the presence of the
+Wess-Zumino interaction with the pseudoscalar matter. The occurence of the
+dynamic breaking of Lorentz symmetry at classical and one-loop level is
+described for massless and massive vector fields. This phenomenon appears to be
+the non-perturbative counterpart of the perturbative renormalizability and/or
+unitarity breaking in the chiral gauge theories.
+","[{""version"":""v1"",""created"":""Mon, 23 May 1994 09:55:24 GMT""}]","2010-11-01"
+"hep-th/9405148","Enzo Marinari","E. Marinari, G. Parisi and F. Ritort","Replica Field Theory for Deterministic Models: Binary Sequences with Low
+  Autocorrelation","42 pages, uufile with eps figures added in figures, ROM2F/94/15","J.Phys. A27 (1994) 7615-7646","10.1088/0305-4470/27/23/010",,"hep-th cond-mat",,"  We study systems without quenched disorder with a complex landscape, and we
+use replica symmetry theory to describe them. We discuss the
+Golay-Bernasconi-Derrida approximation of the low autocorrelation model, and we
+reconstruct it by using replica calculations. Then we consider the full model,
+its low $T$ properties (with the help of number theory) and a Hartree-Fock
+resummation of the high-temperature series. We show that replica theory allows
+to solve the model in the high $T$ phase. Our solution is based on one-link
+integral techniques, and is based on substituting a Fourier transform with a
+generic unitary transformation. We discuss this approach as a powerful tool to
+describe systems with a complex landscape in the absence of quenched disorder.
+","[{""version"":""v1"",""created"":""Mon, 23 May 1994 10:49:59 GMT""}]","2009-10-28"
+"math/9405206","Andreas Blass","Andreas Blass and R\""udiger G\""obel","Subgroups of the Baer-Specker Group with Few Endomorphisms but Large
+  Dual",,,,"Logic E-prints May 23, 1994","math.LO",,"  The Baer-Specker group is the product of countably many copies of the
+additive group Z of integers. Assuming the continuum hypothesis, we construct a
+pure subgroup G of the Baer-Specker group with the following properties. Every
+endomorphism of G differs from a scalar multiplication by an endomorphism of
+finite rank. Yet G has uncountably many homomorphisms to Z.
+","[{""version"":""v1"",""created"":""Mon, 23 May 1994 00:00:00 GMT""}]","2016-09-06"
+"nucl-th/9405025",,"J.Nemchik, N.N.Nikolaev and B.G.Zakharov","Anomalous A-dependence of diffractive leptoproduction of radial
+  excitation $\rho'(2S)$","10 pages, 4 figures (to be requested), Juelich preprint
+  KFA-IKP(Th)-1994-18","Phys.Lett. B339 (1994) 194-200","10.1016/0370-2693(94)91154-1",,"nucl-th hep-ph",,"  We predict a strikingly different $A$ and $Q^{2}$ dependence of quasielastic
+leptoproduction of the $\rho^{0}(1S)$-meson and its radial excitation $\rho
+'(2S)$ on nuclei. Whereas for the $\rho^{0}$ production nuclear transparency
+$T_{A}$ decreases monotonically with $A$, for the $\rho'$ nuclear transparency
+$T_{A}$ can have the counterintuitive nonmonotonic $A$-dependence, having the
+minimum for light nuclei, and increasing with $A$ for medium and heavy nuclei.
+Strong enhancement of the $\rho ' /\rho^{0}$ cross section ratio makes nuclear
+targets the $\rho '$-factory. The origin of the anomalous $A$-dependence is in
+the interplay of color transparency effects with the nodal structure of the
+$\rho '$ wave function. The predicted effects take place at moderate
+$Q^{2}\lsim (2-3)$GeV$^{2}$, which can be explored in high statistics
+experiments at CEBAF.
+","[{""version"":""v1"",""created"":""Mon, 23 May 1994 14:42:35 GMT""}]","2009-10-28"
+"nucl-th/9405026","Calvin Johnson","Calvin W. Johnson and Joseph N. Ginocchio","Hermitian boson mapping and finite truncation","12 pages in RevTex with no figures, Los Alamos preprint #
+  LA-UR-94-1469","Phys.Rev.C50:571-575,1994","10.1103/PhysRevC.50.R571",,"nucl-th",,"  Starting from a general, microscopic fermion-to-boson mapping that preserves
+Hermitian conjugation, we discuss truncations of the boson Fock space basis. We
+give conditions under which the exact boson images of finite fermion operators
+are also finite (e.g., a 1+2-body fermion Hamiltonian is mapped to a 1+2-body
+boson Hamiltonian) in the truncated basis. For the most general case, where the
+image is not necessarily exactly finite, we discuss how to make practical and
+controlled approximations.
+","[{""version"":""v1"",""created"":""Mon, 23 May 1994 15:23:12 GMT""}]","2008-11-26"

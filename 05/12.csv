@@ -1,0 +1,319 @@
+"astro-ph/9405023","Ian Smail","Ian Smail, Warrick J. Couch, Richard S. Ellis & Ray M. Sharples","HST Observations of Gravitationally Lensed Features in the Rich Cluster
+  Ac114","submitted to ApJ, 6 pages (no figures), uuencoded Postscript,
+  compressed TAR of Postscript figures available via anonymous ftp in
+  users/irs/figs/ac114_figs.tar.gz on astro.caltech.edu. PAL-IRS-4",,"10.1086/175291",,"astro-ph",,"  Deep Hubble Space Telescope images of superlative resolution obtained for the
+distant rich cluster AC114 (z=0.31) reveal a variety of gravitational lensing
+phenomena for which ground-based spectroscopy is available. We present a
+luminous arc which is clearly resolved by HST and appears to be a lensed z=0.64
+sub-L star spiral galaxy with a detected rotation curve. Of greatest interest
+is a remarkably symmetrical pair of compact blue images separated by 10 arcsec
+and lying close to the cluster cD. We propose that these images arise from a
+single very faint background source gravitationally lensed by the cluster core.
+Deep ground-based spectroscopy confirms the lensing hypothesis and suggests the
+source is a compact star forming system at a redshift z=1.86. Taking advantage
+of the resolved structure around each image and their very blue colours, we
+have identified a candidate third image of the same source roughly 50 arcsec
+away. The angular separation of the three images is much larger than previous
+multiply-imaged systems and indicates a deep gravitational potential in the
+cluster centre. Resolved multiply-imaged systems, readily recognised with HST,
+promise to provide unique constraints on the mass distribution in the cores of
+intermediate redshift clusters.
+","[{""version"":""v1"",""created"":""Wed, 11 May 1994 20:21:21 GMT""}]","2009-10-22"
+"astro-ph/9405024",,"A. Kashlinsky, I. I. Tkachev, and J. Frieman","Microwave background anisotropy in low-$\Omega_0$ inflationary models
+  and the scale of homogeneity in the Universe","12 pages, RevTeX 3.0, includes 2 encapsulated postscript figures","Phys.Rev.Lett. 73 (1994) 1582-1585","10.1103/PhysRevLett.73.1582",,"astro-ph",,"  We study the microwave background anisotropy due to superhorizon-size
+perturbations (the Grischuk-Zel'dovich effect) in open universes with negative
+spatial curvature. Using COBE results on the low-order temperature multipole
+moments, we find that if the homogeneity of the observable Universe arises from
+an early epoch of inflation, the present density parameter cannot differ from
+unity by more than the observed quadrupole anisotropy, $|1-\Omega_0| \alt Q
+\simeq 5\times 10^{-6}$. Thus, inflation models with low $\Omega_0$ either do
+not fit the microwave background observations or they do not solve the horizon
+problem.
+","[{""version"":""v1"",""created"":""Wed, 11 May 1994 21:36:56 GMT""}]","2009-10-22"
+"astro-ph/9405025","Brian Fields","Brian Fields, Keith Olive, and David Schramm","Cosmic Ray Models for Early Galactic Lithium, Beryllium, and Boron
+  Production","38 pages, LaTeX, 20 postscript figures available via anonymous ftp
+  (oddjob.uchicago.edu, pub/cosmic_rays/Figs.sh), FERMILAB-Pub-94/010-A","Astrophys. J.435:185-202,1994","10.1086/174805",,"astro-ph",,"  To understand better the early galactic production of Li, Be, and B by cosmic
+ray spallation and fusion reactions, the dependence of these production rates
+on cosmic ray models and model parameters is examined. The sensitivity of
+elemental and isotopic production to the cosmic ray pathlength magnitude and
+energy dependence, source spectrum, spallation kinematics, and cross section
+uncertainties is studied. Changes in these model features, particularly those
+features related to confinement, are shown to alter the Be- and B-versus-Fe
+slopes {}from a na\""{\i}ve quadratic relation. The implications of our results
+for the diffuse $\gamma$-ray background are examined, and the role of chemical
+evolution and its relation to our results is noted. It is also noted that the
+unmeasured high energy behavior of $\alpha+\alpha$ fusion can lead to effects
+as large as a factor of 2 in the resultant yields. Future data should enable
+Population II Li, Be, and B abundances to constrain cosmic ray models for the
+early Galaxy.
+","[{""version"":""v1"",""created"":""Wed, 11 May 1994 22:13:03 GMT""}]","2009-09-25"
+"astro-ph/9405026",,"J.F.L. Simmons, A. Newsam, M.A. Hendry","Optimal Reconstruction of the Velocity and Density Field: Potent and
+  Max-Flow Algorithms","7 pages of text plus 4 pages of figures, uuencoded compressed tar
+  file containing LAA style LaTeX file and a postscript figure file,
+  UG-COS-JFLS-002",,,,"astro-ph",,"  Although Potent purports to use only radial velocities in reconstructing the
+potential velocity field of galaxies, the derivation of transverse components
+is implicit in the smoothing procedures adopted. Thus the possibility arises of
+using nonradial line integrals to derive a smoothed velocity field. For an
+inhomogeneous galaxy distribution the optimal path for integration need not be
+radial, and can be obtained using max-flow algorithms. In this paper we
+describe how one may use Dijkstra's algorithm to obtain this optimal path and
+velocity field, and present the results of applying the algorithm to a
+realistic spatial distribution of galaxies. These results show that the method
+has limited effect due to the large smoothing scales employed in Potent.
+However, the viability of the technique is demonstrated and, finally, we
+discuss other possible methods involving averaging over an ensemble of
+non-radial paths for improving a potential velocity field derived from
+redshifts.
+","[{""version"":""v1"",""created"":""Thu, 12 May 1994 13:44:00 GMT""}]","2007-05-23"
+"astro-ph/9405030","Ben Dorman","Ben Dorman, Robert W. O'Connell, and Robert T. Rood","Ultraviolet Radiation from Evolved Stellar Populations: II. The
+  Ultraviolet Upturn Phenomenon in Elliptical Galaxies","uuencoded compressed postscript file, 60pp. (revisions on pp.
+  7,8,22,33,37 & 57)","Astrophys.J. 442 (1995) 105-141","10.1086/175428",,"astro-ph",,"  We present an analysis of the far-ultraviolet upturn phenomenon (UVX)
+observed in elliptical galaxies and spiral galaxy bulges. Our premise is that
+the UV radiation from these systems emanates primarily from extreme horizontal
+branch (EHB) stars and their progeny. We re-derive the broad-band UV colors
+$1500-V$ and $2500-V$ for globular clusters and elliptical galaxies from the
+available satellite data and investigate color-color and color-line strength
+correlations. We also provide the ingredients necessary for constructing models
+with arbitrary HB morphologies.
+","[{""version"":""v1"",""created"":""Thu, 12 May 1994 13:18:41 GMT""},{""version"":""v2"",""created"":""Tue, 17 May 1994 06:28:42 GMT""}]","2009-10-22"
+"astro-ph/9405031","Andrew Ulmer","E.E. Fenimore, J.G. Laros, A. Ulmer","The X-ray Spectrum of Soft Gamma Repeater 1806-20","TeX: 32 pg+ 8 appended postscript figures, in press ApJ(9/94)","Astrophys.J. 432 (1994) 742","10.1086/174612",,"astro-ph",,"  Soft Gamma Repeaters (SGRs) are a class of rare, high-energy galactic
+transients that have episodes of short (~0.1 sec), soft (~30 keV), intense
+(~100 Crab), gamma-ray bursts. We report an analysis of the x-ray emission from
+95 SGR1806-20 events observed by the International Cometary Explorer. The
+spectral shape remains remarkably constant for bursts that differ in intensity
+by a range of 50. Below 15 keV the number spectrum falls off rapidly such that
+we can estimate the total intensity of the events. Assuming that SGR1806-20 is
+associated with the supernova remnant G10.0-0.3 (Kulkarni and Frail, Murakami
+\etal), the brightest events had a total luminosity of ~1.8 x 10^42 erg sec^-1,
+a factor of 2 x 10^4 above the Eddington limit. A third of the emission was
+above 30 keV. There are at least three processes that are consistent with the
+spectral rollover below 15 keV. (1)The rollover is consistent with some forms
+of self absorption. Typical thermal temperatures are ~20 keV and require an
+emitting surface with a radius between 10 and 50 km. The lack of spectral
+variability implies that only the size of the emitting surface varies between
+events. If the process is thermal synchrotron the required magnetic field might
+be too small to confine the plasma against the super Eddington flux. (2)The low
+energy rollover could be due to photoelectric absorption by ~10^24 Hydrogen
+atoms cm^-2 of neutral material with a cosmic abundance assuming a continuum
+similar to TB with T= ~22 keV. (3) Emission in the two lowest harmonics from a
+1.3 x 10^12 Gauss field would appear as Doppler broadened lines and fall off
+rapidly below 15 keV.
+","[{""version"":""v1"",""created"":""Thu, 12 May 1994 14:17:01 GMT""}]","2009-10-22"
+"chao-dyn/9405007","Frederick H. Willeboordse","Frederick H. Willeboordse (University of Tokyo), Kunihiko Kaneko
+  (University of Tokyo)","Self-organized Periodic Lattices of Chaotic Defects","4 pages; single compressed and uuencoded Postscript file which
+  includes the 8 figures",,"10.1103/PhysRevE.52.1516",,"chao-dyn adap-org nlin.AO nlin.CD",,"  A novel type of self-organized lattice in which chaotic defects are arranged
+periodically is reported for a coupled map model of open flow. We find that
+temporally chaotic defects are followed by spatial relaxation to an almost
+periodic state when suddenly a next defect appears. The distance between
+successive defects is found to be generally predetermined and diverging
+logarithmically when approaching a certain critical point. The phenomena are
+analyzed and shown to be explicable as the results of a boundary crisis for the
+spatially extended system.
+","[{""version"":""v1"",""created"":""Thu, 12 May 1994 10:19:27 GMT""}]","2009-10-22"
+"cond-mat/9405033","Michael C. Martin","Daniel Koller, Michael C. Martin and Laszlo Mihaly","Infrared Spectroscopic Study of Phase Transisions in A1c60 Compounds
+  (a=K,Rb,Cs)","To be published in Mol. Cryst. Liq. Cryst., Procceding of 1994 Salt
+  Lake City conference on Fullerenes. Postscript file including figures.
+  SLCDOPE","Mol. Cryst. Liq. Cryst. 256, 275 (1994)",,,"cond-mat",,"  Optical measurements on doped C$_{60}$ films provide evidence for a
+transition from a high temperature conducting phase to a low temperature
+insulating phase in quenched Rb$_1$C$_{60}$ and K$_1$C$_{60}$ compounds, while
+Cs$_1$C$_{60}$ did not exhibit this behavior. For slow cooled samples our study
+confirms earlier results indicating phase separation of K$_1$C$_{60}$ to
+K$_3$C$_{60}$ and C$_{60}$, and the formation of a new Rb$_1$C$_{60}$ phase at
+low temperatures. Upon slow cooling Cs$_1$C$_{60}$ behaves similar to
+Rb$_1$C$_{60}$.
+","[{""version"":""v1"",""created"":""Wed, 11 May 1994 16:48:04 GMT""}]","2007-05-23"
+"gr-qc/9405030",,"J.N. Goldberg and D.C. Robinson","Linearized Constraints in the Connection Representation: Hamilton-Jacobi
+  Solution","16 pages Plain Tex","Phys.Rev.D50:6338-6343,1994","10.1103/PhysRevD.50.6338",,"gr-qc",,"  Newman and Rovelli have used singular Hamilton-Jacobi transformations to
+reduce the phase space of general relativity in terms of the Ashtekar
+variables. Their solution of the gauge constraint cannot be inverted and indeed
+has no Minkowski space limit. Nonetheless, we exhibit an explicit
+Hamilton-Jacobi solution of all the linearized constraints. The result does not
+encourage an iterative solution, but it does indicate the origin of the
+singularity of the Newman-Rovelli result.
+","[{""version"":""v1"",""created"":""Wed, 11 May 1994 22:28:58 GMT""}]","2010-11-01"
+"gr-qc/9405031","Renate Loll","A. Ashtekar and R. Loll","New Loop Representations for 2+1 Gravity","28pp, 1 figure (postscript, compressed and uuencoded), TeX,
+  Pennsylvania State University, CGPG-94/5-1","Class.Quant.Grav.11:2417-2434,1994","10.1088/0264-9381/11/10/004",,"gr-qc hep-th",,"  Since the gauge group underlying 2+1-dimensional general relativity is
+non-compact, certain difficulties arise in the passage from the connection to
+the loop representations. It is shown that these problems can be handled by
+appropriately choosing the measure that features in the definition of the loop
+transform. Thus, ``old-fashioned'' loop representations - based on ordinary
+loops - do exist. In the case when the spatial topology is that of a two-torus,
+these can be constructed explicitly; {\it all} quantum states can be
+represented as functions of (homotopy classes of) loops and the scalar product
+and the action of the basic observables can be given directly in terms of
+loops.
+","[{""version"":""v1"",""created"":""Thu, 12 May 1994 00:03:59 GMT""}]","2010-04-06"
+"hep-ex/9405002","Nichol Brummer","Nichol C. Brummer","An optimal method of moments to measure the charge asymmetry at the
+  $Z^0$","7 pages of uuencoded postscript, NIKHEF preprint NIKHEF-H/94-06","Nucl.Instrum.Meth.A348:105-108,1994","10.1016/0168-9002(94)90847-8",,"hep-ex",,"  Parity violation at LEP or SLC can be measured through the charge asymmetry.
+An optimal method of moments is developed here to measure this asymmetry, as
+well as similar asymmetries. This method is equivalent to the likelihood fit.
+It is simpler in use, as it gives analytical formulas for both the asymmetry
+and its statistical error. These formulas give the dependence of the accuracy
+on the experimental angular acceptance explicitly.
+","[{""version"":""v1"",""created"":""Wed, 11 May 1994 16:24:00 GMT""}]","2010-11-01"
+"hep-ph/9405267","Schwesinger","J. Kroll and B. Schwesinger","Electric Quadrupole Moments of the Decuplet and the Strangeness Content
+  of the Proton","6 pages, LATEX, (1 LATEX-figure), hardcopy : preprint# SI-94-TP3S1","Phys.Lett.B334:287-289,1994","10.1016/0370-2693(94)90689-0",,"hep-ph",,"  In the SU3 Skyrme model the electric quadrupole moments of $\frac{3}{2}^+$
+baryons show a strong sensitivity with respect to flavor distortions in baryon
+wavefunctions. SU3 symmetric wavefunctions lead to quadrupole moments
+proportional to the charge of the baryon whereas for strongly broken flavor
+symmetry a proportionality to baryonic isospin emerges. Since the flavor
+distortions in the wavefunctions also determine the strangeness content of the
+proton the Skyrme model provides a link between both quantities.
+","[{""version"":""v1"",""created"":""Wed, 11 May 1994 16:53:00 GMT""}]","2008-11-26"
+"hep-ph/9405268","Jicai Pan","Rudolph C. Hwa and Jicai Pan","Cluster Growth in Two-Dimensional Quark-Hadron Phase Transition","14 pages, 9 postscript figures included","Phys.Rev.C50:2516-2524,1994","10.1103/PhysRevC.50.2516",,"hep-ph",,"  The problem of hadronic cluster production in heavy-ion collisions is studied
+in search for an observable signature of first-order quark-hadron phase
+transition. The study is carried out by cellular automata in a two-dimensional
+model of the mixed phase at midrapidity. The clusters are allowed to grow as
+well as to coalesce upon collision. The distribution of cluster sizes is found
+to exhibit scaling behavior that is independent of the size of the mixed
+region, nucleation radius and nucleation probability. The universal scaling
+index $\gamma=1.86\pm 0.18$ may be used to characterize and identify the phase
+transition process. Possible connection with self-organized criticality is
+pointed out.
+","[{""version"":""v1"",""created"":""Wed, 11 May 1994 16:39:44 GMT""}]","2009-09-25"
+"hep-ph/9405269","Marcelo Gleiser","Marcelo Gleiser","On the Strength of First Order Phase Transitions","16 pages, 4 figures not included (can be obtained from
+  hep-ph/9403310, or by request) RevTeX, DART-HEP-94/02",,,,"hep-ph cond-mat",,"  Electroweak baryogenesis may solve one of the most fundamental questions we
+can ask about the universe, that of the origin of matter. It has become clear
+in the past few years that it also poses a multi-faceted challenge. In order to
+compute the tiny primordial baryonic excess, we probably must invoke physics
+beyond the standard model (an exciting prospect for most people), we must push
+perturbation theory to its ``limits'' (or beyond), and we must deal with
+nonequilibrium aspects of the phase transition. In this talk, I focus mainly on
+the latter issue, that of nonequilibrium aspects of first order transitions. In
+particular, I discuss the elusive question of ``weakness''. What does it mean
+to have a weak first order transition, and how can we distinguish between weak
+and strong? I argue that weak and strong transitions have very different
+dynamics; while strong transitions proceed by the usual bubble nucleation
+mechanism, weak transitions are characterized by a mixing of phases as the
+system reaches the critical temperature from above. I show that it is possible
+to clearly distinguish between the two, and discuss consequences for studies of
+first order transitions in general. (Invited talk given at the ``Electroweak
+Physics and the Early Universe'' workshop, Sintra, March 23-25, 1994.)
+","[{""version"":""v1"",""created"":""Wed, 11 May 1994 19:35:35 GMT""}]","2009-09-25"
+"hep-ph/9405270","Jin","Jin Dai (Department of Physics, Univ. of California, San Diego, CA)","An Alternative Method of Extracting $V_{bu}$ from Semi-leptonic B Decay","5 pages","Phys.Lett.B333:212-214,1994","10.1016/0370-2693(94)91032-4","UCSD/PTH-94-04","hep-ph",,"  We propose a new method of extracting $V_{bu}$ from measurements of
+Semi-leptonic B decay which has much less theoretical uncertainties than
+conventional methods.
+","[{""version"":""v1"",""created"":""Thu, 12 May 1994 05:17:02 GMT""}]","2010-11-01"
+"hep-ph/9405271",,"Markus A. Luty","Baryons with Many Colors and Flavors","19 pages, plain TeX, 4 uuencoded postscrip figures, LBL-35539,
+  NSF-ITP-94-42","Phys.Rev. D51 (1995) 2322-2331","10.1103/PhysRevD.51.2322",,"hep-ph hep-th",,"  Using recently-developed diagrammatic techniques, I derive some general
+results concerning baryons in the $1/N$ expansion, where $N$ is the number of
+QCD colors. I show that the spin-flavor relations which hold for baryons in the
+large-$N$ limit, as well as the form of the corrections to these relations at
+higher orders in $1/N$, hold even if $N_F / N \sim 1$, where $N_F$ is the
+number of light quark flavors. I also show that the amplitude for a baryon to
+emit $n$ mesons is $O(1 / N^{n / 2 - 1})$, and that meson loops attached to
+baryon lines are unsupressed in the large-$N$ limit, independent of $N_F$. For
+$N_F > 2$, there are ambiguities in the extrapolation away from $N = 3$ because
+the baryon flavor multiplets for a given spin grow with $N$. I argue that the
+$1/N$ expansion is valid for baryons with spin $O(1)$ and {\it arbitrary}
+flavor quantum numbers, including e.g. baryons with isospin and/or strangeness
+$O(N)$. This allows the formulation of a large-$N$ expansion in which it is not
+necessary to identify the physical baryons with particular large-$N$ states.
+$SU(N_F)$ symmetry can be made manifest to all orders in $1/N$, yet group
+theory factors must be evaluated explicitly only for $N_F = N = 3$. To
+illustrate this expansion, I consider the non-singlet axial currents, baryon
+mass splittings, and matrix elements of $\mybar ss$ and $\mybar s \gam_\mu
+\gam_5 s$ in the nucleon.
+","[{""version"":""v1"",""created"":""Thu, 12 May 1994 02:00:54 GMT""}]","2009-10-28"
+"hep-ph/9405272",,"Markus A. Luty, John March-Russell, and Martin White","Baryon Magnetic Moments in a Simultaneous Expansion in $1/N$ and $m_s$","11 pages, plain TeX, 1 uuencoded postscript figure, LBL-35598,
+  CfPA-94-TH-25","Phys.Rev.D51:2332-2337,1995","10.1103/PhysRevD.51.2332",,"hep-ph hep-th",,"  We consider the baryon octet and decuplet magnetic moments in a simultaneous
+expansion in $m_s$ and $1/N$ taking $N_F / N \sim 1$, where $N$ is the number
+of QCD colors and $N_F$ is the number of light quark flavors. At leading order
+in this expansion, the magnetic moments obey the non-relativistic quark-model
+relations. We compute corrections to these relations using an effective
+lagrangian formalism which respects chiral symmetry to all orders in the $1/N$
+expansion. Including corrections up to order $m_s^{1/2}$, we find 8 relations
+among the 9 measured octet and decuplet magnetic moments; including corrections
+up to order $1/N$ and $m_s$, we find 4 remaining relations. The relations work
+well, and suggest that the expansion is under control. We give predictions for
+the unmeasured decuplet magnetic moments.
+","[{""version"":""v1"",""created"":""Thu, 12 May 1994 02:01:10 GMT""}]","2009-09-25"
+"hep-ph/9405273","Heath O'Connell","H.B. O'Connell, B.C. Pearce, A.W. Thomas and A.G. Williams","Constraints on the momentum dependence of rho-omega mixing","8 pages. Publication details added to title page","Phys.Lett.B336:1-5,1994","10.1016/0370-2693(94)00991-0","ADP-94-7/T149","hep-ph nucl-th",,"  Within a broad class of models we show that the amplitude for rho^0-omega
+mixing must vanish at the transition from timelike to spacelike four momentum.
+Hence in such models the mixing is either zero everywhere or is necessarily
+momentum-dependent. This lends support to the conclusions of other studies of
+rho-omega mixing and calls into question standard assumptions about the role of
+rho-omega mixing in the theoretical understanding of charge-symmetry breaking
+in nuclear systems.
+","[{""version"":""v1"",""created"":""Thu, 12 May 1994 01:19:11 GMT""},{""version"":""v2"",""created"":""Wed, 17 Aug 1994 04:52:05 GMT""},{""version"":""v3"",""created"":""Thu, 28 May 1998 18:49:36 GMT""}]","2008-11-26"
+"hep-th/9405075",,"J. Sobczyk","Classical r-matrices and construction of quantum groups","9 pages",,,"FTUV/94-25","hep-th math.QA",,"  A problem of constructing quantum groups from classical r-matrices is
+discussed.
+","[{""version"":""v1"",""created"":""Wed, 11 May 1994 18:29:00 GMT""},{""version"":""v2"",""created"":""Tue, 7 Jun 1994 08:37:00 GMT""}]","2008-02-03"
+"hep-th/9405076",,"P. Kosi{\'n}ski(1), J. Lukierski(2),P. Ma{\'s}lanka(2), J.
+  Sobczyk(4)((1) Institute of Physics, University of Lodz, ul. Pomorska
+  149/153, 90-236 Lodz,Poland;(2)Institute for Theoretical Physics, University
+  of Wroclaw, pl. Maxa Borna 9, 50-204 Wroclaw, Poland)","Quantum Deformation of the Poincare Supergroup and $\kappa$-deformed
+  Superspace","Wroclaw University preprint IFTUWr 868 /94, March 1994, 12 pages","J.Phys. A27 (1994) 6827-6838","10.1088/0305-4470/27/20/019",,"hep-th",,"  The classical $r$-matrix for $N=1$ superPoincar{\'e} algebra, given by
+Lukierski, Nowicki and Sobczyk is used to describe the graded Poisson structure
+on the $N=1$ Poincar{\'e} supergroup. The standard correspondence principle
+between the even (odd) Poisson brackets and (anti)commutators leads to the
+consistent quantum deformation of the superPoincar{\'e} group with the
+deformation parameter $q$ described by fundamental mass parameter $\kappa \quad
+(\kappa^{-1}=\ln{q})$. The $\kappa$-deformation of $N=1$ superspace as dual to
+the $\kappa$-deformed supersymmetry algebra is discussed.
+","[{""version"":""v1"",""created"":""Wed, 11 May 1994 16:04:53 GMT""}]","2019-08-15"
+"hep-th/9405077","Victor Gurarie","V. Gurarie","Probability Density, Diagrammatic Technique, and Epsilon Expansion in
+  the Theory of Wave Turbulence","26 pages, PUPT-1462","Nucl.Phys. B441 (1995) 569-594","10.1016/0550-3213(95)00108-5",,"hep-th cond-mat",,"  We apply the methods of Field Theory to study the turbulent regimes of
+statistical systems. First we show how one can find their probability
+densities. For the case of the theory of wave turbulence with four-wave
+interaction we calculate them explicitly and study their properties. Using
+those densities we show how one can in principle calculate any correlation
+function in this theory by means of direct perturbative expansion in powers of
+the interaction. Then we give the general form of the corrections to the
+kinetic equation and develop an appropriate diagrammatic technique. This
+technique, while resembling that of $\varphi^4$ theory, has many new
+distinctive features. The role of the $\epsilon=d-4$ parameter is played here
+by the parameter $\kappa=\beta + d - \alpha - \gamma$ where $\beta$ is the
+dimension of the interaction, $d$ is the space dimension, $\alpha$ is the
+dimension of the energy spectrum and $\gamma$ is the ``classical'' wave density
+dimension. If $\kappa > 0$ then the Kolmogorov index is exact, and if $\kappa <
+0$ then we expect it to be modified by the interaction. For $\kappa$ a small
+negative number, $\alpha<1$ and a special form of the interaction we compute
+this modification explicitly with the additional assumption of the irrelevance
+of the IR divergencies which still needs to be verified.
+","[{""version"":""v1"",""created"":""Wed, 11 May 1994 22:25:32 GMT""},{""version"":""v2"",""created"":""Tue, 31 May 1994 00:31:43 GMT""}]","2009-10-28"
+"hep-th/9405078","Hugo Compean","J.F. Pleba\'nski and H. Garc\'ia-Compe\'an","A Note on Weak ${\cal H}$-Spaces, Heavenly Equations and their Evolution
+  Weak Heavenly Equations","20 pages, TeX, CINVESTAV-PHYS-04/94","Acta Phys.Polon. B26 (1995) 3-18",,,"hep-th",,"  \noindent It is find a non-linear partial differential equation which we show
+contains the first Heavenly equation of Self-dual gravity and generalize the
+second one. This differential equation we call ""Weak Heavenly Equation"" (${\cal
+WH}$-equation). For the two-dimensional case the ${\cal WH}$-equation is
+brought into the evolution form (Cauchy-Kovalevski form) using the Legendre
+transformation. Finally, we find that this transformed equation (""Evolution
+Weak Heavenly Equation"") does admit very simple solutions.
+","[{""version"":""v1"",""created"":""Thu, 12 May 1994 02:46:10 GMT""}]","2016-08-14"
+"hep-th/9405079","Piotr Podles","P. Kondratowicz and P. Podles","On representation theory of quantum $SL_q(2)$ groups at roots of unity","31 pages, Section 2.7 added and other minor changes","Banach Center Publ. 40 (1997) 223-248",,,"hep-th math.QA",,"  Irreducible representations of quantum groups $SL_q(2)$ (in Woronowicz'
+approach) were classified in J.Wang, B.Parshall, Memoirs AMS 439 in the~case of
+$q$ being an~odd root of unity. Here we find the~irreducible representations
+for all roots of unity (also of an~even degree), as well as describe
+""the~diagonal part"" of tensor product of any two irreducible representations.
+An~example of not completely reducible representation is given. Non--existence
+of Haar functional is proved. The~corresponding representations of universal
+enveloping algebras of Jimbo and Lusztig are provided. We also recall the~case
+of general~$q$. Our computations are done in explicit way.
+","[{""version"":""v1"",""created"":""Thu, 12 May 1994 12:26:42 GMT""},{""version"":""v2"",""created"":""Fri, 3 Jun 1994 11:11:46 GMT""},{""version"":""v3"",""created"":""Sun, 21 Jan 1996 03:31:14 GMT""}]","2008-02-03"
+"math/9405201","Juris Steprans","Juris Stepr\=ans","Cardinal Invariants Associated with Hausdorff Capacities",,,,"Logic E-prints May 12, 1994","math.LO",,"  This is a revision (and partial retraction) of my previous abstarct. Let
+$\lambda(X)$ denote Lebesgue measure. If $X\subseteq [0,1]$ and $r \in (0,1)$
+then the $r$-Hausdorff capacity of $X$ is denoted by $H^r(X)$ and is defined to
+be the infimum of all $\sum_{i=0}^\infty \lambda(I_i)^r$ where
+$\{I_i\}_{i\in\omega}$ is a cover of $X$ by intervals. The $r$ Hausdorff
+capacity has the same null sets as the $r$-Hausdorff measure which is familiar
+from the theory of fractal dimension. It is shown that, given $r < 1$, it is
+possible to enlarge a model of set theory, $V$, by a generic extension $V[G]$
+so that the reals of $V$ have Lebesgue measure zero but still have positive
+$r$-Hausdorff capacity.
+","[{""version"":""v1"",""created"":""Thu, 12 May 1994 00:00:00 GMT""}]","2009-09-25"
+"nucl-th/9405012",,"M.J. Musolf, R. Schiavilla, and T.W. Donnelly","Many-Body Currents and the Strange-Quark Content of 4he","32 TEX pages and 7 figures (not included, available from authors upon
+  request), CEBAF Preprint #TH-94-10","Phys.Rev.C50:2173-2188,1994","10.1103/PhysRevC.50.2173",,"nucl-th hep-ph",,"  Meson-exchange current (MEC) contributions to the parity-violating (PV)
+asymmetry for elastic scattering of polarized electrons from $^4$He are
+calculated over a range of momentum transfer using Monte Carlo methods and a
+variational $^4$He ground state wavefunction. The results indicate that MEC's
+generate a negligible contribution to the asymmetry at low-$|\qv|$, where a
+determination of the nucleon's mean square strangeness radius could be carried
+out at CEBAF. At larger values of momentum transfer -- beyond the first
+diffraction minimum -- two-body corrections from the $\rho$-$\pi$ \lq\lq
+strangeness charge"" operator enter the asymmetry at a potentially observable
+level, even in the limit of vanishing strange-quark matrix elements of the
+nucleon. For purposes of constraining the nucleon's strangeness electric form
+factor, theoretical uncertainties associated with these MEC contributions do
+not appear to impose serious limitations.
+","[{""version"":""v1"",""created"":""Wed, 11 May 1994 21:47:45 GMT""}]","2009-09-25"

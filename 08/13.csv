@@ -1,0 +1,148 @@
+"astro-ph/9408036","Chuck Bennett","C. L. Bennett","Observations of the Cosmic Microwave Background","10 pages of uuencoded postscript To Appear in Nuclear Physics B
+  Proceedings Supplements (""Neutrino 94"", Eilat, Israel, June 1994)",,"10.1016/0920-5632(94)00776-R",,"astro-ph",,"  The properties of the cosmic microwave background radiation provide unique
+constraints on cosmological models, i.e. on the content, history, and evolution
+of the Universe. I discuss the latest measurements of the spectral and spatial
+properties of the cosmic microwave background radiation. Recent measurements
+from NASA's Cosmic Background Explorer (COBE) satellite, and from balloon-borne
+and ground-based platforms, are summarized and their cosmological implications
+are discussed.
+","[{""version"":""v1"",""created"":""Fri, 12 Aug 1994 21:11:46 GMT""}]","2009-10-22"
+"astro-ph/9408037","Gary Hinshaw","G. Hinshaw, C.L. Bennett, and A. Kogut","CMB Maps at 0.5 degree Resolution I: Full-Sky Simulations and Basic
+  Results","13 pages with 3 figures and 1 color plate available on request,
+  uuencoded Postscript",,,,"astro-ph",,"  We have simulated full-sky maps of the Cosmic Microwave Background (CMB)
+anisotropy expected from Cold Dark Matter (CDM) models at 0.5 and 1.0 degree
+angular resolution. Statistical properties of the maps are presented as a
+function of sky coverage, angular resolution, and instrument noise, and the
+implications of these results for observability of the Doppler peak are
+discussed. The rms fluctuations in a map are not a particularly robust probe of
+the existence of a Doppler peak, however, a full correlation analysis can
+provide reasonable sensitivity. We find that sensitivity to the Doppler peak
+depends primarily on the fraction of sky covered, and only secondarily on the
+angular resolution and noise level. Color plates and one-dimensional scans of
+the maps are presented to visually illustrate the anisotropies.
+","[{""version"":""v1"",""created"":""Fri, 12 Aug 1994 22:25:43 GMT""}]","2007-05-23"
+"astro-ph/9408038",,"A. Kogut, G. Hinshaw, and C.L. Bennett","CMB Maps at 0.5 Degree Resolution II: Unresolved Features","uuencoded compressed PostScript file (8 pages including 2 figures)
+  submitted to The Astrophysical Journal Letters, August 12, 1994",,,,"astro-ph",,"  High-contrast peaks in the cosmic microwave background (CMB) anisotropy can
+appear as unresolved sources to observers. We fit simulated CMB maps generated
+with a cold dark matter model to a set of unresolved features at instrumental
+resolution 0.5 degrees to 1.5 degrees and present the integral density per
+steradian n(>|T|) of unresolved features brighter than threshold temperature
+|T|. A typical medium-scale experiment observing 0.001 sr at 0.5 degree
+resolution would expect to observe one unresolved feature brighter than 85 \muK
+after convolution with the beam profile, with less than 5% probability to
+observe a source brighter than 150 \muK. Increasing the power-law index of
+primordial density perturbations n from 1 to 1.5 raises these temperature
+limits |T| by a factor of 2. The results are only weakly dependent on the
+assumed values of the Hubble constant and baryon density.
+","[{""version"":""v1"",""created"":""Fri, 12 Aug 1994 22:29:59 GMT""}]","2007-05-23"
+"astro-ph/9408039","Albert Zijlstra","R. Siebenmorgen, A.A. Zijlstra and E. Kruegel","BD+30 3639: The Infrared Spectrum During Post-AGB Stellar Evolution","accepted for publication in MNRAS. LaTeX, 15 pages, hardcopy and 8
+  figures available from rsiebenm@isosa5.estec.esa.nl or azijlstr@eso.org","Mon.Not.Roy.Astron.Soc. 271 (1994) 449S","10.1093/mnras/271.2.449","ESO preprint 1013","astro-ph",,"  We present a radiative-transfer calculation which reproduces the infrared
+spectrum of the planetary nebula BD~+30$^{\circ}$3639. We calculate the
+transfer process through absorption and scattering in a spherical-symmetric
+multi-grain dust shell. The emission of transiently heated particles is taken
+into account, as well as polycyclic aromatic hydrocarbons. We obtain an
+acceptable fit to most of the spectrum, including the PAH infrared bands. At
+submillimetre wavelengths the observed emission is larger than the model
+predicts, indicating that large dust conglomerates (``f{}luffy grains'') may be
+needed as an additional constituent. The fit favours a distance of $\ge 2
+\,$kpc, which implies that BD~+30$^\circ$3639 has evolved from a massive
+progenitor of several solar masses. A low dust-to-gas mass ratio is found in
+the ionised region. The calculations yield an original mass-loss rate of
+$2\times10^{-4} \msolar \peryr$ on the Asymptotic Giant Branch. Using this
+mass-loss rate, we calculate how the infrared spectrum has evolved during the
+post-AGB evolution. We show in particular the evolution of the IRAS colours
+during the preceding post-AGB evolution.
+","[{""version"":""v1"",""created"":""Sat, 13 Aug 1994 09:44:49 GMT""}]","2015-06-24"
+"chem-ph/9408002","David Coker","D.F. Coker and L. Xiao (Department of Chemistry, Boston University,
+  590 Commonwealth Avenue, Boston, MA)","Methods for molecular dynamics with nonadiabatic transitions","(figures available upon request)",,"10.1063/1.469428",,"chem-ph physics.chem-ph",,"  We show how the dynamically nonlocal formulation of classical nuclear motion
+in the presence of quantal electronic transitions presented many years ago by
+Pechukas can be localized in time using time dependent perturbation theory to
+give an impulsive force which acts when trajectories hop between electronic
+surfaces. The action of this impulsive force is completely equivalent to
+adjusting the nuclear velocities in the direction of the nonadiabatic coupling
+vector so as to conserve energy, a procedure which is widely used in surface
+hopping trajectory methods. This is the first time the precise connection
+between these two formulations of the nonadiabatic dynamics problem has been
+considered. We also demonstrate that the stationary phase approximation to the
+reduced propagator at the heart of Pechukas' theory is not unitary due to its
+neglect of nonstationary paths. As such mixed quantum-classical evolution
+schemes based on this approximation are not norm conserving and in general must
+fail to give the correct branching between different competing electronic
+states. Tully's phase coherent, fewest switches branching algorithm is
+guaranteed to conserve the norm. The branching between different alternatives
+predicted by this approach, however, may be inaccurate, due to use of the
+approximate local dynamics. We explore the relative merits of these different
+approximations using Tully's 1D two state example scattering problems for which
+numerically exact results are easily obtained.
+","[{""version"":""v1"",""created"":""Fri, 12 Aug 1994 19:28:52 GMT""},{""version"":""v2"",""created"":""Sat, 13 Aug 1994 17:34:57 GMT""}]","2009-10-22"
+"cond-mat/9408041","Randall Kamien","Randall D. Kamien and John Toner","Anomalous Elasticity of Polymer Cholesterics","12 pages, Plain TeX, (1 postscript figure, compressed, uuencoded and
+  appended to paper), minor corrections, IASSNS-HEP-94/48","Phys. Rev. Lett. 74 (1995) 3181","10.1103/PhysRevLett.74.3181",,"cond-mat",,"  We show that polymer cholesterics have much longer pitches than comparable
+short molecule cholesterics, due to their anomalous elasticity. The pitch $P$
+of a chiral mixture with concentration $c$ near the racemic (non-chiral)
+concentration $c^*$ diverges like $\vert c-c^*\vert^{-\nu}$ with $\nu=1.43 \pm
+0.04$ (for short molecule cholesterics $\nu=1$). The short molecule law is
+recovered for polymers of finite molecular length $\ell$ once the pitch is
+longer than a length that diverges like $\ell^\gamma$ with $\gamma=0.67 \pm
+0.01$. Our predictions could be tested by measurements of the pitch in DNA.
+","[{""version"":""v1"",""created"":""Fri, 12 Aug 1994 23:07:10 GMT""},{""version"":""v2"",""created"":""Thu, 18 Aug 1994 22:07:09 GMT""}]","2009-10-22"
+"hep-ph/9408280",,"Keith A. Olive and Serge Rudaz","Light Stops in the MSSM: Implications for Photino Dark Matter and Top
+  Quark Decay","11pages, LaTex, UMN-TH-1309/94","Phys.Lett.B340:74-80,1994","10.1016/0370-2693(94)91300-5",,"hep-ph astro-ph",,"  We consider the viability of the minimal supersymmetric standard model with a
+light ($m_{\tilde t_1} < $ 45 GeV) stop. In order for its relic abundance to be
+cosmologically significant, the photino as dark matter must be quite close in
+mass to the stop, $(m_{\tilde t_1} - m_{\tilde \gamma}) \simeq 3 - 7 $ GeV.
+However, as we show, the photino despite its low mass is virtually undetectable
+by either direct or indirect means. We also discuss the implications of these
+masses on the top quark branching ratios.
+","[{""version"":""v1"",""created"":""Fri, 12 Aug 1994 19:18:38 GMT""}]","2009-09-25"
+"hep-ph/9408281",,"R. N. Mohapatra and S. Nussinov","Implications of a Purely Right-Handed Bottom Quark Decay Coupling","UMD-PP-95-31; 13 pages,Latex file","Phys.Lett. B339 (1994) 101-108","10.1016/0370-2693(94)91140-1",,"hep-ph",,"  We examine the implications of the hypothesis that the decays of the b-quark
+occur via pure right-handed couplings. We show that the existing lower limits
+on neutrinoless double beta decay imply that any gauge model realizing this
+idea must have either an $L_e-L_\mu$ or $L_e-L_\tau$ symmetry. We then show
+that constraints of cosmology together with observations from SN1987A imply
+that the right-handed neutrinos in this model must be heavier than about 100
+MeV in general. In one special case with the $L_e-L_\mu$ symmetry, the
+$\nu_{\tau_R}$ is heavier than 2 GeV so that this particular version of the
+model is already ruled out.
+","[{""version"":""v1"",""created"":""Fri, 12 Aug 1994 20:21:18 GMT""}]","2009-10-28"
+"hep-ph/9408282",,"Hisashi Kikuchi and Ernest Ma","Heavy Tau Neutrino as the Late Decaying Particle in the Cold Dark Matter
+  Scenario","10 pages (LaTeX) + 1 figure (Its PostScript file is attached after
+  the LaTeX text. The figure is also available upon request.), UCRHEP-T131","Phys.Rev.D51:296-299,1995","10.1103/PhysRevD.51.296",,"hep-ph astro-ph",,"  The tau neutrino with a mass of about 10 MeV can be the ``late decaying
+particle'' in the cold dark matter scenario for the formation of structure in
+the Universe. We show how this may be realized specifically in the recently
+proposed doublet Majoron model.
+","[{""version"":""v1"",""created"":""Sat, 13 Aug 1994 00:25:49 GMT""}]","2009-12-30"
+"hep-th/9408069","Jean-Loup Gervais","Jean-Loup Gervais","Quantum deformations of $sl(2)$: The hard core of two dimensional
+  gravity","Latex with epsf, 6 figures in separate uuencoded file. Notes of
+  lectures at the XXX Karpacz Winter School (1994) entitled: ""Quantum groups:
+  Formalism and applications"". Replacement for technical problem only",,,,"hep-th",,"  The quantum group structure of the Liouville theory is reviewd and shown to
+be an important tool for solving the theory.
+","[{""version"":""v1"",""created"":""Fri, 12 Aug 1994 16:35:24 GMT""}]","2009-09-25"
+"hep-th/9408075",,"Ricardo Amorim and Ashok Das","A Note on Abelian Conversion of Constraints","10 pgs., UR1369, ER40685-819","Mod.Phys.Lett.A9:3543-3550,1994","10.1142/S0217732394003385",,"hep-th",,"  We show that for a system containing a set of general second class
+constraints which are linear in the phase space variables, the Abelian
+conversion can be obtained in a closed form and that the first class
+constraints generate a generalized shift symmetry. We study in detail the
+example of a general first order Lagrangian and show how the shift symmetry
+noted in the context of BV quantization arises.
+","[{""version"":""v1"",""created"":""Fri, 12 Aug 1994 16:37:21 GMT""}]","2008-11-26"
+"hep-th/9408076","Jean-Loup Gervais","Jean-Loup Gervais, Jean-Fran\c{c}ois Roussel","From Weak to Strong Coupling in Two-Dimensional Gravity","LPTENS-94/25, Latex file + figures","Phys.Lett. B338 (1994) 437-447","10.1016/0370-2693(94)90798-6",,"hep-th",,"  The strong coupling physics of two dimensional gravity at C=7, 13, 19 is
+deciphered, by building up on previous works along the same line (for a recent
+review, of the background material, see hep-th/9408069). It is shown that
+chirality becomes deconfined. The string suceptibility is derived, and found to
+be real contrary to the continuation of the KPZ formula. Topological Liouville
+string theories (without transverse degree of freedom) are explicitely solved.
+Altough they involve strongly coupled gravity, they share many features with
+the standard matrix models.
+","[{""version"":""v1"",""created"":""Fri, 12 Aug 1994 17:07:11 GMT""}]","2009-10-28"
+"hep-th/9408077","Valeri Dvoeglazov","Valeri V. Dvoeglazov (Universidad Autonoma de Zacatecas)","Mapping Between Antisymmetric Tensor And Weinberg Formulations","HPATEX.STY used, 8pp","Helv.Phys.Acta 70:677-685,1997",,"EFUAZ FT-94-05-REV","hep-th",,"  In the framework of the classical field theory a mapping between
+antisymmetric tensor matter fields and Weinberg's $2(2j+1)$ component
+""bispinor"" fields is considered. It is shown that such a mapping exists and
+equations which describe the $j=1$ antisymmetric tensor field coincide with the
+Hammer-Tucker equations completely and with the Weinberg ones within a
+subsidiary condition, the Klein-Gordon equation. A new Lagrangian for the
+Weinberg theory is proposed. It is scalar, Hermitian and contains only the
+first-order time derivatives of the fields. The remarkable feature of this
+Lagrangian is the presence of dual field functions, considered as parts of a
+parity doublet. I study then origins of appearance of the dual solutions in the
+Weinberg equations on the basis of spinorial analysis and point out the topics
+which have to be explained in the framework of a secondary quantization scheme.
+","[{""version"":""v1"",""created"":""Sat, 13 Aug 1994 00:57:44 GMT""},{""version"":""v2"",""created"":""Sun, 7 Sep 1997 00:11:11 GMT""}]","2011-04-20"

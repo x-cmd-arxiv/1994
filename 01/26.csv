@@ -1,0 +1,383 @@
+"alg-geom/9401006","Flad","M. Dubois-Violette, P.W. Michor","A common generalization of the Fr\""olicher-Nijenhuis bracket and the
+  Schouten bracket for symmetry multi vector fields","14 pages, AMSTEX, LPTHE-ORSAY 94/05 and ESI 70 (1994)","Indagationes Math. N. S., 6 (1995), 51--66",,,"alg-geom hep-th math.AG",,"  There is a canonical mapping from the space of sections of the bundle $\wedge
+T^\ast M\otimes ST\ M$ to $\Omega(T^\ast M ; T(T^\ast M))$. It is shown that
+this is a homomorphism on $\Omega(M;TM) for the Fr\""olicher-Nijenhuis brackets,
+and also on $\Gamma(ST\ M)$ for the Schouten bracket of symmetric multi vector
+fields. But the whole image is not a subalgebra for the Fr\""olicher-Nijenhuis
+bracket on $\Omega(T^\ast M;T(T^\ast M))$.
+","[{""version"":""v1"",""created"":""Tue, 25 Jan 1994 16:18:36 GMT""}]","2008-02-03"
+"alg-geom/9401007","Paolo Aluffi","Paolo Aluffi","A blow-up construction and graph coloring","22 pages, amstex 2.1","Discrete Math. 145 (1995), no. 1-3, 11-35","10.1016/0012-365X(94)00051-J",,"alg-geom math.AG",,"  Given a graph G (or more generally a matroid embedded in a projective space),
+we construct a sequence of varieties whose geometry encodes combinatorial
+information about G. For example, the chromatic polynomial of G (giving at each
+m>0 the number of colorings of G with m colors, such that no adjacent vertices
+are assigned the same color) can be computed as an intersection product between
+certain classes on these varieties, and other information such as Crapo's
+invariant find a very natural geometric counterpart. The note presents this
+construction, and gives `geometric' proofs of a number of standard
+combinatorial results on the chromatic polynomial.
+","[{""version"":""v1"",""created"":""Tue, 25 Jan 1994 19:08:24 GMT""}]","2012-04-10"
+"alg-geom/9401008","Steven Bradlow","Steven B. Bradlow and Oscar Garcia-Prada","Stable triples, equivariant bundles and dimensional reduction","41 pages, LaTeX",,,,"alg-geom math.AG",,"  This is a resubmission of preprint 9401008 , which has some TeXnical errors
+introduced by the ""reform"" procedure (designed to avoid precisely these
+problems!). The original can be formatted by editing out the messages ""%%
+following line cannot be broken..."" at line 1674. This problem has been
+corrected in the current version. The content of the paper has not been changed
+in any way. My aplogies for any inconvenience caused. SB
+","[{""version"":""v1"",""created"":""Tue, 25 Jan 1994 21:59:48 GMT""},{""version"":""v2"",""created"":""Wed, 26 Jan 1994 15:49:51 GMT""}]","2008-02-03"
+"astro-ph/9401045","Ion-Alexis G. Yadigaroglu","Roger W. Romani and I.-A. Yadigaroglu","$\gamma$-Ray Pulsars: Emission Zones and Viewing Geometries","17 pages Latex with aaspp macros and PostScript figures. mpeg
+  simulations available at
+  http://geminga.stanford.edu/home/ion/pulsar/frames.html",,"10.1086/175076",,"astro-ph",,"  There are now a half dozen young pulsars detected in high energy photons by
+the Compton GRO, showing a variety of emission efficiencies and pulse profiles.
+We present here a calculation of the pattern of high energy emission on the sky
+in a model which posits $\gamma$-ray production by charge depleted gaps in the
+outer magnetosphere. This model accounts for the radio to $\gamma$-ray pulse
+offsets of the known pulsars, as well as the shape of the high energy pulse
+profiles. We also show that $\sim 1/3$ of emitting young radio pulsars will not
+be detected due to beaming effects, while $\sim 2.5 \times$ the number of
+radio-selected $\gamma$-ray pulsars will be viewed only high energies. Finally
+we compute the polarization angle variation and find that the previously
+misunderstood optical polarization sweep of the Crab pulsar arises naturally in
+this picture. These results strongly support an outer-magnetosphere location
+for the $\gamma-$ray emission.
+","[{""version"":""v1"",""created"":""Tue, 25 Jan 1994 23:35:09 GMT""}]","2009-10-22"
+"cond-mat/9401056",,"Serge Yu. Potapenko","Kinetics of Macrostep Under Diffusion and Thermal Interactions in
+  Stagnant Media","15 pages, latex, 3 figures not included",,"10.1016/0022-0248(94)00618-0",,"cond-mat",,"  The step motions considered are those in which crystallization is controlled
+by a single diffusion process, either the substance diffusion for growth from
+solution or the flow of latent heat from the step for growth from melt.
+Quasi-static diffusion nearby two parallel steps and nearby a train of parallel
+steps is considered. Terraces and step risers are assumed flat with arbitrary
+angles between them. Flux of the crystallizing substance to the crystal or the
+heat sources on the crystal surface are nonvanishing on the step risers only.
+Kinematics of the steps under the diffusion interaction is investigated, when
+velocities of the steps are controlled by the supersaturation at the feet of
+the steps. For the solution growth it is shown that an equidistant train of
+steps is unstable against to doubling of period, i.e. neighbouring steps are
+attracted, when the angle of the riser is more than $\pi/3$. The diffusion
+interaction stabilizes the train of gently sloping steps. For the melt growth
+at equal thermal conductivities of the crystal and of the melt, the thermal
+interaction stabilizes the train of steps without overhanging when the riser
+angle is less than $\pi/2$. If the heat transfers through the crystals, then
+the equidistant train is stable at all riser angles.
+","[{""version"":""v1"",""created"":""Wed, 26 Jan 1994 09:10:13 GMT""}]","2009-10-22"
+"cond-mat/9401057",,"F. Guinea, E. Louis and J. A. Verges","Hartree Fock and RPA studies of the Hubbard model","8 pages. Latex",,,,"cond-mat",,"  The applicability of the Hartree-Fock and random phase approximations to
+models of strongly correlated electrons is discussed. The 2D Hubbard model is
+analyzed. An antiferromagnetic phase (at half filling) and Fermi liquid
+behavior (at low electron densities) are found. In addition, the system shows
+an unconventional regime near half filling. It is characterized by the
+formation of spin and charge textures. Local magnetic moments and spin waves
+are also present, and the quasiparticle pole at the Fermi energy vanishes. The
+charge excitation spectrum is gapless. The overall features resemble those of
+the 1D Luttinger liquid.
+","[{""version"":""v1"",""created"":""Wed, 26 Jan 1994 14:32:07 GMT""}]","2007-05-23"
+"cond-mat/9401058","Bodo Huckestein","B. Huckestein, L. Schweitzer","Relation between the Correlation Dimensions of Multifractal
+  Wavefunctions and Spectral Measures in Integer Quantum Hall Systems","8 pages, RevTeX 3.0, 4 PostScript figures in uuencoded compressed tar
+  file included","Phys. Rev. Lett. 72, 713-716 (1994)","10.1103/PhysRevLett.72.713",,"cond-mat",,"  We study the time evolution of wavepackets of non-interacting electrons in a
+two-dimensional disordered system in strong magnetic field. For wavepackets
+built from states near the metal-insulator transition in the center of the
+lowest Landau band we find that the return probability to the origin $p(t)$
+decays algebraically, $p(t) \sim t^{-D_2/2}$, with a non-conventional exponent
+$D_2/2$. $D_2$ is the generalized dimension describing the scaling of the
+second moment of the wavefunction. We show that the corresponding spectral
+measure is multifractal and that the exponent $D_2/2$ equals the generalized
+dimension $\widetilde{D}_2$ of the spectral measure.
+","[{""version"":""v1"",""created"":""Wed, 26 Jan 1994 15:35:30 GMT""}]","2009-10-22"
+"gr-qc/9401025",,"Norman Cruz, Cristi\'an Mart\'inez and Leda Pe\~na","Geodesic Structure of the 2 + 1 Black Hole","13 pages, RevTex 3.0, 7 figures (available upon request). Submitted
+  to Phys. Rev. D","Class.Quant.Grav.11:2731-2740,1994","10.1088/0264-9381/11/11/014",,"gr-qc",,"  Null and timelike geodesics around a 2+1 black hole are determined. Complete
+geodesics of both types exist in the rotating black-hole background, but not in
+the spinless case. Upper and lower bounds for the radial size of the orbits are
+given in all cases and the possibility of passing from one black hole exterior
+spacetime to another is discussed using the Penrose diagrams. An analysis of
+particle motions by means of effective potentials and orbit graphs are also
+included.
+","[{""version"":""v1"",""created"":""Tue, 25 Jan 1994 17:02:48 GMT""}]","2010-04-06"
+"gr-qc/9401026",,"M. Gasperini","Relaxed Bounds on the Dilaton Mass in a String Cosmology Scenario","12 pages, plain tex, 2 figures (available on request) DFTT-03/94","Phys.Lett. B327 (1994) 214-220","10.1016/0370-2693(94)90720-X",,"gr-qc astro-ph hep-th",,"  We discuss bounds on the dilaton mass, following from the cosmological
+amplification of the quantum fluctuations of the dilaton background, under the
+assumption that such fluctuations are dominant with respect to the classical
+background oscillations. We show that if the fluctuation spectrum grows with
+the frequency the bounds are relaxed with respect to the more conventional case
+of a flat or decreasing spectrum. As a consequence, the allowed range of masses
+may become compatible with models of supersymmetry breaking, and with a
+universe presently dominated by a relic background of dilaton dark matter.
+","[{""version"":""v1"",""created"":""Tue, 25 Jan 1994 19:21:39 GMT""}]","2009-10-22"
+"gr-qc/9401027",,"Michele Maggiore","Black Holes as Quantum Membranes","40 pages, Latex file + 6 figures","Nucl.Phys.B429:205-228,1994","10.1016/S0550-3213(94)80047-2","IFUP-TH 6/94","gr-qc hep-th",,"  We propose a quantum description of black holes. The degrees of freedom to be
+quantized are identified with the microscopic degrees of freedom of the
+horizon, and their dynamics is governed by the action of the relatistic bosonic
+membrane in $D=4$. We find that a consistent and plausible description emerges,
+both at the classical and at the quantum level. We present results for the
+level structure of black holes. We find a ``principal series'' of levels,
+corresponding to quantization of the area of the horizon. From each level of
+this principal series starts a quasi-continuum of levels due to excitations of
+the membrane. We discuss the statistical origin of the black hole entropy and
+the relation with Hawking radiation and with the information loss problem. The
+limits of validity of the membrane approach turn out to coincide with the known
+limits of validity of the thermodynamical description of black holes.
+","[{""version"":""v1"",""created"":""Tue, 25 Jan 1994 18:10:08 GMT""}]","2008-11-26"
+"gr-qc/9401028","Peter Peldan","Subenoy Chakraborty and Peter Peldan","Towards a unification of gravity and Yang-Mills theory","7 pages, CGPG-94/1-3","Phys.Rev.Lett.73:1195-1198,1994","10.1103/PhysRevLett.73.1195",,"gr-qc hep-th",,"  We introduce a gauge and diffeomorphism invariant theory on Yang-Mills phase
+space. The theory is well defined for an arbitrary gauge group with an
+invariant bilinear form, it contains only first class constraints, and the
+spacetime metric has a simple form in terms of the phase space variables. With
+gauge group $SO(3,C)$, the theory equals the Ashtekar formulation of gravity
+with a cosmological constant. For Lorentzian signature, the theory is complex,
+and we have not found any good reality conditions. In the Euclidean signature
+case, everything is real. In a weak field expansion around de Sitter spacetime,
+the theory is shown to give the conventional Yang-Mills theory to the lowest
+order in the fields.
+","[{""version"":""v1"",""created"":""Tue, 25 Jan 1994 20:50:10 GMT""}]","2010-11-01"
+"gr-qc/9401029",,"R.J. Henderson and S.G. Rajeev","Quantum Gravity on a Circle and the Diffeomorphism Invariance of the
+  Schrodinger Equation","35 pages, Tex","Class.Quant.Grav.11:1631-1652,1994","10.1088/0264-9381/11/7/006","University of Rochester Preprint UR1342","gr-qc hep-th",,"  We study a model for quantum gravity on a circle in which the notion of a
+classical metric tensor is replaced by a quantum metric with an inhomogeneous
+transformation law under diffeomorphisms. This transformation law corresponds
+to the co--adjoint action of the Virasoro algebra, and resembles that of the
+connection in Yang--Mills theory. The transformation property is motivated by
+the diffeomorphism invariance of the one dimensional Schr\""odinger equation.
+The quantum distance measured by the metric corresponds to the phase of a
+quantum mechanical wavefunction. The dynamics of the quantum gravity theory are
+specified by postulating a Riemann metric on the space $Q$ of quantum metrics
+and taking the kinetic energy operator to be the resulting laplacian on the
+configuration space $Q/\rm Diff_0(S^1)$. The resulting metric on the
+configuration space is analyzed and found to have singularities. The
+second--quantized Schr\""odinger equation is derived, some exact solutions are
+found, and a generic wavefunction behavior near one of the metric singularities
+is described. Finally some further directions are indicated, including an
+analogue of the Yamabe problem of differential geometry.
+","[{""version"":""v1"",""created"":""Tue, 25 Jan 1994 22:35:50 GMT""}]","2010-04-06"
+"gr-qc/9401030","Milan Mijic","Milan Mijic","Stochastic Dynamics of Coarse-Grained Quantum Fields in Inflationary
+  Universe","23 pages, Very Plain TeX","Phys.Rev. D49 (1994) 6434-6441","10.1103/PhysRevD.49.6434",,"gr-qc",,"  It is shown how coarse-graining of quantum field ^M theory in de Sitter space
+leads to the emergence of a classical ^M stochastic description as an effective
+theory in the infra-red regime. ^M The quantum state of the coarse-grained
+scalar field is found to be a highly^M squeezed coherent state, whose center
+performs a random walk on a^M bundle of classical trajectories.^M
+","[{""version"":""v1"",""created"":""Wed, 26 Jan 1994 03:47:18 GMT""}]","2009-10-22"
+"hep-lat/9401030","Yoichi Iwasaki","Y. Iwasaki","Computers for Lattice Field Theories","15 pages with 16 PS figures, review presented at Lattice 93, LaTeX
+  (espcrc2.sty required)","Nucl.Phys.Proc.Suppl. 34 (1994) 78-92","10.1016/0920-5632(94)90321-2","UTHEP-269","hep-lat",,"  Parallel computers dedicated to lattice field theories are reviewed with
+emphasis on the three recent projects, the Teraflops project in the US, the
+CP-PACS project in Japan and the 0.5-Teraflops project in the US. Some new
+commercial parallel computers are also discussed. Recent development of
+semiconductor technologies is briefly surveyed in relation to possible
+approaches toward Teraflops computers.
+","[{""version"":""v1"",""created"":""Wed, 26 Jan 1994 02:21:01 GMT""}]","2009-10-22"
+"hep-lat/9401031","M. Baig IFAE","M. Baig and J.B. Kogut","Recent Results in Scalar QED","PS file with figures included, 3 pag., Pre-UAB-FT-330 (to appear in
+  the Lattice93 Proceedings)","Nucl.Phys.Proc.Suppl. 34 (1994) 555-557","10.1016/0920-5632(94)90445-6",,"hep-lat",,"  In this talk we present some recent and new results on the phase structure
+and the continuum limit of lattice formulation of pure gauge QED coupled to
+Higgs fields. We show the presence of second order phase transition lines
+allowing for a continuum limit. Nevertheless, finite size analysis shows that
+this theory is logarithmically trivial. The role of magnetic monopoles is also
+shown.
+","[{""version"":""v1"",""created"":""Wed, 26 Jan 1994 14:16:32 GMT""}]","2009-10-22"
+"hep-ph/9401325","My Account","J. Lopez, D. Nanopoulos, G. Park, X. Wang and A. Zichichi","Experimental aspects of SU(5)xU(1) supergravity","latex, 36 pages, 25 figures (not included). Figures are available via
+  anonymous ftp from hplaa02.cern.ch (/pub/lopez) as either 33 ps files
+  (Easpects*.ps, 8.1MB) or one uuencoded file (AllFigures.uu, 3.7MB)","Phys.Rev.D50:2164-2190,1994","10.1103/PhysRevD.50.2164","CERN-TH.7139/94, CTP-TAMU-74/93","hep-ph",,"  We study various aspects of $SU(5)\times U(1)$ supergravity as they relate to
+the experimental verification or falsification of this model. We consider two
+string-inspired, universal, one-parameter, no-scale soft-supersymmetry-breaking
+scenarios, driven by the $F$-terms of the moduli and dilaton fields. The model
+is described in terms of the supersymmetry mass scale (\ie, the chargino mass
+$m_{\chi^\pm_1}$), $\tan\beta$, and the top-quark mass. We first determine the
+combined effect on the parameter space of all presently available direct and
+indirect experimental constraints, including the LEP lower bounds on sparticle
+and Higgs-boson masses, the $b\to s\gamma$ rate, the anomalous magnetic moment
+of the muon, the high-precision electroweak parameters $\epsilon_1,\epsilon_b$
+(which imply $m_t\lsim180\GeV$), and the muon fluxes in underground detectors
+(neutrino telescopes). For the still-allowed points in
+$(m_{\chi^\pm_1},\tan\beta)$ parameter space, we re-evaluate the experimental
+situation at the Tevatron, LEPII, and HERA. In the 1994 run, the Tevatron could
+probe chargino masses as high as 100 GeV. At LEPII the parameter space could be
+explored with probes of different resolutions: Higgs boson searches, selectron
+searches, and chargino searches. Moreover, for $m_t\lsim150\GeV$, these
+Higgs-boson searches could explore all of the allowed parameter space with
+$\sqrt{s}\lsim210\GeV$.
+","[{""version"":""v1"",""created"":""Tue, 25 Jan 1994 16:24:59 GMT""}]","2009-09-25"
+"hep-ph/9401326",,"Z.Li, M.Guidry, T.Barnes and E.S.Swanson","$I=0,1$ $\pi\pi$ and $I=1/2$ $K\pi$ Scattering using Quark Born Diagrams","18 pages, 5 figures available as hard copies from authors (email
+  tbarnes@utkvx2.utk.edu), MIT-CTP-2277, ORNL-CCIP-94-01",,,,"hep-ph",,"  We extend the quark Born diagram formalism for hadron-hadron scattering to
+processes with valence $q\bar q$ annihilation, specifically $I=0$ and $I=1$
+$\pi\pi$ and $I=1/2$ $K\pi$ elastic scattering. This involves the $s$-channel
+hybrid annihilation process $q^2\bar q^2 \to q\bar q g \to q^2\bar q^2$ and
+conventional $s$-channel $q\bar q$ resonances, in addition to the $t$-channel
+gluon exchange treated previously using this formalism. The strength of the
+$t$-channel gluon amplitude is fixed by previous studies of $I=2$ $\pi\pi$ and
+$I=3/2$ $K\pi$ scattering. The $s$-channel resonances $\rho(770)$, $K^*(892)$,
+$f_0(1400)$ and $K_0^*(1430)$ are incorporated as relativized Breit-Wigner
+amplitudes, with masses and energy-dependent widths fitted to experimental
+phase shifts. The strength of the $s$-channel gluon ``hybrid"" annihilation
+diagrams is problematical since the perturbative massless-gluon energy
+denominator must be modified to account for the effect of confinement on the
+energy of the virtual hybrid state. Our naive expectation is that near
+threshold the hybrid diagrams are comparable in magnitude but opposite in sign
+to the contribution predicted using massless perturbative gluons. Fitting the
+strength of this amplitude to $I=0$ $\pi\pi$ and $I=1/2$ $K\pi$ S-wave data
+gives a result consistent with this expectation. We find good agreement with
+experimental phase shifts from threshold to 0.9 GeV in $\pi\pi$ and 1.6 GeV in
+$K\pi$ using this approach. We conclude that the most important contribution to
+low energy S-wave scattering in these channels arises from the nonresonant
+quark Born diagrams, but that the low-energy wings of the broad $s$-channel
+resonances $f_0(1400)$ and $K^*_0(1430)$ also give important contributions near
+threshold. The nonresonant contributions are found to be much smaller in $L\;
+","[{""version"":""v1"",""created"":""Tue, 25 Jan 1994 19:11:11 GMT""}]","2009-09-25"
+"hep-ph/9401327","Mohammad","Mohammad R. Ahmady and Roberto R. Mendel","A Theoretical Prediction for Exclusive Decays $B \rightarrow K(K^*)
+  \eta_c$","6 pages, LaTex","Z. Phys. C65 (1995) 263-266","10.1007/BF01571882",,"hep-ph",,"  The decay rates for the exclusive B decays $B \rightarrow K \eta_c $ and $B
+\rightarrow K^* \eta_c$ are calculated in the context of the heavy quark
+effective theory. We obtain $\Gamma (B \rightarrow K \eta_c )/\Gamma
+(B\rightarrow K\psi )=1.6 \pm 0.2$ and $\Gamma (B\rightarrow K^*\eta_c)/\Gamma
+(B \rightarrow K^*\psi )=0.39 \pm 0.04$. These results lead to estimates $BR(B
+\rightarrow K \eta_c)=(0.11 \pm 0.02) \% $ and $BR(B \rightarrow K^* \eta_c)=
+(0.05 \pm 0.01) \% $ if we use the central current experimental values for
+$B\rightarrow (K,K^*)\psi $ branching ratios.
+","[{""version"":""v1"",""created"":""Tue, 25 Jan 1994 19:50:47 GMT""}]","2009-10-28"
+"hep-ph/9401328",,"Stanley J. Brodsky, Matthias Burkardt, and Ivan Schmidt","QCD Constrains on the Shape of Polarized Quark and Gluon Distributions","Correct version of Fig. 1 added, LaTex, 27 pages, plus 4 figures","Nucl.Phys.B441:197-214,1995","10.1016/0550-3213(95)00009-H","SLAC-PUB-6087","hep-ph",,"  We develop simple analytic representations of the polarized quark and gluon
+distributions in the nucleon at low $Q^2$ which incorporate general constraints
+obtained from the requirements of color coherence of gluon couplings at $x \sim
+0$ and the helicity retention properties of perturbative QCD couplings at $x
+\sim 1.$ The unpolarized predictions are similar to the $D_0'$ distributions
+given by Martin, Roberts, and Stirling. The predictions for the quark helicity
+distributions are compared with polarized structure functions measured by the
+E142 experiment at SLAC and the SMC experiment at CERN.
+","[{""version"":""v1"",""created"":""Tue, 25 Jan 1994 20:41:00 GMT""},{""version"":""v2"",""created"":""Mon, 9 Jun 1997 22:46:46 GMT""}]","2009-09-25"
+"hep-ph/9401329",,"Debajyoti Choudhury, Raj Gandhi, J.A. Gracey and Biswarup
+  Mukhopadhyaya","Two-Loop Neutrino Masses and the Solar Neutrino Problem","24 pages, Two figures, attached as postscript files at the end,
+  Latex, CTP-TAMU-76/93, MRI-PHY-12/93, LTH-326","Phys.Rev.D50:3468-3476,1994","10.1103/PhysRevD.50.3468",,"hep-ph",,"  The addition of $m$ singlet right-handed neutrinos to the Standard Model
+leads to radiatively generated mass corrections for the $SU(2)_L $ doublet
+neutrinos. For those neutrinos which are massless at the tree level after this
+addition, this implies a small mass generated at the two-loop level via
+$W^{\pm}$ exchange. We calculate these mass corrections exactly by obtaining an
+analytic form for the general case of $n$ doublets and $m$ singlets. As a
+phenomenological application, we consider the $m=1$ case and examine the masses
+and mixings of the doublet neutrinos which arise as a result of the two-loop
+correction in the light of experimental data from two sources which may shed
+light on the question of neutrino masses. These are(a) the neutrino detectors
+reporting a solar neutrino deficit (and its resolution via
+Mikheyev-Smirnov-Wolfenstein matter oscillations), and
+  (b) the COBE satellite data on the non-zero angular variations of the cosmic
+microwave background temperature (and its possible implications for hot dark
+matter). Within the framework of the extension considered here, which leaves
+the gauge group structure of the Standard Model intact, we show that it is
+possible for neutrinos to acquire small masses naturally, with values which are
+compatible with current theoretical bias and experimental data.
+","[{""version"":""v1"",""created"":""Tue, 25 Jan 1994 23:03:42 GMT""}]","2011-09-21"
+"hep-ph/9401330","PostDoc Its","N.G. Deshpande, Xiao-Gang He and S. Pakvasa","Gluon dipole penguin contributions to $\epsilon'/\epsilon$ and CP
+  violation in Hyperon decays in the Standard Model","11pages, Revtex","Phys.Lett.B326:307-311,1994","10.1016/0370-2693(94)91327-7","OITS-533, UH-511-779-94","hep-ph",,"  We consider the gluon dipole penguin operator contributions to
+$\epsilon'/\epsilon$ and CP violation in hyperon decays. It has been proposed
+by Bertolini et al. that the contribution to $\epsilon'/\epsilon$ may be
+significant. We show that there is a cancellation in the leading order
+contribution and this contribution is actually suppressed by a factor of order
+O($m_\pi^2, m_K^2)/\Lambda^2$. We find that the same operator also contributes
+to CP violation in hyperon decays where it is not suppressed. The gluon dipole
+penguin operator can enhance CP violation in hyperon decays by as much as 25\%.
+","[{""version"":""v1"",""created"":""Wed, 26 Jan 1994 00:55:52 GMT""},{""version"":""v2"",""created"":""Mon, 31 Jan 1994 19:16:01 GMT""}]","2010-11-01"
+"hep-ph/9401331","Matsuda Masahisa","Tkemi Hayashi, Yoshio Koide, Masahisa Matsuda and Morimitsu Tanimoto","Neutron Electric Dipole Moment in Two Higgs Doublet Model","20 pages with 12 figures. Figures will be sent by postal mail if
+  requested. Latex","Prog.Theor.Phys.91:915-926,1994","10.1143/PTP.91.915","AUE-02-94, EHU-01-94, SH-94-01","hep-ph",,"  We study the effect of the ""chromo-electric"" dipole moment on the electric
+dipole moment(EDM) of the neutron in the two Higgs doublet model. We
+systematically investigate the Weinberg's operator $O_{3g}=GG\t G$ and the
+operator $O_{qg}=\bar q\sigma\t Gq$, in the cases of $\tan\b\gg 1$, $\tan\b\ll
+1$ and $\tan\b\simeq 1$. It is shown that $O_{sg}$ gives the main contribution
+to the neutron EDM compared to the other operators, and also that the
+contributions of $O_{ug}$ and $O_{3g}$ cancel out each other. It is pointed out
+that the inclusion of second lightest neutral Higgs scalar adding to the
+lightest one is of essential importance to estimate the neutron EDM. The
+neutron EDM is considerably reduced due to the destructive contribution with
+each other if the mass difference of the two Higgs scalars is of the order
+$O(50\G)$.
+","[{""version"":""v1"",""created"":""Wed, 26 Jan 1994 01:58:00 GMT""}]","2010-11-01"
+"hep-ph/9401332","Daizo Mochinaga","N.Haba, C.Hattori, M.Matsuda, T.Matsuoka and D.Mochinaga","How Can We Obtain a Large Majorana-Mass in Calabi-Yau Models ?","30-pages + 6-figures, LaTeX, Preprint DPNU-94-02, AUE-01-94","Prog.Theor.Phys. 92 (1994) 153-174","10.1143/ptp/92.1.153",,"hep-ph",,"  In a certain type of Calabi-Yau superstring models it is clarified that the
+symmetry breaking occurs by stages at two large intermediate energy scales and
+that two large intermediate scales induce large Majorana-masses of right-handed
+neutrinos. Peculiar structure of the effective nonrenormalizable interactions
+is crucial in the models. In this scheme Majorana-masses possibly amount to
+$O(10^{9 \sim 10}\gev)$ and see-saw mechanism is at work for neutrinos. Based
+on this scheme we propose a viable model which explains the smallness of masses
+for three kind of neutrinos $\nu _e, \nu _{\mu} \ {\rm and}\ \nu _{\tau}$.
+Special forms of the nonrenormalizable interactions can be understood as a
+consequence of an appropriate discrete symmetry of the compactified manifold.
+","[{""version"":""v1"",""created"":""Wed, 26 Jan 1994 05:21:17 GMT""}]","2017-02-01"
+"hep-ph/9401333","Ronald Kleiss","R. Kleiss and H. Burkhardt","BBBREM - Monte Carlo simulation of radiative Bhabha scattering in the
+  very forward direction","14 pages, NIKHEF-H/94-01 and CERN SL/94-03 (OP)","Comput.Phys.Commun. 81 (1994) 372-380","10.1016/0010-4655(94)90085-X",,"hep-ph",,"  A fast and simple Monte Carlo program is presented that simulates single
+Bremsstrahlung in Bhabha scattering, e+e- --> e+e-gamma, without constraints on
+scattering angles. This allows the study of this process at arbitrarily small,
+or even vanishing, scattering angles. Experimental cuts can be imposed on an
+event-by-event basis, allowing for detailed studies of the process as a
+limitation to beam lifetimes, or a luminosity-measuring device, in e+e- storage
+rings. As an application, we show that the easy introduction of a cutoff
+parameter, corresponding to the characteristic distance between particles in
+the bunches, gives a reduced cross section that is in good agreement with
+observation.
+","[{""version"":""v1"",""created"":""Wed, 26 Jan 1994 10:17:03 GMT""}]","2009-10-28"
+"hep-ph/9401334","Cliff Burgess","C.P. Burgess and J.M. Cline","What New Physics Can Double Beta Decay Experiments Hope to See?","LaTeX, 8 pages, 1 figure McGill-94/06, NEIP-94-002, TPI-MINN-94/3-T,
+  UMN-TH-1236/94",,,,"hep-ph",,"  Double-beta decay experiments have been traditionally interpreted in terms of
+the Gelmini-Roncadelli triplet majoron model, which has been ruled out by LEP.
+We briefly survey here the kinds of physics to which these experiments might be
+sensitive in the light of the LEP constraints. We identify six broad categories
+of models, including some new categories which have not been previously
+considered.
+","[{""version"":""v1"",""created"":""Wed, 26 Jan 1994 11:08:31 GMT""}]","2007-05-23"
+"hep-ph/9401335","Stefano Capitani- La Sapienza- Roma","Ugo Aglietti and Stefano Capitani","A new formulation of the effective theory for heavy particles","26 pages, plain Latex + 4 postscript figures (appended at the end),
+  Preprint Roma1 993-94 (some missing lines in a few formulas have been
+  restored; minor changes)","Nucl.Phys. B432 (1994) 315-336","10.1016/0550-3213(94)90604-1",,"hep-ph hep-th",,"  We derive the effective theories for heavy particles with a functional
+integral approach by integrating away the states with high velocity and with
+high virtuality. This formulation is non-perturbative and has a close
+connection with the Wilson renormalization group transformation. The fixed
+point hamiltonian of our transformation coincides with the static hamiltonian
+and irrelevant operators can be identified with the usual $1/M$ corrections to
+the static theory. No matching condition has to be imposed between the full and
+the static theory operators with our approach. The values of the matching
+constants come out as a dynamical effect of the renormalization group flow.
+","[{""version"":""v1"",""created"":""Wed, 26 Jan 1994 11:58:34 GMT""},{""version"":""v2"",""created"":""Tue, 5 Jul 1994 14:59:21 GMT""},{""version"":""v3"",""created"":""Thu, 7 Jul 1994 09:24:00 GMT""}]","2009-10-28"
+"hep-ph/9401336",,"B.Masud","A model for $q^2\bar{q}^2$ systems illustrated by an application to
+  $K\bar{K}$ scattering","43 pages","Phys.Rev. D50 (1994) 6783-6803","10.1103/PhysRevD.50.6783","HU-TFT-93-30","hep-ph",,"  In the paper is presented a four-body potential model for $q^2\bar{q}^2$
+systems which includes both the spin and flavour degrees of freedom, extending
+the formalism presented already in the spin independent situation. This allows
+an application to a realistic situation, which is chosen to be $K\bar{K}$
+scattering. It is seen that because of the gluonic effects in this multi-quark
+system, the $K\bar{K}$ attraction resulting from the quark-exchange mechanism
+gets appreciably decreased compared to that emerging through the naive two-body
+potential approach.
+","[{""version"":""v1"",""created"":""Wed, 26 Jan 1994 14:41:10 GMT""}]","2009-10-28"
+"hep-th/9401123",,"M.V. Cougo-Pinto, C. Farina and A.J. Segui-Santonja","Schwinger's Method for the Massive Casimir Effect","plain TeX, 6 pages, DFTUZ-93-22","Lett.Math.Phys. 31 (1994) 309-314","10.1007/BF00762794",,"hep-th",,"  We apply to the massive scalar field a method recently proposed by Schwinger
+to calculate the Casimir effect. The method is applied with two different
+regularization schemes: the Schwinger original one by means of Poisson formula
+and another one by means of analytical continuation.
+","[{""version"":""v1"",""created"":""Tue, 25 Jan 1994 21:47:00 GMT""}]","2009-10-28"
+"hep-th/9401125","Dan Kabat","D. Kabat and M. J. Strassler","A Comment on Entropy and Area","15 pages, RU-94-10","Phys.Lett.B329:46-52,1994","10.1016/0370-2693(94)90515-0",,"hep-th gr-qc",,"  For an arbitrary quantum field in flat space with a planar boundary, an
+entropy of entanglement, associated with correlations across the boundary, is
+present when the field is in its vacuum state. The vacuum state of the same
+quantum field appears thermal in Rindler space, with an associated thermal
+entropy. We show that the density matrices describing the two situations are
+identical, and therefore that the two entropies are equal. We comment on the
+generality and significance of this result, and make use of it in analyzing the
+area and cutoff dependence of the entropy. The equivalence of the density
+matrices leads us to speculate that a planar boundary in Minkowski space has a
+classical entropy given by the Bekenstein--Hawking formula.
+","[{""version"":""v1"",""created"":""Wed, 26 Jan 1994 03:58:50 GMT""}]","2008-11-26"
+"hep-th/9401127","Quantum Field Theory","I. Ya. Aref'eva, G. E. Arutyunov and P. B. Medvedev","Poisson-Lie structures on the external algebra of $SL(2)$ and their
+  quantization","17 pages. Latex errors corrected and references added",,,"SMI-5-93","hep-th math.QA",,"  All possible graded Poisson-Lie structures on the external algebra of $SL(2)$
+are described. We prove that differential Poisson-Lie structures prolonging the
+Sklyanin brackets do not exist on $SL(2)$. There are two and only two graded
+Poisson-Lie structures on $SL (2)$ and neither of them can be obtained by a
+reduction of graded Poisson-Lie structures on the external algebra of $GL(2)$.
+Both of them can be quantized and as a result we get a new graded algebra of
+quantum right-invariant forms on $SL_q(2)$ with three generators.
+","[{""version"":""v1"",""created"":""Wed, 26 Jan 1994 13:15:29 GMT""},{""version"":""v2"",""created"":""Fri, 28 Jan 1994 14:16:18 GMT""}]","2008-02-03"
+"hep-th/9401128","Ante Perica","V. Bardek, S. Meljanac and A. Perica (Rudjer Boskovic Institute,
+  Zagreb, Croatia)","Generalized Statistics and Dynamics in Curved Spacetime","January 4, 1994, 10 pages, LATEX file","Phys.Lett. B338 (1994) 20-22","10.1016/0370-2693(94)91337-4",,"hep-th",,"  We consider the generalized momentum-depending quon algebra in a dynamically
+evolving curved spacetime and perform a type of analysis similar to that of
+J.W.Goodison and D.J.Toms. We find that, at least in principle, all kinds of
+statistics may occur in some regions, i.e. phases in momentum space, depending
+on Bogoliubov coefficients determined by a specific dynamical model.
+","[{""version"":""v1"",""created"":""Wed, 26 Jan 1994 15:24:25 GMT""}]","2009-10-28"
+"hep-th/9401129","Geoffrey Harris","V.S. Dotsenko, G. Harris, E. Marinari, E. Martinec, M. Picco and P.
+  Windey","The Phenomenology of Strings and Clusters in the 3-d Ising Model","20 pages followed by 15 uuencoded ps figures, latex, SU-HEP-4241-563,
+  PAR-LPTHE 93/59",,,,"hep-th cond-mat hep-lat",,"  We examine the geometrical and topological properties of surfaces surrounding
+clusters in the 3--$d$ Ising model. For geometrical clusters at the percolation
+temperature and Fortuin--Kasteleyn clusters at $T_c$, the number of surfaces of
+genus $g$ and area $A$ behaves as $A^{x(g)}e^{-\mu(g)A}$, with $x$
+approximately linear in $g$ and $\mu$ constant. We observe that cross--sections
+of spin domain boundaries at $T_c$ decompose into a distribution $N(l)$ of
+loops of length $l$ that scales as $l^{-\tau}$ with $\tau \sim 2.2$. We address
+the prospects for a string--theoretic description of cluster boundaries. (To
+appear in proceedings for the Cargese Workshop on ""String Theory, Conformal
+Models and Topological Field Theories"", May 1993)
+","[{""version"":""v1"",""created"":""Wed, 26 Jan 1994 15:47:55 GMT""}]","2009-09-25"
+"hep-th/9401132","Antonio Edson Goncalves S.","D.M. Gitman, A.E. Gon\c{c}alves and I.V. Tyutin","Quantization of pseudoclassical model of spin one relativistic particle","REVTEX","Int.J.Mod.Phys. A10 (1995) 701-718","10.1142/S0217751X95000322","IFUSP/P-1087","hep-th",,"  A consistent procedure of canonical quantization of pseudoclassical model for
+spin one relativistic particle is considered. Two approaches to treat the
+quantization for the massless case are discussed, the limit of the massive case
+and independent quantization of a modified action. Quantum mechanics
+constructed for the massive case proves to be equivalent to the Proca theory
+and for massless case to the Maxwell theory. Results obtained are compared with
+ones for the case of spinning (spin one half) particle.
+","[{""version"":""v1"",""created"":""Wed, 26 Jan 1994 15:26:24 GMT""}]","2015-06-26"

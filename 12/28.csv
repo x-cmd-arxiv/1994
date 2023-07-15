@@ -1,0 +1,360 @@
+"alg-geom/9412022","Amnon Neeman","Amnon Neeman","Grothendieck duality via homotopy theory","31 pages, AMS-LaTeX. To appear in Jour. AMS.",,,,"alg-geom math.AG",,"  Grothendieck proved that if $f:X\longrightarrow Y$ is a proper morphism of
+nice schemes, then $Rf_*$ has a right adjoint, which is given as tensor product
+with the relative canonical bundle. The original proof was by patching local
+data. Deligne proved the existence of the adjoint by a global argument, and
+Verdier showed that this global adjoint may be computed locally.
+  In this article we show that the existence of the adjoint is an immediate
+consequence of Brown's representability theorem. It follows almost as
+immediately, by ``smashing'' arguments, that the adjoint is given by tensor
+product with a dualising complex. Verdier's base change theorem is an immediate
+consequence.
+","[{""version"":""v1"",""created"":""Tue, 27 Dec 1994 20:01:39 GMT""}]","2015-06-30"
+"astro-ph/9412093","Chuck Steidel","C. Steidel, D. Bowen, J. C. Blades, and M. Dickinson","The z=0.8596 Damped Lyman Alpha Absorbing Galaxy Toward PKS 0454+039","changed uuencode header to produce .Z file so that unix uncompress
+  command will work without modifying file name",,"10.1086/187757","CSR-94-34","astro-ph",,"  We present {\it Hubble Space Telescope} and ground--based data on the
+$z_{abs}=0.8596$ metal line absorption system along the line of sight to PKS
+0454+0356. The system is a moderate redshift damped Lyman alpha system, with
+${\rm N(HI)}=(5.7\pm0.3)\times10^{20}$~cm$^{-2}$ as measured from the {\it
+Faint Object Spectrograph} spectrum. We also present ground--based images which
+we use to identify the galaxy which most probably gives rise to the damped
+system; the most likely candidate is relatively underluminous by QSO absorber
+standards ($M_B \sim -19.0$ for $q_0=0.5$ and $H_0=50$ \kms Mpc$^{-1}$), and
+lies $\sim 8.5h^{-1}$ kpc in projection from the QSO sightline. Ground--based
+measurements of Zn~II, Cr~II, and Fe~II absorption lines from this system allow
+us to infer abundances of [Zn/H]=$-1.1$, [Cr/H]=$-1.2$, and [Fe/H]=$-1.2$,
+indicating overall metallicity similar to damped systems at $z >2$, and that
+the depletion of Cr and Fe onto dust grains may be even {\it less} important
+than in many of the high redshift systems of comparable metallicity. Limits
+previously placed on the 21-cm optical depth in the $z=0.8596$ system, together
+with our new N(H~I) measurement, suggest a very high spin temperature for the
+H~I, $T_S >> 580$ K.
+","[{""version"":""v1"",""created"":""Tue, 27 Dec 1994 18:35:30 GMT""},{""version"":""v2"",""created"":""Thu, 29 Dec 1994 17:28:57 GMT""}]","2009-10-22"
+"astro-ph/9412094","Alvaro Llorente","A. Llorente and J. Perez-Mercader","Big-Bang Nucleosynthesis as a Probe of the Geometry of Superspace","15 pages, 2 PostScript figures","Phys.Lett.B355:461-465,1995","10.1016/0370-2693(95)00764-C","LAEFF-94/15","astro-ph gr-qc",,"  We study the effect from a general ultralocal supermetric on primordial
+nucleosynthesis for Friedmann-Robertson-Walker Cosmology. The parameter
+$\lambda$ of the supermetric changes the effective number of degrees of
+freedom, $g_*$, which modifies the Friedmann equation. This modification
+produces variations in the production of primordial $^4He$. The observations of
+the primordial abundances of light elements ($^4He$, $D$, $^3He$ and $^7Li$)
+allow to estimate bounds on the values of $\lambda$ consistent with these
+observations. We obtain $0.87 \le \lambda \le 1.04$. In addition we analyze the
+importance of $\lambda < 1$ to explain possible incompatibilities in the
+standard Big-Bang nucleosynthesis.
+","[{""version"":""v1"",""created"":""Wed, 28 Dec 1994 14:26:58 GMT""},{""version"":""v2"",""created"":""Thu, 29 Dec 1994 09:42:27 GMT""}]","2010-11-01"
+"cond-mat/9412113","Peter Borrmann","Peter Borrmann and Eberhard R. Hilf (Physics Dept, Univ of Oldenburg)","New enhancements to Feynmans Path Integral for fermions","7 pages, uses revtex.sty",,,,"cond-mat",,"  We show that the computational effort for the numerical solution of fermionic
+quantum systems, occurring e.g., in quantum chemistry, solid state physics,
+field theory in principle grows with less than the square of the particle
+number for problems stated in one space dimension and with less than the cube
+of the particle number for problems stated in three space dimensions. This is
+proven by representation of effective algorithms for fermion systems in the
+framework of the Feynman Path Integral.
+","[{""version"":""v1"",""created"":""Tue, 27 Dec 1994 16:06:22 GMT""}]","2007-05-23"
+"cond-mat/9412114",,"Jaime Besprosvany and S. A. Gurvitz (Weizmann Institute)","Hard-core Final State Interaction Effects in Deep Inelastic Scattering","13 pages, in RevTex. To be published in Physics Letters A. Figures
+  can be obtained from ftbespro@weizmann.weizmann.ac.il",,"10.1016/0375-9601(94)00956-P",,"cond-mat nucl-th",,"  Hard-core final state interaction effects in the response function are
+investigated in the asymptotic limit of momentum transfer q->Infinity. A new
+treatment of the response is presented, which displays the relevant scattering
+contribution. A modification of the otherwise expected free response is
+obtained for Fermi and Bose systems and smearing of the condensate peak is
+shown in this limit. A comparison with other treatments of final state
+interactions is made.
+","[{""version"":""v1"",""created"":""Tue, 27 Dec 1994 22:40:15 GMT""}]","2009-10-22"
+"cond-mat/9412115","Andrea Crisanti","L. Biferale, A. Crisanti, M. Vergassola, A. Vulpiani","Eddy diffusivities in scalar transport","21 Pages + 6 Figures Postscript (appended as .tar file), Latex
+  submitted Phys of Fluids",,"10.1063/1.868651","TNT 95-1","cond-mat chao-dyn comp-gas nlin.CD nlin.CG",,"  Standard and anomalous transport in incompressible flow is investigated using
+multiscale techniques. Eddy-diffusivities emerge from the multiscale analysis
+through the solution of an auxiliary equation. From the latter it is derived an
+upper bound to eddy-diffusivities, valid for both static and time-dependent
+flow. The auxiliary problem is solved by a perturbative expansion in powers of
+the P\'eclet number resummed by Pad\'e approximants and by a conjugate gradient
+method. The results are compared to numerical simulations of tracers dispersion
+for three flows having different properties of Lagrangian chaos. It is shown on
+a concrete example how the presence of anomalous diffusion can be revealed from
+the singular behaviour of the eddy-diffusivity at very small molecular
+diffusivities.
+","[{""version"":""v1"",""created"":""Wed, 28 Dec 1994 11:51:37 GMT""}]","2009-10-22"
+"cond-mat/9412116",,"J. Jaklic and P. Prelovsek (J. Stefan Institute)","Charge Dynamics in the Planar t-J Model","21 pages of text plus 17 figures, postscript","Phys. Rev. B 52, 6903 (1995)","10.1103/PhysRevB.52.6903","IJS-TP-94/29","cond-mat",,"  The finite-temperature optical conductivity $\sigma(\omega)$ in the planar
+$t-J$ model is analysed using recently introduced numerical method based on the
+Lanczos diagonalization of small systems (up to 20 sites), as well as by
+analytical approaches, including the method of frequency moments and the
+retraceable-path approximation. Results for a dynamical mobility of a single
+hole at elevated temperatures $T>t$ reveal a Gaussian-like $\mu(\omega)$
+spectra, however with a nonanalytical behavior at low $\omega$. In the single
+hole response a difference between the ferromagnetic (J=0) and the
+antiferromagnetic ($J>0$) polaron shows up at $T<J$. At larger dopings
+numerical results in studied systems are consistent with the thermodynamical
+behavior for $T>T^*\ge 0.1~t$. $\sigma(\omega)$ spectra show a non-Drude
+falloff at large frequencies. In particular for `optimum' doping $n_h \sim 0.2$
+we obtain in the low-$\omega,T$ regime the relaxation rate $\tau^{-1} \sim 0.6
+(\omega+\xi T)$ with $\xi \sim 3$, being consistent with the marginal Fermi
+liquid concept and experiments. Within the same regime we reproduce the nearly
+linear variation of dc resistivity $\rho$ with $T$. This behavior is weakly
+dependent on $J$, provided that $J<t$.
+","[{""version"":""v1"",""created"":""Wed, 28 Dec 1994 13:06:59 GMT""}]","2009-10-22"
+"cond-mat/9412117","Peter Borrmann","Peter Borrmann ( University of Oldenburg, FRG)","Path Integral Density Functional Theory","8 pages, 3 Postscript figures, uses revtex",,,,"cond-mat",,"  A new method ( PI-DFT ) which combines path integrals and density functional
+theory is proposed as a pathway to many fields of physics. Within path integral
+theory it is possible to construct particle densities without explicitly
+calculating individual wave functions. These densities can directly be used as
+an input to energy density functionals. Thus our method makes full use of the
+theorem of Hohenberg, Kohn and Sham which shows, that the energy of a many
+electron system only depends on the particle density. At glance we present a
+recursion formula for the calculation of many fermion and boson particle
+densities from one-particle densities at a set of different temperatures. For
+both statistics the numerical effort of our method increases only with the
+square of the particle number.
+","[{""version"":""v1"",""created"":""Wed, 28 Dec 1994 14:10:49 GMT""}]","2007-05-23"
+"dg-ga/9412006","Claude LeBrun","Claude LeBrun","On the Scalar Curvature of Complex Surfaces","10 pages, LaTeX, with optional \Bbb font replaceable by \bf",,,"Stony Brook preprint; number pending","dg-ga math.DG",,"  Let (M,J) be a minimal compact complex surface of Kaehler type. It is shown
+that the smooth 4-manifold M admits a Riemannian metric of positive scalar
+curvature iff (M,J) admits a KAEHLER metric of positive scalar curvature. This
+extends previous results of Witten and Kronheimer.
+","[{""version"":""v1"",""created"":""Tue, 27 Dec 1994 19:08:53 GMT""}]","2008-02-03"
+"hep-ex/9412016",,"Paul Z. Quintas (Fermi National Accelerator Lab) (for the D0
+  Collaboration)","Measurement of W and Z Production Cross-sections in p-pbar Collisions at
+  Sqrt(s)=1.8 TeV","4 pages",,,,"hep-ex",,"  The cross sections for W and Z production in p-pbar collisions at sqrt(s)=1.8
+TeV are measured using the D0 detector at the Fermilab Tevatron collider. The
+detected final states are W->e nu, Z->ee, W->mu nu, and Z->mu mu. In the ratio
+of these measurements, many common sources of systematic error cancel and we
+measure the ratio of the W and Z cross-sections. Assuming standard model
+couplings, this result is used to determine the width of the W boson and to set
+a limit on the decay W->t-bbar.
+","[{""version"":""v1"",""created"":""Tue, 27 Dec 1994 16:00:35 GMT""}]","2019-08-14"
+"hep-ex/9412017","Farrukh Azfar","The CDF Collaboration","Measurement of the Bs Meson Lifetime","18 pages, 3 figures (2 .ps 1 .eps)","Phys.Rev.Lett.74:4988,1995","10.1103/PhysRevLett.74.4988","FERMILAB-PUB-94/420-E","hep-ex",,"  The lifetime of the $B_s$ meson is measured using the semileptonic decay $B_s
+\to D_s^- \ell^+ \nu X$. The data sample consists of 19.3 pb$^{-1}$ of $p
+\bar{p}$ collisions at $\sqrt{s} = 1.8$ TeV collected by the CDF detector at
+the Fermilab Tevatron collider during 1992-1993. There are $76 \pm 8$ $\ell^{+}
+D_s^{-}$ signal events where the $D_s$ is identified via the decay $D_s^{-} \to
+\phi \pi^{-}$,~$\phi \to K^+ K^-$. Using these events, the $B_s$ meson lifetime
+is determined to be $\tau_{s} = 1.42^{+ 0.27}_{- 0.23} {\rm (stat)} \pm 0.11
+{\rm (syst)}$ ps. A measurement of the $B_s$ lifetime in a low statistics
+sample of exclusive $B_s \to J/\psi \phi$ decays is also presented in this
+paper.
+","[{""version"":""v1"",""created"":""Tue, 27 Dec 1994 23:14:02 GMT""},{""version"":""v2"",""created"":""Wed, 28 Dec 1994 22:28:24 GMT""}]","2012-08-27"
+"hep-lat/9412105","Robert Shrock","Victor Matveev and Robert Shrock","Complex-Temperature Properties of the 2D Ising Model with $\beta H = \pm
+  i \pi/2$","41 pages, latex, figures appended after the end of the text as a
+  compressed, uuencoded postscript file","J.Phys. A28 (1995) 4859-4882","10.1088/0305-4470/28/17/018","ITP-SB-94-57","hep-lat",,"  We study the complex-temperature properties of a rare example of a
+statistical mechanical model which is exactly solvable in an external
+symmetry-breaking field, namely, the Ising model on the square lattice with
+$\beta H = \pm i \pi/2$. This model was solved by Lee and Yang \cite{ly}. We
+first determine the complex-temperature phases and their boundaries. From a
+low-temperature, high-field series expansion of the partition function, we
+extract the low-temperature series for the susceptibility $\chi$ to
+$O(u^{23})$, where $u=e^{-4K}$. Analysing this series, we conclude that $\chi$
+has divergent singularities (i) at $u=u_e=-(3-2^{3/2})$ with exponent
+$\gamma_e'=5/4$, (ii) at $u=1$, with exponent $\gamma_1'=5/2$, and (iii) at
+$u=u_s=-1$, with exponent $\gamma_s'=1$. We also extract a shorter series for
+the staggered susceptibility and investigate its singularities. Using the exact
+result of Lee and Yang for the free energy, we calculate the specific heat and
+determine its complex-temperature singularities. We also carry this out for the
+uniform and staggered magnetisation.
+","[{""version"":""v1"",""created"":""Tue, 27 Dec 1994 16:37:31 GMT""}]","2009-10-28"
+"hep-lat/9412106","Akira Ukawa","A. Ukawa","Status of the CP-PACS Project","7 pages, contribution to the Lattice '94 conference, uuencoded
+  compressed ps-file","Nucl.Phys.Proc.Suppl. 42 (1995) 194-200","10.1016/0920-5632(95)00202-K",,"hep-lat",,"  The CP-PACS Project, which started in April 1992, is a five-year plan to
+develop a massively parallel computer for carrying out research in
+computational physics with primary emphasis on lattice QCD. This article
+describes the architectural design of the CP-PACS computer, the entire
+computing system including the front end and mass storage, and results of
+benchmarks for the expected performance for lattice QCD applications.
+","[{""version"":""v1"",""created"":""Wed, 28 Dec 1994 07:08:04 GMT""}]","2009-10-28"
+"hep-lat/9412107","Yoshimi Matsubara","Yoshimi Matsubara, Sawut Ilyar, Tsuyoshi Okude, Kenji Yotsuji and
+  Tsuneo Suzuki","Monopole effects on Polyakov loop and its gauge independence in QCD","3 pages (4 figures). Contribution to Lattice '94","Nucl.Phys.Proc.Suppl. 42 (1995) 529-531","10.1016/0920-5632(95)00302-P","KANAZAWA 94-30","hep-lat",,"  Monte-Carlo simulations of abelian projection in $T \neq 0$ pure lattice QCD
+show that
+  1)\ Polyakov loops written in terms of abelian link fields alone play a role
+of an order parameter of deconfinement transition
+  2)\ the abelian Polyakov loops are decomposed into contributions from Dirac
+strings of monopoles and from photons
+  3)\ vanishing of the abelian Polyakov loops in the confinement phase is due
+to the Dirac strings alone and the photons give a finite contribution in both
+phases.
+  Moreover, these results appear to hold good in unitary gauges. This suggests
+that monopole condensation as the color confinement mechanism is gauge
+independent.
+","[{""version"":""v1"",""created"":""Wed, 28 Dec 1994 09:18:38 GMT""}]","2009-10-28"
+"hep-lat/9412108","Shun-ichi Kitahara","Shun-ichi Kitahara, Yoshimi Matsubara and Tsuneo Suzuki","Monopoles and deconfinement transition in finite temperature $SU(2)$ QCD","3 pages (4 figures). Contribution to Lattice '94","Nucl.Phys.Proc.Suppl. 42 (1995) 511-513","10.1016/0920-5632(95)00296-L","KANAZAWA 94-29","hep-lat",,"  We investigate the role of monopoles in the deconfinement transition of
+finite temperature $SU(2)$ QCD in the maximally abelian gauge. In the
+confinement phase a long monopole loop exists in each configuration, whereas no
+long loop exists in the deep deconfinement region. Balancing of the energy and
+the entropy of loops of the maximally extended monopoles can explain the
+occurrence of the deconfinement transition.
+","[{""version"":""v1"",""created"":""Wed, 28 Dec 1994 09:18:29 GMT""}]","2009-10-28"
+"hep-ph/9412375","Stefan Herrlich","Stefan Herrlich, Ulrich Nierste","Evanescent Operators, Scheme Dependences and Double Insertions","23 pages, LaTeX 2.09, uses packages epsf, rotate, a4. 3 figures
+  included as PostScript files in a seperate uuencoded compressed tar file. A
+  complete PostScript file may be obtained from
+  ftp://feynman.t30.physik.tu-muenchen.de/pub/preprints/tum-66-94.ps.gz This
+  submission includes the changes made during the refereeing process. To appear
+  in Nucl.Phys.B","Nucl.Phys. B455 (1995) 39-58","10.1016/0550-3213(95)00474-7","TUM-T31-66/94, PSI-PR-94-37","hep-ph hep-th",,"  The anomalous dimension matrix of dimensionally regularized four-quark
+operators is known to be affected by evanescent operators, which vanish in
+$D=4$ dimensions. Their definition, however, is not unique, as one can always
+redefine them by adding a term proportional to $(D-4)$ times a physical
+operator. In the present paper we compare different definitions used in the
+literature and find that they correspond to different renormalization schemes
+in the physical operator basis. The scheme transformation formulae for the
+Wilson coefficients and the anomalous dimension matrix are derived in the
+next-to-leading order. We further investigate the proper treatment of
+evanescent operators in processes appearing at second order in the effective
+four-fermion interaction such as particle-antiparticle mixing, rare hadron
+decays or inclusive decays.
+","[{""version"":""v1"",""created"":""Tue, 27 Dec 1994 19:19:10 GMT""},{""version"":""v2"",""created"":""Thu, 7 Sep 1995 15:37:39 GMT""}]","2015-06-25"
+"hep-ph/9412376","C. S. Kim","C.S. Kim and A.D. Martin","Measuring~~$|V_{ub}|$~~at~~the~~LEP/SLC","7 pages, 2 figures (not included) available (kim@cskim.yonsei.ac.kr).
+  Talk given by C.S. Kim, at the Int. Workshop on B-physics, Nagoya, Japan, on
+  Oct. 26--28, 1994. Proceedings published by World Scientific, Singapore,
+  edited by A. Sanda and S. Suzuki",,,,"hep-ph",,"  We show that the observation of energetic charged leptons from semileptonic
+$B$-meson decays at the LEP and SLC $Z$--boson factories offers a unique
+opportunity to measure the quark mixing matrix element $|V_{ub}|$. We present
+various distributions of the $B$ decay products to show that the $b \to u$
+decays can be cleanly separated from the $b \to c$ decays, with a signal of
+$O(100)$ events per million $Z$ bosons produced.
+","[{""version"":""v1"",""created"":""Wed, 28 Dec 1994 06:14:53 GMT""}]","2009-09-25"
+"hep-ph/9412377","C. S. Kim","D.S. Hwang, C.S. Kim and W. Namgung","Fermi motion parameter $p_{_F}$ of $B$ meson from relativistic quark
+  model","1 figure (not included) available (kim@cskim.yonsei.ac.kr). Talk
+  given by D.S. Hwang, at the Int. Workshop on B-physics, Nagoya, Japan, on
+  Oct. 26-28, 1994. Proceedings published by World Scientific, Singapore,
+  edited by A. Sanda and S. Suzuki",,,,"hep-ph",,"  The Fermi motion parameter $p_{_F}$ is the most important parameter of ACCMM
+model, and the value $p_{_F} \sim 0.3$ GeV has been used without clear
+theoretical or experimental evidence. So, we attempted to calculate the value
+for $p_{_F}$ theoretically in the relativistic quark model using quantum
+mechanical variational method. We obtained $p_{_F} \sim 0.5$ GeV, which is
+somewhat larger than 0.3 GeV, and we also derived the eigenvalue of $E_B \simeq
+5.5$ GeV, which is in reasonable agreement with $m_B=5.28$ GeV. We also
+recalculated $|V_{ub}/V_{cb}|$ as a function of $p_{_F}$.
+","[{""version"":""v1"",""created"":""Wed, 28 Dec 1994 06:26:49 GMT""}]","2009-09-25"
+"hep-ph/9412378",,"A. E. Dorokhov, N. I. Kochelev, Yu. A. Zubov","Four-Quark States and Nucleon-Antinucleon Annihilation within the Quark
+  Model with Instanton Induced Interaction","28 pages, latex, 4 figures (one figure is available by request)","Z.Phys.C65:667-680,1995","10.1007/BF01578674","JINR E2-93-117","hep-ph",,"  The spectrum of $q^2\bar q^2, J^p=0^+,2^+$ mesons is discussed. We have shown
+that due to instanton - induced forces the physical states are strong mixtures
+of the $SU_f(3)$ group basis states. The cross-sections for annihilation of the
+$N\bar N$ system into $(q^2\bar q^2)(q\bar q)$ mesons are obtained. The
+$a_0(980)$ meson is considered as $q^2\bar q^2$ meson consisting of $9_f$ and
+$36_f$ plets. The branchings are also predicted for the cross-sections for
+production of the $a_0(980)$ and tensor $q^2\bar q^2$ mesons in $N\bar N$
+annihilation.
+","[{""version"":""v1"",""created"":""Wed, 28 Dec 1994 12:03:21 GMT""}]","2011-07-19"
+"hep-ph/9412379","Marek Olechowski","F.M. Borzumati, M. Olechowski and S. Pokorski","Constraints on the Minimal SUSY SO(10) Model from Cosmology and the
+  $b\to s \gamma$ Decay","10 pages, latex, 5 figures (not included, available on request)","Phys.Lett.B349:311-318,1995","10.1016/0370-2693(95)00270-U","CERN-TH.7515/94","hep-ph",,"  It is shown that the minimal supersymmetric SO(10) model with electroweak
+radiative breaking and universal soft mass terms at the GUT scale is strongly
+disfavoured by the combination of constraints from the $b\to s \gamma$ decay
+and the condition $\Omega h^2 < 1$ for the lightest (stable) neutralino. The
+constraints are, however, easily satisfied for certain class of supersymmetric
+SO(10) models with non--universal scalar masses which gives small
+supersymmetric corrections to the bottom quark mass and light higgsino--like
+neutralinos.
+","[{""version"":""v1"",""created"":""Wed, 28 Dec 1994 14:58:57 GMT""},{""version"":""v2"",""created"":""Thu, 29 Dec 1994 08:44:25 GMT""}]","2011-01-27"
+"hep-th/9412222",,"S. James Gates, Jr","Vector Multiplets and the Phases of N = 2 Theories in 2D Through the
+  Looking Glass","11 pages","Phys.Lett. B352 (1995) 43-49","10.1016/0370-2693(95)00469-2","UMDEPP 95-75 REVISED","hep-th",,"  We extend Witten's discussion of actions related to the Landau-Ginzburg
+description of Calabi-Yau hypersurfaces in weighted projective spaces to cover
+the mirror class of models that include twisted chiral matter multiplets and a
+newly discovered 2D, N = 2 twisted vector multiplet. Certain integrability
+obstructions are observed that constrain the most general constructions
+containing both matter and twisted matter simultaneously. It is conjectured
+that knot invariants will ultimately play a role in describing the most general
+such model.
+","[{""version"":""v1"",""created"":""Tue, 27 Dec 1994 21:45:57 GMT""},{""version"":""v2"",""created"":""Thu, 29 Dec 1994 22:27:59 GMT""}]","2012-08-27"
+"hep-th/9412224","Yoichi Kazama","Yoichi Kazama","On Quantum Black Holes","48 pages, latex, 12 figures. (Replaced 95.1.5. Trouble- making return
+  characters have been (hopefully) removed.)",,,"UT-Komaba 94-18","hep-th",,"  A pedagogical discussion is given of some aspects of \lq\lq quantum black
+holes"", primarily using recently developed two-dimensional models. After a
+short preliminary concerning classical black holes, we give several motivations
+for studying such models, especially the so called dilaton gravity models in
+$1+1$ dimensions. Particularly attractive is the one proposed by
+Callan,Giddings, Harvey and Strominger (CGHS), which is classically solvable
+and contains black hole solutions. Its semi-classical as well as classical
+properties will be reviewed, including how a flux of matter fields produces a
+black hole with a subsequent emission of Hawking radiation. Breakdown of such
+an approximation near the horizon, however, calls for exactly solvable variants
+of this model and some attempts in this direction will then be described. A
+focus will be placed on a model with 24 matter fields, for which exact
+quantization can be performed and physical states constructed. A method will
+then be proposed to extract space-time geometry described by these states in
+the sense of quantum average and examples containing a black hole will be
+presented. Finally we give a (partial) list of future problems and discuss the
+nature of difficulties in resolving them.
+","[{""version"":""v1"",""created"":""Wed, 28 Dec 1994 05:43:40 GMT""},{""version"":""v2"",""created"":""Thu, 29 Dec 1994 05:05:44 GMT""},{""version"":""v3"",""created"":""Thu, 5 Jan 1995 10:15:12 GMT""}]","2008-02-03"
+"hep-th/9412226","Sun Yi","Masao Jinzenji and Yi Sun","Calculation of Gromov-Witten invariants for $ CP^{3},CP^{4}$,and
+  $Gr(2,4)$","32pages, latex","Int.J.Mod.Phys. A11 (1996) 171-202","10.1142/S0217751X96000092","UTHEP-696-94","hep-th",,"  Using the associativity relations of the topological Sigma Models with target
+spaces, $CP^3, CP^4$ and $Gr(2,4)$ , we derive recursion relations of their
+correlation and evaluate them up to certain order in the expansion over the
+instantons. The expansion coeffieients are regarded as the number of rational
+curves in $CP^3, CP^4$ and $Gr(2,4)$ which intersect various types of
+submanifolds corresponding to the choice of BRST invariant operators in the
+correlation functions.
+","[{""version"":""v1"",""created"":""Wed, 28 Dec 1994 10:44:06 GMT""}]","2015-06-26"
+"hep-th/9412227","Hiroshi Shirokura","Hiroshi Shirokura (Osaka University)","Modification of Matrix Models by Square Terms of Scaling Operators","25 pages, 1 postscript figure, uses latex and epsf.sty",,,"OU-HET 208","hep-th",,"  We study one (or two) matrix models modified by terms of the form
+$g(\rho(P))^2 + g'(\rho'({\cal{O}}))^2$, where the matrix representation of the
+puncture operator $P$ and the one of a scaling operator ${\cal{O}}$ are denoted
+by $\rho(P)$ and $\rho'({\cal{O}})$ respectively. We rewrite the modified
+models as effective theories of baby universes. We find an upper bound for the
+gravitational dimension of ${\cal{O}}$ under which we can fine tune the
+coupling constants to obtain new critical behaviors in the continuum limit. The
+simultaneous tuning of $g$ and $g'$ is possible if the representations
+$\rho(P)$ and $\rho'({\cal{O}})$ are chosen so that the non-diagonal elements
+of the mass matrix of the effective theory vanish.
+","[{""version"":""v1"",""created"":""Wed, 28 Dec 1994 11:54:28 GMT""}]","2007-05-23"
+"math/9412203",,"Amnon Rosenmann","When Schrier transversals grow wild","LaTex, 12 pages, no figures",,,"MAGNUS preprint #94-12-28A","math.GR",,"  Schreier formula for the rank of a subgroup of finite index of a finitely
+generated free group $F$ is generalized to an arbitrary (even infinitely
+generated) subgroup $H$ through the Schreier transversals of $H$ in $F$. The
+rank formula may also be expressed in terms of the cogrowth of $H$. We
+introduce the rank-growth function $rk_H(i)$ of a subgroup $H$ of a finitely
+generated free group $F$. $rk_H(i)$ is defined to be the rank of the subgroup
+of $H$ generated by elements of length less than or equal to $i$ (with respect
+to the generators of $F$), and it equals the rank of the fundamental group of
+the subgraph of the cosets graph of $H$, which consists of the paths starting
+at $1$ that are of length $\leq i$. When $H$ is supnormal, i.e. contains a
+non-trivial normal subgroup of $F$, we show that its rank-growth is equivalent
+to the cogrowth of $H$. A special case of this is the known result that a
+supnormal subgroup of $F$ is of finite index if and only if it is finitely
+generated. In particular, when $H$ is normal then the growth of the group
+$G=F/H$ is equivalent to the rank-growth of $H$. A Schreier transversal forms a
+spanning tree of the cosets graph of $H$, and thus its topological structure is
+of a contractible spanning subcomplex of a simplicial complex. The
+$d$-dimensional simplicial complexes that contain contractible spanning
+subcomplexes have the homotopy type of a bouquet of $r$ $d$-spheres. When these
+complexes are also $n$-regular then $r$ can be computed by generalizing the
+rank formula (which applies to Schreier transversals) to higher dimensions.
+","[{""version"":""v1"",""created"":""Wed, 28 Dec 1994 00:00:00 GMT""}]","2008-02-03"
+"math/9412204",,"Amnon Rosenmann","The normalized cyclomatic quotient associated with presentations of
+  finitely generated groups","LaTex, 23 pages, no figures",,,"MAGNUS preprint #94-12-28B","math.GR",,"  Given the Cayley graph of a finitely generated group $G$, with respect to a
+presentation $G^{\alpha}$ with $n$ generators, the quotient of the rank of the
+fundamental group of subgraphs of the Cayley graph by the cardinality of the
+set of vertices of the subgraphs gives rise to the definition of the normalized
+cyclomatic quotient $\Xi (G^{\alpha})$. The asymptotic behavior of this
+quotient is similar to the asymptotic behavior of the quotient of the
+cardinality of the boundary of the subgraph by the cardinality of the subgraph.
+Using F&#248;lner's criterion for amenability one gets that $\Xi (G^{\alpha})$
+vanishes for infinite groups if and only if they are amenable. When $G$ is
+finite then $\Xi (G^{\alpha})=1/|G|$, where $|G|$'> is the cardinality of $G$,
+and when $G$ is non-amenable then $1-n\leq\Xi (G^{\alpha})\le 0$, with $\Xi
+(G^{\alpha})=1-n$ if and only if $G$ is free of rank $n$. Thus we see that on
+special cases $\Xi (G^{\alpha})$ takes the values of the Euler characteristic
+of $G$. Most of the paper is concerned with formulae for the value of $\Xi
+(G^{\alpha})$ with respect to that of subgroups and factor groups, and with
+respect to the decomposition of the group into direct product and free product.
+Some of the formulae and bounds we get for $\Xi (G^{\alpha})$ are similar to
+those given for the spectral radius of symmetric random walks on the graph of
+$G^{\alpha}$, but this is not always the case. In the last section of the paper
+we define and touch very briefly the balanced cyclomatic quotient, which is
+defined on concentric balls in the graph and is related to the growth of $G$.
+","[{""version"":""v1"",""created"":""Wed, 28 Dec 1994 00:00:00 GMT""}]","2008-02-03"
+"q-alg/9412013","Lang Mong Lung","Koichiro Harada and Mong Lung Lang","The McKay-Thompson series associated with the irreducible characters of
+  the Monster","19 pages, latex file",,,,"q-alg math.QA",,"  Let $ \Bbb V = \coprod_{h = 0}^{\infty} \Bbb V_h$ be the graded monster
+module of the monster simple group $\Bbb M$ and let $\chi_k$ be an irreducible
+representation of $\Bbb M$. The generating function of $c_{hk}$ (the
+multiplicity of $\chi_k$ in $\Bbb V_h$) is determined. Furthermore, the
+invariance group of the modular function associated with the generating
+function is also determined in this paper.
+","[{""version"":""v1"",""created"":""Wed, 28 Dec 1994 09:54:15 GMT""}]","2008-02-03"
+"q-alg/9412014","Lang Mong Lung","Koichiro Harada and Mong Lung Lang","Modular forms associated with the Monster module","31 pages, latex file",,,"nus-94-12","q-alg math.QA",,"  We investigate the relation between the generating functions of the highest
+weight vectors of the Monster module and the McKay-Thompson series.
+","[{""version"":""v1"",""created"":""Wed, 28 Dec 1994 09:55:42 GMT""}]","2008-02-03"
+"q-alg/9412015","Youichi Shibukawa","Youichi Shibukawa","Vertex--IRF correspondence and factorized L-operators for an elliptic
+  R-operator","25 pages, amslatex, no figures",,"10.1007/BF02101811",,"q-alg hep-th math.QA",,"  As for an elliptic $R$-operator which satisfies the Yang--Baxter equation,
+the incoming and outgoing intertwining vectors are constructed, and the
+vertex--IRF correspondence for the elliptic $R$-operator is obtained. The
+vertex--IRF correspondence implies that the Boltzmann weights of the IRF model
+satisfy the star--triangle relation. By means of these intertwining vectors,
+the factorized L-operators for the elliptic $R$-operator are also constructed.
+The vertex--IRF correspondence and the factorized L-operators for Belavin's
+$R$-matrix are reproduced from those of the elliptic $R$-operator.
+","[{""version"":""v1"",""created"":""Wed, 28 Dec 1994 03:54:32 GMT""}]","2009-10-28"
+"quant-ph/9412008",,"M. Khorrami","A general formulation of discrete-time quantum mechanics, restrictions
+  on the action and the relation of unitarity to the existence theorem for
+  initial-value problems","13 pages, TeX","Annals Phys. 244 (1995) 101-111","10.1006/aphy.1995.1108","IPM-94-073, TUDP 94-3, IASBS 94-7","quant-ph",,"  A general formlulation for discrete-time quantum mechanics, based on
+Feynman's method in ordinary quantum mechanics, is presented. It is shown that
+the ambiguities present in ordinary quantum mechanics (due to noncommutativity
+of the operators), are no longer present here. Then the criteria for the
+unitarity of the evolution operator is examined. It is shown that the unitarity
+of the evolution operator puts restrictions on the form of the action, and also
+implies the existence of a solution for the classical initial-value problem.
+","[{""version"":""v1"",""created"":""Wed, 28 Dec 1994 08:16:58 GMT""}]","2015-06-26"

@@ -1,0 +1,256 @@
+"astro-ph/9408043","Ray Carlberg","R. G. Carlberg","Velocity Bias in MS1224+20","cnoc-3",,"10.1086/187572",,"astro-ph",,"  Velocity bias offers a single parameter ($b_v$) description of the likely
+segregation of mass and light in a galaxy cluster. The relation between the
+projected mass profile and the light profile, normalized by the virial $M/L$,
+is presented as a function of $b_v\equiv\sigma_\ell/\sigma_\rho$, the ratio of
+the RMS velocity dispersions of the galaxies and the underlying dark matter.
+The light distribution does not trace the mass at any radius within the
+cluster. At the apparent harmonic radius the gravitational mass can exceed the
+virial mass calculated from the light by about a factor of 2 (or more). The
+data for the MS1224+20 cluster, covering nearly a decade in radius, are well
+described by a velocity bias value of $b_v=0.85\pm0.05$, comparable to the
+n-body estimate of $b_v=0.8\pm0.1$. This particular value will remain tentative
+until more data are available.
+","[{""version"":""v1"",""created"":""Mon, 15 Aug 1994 01:09:20 GMT""}]","2009-10-22"
+"astro-ph/9408044","David I. Kaiser","David Kaiser","Primordial Spectral Indices from Generalized Einstein Theories","31 pp. Forthcoming in Physical Review D. Section 3 significantly
+  revised. Four figures not included; hard copies available from author","Phys.Rev.D52:4295-4306,1995","10.1103/PhysRevD.52.4295","HUTP-94/A033 , DART-HEP-94/05","astro-ph gr-qc hep-ph",,"  Primordial spectral indices are calculated to second order in slow-roll
+parameters for three closely-related models of inflation, all of which contain
+a scalar field non-minimally coupled to the Ricci curvature scalar. In most
+cases, $n_s$ may be written as a function of the non-minimal curvature coupling
+strength $\xi$ alone, with $n_s (\xi) \leq 1$, although the constraints on
+$\xi$ differ greatly between \lq new inflation' and \lq chaotic inflation'
+initial conditions. Under \lq new inflation' initial conditions, there are
+discrepancies between the values of $n_s$ as calculated in the Einstein frame
+and the Jordan frame. The sources for these discrepancies are addressed, and
+shown to have negligible effects on the numerical predictions for $n_s$. No
+such discrepancies affect the calculations under \lq chaotic inflation' initial
+conditions.
+","[{""version"":""v1"",""created"":""Mon, 15 Aug 1994 04:55:37 GMT""},{""version"":""v2"",""created"":""Tue, 11 Jul 1995 20:07:02 GMT""}]","2010-11-01"
+"astro-ph/9408045",,"A. Newsam, J.F.L. Simmons, M.A. Hendry","Bias Minimisation in POTENT","11 pages plus 7 pages of figures, uuencoded compressed tared
+  PostScript (2 files), also available via URL
+  http://info.astro.gla.ac.uk/~andrew/papers/mc_correct/, Accepted for
+  publication by A&A, July 1994. UG-COS-AMN-002",,,,"astro-ph",,"  Much current interest in cosmology has revolved around the peculiar velocity
+field of galaxies. Many methods have been proposed to derive this, probably the
+most prominent being POTENT (Dekel et al. 1990). However, this is prone to many
+forms of systematic error or bias. Here, we examine some of the methods
+currently used to minimise these biases, particularly Malmquist corrections,
+and highlight some of their pitfalls. As an alternative we propose an iterative
+scheme based on Monte Carlo simulations of POTENT that shows noticeable
+improvement over the other methods considered.
+","[{""version"":""v1"",""created"":""Mon, 15 Aug 1994 12:19:00 GMT""}]","2007-05-23"
+"astro-ph/9408046","Andrew Jaffe","A. Jaffe and N. Kaiser (CITA)","Likelihood Analysis of Large-Scale Flows","uuencoded, gzipped postscript. Considerable changes in details of the
+  analysis; conclusions largely unchanged. Also available at
+  file://ftp.cita.utoronto.ca/cita/jaffe/papers/vlet.ps.gz To be published in
+  Ap.J., December 10, 1995",,"10.1086/176551","CITA 94-30","astro-ph",,"  We apply a likelihood analysis to the data of \markcite{Lauer \& Postman
+1994} With $P(k)$ parametrized by $(\sigma_8, \Gamma)$, the likelihood function
+peaks at $\sigma_8\simeq0.3$, $\Gamma\lesssim0.025$, indicating at face value
+very strong large-scale power, though at a level incompatible with COBE\@.
+There is, however, a ridge of likelihood such that more conventional power
+spectra do not seem strongly disfavored. The likelihood calculated using as
+data only the components of the bulk flow solution peaks at higher $\sigma_8$,
+in agreement with other analyses, but is rather broad. The likelihood
+incorporating both bulk flow and shear gives a different picture. The
+components of the shear are all low, and this pulls the peak to lower
+amplitudes as a compromise.
+  The Lauer \& Postman velocity data alone are therefore {\em consistent}\/
+with models with very strong large scale power which generates a large bulk
+flow, but the small shear (which also probes fairly large scales) requires that
+the power would have to be at {\em very}\/ large scales, which is strongly
+disfavored by COBE\@. The velocity data also seem compatible with more
+conventional $P(k)$ with $0.2\lesssim\Gamma\lesssim0.5$, and the likelihood is
+peaked around $\sigma_8\sim1$, in which case the bulk flow is a moderate, but
+not extreme, statistical fluctuation.
+  Applying the same techniques to the data of \markcite{Riess, Press, \&
+Kirshner 1995}, the results are quite different. The flow is not inconsistent
+with the microwave dipole and we derive only an upper limit to the amplitude of
+the power spectrum: $\sigma_8\lesssim1.5$ at roughly 99\%.
+","[{""version"":""v1"",""created"":""Mon, 15 Aug 1994 15:28:34 GMT""},{""version"":""v2"",""created"":""Mon, 7 Aug 1995 16:45:11 GMT""}]","2009-10-22"
+"gr-qc/9408017","Datta Dhurjati Prasad","Dhurjati Prasad Datta","Relevance of Induced Gauge Interactions in Decoherence","10 pages, LATEX, IC/94/168","Phys.Rev.D52:3375-3381,1995","10.1103/PhysRevD.52.3375",,"gr-qc",,"  Decoherence in quantum cosmology is shown to occur naturally in the presence
+of induced geometric gauge interactions associated with particle production.A
+new 'gauge '-variant form of the semiclassical Einstein equations is also
+presented which makes the non-gravitating character of the vacuum polarisation
+energy explicit.
+","[{""version"":""v1"",""created"":""Mon, 15 Aug 1994 12:19:06 GMT""}]","2011-08-04"
+"gr-qc/9408018","Ulrich Alfes","Ulrich Alfes and Henning M\""uller zum Hagen","Spherically Symmetric Event Horizons and Trapped Surfaces Developing
+  {}from Innociuous Data","18 pages, uuencoded compressed PostScript (160KB), incl. 2 figures","Class.Quant.Grav.11:2705-2722,1994","10.1088/0264-9381/11/11/012",,"gr-qc",,"  In this paper we show the existence of a large class of spherically symmetric
+data $d$ (on a spacelike hypersurface $S$), from which a perfect fluid
+spacetime (surrounded by vacuum) develops. This spacetime contains an event
+horizon (with trapped surfaces behind it). The data $d$ are regular and {\it
+innociuous}, i.e. the data--surface $S$ does not contain any point of the
+horizon or of the trapped surface area.
+  We give auxiliary data on an auxiliary hypersurface $H$ and also on the star
+boundary; then we solve Einstein's equations for perfect fluid in the future
+and past of $H$. Our solution induces the above mentioned data $d$ on some
+chosen spacelike hypersurface $S$ in the past of $H$. By construction $H$ turns
+out to be the matter part of the horizon, once we attach a vacuum to our matter
+spacetime. Obviously, from these data $d$ on $S$ it develops (into the future)
+the event horizon $H$.
+  We solve the constraint equations for the auxiliary data posed on the
+null--surface $H$. This reduces the choice of these data to the choice of the
+density $\rho$ and $R:=[\text{curvature}]^{-1/2}$. Our data fulfil positivity
+of $\rho$, $2m/R=1$ (at the star boundary) and other properties. This is
+archieved by an algorithm, which for given $\rho $ yields $R$ (from an input
+parameter function $h \in C^1( \left[0,1\right],\left]0,-\infty \right[)$).
+","[{""version"":""v1"",""created"":""Mon, 15 Aug 1994 14:42:44 GMT""}]","2010-05-12"
+"hep-ph/9408285","Berndt Mueller","Berndt Mueller","Colored Chaos","10 pages (7 figures, plenum.sty file, appended as uuencoded file),
+  DUKE-TH-94-72",,,,"hep-ph nucl-th",,"  I review recent progress in our understanding of the basis of statistical
+models for hadronic reactions and of the mechanisms of thermalization in
+nonabelian gauge theories. (Invited talk given at the NATO Advanced Research
+Workshop on Hot Hadronic Matter: Theory and Experiment, Divonne-le-Bains, June
+1994) **Note: The PostScript file of one figure is too large to be easily
+transmitted; I will mail a hardcopy upon request.
+","[{""version"":""v1"",""created"":""Sun, 14 Aug 1994 21:35:55 GMT""}]","2009-09-25"
+"hep-ph/9408286","Yuval Kluger","Yuval Kluger","Evolution of the Disoriented Chiral Condensates in the Mean Field
+  Approximation","talk at 8th Meeting of DPF, Albuquerque, NM, August 1994, uuencoded,
+  compressed, PostScript, 7 pages, LA-UR-94-2754",,,,"hep-ph",,"  We study the dynamics of the chiral phase transition expected during the
+expansion of the quark-gluon plasma produced in a high energy hadron or heavy
+ion collision, using the $O(4)$ linear sigma model in the mean field
+approximation. Starting from an approximate equilibrium configuration at an
+initial proper time $\tau$ in the disordered phase, we study the transition to
+the ordered broken symmetry phase as the system expands and cools. We give
+results for the proper time evolution of the effective pion mass and for the
+pion two point correlation function. We investigate the possibility of
+disoriented chiral condensate being formed during the expansion. In order to
+create large domains of disoriented chiral condensates low-momentum
+instabilities have to last for long enough periods of time. Our simulations
+show no instabilities for an initial thermal configuration. For the
+far-of-equilibrium cases studied, the instabilities are formed during the
+initial stages of the expansion survive for short proper times. For slow
+expansion rates even such configurations do not develop instabilities.
+","[{""version"":""v1"",""created"":""Mon, 15 Aug 1994 01:51:11 GMT""},{""version"":""v2"",""created"":""Mon, 15 Aug 1994 17:26:44 GMT""}]","2008-02-03"
+"hep-ph/9408287","Andre Likhoded","A.V.Berezhnoy, A.K.Likhoded and M.V.Shevlyagin","Photonic production of B_c-mesons","Preprint IHEP 94-82","Phys.Lett. B342 (1995) 351-355","10.1016/0370-2693(94)01359-K",,"hep-ph",,"  The cross section of the $\gamma \gamma \rightarrow B_c(B_c^*) \bar b c $
+process is calculated. It is shown that near threshold the pseudoscalar state
+production is much suppressed with respect to the vector one. At large energies
+their ratio becaims $\sigma(B_c^*)/sigma(B_c)\sim 4$. The process of heavy
+quark recombination dominates in the production of $B_c(B_c^*)$ states. The
+fragmentation process $b\to B_c$ comes to play at high $p_t$ values only, while
+its contribution will remain nondominant.
+","[{""version"":""v1"",""created"":""Mon, 15 Aug 1994 12:11:10 GMT""}]","2009-10-28"
+"hep-ph/9408290","Matthias Neubert","M. Neubert","Theoretical Update on the Model-Independent Determination of |V_{cb}|
+  Using Heavy Quark Symmetry","11 pages LaTeX, 2 figures. Revision - minor typographic changes made","Phys.Lett.B338:84-91,1994","10.1016/0370-2693(94)91348-X","CERN-TH.7395/94","hep-ph",,"  In view of new precise measurements of the $\bar B\to D^*\ell \bar\nu$ decay
+rate near zero recoil, we reconsider the theoretical uncertainties in the
+extraction of $| V_{cb}|$ using heavy quark symmetry. In particular, we combine
+our previous estimate of $1/m_Q^2$ corrections to the normalization of the
+hadronic form factor at zero recoil with sum rules derived by Shifman {\it et
+al}. to obtain a new prediction with less theoretical uncertainty. We also
+summarize the status of the calculation of short-distance corrections, and of
+the slope of the form factor at zero recoil. We find ${\cal F}(1)=\eta_A
+\hat\xi(1)=0.93\pm 0.03$ and $\hat\varrho^2=0.7\pm 0.2$. Combining this with
+the most recent experimental results, we obtain the model-independent value $|
+V_{cb}|=0.040\pm 0.003$.
+","[{""version"":""v1"",""created"":""Mon, 15 Aug 1994 12:30:02 GMT""},{""version"":""v2"",""created"":""Mon, 22 Aug 1994 10:13:52 GMT""}]","2010-11-01"
+"hep-ph/9408291",,"B.L. Ioffe","The Nucleon Spin Problem","31 pages, 5 figures available upon request, ITEP-61(1994)","Surveys High Energ.Phys.8:107-134,1995","10.1080/01422419508201820",,"hep-ph",,"  C o n t e n t s 1. Introduction. 2. General Relations. 3. Small $x$ Domain --
+Regge Behaviour. 4. The Parton Model. 5. Sum Rules in the Parton Model. 6. QCD
+Corrections to Sum Rules. 7. Nucleon Axial Coupling Constants. 8. The
+Experimental Data on $g_1(x)$ and Their Interpretation. 9. Suggestions for
+Future Experiments. 10. The Structure Function $g_2(x)$. 11. Chirality
+Violating Structure Function $h_1(x)$. 12. Conclusions.
+","[{""version"":""v1"",""created"":""Mon, 15 Aug 1994 09:54:13 GMT""}]","2015-06-25"
+"hep-ph/9408292",,"S. D. Bass","The trace anomaly and the parton model","7 pages + 2 Figues appended as .ps file at the end, plain LaTeX,
+  Cavendish preprint HEP 94/6","Phys.Lett. B342 (1995) 233-238","10.1016/0370-2693(94)01405-2",,"hep-ph",,"  The trace anomaly is relevant to the renormalisation of the unpolarised
+parton distributions. The role of the trace anomaly in F_2 is compared with the
+axial anomaly in g_1.
+","[{""version"":""v1"",""created"":""Mon, 15 Aug 1994 11:37:49 GMT""}]","2009-10-28"
+"hep-ph/9408293","Thomas Woehrmann","T. Woehrmann, H. Fraas","Associate Sneutrino-Neutralino/Chargino Production at LEPxLHC","9 pages, report UWITP-94/1","Phys.Lett. B336 (1994) 107-112","10.1016/0370-2693(94)00947-3",,"hep-ph",,"  We examine for representative gaugino-higgsino mixing scenarios
+sneutrino-neutralino and sneutrino-chargino production in deep inelastic
+ep-scattering at the cm-energy of 1.8 TeV. The cross sections for
+sneutrino-chargino production are more than one order of magnitude bigger than
+those for sneutrino-squark production. Also for zino-like neutralinos we find
+cross sections at least comparable to those for sneutrino-squark production.
+","[{""version"":""v1"",""created"":""Mon, 15 Aug 1994 12:42:44 GMT""}]","2009-10-28"
+"hep-th/9408081","Ian Kogan","Ian I. Kogan and Alex Kovner","A variational approach to the QCD wave functional:Dynamical mass
+  generation and confinement","37 pages, (1 Figure available upon request), preprint LA-UR-94-2727,
+  PUPT-1492","Phys.Rev. D52 (1995) 3719-3734","10.1103/PhysRevD.52.3719",,"hep-th hep-ph",,"  We perform a variational calculation in the SU(N) Yang Mills theory in 3+1
+dimensions. Our trial variational states are explicitly gauge invariant, and
+reduce to simple Gaussian states in the zero coupling limit. Our main result is
+that the energy is minimized for the value of the variational parameter away
+form the perturbative value. The best variational state is therefore
+characterized by a dynamically generated mass scale $M$. This scale is related
+to the perturbative scale $\Lambda_{QCD}$ by the following relation:
+$\alpha_{QCD}(M)={\pi\over 4}{1\over N}$. Taking the one loop QCD $\beta$-
+function and $\Lambda_{QCD}=150 Mev$ we find (for N=3) the vacuum condensate
+${\alpha\over \pi}<F^2>= 0.008 Gev^4$.
+","[{""version"":""v1"",""created"":""Mon, 15 Aug 1994 00:30:34 GMT""}]","2009-10-28"
+"hep-th/9408082","Andreas Wisskirchen","Ralph Blumenhagen and Andreas Wisskirchen","Extension of the N=2 Virasoro algebra by two primary fields of dimension
+  2 and 3","12 pages, PlainTeX, BONN-TH-94-12","Phys.Lett. B343 (1995) 168-180","10.1016/0370-2693(94)01433-D",,"hep-th",,"  We explicitly construct the extension of the N=2 super Virasoro algebra by
+two super primary fields of dimension two and three with vanishing u(1)-charge.
+Using a super covariant formalism we obtain two different solutions both
+consistent for generic values of the central charge c. The first one can be
+identified with the super W_4-algebra - the symmetry algebra of the CP(3)
+Kazama-Suzuki model. With the help of unitarity arguments we predict the
+self-coupling constant of the field of dimension two for all super
+W_n-algebras. The second solution is special in the sense that it does not have
+a finite classical limit c->infinity and generic null fields appear. In the
+spirit of recent results in the N=0 case it can be understood as a unifying N=2
+super W-algebra for all CP(n) coset models. It does not admit any unitary
+representation.
+","[{""version"":""v1"",""created"":""Mon, 15 Aug 1994 07:21:25 GMT""}]","2009-10-28"
+"hep-th/9408083","Ashoke Sen","Ashoke Sen","Strong-Weak Coupling Duality in Three Dimensional String Theory","41 pages, phyzzx.tex, TIFR-TH-94-19 (Some references have been added.
+  No change in the text.)","Nucl.Phys.B434:179-209,1995","10.1016/0550-3213(94)00461-M",,"hep-th",,"  Following an old result of Marcus and Schwarz we argue that in the heterotic
+string theory compactified on a seven dimensional torus, the target space
+duality group O(7,23;Z) and the strong-weak coupling duality transformations
+combine into the group O(8,24;Z). We discuss symmetry of the combined spectrum
+of elementary particles and solitons in the theory, and also show that the
+existence of this symmetry predicts the number of harmonic forms on the moduli
+space of periodic arrays of BPS monopoles in (3+1) dimensions. Finally, we show
+that the O(8,24;Z) transformations relate the soliton solutions of Dabholkar
+et. al. representing the fundamental string to the soliton solutions of Greene
+et. al. representing `stringy cosmic strings'.
+","[{""version"":""v1"",""created"":""Mon, 15 Aug 1994 12:39:34 GMT""},{""version"":""v2"",""created"":""Sun, 9 Oct 1994 12:46:52 GMT""}]","2009-09-15"
+"hep-th/9408084","Junkoga","Jun-ichirou Koga and Kei-ichi Maeda","Superradiance around Rotating Dilatonic Black Hole","12 pages, Latex, three figures, WU-AP/43/94","Phys.Lett. B340 (1994) 29-34","10.1016/0370-2693(94)91293-9",,"hep-th gr-qc",,"  We consider a superradiance effect around rotating dilatonic black holes. We
+analyze two cases: one is an exact solution with the coupling constant
+$\alpha=\sqrt{3}$, which effective action is reduced from the 5-dimensional
+Kaluza-Klein theory, and the other is a slowly rotating dilatonic black holes
+with arbitrary coupling constant. We find that there exists a critical value
+($\alpha \sim 1$), which is predicted from a superstring model, and the
+superradiant emission rate with coupling larger than the critical value becomes
+much higher than the Kerr-Newman case ($\alpha=0$) in the maximally charged
+limit. Consequently, 4-dimensional primordial black holes in higher dimensional
+unified theories are either rotating but almost neutral or charged but
+effectively non-rotating.
+","[{""version"":""v1"",""created"":""Mon, 15 Aug 1994 09:23:49 GMT""},{""version"":""v2"",""created"":""Tue, 16 Aug 1994 11:15:32 GMT""}]","2009-10-28"
+"math/9408212","Akihiko Yukie","Akihiko Yukie","On the convergence of the zeta function for certain prehomogeneous
+  vector spaces",,,,"OSU Math 1994-5","math.RT",,"  Let (G,V) be an irreducible prehomogeneous vector space defined over a number
+field k, P in k[V] a relative invariant polynomial, and X a rational character
+of G such that P(gx)=X(g)P(x). Let V_k^{ss}={x \in V_k such that P(x) is not
+equal to 0}. For x in V_k^{ss}, let G_x be the stabilizer of x, and G_x^0 the
+connected component of 1 of G_x. We define L_0 to be the set of x in V_k^{ss}
+such that G_x^0 does not have a non-trivial rational character. We study the
+zeta function for (G,V).
+","[{""version"":""v1"",""created"":""Mon, 15 Aug 1994 00:00:00 GMT""}]","2016-09-06"
+"math/9408213","Shelah Office","Alan H. Mekler, Saharon Shelah","Almost free algebras",,"Israel J. Math. 89 (1995), 237--259",,"Shelah [MkSh:366]","math.LO math.RA",,"  The essentially non-free spectrum is the class of uncountable cardinals kappa
+in which there is an essentially non-free algebra of cardinality kappa which is
+almost free. In L, the essentially non-free spectrum of a variety is entirely
+determined by whether or not the construction principle holds. In ZFC may be
+more complicated. For some varieties, such as groups, abelian groups or any
+variety of modules over a non-left perfect ring, the essentially non-free
+spectrum contains not only aleph_1 but aleph_n for all n>0. The reason for this
+being true in ZFC (rather than under some special set theoretic hypotheses) is
+that these varieties satisfy stronger versions of the construction principle.
+We conjecture that the hierarchy of construction principles is strict, i.e.,
+that for each n>0 there is a variety which satisfies the n-construction
+principle but not the n+1-construction principle. In this paper we will show
+that the 1-construction principle does not imply the 2-construction principle.
+We prove that, assuming the consistency of some large cardinal hypothesis, it
+is consistent that a variety has an essentially non-free almost free algebra of
+cardinality aleph_n if and only if it satisfies the n-construction principle.
+","[{""version"":""v1"",""created"":""Mon, 15 Aug 1994 00:00:00 GMT""}]","2016-09-06"
+"math/9408214","Shelah Office","Uri Abraham, Saharon Shelah","Martin's Axiom and Delta^2_1 well-ordering of the reals",,"Arch. Math. Logic 36 (1997),",,"Shelah [AbSh:458]","math.LO",,"  Assuming an inaccessible cardinal kappa, there is a generic extension in
+which MA + 2^{aleph_0} = kappa holds and the reals have a Delta^2_1
+well-ordering.
+","[{""version"":""v1"",""created"":""Mon, 15 Aug 1994 00:00:00 GMT""}]","2008-02-03"
+"math/9408215","Shelah Office","Andrzej Ros{\l}anowski, Saharon Shelah","More forcing notions imply diamond",,"Arch. Math. Logic 35 (1996), 299--313",,"Shelah [RoSh:475]","math.LO",,"  We prove that the Sacks forcing collapses the continuum onto the dominating
+number d, answering the question of Carlson and Laver. Next we prove that if a
+proper forcing of the size at most continuum collapses omega_2 then it forces
+diamond_{omega_1} .
+","[{""version"":""v1"",""created"":""Mon, 15 Aug 1994 00:00:00 GMT""}]","2009-09-25"
+"nucl-th/9408014","Calvin Johnson","Joseph N. Ginocchio and Calvin W. Johnson","Fermion to boson mappings revisited","21 pages in RevTex with 1 figure (available as postscript file from
+  the authors), presented at the HARMONY OF PHYSICS conference in honor of S.
+  Belyaev, University of Pennsylvania, May 9-11 1994, and to be published in
+  Physic Reports; Los Alamos preprint # LA-UR-94-2767",,,,"nucl-th",,"  We briefly review various mappings of fermion pairs to bosons, including
+those based on mapping operators, such as Belyaev-Zelevinskii, and those on
+mapping states, such as Marumori; in particular we consider the work of
+Otsuka-Arima-Iachello, aimed at deriving the Interacting Boson Model. We then
+give a rigorous and unified description of state-mapping procedures which
+allows one to systematically go beyond Otsuka-Arima-Iachello and related
+approaches, along with several exact results.
+","[{""version"":""v1"",""created"":""Mon, 15 Aug 1994 15:21:07 GMT""}]","2009-09-25"

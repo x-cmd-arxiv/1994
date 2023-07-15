@@ -1,0 +1,138 @@
+"astro-ph/9401001","Tsafrir Kolatt","Tsafrir Kolatt, Avishai Dekel and Ofer Lahav","Large-Scale Mass Distribution Behind the Galactic Plane","(10 pages, 8 figures, compressed and uudecoded PostScript 1.3Mbyte)",,"10.1093/mnras/275.3.797",,"astro-ph",,"  We map the smoothed mass-density distribution in the Galactic zone of
+avoidance (zoa), within $6000\kms$ of the Local Group, using potent
+reconstruction from peculiar velocities of galaxies. The interpolation into the
+zoa is based on the assumed gravitational nature of the velocity field implying
+a potential flow. The main dynamical features at a distance r=4000 km/s are (a)
+the peak of the Great Attractor connecting Centaurus and Pavo at l=330, (b) a
+moderate bridge connecting Perseus-Pisces and Cepheus at l= 140, and (c) an
+extension of a large void from the southern Galactic hemisphere into the zoa
+near the direction of Puppis, l=220-270. We find a strong correlation between
+the mass density and the IRAS and optical galaxy density at $b=+-20, which
+indicates that the main dynamical features in the zoa should also be seen in
+galaxy surveys through the Galactic plane. The gravitational acceleration at
+the Local Group, based on the mass distribution out to 6000 km/s, is strongly
+affected by the mass distribution in the zoa: its direction changes by 31 when
+the |b| < 20 zoa is included, bringing it to within 4 +- 19 of the CMB dipole.
+","[{""version"":""v1"",""created"":""Mon, 3 Jan 1994 12:40:38 GMT""}]","2015-06-24"
+"cond-mat/9312098","Julian Juhi-Lian Ting","Julian Juhi-Lian Ting (Institute of Physics, Tsing-Hua University,
+  Hsin-Chu, Taiwan, Republic of China)","Driven Morse Oscillator: Model for Multi-photon Dissociation of Nitrogen
+  Oxide","Comments are welcome",,,,"cond-mat comp-gas nlin.CG",,"  Within a one-dimensional semi-classical model with a Morse potential the
+possibility of microwave multi-photon dissociation of vibrationally excited
+nitrogen oxide was studied. The dissociation thresholds of typical driving
+forces and couplings were found to be similar, which indicates that the results
+were robust to variations of the potential and the definition of dissociation
+rate.
+","[{""version"":""v1"",""created"":""Sun, 2 Jan 1994 17:57:13 GMT""}]","2008-02-03"
+"cond-mat/9312099",,"Ping Ao, David J. Thouless, and X.-M. Zhu","Nonlinear Schr\""odinger Equation for Superconductors","Latex, 12 pages",,"10.1142/S021798499500070X",,"cond-mat",,"  Using the Hartree-Fock-Bogoliubov factorization of the density matrix and the
+Born-Oppenheimer approximation we show that the motion of the condensate
+satisfies a nonlinear Schr\""odinger equation in the zero temperature limit. The
+Galilean invariance of the equation is explicitly manifested. {}From this
+equation some general properties of a superconductor, such as Josephson
+effects, the Magnus force, and the Bogoliubov-Anderson mode can be obtained
+readily.
+","[{""version"":""v1"",""created"":""Sun, 2 Jan 1994 23:38:00 GMT""}]","2015-06-25"
+"cond-mat/9401001","Duncan Haldane","F. D. M. Haldane","Physics of the Ideal Semion Gas: Spinons and Quantum Symmetries of the
+  Integrable Haldane-Shastry Spin Chain","(second revision: minor changes, references added, typos fixed, Jan
+  18, 1994) 21 pages, LaTeX",,,,"cond-mat hep-th",,"  Various aspects of the Haldane-Shastry spin chain with 1/r^2 exchange, and
+its various generalizations, are reviewed, with emphasis on its Yangian quantum
+group structure, and the interpretation of the model as the generalization of
+an ideal gas (of ``spinons'') to the case of fractional statistics. Some recent
+results on its dynamical correlation function are discussed, and conjectured
+extensions of these remarkably simple results to the $SU(n)$ model, and to the
+related Calogero-Sutherland model with integer coupling constant, are
+presented. (Talk presented at the 16th. Taniguchi Symposium, Kashikojima,
+Japan, October 26-29, 1993)
+","[{""version"":""v1"",""created"":""Mon, 3 Jan 1994 11:10:59 GMT""},{""version"":""v2"",""created"":""Fri, 7 Jan 1994 09:35:42 GMT""},{""version"":""v3"",""created"":""Tue, 18 Jan 1994 19:06:49 GMT""}]","2016-08-31"
+"cond-mat/9401002",,"M. Kasner","Test of the hierarchical theory for the FQHE","10 pages, LATEX-file",,,,"cond-mat",,"  In the hierarchical theory of the fractional quantum Hall effect, the
+low--energy behaviour of a daughter state in the next level of the hierarchy is
+described by an interacting system of quasiparticles of the parent state.
+Taking the filled lowest Landau level as the parent state, we examine
+analytically the quantitative consequences of this approach for electrons
+interacting via a pseudopotential interaction. It is shown that the ground
+state energy per particle in the daughter state at a filling factor $2/3$ is
+exactly equal to that of a system of quasiholes in the parent state with half
+filling, precisely as predicted by the hierarchical approach. This is achieved
+with {\em only up to two--particle interactions} in the effective Hamiltonian
+for the quasiholes. Their single particle energy and two--particle interaction
+are derived. The results are generalized to the other filling factors
+attainable from the filled Landau level.
+","[{""version"":""v1"",""created"":""Mon, 3 Jan 1994 13:18:58 GMT""}]","2007-05-23"
+"cond-mat/9401003","Jeferson J. Arenzon If-Ufrgs","N. Lemke, J.J. Arenzon and F.A. Tamarit","Chaotic Dynamics of High Order Neural Networks","16 pages, LaTeX (11 figures upon request), IFUFRGS-JJA-9303","J. Stat. Phys 79 (1995) 415","10.1007/BF02179396",,"cond-mat chao-dyn nlin.CD q-bio.NC",,"  The dynamics of an extremely diluted neural network with high order synapses
+acting as corrections to the Hopfield model is investigated. As in the fully
+connected case, the high order terms may strongly improve the storage capacity
+of the system. The dynamics displays a very rich behavior, and in particular a
+new chaotic phase emerges depending on the weight of the high order connections
+$\epsilon$, the noise level $T$ and the network load defined as the rate
+between the number of stored patterns and the mean connectivity per neuron
+$\alpha =P/C$.
+","[{""version"":""v1"",""created"":""Mon, 3 Jan 1994 14:54:00 GMT""}]","2009-10-22"
+"funct-an/9312006","Yakov Alber","Ya.I. Alber","A New Approach to Investigation of Evolution Differential Equations in
+  Banach Spaces","25 pages, Plain Tex",,,,"funct-an math.FA",,"  Known investigations of nonlinear evolution equations
+  $${dx\over dt} + A(t)x(t) = f(t)\ ,\quad x(t_{0}) = x^{0},\ \quad t_{0} \le t
+< \infty\ , \eqno(0.1)$$
+  with monotone operators $A(t)$ acting from reflexive Banach space $B$ to dual
+space $B^*$, usually assume that along with $B$ and $B^*$ there is a Hilbert
+space $H$ and continuous imbedding $B \hookrightarrow H$ in the triplet
+  $$B \hookrightarrow H \hookrightarrow B^*\ ; \eqno(0.2)$$
+  and that $B$ is dense in $H$. The stabilization of solutions of evolution
+equations has been proven either in the sense of weak convergence in $B$ or in
+the norm of $H$ space, and only asymptotic estimates of stabilization rate have
+been obtained [15].
+  In the present paper we consider equations of type (0.1) without conditions
+(0.2) and establish stabilization with both
+","[{""version"":""v1"",""created"":""Sun, 2 Jan 1994 18:51:05 GMT""}]","2016-08-31"
+"hep-ph/9401201","Carsten Grosse-Knetter","Carsten Grosse-Knetter (Universitaet Bielefeld)","Nonstandard Quartic Self Interactions of Electroweak Vector Bosons
+  within a Gauge Invariant Higher-Derivative Term","BI-TP 94/01, 6 pages LaTeX",,,,"hep-ph",,"  A locally SU(2)xU(1)-invariant term of dimension six with effective
+interactions of the electroweak gauge and Higgs fields is examined. This term
+also contains higher derivatives of the fields. It yields nonstandard quartic
+gauge-boson self-interactions but neither nonstandard cubic self-interactions
+nor tree-level effects on presently measurable quantities.
+","[{""version"":""v1"",""created"":""Mon, 3 Jan 1994 08:47:32 GMT""}]","2007-05-23"
+"hep-ph/9401202","Jose Ramon Pelaez","A. Dobado, J.R. Pelaez (Departamento de F\'isica Te\'orica,
+  Universidad Complutense, Madrid, Spain)","On the Equivalence Theorem in the $\chi PT$ Description of the Symmetry
+  Breaking Sector of the Standard Model","LaTeX. Final version as it will appear in Nuclear Physics B (1994)","Nucl.Phys.B425:110-136,1994; ERRATUM-ibid.B434:475,1995","10.1016/0550-3213(94)90174-0","SU-ITP-93-33","hep-ph",,"  We develop an alternative formulation of the symmetry breaking sector of the
+Standard Model as a gauged non-linear sigma model (NLSM) following the
+philosophy of the Chiral lagrangian approach, which is the only compatible with
+all the experimental and theoretical constraints. We derive the BRS symmetry of
+the model and the corresponding quantum lagrangian, which is a generalization
+of the standard Faddeev-Popov method, in a way which is covariant with respect
+to the reparametrizations of the coset space of the NLSM. Then we use the BRS
+invariance of the quantum lagrangian to state the Equivalence Theorem for the
+renormalized $S$-matrix elements calculated as a chiral expansion.
+","[{""version"":""v1"",""created"":""Mon, 3 Jan 1994 09:29:11 GMT""},{""version"":""v2"",""created"":""Tue, 3 May 1994 17:01:16 GMT""},{""version"":""v3"",""created"":""Fri, 22 Jul 1994 13:35:33 GMT""}]","2016-08-14"
+"hep-ph/9401203","Yurov","V.D. Mur, V.S. Popov, Yu.A.Simonov, and V.P.Yurov","Description of Relativistic Heavy--Light Quark--Antiquark Systems via
+  Dirac Equations","35 pages, preprint ITEP 83-92","J.Exp.Theor.Phys.78:1-14,1994; Zh.Eksp.Teor.Fiz.78:1-14,1994",,,"hep-ph",,"  Starting from the QCD Lagrangian and taking into account both perturbative
+and nonperturbative effects, we use the method of vacuum correlators to derive
+the Dirac equation (rigorously for the Coulomb interaction and heuristically
+for the confining potential) for a system consisting of a light quark and heavy
+antiquark. As a result the confining potential is a Lorentz scalar, and the
+Coulomb part the fourth component of a 4-vector. The energy spectrum of the
+Dirac equation is considered for these potentials. Numerical calculations of
+energy eigenvalues $E=E_{n\kappa}$ are performed, and some exact solutions of
+the Dirac equation in the case $E=0$ are found. An effective-potential method
+convenient for qualitative study of the solutions of the Dirac equation is
+developed. The connection with experimental spectra of $D$- and $B$-mesons is
+briefly discussed.
+","[{""version"":""v1"",""created"":""Mon, 3 Jan 1994 15:57:00 GMT""}]","2009-09-25"
+"hep-th/9312215","T. R. Govindarajan","P. Ramadevi, T.R. Govindarajan and R.K. Kaul","Knot invariants from rational conformal field theories","18pages+6 figures (available on request through email)","Nucl.Phys. B422 (1994) 291-306","10.1016/0550-3213(94)00102-2",,"hep-th",,"  A framework for studying knot and link invariants from any rational conformal
+field theory is developed. In particular, minimal models, superconformal models
+and $W_N$ models are studied. The invariants are related to the invariants
+obtained from the Wess-Zumino models associated with the coset representations
+of these models. Possible Chern-Simons representation of these models is also
+indicated. This generalises the earlier work on knot and link invariants from
+Chern-Simons theories.
+","[{""version"":""v1"",""created"":""Sun, 2 Jan 1994 16:29:46 GMT""}]","2009-10-22"
+"hep-th/9401002","Claudio Lucchesi","R. Jackiw, Q. Liu and C. Lucchesi","Hard Thermal Loops, Static Response and the Composite Effective Action","17 pages, MIT preprint CTP#2261. An Appendix [including one
+  (appended) PS figure] presenting a numerical analysis of the static solutions
+  has been included. A note relating our approach to alternative ones has been
+  added. We have also added references and comments in Section III","Phys.Rev. D49 (1994) 6787-6793","10.1103/PhysRevD.49.6787",,"hep-th hep-ph",,"  First, we investigate the static non-Abelian Kubo equation. We prove that it
+does not possess finite energy solutions; thereby we establish that gauge
+theories do not support hard thermal solitons. A similar argument shows that
+""static"" instantons are absent. In addition, we note that the static equations
+reproduce the expected screening of the non-Abelian electric field by a gauge
+invariant Debye mass m=gT sqrt((N+N_F/2)/3). Second, we derive the non-Abelian
+Kubo equation from the composite effective action. This is achieved by showing
+that the requirement of stationarity of the composite effective action is
+equivalent, within a kinematical approximation scheme, to the condition of
+gauge invariance for the generating functional of hard thermal loops.
+","[{""version"":""v1"",""created"":""Mon, 3 Jan 1994 15:46:27 GMT""},{""version"":""v2"",""created"":""Mon, 7 Mar 1994 22:51:44 GMT""}]","2009-10-28"

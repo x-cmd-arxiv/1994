@@ -1,0 +1,152 @@
+"astro-ph/9402046","Ben Dorman","Ben Dorman, R.W. O'Connell, & R.T. Rood (Astronomy Dept, University of
+  Virginia.)","Are Analogues of Hot Subdwarf Stars Responsible for the UVX Phenomenon
+  in Galaxy Nuclei?","To appear in `Hot Stars in the Halo' ed. S.J. Adelman (CUP 1994)
+  (uuencoded compressed Postscript file, 12pp.)",,,,"astro-ph",,"  We present the case that populations of sdB/sdOB/sdO-type stars may be a
+common constituent of galactic stellar populations, responsible for the UV
+upturn (`UVX') observed in the spectra of spiral bulges and normal galaxy
+nuclei. Extreme Horizontal Branch stars with $\log g > 5$ and $\log \teff >
+20,000K$ have emerged in the last few years as the most likely candidate for
+the origin of the UVX. The magnitude of this far-UV flux in some systems (e.g.
+NGC~1399, NGC~4649) indicates that galactic nuclear regions must contain larger
+numbers of these subdwarfs than does the solar neighbourhood. This paper
+summarizes the results of a quantitative study of the UV radiation from evolved
+stellar populations. We have computed a large grid of stellar models in
+advanced stages of evolution, as well as a set of isochrones for ages 2-20 Gyr,
+for a wide range in composition. We use these calculations to derive synthetic
+UV colour indices for stellar populations with hot components.
+","[{""version"":""v1"",""created"":""Fri, 18 Feb 1994 20:19:43 GMT""}]","2007-05-23"
+"astro-ph/9402047","Charles Dermer","J. G. Skibo, C. D. Dermer and R. L. Kinzer","Is the High-Energy Emission from Centaurus A Compton-Scattered Jet
+  Radiation?","12 pages, Postscript file with 3 Figures, NRL 017-331-094",,"10.1086/187330",,"astro-ph",,"  We consider whether the hard X-ray and soft gamma-ray emission from Centaurus
+A is beamed radiation from the active nucleus which is Compton-scattered into
+our line-of-sight. We derive the spectrum and degree of polarization of
+scattered radiation when incident beamed radiation is scattered from a cold
+($kT<<m_ec^2$) electron cloud moving with bulk relativistic motion along the
+jet axis, and calculate results for an unpolarized, highly-beamed incident
+power-law photon source. We fit the OSSE data from Centaurus A with this model
+and find that if the scatterers are not moving relativistically, then the angle
+the jet makes with respect to our line-of-sight is $61^\circ\pm 5^\circ$. We
+predict a high degree of polarization of the scattered radiation below
+$\sim300$ keV. Future measurements with X-ray and gamma-ray polarimeters could
+be used to constrain or rule out such a scenario.
+","[{""version"":""v1"",""created"":""Fri, 18 Feb 1994 23:03:16 GMT""}]","2009-10-22"
+"cond-mat/9402075",,"Tsutomu Momoi","Low-Lying Excited States of Quantum Antiferromagnets on a Triangular
+  Lattice","LaTex 22 pages, figures included in uuencoded form, to be published
+  in J.Stat.Phys",,"10.1007/BF02186877",,"cond-mat",,"  We study low-lying states of the XY and Heisenberg antiferromagnets on a
+triangular lattice to clarify whether spontaneous symmetry breaking occurs at
+$T=0$ in the thermodynamic limit. Approximate forms of low-lying states are
+proposed, in which degrees of freedom of the sublattice magnetization and of
+the chirality are separated. It is shown that low-lying states can be
+accurately described with the present approximation. It was argued that
+low-lying states play an important role in symmetry breaking. With help of this
+approximation, we discuss the contribution of low-lying states to symmetry
+breaking of two types, namely creation of the spontaneous sublattice
+magnetization and the spontaneous chirality. Furthermore, to show an evidence
+for the occurrence of the symmetry breaking, we numerically study the low-lying
+states of finite systems of the XY and Heisenberg antiferromagnets. It is found
+that the necessary conditions for the symmetry breaking to occur are satisfied
+in these models.
+","[{""version"":""v1"",""created"":""Fri, 18 Feb 1994 19:59:21 GMT""}]","2009-10-22"
+"cond-mat/9402076","Maria Vieira","Maria de Sousa Vieira and Hans J. Herrmann","A Growth Model for Dna Evolution (submitted to Nature)","2 pages, plain Tex (one postscript figure available upon request)",,,"HLRZ-KFA 9/94","cond-mat adap-org chao-dyn nlin.AO nlin.CD q-bio",,"  We introduce a simple model for DNA evolution. Using the method of Peng et
+al.$^1$, we investigate the fractal properties of the system. For small chains
+and chains of intermediate size we find a fractal exponent that indicates the
+existence of long-range correlations, as in real DNA sequences. However, when
+very large chains are studied the fractal exponent asymptotically converge to
+the value of a random sequence. We verify that the mutations are responsible
+for the apparent existence of long-range correlations.
+","[{""version"":""v1"",""created"":""Sat, 19 Feb 1994 10:53:51 GMT""}]","2008-02-03"
+"hep-lat/9402014","Bernd Dahmen","Bernd Dahmen","Strong Coupling Expansion for Scattering Phases in Hamiltonian Lattice
+  Field Theories - I. the $(d+1)$-dimensional Ising model","37 pages uuencoded Postscript, DESY 94-021","Nucl.Phys. B425 (1994) 365-412","10.1016/0550-3213(94)90185-6",,"hep-lat",,"  A systematic method to obtain strong coupling expansions for scattering
+quantities in Hamiltonian lattice field theories is presented. I develop the
+conceptual ideas by means of the Hamiltonian field theory analogue of the Ising
+model, in $d$ space and one time dimension. The main result is a convergent
+series representation for the sacttering states and the transition matrix. To
+be explicit the special cases of $d=1$ and $d=3$ spatial dimensions are
+discussed in detail. I compute the next-to-leading order approximation for the
+phase shifts. The application of the method to investigate low-energy
+scattering phenomena in lattice gauge theory and QCD is proposed.
+","[{""version"":""v1"",""created"":""Fri, 18 Feb 1994 16:43:07 GMT""}]","2009-10-22"
+"hep-lat/9402015",,"She-Sheng XUE","A Critical Surface of Chiral-invariant System with Gauge Boson and
+  Fermions","11 pages + 6 figures, MITH 94/9",,,,"hep-lat hep-th",,"  In the chirally-invariant context of the $U_{em}(1)$ gauge interaction and
+four-fermion interactions for ordinary and mirror fermions, the Schwinger-Dyson
+equation for the fermion self-energy function is studied on a lattice. We find
+that a sensible infrared limit can be defined on a critical surface, which is
+consistent with the critical line found in the continuum theory.
+","[{""version"":""v1"",""created"":""Fri, 18 Feb 1994 18:07:23 GMT""}]","2009-09-25"
+"hep-ph/9402319","Bob Holdom","B. Holdom and Randy Lewis","Effects of technicolor on standard model running couplings","14 pages of LaTeX, UTPT-94-3","Phys.Rev. D50 (1994) 3491-3497","10.1103/PhysRevD.50.3491",,"hep-ph",,"  We discuss the running couplings in the standard model, SU(3$)_C \times
+$SU(2$)_L \times $U(1$)_Y$, when the Higgs sector is replaced by SU($N_{TC})$
+technicolor. Particular attention is given to the running of the couplings at
+momentum scales where technicolor is nonperturbative, and in this region we
+apply a relativistic constituent technifermion model. This model has been
+tested against the known running of the QED coupling due to nonperturbative
+QCD. An understanding of this low momentum running allows the calculation of
+the couplings at a higher scale, $\Lambda_{pert}$, where technicolor becomes
+perturbative. We provide numerical values for the changes in the three standard
+model couplings between $m_Z$ and $\Lambda_{pert}$ due to technicolor, assuming
+separately ``one doublet'' and ``one family'' technicolor models. The
+distinction between a running and walking technicolor coupling is also
+considered.
+","[{""version"":""v1"",""created"":""Fri, 18 Feb 1994 21:25:11 GMT""}]","2009-10-28"
+"hep-ph/9402320","John Terning","Thomas Appelquist, John Terning, and L.C.R. Wijewardhana","2+1 Dimensional QED and a Novel Phase Transition","11 pages, Latex","Phys.Rev.Lett. 75 (1995) 2081-2084","10.1103/PhysRevLett.75.2081","YCTP-P3-94, BUHEP-4-94, UC-3-94","hep-ph hep-th",,"  We investigate the chiral phase transition in 2+1 dimensional QED. Previous
+gap equation and lattice Monte-Carlo studies of symmetry breaking have found
+that symmetry breaking ceases to occur when the number of fermion flavors
+exceeds a critical value. Here we focus on the order of the transition. We find
+that there are no light scalar degrees of freedom present as the critical
+number of flavors is approached from above (in the symmetric phase). Thus the
+phase transition is not second order, rendering irrelevant the renormalization
+group arguments for a fluctuation induced transition. However, the order
+parameter vanishes continuously in the broken phase, so this transition is also
+unlike a conventional first order phase transition.
+","[{""version"":""v1"",""created"":""Fri, 18 Feb 1994 22:14:27 GMT""}]","2009-10-28"
+"hep-ph/9402321","shunzo Kumano","S. Kumano","Nuclear Shadowing in a Parton Recombination Model: Q$^2$ Variation","LATEX 5 pages (Figs. 1-3 are available upon request), SAGA-HE-56-94","Phys.Rev.C50:1247-1248,1994","10.1103/PhysRevC.50.1247",,"hep-ph nucl-th",,"  Q$^2$ variation of the nuclear-structure-function ratio
+$F_2^A(x,Q^2)/F_2^D(x,Q^2)$ is investigated in a parton model with
+Q$^2$-rescaling and parton-recombination effects. Calculated results are
+compared with the NMC (New Muon Collaboration) and the Fermilab-E665
+experimental data. We find that our theoretical results show small Q$^2$
+variations and that they are consistent with the data within present
+experimental accuracy.
+","[{""version"":""v1"",""created"":""Sat, 19 Feb 1994 02:08:18 GMT""}]","2009-09-25"
+"hep-ph/9402322","Harry N. Nelson","Harry N. Nelson","Heavy Quark Hadronic Weak Decays from CLEO-II","use LaTeX, 5 pages, UCSB-94-01. EPS figures appended, also avail.
+  anonym. ftp, charm.physics.ucsb.edu/pub/marseille.tar.gz",,,,"hep-ph",,"  We present preliminary results from the CLEO-II collaboration on a variety of
+hadronic final states of mesons containing heavy quarks. In particular, the
+pattern of 2-body \B\ decays is now decisively different that that of \D\ and
+\K\ decays; perhaps a consequence will be that $\tau_{\BM}<\tau_{\BZB}$. We
+have observed `wrong-sign' $\DZ\sto\KP\PIM$ decays, which are probably due to a
+doubly Cabibbo-suppressed transition.
+","[{""version"":""v1"",""created"":""Sat, 19 Feb 1994 04:43:55 GMT""},{""version"":""v2"",""created"":""Mon, 21 Feb 1994 13:35:08 GMT""}]","2008-02-03"
+"hep-th/9402112",,"J Hoppe","Some Classical Solutions of Relativistic Membrane Equations in 4
+  Space-Time Dimensions","9","Phys.Lett. B329 (1994) 10-14","10.1016/0370-2693(94)90510-X",,"hep-th",,"  Various reductions, and soime solutions of the classical equations of motion
+of a relativistic membrane are given
+","[{""version"":""v1"",""created"":""Fri, 18 Feb 1994 17:52:42 GMT""}]","2009-10-28"
+"hep-th/9402113","Igor Klebanov","Curtis G. Callan, Igor R. Klebanov, Andreas W. W. Ludwig, Juan M.
+  Maldacena","Exact Solution of a Boundary Conformal Field Theory","harvmac and epsf, 36 pages with 5 figures; v2: the version which
+  appeared in NPB including a Note Added on the band structure of open strings","Nucl.Phys. B422 (1994) 417-448","10.1016/0550-3213(94)90440-5","PUPT-1450, IASSNS-HEP-94/15","hep-th cond-mat",,"  We study the conformal field theory of a free massless scalar field living on
+the half line with interactions introduced via a periodic potential at the
+boundary. An SU(2) current algebra underlies this system and the interacting
+boundary state is given by a global SU(2) rotation of the left-moving fields in
+the zero-potential (Neumann) boundary state. As the potential strength varies
+from zero to infinity, the boundary state interpolates between the Neumann and
+the Dirichlet values. The full S-matrix for scattering from the boundary, with
+arbitrary particle production, is explicitly computed. To maintain unitarity,
+it is necessary to attribute a hidden discrete ``soliton'' degree of freedom to
+the boundary. The same unitarity puzzle occurs in the Kondo problem, and we
+anticipate a similar solution.
+","[{""version"":""v1"",""created"":""Fri, 18 Feb 1994 19:20:14 GMT""},{""version"":""v2"",""created"":""Sun, 25 May 2003 20:03:10 GMT""}]","2009-10-28"
+"patt-sol/9402003","David Raitt","David Raitt (Northwestern University) and Hermann Riecke (Northwestern
+  University)","Domain Structures in Fourth-Order Phase and Ginzburg-Landau Equations","Submitted to Physica D, 11 pages (RevTeX 3), 12 postscript figures","Physica D 82 1995 79-94","10.1016/0167-2789(94)00218-F",,"patt-sol nlin.PS",,"  In pattern-forming systems, competition between patterns with different wave
+numbers can lead to domain structures, which consist of regions with differing
+wave numbers separated by domain walls. For domain structures well above
+threshold we employ the appropriate phase equation and obtain detailed
+qualitative agreement with recent experiments. Close to threshold a
+fourth-order Ginzburg-Landau equation is used which describes a steady
+bifurcation in systems with two competing critical wave numbers. The existence
+and stability regime of domain structures is found to be very intricate due to
+interactions with other modes.
+  In contrast to the phase equation the Ginzburg-Landau equation allows a
+spatially oscillatory interaction of the domain walls. Thus, close to threshold
+domain structures need not undergo the coarsening dynamics found in the phase
+equation far above threshold, and can be stable even without phase
+conservation. We study their regime of stability as a function of their
+(quantized) length. Domain structures are related to zig-zags in
+two-dimensional systems. The latter are therefore expected to be stable only
+when quenched far enough beyond the zig-zag instability.
+","[{""version"":""v1"",""created"":""Fri, 18 Feb 1994 20:11:22 GMT""},{""version"":""v2"",""created"":""Fri, 16 Sep 1994 14:52:19 GMT""}]","2015-06-26"

@@ -1,0 +1,77 @@
+"gr-qc/9409018","Lau Yun-kau","Y.K.Lau","How Objective is Black Hole Entropy?","Latex file, 10 pages",,,,"gr-qc",,"  The objectivity of black hole entropy is discussed in the particular case of
+a Schwarzchild black hole. Using Jaynes' maximum entropy formalism and
+Euclidean path integral evaluation of partition function, it is argued that in
+the semiclassical limit when the fluctutation of metric is neglected, the black
+hole entropy of a Schwarzchild black hole is equal to the maximal information
+entropy of an observer whose sole knowledge of the black hole is its mass.
+Black hole entropy becomes a measure of number of its internal mass eigenstates
+in accordance with the Boltzmann principle only in the limit of negligible
+relative mass fluctutation. {}From the information theoretic perspective, the
+example of a Schwarzchild black hole seems to suggest that black hole entropy
+is no different from ordinary thermodynamic entropy. It is a property of the
+experimental data of a black hole, rather than being an intrinsic physical
+property of a black hole itself independent of any observer. However, it is
+still weakly objective in the sense that different observers given the same set
+of data of a black hole will measure the same maximal information entropy.
+","[{""version"":""v1"",""created"":""Sat, 10 Sep 1994 16:26:15 GMT""}]","2007-05-23"
+"hep-ph/9409274",,"Masoud Mohazzab","Baryogenesis from Long Cosmic Strings","7 pages, Latex, (ISTPM) IPM-94-054","Phys.Lett. B350 (1995) 13-16","10.1016/0370-2693(95)00307-7",,"hep-ph astro-ph",,"  Based on the mechanism of cusp production on long cosmic strings, the baryon
+asymmetry caused by cusp annihilation has been calculated. The result is
+compatible with observation and stronger than the results from loops.
+","[{""version"":""v1"",""created"":""Sat, 10 Sep 1994 16:08:22 GMT""}]","2009-10-28"
+"hep-th/9409052","Moshe Flato","M. Flato and D. Sternheimer","Topological Quantum Groups, Star Products and their relations","11 pages",,,,"hep-th math.QA",,"  This short summary of recent developments in quantum compact groups and star
+products is divided into 2 parts. In the first one we recast star products in a
+more abstract form as deformations and review its recent developments. The
+second part starts with a rapid presentation of standard quantum group theory
+and its problems, then moves to their completion by introduction of suitable
+Montel topologies well adapted to duality. Preferred deformations (by star
+products and unchanged coproducts) of Hopf algebras of functions on compact
+groups and their duals, are of special interest. Connection with the usual
+models of quantum groups and the quantum double is then presented.
+","[{""version"":""v1"",""created"":""Sat, 10 Sep 1994 17:02:22 GMT""}]","2008-02-03"
+"hep-th/9409053","Moshe Flato","Mosh\'e Flato and Daniel Sternheimer","Closedness of star products and cohomologies","16 pages",,,,"hep-th math.QA",,"  We first review the introduction of star products in connection with
+deformations of Poisson brackets and the various cohomologies that are related
+to them. Then we concentrate on what we have called ``closed star products"" and
+their relations with cyclic cohomology and index theorems. Finally we shall
+explain how quantum groups, especially in their recent topological form, are in
+essence examples of star products.
+","[{""version"":""v1"",""created"":""Sat, 10 Sep 1994 17:03:16 GMT""}]","2008-02-03"
+"hep-th/9409054","Moshe Flato","Fr\'ed\'eric Bidegain and Georges Pinczon","A star-product approach to noncompact quantum groups","13 pages","Lett.Math.Phys. 33 (1995) 231-240","10.1007/BF00749624",,"hep-th math.QA",,"  Using duality and topological theory of well behaved Hopf algebras (as
+defined in [2]) we construct star-product models of non compact quantum groups
+from Drinfeld and Reshetikhin standard deformations of enveloping Hopf algebras
+of simple Lie algebras. Our star-products act not only on coefficient functions
+of finite-dimensional representations, but actually on all $C^\infty$
+functions, and they exist even for non linear (semi-simple) Lie groups.
+","[{""version"":""v1"",""created"":""Sat, 10 Sep 1994 17:05:34 GMT""}]","2009-10-28"
+"hep-th/9409055","Charilaos Aneziris","Charilaos Aneziris","Towards a Classification of Knots","7 pages, Talk given at the 28th International Symposium on the Theory
+  of Elementary Particles, Wendisch-Rietz, August 30-September 3, 1994",,,,"hep-th math.QA",,"  We discuss the possibility of the existence of finite algorithms that may
+give distinct knot classes. In particular we present two attempts for such
+algorithms which seem promising, one based on knot projections on a plane, the
+other on placing knots on a cubic lattice.
+","[{""version"":""v1"",""created"":""Sat, 10 Sep 1994 19:12:39 GMT""}]","2008-02-03"
+"hep-th/9409056","Shahn Majid","Shahn Majid","Some Remarks on the Quantum Double","15 pages",,"10.1007/BF01690458","DAMTP/94-70","hep-th math.QA",,"  We recall the abstract theory of Hopf algebra bicrossproducts and double
+cross products due to the author. We use it to develop some less-well known
+results about the quantum double as a twisting, as an extension and as
+$q$-Lorentz group.
+","[{""version"":""v1"",""created"":""Sat, 10 Sep 1994 22:28:30 GMT""}]","2009-10-28"
+"hep-th/9409057","Shahn Majid","Shahn Majid","Duality Principle and Braided Geometry","24 pages",,"10.1007/3-540-59163-X_265","DAMTP/94-69","hep-th math.QA",,"  We give an overview of a new kind symmetry in physics which exists between
+observables and states and which is made possible by the language of Hopf
+algebras and quantum geometry. It has been proposed by the author as a feature
+of Planck scale physics. More recent work includes corresponding results at the
+semiclassical level of Poisson-Lie groups and at the level of braided groups
+and braided geometry.
+","[{""version"":""v1"",""created"":""Sat, 10 Sep 1994 23:14:55 GMT""}]","2015-06-26"
+"hep-th/9409058","Shahn Majid","Shahn Majid","*-Structures on Braided Spaces","20 pages","J.Math.Phys. 36 (1995) 4436-4449","10.1063/1.530900","DAMTP/94-66","hep-th math.QA",,"  $*$-structures on quantum and braided spaces of the type defined via an
+R-matrix are studied. These include $q$-Minkowski and $q$-Euclidean spaces as
+additive braided groups. The duality between the $*$-braided groups of vectors
+and covectors is proved and some first applications to braided geometry are
+made.
+","[{""version"":""v1"",""created"":""Sun, 11 Sep 1994 02:33:33 GMT""},{""version"":""v2"",""created"":""Tue, 13 Sep 1994 21:16:50 GMT""}]","2009-10-28"
+"hep-th/9409059","The Nudibranch","Gil Gat, Alpan Raval and Rashmi Ray","The Inhomogeneity Expansion for Planar Q.E.D in a Magnetic Background","21pp, Latex, pictex,umd-pp-95-43",,,,"hep-th cond-mat",,"  The effective action for Q.E.D in external magnetic field is constructed
+using the method of inhomogeneity expansion. We first treat the
+non-relativistic case where a Chern-Simons like term is generated. We then
+consider the full relativistic theory and derive the effective action for the
+$A_{\mu}$ fields.
+  In the non-relativistic case we also add a 4-fermi type interaction and show
+that under certain circumstances, it corresponds to a Zeeman type term in the
+effective action.
+","[{""version"":""v1"",""created"":""Sun, 11 Sep 1994 13:54:07 GMT""}]","2007-05-23"

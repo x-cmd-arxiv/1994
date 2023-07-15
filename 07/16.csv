@@ -1,0 +1,311 @@
+"alg-geom/9407009","Yu. I. Manin","Yu.I.Manin","Mordell-Weil problem for cubic surfaces","5 pages. AMS-Tex",,,,"alg-geom math.AG",,"  Drawing the secant through two rational points of a cubic surface we can get
+the third one. Is the set of rational points finitely generated? We discuss
+some numerical data and prove a finite generation statement with respect to a
+modified composition law.
+","[{""version"":""v1"",""created"":""Fri, 15 Jul 1994 16:22:13 GMT""}]","2008-02-03"
+"astro-ph/9407047",,"D. Trevese, G. Cirimele and B. Appodia","M_1 - M* Correlation in Galaxy Clusters","4 pages, postscript with 3 figures, in press : proc. XXIXth
+  Rencontres de Moriond ""Clusters of Galaxies""",,,,"astro-ph",,"  Photographic F band photometry of a sample of 36 Abell clusters has been used
+to study the relation between the magnitude $M_1$ of the brightest cluster
+member and the Schechter function parameter $M^*$. Clusters appear segregated
+in the $M_1$-$M^*$ plane according to their Rood \& Sastry class. We prove on a
+statistical basis that on average, going from early to late RS classes, $M_1$
+becomes brighter while $M^*$ becomes fainter. The result agrees with the
+predictions of galactic cannibalism models, never confirmed by previous
+analyses.
+","[{""version"":""v1"",""created"":""Fri, 15 Jul 1994 16:20:00 GMT""}]","2007-05-23"
+"astro-ph/9407049","Eric Hivon","E. Hivon, F.R. Bouchet, S. Colombi, R. Juszkiewicz","Redshift Distortions of Clustering: A Lagrangian Approach","Submitted to A&A. 18 pages, 5 fig. uuencoded postcript file. also
+  available via anonymous ftp at ftp.iap.fr on /pub/from_users/hivon/redshift/","Astron.Astrophys.298:643-660,1995",,,"astro-ph",,"  We study the effects of peculiar velocities on statistical measures of galaxy
+clustering. These effects occur when distances to the galaxies are estimated
+from their redshifts. It is assumed that the clustering pattern results from
+the gravitational instability of initially Gaussian, small-amplitude
+perturbations of a Friedman-Lemaitre cosmological model. Explicit expressions
+are given for an arbitrary density parameter \Omega of the model, both when the
+cosmological constant, \Lambda, is zero, and when the model is spatially flat,
+\Omega + \Lambda/3H^2 =1. We show how to compute the skewness, or third moment
+of the density field, in redshift space, and its Fourier space counterpart, the
+bispectrum. We rely on a perturbative expansion of particle trajectories in
+Lagrangian coordinates. This formalism extends to higher orders the Zel'dovich
+first order solution (1970). We show that a physically consistent and
+quantitatively accurate analysis of the growth skewness in redshift space can
+be obtained from second-order Lagrangian theory. We also study the effects of
+spatial smoothing of the evolved density field. We give analytic expressions
+for the gravitationally induced skewness as a function of the power spectrum
+and of \Omega, for a spherical top-hat and a Gaussian smoothing filter. We
+compare our analytical predictions with measurements performed in numerical
+simulations, and find good agreement. These results should then prove useful in
+analyzing large scale redshift surveys. In particular, our results, in
+conjunction with the recent suggestion of Fry (1994), may help to break the
+coupling between the bias and the cosmological
+","[{""version"":""v1"",""created"":""Fri, 15 Jul 1994 18:57:25 GMT""}]","2011-05-23"
+"astro-ph/9407050","Adrian Melott","S.F. Shandarin, A.L. Melott, K. McDavitt, J.L. Pauls, J. Tinker","On the Shape of the First Collapsed Objects","12 pages (excluding figures); LaTeX (revtex style); figures may be
+  obtained via anonymous ftp at
+  ftp://kusmos.phsx.ukans.edu/preprints/sergei/shapes/ to be published in in
+  Phys. Rev. Lett. Revisions include more detail on the nature of the objects
+  and the initial conditions","Phys.Rev.Lett. 75 (1995) 7-10","10.1103/PhysRevLett.75.7",,"astro-ph gr-qc",,"  Since the early seventies, there was a conjecture that the first collapse of
+a selfgravitating dust--like medium (appropriate approximation for nonbaryonic
+dark matter) results in the formation of a ``pancake"" object, that is a thin
+surface. The conjecture has been based on the Zel'dovich approximate solution
+of the nonlinear gravitational instability of a generic smooth density
+perturbation. Recent works cast doubt on the Zel'dovich conjecture, suggesting
+that the first collapse might be point--like or filament--like rather than
+pancake--like. Our $N$--body simulations show first pancake collapse. We can
+reject with 97\% confidence the Bayesian prior that the other kinds of collapse
+are more or equally probable.
+","[{""version"":""v1"",""created"":""Fri, 15 Jul 1994 21:03:23 GMT""},{""version"":""v2"",""created"":""Fri, 21 Apr 1995 22:37:18 GMT""}]","2009-10-22"
+"astro-ph/9407051","David Coulson","David Coulson","Temperature Anisotropies in a Universe with Global Defects","12 pages, uuencoded postscript. To appear in the Proceedings of the
+  Case Western Reserve University CMB Meeting. PUPT-94-1485",,,,"astro-ph",,"  We present a technique of calculating microwave anisotropies from global
+defects in a reionised universe. We concentrate on angular scales down to one
+degree where we expect the nongaussianity of the temperature anisotropy in
+these models to become apparent.
+","[{""version"":""v1"",""created"":""Fri, 15 Jul 1994 22:11:08 GMT""}]","2007-05-23"
+"astro-ph/9407052","Renu Malhotra","Renu Malhotra (Lunar & Planetary Institute)","A Mapping for the Gravitational Few-Body Problem with Dissipation","13 pages, uuencoded compressed postscript file (including three
+  figures). Accepted for publication in Celestial Mechanics & Dynamical
+  Astronomy",,"10.1007/BF00691903","LPI-94/839","astro-ph chao-dyn nlin.CD",,"  Recently a new class of numerical integration methods -- ``mixed variable
+symplectic integrators'' -- has been introduced for studying long-term
+evolution in the conservative gravitational few-body problem. These integrators
+are an order of magnitude faster than conventional ODE integration methods.
+Here I present a simple modification of this method to include small
+non-gravitational forces. The new scheme provides a similar advantage of
+computational speed for a larger class of problems in Solar System dynamics.
+","[{""version"":""v1"",""created"":""Sat, 16 Jul 1994 00:00:46 GMT""}]","2009-10-22"
+"astro-ph/9407053","Chris Aikman","Roberto G. Abraham and Sidney Van Den Bergh (Dominion Astrophysical
+  Observatory Herzberg Institute of Astrophysics National Research Council
+  Canada Victoria, BC, V8X 4M6, Canada)","A Gauss-Hermite Expansion of the Galactic Globular Cluster Luminosity
+  Function","14 pages LaTeX To appear in January 1995 Astrophysical Journal
+  DAO940701","Astrophys.J. 438 (1995) 218","10.1086/175065",,"astro-ph",,"  We decompose the luminosity function of Galactic globular clusters into a sum
+of the orthogonal Gauss-Hermite functions. This method quantifies the
+asymmetric third-order ($h_3$) and symmetric fourth-order ($h_4$) terms of the
+distribution while minimizing the effect of outliers in the data. For 138
+Galactic globulars we obtain $<M_V>=-7.41\pm0.11$, $\sigma(M_V)=1.24$ mag,
+$h_3=0.02\pm 0.05$, and $h_4=0.06 \pm 0.05$, {\em i.e.\/} the core of the
+distribution does not differ significantly from a Gaussian. For a
+low-metallicity subsample of 103 globular clusters with $[Fe/H]<-0.8$, we find
+$<M_V>=-7.48\pm0.11$, $\sigma(M_V)=1.08$ mag, $h_3=0.05 \pm 0.05$, and
+$h_4=0.13 \pm 0.05$.
+","[{""version"":""v1"",""created"":""Fri, 15 Jul 1994 23:57:22 GMT""}]","2009-10-22"
+"cmp-lg/9407013","Carl de Marcken","Carl de Marcken (MIT Artificial Intelligence Laboratory)","The Acquisition of a Lexicon from Paired Phoneme Sequences and Semantic
+  Representations","12 pages, postscript, to appear in ICGI '94",,,,"cmp-lg cs.CL",,"  We present an algorithm that acquires words (pairings of phonological forms
+and semantic representations) from larger utterances of unsegmented phoneme
+sequences and semantic representations. The algorithm maintains from utterance
+to utterance only a single coherent dictionary, and learns in the presence of
+homonymy, synonymy, and noise. Test results over a corpus of utterances
+generated from the Childes database of mother-child interactions are presented.
+","[{""version"":""v1"",""created"":""Fri, 15 Jul 1994 23:41:27 GMT""}]","2008-02-03"
+"comp-gas/9407002",,"Enrico Segre, Istituto di Cosmogeofisica, CNR, Torino, Italy and
+  Chiara Deangeli, Dipartimento di Georisorse e Territorio, Politecnico,
+  Torino, Italy","Cellular Automaton for Realistic Modelling of Landslides","Revised version (gramatical and writing style cleanup mainly).
+  Accepted for publication by Nonlinear Processes in Geophysics. 16 pages, 98Kb
+  uuencoded compressed dvi file (that's the way life is easiest). Big (6Mb)
+  postscript figures available upon request from segre@to.infn.it /
+  segre@kurims.kyoto-u.ac.jp",,"10.5194/npg-2-1-1995",,"comp-gas nlin.CG",,"  A numerical model is developed for the simulation of debris flow in
+landslides over a complex three dimensional topography. The model is based on a
+lattice, in which debris can be transferred among nearest neighbors according
+to established empirical relationships for granular flows. The model is then
+validated by comparing a simulation with reported field data. Our model is in
+fact a realistic elaboration of simpler ``sandpile automata'', which have in
+recent years been studied as supposedly paradigmatic of ``self-organized
+criticality''.
+  Statistics and scaling properties of the simulation are examined, and show
+that the model has an intermittent behavior.
+","[{""version"":""v1"",""created"":""Fri, 15 Jul 1994 18:59:57 GMT""},{""version"":""v2"",""created"":""Sun, 12 Feb 1995 13:59:09 GMT""}]","2020-01-29"
+"cond-mat/9407074","K. A. Musaelian","Andrey V. Chubukov and Karen A. Musaelian","On the contrasting spin dynamics of $La_{2-x}Sr_xCuO_4$,
+  $Nd_{2-x}Ce_xCuO_4$ and $YBa_2Cu_3O_{6+x}$ near half filling","18 pages, LaTex",,"10.1088/0953-8984/7/1/012",,"cond-mat",,"  We present simple calculations which show that incommensurability upon doping
+and the width of the magnetically ordered phase in Mott-Hubbard insulators
+depend strongly on the location of the hole/electron pockets in the Brillouin
+zone. For $LaSrCuO$ systems, we found the pockets at $(\pm \pi/2,\pm \pi/2)$,
+in which case the corrections to the antiferromagnetic spin stiffness grow with
+doping and destroy the commensurate antiferromagnetic ordering already at a
+very small doping. On the other hand, in $NdCeCuO$, the hole pockets are
+located at $(\pi,0)$ and the symmetry related points, in which case the
+corrections to the stiffness scale linearly with the density of carriers and do
+not destroy commensurate spin ordering. For $YBCuO$, systems the situation is
+less certain, but our results favor hole pockets at $(\pi/2,\pi/2)$. We also
+discuss briefly the tendency towards phase separation.
+","[{""version"":""v1"",""created"":""Fri, 15 Jul 1994 16:59:59 GMT""},{""version"":""v2"",""created"":""Mon, 18 Jul 1994 16:43:00 GMT""}]","2009-10-22"
+"gr-qc/9407020","Tevian Dray","Stuart Boersma and Tevian Dray","Slicing, Threading & Parametric Manifolds","Plain TeX, 18 pages, 5 PostScript figures (psfig)","Gen.Rel.Grav. 27 (1995) 319-339","10.1007/BF02109128",,"gr-qc",,"  We present a unified treatment of the slicing (3+1) and threading (1+3)
+decompositions of spacetime in terms of foliations. It is well-known how to
+decompose the metric and connection in the slicing picture; this is at the
+heart of any initial-value problem in general relativity. We describe here the
+analogous problem in the threading picture, recovering the recent results of
+Perjes on parametric manifolds.
+","[{""version"":""v1"",""created"":""Fri, 15 Jul 1994 23:37:43 GMT""}]","2009-10-22"
+"gr-qc/9407021","Steve Poletti","S.J. Poletti and D.L. Wiltshire","Global properties of static spherically symmetric charged dilaton
+  spacetimes with a Liouville potential","23 pages, phyzzx, 1 Fig (available on request). Note added in proof","Phys.Rev.D50:7260-7270,1994; Erratum-ibid.D52:3753-3754,1995","10.1103/PhysRevD.50.7260 10.1103/PhysRevD.52.3753","ADP-94-2/M22","gr-qc hep-th",,"  We derive the global properties of static spherically symmetric solutions to
+the Einstein-Maxwell-dilaton system in the presence of an arbitrary exponential
+dilaton potential. We show that -- with the exception of a pure cosmological
+constant `potential' -- no asymptotically flat, asymptotically de Sitter or
+asymptotically anti-de Sitter solutions exist in these models.
+","[{""version"":""v1"",""created"":""Sat, 16 Jul 1994 01:28:32 GMT""},{""version"":""v2"",""created"":""Fri, 9 Dec 1994 05:14:34 GMT""}]","2014-11-17"
+"hep-lat/9407011","Jochen Fingberg","J.Fingberg, U.M.Heller and V.Mitrjushkin","Scaling in the Positive Plaquette Model and Universality in SU(2)
+  Lattice Gauge Theory","35 pages, preprint numbers FSU-SCRI-94-71 and HU Berlin-IEP-94/10","Nucl.Phys. B435 (1995) 311-338","10.1016/0550-3213(94)00492-W",,"hep-lat",,"  We investigate universality, scaling, the beta-function and the topological
+charge in the positive plaquette model for SU(2) lattice gauge theory.
+Comparing physical quantities, like the critical temperature, the string
+tension, glueball masses, and their ratios, we explore the effect of a complete
+suppression of a certain lattice artifact, namely the negative plaquettes, for
+SU(2) lattice gauge theory. Our result is that this modification does not
+change the continuum limit, i.e., the universality class. The positive
+plaquette model and the standard Wilson formulation describe the same physical
+situation. The approach to the continuum limit given by the beta-function in
+terms of the bare lattice coupling, however, is rather different: the
+beta-function of the positive plaquette model does not show a dip like the
+model with standard Wilson action.
+","[{""version"":""v1"",""created"":""Fri, 15 Jul 1994 21:54:57 GMT""}]","2009-10-22"
+"hep-ph/9407308","Denis Perret-Gallix","J. Fujimoto, T. Ishikawa, S. Kawabata, Y. Kurihara, Y. Shimizu D.
+  Perret-Gallix","Non-resonant diagrams in radiative four-fermion processes","6 pages, latex, KEK-CP-015, KEK Preprint 94-46, LAPP-Exp.-94.09","Nucl.Phys.Proc.Suppl. 37B (1994) 169","10.1016/0920-5632(94)90673-4",,"hep-ph",,"  The complete tree level cross section for $e^+e^- \to e^- \bar\nu_e u \bar{d}
+\gamma$ is computed and discussed in comparison with the cross sections for
+$e^+e^- \to e^- \bar\nu_e u \bar{d} $ and $e^+e^- \to \bar{u} d u \bar{d}$.
+Event generators based on the GRACE package for the non-radiative and radiative
+case are presented. Special interest is brought to the effect of the
+non-resonant diagrams overlooked so far in other studies. Their contribution to
+the total cross section is presented for the LEP II energy range and for future
+linear colliders ($\sqrt s$ =500 GeV). Effects, at the W pair threshold, of
+order 3\% ($e^- \bar\nu_e u \bar{d}$) and 27\% ($\bar{u} d u \bar{d}$) are
+reported. Similar behaviour for the radiative case is shown. At $\sqrt s$ = 500
+GeV, the relative contribution of the non-resonant diagrams for the radiative
+channel reaches 42.5\%.
+","[{""version"":""v1"",""created"":""Fri, 15 Jul 1994 16:26:43 GMT""},{""version"":""v2"",""created"":""Wed, 20 Jul 1994 11:40:06 GMT""},{""version"":""v3"",""created"":""Fri, 22 Jul 1994 22:09:27 GMT""}]","2009-10-28"
+"hep-ph/9407309",,"Myron Bander and Anand Subbaraman","Baryons with Two Heavy Quarks as Solitons","7 pages and 2 postscript figures appended, LaTex, UCI-TR 94-30","Phys.Rev.D50:5478-5480,1994","10.1103/PhysRevD.50.R5478",,"hep-ph",,"  Using the chiral soliton model and heavy quark symmetry we study baryons
+containing two heavy quarks. If there exists a stable (under strong
+interactions) meson consisting of two heavy quarks and two light ones, then we
+find that there always exists a state of this meson bound to a chiral soliton
+and to a chiral anti-soliton, corresponding to a two heavy quark baryon and a
+baryon containing two heavy anti-quarks and five light quarks, or a
+``heptaquark"".
+","[{""version"":""v1"",""created"":""Sat, 16 Jul 1994 00:36:55 GMT""}]","2009-12-30"
+"hep-th/9407088",,"B. Harms and Y. Leblanc","Black Objects in the Gauge Theory of P-Branes","9 pages, REVTEX 3.0","Phys.Lett. B347 (1995) 230-233","10.1016/0370-2693(95)00066-T",,"hep-th",,"  Within the context of the recently formulated classical gauge theory of
+relativistic p-branes minimally coupled to general relativity in D-dimensional
+spacetimes, we obtain solutions of the field equations which describe black
+objects. Explicit solutions are found for two cases: D > p+1 (true p-branes)
+and D = p+1 (p-bags).
+","[{""version"":""v1"",""created"":""Fri, 15 Jul 1994 22:39:09 GMT""}]","2009-10-28"
+"hep-th/9407089",,"M. T. Grisaru, Luca Mezincescu and Rafael I. Nepomechie","Direct Calculation of the Boundary $S$ Matrix for the Open Heisenberg
+  Chain","29 pages, plain TEX, UMTG-177","J.Phys. A28 (1995) 1027-1046","10.1088/0305-4470/28/4/025",,"hep-th",,"  We calculate the boundary $S$ matrix for the open antiferromagnetic spin
+$1/2$ isotropic Heisenberg chain with boundary magnetic fields. Our approach,
+which starts from the model's Bethe Ansatz solution, is an extension of the
+Korepin-Andrei-Destri method. Our result agrees with the boundary $S$ matrix
+for the boundary sine-Gordon model with $\beta^2 \rightarrow 8\pi$ and with
+``fixed'' boundary conditions.
+","[{""version"":""v1"",""created"":""Fri, 15 Jul 1994 16:29:03 GMT""}]","2009-10-28"
+"hep-th/9407090","Kurt Haller","Kurt Haller and Edwin Lim-Lombridas (University of Connecticut)","Anyonic States in Chern-Simons Theory","UCONN-92-2, RevTeX, 22 pages. A revised version of an earlier paper
+  of the same title","Phys.Rev. D50 (1994) 7519-7530","10.1103/PhysRevD.50.7519",,"hep-th",,"  We discuss the canonical quantization of Chern-Simons theory in $2+1$
+dimensions, minimally coupled to a Dirac spinor field, first in the temporal
+gauge and then in the Coulomb gauge. In our temporal gauge formulation, Gauss's
+law and the gauge condition, $A_0 = 0$, are implemented by embedding the
+formulation in an appropriate physical subspace. We construct a Fock space of
+charged particle states that satisfy Gauss's law, and show that they obey
+fermion, not fractional statistics. The gauge-invariant spinor field that
+creates these charged states from the vacuum obeys the anticommutation rules
+that generally apply to spinor fields. The Hamiltonian, when described in the
+representation in which the charged fermions are the propagating particle
+excitations that obey Gauss's law, contains an interaction between charge and
+transverse current densities. We observe that the implementation of Gauss's law
+and the gauge condition does not require us to use fields with graded
+commutator algebras or particle excitations with fractional statistics. In our
+Coulomb gauge formulation, we implement Gauss's law and the gauge condition,
+$\partial_lA_l=0$, by the Dirac-Bergmann procedure. In this formulation, the
+constrained gauge fields become functionals of the spinor fields, and are not
+independent degrees of freedom. The formulation in the Coulomb gauge confirms
+the results we obtained in the temporal gauge: The ``Dirac-Bergmann''
+anticommutation rule for the charged spinor fields $\psi$ and $\psi^\dagger$
+that have both been constrained to obey Gauss's law, is precisely identical to
+the canonical spinor anticommutation rule that generates standard fermion
+statistics. And we also show that the Hamiltonians for charged particle states
+in our temporal and Coulomb gauge formulations are identical, once Gauss's law
+","[{""version"":""v1"",""created"":""Fri, 15 Jul 1994 18:41:40 GMT""}]","2009-10-28"
+"hep-th/9407091",,"G. Bonelli, P.A. Marchetti and M. Matone","Nonperturbative 2D Gravity, Punctured Spheres and $\Theta$-Vacua in
+  String Theories","12 pages + 2 figures available upon request. LaTeX File","Phys.Lett. B339 (1994) 49-58","10.1016/0370-2693(94)91131-2","DFPD/94/TH/17","hep-th alg-geom gr-qc math.AG",,"  We consider a model of 2D gravity with the coefficient of the
+Einstein-Hilbert action having an imaginary part $\pi/2$. This is equivalent to
+introduce a $\Theta$-vacuum structure in the genus expansion whose effect is to
+convert the expansion into a series of alternating signs, presumably Borel
+summable. We show that the specific heat of the model has a physical behaviour.
+It can be represented nonperturbatively as a series in terms of integrals over
+moduli spaces of punctured spheres and the sum of the series can be rewritten
+as a unique integral over a suitable moduli space of infinitely punctured
+spheres. This is an explicit realization \`a la Friedan-Shenker of 2D quantum
+gravity. We conjecture that the expansion in terms of punctures and the genus
+expansion can be derived using the Duistermaat-Heckman theorem. We briefly
+analyze expansions in terms of punctured spheres also for multicritical models.
+","[{""version"":""v1"",""created"":""Fri, 15 Jul 1994 19:15:47 GMT""}]","2009-10-28"
+"hep-th/9407092","Lev Koyrakh","D. Bar-Moshe and M. S. Marinov (Technion)","Realization of compact Lie algebras in K\""ahler manifolds",,"J.Phys. A27 (1994) 6287-6298","10.1088/0305-4470/27/18/035",,"hep-th math.DG",,"  The Berezin quantization on a simply connected homogeneous K\""{a}hler
+manifold, which is considered as a phase space for a dynamical system, enables
+a description of the quantal system in a (finite-dimensional) Hilbert space of
+holomorphic functions corresponding to generalized coherent states. The Lie
+algebra associated with the manifold symmetry group is given in terms of
+first-order differential operators. In the classical theory, the Lie algebra is
+represented by the momentum maps which are functions on the manifold, and the
+Lie product is the Poisson bracket given by the K\""{a}hler structure. The
+K\""{a}hler potentials are constructed for the manifolds related to all compact
+semi-simple Lie groups. The complex coordinates are introduced by means of the
+Borel method. The K\""{a}hler structure is obtained explicitly for any unitary
+group representation. The cocycle functions for the Lie algebra and the Killing
+vector fields on the manifold are also obtained.
+","[{""version"":""v1"",""created"":""Fri, 15 Jul 1994 19:49:41 GMT""}]","2009-10-28"
+"hep-th/9407093","Lev Koyrakh","D. Bar-Moshe and M. S. Marinov (Technion)","Berezin quantization and unitary representations of Lie groups","28 pages",,,,"hep-th math.DG",,"  In 1974, Berezin proposed a quantum theory for dynamical systems having a
+K\""{a}hler manifold as their phase space. The system states were represented by
+holomorphic functions on the manifold. For any homogeneous K\""{a}hler manifold,
+the Lie algebra of its group of motions may be represented either by
+holomorphic differential operators (``quantum theory""), or by functions on the
+manifold with Poisson brackets, generated by the K\""{a}hler structure
+(``classical theory""). The K\""{a}hler potentials and the corresponding Lie
+algebras are constructed now explicitly for all unitary representations of any
+compact simple Lie group. The quantum dynamics can be represented in terms of a
+phase-space path integral, and the action principle appears in the
+semi-classical approximation.
+","[{""version"":""v1"",""created"":""Fri, 15 Jul 1994 19:50:47 GMT""}]","2008-02-03"
+"hep-th/9407094","Vincent L. Moulton","Vincent Moulton","Vector Braids","39 pages",,,,"hep-th math.QA",,"  In this paper we define a new family of groups which generalize the {\it
+classical braid groups on} $\C $. We denote this family by $\{B_n^m\}_{n \ge
+m+1}$ where $n,m \in \N$. The family $\{ B_n^1 \}_{n \in \N}$ is the set of
+classical braid groups on $n$ strings. The group $B_n^m$ is the set of motions
+of $n$ unordered points in $\C^m$, so that at any time during the motion, each
+$m+1$ of the points span the whole of $\C^m$ as an affine space. There is a map
+from $B_n^m$ to the symmetric group on $n$ letters. We let $P_n^m$ denote the
+kernel of this map. In this paper we are mainly interested in understanding
+$P_n^2$. We give a presentation of a group $PL_n$ which maps surjectively onto
+$P_n^2$. We also show the surjection $PL_n \to P_n^2$ induces an isomorphism on
+first and second integral homology and conjecture that it is an isomorphism. We
+then find an infinitesimal presentation of the group $P_n^2$. Finally, we also
+consider the analagous groups where points lie in $\P^m$ instead of $\C^m$.
+These groups generalize of the classical braid groups on the sphere.
+","[{""version"":""v1"",""created"":""Fri, 15 Jul 1994 21:04:45 GMT""}]","2008-02-03"
+"hep-th/9407095","D. V. Ahluwalia, Lanl","Mikolaj Sawicki and D. V. Ahluwalia","Parity and Fermions in Front-Form: An Unexpected Result","LAUR-93-4317-REV, 10 pages, Revtex Version 3.0 (Accepted for
+  publication in Phys. Lett. B)","Phys.Lett.B335:24-28,1994","10.1016/0370-2693(94)91552-0",,"hep-th nucl-th",,"  We show that under the operation of parity the {\it front-form} $(1/2,\,0)$
+and $(0,\,1/2)$ Weyl spinors (massive or massless) do not get interchanged.
+This has the important consequence that if a front-form theory containing
+$(1/2,\,0)\oplus(0,\,1/2)$ representation space has to be parity covariant then
+one must study the evolution of a physical system not only along $x^+$ but also
+along the $x^-$ direction. As a result of our analysis, we find an indication
+that there may be no halving of the degrees of freedom in the front form of
+field theories.
+","[{""version"":""v1"",""created"":""Fri, 15 Jul 1994 23:18:09 GMT""}]","2008-11-26"
+"hep-th/9407096","Toshio Nakatsu","Toshio Nakatsu","On the string equation at $c=1$","17pp,INS-Rep.1043, to appear in Mod.Phys.Lett.A, Some modifications
+  have been performed from the view of the double scaled field theory.And also
+  the relation with the classical (genus 0) results is described","Mod.Phys.Lett.A9:3313-3324,1994","10.1142/S0217732394003130",,"hep-th",,"  The analogue of the string equation which specifies the partition function of
+$c=1$ string with a compactification radius $\beta \in \mbox{$\bf{Z}$}_{\geq 1}
+$ is described in the framework of the Toda lattice hierarchy.
+","[{""version"":""v1"",""created"":""Sat, 16 Jul 1994 04:25:10 GMT""},{""version"":""v2"",""created"":""Thu, 27 Oct 1994 20:14:55 GMT""}]","2010-11-01"
+"hep-th/9407097",,"P. Cotta-Ramusino and M. Martellini","BF Theories and 2-knots","16 pages; LaTeX; IFUM 461/FT",,,,"hep-th",,"  We discuss the relations between (topological) quantum field theories in 4
+dimensions and the theory of 2-knots (embedded 2-spheres in a 4-manifold). The
+so-called BF theories allow the construction of quantum operators whose trace
+can be considered as the higher-dimensional generalization of Wilson lines for
+knots in 3-dimensions. First-order perturbative calculations lead to higher
+dimensional linking numbers, and it is possible to establish a heuristic
+relation between BF theories and Alexander invariants. Functional
+integration-by-parts techniques allow the recovery of an infinitesimal version
+of the Zamolodchikov tetrahedron equation, in the form considered by Carter and
+Saito.
+","[{""version"":""v1"",""created"":""Sat, 16 Jul 1994 10:34:22 GMT""}]","2007-05-23"
+"hep-th/9407098","Kanehisa Takasaki","Kanehisa Takasaki (Kyoto Univ)","Symmetries and tau function of higher dimensional dispersionless
+  integrable hierarchies","50 pages, (Changes: a few references are added; numbering of formulas
+  are slightly modified)","J.Math.Phys. 36 (1995) 3574-3607","10.1063/1.530983","KUCP-0068","hep-th nlin.SI solv-int",,"  A higher dimensional analogue of the dispersionless KP hierarchy is
+introduced. In addition to the two-dimensional ``phase space'' variables
+$(k,x)$ of the dispersionless KP hierarchy, this hierarchy has extra spatial
+dimensions compactified to a two (or any even) dimensional torus. Integrability
+of this hierarchy and the existence of an infinite dimensional of ``additional
+symmetries'' are ensured by an underlying twistor theoretical structure (or a
+nonlinear Riemann-Hilbert problem). An analogue of the tau function, whose
+logarithm gives the $F$ function (``free energy'' or ``prepotential'' in the
+contest of matrix models and topological conformal field theories), is
+constructed. The infinite dimensional symmetries can be extended to this tau
+(or $F$) function. The extended symmetries, just like those of the
+dispersionless KP hierarchy, obey an anomalous commutation relations.
+","[{""version"":""v1"",""created"":""Sat, 16 Jul 1994 10:15:28 GMT""},{""version"":""v2"",""created"":""Wed, 3 Aug 1994 09:00:29 GMT""}]","2009-10-28"

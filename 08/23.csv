@@ -1,0 +1,285 @@
+"astro-ph/9408078","Richard Battye","R.A. Battye and E.P.S. Shellard","String Radiative Backreaction","9 Pages. Figures not included - Hard Copy available on request","Phys.Rev.Lett. 75 (1995) 4354-4357","10.1103/PhysRevLett.75.4354","DAMTP Preprint R94/32","astro-ph hep-ph hep-th",,"  We discuss radiative backreaction for global strings described by the
+Kalb-Ramond action with an analogous derivation to that for the point electron
+in classical electrodynamics. We show how local corrections to the equations of
+motion allow one to separate the self-field of the string from that of the
+radiation-field. Modifications to this 'local backreaction approximation'
+circumvent the runaway solutions familiar from electrodynamics, allowing these
+corrections to be used to evolve string trajectories numerically. Comparisons
+are made with analytic and numerical radiation calculations from previous work
+and the merits and limitations of this approach are discussed. Finally, we
+comment on the relevance of this work to simulations of a cosmological network
+of global or axion strings. These methods can also be applied to describe
+graviational, electromagnetic and other forms of string radiative backreaction.
+","[{""version"":""v1"",""created"":""Mon, 22 Aug 1994 19:15:37 GMT""}]","2009-10-22"
+"cmp-lg/9408011","Fernando Pereira","Fernando Pereira (AT&T Bell Laboratories), Naftali Tishby (Hebrew
+  University), Lillian Lee (Harvard University)","Distributional Clustering of English Words","8 pages, appeared in the proceedings of ACL-93, Columbus, Ohio",,,,"cmp-lg cs.CL",,"  We describe and experimentally evaluate a method for automatically clustering
+words according to their distribution in particular syntactic contexts.
+Deterministic annealing is used to find lowest distortion sets of clusters. As
+the annealing parameter increases, existing clusters become unstable and
+subdivide, yielding a hierarchical ``soft'' clustering of the data. Clusters
+are used as the basis for class models of word coocurrence, and the models
+evaluated with respect to held-out test data.
+","[{""version"":""v1"",""created"":""Mon, 22 Aug 1994 16:26:21 GMT""}]","2008-02-03"
+"cond-mat/9408067","Michael Geller","Michael R. Geller and Giovanni Vignale","Bound on the Group Velocity of an Electron in a 1D Periodic Potential","6 pages in Tex",,"10.1103/PhysRevB.51.2616",,"cond-mat",,"  By using a recently derived upper bound on the allowed equilibrium current in
+a ring, it is proved that the magnitude of the group velocity of a Bloch
+electron in a one-dimensional periodic potential is always less than or equal
+to the group velocity of the same Bloch state in an empty lattice. Our
+inequality also implies that each energy band in a one-dimensional crystal
+always lies below the corresponding free-electron band, when the minima of
+those bands are aligned.
+","[{""version"":""v1"",""created"":""Mon, 22 Aug 1994 21:02:10 GMT""}]","2009-10-22"
+"cond-mat/9408068","Paul Fendley","P. Fendley, A.W.W. Ludwig and H. Saleur","Exact Conductance through Point Contacts in the $\nu =1/3$ Fractional
+  Quantum Hall Effect","10 pages, 1 figure","Phys. Rev. Lett. 74 (1995) 3005","10.1103/PhysRevLett.74.3005","USC-94-12, PUPT-94-1491","cond-mat hep-th",,"  The conductance for tunneling through a point contact between two $\nu =1/3$
+quantum Hall edges is described by a universal scaling function, which has
+recently been measured experimentally. We compute this universal function
+exactly, by using the thermodynamic Bethe ansatz and a Boltzmann equation.
+","[{""version"":""v1"",""created"":""Tue, 23 Aug 1994 01:36:34 GMT""}]","2009-10-22"
+"cond-mat/9408070",,"Francesco Tassone, Francesco Mauri and Roberto Car","Acceleration Schemes for Ab-Initio Molecular Dynamics and Electronic
+  Structure Calculations","RevTex, 9 figures available upon request, to appear in Phys. Rev. B",,"10.1103/PhysRevB.50.10561",,"cond-mat",,"  We study the convergence and the stability of fictitious dynamical methods
+for electrons. First, we show that a particular damped second-order dynamics
+has a much faster rate of convergence to the ground-state than first-order
+steepest descent algorithms while retaining their numerical cost per time step.
+Our damped dynamics has efficiency comparable to that of conjugate gradient
+methods in typical electronic minimization problems. Then, we analyse the
+factors that limit the size of the integration time step in approaches based on
+plane-wave expansions. The maximum allowed time step is dictated by the highest
+frequency components of the fictitious electronic dynamics. These can result
+either from the large wavevector components of the kinetic energy or from the
+small wavevector components of the Coulomb potential giving rise to the so
+called {\it charge sloshing} problem. We show how to eliminate large wavevector
+instabilities by adopting a preconditioning scheme that is implemented here for
+the first-time in the context of Car-Parrinello ab-initio molecular dynamics
+simulations of the ionic motion. We also show how to solve the charge-sloshing
+problem when this is present. We substantiate our theoretical analysis with
+numerical tests on a number of different silicon and carbon systems having both
+insulating and metallic character.
+","[{""version"":""v1"",""created"":""Tue, 23 Aug 1994 09:41:51 GMT""}]","2009-10-22"
+"cond-mat/9408071","Georg Junker","Georg Junker and Stephan Matthiesen","Supersymmetric classical mechanics","7 pages, LaTeX with IOP publishing preprint style, to appear in J.
+  Phys. A","J. Phys. A 27 (1994) L751-L755, ADDENDUM J. Phys. A 28 (1995)
+  1467-1468","10.1088/0305-4470/27/19/006",,"cond-mat chem-ph hep-th",,"  We study the classical properties of a supersymmetric system which is often
+used as a model for supersymmetric quantum mechanics. It is found that the
+classical dynamics of the bosonic as well as the fermionic degrees of freedom
+is fully described by a so--called quasi--classical solution. We also comment
+on the importance of this quasi--classical solution in the semi--classical
+treatment of the supersymmetric quantum model.
+","[{""version"":""v1"",""created"":""Tue, 23 Aug 1994 10:16:04 GMT""}]","2009-10-22"
+"cond-mat/9408072","Alexander Mirlin","Vladimir E. Kravtsov and Alexander D. Mirlin","Level Statistics in a Metallic Sample: Corrections to the Wigner-Dyson
+  Distribution","4 pages, REVTEX","JETP-Lett. 60, 645 (1994)",,,"cond-mat",,"  Deviation of the level correlation function in a mesoscopic metallic sample
+from the Wigner--Dyson distribution is calculated by using a combination of the
+renormalization group and non-perturbative treatment. For given spatial
+dimension the found correction is determined by the sample conductance.
+","[{""version"":""v1"",""created"":""Tue, 23 Aug 1994 14:19:31 GMT""}]","2007-05-23"
+"hep-lat/9408017","Annette Holtkamp","H. Dilger","Topological Zero Modes in Monte Carlo Simulations","uuencoded compressed tar file, latex, 11 pages, 4 figures, DESY
+  94-145","Int.J.Mod.Phys. C6 (1995) 123-134","10.1142/S0129183195000101",,"hep-lat",,"  We present an improvement of global Metropolis updating steps, the instanton
+hits, used in a hybrid Monte Carlo simulation of the two-flavor Schwinger model
+with staggered fermions. These hits are designed to change the topological
+sector of the gauge field. In order to match these hits to an unquenched
+simulation with pseudofermions, the approximate zero mode structure of the
+lattice Dirac operator has to be considered explicitly.
+","[{""version"":""v1"",""created"":""Tue, 23 Aug 1994 11:21:12 GMT""}]","2015-06-25"
+"hep-ph/9408343","Herbert Weigel","H. Weigel, R. Alkofer and H. Reinhardt","Estimate of Quantum corrections to the Mass of the Chiral Soliton in the
+  Nambu--Jona--Lasinio Model","30 pages LaTeX, UNITU-THEP-16/1994, three figures enclosed as
+  uuecoded postscript files","Nucl.Phys.A582:484-516,1995","10.1016/0375-9474(94)00480-B",,"hep-ph",,"  The Bethe--Salpeter equation for pion fluctuations off the chiral soliton in
+the Nambu--Jona--Lasinio model is constructed. By Goldstone's theorem this
+equation has rotational and translational zero modes because the classical
+soliton is a localized stationary field configuration which violates rotational
+and translational invariance. Furthermore, the proper normalization of the
+fluctuating eigen--modes is obtained. Second quantization of the pion
+fluctuations off the chiral soliton provides an energy functional of the pion
+fluctuations which formally coincides with that of a harmonic oscillator. The
+corresponding quantum corrections to the soliton mass together with the
+semi--classical cranking prescription yield reasonable predictions for the
+masses of the nucleon and the $\Delta$--resonance when the constituent quark
+mass is chosen to be about 400MeV. These calculations are, to some extend,
+hampered by the non--confining character of the Nambu--Jona--Lasinio model.
+Comments on the $1/N_C$ counting scheme are added.
+","[{""version"":""v1"",""created"":""Mon, 22 Aug 1994 17:14:17 GMT""}]","2009-09-25"
+"hep-ph/9408344","Xinnian Wang","Xin-Nian Wang, Miklos Gyulassy and Michael Pl\""umer","The LPM effect in QCD and Radiative energy loss in a quark-gluon plasma","28 pages in REVTex, 4 figures in uuencoded files, LBL-35980","Phys.Rev.D51:3436-3446,1995","10.1103/PhysRevD.51.3436",,"hep-ph nucl-th",,"  The non-abelian analog of the Landau-Pomeranchuk-Migdal effect is
+investigated in perturbative QCD. Extending our previous studies, the
+suppression of induced soft bremsstrahlung due to multiple scatterings of
+quarks in the spinor representation is considered. The effective formation time
+of gluon radiation due to the color interference is shown to depend on the
+color representation of the emitting parton, and an improved formula for the
+radiative energy loss is derived that interpolates between the factorization
+and Bethe-Heitler limits.
+","[{""version"":""v1"",""created"":""Mon, 22 Aug 1994 18:00:35 GMT""}]","2009-10-09"
+"hep-ph/9408345","My Account","J. Lopez, D. Nanopoulos, and A. Zichichi","Experimental consequences of one-parameter no-scale supergravity models","31 pages, 16 figures (not included), LaTeX. Uuencoded file
+  (OneFigs.uu, 0.45MB) with all figures, and full postscript file with embedded
+  figures (One.ps, 1.84MB) available via anonymous ftp from hplaa02.cern.ch
+  /pub/lopez. CERN-TH.7401/94","Int.J.Mod.Phys.A10:4241-4264,1995","10.1142/S0217751X95001972",,"hep-ph",,"  We consider the experimental predictions of two {\em one-parameter} no-scale
+$SU(5)\times U(1)$ supergravity models with string-inspired moduli and dilaton
+seeds of supersymmetry breaking. These predictions have been considerably
+sharpened with the new information on the top-quark mass from the Tevatron, and
+the actual measurement of the $B(b\to s\gamma)$ branching ratio from CLEO. In
+particular, the sign of the Higgs mixing parameter $\mu$ is fixed. A more
+precise measurement of the top-quark mass above (below) $\approx160\GeV$ would
+disfavor the dilaton (moduli) scenario. Similarly a measurement of the lightest
+Higgs-boson mass above 90 GeV (below 100 GeV) would disfavor the dilaton
+(moduli) scenario. At the Tevatron with $100\ipb$, the reach into parameter
+space is significant only in the dilaton scenario ($m_{\chi^\pm_1}\lsim80\GeV$)
+via the trilepton and top-squark signals. At LEPII the dilaton scenario could
+be probed up the kinematical limit via chargino and top-squark pair production,
+and the discovery of the lightest Higgs boson is guaranteed. In the moduli
+scenario only selectron pair production looks promising. We also calculate the
+supersymmetric contribution to the anomalous magnetic moment of the muon.
+","[{""version"":""v1"",""created"":""Mon, 22 Aug 1994 18:24:57 GMT""}]","2009-08-25"
+"hep-ph/9408346","Harold W. Fearing","H. W. Fearing and S. Scherer","Extension of the Chiral Perturbation Theory Meson Lagrangian to Order
+  $P^6$","59 pages in LaTex, using RevTex macro, TRIUMF preprint TRI-PP-94-68","Phys.Rev. D53 (1996) 315-348","10.1103/PhysRevD.53.315",,"hep-ph hep-th nucl-th",,"  We have derived the most general chirally invariant Lagrangian ${\cal L}_6$
+for the meson sector at order $p^6$. The result provides an extension of the
+standard Gasser-Leutwyler Lagrangian ${\cal L}_4$ to one higher order,
+including as well all the odd intrinsic parity terms in the Lagrangian. The
+most difficult part of the derivation was developing a systematic strategy so
+as to get all of the independent terms and eliminate the redundant ones in an
+efficient way. The 'equation of motion' terms, which are redundant in the sense
+that they can be transformed away via field transformations, are separated out
+explicitly. The resulting Lagrangian has been separated into groupings of terms
+contributing to increasingly more complicated processes, so that one does not
+have to deal with the full result when calculating $p^6$ contributions to
+simple processes.
+","[{""version"":""v1"",""created"":""Mon, 22 Aug 1994 20:24:01 GMT""}]","2009-10-28"
+"hep-ph/9408347","Marcello Lissia","S. Huang and M. Lissia","Dimensional Reduction for Fermions","5 pages using world_sci.sty, which is appended to the file. Full
+  postscript version available via anonymous ftp from
+  risc0.ca.infn.it:/pub/private/lissia/infnca-th-94-17.ps (192.84.132.4) To
+  appear in the Proceedings of the ``Workshop on Quantum Infrared Physics'',
+  Paris, France, 6-10 June 1994",,,"INFNCA-TH-94-17","hep-ph hep-lat nucl-th",,"  We generalize the concept of dimensional reduction to operators involving
+fermion fields in high temperature field theories. It is found that the
+ultraviolet behavior of the running coupling constant plays a crucial role. The
+general concept is illustrated explicitly in the Gross-Neveu model.
+","[{""version"":""v1"",""created"":""Mon, 22 Aug 1994 18:38:42 GMT""}]","2007-05-23"
+"hep-ph/9408348","Marcello Lissia","S. Huang and M. Lissia","Exact Sum Rules at Finite Temperature and Chemical Potential and their
+  Application to QCD","5 pages using world_sci.sty, which is appended to the file. Full
+  postscript version available via anonymous ftp from
+  risc0.ca.infn.it:/pub/private/lissia/infnca-th-94-18.ps (192.84.132.4) To
+  appear in the Proceedings of the ``Workshop on Quantum Infrared Physics'',
+  Paris, France, 6-10 June 1994",,,"INFNCA-TH-94-18","hep-ph hep-lat nucl-th",,"  Within the framework of the operator product expansion (OPE) and the
+renormalization group equation (RGE), we show that the temperature and chemical
+potential dependence of the zeroth moment of a spectral function (SF) in an
+asymptotically free theory is completely determined by the one-loop structure
+of the theory. This exact result constrains the qualitative shape of SF's, and
+implies striking phenomenological effects near phase transitions.
+","[{""version"":""v1"",""created"":""Mon, 22 Aug 1994 18:42:38 GMT""}]","2007-05-23"
+"hep-ph/9408349",,"J. Rosner (University of Chicago)","Status of the Standard Model","27 Pages, LaTeX, uses file world_sci.sty (appended); 10 PostScript
+  figures (uuencoded) in separate file. August, 1994, Enrico Fermi Institute
+  report EFI 94-38",,,,"hep-ph",,"  The standard model of electroweak interactions is reviewed, stressing the top
+quark's impact on precision tests and on determination of parameters of the
+Cabibbo-Kobayashi-Maskawa (CKM) matrix. Some opportunities for the study of CP
+violation in the decays of $b$-flavored mesons are mentioned, and the
+possibility of a new ``standard model'' sector involving neutrino masses is
+discussed.
+","[{""version"":""v1"",""created"":""Mon, 22 Aug 1994 21:28:19 GMT""},{""version"":""v2"",""created"":""Tue, 23 Aug 1994 11:34:45 GMT""}]","2009-09-25"
+"hep-ph/9408350","Martin Beneke","M.Beneke","Infrared effects and the asymptotics of perturbation theory in weak
+  decays of heavy particles","LATEX, world_sci.sty (appended to the file), UM-TH-94-30 (Invited
+  talk presented at the conference ``QCD'94'', Montpellier, France, July 7 -
+  13, 1994) [Typo in ref. 6 corrected, pardon.]","Nucl.Phys.Proc.Suppl.39BC:405-407,1995","10.1016/0920-5632(95)00111-L",,"hep-ph",,"  I discuss the interplay of infrared sensitivity in large order perturbative
+expansions with the presence of explicit nonperturbative corrections in the
+context of heavy quark expansions. The main focus is on inclusive decays and
+the status of the kinetic energy of the heavy quark. This talk summarizes work
+done with Braun and Zakharov.
+","[{""version"":""v1"",""created"":""Mon, 22 Aug 1994 22:45:25 GMT""},{""version"":""v2"",""created"":""Tue, 23 Aug 1994 22:17:14 GMT""}]","2010-11-01"
+"hep-ph/9408351","Lu Cai-dian","Chong-Shong Gao, Jing-Liang Hu, Cai-Dian Lu, Zhao-Ming Qiu","Recalculation of QCD Corrections to $b \to s \gamma$ Decay","16 pages, 7 figures (uuencoded ps files), Changes of description. To
+  appear in Phys. Rev. D","Phys.Rev. D52 (1995) 3978-3985","10.1103/PhysRevD.52.3978","CCASTA 93-28","hep-ph",,"  We give a more complete calculation of $b \to s\gamma $ decay, including
+leading log QCD corrections from $m_{top}$ to $M_W$ in addition to corrections
+from $M_{W}$ to $m_b$. We have included the full set of dimension-6 operators
+and corrected numerical mistakes of anomalous dimensions in a previous
+paper\cite{Cho}. Comparing with the calculations without QCD running from
+$m_{top}$ to $M_W$\cite{Mis}, the inclusive decay rate is found to be enhanced.
+At $m_t=150$GeV, it results in 12\% enhancement, and for $m_t=250$GeV, 15\% is
+found. The total QCD effect makes an enhanced factor of 4.2 at $m_t=150$GeV,
+and 3.2 for $m_t=250$GeV.
+","[{""version"":""v1"",""created"":""Tue, 23 Aug 1994 14:24:03 GMT""},{""version"":""v2"",""created"":""Tue, 13 Jun 1995 23:49:15 GMT""}]","2009-10-28"
+"hep-ph/9408352","Peter Cho","Peter Cho, Sandip Trivedi and Mark Wise","Gluon fragmentation into polarized charmonium","11 pages with 1 uuencoded figure, CALT-68-1943, FERMILAB-PUB-94/256-T","Phys.Rev.D51:2039-2043,1995","10.1103/PhysRevD.51.R2039",,"hep-ph",,"  Gluon fragmentation to $\chicJ(1P)$ followed by single photon emission
+represents the dominant source of prompt $J/\Psi$'s at the Tevatron for
+$p_\perp \gtap 6 \GeV$. Since fragmenting gluons are approximately transverse,
+their products are significantly polarized. We find that gluon fragmentation
+populates the helicity levels of $\chione$, $\chitwo$ and $J/\Psi$ according to
+$D_{\chione^{(h=0)}}: D_{\chione^{(|h|=1)}} \simeq 1:1$, $D_{\chitwo^{(h=0)}} :
+D_{\chitwo^{(|h|=1)}} : D_{\chitwo^{(|h|=2)}} \simeq 1:2.9:6.0$ and
+$D_{\J^{(h=0)}} : D_{\J^{(|h|=1)}} \simeq 1:3.4$. We also speculate that gluon
+fragmentation to the radially excited $\chitwo(2P)$ state followed by
+subsequent radiative decay could represent a large source of $\psi'(2S)$'s and
+potentially resolve the $\psi'$ deficit problem. A measurement of these states'
+polarizations would test this idea.
+","[{""version"":""v1"",""created"":""Tue, 23 Aug 1994 04:00:20 GMT""}]","2010-01-06"
+"hep-ph/9408353","Tsuneo Uematsu","Jiro Kodaira, Satoshi Matsuda, Tsuneo Uematsu and Ken Sasaki","More on the Burkhardt-Cottingham Sum Rule in QCD","LaTeX, 9 pages, 1 figure appended after \end{document} as an
+  uu-encoded and compressed .ps file, KUCP-70;HUPD-9410;YNU-HEPTh-94-105","Phys.Lett. B345 (1995) 527-531","10.1016/0370-2693(94)01648-V",,"hep-ph",,"  The QCD higher order effects to the polarized structure function $g_2(x, Q^2
+)$ are reanalyzed for massive quarks in the context of the operator product
+expansion. We confirm that the lowest moment of $g_2 (x, Q^2 )$ which
+corresponds to the Burkhardt-Cottingham sum rule does {\sl not} suffer from
+radiative corrections in perturbative QCD.
+","[{""version"":""v1"",""created"":""Tue, 23 Aug 1994 15:18:55 GMT""}]","2009-10-28"
+"hep-ph/9408354","Tsuneo Uematsu","Jiro KODAIRA, Tsuneo UEMATSU and Yoshiaki Yasui","Spin Structure Function $g_2$ and Twist-3 Operators in QCD","LaTeX, 11 pages, KUCP-71; HUPD-9411","Phys.Lett. B344 (1995) 348-354","10.1016/0370-2693(94)01550-V",,"hep-ph",,"  We investigate the spin structure function $g_2 (x, Q^2 )$ in the framework
+of the operator product expansion and the renormalization group. The twist-3
+operators appearing in QCD are examined and their relations are studied. It is
+noted that operators proportional to equation of motion appear in the operator
+mixing through renormalization, which can be studied from the relevant Green's
+functions. We also note that the coefficient functions can be properly fixed
+after the choice of independent operators.
+","[{""version"":""v1"",""created"":""Tue, 23 Aug 1994 15:20:10 GMT""}]","2009-10-28"
+"hep-ph/9408355","Joern Haeuser","J.M. Haeuser, W. Cassing, A. Peter and M.H. Thoma","Connected Green function approach to ground state symmetry breaking in
+  $\Phi^4_{1+1}$-theory","25 Revtex pages, 5 figures available via fpt from the directory
+  ugi-94-11 of ftp@theorie.physik.uni-giessen.de as one postscript file (there
+  was a bug in our calculations, all numerical results and figures have changed
+  significantly), ugi-94-11","Z.Phys. A353 (1996) 301-310","10.1007/BF01292336",,"hep-ph",,"  Using the cluster expansions for n-point Green functions we derive a closed
+set of dynamical equations of motion for connected equal-time Green functions
+by neglecting all connected functions higher than $4^{th}$ order for the
+$\lambda \Phi^4$-theory in $1+1$ dimensions. We apply the equations to the
+investigation of spontaneous ground state symmetry breaking, i.e. to the
+evaluation of the effective potential at temperature $T=0$. Within our momentum
+space discretization we obtain a second order phase transition (in agreement
+with the Simon-Griffith theorem) and a critical coupling of
+$\lambda_{crit}/4m^2=2.446$ as compared to a first order phase transition and
+$\lambda_{crit}/4m^2=2.568$ from the Gaussian effective potential approach.
+","[{""version"":""v1"",""created"":""Tue, 23 Aug 1994 12:23:13 GMT""},{""version"":""v2"",""created"":""Wed, 24 Aug 1994 16:54:22 GMT""},{""version"":""v3"",""created"":""Mon, 12 Sep 1994 13:22:58 GMT""}]","2009-10-28"
+"hep-ph/9408356",,"D. Kharzeev and H. Satz","Chiral Dynamics, Deconfinement and Thermal Dileptons","plain TeX, 7 pages, CERN-TH.7399/94, BI-TP 94/39 (the needed macro is
+  added to this revised file)","Phys.Lett. B340 (1994) 167-170","10.1016/0370-2693(94)01320-9",,"hep-ph",,"  We show that in a hot hadron gas, chiral symmetry restoration and
+deconfinement lead to a strong suppression of dilepton production by pion
+annihilation in the continuum above the $\rho-\omega-\phi$ peak. The
+suppression due to deconfinement persists also for annihilation reactions
+involving heavier mesons.
+","[{""version"":""v1"",""created"":""Tue, 23 Aug 1994 15:40:50 GMT""},{""version"":""v2"",""created"":""Wed, 24 Aug 1994 09:23:59 GMT""},{""version"":""v3"",""created"":""Thu, 25 Aug 1994 08:53:38 GMT""}]","2009-10-28"
+"hep-th/9408120",,"Joshua Feinberg (Theory Group, Physics Dept. The Univ. of Texas at
+  Austin)","On Kinks and Bound States in the Gross-Neveu Model","Revised version. A new section added with derivation of the DHN
+  static configurations in the sector of broken supersymmetry. Some references
+  added as well. 25 pp, latex, e-mail joshua@utaphy.ph.utexas.edu","Phys. Rev. D 51, 4503 (1995)","10.1103/PhysRevD.51.4503","UTTG-94-05","hep-th cond-mat hep-ph",,"  We investigate static space dependent $\sigx=\lag\bar\psi\psi\rag$ saddle
+point configurations in the two dimensional Gross-Neveu model in the large N
+limit. We solve the saddle point condition for $\sigx$ explicitly by employing
+supersymmetric quantum mechanics and using simple properties of the diagonal
+resolvent of one dimensional Schr\""odinger operators rather than inverse
+scattering techniques. The resulting solutions in the sector of unbroken
+supersymmetry are the Callan-Coleman-Gross-Zee kink configurations. We thus
+provide a direct and clean construction of these kinks. In the sector of broken
+supersymmetry we derive the DHN saddle point configurations. Our method of
+finding such non-trivial static configurations may be applied also in other two
+dimensional field theories.
+","[{""version"":""v1"",""created"":""Mon, 22 Aug 1994 22:07:49 GMT""},{""version"":""v2"",""created"":""Mon, 12 Dec 1994 23:33:55 GMT""}]","2016-08-24"
+"hep-th/9408121","Toshiya Kawai","Toshiya Kawai and Sung-Kil Yang","Duality of Orbifoldized Elliptic Genera","27(portrait)+3(landscape) pages, LaTeX, KEK-TH-409. (one reference
+  added)","Prog.Theor.Phys.Suppl.118:277-298,1995","10.1143/PTPS.118.277",,"hep-th",,"  We discuss duality and mirror symmetry phenomena of Landau-Ginzburg orbifolds
+considering their elliptic genera. Under the duality (or mirror) transform
+performed by orbifoldizing the Landau-Ginzburg model via some discrete group of
+the superpotential we observe that the roles of the untwisted and twisted
+sectors are exchanged. As explicit evidence detailed orbifold data are
+presented for $N=2$ minimal models, Arnold's exceptional singularities, $K3$
+surfaces constructed from Arnold's singularities and Fermat hypersurfaces. (To
+appear in the proceedings of the workshop, ``Quantum Field Theory, Integrable
+Models and Beyond'', Yukawa Institute for Theoretical Physics, Kyoto
+University, 14-18 February 1994.)
+","[{""version"":""v1"",""created"":""Tue, 23 Aug 1994 05:50:32 GMT""},{""version"":""v2"",""created"":""Wed, 31 Aug 1994 08:13:17 GMT""}]","2008-11-26"
+"hep-th/9408122","Motowo Yamanobe","Motowo Yamanobe, Sumio Ishikawa, Yasuhiro Iwama, Tadashi Miyazaki,
+  Kazuyoshi Yamamoto, Ritsu Yoshida","Kalb-Ramond interaction for a closed p-brane","7 pages","Prog.Theor.Phys.96:227-234,1996","10.1143/PTP.96.227",,"hep-th",,"  The Kalb-Ramond action for an interacting string is generalized to the case
+of a high-dimensional object (p-brane). The interaction is found to be mediated
+by a gauge boson of a completely antisymmetric tensor of rank $p+1$.
+","[{""version"":""v1"",""created"":""Tue, 23 Aug 1994 11:23:58 GMT""}]","2019-08-17"
+"hep-th/9408124",,"J. Ambjorn P. Bialas, Z. Burda, J. Jurkiewicz and B. Petersson","Search for Scaling Dimensions for Random Surfaces with c=1","10 pages, (csh will uudecode and uncompress ps-file), NBI-HE-94-38","Phys.Lett. B342 (1995) 58-65","10.1016/0370-2693(94)01381-L",,"hep-th hep-lat",,"  We study numerically the fractal structure of the intrinsic geometry of
+random surfaces coupled to matter fields with $c=1$. Using baby universe
+surgery it was possible to simulate randomly triangulated surfaces made of
+260.000 triangles. Our results are consistent with the theoretical prediction
+$d_H = 2+\sqrt{2}$ for the intrinsic Hausdorff dimension.
+","[{""version"":""v1"",""created"":""Tue, 23 Aug 1994 14:17:56 GMT""}]","2009-10-28"
+"nucl-th/9408023",,"S. D. Bass","Gribov Confinement and Chiral Perturbation Theory","Cavendish Preprint HEP 94/11, talk given at Juelich conference:
+  ""Physics with GeV Particle Beams"" ---- plain LaTeX --- macro format changed",,,,"nucl-th hep-ph",,"  I discuss the chiral dynamics of Gribov's theory of confinement. At a
+critical coupling $\alpha_s^c$ the light quark vacuum undergoes a series of
+phase transitions which should be taken into account in the application of
+chiral perturbation theory. The Gribov theory offers a simple explanation of
+the value of the pion nucleon sigma term without need to invoke a large strange
+quark component in the nucleon.
+","[{""version"":""v1"",""created"":""Tue, 23 Aug 1994 15:12:56 GMT""},{""version"":""v2"",""created"":""Mon, 29 Aug 1994 13:15:07 GMT""}]","2008-02-03"

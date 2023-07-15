@@ -1,0 +1,197 @@
+"chem-ph/9404001","Lawrence Pratt","Lawrence R. Pratt, Gerhard Hummer, and Angel E. Garcia (Los Alamos
+  National Laboratory, Los Alamos, NM)","Ion Pair Potentials-of-Mean-Force in Water","37 pages and 8 figures. LA-UR-93-4205","Biophys. Chem. 51, 147(1994)",,,"chem-ph physics.chem-ph",,"  Recent molecular simulation and integral equation results alkali-halide ion
+pair potentials-of-mean-force in water are discussed. Dielectric model
+calculations are implemented to check that these models produce that
+characteristic structure of contact and solvent-separated minima for oppositely
+charged ions in water under physiological thermodynamic conditions. Comparison
+of the dielectric model results with the most current molecular level
+information indicates that the dielectric model does not, however, provide an
+accurate description of these potentials-of-mean-force. We note that linear
+dielectric models correspond to modelistic implementations of second-order
+thermodynamic perturbation theory for the excess chemical potential of a
+distinguished solute molecule. Therefore, the molecular theory corresponding to
+the dielectric models is second-order thermodynamic perturbation theory for
+that excess chemical potential. The second-order, or fluctuation, term raises a
+technical computational issue of treatment of long-ranged interactions similar
+to the one which arises in calculation of the dielectric constant of the
+solvent. It is contended that the most important step for further development
+of dielectric models would be a separate assessment of the first-order
+perturbative term (equivalently the {\it potential at zero charge} ) which
+vanishes in the dielectric models but is generally nonzero. Parameterization of
+radii and molecular volumes should then be based of the second-order
+perturbative term alone. Illustrative initial calculations are presented and
+discussed.
+","[{""version"":""v1"",""created"":""Fri, 1 Apr 1994 16:56:06 GMT""},{""version"":""v2"",""created"":""Mon, 9 May 1994 20:34:41 GMT""}]","2008-02-03"
+"chem-ph/9404002","Lawrence Pratt","Gregory J. Tawa and Lawrence R. Pratt (Theoretical Division, Los
+  Alamos National Laboratory, Los Alamos, NM)","Tests of Dielectric Model Descriptions of Chemical Charge Displacements
+  in Water","12 pages and 4 figures, LA-UR-94431","ACS SYMPOSIUM SERIES 568, 60 (1994)",,,"chem-ph physics.chem-ph",,"  A dielectric model of electrostatic solvation is applied to describe
+potentials of mean force in water along reaction paths for: a) formation of a
+sodium chloride ion pair; b) the symmetric SN2 exchange of chloride in
+methylchloride; and c) nucleophilic attack of formaldehyde by hydroxide anion.
+For these cases simulation and XRISM results are available for comparison. The
+accuracy of model predictions varies from spectacular to mediocre. It is argued
+that: a) dielectric models are physical models, even though simplistic and
+empirical; b) their successes suggest that second-order perturbation theory is
+a physically sound description of free energies of electrostatic solvation; and
+c) the most serious deficiency of the dielectric models lies in the definition
+of cavity volumes. Second-order perturbation theory should therefore be used to
+refine the dielectric models. These dielectric models make no attempt to assess
+the role of packing effects but for solvation of classical electrostatic
+interactions the dielectric models sometimes perform as well as the more
+detailed XRISM theory.
+","[{""version"":""v1"",""created"":""Fri, 1 Apr 1994 19:23:52 GMT""}]","2008-02-03"
+"gr-qc/9404001","Charles Hellaby","Charles Hellaby and Tevian Dray","Failure of Standard Conservation Laws at a Classical Change of Signature","15pp, figures available on request from Charles Hellaby at
+  cwh@maths.uct.ac.za","Phys.Rev. D49 (1994) 5096-5104","10.1103/PhysRevD.49.5096","University of Cape Town Preprint UCT 1994","gr-qc",,"  The Divergence Theorem as usually stated cannot be applied across a change of
+signature unless it is re-expressed to allow for a finite source term on the
+signature change surface. Consequently all conservation laws must also be
+`modified', and therefore insistence on conservation of matter across such a
+surface cannot be physically justified. The Darmois junction conditions
+normally ensure conservation of matter via Israel's identities for the jump in
+the energy-momentum density, but not when the signature changes. Modified
+identities are derived for this jump when a signature change occurs, and the
+resulting surface effects in the conservation laws are calculated. In general,
+physical vector fields experience a jump in at least one component, and a
+source term may therefore appear in the corresponding conservation law. Thus
+current is also not conserved. These surface effects are a consequence of the
+change in the character of physical law. The only way to recover standard
+conservation laws is to impose restrictions that no realistic cosmological
+model can satisfy.
+","[{""version"":""v1"",""created"":""Sat, 2 Apr 1994 10:52:26 GMT""}]","2009-10-22"
+"gr-qc/9404002","Tevian Dray","Tevian Dray and Charles Hellaby","The Patchwork Divergence Theorem","REVTeX 3.0, 7 pages by default (16 in preprint style), no figures","J.Math.Phys.35:5922-5929,1994","10.1063/1.530719",,"gr-qc dg-ga math.DG",,"  The divergence theorem in its usual form applies only to suitably smooth
+vector fields. For vector fields which are merely piecewise smooth, as is
+natural at a boundary between regions with different physical properties, one
+must patch together the divergence theorem applied separately in each region.
+We give an elegant derivation of the resulting ""patchwork divergence theorem""
+which is independent of the metric signature in either region, and which is
+thus valid if the signature changes.
+  (PACS numbers 4.20.Cv, 04.20.Me, 11.30.-j, 02.40.Hw)
+","[{""version"":""v1"",""created"":""Sat, 2 Apr 1994 15:07:33 GMT""}]","2011-07-19"
+"gr-qc/9404009","R. Balasubramanian","R. Balasubramanian and S. V. Dhurandhar","Performance of Newtonian filters in detecting gravitational waves from
+  coalescing binaries","Revtex 9 pages + 6 figures ( Can be obtained by ""anonymous"" ftp from
+  144.16.31.1 in dir /pub/rbs. Submitted to Physical Review D. IUCAA 10","Phys.Rev.D50:6080-6088,1994","10.1103/PhysRevD.50.6080",,"gr-qc",,"  Coalescing binary systems are one of the most promising sources of
+gravitational waves. The technique of matched filtering used in the detection
+of gravitational waves from coalescing binaries relies on the construction of
+accurate templates. Until recently filters modelled on the quadrupole or the
+Newtonian approximation were deemed sufficient. Recently it was shown that
+post-Newtonian effects contribute to a secular growth in the phase difference
+between the actual signal and its corresponding Newtonian template. In this
+paper we investigate the possibility of compensating for the phase difference
+caused by the post-Newtonian terms by allowing for a shift in the Newtonian
+filter parameters. We find that Newtonian filters perform adequately for the
+purpose of detecting the presence of the signal for both the initial and the
+advanced LIGO detectors.
+","[{""version"":""v1"",""created"":""Fri, 1 Apr 1994 21:58:25 GMT""}]","2011-09-09"
+"hep-ph/9404203","Stefano Laporta","S.Laporta","Hyperspherical Integration and the Triple-Cross Vertex Graphs","plain TEX, 11 pages + 2 figures (appended as postscript file), DFUB
+  94-01","NuovoCim.A107:1729-1738,1994","10.1007/BF02780705",,"hep-ph",,"  We have extended the hyperspherical variables method to the analytical
+calculation of the angular integral of the box graph. We discuss the
+applications of our results to the analytical calculation of the QED
+contribution to the electron g-2 of the set of three-loop triple-cross vertex
+graphs.
+","[{""version"":""v1"",""created"":""Fri, 1 Apr 1994 16:10:02 GMT""}]","2009-09-25"
+"hep-ph/9404204","Stefano Laporta","S.Laporta","Analytical and Numerical Contributions of Some Tenth-Order Graphs
+  Containing Vacuum Polarization Insertions to the Muon (G-2) in QED","13 pages + 2 figures appended as 2 postscript files, plain TeX, DFUB
+  94-02","Phys.Lett. B328 (1994) 522-527","10.1016/0370-2693(94)91513-X",,"hep-ph",,"  The contributions to the g-2 of the muon from some tenth-order (five-loop)
+graphs containing one-loop and two-loop vacuum polarization insertions have
+been evaluated analytically in QED perturbation theory, expanding the results
+in the ratio of the electron to muon mass (m_e /m_\mu). Some results contain
+also terms known only in numerical form. Our results agree with the
+renormalization group results already existing in the literature.
+","[{""version"":""v1"",""created"":""Fri, 1 Apr 1994 16:10:34 GMT""}]","2009-10-28"
+"hep-ph/9404205",,"R. N. Mohapatra (University of Maryland)","Understanding the Standard Model","University of Maryland Report No. UMD-PP-94-116; To be published in
+  the Robert E. Marshak memorial volume, edited by George Sudarshan. ( plain
+  Tex; 17 pages )",,"10.1142/9789812831408_0030",,"hep-ph",,"  We explore to what extent the various assumptions behind the standard model
+as well as the observed quantization of electric charges of quarks and leptons
+can be understood using the Adler-Bell-Jackiw anomalies. The effect of
+including a non-zero neutrino mass on these considerations is also discussed.
+","[{""version"":""v1"",""created"":""Fri, 1 Apr 1994 16:38:05 GMT""}]","2016-11-03"
+"hep-ph/9404206","Daniel Mustaki","D. Mustaki","Chiral Symmetry and the Constituent Quark Model: A Null-Plane Point of
+  View","26 pages, Bowling Green State Univ. preprint",,,,"hep-ph",,"  In order to clarify the connection between {\it current} and {\it
+constituent} quarks (of u,d,s flavors), several authors have used the lightlike
+chiral $SU(3)\otimes SU(3)$ algebra as a central concept. This literature is
+reviewed here with the goal of offering an introduction to the subject within a
+convenient, unified framework. It is shown that the null-plane Hamiltonian for
+free massive fermions is chirally symmetric, provided only that the particles
+have equal masses ($SU(3)$ limit). In the free quark model, hadrons can be
+classified by a chiral $SU(3)\otimes SU(3)$ algebra, the generators of which
+are current lightlike charges. Naturally, QCD interactions break chiral
+symmetry, and the axial nonsinglet charges are not conserved. This remains true
+in the 'chiral limit' (zero quark masses), signalling the spontaneous breakdown
+of chiral symmetry. The actual generators of the $SU(3)\otimes SU(3)$
+classification of physical hadrons are obtained from the current charges by
+means of a unitary transformation. Under this transformation, quarks of the
+same flavor and of opposite helicities mix to form a constituent quark. The
+functional form of this unitary transformation can be strongly constrained on
+the basis of symmetry arguments. This analysis is potentially rich in
+phenomenological applications, and a few are presented here. The author offers
+also some new theoretical results. No prior knowledge of light-cone formalism
+on the part of the reader is assumed.
+","[{""version"":""v1"",""created"":""Fri, 1 Apr 1994 23:27:33 GMT""}]","2007-05-23"
+"hep-ph/9404207","Hai-Yang Cheng","Ling-Lie Chau and Hai-Yang Cheng","SU(3) Breaking Effects in Charmed Meson Decays","10 pages, ITP-SB-93-49, UCD-93-31","Phys.Lett. B333 (1994) 514-518","10.1016/0370-2693(94)90176-7",,"hep-ph",,"  The decay rates of $D^+\to\pi^+\pi^0$ and $D^0\to K^+\pi^-$ recently measured
+by CLEO give the ratios $R_1=2|V_{cs}/V_{cd}|^2\Gamma(D^+\to
+\pi^+\pi^0)/\Gamma(D^+\to\bar{K}^0 \pi^+)=3.29\pm 1.16$ and
+$R_2=|V_{cs}^*V_{ud}/(V_{cd}^*V_{us})|^2\Gamma(D^0\to
+  K^+\pi^-)/\Gamma(D^0\to K^-\pi^+)=2.92\pm 1.34\,$. Both are about three times
+of those expected from SU(3) symmetry. We show that, in the large-$N_c$
+factorization approach, such large SU(3) violations can be accounted for by the
+accumulations of several small SU(3)-breaking effects. An important requirement
+is the relative magnitude of the form factors, $f_+^{D\pi}(0)>f_+^{DK}(0)$.
+","[{""version"":""v1"",""created"":""Sat, 2 Apr 1994 13:36:32 GMT""}]","2009-10-28"
+"hep-th/9404004","Andrei Matytsin","David J. Gross and Andrei Matytsin","Instanton Induced Large $N$ Phase Transitions in Two and Four
+  Dimensional QCD","24 pages Some changes have been made and references added","Nucl.Phys. B429 (1994) 50-74","10.1016/S0550-3213(94)80041-3",,"hep-th",,"  The $1/N$ expansion of the weak coupling phase of two-dimensional QCD on a
+sphere is constructed. It is demonstrated that the phase transition from the
+weak to the strong coupling phase is induced by instantons. A double scaling
+limit of the theory at the point of the phase transition is constructed, the
+value of string susceptibility is determined to be $\gamma_{str}=-1$. The
+possibility of instanton induced large $N$ phase transitions in four
+dimensional QCD is explored.
+","[{""version"":""v1"",""created"":""Fri, 1 Apr 1994 22:03:02 GMT""},{""version"":""v2"",""created"":""Mon, 25 Apr 1994 20:43:46 GMT""}]","2009-10-28"
+"hep-th/9404005","Andrei Mironov","A.Mironov, A.Morozov, G.Semenoff","Unitary matrix integrals in the framework of Generalized Kontsevich
+  Model. I. Brezin-Gross-Witten Model","FIAN/TD-16/93, ITEP-M6/93, UBC/S-93/93 (39 pages)","Int.J.Mod.Phys. A11 (1996) 5031-5080","10.1142/S0217751X96002339",,"hep-th",,"  We advocate a new approach to the study of unitary matrix models in external
+fields which emphasizes their relationship to Generalized Kontsevich Models
+(GKM) with non-polynomial potentials. For example, we show that the partition
+function of the Brezin-Gross-Witten Model (BGWM), which is defined as an
+integral over unitary $N\times N$ matrices, $\int [dU] e^{\rm{Tr}(J^\dagger U +
+JU^\dagger)}$, can also be considered as a GKM with potential ${\cal V}(X) =
+\frac{1}{X}$. Moreover, it can be interpreted as the generating functional for
+correlators in the Penner model. The strong and weak coupling phases of the
+BGWM are identified with the ""character"" (weak coupling) and ""Kontsevich""
+(strong coupling) phases of the GKM, respectively. This sort of GKM deserves
+classification as $p=-2$ one (i.e. $c=28$ or $c=-2$) when in the Kontsevich
+phase. This approach allows us to further identify the
+Harish-Chandra-Itzykson-Zuber (IZ) integral with a peculiar GKM, which arises
+in the study of $c=1$ theory and, further, with a conventional 2-matrix model
+which is rewritten in Miwa coordinates. Inspired by the considered unitary
+matrix models, some further extensions of the GKM treatment which are inspired
+by the unitary matrix models which we have considered are also developed. In
+particular, as a by-product, a new simple method of fixing the Ward identities
+for matrix models in an external field is presented.
+","[{""version"":""v1"",""created"":""Fri, 1 Apr 1994 23:08:30 GMT""},{""version"":""v2"",""created"":""Tue, 18 Jan 2005 15:39:08 GMT""}]","2009-10-28"
+"hep-th/9404006",,"R. Kallosh and T. Ortin","Supersymmetry, Trace Anomaly and Naked Singularities","11 pages. Latex file",,,"Newton Institute Preprint NI94002, Queen Mary and Westfield College
+  Preprint QMW-PH-94-7, Stanford University Preprint SU-ITP-94-8","hep-th gr-qc",,"  We discuss stationary supersymmetric bosonic configurations of the
+Einstein-Maxwell theory embedded in $N=2$ supergravity. Some of these
+configurations, including the Kerr-Newman solutions with $m = |q|$ and
+arbitrary angular momentum per unit mass $a$, exhibit naked singularities.
+However, $N=2$ supergravity has trace anomaly. The nonvanishing anomalous
+energy-momentum tensor of these Kerr-Newman solutions violates a consistency
+condition for a configuration to admit unbroken supersymmetry. Thus, the trace
+anomaly of this theory prevents the supersymmetric solutions from exhibiting
+naked singularities.
+","[{""version"":""v1"",""created"":""Sat, 2 Apr 1994 00:44:35 GMT""}]","2007-05-23"
+"hep-th/9404007","Philippe Zaugg","Philippe Zaugg","The quantum 2-dimensional Poincare group from quantum group contraction","8 pages","J.Math.Phys. 36 (1995) 1547-1553","10.1063/1.531137","MIT-CTP-2294","hep-th math.QA",,"  A new derivation of the quantum deformation of the 2 dimensional Euclidean
+Poincare group (cf S. Zakrzewski) is proposed. It is based on a contraction of
+the Hopf algebra Fun(SO_q(3)). The deformation parameter q is sent to one, as
+in the construction of the $\kappa$-Poincare deformed algebra. The quantum
+group obtained is dual to that algebra.
+","[{""version"":""v1"",""created"":""Sat, 2 Apr 1994 02:32:16 GMT""}]","2009-10-28"
+"hep-th/9404008","Larus Thorlacius","J. Polchinski and L. Thorlacius","Free Fermion Representation of a Boundary Conformal Field Theory","latex, 12 pages","Phys.Rev.D50:622-626,1994","10.1103/PhysRevD.50.R622","NSF-ITP-94-29","hep-th",,"  The theory of a massless two-dimensional scalar field with a periodic
+boundary interaction is considered. At a critical value of the period this
+system defines a conformal field theory and can be re-expressed in terms of
+free fermions, which provide a simple realization of a hidden $SU(2)$ symmetry
+of the original theory. The partition function and the boundary $S$-matrix can
+be computed exactly as a function of the strength of the boundary interaction.
+We first consider open strings with one interacting and one Dirichlet boundary,
+and then with two interacting boundaries. The latter corresponds to motion in a
+periodic tachyon background, and the spectrum exhibits an interesting band
+structure which interpolates between free propagation and tight binding as the
+interaction strength is varied.
+","[{""version"":""v1"",""created"":""Sat, 2 Apr 1994 03:01:16 GMT""}]","2009-10-09"

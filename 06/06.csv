@@ -1,0 +1,254 @@
+"astro-ph/9406011","Ofer Lahav","Ofer Lahav","Wiener Reconstruction of All-Sky Spherical Harmonic Maps of the Large
+  Scale Structure","to appear in the Proceedings of the 4th DAEC meeting (Meudon, Jan
+  1994) `Unveiling Large Scale Structures behind the Milky-Way', eds. C.
+  Balkowski \& R.C. Kraan-Korteweg, in press (A.S.P.), 13 pages + 4 figures,
+  uuencoded postscript file, IoA-ZOA2",,,,"astro-ph",,"  A statistical method for reconstructing large scale structure behind the Zone
+of Avoidance is presented. It also corrects for shot-noise and for redshift
+distortion in galaxy surveys. The galaxy distribution is expanded in an
+orthogonal set of spherical harmonics. We show that in the framework of
+Bayesian statistics and Gaussian random fields the $4 \pi$ harmonics can be
+recovered and the shot-noise can be suppressed, giving the optimal picture of
+the underlying density field. The correction factor from observed to
+reconstructed harmonics turns out to be the well-known Wiener filter (the ratio
+of signal to signal+noise), which is also derived by requiring minimum
+variance. We apply the method to the 1.2 Jy IRAS survey. A reconstruction of
+the projected galaxy distribution confirms the connectivity of the
+Supergalactic Plane across the Galactic Plane (at Galactic longitude $l \sim
+135^o$ and $l \sim 315^o$) and the Puppis cluster behind the Galactic Plane ($
+l \sim 240^o$). The method is extended to 3-D, and is used to recover from the
+1.2 Jy redshift survey the density, velocity and potential fields in the local
+universe.
+","[{""version"":""v1"",""created"":""Sun, 5 Jun 1994 18:40:00 GMT""}]","2007-05-23"
+"astro-ph/9406012","Tsvi Piran","Ehud Cohen, Tsafrir Kolatt and Tsvi Piran (Racah Institute for
+  Physics, The Hebrew University, Jerusalem, Israel)","New Evidence for the Cosmological Origin of Gama-Ray Bursts","uuencoded postscript file (9 pages, 4 figures)",,,,"astro-ph",,"  We compare the burst distribution of the new (2B) BATSE catalogue to a
+cosmological distribution. We find that the distribution is insensitive to
+cosmological parameters such as Omega and Lambda and to the width of the bursts
+luminosity function. The maximal red shift of the long bursts is ~2.1 (assuming
+no evolution) while Zm(long) of the short bursts is significantly lower
+Zm(short) =~ 0.5 In agreement with this relatively nearby origin of the short
+burst we find an indication that these bursts are correlated ( >=2 sigma level
+at 10 degrees) with Abell clusters. This is the first known correlation of the
+bursts with any other astrophysical population and if confirmed by further
+observations it will provides additional evidence for the cosmological origin
+of those bursts.
+","[{""version"":""v1"",""created"":""Mon, 6 Jun 1994 10:42:49 GMT""},{""version"":""v2"",""created"":""Thu, 9 Jun 1994 10:22:05 GMT""}]","2009-09-25"
+"astro-ph/9406013","Eric Hivon","F.R. Bouchet, S. Colombi, E. Hivon, R. Juszkiewicz","Perturbative Lagrangian Approach to Gravitational Instability","35 p. 16 fig., uuencoded ps file. + 2 fig. available via ftp.iap.fr
+  on /pub/from_users/hivon/lagrange/. ## modified 7 Jun, to fit US letter paper
+  size","Astron.Astrophys.296:575,1995",,,"astro-ph",,"  This paper deals with the time evolution in the matter era of perturbations
+in Friedman-Lemaitre models with arbitrary density parameter $\Omega$, with
+either a zero cosmological constant, $\Lambda = 0$, or with a non-zero
+cosmological constant in a spatially flat Universe. Unlike the classical
+Eulerian approach where the density contrast is expanded in a perturbative
+series, this analysis relies instead on a perturbative expansion of particles
+trajectories in Lagrangian coordinates. This brings a number of advantages over
+the classical analysis. In particular, it enables the description of stronger
+density contrasts. Indeed the linear term is the famous Zel'dovich approximate
+solution (1970). We present here a systematic and detailed account of this
+approach. We give analytical results (or fits to numerical results) up to the
+third order. We then proceed to explore the link between the lagrangian
+description and statistical measures. We show in particular that Lagrangian
+perturbation theory provides a natural framework to compute the effect of
+redshift distortions, using the skewness of the density distribution function
+as an example. Finally, we show how well the second order theory does as
+compared to other approximat- ions in the case of spherically symmetric
+perturbations. We also compare this second order approximation and Zel'dovich
+solution to N-body simulations in the description of large-scale structure
+formation starting from a power law (n=-2) power spectrum of Gaussian
+perturbation. We find that second order theory is both simple and powerful.
+","[{""version"":""v1"",""created"":""Mon, 6 Jun 1994 10:30:24 GMT""},{""version"":""v2"",""created"":""Tue, 7 Jun 1994 19:12:01 GMT""}]","2011-05-23"
+"astro-ph/9406014","Alejandro Gangui","Alejandro Gangui","Non--Gaussian Effects in the Cosmic Microwave Background from Inflation","To appear in Physical Review D ; 17pp LaTeX; now including 5 figures
+  in one PostScript file appended at the end ; SISSA REF.73/94/A","Phys.Rev. D50 (1994) 3684-3691","10.1103/PhysRevD.50.3684",,"astro-ph",,"  The presence of non--Gaussian features in the Cosmic Microwave Background
+(CMB) radiation maps represents one of the most long--awaited clues in the
+search for the actual structure of the primordial radiation, still needing
+confirmation. These features could shed some light on the non trivial task of
+distinguishing the real source of the primeval perturbations leading to large
+scale structure. One of the simplest non--Gaussian signals to search is the
+(dimensionless) skewness ${\cal S}$. Explicit computations for ${\cal S}$ are
+presented in the frame of physically motivated inflationary models (natural,
+intermediate and polynomial potential inflation) in the hope of finding values
+in agreement with estimated quantities from large angle scale (e.g., {\em COBE}
+DMR) maps. In all the cases considered the non--Gaussian effects turn out to
+lie below the level of theoretical uncertainty (cosmic variance). The
+possibility of unveiling the signal for ${\cal S}$ with multiple--field models
+is also discussed.
+","[{""version"":""v1"",""created"":""Mon, 6 Jun 1994 13:13:12 GMT""},{""version"":""v2"",""created"":""Mon, 18 Jul 1994 16:10:43 GMT""}]","2009-10-22"
+"cmp-lg/9406013","Albert E. Kim","Albert Kim (University of Pennsylvania)","Graded Unification: A Framework for Interactive Processing","3 pages, To appear in ACL-94 Student Session, Postscript file;
+  extract with Unix uudecode and uncompress",,,,"cmp-lg cs.CL",,"  An extension to classical unification, called {\em graded unification} is
+presented. It is capable of combining contradictory information. An interactive
+processing paradigm and parser based on this new operator are also presented.
+","[{""version"":""v1"",""created"":""Sun, 5 Jun 1994 17:00:57 GMT""}]","2008-02-03"
+"cond-mat/9406026","Bob Markiewicz","R.S. Markiewicz (Physics Department and Barnett Institute,
+  Northeastern University)","Van Hove Exciton-Cageons and High-T$_c$ Superconductivity, XA: Role of
+  Spin-Orbit Coupling in Generating a Diabolical Point","52 pages RevTeX, 18 figures available upon request",,"10.1016/0921-4534(94)90413-8","MARK-94-01","cond-mat",,"  Spin-orbit coupling plays a large role in stabilizing the low-temperature
+orthorhombic phase of La$_{2-x}$Sr$_x$CuO$_4$. It splits the degeneracy of the
+van Hove singularities (thereby stabilizing the distorted phase) and completely
+changes the shape of the Fermi surfaces, potentially introducing diabolical
+points into the band structure. The present paper gives a detailed account of
+the resulting electronic structure.
+  A slave boson calculation shows how these results are modified in the
+presence of strong correlation effects. A scaling regime, found very close to
+the metal-insulator transition, allows an analytical determination of the
+crossover, in the limit of zero oxygen-oxygen hopping, $t_{OO}\rightarrow 0$.
+Extreme care must exercised in chosing the parameters of the three-band model.
+In particular, $t_{OO}$ is renormalized from its LDA value. Furthermore, it is
+suggested that the slave boson model be spin-corrected, in which case the
+system is close to a metal-insulator transition at half filling.
+","[{""version"":""v1"",""created"":""Mon, 6 Jun 1994 15:39:50 GMT""}]","2016-08-31"
+"cond-mat/9406027","Axel Hoffmann","A. Hoffmann, P. Lemmens, G. Guentherodt, V. Thomas, K. Winzer","Electronic Raman scattering of Tl-2223 and the symmetry of the supercon-
+  ducting gap","2 pages, Postscript-file including 2 figures. Accepted for
+  publication in the Proceedings of the M^2SHTSC IV Conference, Grenoble
+  (France), 5-9 July 1994. Proceedings to be published in Physica C. Contact
+  address: ahoff@phys2.rwth-aachen.de",,"10.1016/0921-4534(94)92170-9",,"cond-mat",,"  Single crystalline Tl2Ba2Ca2Cu3O10 was studied using electronic Raman
+scattering. The renormalization of the scattering continuum was investigated as
+a function of the scattering geometry to determine the superconducting energy
+gap 2Delta(k). The A1g- and B2g-symmetry component show a linear frequency
+behaviour of the scattering intensity with a peak related to the energy gap,
+while the B1g-symmetry component shows a characteristic behaviour at higher
+frequencies. The observed frequency dependencies are consistent with a
+dx^2-y^2-wave symmetry of the gap and yield a ratio of 2Delta/k_BT_c=7.4. With
+the polarization of the scattered and incident light either parallel or
+perpendicular to the CuO2-planes a strong anisotropy due to the layered
+structure was detected, which indicates an almost 2 dimensional behaviour of
+this system.
+","[{""version"":""v1"",""created"":""Mon, 6 Jun 1994 15:24:40 GMT""}]","2009-10-22"
+"gr-qc/9406010",,"Alexander Vilenkin","Predictions from Quantum Cosmology","(revised version), 15 pages","Phys.Rev.Lett.74:846-849,1995","10.1103/PhysRevLett.74.846",,"gr-qc astro-ph hep-th",,"  The world view suggested by quantum cosmology is that inflating universes
+with all possible values of the fundamental constants are spontaneously created
+out of nothing. I explore the consequences of the assumption that we are a
+`typical' civilization living in this metauniverse. The conclusions include
+inflation with an extremely flat potential and low thermalization temperature,
+structure formation by topological defects, and an appreciable cosmological
+constant.
+","[{""version"":""v1"",""created"":""Mon, 6 Jun 1994 10:35:27 GMT""},{""version"":""v2"",""created"":""Thu, 27 Oct 1994 22:06:00 GMT""}]","2010-11-01"
+"hep-ex/9406002","Vladimir Nechitailo","I.M. Dremin and V.A. Nechitailo (P.N.Lebedev Physical Institute,
+  Moscow, Russia)","Average Multiplicities in Gluon and Quark Jets in Higher-Order
+  Perturbative QCD","Submitted to Mod. Phys. Lett.A Latex document, 10 pages. Preprint
+  number FIAN TD-3 March 1994","Mod.Phys.Lett. A9 (1994) 1471-1478","10.1142/S0217732394001301",,"hep-ex",,"  The ratio of average multiplicities in gluon and quark jets is shown to
+become noticeably smaller in higher-order QCD compared to its lowest order
+value what improves agreement with experiment.
+  QCD anomalous dimension has been calculated. It has been used to get energy
+dependence of mean multiplicities.
+","[{""version"":""v1"",""created"":""Mon, 6 Jun 1994 07:58:07 GMT""}]","2015-06-25"
+"hep-ph/9406229",,"N.N.Nikolaev, B.G.Zakharov and V.R.Zoller","Why more hadronlike photons produce less particles on nuclear targets","28 pages, 7 figures (to be requested from
+  kph154@zam001.zam.kfa-juelich.de), Juelich preprint KFA-IKP(TH)-1994-13",,,,"hep-ph nucl-th",,"  In hadron-nucleus interactions, the stronger is nuclear shadowing in the
+total cross section the higher is the multiplicity of secondary hadrons. In
+deep inelastic scattering, nuclear shadowing at small $x$ is associated with
+the hadronlike behaviour of photons as contrasted to the pointlike behaviour in
+the non-shadowing region of large $x$. In this paper we predict smaller mean
+multiplicity of secondary hadrons, and weaker fragmentation of the target
+nucleus, in deep inelastic leptoptoproduction on nuclei in the shadowing region
+of small $x$ as compared to the non-shadowing region of large $x$. This
+paradoxial conclusion has its origin in nuclear enhancement of the coherent
+diffraction dissociation of photons. We present numerical predictions for
+multiproduction in $\mu Xe$ interactions studied by the Fermilab E665
+collaboration.
+","[{""version"":""v1"",""created"":""Sun, 5 Jun 1994 19:21:18 GMT""}]","2009-09-25"
+"hep-ph/9406230",,"O.K.Kalashnikov","The Spectral Density Method Applied to the Hot Quantum Field Theories","6 pages, LaTeX, Yukawa Institute Preprint YITP/K-1075 (June 1994)",,,,"hep-ph",,"  The spectral density method being applied to the quantum field theory at
+finite temperature is revived and its possibilities are briefly discussed.
+","[{""version"":""v1"",""created"":""Mon, 6 Jun 1994 07:32:53 GMT""}]","2007-05-23"
+"hep-ph/9406231","Igor Dremin","I.M. Dremin (P.N.Lebedev Physical Institute, Moscow, Russia)","Quantum Chromodynamics and Multiplicity Distributions","Submitted to Physics - Uspekhi Latex document, 60 pages. Preprint
+  number FIAN TD-6, 1994","Phys.Usp.37:715-736,1994; Usp.Fiz.Nauk 164:785-809,1994","10.1070/PU1994v037n08ABEH000037",,"hep-ph",,"  Quantum chromodymamics (QCD) approach to the problem of multiplicity
+distributions in high energy particle collisions is described. The solutions of
+QCD equations for generating functions of the multiplicity distributions in
+gluon and quark jets are presented for both fixed and running coupling
+constants. The newly found characteristics very sensitive to distribution
+shapes is discussed. The predictions are confronted to experimental data.
+Evolution of the multiplicity distributions with decreasing phase space windows
+is considered and discussed in connection to the notions of intermittency and
+fractality. Some other QCD effects are briefly described.
+","[{""version"":""v1"",""created"":""Mon, 6 Jun 1994 08:20:14 GMT""}]","2010-12-17"
+"hep-ph/9406233","Roberto Pittau","R. Pittau","Four quark processes at LEP 200","9 pages, INLO-PUB-8/94","Phys.Lett. B335 (1994) 490-493","10.1016/0370-2693(94)90382-4",,"hep-ph",,"  In this paper I investigate the production of four quarks at LEP 200
+energies. Effects due to initial state QED corrections and background diagrams,
+including QCD contributions, are studied and examples of results obtained with
+an event generator presented.
+","[{""version"":""v1"",""created"":""Mon, 6 Jun 1994 09:02:16 GMT""}]","2009-10-28"
+"hep-th/9406026","Tien Kieu","Tien D Kieu","What's Wrong with Anomalous Chiral Gauge Theory?","9 A4 pages in LATEX, talk given at the First Symposium on Symmetries
+  in Subatomic Physics, Taipei, 16-18 May, 1994, UM-P-94/58 and RCHEP-94/16","Chin.J.Phys.32:1099-1108,1994",,,"hep-th hep-lat hep-ph",,"  It is argued on general ground and demonstrated in the particular example of
+the Chiral Schwinger Model that there is nothing wrong with apparently
+anomalous chiral gauge theory. If quantised correctly, there should be no gauge
+anomaly and chiral gauge theory should be renormalisable and unitary, even in
+higher dimensions and with non-abelian gauge groups. Furthermore, mass terms
+for gauge bosons and chiral fermions can be generated without spoiling the
+gauge invariance.
+","[{""version"":""v1"",""created"":""Mon, 6 Jun 1994 04:03:06 GMT""}]","2011-04-15"
+"hep-th/9406027",,"I.L. Shapiro and G. Cognola","Interaction of Low - Energy Induced Gravity with Quantized Matter and
+  Phase Transition Induced by Curvature","11 pages, LaTex, KEK-TH-397-KEK Preprint 94-33","Phys.Rev.D51:2775-2781,1995","10.1103/PhysRevD.51.2775",,"hep-th",,"  At high energy scale the only quantum effect of any asymptotic free and
+asymptotically conformal invariant GUT is the trace anomaly of the
+energy-momentum tensor. Anomaly generates the new degree of freedom, that is
+propagating conformal factor. At lower energies conformal factor starts to
+interact with scalar field because of the violation of conformal invariance. We
+estimate the effect of such an interaction and find the running of the
+nonminimal coupling from conformal value $\frac{1}{6}$ to $0$. Then we discuss
+the possibility of the first order phase transition induced by curvature in a
+region close to the stable fixed point and calculate the induced values of
+Newtonian and cosmological constants.
+","[{""version"":""v1"",""created"":""Mon, 6 Jun 1994 07:50:48 GMT""}]","2009-02-25"
+"hep-th/9406028","L. Papantonopoulos","G.A. Diamandis, B.C. Georgalas and E. Papantonopoulos","Tachyon Effects on the 2-Dim Black Hole Geometry","NTUA 45/94, Pages 11, Latex, 3 Figures on request","Mod.Phys.Lett. A10 (1995) 1277-1286","10.1142/S0217732395001393",,"hep-th",,"  We study solutions of the tree level string effective action in the presence
+of the tachyon mode.We find that the 2-dim. static black hole is stable against
+tachyonic perturbations.For a particular ansatz for the tachyon field we find
+an exact solution of the equations of motion which exhibits a naked
+singularity.In the case of static fields we find numerically that the full
+system has a black hole solution,with the tachyon regular at the horizon.
+","[{""version"":""v1"",""created"":""Mon, 6 Jun 1994 08:38:32 GMT""}]","2019-08-17"
+"hep-th/9406029",,"H.J.de Vega and N. S\'anchez","Back Reaction of Strings in Self-Consistent String Cosmology","29 pages, revtex, LPTHE-94-21","Phys.Rev. D50 (1994) 7202-7215","10.1103/PhysRevD.50.7202",,"hep-th astro-ph gr-qc hep-ph",,"  We compute the string energy-momentum tensor and {\bf derive} the string
+equation of state from exact string dynamics in cosmological spacetimes.
+$1+1,~2+1$ and $D$-dimensional universes are treated for any expansion factor
+$R$. Strings obey the perfect fluid relation $ p = (\gamma -1) \rho $ with
+three different behaviours: (i) {\it Unstable} for $ R \to \infty $ with
+growing energy density $ \rho \sim R^{2-D} $, {\bf negative} pressure, and $
+\gamma =(D-2)/(D-1) $; (ii){\it Dual} for $ R \to 0 $, with $ \rho \sim R^{-D}
+$, {\bf positive} pressure and $\gamma = D/(D-1) $ (as radiation); (iii) {\it
+Stable} for $ R \to \infty $ with $ \rho \sim R^{1-D} $, {\bf vanishing}
+pressure and $\gamma = 1 $ (as cold matter). We find the back reaction effect
+of these strings on the spacetime and we take into account the quantum string
+decay through string splitting. This is achieved by considering {\bf
+self-consistently} the strings as matter sources for the Einstein equations, as
+well as for the complete effective string equations. String splitting
+exponentially suppress the density of unstable strings for large $R$. The
+self-consistent solution to the Einstein equations for string dominated
+universes exhibits the realistic matter dominated behaviour $ R \sim
+(X^0)^{2/(D-1)}\; $ for large times and the radiation dominated behaviour $ R
+\sim (X^0)^{2/D}\; $ for early times. De Sitter universe does not emerge as
+solution of the effective string equations. The effective string action
+(whatever be the dilaton, its potential and the central charge term) is not the
+appropriate framework in which to address the question of string driven
+inflation.
+","[{""version"":""v1"",""created"":""Mon, 6 Jun 1994 12:28:10 GMT""}]","2009-10-28"
+"hep-th/9406030","Guy Bonneau","Guy Bonneau","B.R.S. renormalisation of some on-shell closed algebras of symmetry
+  transformations : the example of supersymmetric non-linear sigma models : the
+  N=1 case","22 pages, latex, PAR/LPTHE/94-10","Helv.Phys.Acta 67 (1994) 930-953",,,"hep-th",,"  In order to study in a regularisation free manner the renormalisability of
+d=2 supersymmetric non-linear $\si$ models, one has to use the algebraic BRS
+methods ; moreover, in the absence of an off-shell formulation, one has often
+to deal with open algebras. We then recall in a pedagogical and non technical
+manner the standard methods used to handle these questions and illustrate them
+on N=1 supersymmetric non-linear $\si$ model in component fields, giving the
+first rigorous proof of their renormalisability. In the special case of compact
+homogeneous manifolds (non-linear $\si$ model on a coset space G/H), we obtain
+the supersymmetric extension of the analysis done some years ago in the bosonic
+case. A further publication will be devoted to extended supersymmetry.
+","[{""version"":""v1"",""created"":""Mon, 6 Jun 1994 12:42:39 GMT""}]","2007-05-23"
+"hep-th/9406031","Guy Bonneau","Guy Bonneau","B.R.S. renormalisation of some on-shell closed algebras of symmetry
+  transformations : N=2 and 4 supersymmetric non-linear sigma models","22 pages, latex, PAR/LPTHE/94-11","Helv.Phys.Acta 67:954-991,1994",,,"hep-th",,"  We analyse with the algebraic, regularisation independant, cohomological
+B.R.S. methods, the renormalisability of torsionless N=2 and N= 4
+supersymmetric non-linear $\si$ models built on K\""ahler spaces. Surprisingly
+enough with respect to the common wisdom, in the case of N=2 supersymmetry, we
+obtain an anomaly candidate, at least in the compact K\""ahler Ricci-flat case.
+If its coefficient does differ from zero, such anomaly would imply the breaking
+of global N=2 supersymmetry and get into trouble some schemes of superstring
+compactification as such non-linear $\si$ models offer candidates for the
+superstring vacuum state. In the compact homogeneous K\""ahler case, as
+expected, the anomaly candidate disappears. The same phenomena occurs when one
+enforces N=4 supersymmetry : in that case, we obtain the first rigorous proof
+of the expected all-orders renormalisability -`` in the space of metrics""- of
+the corresponding non-linear $\si$ models. PAR/LPTHE/94-11
+","[{""version"":""v1"",""created"":""Mon, 6 Jun 1994 12:59:52 GMT""}]","2014-11-18"
+"math/9406221",,"Holger Dette","Characterizations of generalized Hermite and sieved ultraspherical
+  polynomials",,,,"OP-SF 6 Jun 1994","math.CA",,"  A new characterization of the generalized Hermite polynomials and of the
+orthogonal polynomials with respect to the maesure $|x|^\g (1-x^2)^{\a-1/2}dx$
+is derived which is based on a ""reversing property"" of the coefficients in the
+corresponding recurrence formulas and does not use the representation in terms
+of generalized Laguerre and Jacobi polynomials. A similar characterization can
+be obtained for a generalization of the sieved ultraspherical polynomials of
+the first and second kind. These results are applied in order to determine the
+asymptotic limit distribution for the zeros when the degree and the parameters
+tend to infinity with the same order.
+","[{""version"":""v1"",""created"":""Mon, 6 Jun 1994 00:00:00 GMT""}]","2008-02-03"

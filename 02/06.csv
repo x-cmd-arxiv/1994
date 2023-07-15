@@ -1,0 +1,35 @@
+"cond-mat/9402026",,"V. E. Kravtsov, I. V. Lerner, B. L. Altshuler, A. G. Aronov","Universal Spectral Correlations at the Mobility Edge","REVTeX, 12pages, +1 postscript figure (included)",,"10.1103/PhysRevLett.72.888",,"cond-mat",,"  We demonstrate the level statistics in the vicinity of the Anderson
+transition in $d>2$ dimensions to be universal and drastically different from
+both Wigner-Dyson in the metallic regime and Poisson in the insulator regime.
+The variance of the number of levels $N$ in a given energy interval with
+$\langle N\rangle\gg1$ is proved to behave as $\langle N\rangle^\gamma$ where
+$\gamma=1-(\nu d)^{-1}$ and $\nu$ is the correlation length exponent. The
+inequality $\gamma<1$, shown to be required by an exact sum rule, results from
+nontrivial cancellations (due to the causality and scaling requirements) in
+calculating the two-level correlation function.
+","[{""version"":""v1"",""created"":""Sat, 5 Feb 1994 17:40:00 GMT""},{""version"":""v2"",""created"":""Sat, 5 Feb 1994 18:40:00 GMT""}]","2009-10-22"
+"cond-mat/9402027",,"A. G. Aronov, V. E. Kravtsov, I. V. Lerner","The Level Spacing Distribution Near the Anderson Transition","REVTeX, 8 pages, no figures",,,,"cond-mat",,"  For a disordered system near the Anderson transition we show that the
+nearest-level-spacing distribution has the asymptotics $P(s)\propto \exp(-A
+s^{2-\gamma })$ for $s\gg \av{s}\equiv 1$ which is universal and intermediate
+between the Gaussian asymptotics in a metal and the Poisson in an insulator.
+(Here the critical exponent $0<\gamma<1$ and the numerical coefficient $A$
+depend only on the dimensionality $d>2$). It is obtained by mapping the energy
+level distribution to the Gibbs distribution for a classical one-dimensional
+gas with a pairwise interaction. The interaction, consistent with the universal
+asymptotics of the two-level correlation function found previously, is proved
+to be the power-law repulsion with the exponent $-\gamma$.
+","[{""version"":""v1"",""created"":""Sat, 5 Feb 1994 17:47:00 GMT""}]","2007-05-23"
+"cond-mat/9402028",,"I.V. Lerner","Distributions of the Diffusion Coefficient for the Quantum and Classical
+  Diffusion in Disordered Media","REVTeX, 20 pages, no figures",,,,"cond-mat",,"  It is shown that the distribution functions of the diffusion coefficient are
+very similar in the standard model of quantum diffusion in a disordered metal
+and in a model of classical diffusion in a disordered medium: in both cases the
+distribution functions have lognormal tails, their part increasing with the
+increase of the disorder. The similarity is based on a similar behaviour of the
+high-gradient operators determining the high-order cumulants. The one-loop
+renormalization-group corrections make the anomalous dimension of the operator
+that governs the $s$-th cumulant proportional to $s(s-1)$ thus overtaking for
+large $s$ the negative normal dimension. As behaviour of the ensemble-averaged
+diffusion coefficient is quite different in these models, it suggests that a
+possible universality in the distribution functions is independent of the
+behaviour of average quantities.
+","[{""version"":""v1"",""created"":""Sat, 5 Feb 1994 18:49:00 GMT""}]","2007-05-23"

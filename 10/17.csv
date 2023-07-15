@@ -1,0 +1,292 @@
+"astro-ph/9410049",,"Scott Koranda and Bruce Allen","CBR Anisotropy from Primordial Gravitational Waves in Two-Component
+  Inflationary Cosmology","28 pgs + 6 postscript figures, RevTex","Phys.Rev. D52 (1995) 1902-1919","10.1103/PhysRevD.52.1902","WISC-MILW-94-TH-18","astro-ph",,"  We examine stochastic temperature fluctuations of the cosmic background
+radiation (CBR) arising via the Sachs-Wolfe effect from gravitational wave
+perturbations produced in the early universe. We consider spatially flat,
+perturbed FRW models that begin with an inflationary phase, followed by a mixed
+phase containing both radiation and dust. The scale factor during the mixed
+phase takes the form $a(\eta)=c_1\eta^2+c_2\eta+c_3$, where $c_i$ are
+constants. During the mixed phase the universe smoothly transforms from being
+radiation to dust dominated. We find analytic expressions for the graviton mode
+function during the mixed phase in terms of spheroidal wave functions. This
+mode function is used to find an analytic expression for the multipole moments
+$\langle a_l^2\rangle$ of the two-point angular correlation function
+$C(\gamma)$ for the CBR anisotropy. The analytic expression for the multipole
+moments is written in terms of two integrals, which are evaluated numerically.
+The results are compared to multipoles calculated for models that are {\it
+completely} dust dominated at last-scattering. We find that the multipoles
+$\langle a_l^2\rangle$ of the CBR temperature perturbations for $l>10$ are
+significantly larger for a universe that contains both radiation and dust at
+last-scattering. We compare our results with recent, similar numerical work and
+find good agreement. The spheroidal wave functions may have applications to
+other problems of cosmological interest.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 15:40:00 GMT""},{""version"":""v2"",""created"":""Mon, 17 Oct 1994 15:54:00 GMT""},{""version"":""v3"",""created"":""Thu, 20 Oct 1994 11:25:00 GMT""}]","2009-10-22"
+"cond-mat/9410050","Yang Chen","Kasper Eriksen and Yang Chen","Universal Parametric Correlations of Eigenvalues of Random Matrix
+  Ensemble","23 pages, latex","J. Phys. A>. Math. Gen. 28 (1995) 1627","10.1088/0305-4470/28/6/017",,"cond-mat",,"  Eigenvalue correlations of random matrix ensembles as a function of an
+external perturbation are investigated vis the Dyson Brownian Motion Model in
+the situation where the level density has a hard edge singularity. By solving a
+linearized hydrodynamical equation, a universal dependence of the
+density-density correlator on the external field is found. As an application we
+obtain a formula for the variance of linear statistics with the parametric
+dependence exhibited as a Laplace transform.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 13:42:59 GMT""}]","2009-10-22"
+"cond-mat/9410051",,"Giuseppe Santoro, Marco Airoldi, Nicola Manini, Erio Tosatti, Alberto
+  Parola","The Phase Diagram of Correlated Electrons in a Lattice of Berry
+  Molecules","7 pages + 2 ps figures, published version","Phys. Rev. Lett. 74, 4039 (1995)","10.1103/PhysRevLett.74.4039",,"cond-mat",,"  A model for correlated electrons in a lattice with local additional spin--1
+degrees of freedom inducing constrained hopping, is studied both in the low
+density limit and at quarter filling. We show that in both 1D and 2D two
+particles form a bound state even in presence of a repulsive U<U_c. A picture
+of a dilute Bose gas, leading to off-diagonal long range order (LRO) in 2D
+(quasi-LRO in 1D), is supported by quantitative calculations in 1D which allow
+for a determination of the phase diagram.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 13:32:34 GMT""},{""version"":""v2"",""created"":""Tue, 30 May 2000 12:32:35 GMT""}]","2009-10-22"
+"funct-an/9410004","Roland Speicher","Marek Bozejko, Michael Leinert, Roland Speicher","Convolution and Limit Theorems for Conditionally Free Random Variables","26 pages (pictures from R. Speicher), AMS-TeX 3.0, HD-AM-BLS-01",,,,"funct-an math.OA",,"  We introduce the notion of a conditionally free product and conditionally
+free convolution. We describe this convolution both from a combinatorial point
+of view, by showing its connection with the lattice of non-crossing partitions,
+and from an analytic point of view, by presenting the basic formula for its
+$R$-transform. We calculate explicitly the distributions of the conditionally
+free Gaussian and conditionally free Poisson distribution.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 12:18:24 GMT""}]","2008-02-03"
+"gr-qc/9410019","Peter Marzlin","Karl-Peter Marzlin","The Dipole Coupling of Atoms and Light in Gravitational Fields","10 pages, LaTeX","Phys.Rev. A51 (1995) 625","10.1103/PhysRevA.51.625",,"gr-qc",,"  The dipole coupling term between a system of N particles with total charge
+zero and the electromagnetic field is derived in the presence of a weak
+gravitational field. It is shown that the form of the coupling remains the same
+as in flat space-time if it is written with respect to the proper time of the
+observer and to the measurable field components. Some remarks concerning the
+connection between the minimal and the dipole coupling are given.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 11:50:28 GMT""}]","2009-10-22"
+"gr-qc/9410020",,"A. H. Bilge, M. Hortacsu, N. Ozdemir","Particle Creation If a Cosmic String Snaps","10 pages, MRC.PH.17/94","Gen.Rel.Grav. 28 (1996) 511-525","10.1007/BF02105062",,"gr-qc",,"  We calculate the Bogolubov coefficients for a metric which describes the
+snapping of a cosmic string. If we insist on a matching condition for all times
+{\it and} a particle interpretation, we find no particle creation.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 15:21:53 GMT""}]","2015-06-25"
+"gr-qc/9410021","Jack Gegenberg","S. Carlip, J. Gegenberg, R.B.Mann","Black Holes in Three Dimensional Topological Gravity","14 pages, LateX, UNB Tech. Rep. 94-03, UCD- 94-36","Phys.Rev.D51:6854-6859,1995","10.1103/PhysRevD.51.6854",,"gr-qc",,"  We investigate the black hole solution to (2+1)-dimensional gravity coupled
+to topological matter, with a vanishing cosmological constant. We calculate the
+total energy, angular momentum and entropy of the black hole in this model and
+compare with results obtained in Einstein gravity. We find that the theory with
+topological matter reverses the identification of energy and angular momentum
+with the parameters in the metric, compared with general relativity, and that
+the entropy is determined by the circumference of the inner rather than the
+outer horizon. We speculate that this results from the contribution of the
+topological matter fields to the conserved currents. We also briefly discuss
+two new possible (2+1)-dimensional black holes.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 13:35:12 GMT""}]","2010-04-28"
+"gr-qc/9410022",,"A. H. Bilge, M. Hortacsu, N. Ozdemir","Do Cosmic Strings Give Rise to Vacuum Fluctuations ?","8 pages, MRC.PH-18/94, Plain Tex",,,,"gr-qc",,"  The role of the identification of the vacuum and non-vacuum space-times in
+the computation of vacuum fluctuations in the presence of a cosmic string is
+discussed and an alternative interpretation of the renormalization is proposed.
+This procedure does not give rise to vacuum fluctuations.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 15:34:36 GMT""}]","2007-05-23"
+"gr-qc/9410024",,"R. M. Avakian and G. Oganessyan","A New Formula for the Mass of a Stationary Axisymmetric Configuration","Plain Tex; 6 pages","Mod.Phys.Lett. A10 (1995) 841-844","10.1142/S0217732395000909",,"gr-qc",,"  It has been shown by one of the authors$^1$ that in isotropic spherical
+coordinates there is a relation between the mass of a static spherical
+gravitating body and the pressure distribution inside it. In this paper the
+result is generalized for the case of stationary axisymmetric configurations.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 11:17:00 GMT""}]","2015-06-25"
+"hep-ex/9410011",,"Chul Hi Park (Fermilab), D0 Collaboration","VLPC Characterization for the Dzero Upgrade","4",,,,"hep-ex",,"  We have studies the performance characteristics of approximately 4000 Visible
+Light Photon Counters(VLPC) over a range of operating temperatures and biases.
+We will describe the characterization procedure and present the measured gain,
+noise and the relative quantum efficiency for the devices. We will also discuss
+the general operation of the devices and the significant problems during the
+characterization.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 04:44:09 GMT""}]","2009-09-25"
+"hep-ph/9410297","Mohammad Ahmady","Mohammad R. Ahmady, Roberto R. Mendel and James D. Talman","The Isgur-Wise function in a relativistic model for $q\bar Q$ system","22 pages, Latex, 4 figures (not included) available by fax or via
+  email upon request","Phys.Rev.D52:254-263,1995","10.1103/PhysRevD.52.254",,"hep-ph",,"  We use the Dirac equation with a ``(asymptotically free) Coulomb + (Lorentz
+scalar) linear '' potential to estimate the light quark wavefunction for $
+q\bar Q$ mesons in the limit $m_Q\to \infty$. We use these wavefunctions to
+calculate the Isgur-Wise function $\xi (v.v^\prime )$ for orbital and radial
+ground states in the phenomenologically interesting range $1\leq v.v^ \prime
+\leq 4$. We find a simple expression for the zero-recoil slope, $\xi^ \prime
+(1) =-1/2- \epsilon^2 <{r_q}^2>/3$, where $\epsilon$ is the energy eigenvalue
+of the light quark, which can be identified with the $\bar\Lambda $ parameter
+of the Heavy Quark Effective Theory. This result implies an upper bound of
+$-1/2$ for the slope $\xi^\prime (1)$. Also, because for a very light quark $q
+(q=u, d)$ the size $\sqrt {<{r_q}^2>}$ of the meson is determined mainly by the
+``confining'' term in the potential $(\gamma_\circ \sigma r)$, the shape of
+$\xi_{u,d}(v.v^\prime )$ is seen to be mostly sensitive to the dimensionless
+ratio $\bar \Lambda_{u,d}^2/\sigma$. We present results for the ranges of
+parameters $150 MeV <\bar \Lambda_{u,d} <600 MeV$ $(\bar\Lambda_s \approx
+\bar\Lambda_{u,d}+100 MeV)$, $0.14 {GeV}^2 \leq \sigma \leq 0.25 {GeV}^2$ and
+light quark masses $m_u, m_d \approx 0, m_s=175 MeV$ and compare to existing
+experimental data and other theoretical estimates. Fits to the data give:
+${\bar\Lambda_{u,d}}^2/\sigma =4.8\pm 1.7 $, $-\xi^\prime_{u,d}(1)=2.4\pm 0.7$
+and $\vert V_{cb} \vert \sqrt {\frac {\tau_B}{1.48 ps}}=0.050\pm 0.008$ [ARGUS
+'93]; ${\bar\Lambda_{u,d}}^2/\sigma = 3.4\pm 1.8$, $-\xi^\prime_{u,d}(1)=1.8\pm
+0.7$ and $\vert V_{cb} \vert \sqrt { \frac {\tau_B}{1.48 ps}}=0.043\pm 0.008$
+[CLEO '93]; ${\bar\Lambda_{u,d}}^2/
+","[{""version"":""v1"",""created"":""Sun, 16 Oct 1994 23:01:49 GMT""}]","2010-11-01"
+"hep-ph/9410298","Hamzaoui","E. Boridy, C. Hamzaoui, F. Lemay and J. Lindig","A Detailed Analysis of a Modified Fritzsch Scheme of Quark Mass Matrices","22 pages",,,"UQAM-PHE/94-10, September 1994","hep-ph",,"  We investigate in detail a modified version of the Fritzsch scheme where the
+diagonal entries $(M_{u,d})_{22}$ are introduced as free parameters instead of
+being zero. We find that $(M_u)_{22}$ and $(M_d)_{22}$ are restricted to l in
+the range $m_u-m_c\leq (M_u)_{22}< m_t-m_c$ and $m_d-m_s\leq (M_d)_{22}<
+m_b-m_s$. In the context of this scheme, we obtain the ratio ${|V_{td}|\over
+|V_{ts}|}\approx\sqrt{{m_d\over m_s}}$ under quite general conditions whereas
+the ratio ${|V_{ub}|\over |V_{cb}|}$ is sensitive to the values of $(M_u)_{22}$
+and $(M_d)_{22}$. The two independent phases are found to take rather preferred
+values.
+","[{""version"":""v1"",""created"":""Sun, 16 Oct 1994 23:04:02 GMT""}]","2007-05-23"
+"hep-ph/9410300","Marco Ciuchini","M. Ciuchini","$B \rightarrow X_s\,\gamma$ and $B \rightarrow K^*\,\gamma$ in the
+  standard and 2H models","(talk given at ICHEP '94), 2 pp (figures not included), LaTeX,
+  INFN-ISS 94/9 (October 1994)",,,,"hep-ph",,"  Theoretical predictions for the branching ratios of the $B \rightarrow
+X_s\,\gamma$ and $B \rightarrow K^*\,\gamma$ decays are calculated in the
+Standard Model and in the (type II) two-Higgs-doublet model. Both the complete
+leading and the partially known next-to-leading order QCD corrections are
+included. The uncertainties due to the regularization scheme dependence
+introduced by the incomplete NLO terms are discussed. The results are compared
+with the recent CLEO II measurements and a new lower limit on the charged Higgs
+boson mass, $M_{H^\pm} > \sim 200$ GeV, is obtained.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 09:01:44 GMT""}]","2009-09-25"
+"hep-ph/9410301","Marco Ciuchini","M. Ciuchini","Next-to-leading prediction of $\epse$: an upgraded analysis","(talk given at ICHEP '94), 4 pp (figures not included), LaTeX,
+  INFN-ISS 94/10 (October 1994)",,,,"hep-ph",,"  We present an updated theoretical prediction of $\epse$, using the
+next-to-leading $\DSone$ effective hamiltonian and lattice QCD matrix elements.
+The CP violating phase is costrained by using both the experimental values of
+$\ep$ and $x_d$, assuming the theoretical determination of $f_B$. Predictions
+of $\cos\delta$ and $\sin 2\beta$ are also obtained in this way. For $\epse$,
+our estimate is $\epse=(2.8 \pm 2.4)\times 10^{-4}$.}
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 09:02:30 GMT""}]","2009-09-25"
+"hep-ph/9410302",,"B. Ananthanarayan, D. Toublan and G. Wanders","Consistency of the Chiral Pion-Pion Scattering Amplitudes with Axiomatic
+  Constraints","26 pages using LaTeX and math.sty (appended at the end), 5 figures, 4
+  .eps files and 1 .ps file, tared, compressed and uuencoded (also available on
+  request if there is a problem from banantha@ulys.unil.ch) Universite de
+  Lausanne, Theory preprint, UNIL-TP-4/94","Phys.Rev. D51 (1995) 1093-1100","10.1103/PhysRevD.51.1093",,"hep-ph",,"  The pion-pion scattering amplitudes provided by second-order chiral
+perturbation theory are confronted with known rigorous constraints derived from
+the axioms of quantum field theory. We mainly test constraints restricting the
+$\pi^0$-$\pi^0$ $S$- and $D$-wave amplitudes in the unphysical interval $0\leq
+s\leq 4m_\pi^2$. These constraints impose significant lower bounds for a linear
+combination of coupling constants specifying the second order chiral
+Lagrangian. The accepted value of this combination is consistent with these
+bounds. The $\pi^0$-$\pi^0$ $S$- and $D$-waves are strongly correlated by a set
+of constraints.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 10:02:34 GMT""}]","2009-10-28"
+"hep-ph/9410303","Schlei Bernd","I.V. Andreev, M. Pl\""umer, B.R. Schlei and R.M. Weiner","Energy dependence of source geometry and chaoticity in hadronic
+  collisions from Bose-Einstein correlations","17 pages,DMR-THEP-94-6/W",,,,"hep-ph",,"  We compare and analyse Bose-Einstein correlation data for $\pi^+ p$ and $K^+
+p$ collisions at $\sqrt{s}=22\ GeV$ obtained by the NA22-Collaboration and data
+for $p\bar{p}$ collisions at $\sqrt{s}=630\ GeV$ obtained by the
+UA1-Minimum-Bias-Collaboration. Using a parametrization for a longitudinally
+expanding source, we observe that correlation lengths and radii extracted from
+fits to the data change significantly if one goes from the NA22- to the
+UA1-data: the transverse radius of the chaotic source increases by about $50\%$
+while the correlation lengths in longitudinal and transverse directions
+decrease by about $50\%$ and $30\%$, respectively. The chaoticity parameter
+remains approximately constant or increases. DMR-THEP-94-6/W
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 11:33:48 GMT""},{""version"":""v2"",""created"":""Thu, 20 Oct 1994 10:50:30 GMT""}]","2008-02-03"
+"hep-ph/9410304","Rainer Jakob","R. Jakob, P. Kroll, M. Raulfs","Meson-Photon Transition Form Factors","21 pages, REVTEX, 5 figures (appended as uuencoded compressed tar
+  file) preprint WU-B 94-28, BUGH Wuppertal","J.Phys.G22:45-58,1996","10.1088/0954-3899/22/1/004",,"hep-ph",,"  We report results on the $\pi$-$\gamma$ transition form factor obtained
+within the hard scattering approach including transverse momentum effects and
+Sudakov corrections. The results clearly favor distribution amplitudes close to
+the asymptotic form, $\sim x_1x_2$, and disfavor distribution amplitudes which
+are strongly concentrated in the end-point regions. This observation is backed
+by information on the elastic form factor of the pion and on its valence quark
+distribution function. Applications of our approach to the $\eta$-$\gamma$ and
+$\eta^\prime$-$\gamma$ transition form factors are discussed as well. Combining
+the form factor data with the two-photon decay widths, we determine the $\eta$
+and the $\eta^\prime$ decay constants and the $\eta$-$\eta^\prime$ mixing
+angle.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 11:41:16 GMT""},{""version"":""v2"",""created"":""Tue, 18 Oct 1994 11:10:52 GMT""}]","2009-09-25"
+"hep-ph/9410305","Igor Dremin","I.M. Dremin","Multiparticle Production and Statistical Analogies","6 pages, preprint FIAN TD 10/94, to be published in JETP Lett","JETP Lett. 60 (1994) 764-769; Pisma Zh.Eksp.Teor.Fiz. 60 (1994)
+  757-761",,,"hep-ph",,"  The study of the singularities and zeros of the generating functions of
+multiplicity distributions is advocated. Some hints from well known probability
+distributions and experimental data are given. The statistical mechanics
+analogies provoke to look for a signature of phase transitions. The program of
+further experimental studies of the singularities is formulated.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 13:09:29 GMT""}]","2007-05-23"
+"hep-th/9410110","Thordur Jonsson","Bergfinnur Durhuus and Thordur Jonsson","Remarks on the entropy of 3-manifolds","12 pages, 5 figures available from authors","Nucl.Phys. B445 (1995) 182-192","10.1016/0550-3213(95)00207-9","RH-94-20","hep-th math.GT",,"  We give a simple combinatoric proof of an exponential upper bound on the
+number of distinct 3-manifolds that can be constructed by successively
+identifying nearest neighbour pairs of triangles in the boundary of a
+simplicial 3-ball and show that all closed simplicial manifolds that can be
+constructed in this manner are homeomorphic to $S^3$. We discuss the problem of
+proving that all 3-dimensional simplicial spheres can be obtained by this
+construction and give an example of a simplicial 3-ball whose boundary
+triangles can be identified pairwise such that no triangle is identified with
+any of its neighbours and the resulting 3-dimensional simplicial complex is a
+simply connected 3-manifold.
+","[{""version"":""v1"",""created"":""Sun, 16 Oct 1994 22:26:15 GMT""}]","2009-10-28"
+"hep-th/9410111",,"K.-I. Izawa","Derivative Expansion in Quantum Theory of Gravitation","phyzzx, 8 pages, UT-686","Prog.Theor.Phys.93:615-620,1995","10.1143/PTP.93.615",,"hep-th",,"  The cosmological term prevents perturbation based on derivative expansion in
+Einstein gravity. We consider quantum theory of gravitation invariant under
+volume-preserving diffeomorphism and Weyl transformation, which is suitable for
+derivative expansion.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 03:38:23 GMT""}]","2010-11-01"
+"hep-th/9410112",,"A.A. Btsenko, A.D. Odintsov and S. Zerbini","The Large Distance Limit of the Gravitational Effective Action in
+  Hyperbolic Backgrounds","16 pages, Latex, UTF 328","Class.Quant.Grav.12:1-16,1995; Erratum-ibid.12:2355,1995","10.1088/0264-9381/12/1/002",,"hep-th",,"  The one-loop effective action for D-dimensional quantum gravity with negative
+cosmological constant, is investigated in space-times with compact hyperbolic
+spatial section. The explicit expansion of the effective action as a power
+series of the curvature on hyperbolic background is derived, making use of
+heat-kernel and zeta-regularization techniques. It is discussed, at one-loop
+level, the Coleman-Weinberg type suppression of the cosmological constant,
+proposed by Taylor and Veneziano.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 08:33:03 GMT""}]","2010-04-06"
+"hep-th/9410113",,"Emilio Elizalde, Sergei D. Odintsov and August Romeo","Improved Effective Potential in Curved Spacetime and Quantum Matter -
+  Higher Derivative Gravity Theory","23 pages, Oct 17 1994","Phys.Rev.D51:1680-1691,1995","10.1103/PhysRevD.51.1680",,"hep-th",,"  \noindent{\large\bf Abstract.} We develop a general formalism to study the
+renormalization group (RG) improved effective potential for renormalizable
+gauge theories ---including matter-$R^2$-gravity--- in curved spacetime. The
+result is given up to quadratic terms in curvature, and one-loop effective
+potentials may be easiliy obtained from it. As an example, we consider scalar
+QED, where dimensional transmutation in curved space and the phase structure of
+the potential (in particular, curvature-induced phase trnasitions), are
+discussed. For scalar QED with higher-derivative quantum gravity (QG), we
+examine the influence of QG on dimensional transmutation and calculate QG
+corrections to the scalar-to-vector mass ratio. The phase structure of the
+RG-improved effective potential is also studied in this case, and the values of
+the induced Newton and cosmological coupling constants at the critical point
+are estimated. Stability of the running scalar coupling in the Yukawa theory
+with conformally invariant higher-derivative QG, and in the Standard Model with
+the same addition, is numerically analyzed. We show that, in these models, QG
+tends to make the scalar sector less unstable.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 11:06:24 GMT""}]","2009-09-25"
+"hep-th/9410114",,"F. Barbarin, E. Ragoucy and P. Sorba","Finite W Algebras and Intermediate Statistics","16 pp., Latex, Preprint ENSLAPP-489/94","Nucl.Phys. B442 (1995) 425-443","10.1016/0550-3213(95)00112-3",,"hep-th",,"  New realizations of finite W algebras are constructed by relaxing the usual
+constraint conditions. Then, finite W algebras are recognized in the Heisenberg
+quantization recently proposed by Leinaas and Myrheim, for a system of two
+identical particles in d dimensions. As the anyonic parameter is directly
+associated to the W-algebra involved in the d=1 case, it is natural to consider
+that the W-algebra framework is well-adapted for a possible generalization of
+the anyon statistics.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 10:07:01 GMT""}]","2009-10-28"
+"hep-th/9410115","Matthias R. Gaberdiel","K. Fredenhagen, M.R. Gaberdiel and S.M. Rueger","Scattering States of Plektons (PARTICLES with Braid Group Statistics) in
+  2+1 Dimensional Quantum Field Theory","18 pages, LATEX, DAMTP-94-90","Commun.Math.Phys. 175 (1996) 319-336","10.1007/BF02102411",,"hep-th",,"  A Haag-Ruelle scattering theory for particles with braid group statistics is
+developed, and the arising structure of the Hilbert space of multiparticle
+states is analyzed.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 11:29:06 GMT""}]","2015-06-26"
+"math/9410206",,"Atish Bagchi, Charles Wells","Graph-Based Logic and Sketches 1: The General Framework",,,,"MSRI 1995-006","math.LO",,"  Traditional treatments of formal logic provide: 1. A syntax for formulas. 2.
+An inference relation between sets of formulas. 3. A rule for assigning meaning
+to formulas (semantics) that is sound with respect to the inference relation.
+  First order logic, the logic and semantics of programming languages, and the
+languages that have been formulated for various kinds of categories are all
+commonly described in this way. The formulas in those logics are strings of
+symbols that are ultimately modeled on the sentences mathematicians speak and
+write when proving theorems.
+  Mathematicians with a categorial orientation frequently state and prove
+theorems using graphs and diagrams. The theory of sketches provides a formal
+way to describe mathematical structures and impose requirements (such as
+equations) on them using graphs, diagrams and similar structures. The graphs,
+diagrams and other data of a sketch are formal objects that correspond to the
+graphs and diagrams used by such mathematicians in much the same way as the
+formulas of traditional logic correspond to the sentences mathematicians use in
+proofs.
+  Sketch theory has a well-known and well-developed functorial semantics
+corresponding to item 3 in the description of logic above. The content of this
+paper is to propose a structure in sketch theory that corresponds to items 1
+and 2 in that description.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 00:00:00 GMT""}]","2016-09-06"
+"math/9410223","Marco Martens","Marco Martens, Charles Tresser","Forcing of periodic orbits for interval maps and renormalization of
+  piecewise affine maps",,,,"Stony Brook IMS 1994/17","math.DS",,"  We prove that for continuous maps on the interval, the existence of an
+n-cycle, implies the existence of n-1 points which interwind the original ones
+and are permuted by the map. We then use this combinatorial result to show that
+piecewise affine maps (with no zero slope) cannot be infinitely renormalizable.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 00:00:00 GMT""}]","2016-09-06"
+"nucl-th/9410022","Sabine Jeschonnek","A. Bianconi, S. Jeschonnek, N.N.Nikolaev, B.G.Zakharov","The apparent Coulomb reacceleration of neutrons in electrodissociation
+  of the deuteron","LATEX, 9 pages, 1 figure available from the authors on request,
+  Juelich preprint KFA-IKP(TH)-1994-35","Phys.Rev.C51:1584-1586,1995","10.1103/PhysRevC.51.1584",,"nucl-th",,"  We demonstrate that the final state $p$-$n$ interaction in the reaction of
+electrodissociation of the deuteron at large $Q^{2}$ in a static external field
+leads to the apparent reacceleration of neutrons. The shift of the neutron
+velocity from the velocity of the deuteron beam is related to the
+quantum-mechanical forward-backward asymmetry of the missing momentum
+distribution in the $^2H(e,e'p)n$ scattering.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 09:55:37 GMT""}]","2009-09-25"
+"nucl-th/9410023",,"R.Anni, G.Co' and P.Pellegrino (Univ. of Lecce Italy)","Nuclear Charge Density Distributions from Elastic Electron Scattering
+  Data","17 pages, 11 figures available on request to GPCO@LECCE.INFN.IT, to
+  be published in Nucl.Phys","Nucl.Phys. A584 (1995) 35-59","10.1016/0375-9474(94)00508-K",,"nucl-th",,"  The model independent procedure of extracting charge density distributions
+from elastic electron scattering data is investigated. The charge density
+distributions are expanded on an orthonormal basis and the parameters of the
+expansions are fixed by the comparison with the experimental data. Two bases
+with different analytical properties (Fourier-Bessel and Hermite) are used.
+This allows us to disentangle the uncertainties coming from the choice of the
+expansion basis from those intrinsic to the extraction procedure. We design a
+set of tests to select the number of the expansion coefficients adequate for a
+proper description of the data. The procedure is applied to elastic data
+measured on $^{12}$C, $^{40}$Ca and $^{208}$Pb nuclei.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 10:12:47 GMT""}]","2019-08-17"

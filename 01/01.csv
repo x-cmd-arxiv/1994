@@ -1,0 +1,106 @@
+"cs/9401101",,"N. Nilsson","Teleo-Reactive Programs for Agent Control","See http://www.jair.org/ for any accompanying files","Journal of Artificial Intelligence Research, Vol 1, (1994),
+  139-158",,,"cs.AI",,"  A formalism is presented for computing and organizing actions for autonomous
+agents in dynamic environments. We introduce the notion of teleo-reactive (T-R)
+programs whose execution entails the construction of circuitry for the
+continuous computation of the parameters and conditions on which agent action
+is based. In addition to continuous feedback, T-R programs support parameter
+binding and recursion. A primary difference between T-R programs and many other
+circuit-based systems is that the circuitry of T-R programs is more compact; it
+is constructed at run time and thus does not have to anticipate all the
+contingencies that might arise over all possible runs. In addition, T-R
+programs are intuitive and easy to write and are written in a form that is
+compatible with automatic planning and learning methods. We briefly describe
+some experimental applications of T-R programs in the control of simulated and
+actual mobile robots.
+","[{""version"":""v1"",""created"":""Sat, 1 Jan 1994 00:00:00 GMT""}]","2014-11-17"
+"cs/9401102","Maggie McLoughlin","Donald E. Knuth","Mini-indexes for literate programs",,"Software -- Concepts and Tools 15 (1994), 2--11",,"Knuth migration 11/2004","cs.PL",,"  This paper describes how to implement a documentation technique that helps
+readers to understand large programs or collections of programs, by providing
+local indexes to all identifiers that are visible on every two-page spread. A
+detailed example is given for a program that finds all Hamiltonian circuits in
+an undirected graph.
+","[{""version"":""v1"",""created"":""Sat, 1 Jan 1994 00:00:00 GMT""}]","2008-02-03"
+"hep-ph/9312360","W. S. Hou","Wei-Shu Hou","Is the Top Quark Really Heavier than the $W$ Boson?","11 pages (RevTex), 3 figures (not included), NTUTH-93-09","Phys.Rev.Lett. 72 (1994) 3945-3948","10.1103/PhysRevLett.72.3945",,"hep-ph",,"  Scalar induced top decays may drastically suppress $B(t\to \ell\nu + jet)$
+and still hide the top below $M_W$. The $p\bar p$ collider experiments should
+enlarge the scope and study the $m_t - B(t\to\ell\nu j)$ plane. Specific model
+signatures such as $t\to ch^0\to cb\bar b$ (multiple high $p_T$ $b$-jets) and
+$t\to bH^+\to bc\bar s$, $b\tau^+\nu$ (with $B(t\to b\tau\nu) \
+\raisebox{-.5ex}{\rlap{$\sim$}} \raisebox{.4ex}{$<$}\ 1/3$) should be explored.
+Without ruling out these possibilities, isolated lepton signals in the future
+might actually be due to the 4th generation $t^\prime$ or $b^\prime$ quark,
+while top quark and toponium physics could still turn up at LEP-II.
+","[{""version"":""v1"",""created"":""Fri, 31 Dec 1993 20:07:34 GMT""}]","2009-10-22"
+"hep-ph/9312362",,"A. Fayyazuddin, T.H. Hansson, M. A. Nowak, J.J.M. Verbaarschot and I.
+  Zahed","Finite Temperature Correlators in the Schwinger Model","in LATEX, 30 pages; two figures available on request from the
+  authors; USITP-93-19, SUNY-NTG-43, (explanations to the figures have been
+  clarified)","Nucl.Phys. B425 (1994) 553-578","10.1016/0550-3213(94)90287-9",,"hep-ph",,"  We discuss the correlation function of hadronic currents in the Schwinger
+model at finite temperature $T$. We explicitly construct the retarded
+correlator in real time and obtain analytical results for the Euclidean
+correlator on a torus. Both constructions lead to the same finite temperature
+spectral function. The spatial screening lengths in the mesonic channels are
+related to the dynamical meson mass $m=e/\sqrt{\pi}$ and not $2\pi T$ even in
+the infinite temperature limit. The relevance of our results for the finite
+temperature problem in four dimensions is discussed.
+","[{""version"":""v1"",""created"":""Fri, 31 Dec 1993 20:00:28 GMT""},{""version"":""v2"",""created"":""Mon, 3 Jan 1994 17:23:49 GMT""}]","2009-10-22"
+"hep-ph/9312363",,"L. Dixon and Y. Shadmi","Testing Gluon Self-Interactions in Three Jet Events at Hadron Colliders","31 pages, plain tex, 10 figures available from
+  yael@slac.stanford.edu. SLAC-PUB 6416","Nucl.Phys.B423:3-32,1994; ERRATUM-ibid.B452:724,1995","10.1016/0550-3213(94)90563-0",,"hep-ph",,"  The effective operator tr(G^3) is the only dimension-6 gluonic operator that
+cannot be related to four-quark operators. A peculiar property of this operator
+is that it does not contribute to two-jet production at hadron colliders, at
+the level of one operator insertion and leading-order in alpha_s; therefore we
+study its effects on three jet events. To calculate the helicity amplitudes
+induced by this operator we make extensive use of collinear factorization. We
+propose several ways of detecting the tr(G^3) signal, one of which exploits its
+non-trivial behavior under azimuthal rotations of two almost collinear jets.
+","[{""version"":""v1"",""created"":""Sat, 1 Jan 1994 01:51:00 GMT""}]","2010-11-15"
+"math/9401219",,"Sylvain E. Cappell, Julius L. Shaneson","Genera of algebraic varieties and counting of lattice points","8 pages","Bull. Amer. Math. Soc. (N.S.) 30 (1994) 62-69",,"Bulletin migration 11/99","math.AG math.CV math.GT",,"  This paper announces results on the behavior of some important algebraic and
+topological invariants --- Euler characteristic, arithmetic genus, and their
+intersection homology analogues; the signature, etc. --- and their associated
+characteristic classes, under morphisms of projective algebraic varieties. The
+formulas obtained relate global invariants to singularities of general complex
+algebraic (or analytic) maps. These results, new even for complex manifolds,
+are applied to obtain a version of Grothendieck-Riemann-Roch, a calculation of
+Todd classes of toric varieties, and an explicit formula for the number of
+integral points in a polytope in Euclidean space with integral vertices.
+","[{""version"":""v1"",""created"":""Sat, 1 Jan 1994 00:00:00 GMT""}]","2009-09-25"
+"math/9401220",,"Michael J. Hopkins","The rigid analytic period mapping, Lubin-Tate space, and stable homotopy
+  theory","11 pages","Bull. Amer. Math. Soc. (N.S.) 30 (1994) 76-86",,"Bulletin migration 11/99","math.AT math.AG",,"  The geometry of the Lubin-Tate space of deformations of a formal group is
+studied via an \'etale, rigid analytic map from the deformation space to
+projective space. This leads to a simple description of the equivariant
+canonical bundle of the deformation space which, in turn, yields a formula for
+the dualizing complex in stable homotopy theory.
+","[{""version"":""v1"",""created"":""Sat, 1 Jan 1994 00:00:00 GMT""}]","2008-02-03"
+"math/9401221",,"Susan E. Kelly, Mark A. Kon, Louise A. Raphael","Pointwise convergence of wavelet expansions","8 pages","Bull. Amer. Math. Soc. (N.S.) 30 (1994) 87-94",,"Bulletin migration 11/99","math.FA",,"  In this note we announce that under general hypotheses, wavelet-type
+expansions (of functions in $L^p,\ 1\leq p \leq \infty$, in one or more
+dimensions) converge pointwise almost everywhere, and identify the Lebesgue set
+of a function as a set of full measure on which they converge. It is shown that
+unlike the Fourier summation kernel, wavelet summation kernels $P_j$ are
+bounded by radial decreasing $L^1$ convolution kernels. As a corollary it
+follows that best $L^2$ spline approximations on uniform meshes converge
+pointwise almost everywhere. Moreover, summation of wavelet expansions is
+partially insensitive to order of summation. \footnote We also give necessary
+and sufficient conditions for given rates of convergence of wavelet expansions
+in the sup norm. Such expansions have order of convergence $s$ if and only if
+the basic wavelet $\psi$ is in the homogeneous Sobolev space $H^{-s-d/2}_h$. We
+also present equivalent necessary and sufficient conditions on the scaling
+function. The above results hold in one and in multiple dimensions.
+","[{""version"":""v1"",""created"":""Sat, 1 Jan 1994 00:00:00 GMT""}]","2016-09-06"
+"math/9401222",,"Robert Langlands, Philippe Pouliot, Yvan Saint-Aubin","Conformal invariance in two-dimensional percolation","61 pages. Abstract added in migration","Bull.Am.Math.Soc.30:1-61,1994",,"Bulletin migration 11/99","math-ph math.MP",,"  The immediate purpose of the paper was neither to review the basic
+definitions of percolation theory nor to rehearse the general physical notions
+of universality and renormalization (an important technique to be described in
+Part Two). It was rather to describe as concretely as possible, although in
+hypothetical form, the geometric aspects of universality, especially conformal
+invariance, in the context of percolation, and to present the numerical results
+that support the hypotheses. On the other hand, one ulterior purpose is to draw
+the attention of mathematicians to the mathematical problems posed by the
+physical notions. Some precise basic definitions are necessary simply to orient
+the reader. Moreover a brief description of scaling and universality on the one
+hand and of renormalization on the other is also essential in order to
+establish their physical importance and to clarify their mathematical content.
+","[{""version"":""v1"",""created"":""Sat, 1 Jan 1994 00:00:00 GMT""}]","2010-10-27"
+"math/9401223","Jose M. Montesinos-Amilibia","Yukio Matsumoto, Jos\'e Mari\'a Montesinos-Amilibia","Pseudo-periodic homeomorphisms and degeneration of Riemann surfaces","6 pages","Bull. Amer. Math. Soc. (N.S.) 30 (1994) 70-75",,"Bulletin migration 11/99","math.CV",,"  We will announce two theorems. The first theorem will classify all
+topological types of degenerate fibers appearing in one-parameter families of
+Riemann surfaces, in terms of ``pseudoperiodic'' surface homeomorphisms. The
+second theorem will give a complete set of conjugacy invariants for the mapping
+classes of such homeomorphisms. This latter result implies that Nielsen's set
+of invariants [{\it Surface transformation classes of algebraically finite
+type}, Collected Papers 2, Birkh\""auser (1986)] is not complete.
+","[{""version"":""v1"",""created"":""Sat, 1 Jan 1994 00:00:00 GMT""}]","2016-09-06"

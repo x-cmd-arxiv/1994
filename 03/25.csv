@@ -1,0 +1,202 @@
+"astro-ph/9403057","Scott Tremaine","Prasenjit Saha and Scott Tremaine","Long-term planetary integration with individual time steps","23 pages, uuencoded postscript file, CITA 94-666",,"10.1086/117210",,"astro-ph",,"  We describe an algorithm for long-term planetary orbit integrations,
+including the dominant post-Newtonian effects, that employs individual
+timesteps for each planet. The algorithm is symplectic and exhibits short-term
+errors that are $O(\epsilon\Omega^2\tau^2)$ where $\tau$ is the timestep,
+$\Omega$ is a typical orbital frequency, and $\epsilon\ll1$ is a typical
+planetary mass in solar units. By a special starting procedure long-term errors
+over an integration interval $T$ can be reduced to
+$O(\epsilon^2\Omega^3\tau^2T)$. A sample 0.8 Myr integration of the nine
+planets illustrates that Pluto can have a timestep more than 100 times
+Mercury's, without dominating the positional error. Our algorithm is applicable
+to other $N$-body systems.
+","[{""version"":""v1"",""created"":""Thu, 24 Mar 1994 19:57:08 GMT""}]","2009-10-22"
+"cond-mat/9403083",,"F. Guinea, J. Gonzalez and M. A. H. Vozmediano","Shake-up effects and intermolecular tunneling in C$_{60}$ ions","9 pages + 1 postscript figure",,"10.1103/PhysRevB.50.5752",,"cond-mat",,"  The multiplet structure induced by the Coulomb interactions in C$_{60}^{n-}$
+($n = 1 - 12$) is analyzed. The partially ocuppied LUMO gives rise to a set of
+levels which fill a relatively wide band ( $\approx 2-3$ eV ). A large ($\sim
+1$ eV) intramolecular effective repulsion is found. The anions are also shown
+to be highly polarizable. The optical absorption and photoemission spectra are
+calculated. The probability of exciting the molecule upon the addition or
+removal of one electron is shown to be significant, and this effect may give
+rise to the insulating behavior of K$_4$C$_{60}$. The role of intermolecular
+interactions in suppressing the net repulsion within the C$_{60}$ molecules is
+discussed.
+","[{""version"":""v1"",""created"":""Thu, 24 Mar 1994 17:14:06 GMT""}]","2009-10-22"
+"cond-mat/9403084","Sotolongo Oscar Gerardo","Oscar Sotolongo and Enrique Lopez","Combustion of Fractal Distributions","6 pages, no figures, LaTex file",,,,"cond-mat",,"  The advantages of introducing a fractal viewpoint in the field of combustion
+is emphasized. It is shown that the condition for perfect combustion of a
+collection of drops is the self-similarity of the distribution.
+","[{""version"":""v1"",""created"":""Fri, 25 Mar 1994 10:18:40 GMT""}]","2007-05-23"
+"hep-ph/9403355","Dr. Dubravko Klabucar","R. Horvat, D. Kekez, D. Palle and D. Klabu\v{c}ar","Covariant model of a quarkonium with the funnel potential","26 pages, RevTeX, 9 figures in uuencoded postscript files. ZTF-93/9-R",,,,"hep-ph",,"  The bound--state problem for the pion as a quarkonium with the funnel
+(Coulomb--plus--linear) interaction is solved in a framework that combines the
+bilocal approach to mesons with the covariant generalization of the
+instantaneous--potential model. The potential interaction leads to dynamical
+breaking of chiral symmetry. However, the Coulomb potential leads to
+ultraviolet divergences that must be subtracted. A careful choice of the
+renormalization prescription is needed in order to get the correct chiral
+limit. The mass, the lepton decay constant of the pion, as well as the pion
+decay width in two photons are calculated.
+","[{""version"":""v1"",""created"":""Thu, 24 Mar 1994 18:20:44 GMT""}]","2009-09-25"
+"hep-ph/9403356","Rogerio Rosenfeld","Rogerio Rosenfeld","An alternative model for the electroweak symmetry breaking sector and
+  its signature in future e-gamma colliders","LaTex , 14 pages, 5 figures not included but available as postscript
+  files upon request, NUB-3086/94-Th","Phys. Rev. D 50, 4283 (1994)","10.1103/PhysRevD.50.4283",,"hep-ph",,"  We perform a preliminary study of the deviations from the Standard Model
+prediction for the cross section for the process $e \gamma \rightarrow \nu_e W
+\gamma$. We work in the context of a higgsless chiral lagrangian model that
+includes an extra vector resonance $V$ and an anomalous $\gamma W V$ coupling.
+We find that this cross section can provide interesting constraints on the free
+parameters of the model once it is measured in future $e \gamma$ colliders.
+","[{""version"":""v1"",""created"":""Thu, 24 Mar 1994 19:06:10 GMT""}]","2013-11-13"
+"hep-ph/9403357","Marc Kamionkowski","Marc Kamionkowski","Indirect Detection of WIMPs","(12 pages available as a uuencoded, tarred, compressed PostScript
+  file), IASSNS-HEP-94/8",,,,"hep-ph astro-ph",,"  I review several proposed techniques for indirect detection of weakly
+interacting massive particles (WIMPs) in the halo. I focus on distinctive
+signatures from cosmic-ray positrons, antiprotons, and gamma rays produced by
+annihilation of WIMPs in the galactic halo. (To appear in Particle
+Astrophysics, Atomic Physics, and Gravitation}, proceedings of the the XIVth
+Moriond Workshop, Villars sur Ollon, Switzerland, Jan. 22-29, 1994.)
+","[{""version"":""v1"",""created"":""Thu, 24 Mar 1994 21:22:20 GMT""}]","2007-05-23"
+"hep-ph/9403358",,"K. Cheung (Northwestern), S. Dawson (BNL), T. Han (U. C., Davis), G.
+  Valencia (Iowa)","Search for Anomalous Couplings at $e\gamma$ Colliders","16 pg in LATEX format, UCD-94-6, NUHEP-TH-94-2. Figures included as
+  uuencoded file","Phys.Rev.D51:5-14,1995","10.1103/PhysRevD.51.5",,"hep-ph",,"  We consider the possibility of observing deviations from the Standard Model
+gauge-boson self-couplings at future $e\gamma$ colliders. We concentrate on the
+process $e^-\gamma \rightarrow \nu W^- Z$, which is particularly sensitive to
+the parity violating coupling $g_5^Z$ at high energies. We find that a 2~TeV
+$e^+ e^-$ collider operating in the $e^- \gamma$ mode could reach a sensitivity
+of order $5\times 10^{-3}$ to $g_5^Z$.
+","[{""version"":""v1"",""created"":""Thu, 24 Mar 1994 20:22:09 GMT""}]","2009-12-30"
+"hep-ph/9403359","Tom Browder","The CLEO Collaboration","Production and Decay of D_1(2420)^0 and D_2^*(2460)^0","15 pages in REVTEX format. hardcopies with figures can be obtained by
+  sending mail to: preprints@lns62.lns.cornell.edu","Phys.Lett.B331:236-244,1994; ERRATUM-ibid.B342:453,1995","10.1016/0370-2693(94)90968-7","CLNS94-1280, CLEO 94-10","hep-ph hep-ex",,"  We have investigated $D^{+}\pi^{-}$ and $D^{*+}\pi^{-}$ final states and
+observed the two established $L=1$ charmed mesons, the $D_1(2420)^0$ with mass
+$2421^{+1+2}_{-2-2}$ MeV/c$^{2}$ and width $20^{+6+3}_{-5-3}$ MeV/c$^{2}$ and
+the $D_2^*(2460)^0$ with mass $2465 \pm 3 \pm 3$ MeV/c$^{2}$ and width
+$28^{+8+6}_{-7-6}$ MeV/c$^{2}$. Properties of these final states, including
+their decay angular distributions and spin-parity assignments, have been
+studied. We identify these two mesons as the $j_{light}=3/2$ doublet predicted
+by HQET. We also obtain constraints on {\footnotesize $\Gamma_S/(\Gamma_S +
+\Gamma_D)$} as a function of the cosine of the relative phase of the two
+amplitudes in the $D_1(2420)^0$ decay.
+","[{""version"":""v1"",""created"":""Fri, 25 Mar 1994 01:26:22 GMT""}]","2012-08-27"
+"hep-ph/9403360",,"Alakabha Datta, Sandip Pakvasa and Utpal Sarkar","Gravitational uncertainties from dimension-six operators on
+  supersymmetric GUT predictions","7 pages,latex.Title of original version changed,text added and a
+  figure has been added.Figure is available on request.To appear as a brief
+  Report in Phys.Rev.D","Phys.Rev.D52:550-552,1995","10.1103/PhysRevD.52.550",,"hep-ph",,"  We consider the gravity induced dimension six terms in addition to the
+dimension five terms in the SUSY GUT Lagrangian and find that the prediction
+for $\alpha_s$ may be washed out completely in supersymmetric grand unified
+theories unless the triplet higgs mass is smaller than $ 7\times 10^{16} $ GeV.
+","[{""version"":""v1"",""created"":""Fri, 25 Mar 1994 02:35:16 GMT""},{""version"":""v2"",""created"":""Wed, 5 Jul 1995 00:26:11 GMT""}]","2019-08-17"
+"hep-ph/9403361",,"A. Brandenburg, S. J. Brodsky, V. V. Khoze and D. M\""uller","Angular Distributions in the Drell-Yan Process: A Closer Look at Higher
+  Twist Effects","Plain Tex, 9 pages, 3 appended figures, SLAC-PUB-6464-revised","Phys.Rev.Lett.73:939-942,1994","10.1103/PhysRevLett.73.939",,"hep-ph",,"  We calculate the angular distribution of the lepton produced in the Drell-Yan
+reaction taking into account pion bound state effects. We work in the kinematic
+region where one of the pion constituents goes far off-shell, which allows us
+to treat the bound state problem perturbatively. We show that the angular
+distribution is very sensitive to the shape of the pion distribution amplitude.
+The model we discuss fits the data if we choose a two-humped pion distribution
+amplitude suggested by QCD sum rules.
+","[{""version"":""v1"",""created"":""Fri, 25 Mar 1994 01:39:00 GMT""},{""version"":""v2"",""created"":""Sat, 4 Jun 1994 01:34:00 GMT""}]","2009-09-25"
+"hep-ph/9403362","J. Gunion","J. Dai, J.F. Gunion, and R. Vega","LHC Detection of Neutral MSSM Higgs Bosons via $gg\rta b\anti b \h\rta
+  b\anti b b\anti b$","10 pages; requires phyzzx.tex and tables.tex; revised to use top
+  quark mass of 175 GeV and to include additional comments on detection of
+  small signal/background Higgs bumps; full postscript file including embedded
+  figures available via anonymous ftp at ucdhep.ucdavis.edu as
+  [anonymous.gunion]bbbb_susy_revised.ps, preprint UCD-94-7","Phys.Lett. B345 (1995) 29-35","10.1016/0370-2693(94)01497-Z",,"hep-ph",,"  We demonstrate that simultaneous detection of two of the neutral Higgs bosons
+of the Minimal Supersymmetric Model will be possible at the LHC in the $b\anti
+b b\anti b$ final state, provided $\tanb$ is large and $b$-tagging can be
+performed with good efficiency and purity. This mode enhances the already
+established guarantee that there is no region of supersymmetric parameter space
+for which {\it none} of the Higgs bosons of the model can be seen at the LHC.
+","[{""version"":""v1"",""created"":""Fri, 25 Mar 1994 03:49:32 GMT""},{""version"":""v2"",""created"":""Tue, 11 Oct 1994 00:07:41 GMT""}]","2009-10-28"
+"hep-ph/9403363",,"J.R Forshaw and R.G. Roberts","Direct Photoproduction of Jets in the KT Factorisation Prescription","8 pages report no. RAL-94-028","Phys.Lett.B335:494-499,1994","10.1016/0370-2693(94)90383-2",,"hep-ph",,"  We study the cross section for dijet production via direct photons, as seen
+at the HERA collider. Rather than assuming the standard factorisation formula
+for the cross section (where the incoming partons are assumed to be on-shell),
+we use the $k_T$-factorisation formula. This formalism ought to be more
+appropriate for jet production in regions where the cross section is sensitive
+to the small-$x$ parton distribution functions. We study the rapidity
+distribution and the azimuthal angular distribution of the jets and compare
+with the traditional approach. Our calculations reveal a breakdown of the
+traditional approach as one moves into the regime of small $x$.
+","[{""version"":""v1"",""created"":""Fri, 25 Mar 1994 09:18:00 GMT""}]","2009-09-25"
+"hep-ph/9403364","Takeo Moroi","M. Kawasaki and T. Moroi","Gravitino Production in the Inflationary Universe and the Effects on
+  Big-Bang Nucleosynthesis",,"Prog.Theor.Phys. 93 (1995) 879-900","10.1143/ptp/93.5.879",,"hep-ph",,"  Gravitino production and decay in the inflationary universe are reexamined.
+Assuming that the gravitino mainly decays into a photon and a photino, we
+calculate the upperbound on the reheating temperature. Compared to previous
+works, we have essentially improved the following two points: (i) the helicity
+$\pm\frac{3}{2}$ gravitino production cross sections are calculated by using
+the full relevant terms in the supergravity lagrangian, and (ii) the high
+energy photon spectrum is obtained by solving the Boltzmann equations
+numerically. Photo-dissociation of the light elements (D, T, $^3$He, $^4$He)
+leads to the most stringent upperbound on the reheating temperature, which is
+given by ($10^{6}$--$10^{9}$)GeV for the gravitino mass 100GeV--1TeV. On the
+other hand, requiring that the present mass density of photino should be
+smaller than the critical density, we find that the reheating temperature have
+to be smaller than ($10^{11}$--$10^{12}$)GeV for the photino mass (10--100)GeV,
+irrespectively of the gravitino mass. The effect of other decay channels is
+also considered.
+","[{""version"":""v1"",""created"":""Fri, 25 Mar 1994 13:42:25 GMT""},{""version"":""v2"",""created"":""Tue, 8 Nov 1994 13:23:49 GMT""},{""version"":""v3"",""created"":""Wed, 19 Apr 1995 11:47:02 GMT""}]","2017-02-01"
+"hep-ph/9403365",,"R. Ragazzon and D. Treleani","Semi Hard Parton Rescatterings in Nuclear Collisions at Very High
+  Energies","Preprint UTS-DFT 94-04, 13 pages","Z.Phys. C65 (1995) 305-310","10.1007/BF01571888",,"hep-ph",,"  Representing the semi-hard partonic interactions by the exchange of Lipatov's
+perturbative Pomeron, we express the semi-hard nuclear cross section as a self
+shadowing cross section. With the help of a generating functional technique, we
+obtain average numbers of multiple semi-hard partonic collisions without any
+need of using explicit expressions for the multi-parton distributions. The
+average number of semi-hard interactions of a given projectile parton against a
+target nucleus is estimated quantitatively and it is shown to grow very rapidly
+above one with increasing the c.m. energy. (Figures available on request)
+","[{""version"":""v1"",""created"":""Fri, 25 Mar 1994 13:41:31 GMT""},{""version"":""v2"",""created"":""Wed, 30 Mar 1994 12:49:27 GMT""}]","2009-10-28"
+"hep-ph/9403366",,"M. Je\.zabek and J.H. K\""uhn","V-a Tests Through Leptons from Polarised Top Quarks","10 pages, LaTex (uses epsf.sty, 2 figures appended as uuencoded ps
+  files). A complete postscript file, including figures, is available via
+  anonymous ftp at ttpux2.physik.uni-karlsruhe.de (129.13.102.139) as
+  /ttp94-4/ttp94-4.ps, Local preprint# TTP94-4","Phys.Lett. B329 (1994) 317-324","10.1016/0370-2693(94)90779-X",,"hep-ph",,"  Angular-energy distributions are studied for charged leptons and neutrinos
+from the decays of polarised top quarks. A small admixture of V+A interactions
+is incorporated. The polarisation dependent part of the neutrino distribution
+which can be measured experimentally through the missing momentum is
+particularly sensitive towards deviations from the V-A structure. This result
+remains unaffected by QCD corrections which, however, cannot be neglected in a
+quantitative analysis.
+","[{""version"":""v1"",""created"":""Fri, 25 Mar 1994 15:50:00 GMT""}]","2009-10-28"
+"hep-ph/9403367",,"K. Sailer","Phase structure of $SU(2)$ Yang-Mills theory with global center symmetry","37 pages, KLTE-DTP/1994/1",,,,"hep-ph",,"  Retaining only the `timelike' component $A_0$ of the vector potential a
+skelet model with explicit global center symmetry is constructed for $SU(2)$
+Yang-Mills theory. It is shown that the $A_0$ gluon vacuum is equivalent with
+the 4-dimensional Coulomb-gas. In 1--loop approximation, the effective theory
+of the skelet model exhibits non-local self-interaction. A coupling constant
+$\lambda$ is found that governs the loop expansion. For $\lambda < 1$ the
+effective theory does not confine (the string tension vanishes), whereas for
+$\lambda = 1$ confinement (with non-vanishing string tension) takes place. In
+the deconfined phase the $A_0$ gluons exhibit non-zero rest mass and global
+center symmetry is broken by the vacuum state.
+  Confinement sets on for $\lambda =1$ when the rest mass of $A_0$ gluons
+vanishes and the global center symmetry of the vacuum is restored.
+","[{""version"":""v1"",""created"":""Fri, 25 Mar 1994 13:09:05 GMT""}]","2007-05-23"
+"hep-th/9403149","Marek Grabowski","Marek P. Grabowski and Pierre Mathieu","Quantum Integrals of Motion for the Heisenberg Spin Chain","10 pages Report #: LAVAL-PHY-94-20",,"10.1142/S0217732394002057",,"hep-th cond-mat",,"  An explicit expression for all the quantum integrals of motion for the
+isotropic Heisenberg $s=1/2$ spin chain is presented.
+  The conserved quantities are expressed in terms of a sum over simple
+polynomials in spin variables. This construction is direct and independent of
+the transfer matrix formalism. Continuum limits of these integrals in both
+ferrromagnetic and antiferromagnetic sectors are briefly discussed.
+","[{""version"":""v1"",""created"":""Thu, 24 Mar 1994 21:30:03 GMT""}]","2015-06-26"
+"hep-th/9403151","Cumrun Vafa","Cumrun Vafa","Mirror Transform and String Theory","22 pages",,,,"hep-th",,"  Some aspects of Mirror symmetry are reviewed, with an emphasis on more recent
+results extending mirror transform to higher genus Riemann surfaces and its
+relation to the Kodaira-Spencer theory of gravity (talk given in the Geometry
+and Topology Conference, April 93, Harvard, in honor of Raoul Bott)
+","[{""version"":""v1"",""created"":""Thu, 24 Mar 1994 16:46:51 GMT""}]","2007-05-23"
+"hep-th/9403152","Guido Haak","G. Haak","Negative Flows of the KP-Hierarchy","22 pages (LaTeX), Report KITCS94-2-1",,,,"hep-th",,"  We construct a Grassmannian-like formulation for the potential KP-hierarchy
+including additional ``negative'' flows. Our approach will generalize the
+notion of a tau-function to include negative flows. We compare the resulting
+hierarchy with results by Hirota, Satsuma and Bogoyavlenskii.
+","[{""version"":""v1"",""created"":""Thu, 24 Mar 1994 18:36:15 GMT""}]","2007-05-23"
+"hep-th/9403154",,"A. P. Isaev","Interrelations between Quantum Groups and Reflection Equation (Braided)
+  Algebras","8 pages, LaTeX","Lett.Math.Phys.34:333-341,1995","10.1007/BF00750065","Dubna preprint E5-94-102 (1994)","hep-th alg-geom math.QA",,"  We show that the differential complex $\Omega_{B}$ over the braided matrix
+algebra $BM_{q}(N)$ represents a covariant comodule with respect to the
+coaction of the Hopf algebra $\Omega_{A}$ which is a differential extension of
+$GL_{q}(N)$. On the other hand, the algebra $\Omega_{A}$ is a covariant braided
+comodule with respect to the coaction of the braided Hopf algebra $\Omega_{B}$.
+Geometrical aspects of these results are discussed.
+","[{""version"":""v1"",""created"":""Fri, 25 Mar 1994 08:44:43 GMT""}]","2011-07-08"
+"hep-th/9403155",,"Enrique \'Alvarez, Luis \'Alvarez-Gaum\'e and Yolanda Lozano","On Non-Abelian Duality","34 p, LaTex, preprint CERN-TH-7204/94, problems with the generation
+  of ps and pdf solved","Nucl.Phys. B424 (1994) 155-183","10.1016/0550-3213(94)90093-0",,"hep-th",,"  A general study of non-abelian duality is presented. We first identify a
+possible obstruction to the conformal invariance of the dual theory for
+non-semisimple groups. We construct the exact non-abelian dual for any
+Wess-Zumino-Witten (WZW) model for any anomaly free subgroup, and the
+corresponding extension for coset conformal field theories. We characterize the
+exact non-abelian dual for $\sigma$-models with chiral isometries and extend
+the standard notion of duality to anomalous subgroups of
+  WZW models, thus giving a way of constructing dual transformations for
+different groups on the left and on the right. We also present some new
+examples of non-abelian duality for four-dimensional gravitational instantons.
+","[{""version"":""v1"",""created"":""Fri, 25 Mar 1994 10:55:09 GMT""},{""version"":""v2"",""created"":""Thu, 31 Mar 1994 23:27:31 GMT""},{""version"":""v3"",""created"":""Tue, 17 May 1994 20:59:37 GMT""},{""version"":""v4"",""created"":""Mon, 29 Nov 2004 12:50:51 GMT""}]","2009-10-28"

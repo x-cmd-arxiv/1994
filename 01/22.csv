@@ -1,0 +1,139 @@
+"cond-mat/9401044",,"Q. Niu, P. Ao, and D. J. Thouless","From Feynman's Wave Function to the Effective Theory of Vortex Dynamics","tex, 11pages",,"10.1103/PhysRevLett.72.1706",,"cond-mat",,"  We calculate the overlap between two many-body wave functions for a
+superfluid film containing a vortex at shifted positions. Comparing the results
+to phenomenological theories, which treat vortices as point particles, we find
+that the results are consistent if the point-particle vortices are considered
+as under the action of the Magnus force and in weak interaction with sound
+waves of the superfluid. We are then able to resolve the disagreement
+concerning the effective mass of vortices, showing it is finite.
+","[{""version"":""v1"",""created"":""Fri, 21 Jan 1994 17:53:00 GMT""}]","2009-10-22"
+"cond-mat/9401045",,"Q. NIu, P. Ao, and D.J. Thouless","From Feynman's Wave Function to the Effective Theory of Vortex Dynamics","11 pages, plain Tex, no figures. Accepted by Phys.Rev.Letters",,,,"cond-mat",,"  We calculate the overlap between two many-body wave functions for a
+superfluid film containing a vortex at shifted positions. Comparing the results
+to phenomenological theories, which treat vortices as point particles, we find
+that the results are consistent if the point-particle vortices are considered
+as under the action of the Magnus force and in weak interaction with sound
+waves of the superfluid. We are then able to resolve the disagreement
+concerning the effective mass of vortices, showing it is finite.
+","[{""version"":""v1"",""created"":""Fri, 21 Jan 1994 19:53:52 GMT""}]","2007-05-23"
+"cond-mat/9401046","Mark Millonas","Mark M. Millonas and Mark I. Dykman","Transport and current reversal in stochastically driven ratchets","7 pages, 3 figures, LaTeX, Los Alamos Preprint LA-UR-93-4128",,"10.1016/0375-9601(94)90989-X",,"cond-mat adap-org nlin.AO",,"  We present analytic results for the current in a system moving in an
+arbitrary periodic potential and driven by weak Gaussian noise with an
+arbitrary power spectrum which are valid to order (t_c/t_r)^2, where t_c is the
+largest characteristic time of the noise, and t_r is the characteristic
+intrawell relaxation time. The dependence of the current on the shape of the
+potential, and on the shape of the power spectrum of the noise is illustrated.
+It is demonstrated that the direction of the current is opposite when the power
+spectrum of the noise has minimum or maximum at zero frequency. A simple
+physical mechanism for this behavior is suggested. The behavior of the system
+in the limit of slow noise (t_c >>t_r) is also discussed. .
+","[{""version"":""v1"",""created"":""Fri, 21 Jan 1994 22:01:46 GMT""}]","2009-10-22"
+"cond-mat/9401047","Anders Sandvik","A.W. Sandvik and D.J. Scalapino (Dept. of Physics, UC Santa Barbara)","Order-Disorder Transition in a Two-Layer Quantum Antiferromagnet","11 pages (5 postscript figures available upon request), Revtex 3.0",,"10.1103/PhysRevLett.72.2777","UCSBTH-94-01","cond-mat",,"  We have studied the antiferromagnetic order -- disorder transition occurring
+at $T=0$ in a 2-layer quantum Heisenberg antiferromagnet as the inter-plane
+coupling is increased. Quantum Monte Carlo results for the staggered structure
+factor in combination with finite-size scaling theory give the critical ratio
+$J_c = 2.51 \pm 0.02$ between the inter-plane and in-plane coupling constants.
+The critical behavior is consistent with the 3D classical Heisenberg
+universality class. Results for the uniform magnetic susceptibility and the
+correlation length at finite temperature are compared with recent predictions
+for the 2+1-dimensional nonlinear $\sigma$-model. The susceptibility is found
+to exhibit quantum critical behavior at temperatures significantly higher than
+the correlation length.
+","[{""version"":""v1"",""created"":""Fri, 21 Jan 1994 22:20:06 GMT""}]","2009-10-22"
+"hep-lat/9401026","Simon Catterall","S. Catterall, J. Kogut and R. Renken","Phase Structure of Four Dimensional Simplicial Quantum Gravity","11 pages (5 figures)","Phys.Lett.B328:277-283,1994","10.1016/0370-2693(94)91480-X","CERN-TH.7149/94, ILL-(TH)-94-26","hep-lat hep-th",,"  We present the results of a high statistics Monte Carlo study of a model for
+four dimensional euclidean quantum gravity based on summing over
+triangulations. We show evidence for two phases; in one there is a logarithmic
+scaling on the mean linear extent with volume, whilst the other exhibits power
+law behaviour with exponent 1/2. We are able to extract a finite size scaling
+exponent governing the growth of the susceptibility peak
+","[{""version"":""v1"",""created"":""Fri, 21 Jan 1994 17:25:22 GMT""}]","2011-04-20"
+"hep-ph/9401305",,"E. Pallante and R. Petronzio","Quark-Resonance model","41 pages, 11 figures, preprint ROM2F 93/37","Z.Phys. C65 (1995) 487-504","10.1007/BF01556137",,"hep-ph",,"  We construct an effective Lagrangian for low energy hadronic interactions
+through an infinite expansion in inverse powers of the low energy cutoff
+$\Lambda_\chi$ of all possible chiral invariant non-renormalizable interactions
+between quarks and mesons degrees of freedom. We restrict our analysis to the
+leading terms in the $1/N_c$ expansion. The effective expansion is in
+$(\mu^2/\cutoff^2 )^P \ln (\cutoff^2/\mu^2 )^Q$. Concerning the next-to-leading
+order, we show that, while the pure $\mu^2/\cutoff^2 $ corrections cannot be
+traced back to a finite number of non renormalizable interactions, those of
+order $(\mu^2/\cutoff^2 ) \ln (\cutoff^2/\mu^2 )$ receive contributions from a
+finite set of $1/\cutoff^2$ terms. Their presence modifies the behaviour of
+observable quantities in the intermediate $Q^2$ region. We explicitely discuss
+their relevance for the two point vector currents Green's function.
+","[{""version"":""v1"",""created"":""Fri, 21 Jan 1994 18:35:34 GMT""},{""version"":""v2"",""created"":""Thu, 3 Feb 1994 10:50:00 GMT""}]","2009-10-28"
+"hep-ph/9401306","Steve Godfrey","G. Couture and S. Godfrey","A Phenomenological Study of the Process
+  $e^+e^-\to\mu^+\mu^-\nu_l\bar\nu_l$ at High Energy $e^+e^-$ Colliders and
+  Measurement of the $ZWW$ and $\gamma WW$ Couplings","33 pages, OCIP/C 93-18, UQAM-PHE-9306","Phys.Rev. D49 (1994) 5709-5719","10.1103/PhysRevD.49.5709",,"hep-ph",,"  We perform a detailed study of the process $e^+e^-\to
+\mu^+\mu^-\nu_l\bar\nu_l$ including all contributions. The contributions other
+than from real gauge boson production leads to a rich phenomenology. We explore
+the use of the process as a means of precision measurement of the $ZWW$ and
+$\gamma WW$ vertices. We concentrate on LEP II energies, $\sqrt{s}=200$ GeV,
+and energies appropriate to the proposed Next Linear Collider (NLC) high energy
+$e^+e^-$ collider with center of mass energies $\sqrt{s}=500$ and 1~TeV. At 200
+GeV, the process offers, at best, a consistency check of other processes being
+considered at LEP200. At 500~GeV, the parameters $\kappa_\gamma$,
+$\lambda_\gamma$, $\kappa_Z$, and $\lambda_Z$ can be measured to about $\pm
+0.1$ or better at 95\% C.L. while at 1 TeV, they can be measured to about $\pm
+0.01$. At the high luminosities anticipated at high energy linear colliders
+precision measurements are likely to be limited by systematic rather than
+statistical errors.
+","[{""version"":""v1"",""created"":""Fri, 21 Jan 1994 18:51:53 GMT""}]","2009-10-28"
+"hep-ph/9401307",,"C.E. Carlson and K.E. Lassila","Quark cluster signatures in deuteron electromagnetic interactions","18 pages (3 figures available as hard copy), WM-94-101","Phys.Rev.C51:364-370,1995","10.1103/PhysRevC.51.364",,"hep-ph nucl-th",,"  A suggestion is made for distinguishing 2N and 6q short range correlations
+within the deuteron. The suggestion depends upon observing high momentum
+backward nucleons emerging from inelastic electromagnetic scattering from a
+deuteron target. A simple model is worked out to see the size of effects that
+may be expected.
+","[{""version"":""v1"",""created"":""Fri, 21 Jan 1994 22:21:00 GMT""}]","2009-09-25"
+"hep-ph/9401309","Henning Heiselberg","H.Heiselberg","Viscosities of Quark-Gluon Plasmas","12 pages + 6 figures, report LBL-34929","Phys.Rev. D49 (1994) 4739-4750","10.1103/PhysRevD.49.4739",,"hep-ph",,"  The quark and gluon viscosities are calculated in quark-gluon plasmas to
+leading orders in the coupling constant by including screening. For weakly
+interaction QCD and QED plasmas dynamical screening of transverse interactions
+and Debye screening of longitudinal interactions controls the infrared
+divergences. For strongly interacting plasmas other screening mechanisms taken
+from lattice calculations are employed. By solving the Boltzmann equation for
+quarks and gluons including screening the viscosity is calculated to leading
+orders in the coupling constant. The leading logarithmic order is calculated
+exactly by a full variational treatment. The next to leading orders are found
+to be very important for sizable coupling constants as those relevant for the
+transport properties relevant for quark-gluon plasmas created in relativistic
+heavy ion collisions and the early universe.
+","[{""version"":""v1"",""created"":""Sat, 22 Jan 1994 00:55:24 GMT""}]","2009-10-28"
+"hep-th/9401108",,"J. M. Figueroa-O'Farrill","A comment on the magical realizations of W_3",".dvi file + 1 EPS figure, 10 document pages but 5 physical pages","Phys.Lett. B326 (1994) 89-94","10.1016/0370-2693(94)91197-5","QMW-PH-94-1","hep-th",,"  In the process of investigating classical realizations of W_3 in terms of
+free bosons, Romans unveiled a relation to finite-dimensional Jordan algebras
+with a cubic norm. These algebras have been classified and consist of an
+infinite series (yielding the ``generic'' realizations) and four sporadic
+algebras associated to the real division algebras (which yield the ``magical''
+realizations). The generic realizations were shown by Romans to quantize, who
+left the problem of the quantization of the magical realizations open. In later
+work, Mohammedi showed that the first two magical realizations did not survive
+quantization. In this note we close the problem by showing that neither do the
+other two magical realizations.
+","[{""version"":""v1"",""created"":""Fri, 21 Jan 1994 18:11:41 GMT""}]","2009-10-28"
+"hep-th/9401109","Simon Philip Adrian Gill","S.W. Hawking","The Superscattering Matrix for Two Dimensional Black Holes","12 pages (R/94/4)","Phys.Rev. D50 (1994) 3982-3986","10.1103/PhysRevD.50.3982",,"hep-th",,"  A consistent Euclidean semi classical calculation is given for the
+superscattering operator $\$ $ in the RST model for states with a constant flux
+of energy. The $\$ $ operator is CPT invariant. There is no loss of quantum
+coherence when the energy flux is less than a critical rate and complete loss
+when the energy flux is critical.
+","[{""version"":""v1"",""created"":""Fri, 21 Jan 1994 18:44:43 GMT""}]","2009-10-28"
+"hep-th/9401110","Peter Schaller","P.Schaller and T.Strobl","Diffeomorphisms Versus Non Abelian Gauge Transformations: An Example of
+  1+1 Dimensional Gravity","5 pages, Latex, TUW-93-25","Phys.Lett. B337 (1994) 266-270","10.1016/0370-2693(94)90974-1",,"hep-th",,"  We investigate the phase space of a typical model of 1+1 dimensional gravity
+(Jackiw-Teitelboim model with cylindrical topology) using its reformulation as
+a non abelian gauge theory based on the sl(2,R) algebra. Modifying the
+conventional approach we argue that one should take the universal covering of
+SL(2,R) rather than PSL(2,R) as the gauge group of the theory. We discuss the
+consequences for the quantization of the model and find that the spectrum of
+the Dirac observables is sensible to this modification. Our analysis further
+provides an example for a gravity theory where the standard Hamiltonian
+formulation identifies gravitationally inequivalent solutions.
+","[{""version"":""v1"",""created"":""Fri, 21 Jan 1994 19:49:28 GMT""}]","2009-10-28"
+"hep-th/9401111","Charles Thorn","Steven L. Carbon and Charles B. Thorn","Interpretation of High Energy String Scattering in terms of String
+  Configurations","14 pages, phyzzx, psfig required, Florida Preprint UFIFT-94-2","Phys.Rev.D49:6264-6268,1994","10.1103/PhysRevD.49.R6264",,"hep-th",,"  High energy string scattering at fixed momentum transfer, known to be
+dominated by Regge trajectory exchange, is interpreted by identifying families
+of string states which induce each type of trajectory exchange. These include
+the usual leading trajectory $\alpha(t)=\alpha^\prime t+1$ and its daughters as
+well as the ``sister'' trajectories $\alpha_m(t)=\alpha(t)/m-(m-1)/2$ and their
+daughters. The contribution of the sister $\alpha_m$ to high energy scattering
+is dominated by string excitations in the $m^{th}$ mode. Thus, at large $-t$,
+string scattering is dominated by wee partons, consistently with a picture of
+string as an infinitely composite system of ``constituents'' which carry zero
+energy and momentum.
+","[{""version"":""v1"",""created"":""Fri, 21 Jan 1994 20:25:16 GMT""}]","2009-12-30"
+"nucl-th/9401018","Charles Benesh","C.J. Benesh","QCD Evolution by Finite Element Methods","8 pages, LA-UR-94-236","Mod.Phys.Lett.A9:849-852,1994","10.1142/S0217732394000666",,"nucl-th hep-ph",,"  A simple, new method for solving for the $Q^2$ evolution of parton
+distributions in perturbative QCD using cubic splines is described and applied
+to the evolution of nonsinglet quark distributions.
+","[{""version"":""v1"",""created"":""Fri, 21 Jan 1994 22:51:33 GMT""}]","2014-11-18"

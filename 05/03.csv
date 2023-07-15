@@ -1,0 +1,547 @@
+"astro-ph/9405001","Luigi Guzzo","S. Ghigna, S.A. Bonometto, L. Guzzo, R. Giovanelli, M.P. Haynes,
+  A.Klypin & J.R. Primack","Deviations from Hierarchical Clustering in Real and Redshift Space","submitted to ApJ; uuencoded-compressed-tarred PostScript file
+  including figures. Milano Preprint # tbd",,,,"astro-ph",,"  We discuss the effects of redshift--space distortions on the estimate of high
+order galaxy correlation functions. We use both the Perseus--Pisces redshift
+survey and the results of high--resolution N--body simulations to explore the
+consequences of working in redshift space on the detection of deviations from
+hierarchical clustering. Both for real and simulated data, significant
+deviations from hierarchical clustering seem to be present in real space. Their
+behaviour is coherent with that expected from an initially biased galaxy field,
+once the displacement from the sites where galaxies formed, due to the
+nonlinear gravitational evolution, is taken into account. The passage to
+redshift space has the net effect of filtering out the higher powers required
+to fit the distribution in real space. This magnifies the distortions operated
+by nonlinear evolution on the initial distribution, erasing the residual narrow
+scale range (2--5~$h^{-1}$Mpc) where deviations from hierarchical clustering
+are still detectable in real space. We conclude that such deviations can hardly
+be estimated using data in redshift space.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 17:21:23 GMT""}]","2007-05-23"
+"astro-ph/9405002","Uros Seljak","Uros Seljak","Large Scale Structure Effects on the Gravitational Lens Image Positions
+  and Time Delay","20 pages, AAS Latex, ApJ, in press 1994, preprint MIT-CSR-94-05","Astrophys.J.436:509-516,1994","10.1086/174924",,"astro-ph",,"  We compute the fluctuations in gravitational lens image positions and time
+delay caused by large scale structure correlations. We show that these
+fluctuations can be expressed as a simple integral over the density power
+spectrum. Using the {\sl COBE} normalization we find that positions of objects
+at cosmological distances are expected to deviate from their true positions by
+a few arcminutes. These deflections are not directly observable. The positions
+of the images relative to one another fluctuate by a few percent of the
+relative separation, implying that one does not expect multiple images to be
+produced by large scale structures. Nevertheless, the fluctuations are larger
+than the observational errors on the positions and affect reconstructions of
+the lens potential. The time delay fluctuations have a geometrical and a
+gravitational contribution. Both are much larger than the expected time delay
+from the primary lens, but partially cancel each other. We find that large
+scale structure weakly affects the time delay and time delay measurements can
+be used as a probe of the distance scale in the universe.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 18:08:20 GMT""}]","2008-11-26"
+"astro-ph/9405003",,"Anatoly Klypin, Stefano Borgani, Jon Holtzman, & Joel Primack","Damped Lyman Alpha Systems vs. Cold + Hot Dark Matter","submitted to ApJ 16 pages including 3 figures, uuencoded compressed
+  postscript, SCIPP 94/09","Astrophys.J. 444 (1995) 1","10.1086/175578",,"astro-ph hep-ph",,"  Although the Cold + Hot Dark Matter (CHDM) cosmology provides perhaps the
+best fit of any model to all the available data at the current epoch, CHDM
+produces structure at relatively low redshifts and thus could be ruled out if
+there were evidence for formation of massive objects at high redshifts. Damped
+Ly$\alpha$ systems are abundant in quasar absorption spectra and thus provide
+possibly the most significant evidence for early structure formation, and thus
+perhaps the most stringent constraint on CHDM. Using the numbers of halos in
+N-body simulations to normalize Press-Schechter estimates of the number
+densities of protogalaxies as a function of redshift, we find that CHDM with
+$\Omega_c/\Omega_\nu/\Omega_b = 0.6/0.3/0.1$ is compatible with the damped
+Ly$\alpha$ data at $\le 2.5$, but that it is probably incompatible with the
+limited $z>3$ damped Ly$\alpha$ data. The situation is uncertain because there
+is very little data for $z>3$, and also it is unclear whether all damped
+Ly$\alpha$ systems are associated with collapsed protogalaxies. The predictions
+of CHDM are quite sensitive to the hot (neutrino) fraction, and we find that
+$\Omega_c/\Omega_\nu/\Omega_b = 0.675/0.25/0.075$ is compatible even with the
+$z>3$ data. This corresponds to lowering the neutrino mass from 6.8 to 5.7 eV,
+for $H_0=50\kmsMpc$. In CHDM, the higher redshift damped Ly$\alpha$ systems are
+predicted to have lower masses, which can be checked by measuring the velocity
+widths of the associated metal line systems.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 18:05:52 GMT""}]","2009-10-22"
+"astro-ph/9405004","Lawrence M. Krauss","Lawrence M. Krauss and Peter J. Kernan","Recent Deuterium Observations and Big Bang Nucleosynthesis: A New
+  Paradigm?","10 pages, latex, 2 uuencoded figures appended, one ps file available
+  by anonymous ftp (ftp.cwru.edu, physics/bbndeut/Bbnfig1.ps.Z) CWRU-P6-94",,"10.1086/187516",,"astro-ph hep-ph",,"  A new observation of D in a primordial gas cloud, made using the high
+resolution spectrograph at the Keck telescope, indicates an abundance $ D/H
+=(1.9-2.5) \times 10^{-4}$ \cite{SCHR}. Since deuterium is destroyed by stars,
+and the predicted Big Bang Nucleosynthesis (BBN) abundance falls monotonically
+with increasing baryon density, deuterium places a reliable upper limit on the
+baryon density of the universe. Because the new measurement is substationally
+larger than previous, galactic estimates, it would force a reassessment of BBN
+predictions--- if it is confirmed. Using a new BBN Monte Carlo code and
+analysis technique \cite{KK} we derive constraints implied by a lower limit of
+$D/H =1.9 \times 10^{-4}$. We find $\Omega_B \le .0068h^{-2}$, which is
+definitively incompatible with baryonic halo dark matter. We also explore
+implications of combining the D measurement with other light element
+abundances. $^7Li$ provides a lower bound, $\Omega_B \ge .004h^{-2}$. Also, the
+initial $^4He$ mass fraction ($Y_p$) would have to be less than $23.5\%$,
+assuming 3 light neutrino species---in good agreement with present best fits.
+Finally, observational upper limits of $Y_p \le 24 \%$ and $^7Li/H \le 2.3
+\times 10^{-10}$ would allow the number of neutrinos to be as big as 3.9.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 22:29:15 GMT""}]","2009-10-22"
+"astro-ph/9405005","Jane Charlton","Jane C. Charlton, Edwin E. Salpeter, and Suzanne M. Linder","Competition between Pressure and Gravity Confinement in Lyman-Alpha
+  Forest Observations","10 pages plain TeX, 2 figures available upon request, submitted to
+  ApJ Letters, PSU-jc-1","Amer.Astron.Soc.Meeting 184 (1994) 6002","10.1086/187430",,"astro-ph",,"  A break in the distribution function of Ly$\alpha$ clouds (at a typical
+redshift of $2.5$) has been reported by Petitjean et al. (1993). This feature
+is what would be expected from a transition between pressure confinement and
+gravity confinement (as predicted in Charlton, Salpeter, and Hogan (1993)). The
+column density at which the feature occurs has been used to determine the
+external confining pressure, $\sim 10 {\rm cm}^{-3} {\rm K}$, which could be
+due to a hot, intergalactic medium. For models that provide a good fit to the
+data, the contribution of the gas in clouds to $\Omega$ is small. The specific
+shape of the distribution function at the transition (predicted by models to
+have a non-monotonic slope) can serve as a diagnostic of the distribution of
+dark matter around Ly$\alpha$ forest clouds, and the present data already
+eliminate certain models.
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 00:26:37 GMT""}]","2009-10-22"
+"astro-ph/9405006","Tsvi Piran","Tsvi Piran","$\gamma$-Ray Bursts and Neutron Star Mergers","using Latex and REVTEX macros. To appear in the Proceedings of the
+  Lanczos Centenary, editted by Moody Chu, Robert Plemmons, David Brown, and
+  Donald Ellison. SIAM publications",,,,"astro-ph",,"  $\gamma$-ray bursts have baffled theorists ever since their accidental
+discovery at the sixties. We suggest that these bursts originate in merger of
+neutron star binaries, taking place at cosmological distances. These mergers
+release $\approx 10^{54}ergs$, in what are possibly the strongest explosions in
+the Universe. If even a small fraction of this energy is channeled to an
+electromagnetic signal it will be detected as a grbs. We examine the virtues
+and limitations of this model and compare it with the recent Compton \g-ray
+observatory results. We also discuss the potential application of grbs to study
+cosmology and show that these burst might lead to a new and independent
+determination of both $H_0$ and $\Omega$.
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 12:35:43 GMT""}]","2007-05-23"
+"astro-ph/9405007","Jochen Greiner","J. Greiner, R. Egger, B. Aschenbach","G272.2--3.2: A centrally filled and possibly young SNR discovered by
+  ROSAT","4 p., LATEX with A\&A macro l-aa",,,,"astro-ph",,"  We report the discovery of a new SNR in the \ros All-Sky-Survey data. The SNR
+has a nearly circular shape with a diameter of about 15 arcmin. The surface
+brightness is rather uniform over the remnant. The observed interstellar
+absorption suggests a distance of about 1.8$^{+1.4}_{-0.8}$ kpc. The X-ray
+emission appears to be of thermal origin with a plasma temperature of about
+10$^7$ K. The Sedov model leads to an age of only 1800 years. We find no
+spectral evidence of non-thermal emission in the center of the remnant. The two
+most likely explanations for the centrally filled structure are evaporation of
+shock heated clouds in the interior of the remnant or a reverse shock heating
+the ejecta of the SNR explosion.
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 15:14:30 GMT""}]","2007-05-23"
+"astro-ph/9405008","Jim Pantaleone","J. Pantaleone","Neutrino Flavor Evolution Near a Supernova's Core","Preprint IUHET-276","Phys.Lett.B342:250-256,1995","10.1016/0370-2693(94)01369-N",,"astro-ph hep-ph",,"  (The discussion is expanded, and a mistake in the crossing probability is
+corrected.)
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 15:15:09 GMT""},{""version"":""v2"",""created"":""Mon, 23 May 1994 14:58:21 GMT""}]","2011-07-19"
+"cmp-lg/9405002",,"Andrew Kehler (Harvard University)","Temporal Relations: Reference or Discourse Coherence?","To appear in the Proceedings of ACL-94, Student Session. 5 pages,
+  LaTeX source, requires lingmacros. Comments are welcome","ACL-94 (Student Session), Las Cruces, New Mexico",,,"cmp-lg cs.CL",,"  The temporal relations that hold between events described by successive
+utterances are often left implicit or underspecified. We address the role of
+two phenomena with respect to the recovery of these relations: (1) the
+referential properties of tense, and (2) the role of temporal constraints
+imposed by coherence relations. We account for several facets of the
+identification of temporal relations through an integration of these.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 20:37:25 GMT""}]","2008-02-03"
+"cmp-lg/9405003","Julia Hirschberg","Julia Hirschberg (AT&T Bell Laboratories)","Some Bibliographical References on Intonation and Intonational Meaning","14 pp of text and citations, bibtex added as separate file",,,,"cmp-lg cs.CL",,"  A by-no-means-complete collection of references for those interested in
+intonational meaning, with other miscellaneous references on intonation
+included. Additional references are welcome, and should be sent to
+julia@research.att.com.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 23:14:24 GMT""}]","2008-02-03"
+"cmp-lg/9405004","Esther Koenig-Baumer","Esther Koenig (Institute for Computational Linguistics, Stuttgart
+  University)","Syntactic-Head-Driven Generation","7 pages, to appear in Proceedings of COLING 94",,,,"cmp-lg cs.CL",,"  The previously proposed semantic-head-driven generation methods run into
+problems if none of the daughter constituents in the syntacto-semantic rule
+schemata of a grammar fits the definition of a semantic head given in Shieber
+et al. 1990. This is the case for the semantic analysis rules of certain
+constraint-based semantic representations, e.g. Underspecified Discourse
+Representation Structures (UDRSs) (Frank/Reyle 1992). Since head-driven
+generation in general has its merits, we simply return to a syntactic
+definition of `head' and demonstrate the feasibility of syntactic-head-driven
+generation. In addition to its generality, a syntactic-head-driven algorithm
+provides a basis for a logically well-defined treatment of the movement of
+(syntactic) heads, for which only ad-hoc solutions existed, so far.
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 13:14:43 GMT""}]","2008-02-03"
+"cmp-lg/9405005",,"David M. Magerman and Mitchell P. Marcus","Pearl: A Probabilistic Chart Parser","7 pages","Proceedings, 2nd International Workshop for Parsing Technologies",,,"cmp-lg cs.CL",,"  This paper describes a natural language parsing algorithm for unrestricted
+text which uses a probability-based scoring function to select the ""best"" parse
+of a sentence. The parser, Pearl, is a time-asynchronous bottom-up chart parser
+with Earley-type top-down prediction which pursues the highest-scoring theory
+in the chart, where the score of a theory represents the extent to which the
+context of the sentence predicts that interpretation. This parser differs from
+previous attempts at stochastic parsers in that it uses a richer form of
+conditional probabilities based on context to predict likelihood. Pearl also
+provides a framework for incorporating the results of previous work in
+part-of-speech assignment, unknown word models, and other probabilistic models
+of linguistic features into one parsing tool, interleaving these techniques
+instead of using the traditional pipeline architecture. In preliminary tests,
+Pearl has been successful at resolving part-of-speech and word (in speech
+processing) ambiguity, determining categories for unknown words, and selecting
+correct parses first using a very loosely fitting covering grammar.
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 14:43:09 GMT""}]","2008-02-03"
+"cmp-lg/9405006",,"David M. Magerman and Carl Weir","Efficiency, Robustness, and Accuracy in Picky Chart Parsing","8 pages","Proceedings, ACL 1992",,,"cmp-lg cs.CL",,"  This paper describes Picky, a probabilistic agenda-based chart parsing
+algorithm which uses a technique called {\em probabilistic prediction} to
+predict which grammar rules are likely to lead to an acceptable parse of the
+input. Using a suboptimal search method, Picky significantly reduces the number
+of edges produced by CKY-like chart parsing algorithms, while maintaining the
+robustness of pure bottom-up parsers and the accuracy of existing probabilistic
+parsers. Experiments using Picky demonstrate how probabilistic modelling can
+impact upon the efficiency, robustness and accuracy of a parser.
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 14:51:01 GMT""}]","2008-02-03"
+"cmp-lg/9405007",,"Ezra Black, Fred Jelinek, John Lafferty, David M. Magerman, Robert
+  Mercer, and Salim Roukos","Towards History-based Grammars: Using Richer Models for Probabilistic
+  Parsing","6 pages","Proceedings, DARPA Speech and Natural Language Workshop, 1992",,,"cmp-lg cs.CL",,"  We describe a generative probabilistic model of natural language, which we
+call HBG, that takes advantage of detailed linguistic information to resolve
+ambiguity. HBG incorporates lexical, syntactic, semantic, and structural
+information from the parse tree into the disambiguation process in a novel way.
+We use a corpus of bracketed sentences, called a Treebank, in combination with
+decision tree building to tease out the relevant aspects of a parse tree that
+will determine the correct parse of a sentence. This stands in contrast to the
+usual approach of further grammar tailoring via the usual linguistic
+introspection in the hope of generating the correct parse. In head-to-head
+tests against one of the best existing robust probabilistic parsing models,
+which we call P-CFG, the HBG model significantly outperforms P-CFG, increasing
+the parsing accuracy rate from 60% to 75%, a 37% reduction in error.
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 15:01:24 GMT""}]","2008-02-03"
+"cmp-lg/9405009",,"David M. Magerman","Natural Language Parsing as Statistical Pattern Recognition","160+ pages, doctoral dissertation (latex with figures)",,,,"cmp-lg cs.CL",,"  Traditional natural language parsers are based on rewrite rule systems
+developed in an arduous, time-consuming manner by grammarians. A majority of
+the grammarian's efforts are devoted to the disambiguation process, first
+hypothesizing rules which dictate constituent categories and relationships
+among words in ambiguous sentences, and then seeking exceptions and corrections
+to these rules.
+  In this work, I propose an automatic method for acquiring a statistical
+parser from a set of parsed sentences which takes advantage of some initial
+linguistic input, but avoids the pitfalls of the iterative and seemingly
+endless grammar development process. Based on distributionally-derived and
+linguistically-based features of language, this parser acquires a set of
+statistical decision trees which assign a probability distribution on the space
+of parse trees given the input sentence. These decision trees take advantage of
+significant amount of contextual information, potentially including all of the
+lexical information in the sentence, to produce highly accurate statistical
+models of the disambiguation process. By basing the disambiguation criteria
+selection on entropy reduction rather than human intuition, this parser
+development method is able to consider more sentences than a human grammarian
+can when making individual disambiguation rules.
+  In experiments between a parser, acquired using this statistical framework,
+and a grammarian's rule-based parser, developed over a ten-year period, both
+using the same training material and test sentences, the decision tree parser
+significantly outperformed the grammar-based parser on the accuracy measure
+which the grammarian was trying to maximize, achieving an accuracy of 78%
+compared to the grammar-based parser's 69%.
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 14:30:10 GMT""},{""version"":""v2"",""created"":""Thu, 5 May 1994 02:51:05 GMT""}]","2016-08-31"
+"comp-gas/9405001",,"R.G.M. van der Sman (ATO-DLO, Agricultural Research Institute,
+  Holland), M.F.M. Janssens (ATO-DLO)","Lattice Gas Automata: a discrete model for simulation of continuous
+  transport phenomena in packages of agricultural products","5 pages, paper accepted for European SCS MultiConference, will appear
+  in the proceedings, post script files can be requested from us by e-mail, as
+  we use MS-DOS machines, the post script files can not be compressed and
+  encoded A bibfile (esm.bib is pasted at the end of the tex file)",,,,"comp-gas nlin.CG",,"  A Lattice Boltzmann scheme has been applied to the problem of heat and mass
+transport in packagings of cut flowers.
+  The LB scheme, simulating convection-diffusion processes and heat and mass
+transfer between flowers and air flow, is described in detail. The objective of
+the research programme is to optimize the packaging design for improved flower
+quality. Comparison of experimental results and simulation results show that
+the LB-scheme is a promising simulation technique for achieving the research
+objective.
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 13:30:58 GMT""}]","2008-02-03"
+"cond-mat/9405002","Doug Toussaint","K.C. Ung, S. Mazumdar, and D.Toussaint","Metal-insulator and insulator-insulator transitions in the
+  quarter-filled band organic conductors","9 pages, uuencoded compressed Postscript file",,"10.1103/PhysRevLett.73.2603",,"cond-mat",,"  The theory of the 2k_F and 4k_F instabilities in quarter-filled band organic
+conductors is revisited. The phase angles of the 2k_F bond and charge density
+waves are shown to change as electron correlation is turned on, and this
+switching of the phase angle is critical for understanding the bond distortion
+patterns in the real materials. Intersite Coulomb interactions in the real
+materials must be nonzero but less than a critical value. Both intersite and
+intrasite charge density waves are destabilized in the quasi-two-dimensional
+regime for realistic parameters, thus explaining the weakening of these phases
+in the superconducting materials.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 21:29:05 GMT""}]","2009-10-22"
+"cond-mat/9405003",,"Antonio Coniglio, Patrizia Ruggiero and Marco Zannetti","Scaling and Crossover in the Large-N Model for Growth Kinetics","48 pages with 6 figures available upon request, plain LaTex",,"10.1103/PhysRevE.50.1046",,"cond-mat",,"  The dependence of the scaling properties of the structure factor on space
+dimensionality, range of interaction, initial and final conditions, presence or
+absence of a conservation law is analysed in the framework of the large-N model
+for growth kinetics. The variety of asymptotic behaviours is quite rich,
+including standard scaling, multiscaling and a mixture of the two. The
+different scaling properties obtained as the parameters are varied are
+controlled by a structure of fixed points with their domains of attraction.
+Crossovers arising from the competition between distinct fixed points are
+explicitely obtained. Temperature fluctuations below the critical temperature
+are not found to be irrelevant when the order parameter is conserved. The model
+is solved by integration of the equation of motion for the structure factor and
+by a renormalization group approach.
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 15:20:00 GMT""}]","2009-10-22"
+"cond-mat/9405004",,"P. Leboeuf & A. Mouchet","Tunneling and the Band Structure of Chaotic Systems","11 pages, Latex, figures on request to the author (to be sent by fax)",,"10.1103/PhysRevLett.73.1360",,"cond-mat chao-dyn nlin.CD",,"  We compute the dispersion laws of chaotic periodic systems using the
+semiclassical periodic orbit theory to approximate the trace of the powers of
+the evolution operator. Aside from the usual real trajectories, we also include
+complex orbits. These turn out to be fundamental for a proper description of
+the band structure since they incorporate conduction processes through
+tunneling mechanisms. The results obtained, illustrated with the kicked-Harper
+model, are in excellent agreement with numerical simulations, even in the
+extreme quantum regime.
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 15:26:55 GMT""}]","2009-10-22"
+"funct-an/9405001","Ruy Exel","Ruy Exel","Twisted Partial Actions, A Classification of Stable C*-Algebraic Bundles
+  (Preliminary Version)","28 pages, plain TeX, USP-RE-01",,,,"funct-an math.OA",,"  We introduce the notion of continuous twisted partial actions of a locally
+compact group on a C*-algebra. With such, we construct an associated
+C*-algebraic bundle called the semidirect product bundle. Our main theorem
+shows that, given any C*-algebraic bundle which is second countable and whose
+unit fiber algebra is stable, there is a continuous twisted partial action of
+the base group on the unit fiber algebra, whose associated semidirect product
+bundle is isomorphic to the given one.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 21:05:52 GMT""}]","2008-02-03"
+"funct-an/9405002","Vladimir Kisil","Vladimir V. Kisil","No More Than Mechanics. I","15 pages, LaTeX2e; on 05/02/2004 files were updated to produce PS","J. of Natural Geometry, v. 9 (1996), no. 1, pp. 1-14",,"CINVESTAV-MATH-94-151","funct-an math.OA",,"  One can introduce so-called {\em Plain Mechanics} having an {\bf operator
+realization}. Then the set of one-dimension representations of this operator
+realization may be identified with the Classical Mechanics. Different
+irreducible infinite-dimension representations may be recognized as Quantum
+Mechanics for different $\hbar$ (the Planck constant). It can be done in the
+such manner that the following diagram will be commutative.
+  Plain Mechanics
+  / \
+  / \
+  / \
+  Quantum Mechanics --> Classical Mechanics h->0
+  Here the horizontal arrow is well known correspondence between Quantum and
+Classical Mechanics if Planck constant tensing to zero. A {\em realization} of
+this scheme for a particle in $n$-dimensional space by two-sided convolutions
+on the Heisenberg group is constructed. We also introduce the {\em motion
+equations} for observables in this realization. The left arrow of the given
+diagram carries this equation to the Heisenberg one and the right arrow maps it
+to the Hamilton equation.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 23:06:00 GMT""},{""version"":""v2"",""created"":""Mon, 9 May 1994 17:24:00 GMT""},{""version"":""v3"",""created"":""Thu, 5 Feb 2004 19:03:14 GMT""}]","2008-02-03"
+"gr-qc/9405004","Mark Trodden","R. Moessner and M. Trodden (Brown University)","Singularity-Free Two Dimensional Cosmologies","15 pages, uses LaTeX, 7 figures (available from the authors),
+  significant changes to conformal matter section, more figures added","Phys.Rev.D51:2801-2807,1995","10.1103/PhysRevD.51.2801","BROWN-HET-942","gr-qc hep-th",,"  We present a class of theories of two dimensional gravity which admits
+homogeneous and isotropic solutions that are nonsingular and asymptotically
+approach a FRW matter dominated universe at late times. These models are
+generalizations of two dimensional dilaton gravity and both vacuum solutions
+and those including conformally coupled matter are investigated. In each case
+our construction leads to an inflationary stage driven by the gravitational
+sector. Our work comprises a simple example of the `Nonsingular Universe'
+constructions of ref. [1].
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 17:41:49 GMT""},{""version"":""v2"",""created"":""Thu, 3 Nov 1994 18:36:25 GMT""}]","2011-07-19"
+"gr-qc/9405005","Paul Henry Casper","Bruce Allen and Paul Casper","A Closed-Form Expression for the Gravitational Radiation Rate from
+  Cosmic Strings","29 pages TeX, 16 figures and computer C-code available via anonymous
+  ftp from directory pub/pcasper at alpha1.csd.uwm.edu, WISC-MILW-94-TH-10,
+  (section 7 has been expanded, two figures added, and minor grammatical
+  changes made.)","Phys.Rev. D50 (1994) 2496-2518","10.1103/PhysRevD.50.2496",,"gr-qc astro-ph",,"  We present a new formula for the rate at which cosmic strings lose energy
+into gravitational radiation, valid for all piecewise-linear cosmic string
+loops. At any time, such a loop is composed of $N$ straight segments, each of
+which has constant velocity. Any cosmic string loop can be arbitrarily-well
+approximated by a piecewise-linear loop with $N$ sufficiently large. The
+formula is a sum of $O(N^4)$ polynomial and log terms, and is exact when the
+effects of gravitational back-reaction are neglected. For a given loop, the
+large number of terms makes evaluation ``by hand"" impractical, but a computer
+or symbolic manipulator yields accurate results. The formula is more accurate
+and convenient than previous methods for finding the gravitational radiation
+rate, which require numerical evaluation of a four-dimensional integral for
+each term in an infinite sum. It also avoids the need to estimate the
+contribution from the tail of the infinite sum. The formula has been tested
+against all previously published radiation rates for different loop
+configurations. In the cases where discrepancies were found, they were due to
+errors in the published work. We have isolated and corrected both the analytic
+and numerical errors in these cases. To assist future work in this area, a
+small catalog of results for some simple loop shapes is provided.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 19:06:08 GMT""},{""version"":""v2"",""created"":""Thu, 14 Jul 1994 19:09:44 GMT""}]","2009-10-22"
+"hep-lat/9405002","Maarten Golterman","Maarten F.L. Golterman","How good is the quenched approximation of QCD?","22 pages, Wash. U. HEP/94-62 (Forgotten set of macros now included,
+  sorry.)","Pramana 45 (1995) S141-S154","10.1007/BF02907971",,"hep-lat hep-ph",,"  The quenched approximation for QCD is, at present and in the foreseeable
+future, unavoidable in lattice calculations with realistic choices of the
+lattice spacing, volume and quark masses. In this talk, I review an analytic
+study of the effects of quenching based on chiral perturbation theory. Quenched
+chiral perturbation theory leads to quantitative insight on the difference
+between quenched and unquenched QCD, and reveals clearly some of the diseases
+which are expected to plague quenched QCD. Uses jnl.tex and epsf.tex for figure
+3. Figures 1 and 2 not included, sorry. Available as hardcopy on request.
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 00:28:43 GMT""},{""version"":""v2"",""created"":""Tue, 3 May 1994 16:07:33 GMT""}]","2015-06-25"
+"hep-ph/9405203","Jose Wudka","Jose Wudka","CP violation in photon-photon collisions","11 pages,. Requires epsf.tex, four figures in separate files f1.ps --
+  f4.ps attached at then end","Nucl.Phys.Proc.Suppl.37A:211-216,1994","10.1016/0920-5632(94)90752-8","UCRHEP-T122","hep-ph",,"  The effective lagrangian parametrization is used to determine the CP
+violating effects in $ \gamma \gamma $ collisions. for the processes studied
+the effects are found to be very small, the one exception being scalar
+production.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 19:36:34 GMT""}]","2015-06-25"
+"hep-ph/9405204",,"Brian H. Smith and M.B. Voloshin","Normalization of QCD corrections in top quark decay","7 pages (LaTeX), TPI-MINN-94/16-T, UMN-TH-1252/94","Phys.Lett. B340 (1994) 176-180","10.1016/0370-2693(94)01270-9",,"hep-ph",,"  We discuss the effects of QCD corrections to the on-shell decay $t \to b W$.
+We resolve the scale ambiguity using the Brodsky-Lepage-Mackenzie scheme, and
+find that the appropriate coupling constant is $\alpha_{s}^{ \overline{MS}}
+(0.122m_{t})$. The largest long distance contribution comes from the definition
+of the on-shell mass of the top quark. We note that QCD corrections to the
+electroweak $\rho$ parameter are extremely small when the $\rho$ parameter is
+expressed in terms of the top quark width.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 19:43:36 GMT""}]","2009-10-28"
+"hep-ph/9405205",,"X. Zhang","The Chiral Lagrangian Approach to the Non-universal Effects in the Zbb
+  Vertex","10 pages, Tex, figures available by request, AMES-HET-94-03,
+  hep-ph/9405205, May 2, 1994. ( only changes in the references )","Mod.Phys.Lett. A9 (1994) 1955-1962","10.1142/S0217732394001817",,"hep-ph",,"  We calculate the top quark loop corrections to the Zbb vertex in the chiral
+lagrangian of the dynamical electroweak symmetry breaking theory. We use the
+effective lagrangian based on coset space SU(2) X U(1) / U(1) with the gauge
+interactions switched off, so these corrections are directly related to the
+Physics associated with the heavy top quark and the mass generation in the
+dynamical models.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 21:18:27 GMT""},{""version"":""v2"",""created"":""Thu, 2 Jun 1994 03:06:54 GMT""}]","2009-10-28"
+"hep-ph/9405206","Jose Wudka","Jose Wudka","Effective Lagrangians (for electroweak physics)","48 pages",,,"UCRHEP-T121","hep-ph",,"  In this set of lectures I will present an elementary introduction to the uses
+of effective lagrangians in the electroweak interaction with emphasis in
+practical applications
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 21:37:27 GMT""}]","2007-05-23"
+"hep-ph/9405207","Arkady Vainshtein","M. Shifman, N.G. Uraltsev and A. Vainshtein","$|V_{cb}|$ from OPE Sum Rules for Heavy Flavor Transitions","14 pages + uuencoded ps file with 1 figure, Latex, TPI-MINN-94/13-T,
+  NSF-ITP-94-39","Phys.Rev.D51:2217,1995; Erratum-ibid.D52:3149,1995;
+  Phys.Rev.D52:3149,1995","10.1103/PhysRevD.51.2217 10.1103/PhysRevD.52.3149",,"hep-ph",,"  We derive a model-independent upper bound for the axial-vector form factor of
+the $B\ra D^*$ transition at zero recoil, $F_{B\ra D^*}$. The form factor turns
+out to be noticeably less than unity. The deviation of $F_{B\ra D^*}$ from
+unity is larger than previously anticipated. Using our estimate we extract
+$|V_{cb}|$ from the measured exclusive rate of $B\ra D^* l\nu$ extrapolated to
+the point of zero recoil. The central `` exclusive"" value of $|V_{cb}|$ is in
+agreement with the value obtained from the inclusive semileptonic width $\Gamma
+(B\ra X_c l\nu)$. We argue that the theoretical uncertainty in determining
+$|V_{cb}|$ from the total inclusive width is significantly reduced if a
+constraint on the quark mass difference $m_b - m_c$ stemming from the heavy
+quark expansion is taken into account.
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 06:07:33 GMT""}]","2014-11-17"
+"hep-ph/9405208","Juraj Bohacik","O.A.Borisenko, J.Boh\`a\v{c}ik, V.V.Skalozub","$A_0$ condensate in QCD","cca 170kB, Latex, two figures in PostScript awailable on request","Fortsch.Phys.43:301-348,1995","10.1002/prop.2190430403",,"hep-ph",,"  A survey devoted to $A_0$-condensate in gauge theories at high temperature is
+presented. Both the theoretical foundations of the spontaneously generated
+condensate and known methods of its calculation are discussed. As most
+important consequence the SU(N) global symmetry breakdown is investigated in
+details. Influence of $A_0$ on matter fields is studied in different aspects.
+Some new results concerning this subject are reported as well.
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 08:13:11 GMT""}]","2010-11-01"
+"hep-ph/9405209",,"S. Narison","Dominance of the light-quark condensate in the heavy-to-light exclusive
+  decays","10 pages, CERN-TH 7237/94 (the previous version contains numerical
+  errors). Latex file (run twice) 3 ps.figures available by mail","Phys.Lett. B345 (1995) 166-174","10.1016/0370-2693(94)01428-F",,"hep-ph",,"  Using the QCD {\it hybrid} (moments-Laplace) sum rule, we show
+$semi$-$analytically$ that, in the limit $M_b \rar \infty$, the $q^2$ and $M_b$
+behaviours of the heavy-to-light exclusive ($\bar B\rar \rho~(\pi)$
+semileptonic as well as the $ B\rar \rho\gamma$ rare) decay--form factors are
+$universally$ dominated by the contribution of the soft light-quark condensate
+rather than that of the hard perturbative diagram. The QCD-analytic $q^2$
+behaviour of the form factors is a polynomial in $q^2/M^2_b$, which mimics
+quite well the usual pole parametrization, except in the case of the $A_1^B$
+form factor, where there is a significant deviation from this polar form. The
+$M_b$-dependence of the form factors expected from HQET and lattice results is
+recovered. We extract with a good accuracy the ratios: $V^B(0)/A^B_1(0) \simeq
+A^B_2(0)/A^B_1(0) \simeq 1.11\pm 0.01$, and $A^B_1(0)/F^B_1(0) \simeq 1.18 \pm
+0.06$; combined with the ``world average"" value of $f^B_+(0)$ or/and
+$F^B_1(0)$, these ratios lead to the decay rates: $\Gamma_{\bar B\rar \pi e\bar
+\nu} \simeq (4.3 \pm 0.7)
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 09:34:04 GMT""},{""version"":""v2"",""created"":""Wed, 8 Jun 1994 17:43:08 GMT""}]","2009-10-28"
+"hep-ph/9405210","Peter Landshoff","P V Landshoff","Minijets at Small x","talk at XXIX Rencontre de Moriond, March 1994 6 pages including 7
+  figures, uuencoded postscript file, DAMTP 94/32",,,,"hep-ph",,"  Nonperturbative pomeron exchange at high energy includes minijet production.
+At moderate $Q^2$ it is responsible for the small-$x$ behaviour of $\nu W_2$.
+Hence minijet production should be a feature of deep inelastic scattering at
+small $x$.
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 09:46:19 GMT""}]","2007-05-23"
+"hep-ph/9405211","C. Lovett-Turner","C.N.Lovett-Turner (Centre for Particle Theory, University of Durham,
+  South Road, Durham, DH1 3LE, England)","The Three-Jet Rate in \(e^{+}e^{-}\) Annihilation","LaTeX - 6 pages, DTP/94/24","Phys.Lett. B329 (1994) 361-363","10.1016/0370-2693(94)90786-2",,"hep-ph",,"  Progress has been made on the calculation of \(R_{3}\), the three-jet rate in
+\(e^{+}e^{-}\) annihilation, in the \(k_\bot \) (Durham) scheme. Using the
+coherent branching formalism \cite{b,c,d}, an explicit expression for \(R_{3}\)
+is calculated. In this, leading and next-to-leading large logarithms (LL and
+NLL) are resummed to all orders in QCD perturbation theory. In addition to
+exponentials an error function is involved.
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 11:08:21 GMT""}]","2009-10-28"
+"hep-ph/9405212","Debajyoti Choudhury","Debajyoti Choudhury and Frank Cuypers","Electron-Electron Scattering as a Probe of Anomalous Gauge Couplings","24 pages (LaTeX), 12 figures (uuencoded postscript file submitted
+  through `figures option'), MPI preprint MPI-PhT/94-24","Nucl.Phys. B429 (1994) 33-49","10.1016/S0550-3213(94)80040-5",,"hep-ph",,"  The effect of anomalous gauge couplings on polarized $e^- e^-$ scattering
+cross sections is examined. It turns out that different combinations of beam
+polarizations provide constraints that are complementary to each other and to
+those obtained from other experiments, such as $e^+ e^-$, $e^- \gamma$ and
+$\gamma \gamma$ collisions.
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 13:25:51 GMT""}]","2009-10-28"
+"hep-ph/9405213","Apoorva D. Patel","Apoorva Patel","From Kondo Model and Strong Coupling Lattice QCD to the Isgur-Wise
+  Function","9 pages, no figures, IISc-CTS-3/94",,,,"hep-ph hep-lat hep-th",,"  Isgur-Wise functions parametrise the leading behaviour of weak decay form
+factors of mesons and baryons containing a single heavy quark. The form factors
+for the quark mass operator are calculated in strong coupling lattice QCD, and
+Isgur-Wise functions extracted from them. Based on renormalisation group
+invariance of the operators involved, it is argued that the Isgur-Wise
+functions would be the same in the weak coupling continuum theory. (Invited
+talk presented at the International Colloquium on Modern Quantum Field Theory
+II, TIFR, Bombay, January 5-11, 1994. To appear in proceedings.)
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 14:52:09 GMT""}]","2007-05-23"
+"hep-th/9405009",,"D.K. Park","Self-adjoint Extension Approach to the spin-1/2 Aharonov-Bohm-Coulomb
+  Problem","11 pages","Phys. Rev. D, 50 (1994) 7715","10.1103/PhysRevD.50.7715",,"hep-th",,"  The spin-1/2 Aharonov-Bohm problem is examined in the Galilean limit for the
+case in which a Coulomb potential is included. It is found that the application
+of the self-adjoint extension method to this system yields singular solutions
+only for one-half the full range of flux parameter which is allowed in the
+limit of vanishing Coulomb potential. Thus one has a remarkable example of a
+case in which the condition of normalizability is necessary but not sufficient
+for the occurrence of singular solutions. Expressions for the bound state
+energies are derived. Also the conditions for the occurrence of singular
+solutions are obtained when the non-gauge potential is $\xi/r^p (0\leq p<2)$.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 16:37:14 GMT""}]","2009-10-28"
+"hep-th/9405010","Harold Widom","Harold Widom","Asymptotics for the Fredholm Determinant of the Sine Kernel on a Union
+  of Intervals","24 pages","Commun.Math.Phys. 171 (1995) 159-180","10.1007/BF02103774",,"hep-th math.CA nlin.SI solv-int",,"  In the bulk scaling limit of the Gaussian Unitary Ensemble of Hermitian
+matrices the probability that an interval of length $s$ contains no eigenvalues
+is the Fredholm determinant of the sine kernel $\sin(x-y)\over\pi(x-y)$ over
+this interval. A formal asymptotic expansion for the determinant as $s$ tends
+to infinity was obtained by Dyson. In this paper we replace a single interval
+of length $s$ by $sJ$ where $J$ is a union of $m$ intervals and present a proof
+of the asymptotics up to second order. The logarithmic derivative with respect
+to $s$ of the determinant equals a constant (expressible in terms of
+hyperelliptic integrals) times $s$, plus a bounded oscillatory function of $s$
+(zero of $m=1$, periodic if $m=2$, and in general expressible in terms of the
+solution of a Jacobi inversion problem), plus $o(1)$. Also determined are the
+asymptotics of the trace of the resolvent operator, which is the ratio in the
+same model of the probability that the set contains exactly one eigenvalue to
+the probability that it contains none. The proofs use ideas from orthogonal
+polynomial theory.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 18:02:39 GMT""}]","2009-10-28"
+"hep-th/9405011",,"A.Gerasimov, S.Khoroshkin, D.Lebedev, A.Mironov, A.Morozov","Generalized Hirota Equations and Representation Theory. I. The case of
+  $SL(2)$ and $SL_q(2)$""","20 pages","Int.J.Mod.Phys. A10 (1995) 2589-2614","10.1142/S0217751X95001236","ITEP-M-2/94, FIAN/TD-5/94, NBI-HE-94-27","hep-th nlin.SI solv-int",,"  This paper begins investigation of the concept of ``generalized
+$\tau$-function'', defined as a generating function of all the matrix elements
+of a group element $g \in G$ in a given highest-weight representation of a
+universal enveloping algebra ${\cal G}$. In the generic situation, the
+time-variables correspond to the elements of maximal nilpotent subalgebras
+rather than Cartanian elements. Moreover, in the case of quantum groups such
+$\tau$-``functions'' are not $c$-numbers but take their values in
+non-commutative algebras (of functions on the quantum group $G$). Despite all
+these differences from the particular case of conventional $\tau$-functions of
+integrable (KP and Toda lattice) hierarchies (which arise when $G$ is a
+Kac-Moody (1-loop) algebra of level $k=1$), these generic $\tau$-functions also
+satisfy bilinear Hirota-like equations, which can be deduced from manipulations
+with intertwining operators. The most important applications of the formalism
+should be to $k>1$ Kac-Moody and multi-loop algebras, but this paper contains
+only illustrative calculations for the simplest case of ordinary (0-loop)
+algebra $SL(2)$ and its quantum counterpart $SL_q(2)$, as well as for the
+system of fundamental representations of $SL(n)$.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 20:47:59 GMT""}]","2009-10-28"
+"hep-th/9405012",,"Xianzhe Dai and Daniel S. Freed","Eta-Invariants and Determinant Lines","53 pages + 3 figures (added historical references, made a few minor
+  writing corrections)","J.Math.Phys. 35 (1994) 5155-5194; Erratum-ibid. 42 (2001)
+  2343-2344","10.1063/1.530747",,"hep-th dg-ga math.DG",,"  We study eta-invariants on odd dimensional manifolds with boundary. The
+dependence on boundary conditions is best summarized by viewing the
+(exponentiated) eta-invariant as an element of the (inverse) determinant line
+of the boundary. We prove a gluing law and a variation formula for this
+invariant. This yields a new, simpler proof of the holonomy formula for the
+determinant line bundle of a family of Dirac operators, also known as the
+``global anomaly'' formula.
+  This paper is written using AMSTeX 2.1, which can be obtained via ftp from
+the American Mathematical Society (instructions included). A postscript file
+with figures was submitted separately in uuencoded tar-compressed format.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 22:16:24 GMT""},{""version"":""v2"",""created"":""Tue, 3 May 1994 22:46:16 GMT""},{""version"":""v3"",""created"":""Wed, 4 May 1994 13:00:23 GMT""},{""version"":""v4"",""created"":""Wed, 8 Jun 1994 22:13:54 GMT""}]","2016-09-06"
+"hep-th/9405013","Samura Toshiharu","Koichi HAYASHI and Toshiharu SAMURA","Planckian Scatterings of Massive Particles and Gravitational Shock Waves","10 Pages, KOBE--FHD--93--05, LaTeX",,,,"hep-th",,"  The scattering process of two particles at Planck energies or beyond is
+calculated using the gravitational shock wave metric for a massive black hole.
+Then, the scattering between a heavy mass particle and a small mass one is deal
+with. The cross section contains an extra new term of $\sigma \propto G^3$ as
+the correction term of the leading term derived by 't Hooft. The
+ultrarelativistic limit of the Lorentz boosted Reissner--Norstrom black hole is
+also calculated.
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 07:57:59 GMT""}]","2007-05-23"
+"hep-th/9405014","Anna Koubek","A. Koubek","Form-Factor Bootstrap and the Operator Content of Perturbed Minimal
+  Models","30 pages; 1 section added, some parts slightly rewritten; (accepted
+  for publication by Nucl. Phys. B), DAMTP-HEP-94/15","Nucl.Phys. B428 (1994) 655-680","10.1016/0550-3213(94)90368-9",,"hep-th",,"  The form-factor bootstrap approach is applied to the perturbed minimal models
+$M_{2,2n+3}$ in the direction of the primary field $\phi_{1,3}$. These theories
+are integrable and contain $n$ massive scalar particles, whose $S$--matrix is
+purely elastic. The form-factor equations do not refer to a specific operator.
+We use this fact to classify the operator content of these models. We show that
+the perturbed models contain the same number of primary fields as the conformal
+ones. Explicit solutions are constructed and conjectured to correspond to the
+off-critical primary fields $\phi_{1,k}$.
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 09:29:59 GMT""},{""version"":""v2"",""created"":""Wed, 4 May 1994 13:41:37 GMT""},{""version"":""v3"",""created"":""Tue, 23 Aug 1994 13:33:22 GMT""}]","2009-10-28"
+"hep-th/9405015",,"J. Navarro-Salas, M. Navarro and C. F. Talavera","Canonical Structure of 2D Black Holes","8 pages, 1 figure (uuencoded) included, plain Latex, a4, psfig.
+  FTUV/94-23, IFIC/94-21, Imperial-TP/93-93/32","Phys.Lett. B335 (1994) 334-338","10.1016/0370-2693(94)90360-3",,"hep-th",,"  We determine the canonical structure of two-dimensional black-hole solutions
+arising in $2D$ dilaton gravity. By choosing the Cauchy surface appropriately
+we find that the canonically conjugate variable to the black hole mass is given
+by the difference of local (Schwarzschild) time translations at right and left
+spatial infinities. This can be regarded as a generalization of Birkhoff's
+theorem.
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 14:05:00 GMT""},{""version"":""v2"",""created"":""Wed, 4 May 1994 11:41:00 GMT""}]","2009-10-28"
+"math/9404201",,"John M. Lee","CR manifolds with noncompact connected automorphism groups",,"J. Geometric Analysis 6 (1996) 79-90",,,"math.CV",,"  The main result of this paper is that the identity component of the
+automorphism group of a compact, connected, strictly pseudoconvex CR manifold
+is compact unless the manifold is CR equivalent to the standard sphere. In
+dimensions greater than 3, it has been pointed out by D. Burns that this result
+follows from known results on biholomorphism groups of complex manifolds with
+boundary and the fact that any such CR manifold M can be realized as the
+boundary of an analytic variety. When M is 3-dimensional, Burns's proof breaks
+down because abstract CR 3-manifolds are generically not realizable as
+boundaries. This paper provides an intrinsic proof of compactness that works in
+any dimension.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 20:46:39 GMT""}]","2009-09-25"
+"nucl-th/9405001",,"I. Sarcevic and P. Valerio","Charm Production at RHIC to O(\ALPHA_S^3)","AZPH-TH/94-13; revised version, new figures, results obtained with
+  new shadowing function; accepted for publication in Physics Letters B","Phys.Lett. B338 (1994) 426-432","10.1016/0370-2693(94)90796-X",,"nucl-th hep-ph",,"  We present results on rapidity and transverse momentum distributions of
+inclusive charm quark production in heavy-ion collisions at RHIC, including the
+next-to-leading order, $O(\alpha_s^3)$, radiative corrections and the nuclear
+shadowing effect. We find the effective, nuclear K-factor to be $K(y)\approx
+1.4$ for $\mid y\mid \leq 3$ in the rapidity distribution, while $1\leq
+K(p_{T}) \leq 3$ for $1GeV\leq p_T \leq 6GeV$ in the $p_T$ distribution. We
+incorporate multiple parton scatterings in our calculation of the fraction of
+all central events that contain at least one charm quark pair. We obtain the
+effective $A$-dependence of the charm cross sections. Finally, we comment on
+the possibility of detecting the quark-gluon plasma signal as an enhanced charm
+production in heavy-ion collisions at RHIC.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 22:43:03 GMT""},{""version"":""v2"",""created"":""Mon, 3 Oct 1994 17:29:03 GMT""}]","2009-10-28"
+"nucl-th/9405002","Derek Leinweber","Derek B. Leinweber","Testing QCD Sum Rule Techniques on the Lattice","Discussion of systematic uncertainties augmented","Phys.Rev. D51 (1995) 6369-6382","10.1103/PhysRevD.51.6369","OSU-PP #94--0332","nucl-th hep-lat hep-ph",,"  Results for the first test of the ``crude'' QCD continuum model, commonly
+used in QCD Sum Rule analyses, are presented for baryon correlation functions.
+The QCD continuum model is found to effectively account for excited state
+contributions to the short-time regime of two-point correlation functions and
+allows the isolation of ground state properties. Confusion in the literature
+surrounding the physics represented in point-to-point correlation functions is
+also addressed. These results justify the use of the ``crude'' QCD continuum
+model and lend credence to the results of rigorous QCD Sum Rule analyses.
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 15:01:20 GMT""},{""version"":""v2"",""created"":""Tue, 18 Apr 1995 20:34:17 GMT""}]","2009-10-28"

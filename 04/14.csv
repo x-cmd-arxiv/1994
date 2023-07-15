@@ -1,0 +1,195 @@
+"comp-gas/9404001","Josh Deutsch","J.M. Deutsch ( University of California Santa Cruz)","Transforming Signs to Phase Distributions in Quantum Simulations","7 pages Revtex 3.0 and psfig1.8. Five postcript figures. Use uufiles
+  to decode",,"10.1103/PhysRevE.50.R2411","6","comp-gas cond-mat nlin.CG",,"  A method is developed which speeds up averaging in quantum simulations where
+minus signs cause difficulties. A Langevin equation method in conjunction with
+a replication algorithm is used enabling one to average over a continuously
+varying complex number. Instead of ensemble averaging this number directly, the
+phase of the complex number is followed over time. The method is illustrated in
+some simple cases where the answers obtained can be compared to exact results,
+and also compared to conventional averaging procedures which converge orders of
+magnitude slower than this method. Limitations of this method are also
+described.
+","[{""version"":""v1"",""created"":""Thu, 14 Apr 1994 06:51:07 GMT""}]","2009-10-22"
+"cond-mat/9404040",,"M. J. M. de Jong and C. W. J. Beenakker","Sub-Poissonian Shot Noise In A Diffusive Conductor","9 pages, LaTeX, including 2 figures","Coulomb and Interference Effects in Small Electronic Structures,
+  edited by D. C. Glattli and M. Sanquer (Editions Frontieres, France, 1995),
+  427",,"NL-M.S.18.028","cond-mat",,"  A review is given of the shot-noise properties of metallic, diffusive
+conductors. The shot noise is one third of the Poisson noise, due to the
+bimodal distribution of transmission eigenvalues. The same result can be
+obtained from a semiclassical calculation. Starting from Oseledec's theorem it
+is shown that the bimodal distribution is required by Ohm's law.
+","[{""version"":""v1"",""created"":""Thu, 14 Apr 1994 14:30:55 GMT""}]","2016-08-31"
+"cond-mat/9404041","Yacov Kantor","Yacov Kantor and Mehran Kardar","Excess Charge in Polyampholytes","11 pages, TeX, 3 uuencoded postscript figures","Europhysics Letters 27, 643-648 (1994)","10.1209/0295-5075/27/9/002",,"cond-mat",,"  Polyampholytes (PAs) are polymers composed of (quenched) random sequences of
+positive and negatively charged monomeric groups. We show that the radius of
+gyration, $R_g$, of a PA strongly depends on its overall excess charge $Q$, and
+is very weakly influenced by other aspects of the sequence. For $Q<Q_c\approx
+q_0 \sqrt{N}$, where $N$ is the number of monomers of charge $\pm q_0$, the PA
+is compact, while for $Q>Q_c$ it is stretched. Some aspects of this behavior
+can be understood by analogy with the shape instability of a charged drop where
+the Rayleigh charge plays the role of $Q_c$.
+","[{""version"":""v1"",""created"":""Thu, 14 Apr 1994 14:18:13 GMT""},{""version"":""v2"",""created"":""Fri, 15 Apr 1994 14:43:09 GMT""}]","2009-10-22"
+"gr-qc/9404028","Lombardo Fernando","M. Castagnino and F. Lombardo (Univ. of Buenos Aires)","Decoherence, Correlation, and Unstable Quantum States in Semiclassical
+  Cosmology","19 pgs. Latex file","Gen.Rel.Grav.28:263-286,1996","10.1007/BF02106967",,"gr-qc",,"  It is demonstrated that almost any S-matrix of quantum field theory in curved
+spaces posses an infinite set of complex poles (or branch cuts). These poles
+can be transformed into complex eigenvalues, the corresponding eigenvectors
+being Gamow vectors. All this formalism, which is heuristic in ordinary Hilbert
+space, becomes a rigorous one within the framework of a properly chosen rigged
+Hilbert space. Then complex eigenvalues produce damping or growing factors. It
+is known that the growth of entropy, decoherence, and the appearance of
+correlations, occur in the universe evolution, but only under a restricted set
+of initial conditions. It is proved that the damping factors allow to enlarge
+this set up to almost any initial conditions.
+","[{""version"":""v1"",""created"":""Thu, 14 Apr 1994 12:41:29 GMT""}]","2010-11-01"
+"hep-ph/9404267",,"C.S. Lam","From Multiloop Spinor Helicity Technique to String Reorganization","8 pages in Plain Tex, plus 1 page of (four) figures in a postcript
+  file attached to the end of the Tex file",,,,"hep-ph hep-th",,"  The success of the spinor helicity technique for tree processes is reviewed.
+To apply it to multiloop diagrams one is naturally led to the Schwinger
+proper-time representation, whose properties are discussed. This representation
+also serves as a useful link between field theories and string theories.
+","[{""version"":""v1"",""created"":""Wed, 13 Apr 1994 18:41:43 GMT""}]","2009-09-25"
+"hep-ph/9404268","Iiro Pentti Vilja","J. Sirkka and I. Vilja","Vacuum stability in the singlet Majoron model","9 pages + 1 uuencoded figure","Phys.Lett. B332 (1994) 141-145","10.1016/0370-2693(94)90871-0","TURKU-FL-P10","hep-ph",,"  We study the vacuum stability of the singlet Majoron model using full
+renormalization group improved scalar potential and Monte Carlo techniques. We
+show that in the perturbative regime of the various free parameters, the vacuum
+stability requirement together with LEP limits is passed by 18% of the
+parameter space if the scale of new physics is 10 TeV and 6% if the scale is
+$10^{14}$ GeV. Moreover, if the baryogenesis condition for scalar couplings is
+required, no portion of the parameter space survives.
+","[{""version"":""v1"",""created"":""Thu, 14 Apr 1994 12:18:06 GMT""}]","2009-10-28"
+"hep-th/9404069","Kaare Olaussen","E.G.B.Hohler and K.Olaussen","Conservation laws for the classical Toda field theories","9 pages, Latex","Mod.Phys.Lett. A8 (1993) 3377-3385","10.1142/S0217732393003809",,"hep-th cond-mat",,"  We have performed some explicit calculations of the conservation laws for
+classical (affine) Toda field theories, and some generalizations of these
+models. We show that there is a huge class of generalized models which have an
+infinite set of conservation laws, with their integrated charges being in
+involution. Amongst these models we find that only the $A_m$ and $A_m^{(1)}$
+($m\ge 2$) Toda field theories admit such conservation laws for spin-3. We
+report on our explicit calculations of spin-4 and spin-5 conservation laws in
+the (affine) Toda models. Our perhaps most interesting finding is that there
+exist conservation laws in the $A_m$ models ($m\ge4)$ which have a different
+origin than the exponents of the corresponding affine theory or the
+energy-momentum tensor of a conformal theory.
+","[{""version"":""v1"",""created"":""Wed, 13 Apr 1994 18:01:14 GMT""}]","2015-06-26"
+"hep-th/9404070",,"M.Eliashvili","The Infinite Symmetry and Interplay Between Integer and Fractional
+  Quantum Hall Effect","10p. ENSLAPP-A-462/94",,,,"hep-th",,"  It is shown, that a spectrum generating algebras and wave functions for the
+integral and fractional quantum Hall effect are related by the non-unitary
+similarity transformation. This transformation corresponds to the introduction
+of the complex Chern-Simons gauge fields, in terms of which the second
+quantized form of FQHE can be developed
+","[{""version"":""v1"",""created"":""Wed, 13 Apr 1994 16:08:04 GMT""}]","2007-05-23"
+"hep-th/9404072","Kaare Olaussen","E.G.B.Hohler and K.Olaussen","On the form of local conservation laws for some relativistic field
+  theories in 1+1 dimensions","12 pages, Latex","Int.J.Mod.Phys.A10:687-700,1995","10.1142/S0217751X95000310",,"hep-th cond-mat",,"  We investigate the possible form of local translation invariant conservation
+laws associated with the relativistic field equations
+$\partial\bar\partial\phi_i=-v_i(\bphi)$ for a multicomponent field $\bphi$.
+Under the assumptions that (i)~the $v_i$'s can be expressed as linear
+combinations of partial derivatives $\partial w_j/\partial\phi_k$ of a set of
+functions $w_j(\bphi)$, (ii)~the space of functions spanned by the $w_j$'s is
+closed under partial derivations, and (iii)~the fields $\bphi$ take values in a
+simply connected space, the local conservation laws can either be transformed
+to the form $\partial{\bar{\cal P}}=\bar\partial\sum_j w_j {\cal Q}_j$ (where
+$\bar{\cal P}$ and ${\cal Q}_j$ are homogeneous polynomials in the variables
+$\bar\partial\phi_i$, $\bar\partial^2\phi_i$,\ldots), or to the parity
+transformed version of this expression $\partial\equiv(\partial_t+\partial_x)/
+\sqrt{2}\rightleftharpoons\bar\partial \equiv
+(\partial_t-\partial_x)/\sqrt{2}$.
+","[{""version"":""v1"",""created"":""Wed, 13 Apr 1994 18:19:40 GMT""}]","2014-11-18"
+"hep-th/9404073",,"C.M. Hull and Z. Khatun","On $W_{\infty/2}$ Strings","11 pages, latex","Mod.Phys.Lett. A9 (1994) 1653-1664","10.1142/S0217732394001490","QMW-PH-94-8","hep-th",,"  The string theory defined by gauging $\W_{\infty/2}$, the sub-algebra of
+$\W_{\infty}$ generated by the currents of even spin, is discussed. The
+critical value of the central charge is calculated using zeta-function
+techniques and shown to be $c=1$. A critical string theory is constructed by
+coupling a free boson to $\W_{\infty/2}$-gravity and the physical states are
+analysed.
+","[{""version"":""v1"",""created"":""Wed, 13 Apr 1994 19:17:00 GMT""}]","2015-06-26"
+"hep-th/9404074","Simon Brian Davis","Simon Davis","Configurations of Handles and the Classification of Divergences in the
+  String Partition Function","24 pages, DAMTP-R/94/16","Class.Quant.Grav.11:1185-1200,1994","10.1088/0264-9381/11/5/007",,"hep-th",,"  The divergences that arise in the regularized partition function for closed
+bosonic string theory in flat space lead to three types of perturbation series
+expansions, distinguished by their genus dependence. This classification of
+infinities can be traced to geometrical characteristics of the string
+worldsheet. Some categories of divergences may be eliminated in string theories
+formulated on compact manifolds.
+","[{""version"":""v1"",""created"":""Wed, 13 Apr 1994 17:34:23 GMT""},{""version"":""v2"",""created"":""Mon, 25 Apr 1994 12:30:00 GMT""},{""version"":""v3"",""created"":""Fri, 22 Apr 1994 17:06:29 GMT""}]","2010-04-06"
+"hep-th/9404075","Joseph Varilly B.","J. M. Gracia-Bondia","On Marshak's and Connes' views of chirality","10 pages, Plain TeX",,"10.1142/9789812831408_0017",,"hep-th",,"  I render the substance of the discussions I had with Robert E. Marshak
+shortly before his death, wherein the kinship between the ``neutrino paradigm''
+---espoused by Marshak--- and the central notion of K-cycle in noncommutative
+geometry (NCG) was found. In that context, we give a brief account of the
+Connes--Lott reconstruction of the Standard Model (SM).
+","[{""version"":""v1"",""created"":""Wed, 13 Apr 1994 20:17:33 GMT""}]","2016-11-03"
+"hep-th/9404076","Jerome Gauntlett","Jerome P. Gauntlett","Pair Creation of Black Holes","19 Harvmac l-pages, EFI-94-17",,,,"hep-th gr-qc",,"  This article is based on a talk given at the IInd International Colloquium on
+Modern Quantum Field Theory, Bombay 1994. The Ernst solution of dilaton gravity
+describes charged black holes undergoing uniform accleration in a background
+magnetic field. By analytically continuing the Ernst solution one obtains
+instantons that describe the pair production of black holes in the background
+field. We review various aspects of these solutions paying special attention to
+the Einstein-Maxwell, low-energy string and $d=5$ Kaluza-Klein theories. It is
+based on work done in collaboration with {}F. Dowker, S. Giddings, G. Horowitz,
+D. Kastor and J. Traschen \refs{\DGKT,\DGGH}.
+","[{""version"":""v1"",""created"":""Wed, 13 Apr 1994 21:28:23 GMT""}]","2007-05-23"
+"hep-th/9404077","Konstantinos Anagnostopoulos","Moustafa Awada and David Zoller","Phase Transition in Rigid String Coupled to Kalb-Ramond Fields","6 pages, 1 figure, phyzzx, Cincinnati preprint Dec-1993, to appear in
+  Phys. Lett. B235 (1994)","Phys.Lett. B325 (1994) 115-118","10.1016/0370-2693(94)90079-5",,"hep-th hep-lat",,"  Polyakov has argued that the QCD string should have long range order. We show
+that a phase transition does exist in a generalization of string theory
+characterized by the addition of the curvature of the world sheet (rigidity)
+and the long range Kalb-Ramond interactions to the Nambu-Goto action. Although
+rigid strings coupled to long range interactions exhibit the typical
+pathologies of higher derivative theories at the classical level, we comment
+based on previous results in rigid paths coupled to long range Coulomb
+interactions that both phases of the quantum theory are free of ghosts and
+tachyons.
+","[{""version"":""v1"",""created"":""Wed, 13 Apr 1994 21:57:50 GMT""}]","2009-10-28"
+"hep-th/9404078","Konstantinos Anagnostopoulos","Moustafa Awada and David Zoller","Phase Transition and Absence Of Ghosts in Rigid QED","9 pages, 1 figure, phyzzx, to appear in Phys. Lett. B235 (1994),
+  CINCI3-DEC-98","Phys.Lett. B325 (1994) 119-123","10.1016/0370-2693(94)90080-9",,"hep-th hep-lat",,"  Ordinary QED formulated in the Feynman's space-time picture is equivalent to
+a one dimensional field theory. In the large N limit there is no phase
+transition in such a theory. In this letter, we show a phase transition does
+exist in a generalization of QED characterized by the addition of the curvature
+of the world line (rigidity) to the Feynman's space-time action. The large
+distance scale of the disordered phase essentially coincides with ordinary QED,
+while the ordered phase is strongly coupled. Although rigid QED exhibits the
+typical pathologies of higher derivative theories at the classical level, we
+show that both phases of the quantum theory are free of ghosts and tachyons.
+Quantum fluctuations prevent taking the naive classical limit and inherting the
+problems of the classical theory.
+","[{""version"":""v1"",""created"":""Wed, 13 Apr 1994 22:08:03 GMT""}]","2009-10-28"
+"hep-th/9404079",,"E.Adi & S.Solomon","The solution to Wheeler-DeWitt is eight","10 tex pages + 5 ps figures","Phys.Lett. B336 (1994) 152-156","10.1016/0370-2693(94)01001-3",,"hep-th",,"  We describe a new geometrical solution to the Wheeler-DeWitt equation in two
+dimensional quantum gravity. The solution is the amplitude of a surface whose
+boundary consists of two tangent loops. We further discuss a new method for
+estimating singular geometries amplitudes, which uses explicit recursive
+counting of discrete surfaces.
+","[{""version"":""v1"",""created"":""Thu, 14 Apr 1994 12:11:23 GMT""},{""version"":""v2"",""created"":""Sun, 24 Apr 1994 15:15:45 GMT""}]","2009-10-28"
+"hep-th/9404080",,"J. Comellas, P.E. Haagensen and J.I. Latorre","A Generic Renormalization Method in Curved Spaces and at Finite
+  Temperature","15pp., REVTeX, UB-ECM-PF 94/10","Int.J.Mod.Phys. A10 (1995) 2819-2839","10.1142/S0217751X95001339",,"hep-th",,"  Based only on simple principles of renormalization in coordinate space, we
+derive closed renormalized amplitudes and renormalization group constants at 1-
+and 2-loop orders for scalar field theories in general backgrounds. This is
+achieved through a generic renormalization procedure we develop exploiting the
+central idea behind differential renormalization, which needs as only inputs
+the propagator and the appropriate laplacian for the backgrounds in question.
+We work out this generic coordinate space renormalization in some detail, and
+subsequently back it up with specific calculations for scalar theories both on
+curved backgrounds, manifestly preserving diffeomorphism invariance, and at
+finite temperature.
+","[{""version"":""v1"",""created"":""Thu, 14 Apr 1994 12:14:46 GMT""}]","2015-06-26"
+"hep-th/9404081","Mikhail Plyushchay","Mikhail S. Plyushchay","Supersymmetry without Fermions","10 pages, Latex, DFTUZ/94/05",,,,"hep-th cond-mat hep-lat nucl-th",,"  The simplest $N=2$ supersymmetric quantum mechanical system is realized in
+terms of the bosonic creation and annihilation operators obeying either
+ordinary or deformed Heisenberg algebra involving Klein operator. The
+construction comprises both the exact and spontaneously broken supersymmetry
+cases with the scale of supersymmetry breaking being governed by the
+deformation parameter. Proceeding from the broken supersymmetry case, we
+realize the Bose-Fermi transformation and obtain spin-$1/2$ representation of
+$SU(2)$ group in terms of one bosonic oscillator. We demonstrate that the
+constructions can be generalized to the more complicated $N=2$ supersymmetric
+systems, in particular, corresponding to the Witten supersymmetric quantum
+mechanics.
+","[{""version"":""v1"",""created"":""Thu, 14 Apr 1994 13:07:37 GMT""}]","2007-05-23"
+"hep-th/9404083",,"Silvio J. Rabello and Arvind N. Vaidya","BFV Quantization of Relativistic Spinning Particles with a Single
+  Bosonic Constraint","5 p., Latex, IF-UFRJ-94-14","Mod.Phys.Lett. A9 (1994) 1853-1856","10.1142/S0217732394001714",,"hep-th",,"  Using the BFV approach we quantize a pseudoclassical model of the spin one
+half relativistic particle that contains a single bosonic constraint, contrary
+to the usual locally supersymmetric models that display first and second class
+constraints.
+","[{""version"":""v1"",""created"":""Thu, 14 Apr 1994 15:23:54 GMT""}]","2015-06-26"
+"hep-th/9404086","Chengqian Gong","Sen-Ben Liao and Chengqian Gong","Renormalization Group Approach to Scalar Theory","7pp + 7 figures, DUKE-TH-94-63",,,,"hep-th",,"  Effective potential for scalar $\lambda\phi^4$ theory is obtained using the
+exact renormalization group method which includes both the usual one-loop
+contribution as well as the dominant higher loop effects. Our numerical
+calculation indicates a breakdown of naive one-loop result for sufficiently
+large renormalized coupling constant.
+","[{""version"":""v1"",""created"":""Thu, 14 Apr 1994 06:49:09 GMT""},{""version"":""v2"",""created"":""Wed, 20 Apr 1994 22:40:37 GMT""}]","2009-09-25"
+"nucl-th/9404016",,"M.T. Lopez--Arias, V.R. Manfredi and L. Salasnich","From Regular to Chaotic States in Atomic Nuclei","65 pages, LaTex (the figures are not included), Preprint
+  DFPD/94/TH/26, University of Padova","Riv.Nuovo Cim. 17N5 (1994) 1-45","10.1007/BF02724513",,"nucl-th",,"  An interesting aspect of nuclear dynamics is the co--existence, in atomic
+nuclei, of regular and chaotic states. In the first part of the present work,
+we review the state of the art of nuclear dynamics and use a schematic shell
+model to show how a very simple and schematic nucleon--nucleon interaction can
+produce an order$\to$chaos transition. The second part is devoted to a
+discussion of the wave function behaviour and decay of chaotic states using
+some simple models (to be published in Rivista Nuovo Cimento).
+","[{""version"":""v1"",""created"":""Thu, 14 Apr 1994 13:39:03 GMT""}]","2015-06-26"

@@ -1,0 +1,87 @@
+"astro-ph/9407071","Brada Rafi","R.Brada and M.Milgrom (Weizmann Institute of Science)","Exact Solutions and Approximations of Mond Fields of Disk Galaxies","submitted to the Ap.J. , plain Tex, 12 pages, 3 figures (not
+  included) a uuencoded compressed tar file of the paper with the figures is
+  available by anonymous ftp from iris.weizmann.ac.il , file
+  pub/preprints/disgal/disgal.uu . WIS-PH-94-01",,,,"astro-ph",,"  We Consider models of thin disks (with and without bulges) in the
+Bekenstein-Milgrom formulation of MOND as a modification of Newtonian gravity.
+Analytic solutions are found for the full gravitational fields of Kuzmin disks,
+and of disk-plus-bulge generalizations of them.
+  For all these models a simple algebraic relation between the MOND potential
+field and the Newtonian potential holds everywhere outside the disk. We give
+exact expressions for the rotation curves for these models. We also find that
+the algebraic relation is a very good approximation for exponential disks. The
+algebraic relation outside the disk is then extended into the disk to derive an
+improved approximation for the MOND rotation curve of disk galaxies that
+requires only knowledge of the Newtonian curve and the surface density.
+","[{""version"":""v1"",""created"":""Sun, 24 Jul 1994 08:41:20 GMT""}]","2007-05-23"
+"astro-ph/9407072","Arnon Dar","Arnon Dar","Tests of General Relativity at Large Distances and Dark Matter -","Invited Talk to be published in the Proceedings of Rencontre Du
+  Vietnam on Particle Physics And Astrophysics - Hanoi December 1993, 16 pages
+  (figures upon request)",,,,"astro-ph",,"  The most simple observed cases of gravitational lensing of distant quasars
+and galaxies by galaxies and clusters of galaxies are used to test Einstein's
+theory of General Relativity and Newtonian Gravity over galactic and
+intergalactic distances. They extend the distance range over which
+Newton-Einstein Gravity has been tested by 10 orders of magnitude. Although the
+precision of the tests are far from the precision of the solar system tests of
+EGR and those from pulsar timing in close binary systems, they confirm quite
+accurately the validity of Einstein's General Relativity and its weak field
+limit, Newtonian Gravity, over galactic and intergalactic distances and the
+existence of large quantities of dark matter in galaxies and clusters of
+galaxies. Future observations can improve the accuracy of the tests and reduce
+the possibilities for systematic errors.
+","[{""version"":""v1"",""created"":""Sun, 24 Jul 1994 15:15:49 GMT""}]","2009-09-25"
+"astro-ph/9407073","Douglas Scott","Douglas Scott and Martin White","The Existence of Baryons at z=1000","CfPA-94-TH-34, 15 pages, 5 figures included, uu-encoded postscript
+  with 1 separate colour postscript figure. To appear in the Proceedings of the
+  CWRU CMB Workshop `2 years after COBE' eds. L. Krauss & P. Kernan",,,,"astro-ph",,"  Fluctuations in the CMB have now been detected over a wide range of angular
+scales, and a consistent picture seems to be emerging. The data cannot
+currently constrain a large number of cosmological parameters, but it is clear
+that there is more information than just the normalization of the models. Here
+we use the data to constrain a second parameter, namely the amplitude of the
+Doppler peak, using a phenomenological approach to the power spectrum. We find
+that the data prefer a peak of height ~3, with a purely flat spectrum ruled out
+at the 95%CL. Although there are concerns about possible foregrounds and
+non-Gaussian fluctuations, we believe that the existence of a peak at
+degree-scales is established by the data. This immediately implies that
+reionization was unimportant for the CMB. It also potentially leads to
+difficulties for models where the fluctuations were produced by topological
+defects. Independent constraints on Omega_B, on the slope n, etc. will need to
+wait for further data. At the moment, the simple presence of a Doppler peak
+should be seen as strong supporting evidence for standard dark matter-dominated
+models with some few percent of baryons at z=1000.
+","[{""version"":""v1"",""created"":""Sun, 24 Jul 1994 11:01:59 GMT""}]","2009-09-25"
+"cmp-lg/9407020","David Lewis","David D. Lewis (AT&T Bell Labs) and William A. Gale (AT&T Bell Labs)","A Sequential Algorithm for Training Text Classifiers","10 pages, uuencoded, compressed PostScript; Proc. SIGIR-94 LaTex
+  available from lewis@research.att.com",,,,"cmp-lg cs.CL",,"  The ability to cheaply train text classifiers is critical to their use in
+information retrieval, content analysis, natural language processing, and other
+tasks involving data which is partly or fully textual. An algorithm for
+sequential sampling during machine learning of statistical classifiers was
+developed and tested on a newswire text categorization task. This method, which
+we call uncertainty sampling, reduced by as much as 500-fold the amount of
+training data that would have to be manually classified to achieve a given
+level of effectiveness.
+","[{""version"":""v1"",""created"":""Sun, 24 Jul 1994 13:38:00 GMT""},{""version"":""v2"",""created"":""Mon, 25 Jul 1994 03:04:00 GMT""}]","2008-02-03"
+"cond-mat/9407096","Pino Falci","G. Falci, J. Heins, Gerd Schoen and Gergely T. Zimanyi","Tunneling in the Electron Box in the Nonperturbative Regime","18 pages in Revtex, TFP-P_0/9402",,"10.1016/0921-4526(94)90089-2",,"cond-mat",,"  We study charging effects and tunneling in the single electron box. Tunneling
+mixes different charge states and in the nonperturbative regime the charge in
+the island may be strongly screened. When charge states are nearly degenerate
+the screening of the charge is strong even in the weak tunneling regime.
+Virtual tunneling processes reduce both the level splitting and the tunneling
+strength. The charge on the island and the decay rates are calculated. In the
+strong tunneling regime also nondegenerate states are affected by tunneling.
+Strong-coupling scaling renormalizes the effective capacitance, a result which
+we confirm by Monte Carlo simulations. The tunneling strength scales to smaller
+values into the regime where the weak-coupling scaling applies. We propose a
+two stage scaling procedure providing the unified picture for the problem. The
+scaling analysis is also extended to superconducting tunnel junctions with
+finite subgap conductance. (9 figures upon request)
+","[{""version"":""v1"",""created"":""Sat, 23 Jul 1994 21:37:23 GMT""}]","2009-10-22"
+"hep-th/9407153",,"J.M. Figueroa-O'Farrill","Obstructions to Gauging WZ Terms: a Symplectic Curiosity","7 pages, plain TeX",,,"QMW-PH-94-20","hep-th",,"  This is an expository talk about the relation between gauging the WZ term of
+a one-dimensional sigma-model with a symplectic target and the existence of an
+equivariant moment mapping for symplectic group actions. The punch line is that
+the obstructions for gauging coincide with the obstructions for the existence
+of the moment mapping. This paper can be thought of a ""prequel"" of
+hep-th/9407149.
+","[{""version"":""v1"",""created"":""Sat, 23 Jul 1994 19:16:41 GMT""}]","2007-05-23"
+"hep-th/9407155","Dimitri V. Galtsov","D.V. Gal'tsov and O.V. Kechkin","Ehlers--Harrison--Type Transformations in Dilaton--Axion Gravity","12 pages (Latex); MSU--DTP--94/2, January 94, Revised: July 94","Phys.Rev.D50:7394-7399,1994","10.1103/PhysRevD.50.7394",,"hep-th",,"  The ten--parametric internal symmetry group is found in the $D=4$
+Einstein--Maxwell--Dilaton--Axion theory restricted to space--times admitting a
+Killing vector field. The group includes dilaton--axion $SL(2,R)$ duality and
+Harrison--type transformations which are similar to some target--space duality
+boosts, but act on a different set of variables. New symmetry is used to derive
+a seven--parametric family of rotating dilaton--axion Taub--NUT dyons.
+","[{""version"":""v1"",""created"":""Sat, 23 Jul 1994 19:13:36 GMT""}]","2014-11-18"

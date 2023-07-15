@@ -1,0 +1,452 @@
+"cmp-lg/9409002",,"Mark Lauer (Microsoft Institute, Sydney)","Conceptual Association for Compound Noun Analysis","3 pages, postscript only, replaced because original postscript
+  version incompatible with some printers","Proceedings of the Student Session, 32nd Annual Meeting of the
+  Association for Computational Linguistics, Las Cruces, NM., 1994 pp337-339",,,"cmp-lg cs.CL",,"  This paper describes research toward the automatic interpretation of compound
+nouns using corpus statistics. An initial study aimed at syntactic
+disambiguation is presented. The approach presented bases associations upon
+thesaurus categories. Association data is gathered from unambiguous cases
+extracted from a corpus and is then applied to the analysis of ambiguous
+compound nouns. While the work presented is still in progress, a first attempt
+to syntactically analyse a test set of 244 examples shows 75% correctness.
+Future work is aimed at improving this accuracy and extending the technique to
+assign semantic role information, thus producing a complete interpretation.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 18:59:21 GMT""},{""version"":""v2"",""created"":""Wed, 11 Sep 1996 02:26:42 GMT""}]","2008-02-03"
+"cmp-lg/9409003",,"Mark Lauer (Microsoft Institute, Sydney), Mark Dras (Microsoft
+  Institute, Sydney)","A Probabilistic Model of Compound Nouns","9 pages, uuencoded compressed postscript, please ignore any undefined
+  command error at end","7th Australian Joint Conference on AI, 1994",,,"cmp-lg cs.CL",,"  Compound nouns such as example noun compound are becoming more common in
+natural language and pose a number of difficult problems for NLP systems,
+notably increasing the complexity of parsing. In this paper we develop a
+probabilistic model for syntactically analysing such compounds. The model
+predicts compound noun structures based on knowledge of affinities between
+nouns, which can be acquired from a corpus. Problems inherent in this
+corpus-based approach are addressed: data sparseness is overcome by the use of
+semantically motivated word classes and sense ambiguity is explicitly handled
+in the model. An implementation based on this model is described in Lauer
+(1994) and correctly parses 77% of the test set.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 22:11:36 GMT""}]","2008-02-03"
+"cmp-lg/9409004","Francesc Ribas","Francesc Ribas (Universitat Politecnica de Catalunya)","An Experiment on Learning Appropriate Selectional Restrictions from a
+  Parsed Corpus","11 pages","COLING-94 Proceedings, 769-774",,,"cmp-lg cs.CL",,"  We present a methodology to extract Selectional Restrictions at a variable
+level of abstraction from phrasally analyzed corpora. The method relays in the
+use of a wide-coverage noun taxonomy and a statistical measure of the
+co-occurrence of linguistic items. Some experimental results about the
+performance of the method are provided.
+","[{""version"":""v1"",""created"":""Wed, 7 Sep 1994 14:15:39 GMT""}]","2008-02-03"
+"cmp-lg/9409005","Varol Akman","Ebru Ersan (Brown University) and Varol Akman (Bilkent University,
+  Ankara)","Focusing for Pronoun Resolution in English Discourse: An Implementation","iii + 49 pages, compressed, uuencoded Postscript file; revised
+  version of the first author's Bilkent M.S. thesis, written under the
+  supervision of the second author; notify Akman via e-mail
+  (akman@cs.bilkent.edu.tr) or fax (+90-312-266-4126) if you are unable to
+  obtain hardcopy, he'll work out something",,,"BU-CEIS-94-29","cmp-lg cs.CL",,"  Anaphora resolution is one of the most active research areas in natural
+language processing. This study examines focusing as a tool for the resolution
+of pronouns which are a kind of anaphora. Focusing is a discourse phenomenon
+like anaphora. Candy Sidner formalized focusing in her 1979 MIT PhD thesis and
+devised several algorithms to resolve definite anaphora including pronouns. She
+presented her theory in a computational framework but did not generally
+implement the algorithms. Her algorithms related to focusing and pronoun
+resolution are implemented in this thesis. This implementation provides a
+better comprehension of the theory both from a conceptual and a computational
+point of view. The resulting program is tested on different discourse segments,
+and evaluation and analysis of the experiments are presented together with the
+statistical results.
+","[{""version"":""v1"",""created"":""Wed, 7 Sep 1994 14:26:08 GMT""}]","2008-02-03"
+"cmp-lg/9409006","Varol Akman","Murat Ersan (Brown University) and Varol Akman (Bilkent University,
+  Ankara)","Situated Modeling of Epistemic Puzzles","iii + 49 pages, compressed, uuencoded Postscript file; revised
+  version of the first author's Bilkent M.S. thesis, written under the
+  supervision of the second author; notify Akman via e-mail
+  (akman@cs.bilkent.edu.tr) or fax (+90-312-266-4126) if you are unable to
+  obtain hardcopy, he'll work out something",,,"BU-CEIS-94-30","cmp-lg cs.CL",,"  Situation theory is a mathematical theory of meaning introduced by Jon
+Barwise and John Perry. It has evoked great theoretical and practical interest
+and motivated the framework of a few `computational' systems. PROSIT is the
+pioneering work in this direction. Unfortunately, there is a lack of real-life
+applications on these systems and this study is a preliminary attempt to remedy
+this deficiency. Here, we examine how much PROSIT reflects situation-theoretic
+concepts and solve a group of epistemic puzzles using the constructs provided
+by this programming language.
+","[{""version"":""v1"",""created"":""Wed, 7 Sep 1994 14:37:03 GMT""}]","2008-02-03"
+"cond-mat/9409013","Kwan-tai Leung","Kwan-tai Leung","Novel Phases and Finite-Size Scaling in Two-Species Asymmetric Diffusive
+  Processes","7 pages, plus 6 figures uuencoded, compressed and appended after
+  source code, LATeX, to be published as a Phys. Rev. Lett","Phys. Rev. Lett. 73, 2386 (1994)","10.1103/PhysRevLett.73.2386",,"cond-mat adap-org nlin.AO",,"  We study a stochastic lattice gas of particles undergoing asymmetric
+diffusion in two dimensions. Transitions between a low-density uniform phase
+and high-density non-uniform phases characterized by localized or extended
+structure are found. We develop a mean-field theory which relates
+coarse-grained parameters to microscopic ones. Detailed predictions for
+finite-size ($L$) scaling and density profiles agree excellently with
+simulations. Unusual large-$L$ behavior of the transition point parallel to
+that of self-organized sandpile models is found.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 16:44:24 GMT""}]","2009-10-22"
+"cond-mat/9409019","Ed Rezayi","E. Rezayi and N. Read","Rezayi and Read Reply","4 pages, Latex",,"10.1103/PhysRevLett.73.1052","CSULA-94-11","cond-mat",,"  Reply to comment by Jain, Cond-mat 9409012 published in the Physical Review
+Letters, Number 73, 1052 (1994).
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 19:29:48 GMT""}]","2009-10-22"
+"cond-mat/9409020","Lotfi Belkhir","Lotfi Belkhir and J. K. Jain","Fractional quantum Hall effect in higher Landau levels","7 pages RevTex, 4 figures",,"10.1016/0038-1098(95)00034-8",,"cond-mat",,"  We investigate, using finite size numerical calculations, the spin-polarized
+fractional quantum Hall effect (FQHE) in the first excited Landau level (LL).
+We find evidence for the existence of an incompressible state at $\nu =
+\frac{7}{3} = 2+\frac{1}{3}$, but not at $\nu = 2+\frac{2}{5}$. Surprisingly,
+the 7/3 state is found to be strongest at a finite thickness. The structure of
+the low- lying excited states is found to be markedly different from that in
+the lowest LL. This study also rules out FQHE at a large number of
+odd-denominator fractions in the lowest LL.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 20:16:45 GMT""}]","2009-10-22"
+"cond-mat/9409021",,"Yan-Chr Tsai and Yonathan Shapir","Dynamics of Particle Deposition on a Disordered Substrate: I. Near-
+  Equilibrium Behavior","35 pages + 7 figs in uucompressed file. UR-CM 94-0902",,"10.1103/PhysRevE.50.3546",,"cond-mat",,"  A growth model which describes the deposition of particles (or the growth of
+a rigid crystal) on a disordered substrate is investigated. The dynamic
+renormalization group is applied to the stochastic growth equation using the
+Martin, Sigga, and Rose formalism. The periodic potential and the quenched
+disorder, upon averaging, are combined into a single term in the generating
+functional. Changing the temperature (or the inherent noise of the deposition
+process) two different regimes with a transition between them at $T_{sr}$, are
+found: for $T>T_{sr}$ this term is irrelevant and the surface has the scaling
+properties of a surface growing on a flat substrate in the rough phase. The
+height-height correlations behave as $C(L,\tau)\sim \ln [L f(\tau/L^2)]$. While
+the linear response mobility is finite in this phase it does vanish as
+$(T-T_{sr})^{1.78}$ when $T\rightarrow T_{sr}^+$. For $T<T_{sr}$ there is a
+line of fixed-point for the coupling constant. The surface is super-rough: the
+equilibrium correlation functions behave as $(\ln L)^2$ while their short time
+dependence is $(\ln \tau) ^2$ with a temperature dependent dynamic exponent
+$z=2[1+1.78(1-T/T_{sr})]$. While the linear response mobility vanishes on large
+length scales, its scale-dependence leads to a non-linear response. For a small
+applied force $F$ the average velocity of the surface $v$ behaves as $v \sim
+F^{1+\zeta}$. To first order $\zeta=1.78(1-T/T_{sr})$. At the transition,
+$v\sim F/(1+C|\ln (F)|)^{1.78}$ and the crossover to the behavior to $T<T_{sr}$
+is analyzed. These results also apply to two-dimensional vortex glasses with a
+parallel magnetic field.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 20:50:00 GMT""}]","2009-10-22"
+"cond-mat/9409022","Dr. Dana Browne","V. Poduri, D. A. Browne and U. Patil","Recurrences in Driven Quantum Systems","10 pages in RevTeX format, with three PS files appended",,"10.1103/PhysRevA.51.4728",,"cond-mat",,"  We consider an initially bound quantum particle subject to an external
+time-dependent field. When the external field is large, the particle shows a
+tendency to repeatedly return to its initial state, irrespective of whether the
+frequency of the field is sufficient for escape from the well. These
+recurrences, which are absent in a classical calculation, arise from the system
+evolving primarily like a free particle in the external field.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 20:39:54 GMT""}]","2009-10-22"
+"cond-mat/9409023","Sergei Esipov","Sergei E. Esipov","Burgers Turbulence and Interface Growth III. Similarity Functional
+  Solution of Hopf Equation. the Case of Random Gaussian Forcing","33 pages, 2 by 2 figures are available upon request, PHYZZX Tex",,,,"cond-mat",,"  For the problem of Burgers turbulence with random gaussian forcing a
+similarity functional solution of Hopf equation is presented and compared with
+scaling arguments and replica Bethe-anzatz treatments. The corresponding field
+theory is almost non-anomalous. In one dimension the local fluctuations develop
+self-similar time-dependent behavior, while relative fluctuations within the
+correlation length form a steady-state with gaussian distribution. This is the
+precise meaning of the so-called fluctuation-dissipation theorem. The
+one-dimensional properties are also studied numerically. It is shown that the
+fluctuation-dissipation theorem is invalid above one dimension and higher-order
+cumulants are non-zero. In two dimensions the cumulants exhibit logarithmic
+spatial dependence which is close to but different from that in the
+Edwards-Wilkinson case. No other similarity functional solution is found which
+may indicate that the ``strong-coupling'' results are not described by Burgers
+equation with gaussian noise.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 22:43:53 GMT""}]","2007-05-23"
+"cond-mat/9409024","Konstantin Efetov","Konstantin Efetov","Supersymmetry in quantum chaos and mesoscopic physics","17 pages, RevTex",,"10.1016/0167-2789(94)00259-S",,"cond-mat",,"  A brief review of the supersymmetry method and its application to mesoscopic
+physics and quantum chaos is given. Alghough a non-linear supermatrix $% \sigma
+$-model in this approach was derived from models with random potential, it is
+emphasized that the zero-dimensional version of the $\sigma $-model is
+equivalent to the random matrix theory and can even be derived from the latter,
+too. This gives a possibility to use the zero -dimensional model for
+description of problems of quantum chaos and mesoscopic physics. A number of
+problems considered recently is presented. This includes nuclear magnetic
+resonance in small metal particles and statistics of conductance fluctuations
+in quantum dots. The solution of these problems became possible due to a new
+possibility to calculate distribution functions. (Expanded version of a lecture
+given at the 14 Annual CNLS Conference ""Quantum Complexity in Mesoscopic
+Systems"" (Los Alamos, May 1994))
+","[{""version"":""v1"",""created"":""Wed, 7 Sep 1994 07:21:40 GMT""}]","2015-06-25"
+"cond-mat/9409026","Stefan Kettemann","S. Kettemann and K. B. Efetov","Diamagnetic Response due to Localization in Chains of Connected
+  Mesoscopic Rings","4 pages, RevTeX, submitted to PRL",,"10.1103/PhysRevLett.74.2547",,"cond-mat",,"  A dynamic response to a magnetic field of a chain of connected mesoscopic
+rings is considered. We show that the low frequency behavior corresponds to
+localization of the elctrons along the chain and to diamagnetic dynamic
+currents inside rings. The magnetization density due to these currents does not
+vanish even in the limit of the infinitely long chain of strongly connected
+rings. showing that this is a macroscopic effect. Being of a dynamic origin the
+currents can be destroyed by inelastic scattering, but we argue that the
+corresponding decay time can at low enough temperatures be large compared to
+all other time scales of the system. We suggest to check our results by
+measuring the magnetization of an ensemble of chains of connected rings in the
+diffusive regime or alternatively of linear antidot lattices where the mean
+free path due to elastic scattering is smaller than the superlattice spacing.
+This yields a new contactless method of studying the localization.
+","[{""version"":""v1"",""created"":""Wed, 7 Sep 1994 10:35:48 GMT""}]","2009-10-22"
+"cond-mat/9409027","Alexei Tsvelik","A. M. Tsvelik","Capacitance and Transport through an Isolated Impurity Center in 1D
+  Luttinger Liquid","8 pages, LaTex",,,,"cond-mat",,"  We establish the equivalence between the problem of a solitary potential
+scatterer in a Luttinger liquid of spinless repulsive fermions and an
+anisotropic Kondo model where the value of the impurity spin id determined by
+the scaling dimension of the scattering potential. The Bethe ansatz is used to
+derive non-perturbative expressions for the capacitance and conductance.
+","[{""version"":""v1"",""created"":""Wed, 7 Sep 1994 14:54:04 GMT""},{""version"":""v2"",""created"":""Thu, 8 Sep 1994 10:04:59 GMT""},{""version"":""v3"",""created"":""Thu, 15 Dec 1994 17:48:09 GMT""}]","2008-02-03"
+"cond-mat/9409028","Charles Kane","C.L. Kane and M.P.A. Fisher","Impurity scattering and transport of fractional Quantum Hall edge state","19 pages (two column), 5 post script figures appended, 3.0 REVTEX",,"10.1103/PhysRevB.51.13449",,"cond-mat",,"  We study the effects of impurity scattering on the low energy edge state
+dynamic s for a broad class of quantum Hall fluids at filling factor $\nu
+=n/(np+1)$, for integer $n$ and even integer $p$. When $p$ is positive all $n$
+of the edge modes are expected to move in the same direction, whereas for
+negative $p$ one mode moves in a direction opposite to the other $n-1$ modes.
+Using a chiral-Luttinger model to describe the edge channels, we show that for
+an ideal edge when $p$ is negative, a non-quantized and non-universal Hall
+conductance is predicted. The non-quantized conductance is associated with an
+absence of equilibration between the $n$ edge channels. To explain the robust
+experimental Hall quantization, it is thus necessary to incorporate impurity
+scattering into the model, to allow for edge equilibration. A perturbative
+analysis reveals that edge impurity scattering is relevant and will modify the
+low energy edge dynamics. We describe a non-perturbative solution for the
+random $n-$channel edge, which reveals the existence of a new
+disorder-dominated phase, characterized by a stable zero temperature
+renormalization group fixed point. The phase consists of a single propagating
+charge mode, which gives a quantized Hall conductance, and $n-1$ neutral modes.
+The neutral modes all propagate at the same speed, and manifest an exact SU(n)
+symmetry. At finite temperatures the SU(n) symmetry is broken and the neutral
+modes decay with a finite rate which varies as $T^2$ at low temperatures.
+Various experimental predictions and implications which follow from the exact
+solution are described in detail, focusing on tunneling experiments through
+point contacts.
+","[{""version"":""v1"",""created"":""Wed, 7 Sep 1994 15:11:40 GMT""}]","2009-10-22"
+"gr-qc/9409011","Gregory A. Burnett","Gregory A. Burnett","Lifetimes of spherically symmetric closed universes","12 pages (uuencoded postscript; self-unpacking), NCSU-MP-9402","Phys.Rev.D51:1621-1631,1995","10.1103/PhysRevD.51.1621",,"gr-qc",,"  It is proven that any spherically symmetric spacetime that possesses a
+compact Cauchy surface $\Sigma$ and that satisfies the dominant-energy and
+non-negative-pressures conditions must have a finite lifetime in the sense that
+all timelike curves in such a spacetime must have a length no greater than $10
+\max_\Sigma(2m)$, where $m$ is the mass associated with the spheres of
+symmetry. This result gives a complete resolution, in the spherically symmetric
+case, of one version of the closed-universe recollapse conjecture (though it is
+likely that a slightly better bound can be established). This bound has the
+desirable properties of being computable from the (spherically symmetric)
+initial data for the spacetime and having a very simple form. In fact, its form
+is the same as was established, using a different method, for the spherically
+symmetric massless scalar field spacetimes, thereby proving a conjecture
+offered in that work. Prospects for generalizing these results beyond the
+spherically symmetric case are discussed.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 21:04:42 GMT""}]","2010-11-01"
+"gr-qc/9409012",,"A. Lukas","The No-Boundary Wave Function and the Duration of the Inflationary
+  Period","11 pages, TUM-HEP-206/94, 2 figures (added as uu-encoded postscript
+  file)","Phys.Lett.B347:13-20,1995","10.1016/0370-2693(94)01693-7",,"gr-qc",,"  For the simplest minisuperspace model based on a homogeneous, isotropic
+metric and a minimally coupled scalar field we derive analytic expressions for
+the caustic which separates Euklidean and Minkowskian region and its breakdown
+value $\p_*$. This value represents the prediction of the no-boundary wave
+function for the scalar field at the beginning of inflation. We use our results
+to search for inflationary models which can render the no-boundary wave
+function consistent with the requirement of a sufficiently long inflationary
+period.
+","[{""version"":""v1"",""created"":""Wed, 7 Sep 1994 14:13:22 GMT""}]","2008-11-26"
+"hep-lat/9409003","Sokal","Bin Li, Neal Madras and Alan D. Sokal","Critical Exponents, Hyperscaling and Universal Amplitude Ratios for Two-
+  and Three-Dimensional Self-Avoiding Walks","87 pages including 12 figures, 1029558 bytes Postscript
+  (NYU-TH-94/09/01)","J.Statist.Phys. 80 (1995) 661-754","10.1007/BF02178552",,"hep-lat cond-mat",,"  We make a high-precision Monte Carlo study of two- and three-dimensional
+self-avoiding walks (SAWs) of length up to 80000 steps, using the pivot
+algorithm and the Karp-Luby algorithm. We study the critical exponents $\nu$
+and $2\Delta_4 -\gamma$ as well as several universal amplitude ratios; in
+particular, we make an extremely sensitive test of the hyperscaling relation
+$d\nu = 2\Delta_4 -\gamma$. In two dimensions, we confirm the predicted
+exponent $\nu = 3/4$ and the hyperscaling relation; we estimate the universal
+ratios $\<R_g^2\> / \<R_e^2\> = 0.14026 \pm 0.00007$, $\<R_m^2\> / \<R_e^2\> =
+0.43961 \pm 0.00034$ and $\Psi^* = 0.66296 \pm 0.00043$ (68\% confidence
+limits). In three dimensions, we estimate $\nu = 0.5877 \pm 0.0006$ with a
+correction-to-scaling exponent $\Delta_1 = 0.56 \pm 0.03$ (subjective 68\%
+confidence limits). This value for $\nu$ agrees excellently with the
+field-theoretic renormalization-group prediction, but there is some discrepancy
+for $\Delta_1$. Earlier Monte Carlo estimates of $\nu$, which were $\approx\!
+0.592$, are now seen to be biased by corrections to scaling. We estimate the
+universal ratios $\<R_g^2\> / \<R_e^2\> = 0.1599 \pm 0.0002$ and $\Psi^* =
+0.2471 \pm 0.0003$; since $\Psi^* > 0$, hyperscaling holds. The approach to
+$\Psi^*$ is from above, contrary to the prediction of the two-parameter
+renormalization-group theory. We critically reexamine this theory, and explain
+where the error lies.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 18:33:37 GMT""}]","2009-10-22"
+"hep-lat/9409004","Sokal","Sergio Caracciolo, Robert G. Edwards, Sabino Jos\'e Ferreira, Andrea
+  Pelissetto and Alan D. Sokal","Finite-Size Scaling at $\xi/L \gg 1$","11 pages including 4 figures, 280216 bytes Postscript
+  (NYU-TH-94/09/02)","Phys.Rev.Lett. 74 (1995) 2969-2972","10.1103/PhysRevLett.74.2969",,"hep-lat cond-mat",,"  We present a simple and powerful method for extrapolating finite-volume Monte
+Carlo data to infinite volume, based on finite-size-scaling theory. We discuss
+carefully its systematic and statistical errors, and we illustrate it using
+three examples: the two-dimensional three-state Potts antiferromagnet on the
+square lattice, and the two-dimensional $O(3)$ and $O(\infty)$ $\sigma$-models.
+In favorable cases it is possible to obtain reliable extrapolations (errors of
+a few percent) even when the correlation length is 1000 times larger than the
+lattice.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 21:43:03 GMT""}]","2009-10-22"
+"hep-ph/9409232",,"D.P. Roy and K. Sridhar","A possible resolution of the CDF psi^prime anomaly","8 pages + 1 figure (available upon request), CERN-TH.7434/94","Phys.Lett. B345 (1995) 537-540","10.1016/0370-2693(94)01622-J",,"hep-ph",,"  We consider the contribution of radially excited 2^3P_{1,2} states to
+psi^prime production at the Tevatron energy. Production of these states via the
+conventional gluon fusion mechanism and via gluon and charm quark fragmentation
+processes is considered. We find that it is possible to account for the data on
+psi^prime production from the CDF experiment, by taking into account the decays
+of these 2^3P_{1,2} states into psi^prime.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 17:10:28 GMT""}]","2009-10-28"
+"hep-ph/9409233","R. Sekhar Chivukula","R. Sekhar Chivukula","Physics Beyond the Standard Model: Prospects and Perspectives","Talk presented at DPF `94, Albuquerque NM, Aug. 2-6, 1994, 21 pages,
+  Latex, using world_sci.sty and epsf, BUHEP-94-22",,,,"hep-ph",,"  In this talk I discuss the effects of physics beyond the standard model on
+the process $Z \to b\bar{b}$. I argue that, because the top-quark is heavy,
+this process is susceptible to large corrections from new physics.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 17:13:39 GMT""}]","2007-05-23"
+"hep-ph/9409234","PostDoc Its","N.G. Deshpande and Xiao-Gang He","CP Violation in a Multi-Higgs Doublet Model","17 pages + one figure, Revtex. Talk presented by Deshpande at the
+  Conference WHEPP-3, December 1993","Pramana 45:S73-S83,1995","10.1007/BF02907966","OITS-551","hep-ph",,"  We study CP violation in a multi-Higgs doublet model based on a $S_3 \times
+Z_3$ horizontal symmetry. We consider two mechanisms for CP violation in this
+model: a) CP violation due to complex Yukawa couplings; and b) CP violation due
+to scalar-pseudoscalar mixings. We find that the predictions for
+$\epsilon'/\epsilon$, CP violation in B decays and the electric dipole moments
+of neutron and electron are different between these two mechanisms. These
+predictions are also dramatically different from the minimal Standard Model
+predictions.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 17:52:59 GMT""}]","2010-11-01"
+"hep-ph/9409235","PostDoc Its","N.G. Deshpande, Xiao-Gang He and E. Keith","Proton Decay In Supersymmetric Finite Grand Unificatione","7 pages, Revtex. Talk presented by X.-G. He at the Eighth Meeting the
+  American Physical Society, Division of Particles and Fields (DPF'94),
+  Albuqurque, New Mexico, August 2-6, 1994",,,"OITS-548","hep-ph",,"  We study proton decay in finite supersymmetric SU(5) grand unified theories.
+We find that the finite supersymmetric SU(5) models are ruled out from this
+consideration.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 17:55:11 GMT""}]","2007-05-23"
+"hep-ph/9409236","PostDoc Its","Xiao-Gang He and S. Pakvasa","CP Violation In Hyperon Decays","11 pages, Revtex. Talk presented by Xiao-Gang He at the Eighth
+  Meeting of the American Physical Society, Division of Particles and Fields
+  (DPF'94), Albuqurque, New Mexico, August 2-6, 1994",,,"UH-511-802-94, OITS-550","hep-ph",,"  The present status for CP violation in hyperon decays is reviewed.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 17:58:17 GMT""}]","2007-05-23"
+"hep-ph/9409237","PostDoc Its","Xiao-Gang He","A Light $Z'$ Boson","7pages, REvtex, OITS-549",,,,"hep-ph",,"  A model of a light $Z'$ boson based on gauged $L_\mu - L_\tau$ $U(1)$
+symmetry is constructed. The $Z'$ boson mass is constrained to be in the range
+of 0.8 to 1 GeV from Z and $Z'$ mass relation, g-2 of muon, and tau decays. The
+two body decay $\tau \rightarrow \mu Z'$ is possible. This will provide a
+striking signature to test the model. Talk presented at the Eighth Meeting of
+the American Physical Society, Division of Particles and Fields (DPF'94),
+Albuqurque, New Mexico, August 2-6, 1994.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 18:01:29 GMT""}]","2007-05-23"
+"hep-ph/9409238","Lynne Orr","Lynne H. Orr and W.J. Stirling","Additional Soft Jets in ${\rm t\bar{t}}$ Production at the Tevatron
+  $\pp$ Collider","plain LaTeX, 13 pages plus 9 figures included as a separate uuencoded
+  file (or avail. from authors); DTP/94/60, UR-1365","Phys.Rev. D51 (1995) 1077-1085","10.1103/PhysRevD.51.1077",,"hep-ph",,"  A large fraction of top quark events in $\pp$ collisions at $1.8\ \TeV$ will
+contain additional soft hadronic jets from gluon bremsstrahlung off the quarks
+and gluons in the hard processes $\qq, gg \to \tt \to \bb \ww$. These extra
+jets can cause complications when attempting to reconstruct $m_t$ from the
+invariant mass of combinations of final-state quarks and leptons. We show how
+such soft radiation cannot be unambiguously associated with either
+initial-state radiation or or with final-state radiation off the $b$ quarks.
+The top quarks can radiate too, and in fact the pattern of radiation has a very
+rich structure, which depends on the orientation of the final-state particles
+with respect to each other and with respect to the beam. We calculate the full
+radiation pattern of soft jets in the soft gluon approximation and compare with
+several approximate forms which are characteristic of parton shower Monte
+Carlos. The implications for top mass measurements are discussed.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 22:08:45 GMT""}]","2009-10-28"
+"hep-ph/9409239","J. Gunion","J.F. Gunion","Supersymmetry at LEPII, the Tevatron, and Future Accelerators","5 pages, requires standard latex (art12) and ichep_preprint.sty
+  (attached). full postscript file including embedded figure available via
+  anonymous ftp at ucdhep.ucdavis.edu as [anonymous.gunion]ichep.ps, preprint
+  UCD-94-33",,,,"hep-ph",,"  I present a brief review of prospects for discovering supersymmetry, focusing
+primarily on the Tevatron and LEPII, but commenting on the LHC and a next
+linear $\epem$ collider. Special emphasis is given to expectations in the
+context of models with GUT boundary conditions motivated by Supergravity and
+Superstrings. An overview of related conference contributions is given.
+","[{""version"":""v1"",""created"":""Wed, 7 Sep 1994 00:46:13 GMT""}]","2007-05-23"
+"hep-ph/9409240","L. T. Handoko","L.T. Handoko and T. Morozumi Pages : 19 pages","$b \to s(d) \gamma$ with a Vector-like Quark as Fourth-generation","4 figures are included and 1 figure is excluded","Mod.Phys.Lett. A10 (1995) 309-322; Erratum-ibid. A10 (1995) 1733","10.1142/S021773239500034X","HUPD-9409","hep-ph",,"  We study the implications of a vector-like quark, especially a down-type
+vector-like quark in $b \rightarrow s(d) \gamma$ including the neutral Higgs in
+the calculation. After analyzing some possible constraints for the mixing, the
+contribution may be significant for the $b \rightarrow d \gamma$, but not for
+the $b \rightarrow s \gamma$. We also find that the FCNC among ordinary quarks
+vanishes for a special form of down-type quark mass matrix.
+","[{""version"":""v1"",""created"":""Wed, 7 Sep 1994 05:14:06 GMT""},{""version"":""v2"",""created"":""Tue, 8 Nov 1994 12:23:44 GMT""},{""version"":""v3"",""created"":""Tue, 31 Jan 1995 12:56:47 GMT""}]","2012-08-27"
+"hep-ph/9409242","Andrzej J. Buras","A.J. Buras","Towards Precise Determinations of the CKM Matrix without Hadronic
+  Uncertainties","(Invited talk given at ICHEP '94, Glasgow, July 1994.), 4 pages,
+  Munich Technical University preprint TUM-T31-70/94",,,,"hep-ph",,"  We illustrate how the measurements of the CP asymmetries in
+$B^0_{d,s}$-decays together with a measurement of $Br(K_L\to
+\pi^\circ\nu\bar\nu)$ or $Br(K^+\to \pi^+\nu\bar\nu)$ and the known value of
+$\mid V_{us}\mid $ can determine all elements of the Cabibbo-Kobayashi-Maskawa
+matrix essentially without any hadronic uncertainties. An analysis using the
+ratio $x_d/x_s$ of $B_d-\bar B_d$ to $B_s-\bar B_s$ mixings is also presented.
+","[{""version"":""v1"",""created"":""Wed, 7 Sep 1994 07:43:46 GMT""}]","2007-05-23"
+"hep-ph/9409243","Frank Cuypers","Frank Cuypers and Saurabh Rindani","Top Quarks and $CP$ Violation in Polarized $e^+e^-$ Collisions","11 pages, MPI-PhT/94-54","Phys.Lett.B343:333-338,1995","10.1016/0370-2693(94)01414-8",,"hep-ph",,"  Electroweak dipole moments of the top quark are conjectured and their effect
+in polarized $e^+e^-$ collisions is examined for the expectation values of two
+different $CP$-odd observables. One of these observables probes the real part
+of the dipole moments whereas the other probes their imaginary part. It turns
+out that varying the polarization of the electron beam substantially enhances
+the resolving power of the experiment. PostScript version: preprints/mpi9454.ps
+from gluon.hep.physik.uni-muenchen.de
+","[{""version"":""v1"",""created"":""Wed, 7 Sep 1994 09:19:06 GMT""}]","2010-11-01"
+"hep-ph/9409244",,"A.J. Buras and R. Fleischer","Limitations in Measuring the Angle $\beta$ by Using $SU(3)$ Relations
+  for $B$-Meson Decay-Amplitudes","15 pages (LaTeX) + 5 figures included, Munich Technical University
+  preprint TUM-T31-69/94","Phys.Lett.B341:379-385,1995","10.1016/0370-2693(94)01314-3",,"hep-ph",,"  Flavour $SU(3)$ symmetry of strong interactions and certain dynamical
+assumptions have been used in a series of recent publications to extract weak
+CKM phases from $B$-decays into $\{\pi\pi,\pi K, K\bar K\}$ final states. We
+point out that irrespectively of $SU(3)$-breaking effects the presence of
+QCD-penguin contributions with internal $u$- and $c$-quarks precludes a clean
+determination of the angle $\beta$ in the unitarity triangle by using the
+branching ratios only. This difficulty can be overcome by measuring in addition
+the ratio $x_d/x_s$ of $B^0_d-\bar B^0_d$ to $B^0_s-\bar B^0_s$ mixings. The
+measurement of the angle $\gamma$ is unaffected by these new contributions.
+Some specific uncertainties related to $SU(3)$-breaking effects and electroweak
+penguin contributions are briefly discussed.
+","[{""version"":""v1"",""created"":""Wed, 7 Sep 1994 09:48:15 GMT""}]","2010-11-01"
+"hep-ph/9409245","Cesareo A. Dominguez","C.A.Dominguez","Operator product expansion and duality at finite temperature","UCT-TP-209/94. Invited talk at QCD-94, Montpellier, July 1994. LATEX
+  file. 5 pages. NO figures","Nucl.Phys.Proc.Suppl. 39BC (1995) 463-466","10.1016/0920-5632(95)00118-S",,"hep-ph",,"  The operator product expansion of current correlators at short distances, and
+the notion of QCD-hadron duality are the cornerstone of QCD sum rules. The
+extension of this programme to $T \neq 0$ is discussed, together with
+applications to hot hadronic propagators. Indications are that the hadronic
+spectrum suffers a substantial rearrangement with increasing temperature, and
+hint on the existence of a quark deconfining phase transition. Phenomenological
+order parameters to characterize this phase transition are discussed.
+","[{""version"":""v1"",""created"":""Wed, 7 Sep 1994 13:39:57 GMT""}]","2009-10-28"
+"hep-ph/9409246","Markus Thoma","Hans Vija and Markus H. Thoma","Braaten-Pisarski Method at Finite Chemical Potential","14 pages, REVTEX, 6 postscript figures appended, UGI-94-13","Phys.Lett. B342 (1995) 212-218","10.1016/0370-2693(94)01378-P",,"hep-ph",,"  The effective perturbation theory developed by Braaten and Pisarski for gauge
+theories at finite temperature is extended to finite chemical potential. As a
+first application the collisional energy loss of a heavy quark propagating
+through a quark-gluon plasma with non-vanishing quark chemical potential is
+considered. Assuming $\mu /T\simeq 1$, motivated by numerical simulations of
+heavy ion collisions at RHIC energies, we find that the effect of the quark
+chemical potential is rather small, unless the energy density instead of the
+temperature is fixed.
+","[{""version"":""v1"",""created"":""Wed, 7 Sep 1994 14:17:42 GMT""}]","2009-10-28"
+"hep-ph/9409247",,"P. Ball","Theory of Semi-- and Nonleptonic Decays of Heavy Mesons","(Talk held at ICHEP 94, Glasgow, Scotland, July 94). 6 p.,
+  TUM-T31-74/94, Latex, uses epsf.sty and a4wide.sty, one uuencoded figure
+  included",,,,"hep-ph",,"  I review some of the recent developments in the theoretical description of
+weak inclusive decays of heavy mesons. The topics cover the value of $|V_{cb}|$
+as extracted from semileptonic inclusive decays and a short discussion of the
+theoretical errors. I also present the results of a recent calculation of
+next--to--leading order corrections to nonleptonic inclusive B decays which
+allows an improved prediction of the semileptonic branching ratio of B mesons.
+","[{""version"":""v1"",""created"":""Wed, 7 Sep 1994 15:07:11 GMT""}]","2007-05-23"
+"hep-th/9409034",,"A.V.Karabegov","Contravariant symbol quantization on $S^2$","10 pages, LATEX file",,,,"hep-th",,"  We define an algebra of contravariant symbols on $S^2$ and give an algebraic
+proof of the Correspondence Principle for that algebra.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 19:06:57 GMT""}]","2007-05-23"
+"hep-th/9409035","Ulrich Harder","U. Harder, A. Iskandar and W. McGhee","On the Breathers of $a_n^{(1)}$ Affine Toda Field Theory","30pp. LaTeX one ps file, minor typographical corrections","Int.J.Mod.Phys. A10 (1995) 1879-1904","10.1142/S0217751X95000917","DTP-94-35","hep-th",,"  Explicit constructions of $a_n^{(1)}$ affine Toda field theory breather
+solutions are presented. Breathers arise either from two solitons of the same
+species or from solitons which are anti-species of each other. In the first
+case, breathers carry topological charges. These topological charges lie in the
+tensor product representation of the fundamental representations associated
+with the topological charges of the constituent solitons. In the second case,
+breathers have zero topological charge. The breather masses are, as expected,
+less than the sum of the masses of the constituent solitons.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 18:06:24 GMT""},{""version"":""v2"",""created"":""Wed, 24 May 1995 11:09:51 GMT""},{""version"":""v3"",""created"":""Thu, 25 May 1995 08:45:14 GMT""}]","2009-10-28"
+"hep-th/9409036",,"Alexander Molev","Yangians and Classical Lie Algebras, Part II. Sklyanin determinant,
+  Laplace operators and characteristic identities","37 pages, AmSTeX",,,"CMA MRR 024-94 ANU","hep-th",,"  We study the structure of quantized enveloping algebras called twisted
+Yangians, which are naturally associated with the B, C, and D series of the
+classical Lie algebras. We obtain an explicit formula for the formal series
+(the Sklyanin determinant) whose coefficients are free generators of the center
+of the twisted Yangian. As a corollary we obtain a new system of algebraically
+independent generators of the center of the universal enveloping algebra for
+the orthogonal and symplectic Lie algebras and find the characteristic
+polynomial for the matrix formed by the generators of these Lie algebras.
+","[{""version"":""v1"",""created"":""Wed, 7 Sep 1994 06:57:15 GMT""}]","2007-05-23"
+"hep-th/9409037",,"M.Bianchi, F.Fucito, M.Martellini and G.C.Rossi","ALE Instantons in String Effective Theory","62 pages, phyzzx.tex, ROM2F-94-17","Nucl.Phys. B440 (1995) 129-170","10.1016/0550-3213(94)00552-P",,"hep-th",,"  We show that the classical equations of motion of the low-energy effective
+field theory describing the massless modes of the heterotic (or type I) string
+admit two classes of supersymmetric self--dual backgrounds. The first class,
+which was already considered in the literature, consists of solutions with a
+(conformally) flat metric coupled to axionic instantons. The second includes
+Asymptotically Locally Euclidean (ALE) gravitational instantonic backgrounds
+coupled to gauge instantons through the so--called ``standard embedding''. We
+show that some elements of these two classes of solutions are dual to each
+other in the sense of Buscher's duality. We give a world--sheet interpretation
+of the heterotic ALE istanton solutions in terms of superconformal $N=(4,4)$
+$\s$--models and argue for their validity to all orders in $\alpha^\prime$.
+Specializing the gravitational background to the Eguchi--Hanson instanton, we
+compute the indices of the fermionic operators and give the explicit form of
+all the relevant fermionic and bosonic zero--modes.}
+","[{""version"":""v1"",""created"":""Wed, 7 Sep 1994 13:18:49 GMT""}]","2009-10-28"
+"nucl-th/9409003","Mannque Rho","Mannque Rho","Chiral Symmetry in Nuclear Physics","(based on talk given at International Symposium on Medium Energy
+  Physics, August 22-26, 1994, Beijing, China), 15 pages (3 figures not
+  included, supplied upon request), Latex, Saclay T95/100",,,,"nucl-th hep-ph",,"  The role of chiral symmetry in nuclear physics is summarized. The topics
+treated are the chiral bag model for nucleon structure resulting from large
+$N_c$ QCD, the pion cloud in chiral perturbation theory for low-energy
+electroweak nuclear response functions, ``swelled hadrons"" in nuclear matter,
+chiral symmetry restoration in terms of the Georgi vector limit and
+pseudo-Goldstone meson condensation in nuclear medium.
+","[{""version"":""v1"",""created"":""Wed, 7 Sep 1994 10:45:51 GMT""}]","2009-09-25"
+"patt-sol/9409001","Hermann Riecke","Henar Herrero (Departamento de Fisica y Matematica Aplicada, Facultad
+  de Ciencias, Universidad de Navarra, 31080 Pamplona, Navarra, Spain) and
+  Hermann Riecke (Department of Engineering Sciences and Applied Mathematics,
+  Northwestern University, Evanston, IL, USA)","Bound Pairs of Fronts in a Real Ginzburg-Landau Equation Coupled to a
+  Mean Field","9 pages (RevTex), 9 figures (postscript)","Physica D 85 (1995) 79-92","10.1016/0167-2789(95)00068-F",,"patt-sol nlin.PS",,"  Motivated by the observation of localized traveling-wave states (`pulses') in
+convection in binary liquid mixtures, the interaction of fronts is investigated
+in a real Ginzburg-Landau equation which is coupled to a mean field. In that
+system the Ginzburg-Landau equation describes the traveling-wave amplitude and
+the mean field corrsponds to a concentration mode which arises due to the
+slowness of mass diffusion. For single fronts the mean field can lead to a
+hysteretic transition between slow and fast fronts. Its contribution to the
+interaction between fronts can be attractive as well as repulsive and depends
+strongly on their direction of propagation. Thus, the concentration mode leads
+to a new localization mechanism, which does not require any dispersion in
+contrast to that operating in the nonlinear Schr\""odinger equation. Based on
+this mechanism alone, pairs of fronts in binary-mixture convection are expected
+to form {\it stable} pulses if they travel {\it backward}, i.e. opposite to the
+phase velocity. For positive velocities the interaction becomes attractive and
+destabilizes the pulses. These results are in qualitative agreement with recent
+experiments. Since the new mechanism is very robust it is expected to be
+relevant in other systems as well in which a wave is coupled to a mean field.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 21:26:13 GMT""}]","2015-06-26"

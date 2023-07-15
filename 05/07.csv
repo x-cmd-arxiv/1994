@@ -1,0 +1,148 @@
+"chao-dyn/9405003","Yoshihiro Taguchi","Y-h. Taguchi (Department of Physics, Tokyo Institute of
+  Technology,Oh-okayama, Meguro-ku, Tokyo 152 Japan)","Numerical Study of Granular Turbulence and the appearance of $k^{-5/3}$
+  energy spectrum without flow","14 pages, and 10 figures added after the text (uuencoded compressed
+  tar-file)","Physica D 80 (1995) 61","10.1016/0167-2789(95)90059-4","titcmt-94-4","chao-dyn cond-mat nlin.CD",,"  The vibrated bed of powder, a vessel that mono disperse glass beads fill and
+a loud speaker shakes, is investigated numerically with the distinct element
+method, a kind of molecular dynamics. When the bed is heavily shaken, the
+displacement vectors of powder have the power spectrum with the dependence upon
+the wave number $k$ as $k^{-5/3}$. The origin of this spectrum is suggested to
+be the balance between the injected and dissipative energy, analogous to the
+proposal by Kolmogorov to explain the $k^{-5/3}$ energy spectrum observed in
+the fluid turbulence. Furthermore, the same spectrum still appears even without
+flows of powder. Thus Kolmogorov's argument is more universal than believed
+before.
+","[{""version"":""v1"",""created"":""Sat, 7 May 1994 03:02:54 GMT""}]","2015-06-24"
+"cmp-lg/9405012","Tao Hong","Tao Hong (Center of Excellence for Document Analysis and Recognition,
+  Department of Computer Science, State University of New York at Buffalo)","Integration Of Visual Inter-word Constraints And Linguistic Knowledge In
+  Degraded Text Recognition","3 pages, PostScript File, to appear in the Proceedings of ACL-94,
+  Student Session","In Proceedings of ACL-94 (Student Session)",,,"cmp-lg cs.CL",,"  Degraded text recognition is a difficult task. Given a noisy text image, a
+word recognizer can be applied to generate several candidates for each word
+image. High-level knowledge sources can then be used to select a decision from
+the candidate set for each word image. In this paper, we propose that visual
+inter-word constraints can be used to facilitate candidate selection. Visual
+inter-word constraints provide a way to link word images inside the text page,
+and to interpret them systematically.
+","[{""version"":""v1"",""created"":""Fri, 6 May 1994 18:02:14 GMT""}]","2008-02-03"
+"cmp-lg/9405013","Philip G. Edmonds","Philip G. Edmonds","Collaboration on reference to objects that are not mutually known","6 pages, to appear in proceedings of COLING-94, LaTeX (now uses
+  fullname.sty, fullname.bst)",,,,"cmp-lg cs.CL",,"  In conversation, a person sometimes has to refer to an object that is not
+previously known to the other participant. We present a plan-based model of how
+agents collaborate on reference of this sort. In making a reference, an agent
+uses the most salient attributes of the referent. In understanding a reference,
+an agent determines his confidence in its adequacy as a means of identifying
+the referent. To collaborate, the agents use judgment, suggestion, and
+elaboration moves to refashion an inadequate referring expression.
+","[{""version"":""v1"",""created"":""Fri, 6 May 1994 18:44:10 GMT""},{""version"":""v2"",""created"":""Mon, 9 May 1994 17:37:12 GMT""}]","2008-02-03"
+"gr-qc/9405015","Chopin Soo","Lee Smolin and Chopin Soo","The Chern-Simons Invariant as the Natural Time Variable for Classical
+  and Quantum Cosmology","32 pages, gr-qc/9405015, CGPG-94/4-1 (revised and extended, Oct. 94)","Nucl.Phys.B449:289-316,1995","10.1016/0550-3213(95)00222-E",,"gr-qc hep-th",,"  We propose that the Chern-Simons invariant of the Ashtekar-Sen connection is
+the natural internal time coordinate for classical and quantum cosmology. The
+reasons for this are a number of interesting properties of this functional,
+which we describe here. 1)It is a function on the gauge and diffeomorphism
+invariant configuration space, whose gradient is orthogonal to the two physical
+degrees of freedom, in the metric defined by the Ashtekar formulation of
+general relativity. 2)The imaginary part of the Chern-Simons form reduces in
+the limit of small cosmological constant, $\Lambda$, and solutions close to
+DeSitter spacetime, to the York extrinsic time coordinate. 3)Small matter-field
+excitations of the Chern-Simons state satisfy, by virtue of the quantum
+constraints, a functional Schroedinger equation in which the matter fields
+evolve on a DeSitter background in the Chern-Simons time. We then n propose
+this is the natural vacuum state of the theory for $\Lambda \neq 0$. 4)This
+time coordinate is periodic on the configuration space of Euclideanized
+spacetimes, due to the large gauge transformations, which means that physical
+expectation values for all states in non-perturbative quantum gravity will
+satisfy the $KMS$ condition, and may then be interpreted as thermal states.
+5)Forms for the physical hamiltonians and inner product which support the
+proposal are suggested, and a new action principle for general relativity, as a
+geodesic principle on the connection superspace, is found.
+","[{""version"":""v1"",""created"":""Fri, 6 May 1994 18:52:59 GMT""},{""version"":""v2"",""created"":""Sun, 30 Oct 1994 19:52:55 GMT""}]","2011-07-19"
+"gr-qc/9405016",,"Shawn J. Kolitch and Douglas M. Eardley","Behavior of Friedmann-Robertson-Walker Cosmological Models in
+  Scalar-Tensor Gravity","Slight stylistic changes and some references added. This version to
+  be published in {\sl Annals of Physics}","Ann.Phys.241:128-151,1995","10.1006/aphy.1995.1058",,"gr-qc",,"  We analyze solutions to Friedmann-Robertson-Walker cosmologies in Brans-Dicke
+theory, where a scalar field is coupled to gravity. Matter is modelled by a
+$\gamma$-law perfect fluid, including false-vacuum energy as a special case.
+Through a change of variables, we reduce the field equations from fourth order
+to second order, and they become equivalent to a two-dimensional dynamical
+system. We then analyze the entire solution space of this dynamical system, and
+find that many qualitative features of these cosmologies can be gleaned,
+including standard non-inflationary or extended inflationary expansion, but
+also including bifurcations of stable or unstable expansion or contraction,
+noninflationary vacuum-energy dominated models, and several varieties of
+``coasting,"" ``bouncing,"" ``hesitating,"" and ``vacillating"" universes. It is
+shown that inflationary dogma, which states that a universe with curvature and
+dominated by inflationary matter will always approach a corresponding
+flat-space solution at late times, does not hold in general for the
+scalar-tensor theory, but rather that the occurence of inflation depends upon
+the initial energy of the scalar field relative to the expansion rate. In the
+case of flat space ($k=0$), the dynamical system formalism generates some
+previously known exact power-law solutions.
+","[{""version"":""v1"",""created"":""Sat, 7 May 1994 06:12:39 GMT""},{""version"":""v2"",""created"":""Tue, 14 Feb 1995 16:19:25 GMT""}]","2011-07-19"
+"hep-ph/9405244","Krzywicki","Andre Krzywicki, LPTHE Orsay","Disoriented Chiral Condensates","94/43, talk at XXIX Rencontres de Moriond, Meribel, March 1994,Latex
+  9 pages",,,,"hep-ph",,"  The idea that a bubble of misaligned vacuum is sometimes produced in
+high-energy collisions is reviewed.
+","[{""version"":""v1"",""created"":""Fri, 6 May 1994 16:57:56 GMT""}]","2007-05-23"
+"hep-ph/9405245","Ed Stoeffhaas","V.Barger, M.S.Berger, P.Ohmann and R.J.N.Phillips","Multilepton SUSY signals from R-parity violation at the Tevatron","12 pages. Uses Revtex style files (available through hep-ph). 5
+  postscript figures included (uufiled). RAL-94-047, MAD/PH/831","Phys.Rev.D50:4299-4305,1994","10.1103/PhysRevD.50.4299",,"hep-ph",,"  The expected trilepton signals from $p \bar p \to \chi^\pm_1\chi^0_2 \to
+(\chi^0_1\ell^\pm\nu) (\chi^0_1\ell'^+\ell'^-) $ will be converted into
+hadronically quiet multilepton signals, if the two final $\chi^0_1$ have
+leptonic $R$-parity-violating (RPV) decays $\chi^0_1 \to \ell \ell' \nu$. We
+make illustrative calculations of the acceptance for these spectacular RPV
+signals, and point out that distinctive multilepton signals are possible even
+when the $R$-conserving trilepton signals are blocked by the ``spoiler mode""
+$\chi^0_2 \to h^0 \chi^0_1$. Other channels such as $p\bar p\to \chi_1^\pm
+\chi_2^0 \to (\chi_1^0\ell^\pm\nu) (\chi_1^0\nu\nu)$, $p\bar p\to \chi_1^\pm
+\chi_1^0 \to (\chi_1^0\ell\nu)\chi_1^0$ and $p\bar
+p\to\chi_1^+\chi_1^-\to(\chi_1^0\ell^+\nu)(\chi_1^0\ell'^-\nu)$ can also give
+quiet multileptons from RPV. We investigate these signals in the context of
+supersymmetric models with radiative electroweak symmetry breaking, using
+examples in the low-$\tan\beta$ $\lambda_t$ fixed-point region.
+","[{""version"":""v1"",""created"":""Fri, 6 May 1994 20:44:43 GMT""}]","2009-09-25"
+"hep-ph/9405246",,"M.A. Shifman","Theory of Pre-Asymptotic Effects in Weak Inclusive Decays","Talk at the Workshop ``Continuous Advances in QCD"", 32 pages, 14
+  figures, plain LaTeX, TPI-MINN-94/17-T, figures available from the author
+  upon request",,,,"hep-ph hep-th",,"  I give an introduction to the theory of preasymptotic effects based on the
+systematic OPE/HQET expansion in $1/m_Q$ where $m_Q$ is the heavy quark mass.
+The general idea is explained in two most instructive examples, with an
+emphasis on pedagogical aspects. Some important results of the last year are
+reviewed. In discussing the issue of the quark-hadron duality, one of the basic
+ingredients of the theory, I prove that the operator product expansion {\em per
+se} is an asymptotic expansion. The behavior of the high order terms in this
+expansion determines the onset of duality and the accuracy of the duality
+relations. The factorial divergence of the high-order terms in OPE implies a
+sophisticated analytical structure in the $\alpha_s$ plane, with terms of the
+type $\exp [-\exp (1/\alpha_s )]$.
+","[{""version"":""v1"",""created"":""Fri, 6 May 1994 21:43:13 GMT""}]","2009-09-25"
+"hep-ph/9405247","Ar","Andrija Ra\v{s}in","Approximate flavor symmetries","10 pages, LBL-35530, short talk given at the Second IFT workshop on
+  Yukawa couplings and the origin of mass, Feb 11-13, 1994, University of
+  Florida, Gainesville",,,,"hep-ph",,"  We discuss the idea of approximate flavor symmetries. Relations between
+approximate flavor symmetries and natural flavor conservation and democracy
+models is explored. Implications for neutrino physics are also discussed.
+","[{""version"":""v1"",""created"":""Fri, 6 May 1994 22:05:29 GMT""}]","2007-05-23"
+"hep-th/9405046","Jorge Stephany Ruiz","Juan Pablo Lupi, Alvaro Restuccia and Jorge Stephany","Topological Selection of World Manifolds for a P-Brane in a BF--Field","10 pages",,,,"hep-th",,"  We study the interaction between a $p$-brane and $BF$ system constituted by a
+$(p+1)$-form and a $n-(p+2)$-form B with a metric independent action on a
+manifold $M^n$. We identify the allowed $(p+1)$-world manifolds sweeped by the
+$p$-brane as those restricted by the topological condition of being the
+boundaries of chains in $M^n$. We find the general solutions of the equation of
+motion for the field configurations. The solutions for the $B$ field are
+closely related to the external field configurations that describe the defects
+needed for the computation of soliton correlation functions.The particular
+cases of the particle and string evolution are discussed with some detail.
+","[{""version"":""v1"",""created"":""Fri, 6 May 1994 16:32:58 GMT""}]","2009-09-25"
+"hep-th/9405047","Jorge Stephany Ruiz","Alvaro Restuccia and Jorge Stephany","Canonical Covariant Formulation of Green-Schwarz Superstring without
+  Second Class Constraints","9 pages","Phys.Lett. B343 (1995) 147-152","10.1016/0370-2693(94)01416-A",,"hep-th",,"  We describe a canonical covariant formulation of the Green-Schwarz
+Superstring which allows the construction of a new covariant action canonically
+equivalent to the Green-Schwarz action but subjected only to first class
+constraints. From this action the correct BRST operator for the quantization of
+the Green-Schwarz Superstring may be constructed. Also the gauge fixed action
+in the Light-Cone gauge may be reobtained. The action presented in this letter
+generalizes in a non-trivial form the action introduced by Kallosh for the
+Brink-Schwarz-Casalbuoni Superparticle.
+","[{""version"":""v1"",""created"":""Fri, 6 May 1994 16:30:16 GMT""}]","2009-10-28"
+"hep-th/9405051",,"A.A. Andrianov, F. Cannata and M.V. Ioffe","Higher-Order Derivative Susy in Quantum Mechanics with Large Energy
+  Shifts","10 pages,LaTeX","Mod.Phys.Lett. A11 (1996) 1417","10.1142/S0217732396001429","Preprint SPbU-IP-94-04","hep-th nucl-th",,"  Within the framework of second order derivative (one dimensional) SUSYQM we
+discuss particular realizations which incorporate large energy shifts between
+the lowest states of the spectrum of the superhamiltonian (of Schr\""odinger
+type). The technique used in this construction is based on the ""gluing""
+procedure. We study the limit of infinite energy shift for the charges of the
+Higher Derivative SUSY Algebra, and compare the results with those of the
+standard SUSY Algebra. We conjecture that our results can suggest a
+construction of a toy model where large energy splittings between fermionic and
+bosonic partners do not affect the SUSY at low energies.
+","[{""version"":""v1"",""created"":""Sat, 7 May 1994 15:34:31 GMT""}]","2015-06-26"

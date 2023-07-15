@@ -1,0 +1,242 @@
+"astro-ph/9411046","Jeff Willick","Jeffrey A. Willick, Stephane Courteau, Sandra M. Faber, David
+  Burstein, and Avishai Dekel","Homogeneous Velocity-Distance Data for Peculiar Velocity Analysis. I.
+  Calibration of Cluster Samples","42 Pages, uuencoded PostScript. Submitted to ApJ. 22 Figures not
+  included, can be obtained via ftp, contact jeffw@ociw.edu","Astrophys.J. 453 (1995) 566","10.1086/175762",,"astro-ph",,"  We have combined five Tully-Fisher (TF) redshift-distance samples for
+peculiar velocity analysis: the cluster data of Han, Mould and coworkers
+(1991-93, HM) and Willick (1991, W91CL), and the field data of Aaronson et al.
+(1992), Willick (1991), Courteau & Faber (1992), and Mathewson et al. (1992),
+totaling over 3000 spiral galaxies. We treat the cluster data in this paper,
+which is the first of a series; in Paper II we treat the field TF samples.
+These data are to be combined with elliptical data (e.g., Faber et al. 1989) to
+form the MARK III CATALOG OF GALAXY PECULIAR VELOCITIES, which we will present
+in Paper III. The catalog will be used as input for POTENT reconstruction of
+velocity and density fields, described in later papers, as well as for
+alternative velocity analyses. Our main goal in Papers I & II is to place the
+TF data onto a self-consistent system by (i) applying a uniform set of
+corrections to the raw observables, (ii) determining the TF slopes and scatters
+separately for each sample, and (iii) adjusting the TF zeropoints to ensure
+mutually consistent distances. The global zeropoint is set by the HM sample,
+chosen because of its depth and uniformity on the sky and its substantial
+overlap with each of the other samples. In this paper, we calibrate the
+``forward'' and ``inverse'' TF relations for HM and W91CL. We study the
+selection criteria for these samples and correct for the resultant statistical
+biases. The bias corrections are validated by comparing forward and inverse
+cluster distances. We find that many sample clusters are better modeled as
+``expanding'' than relaxed, which significantly affects the TF calibrations.
+Proper corrections for internal extinction are derived self-consistently from
+the data.
+","[{""version"":""v1"",""created"":""Fri, 11 Nov 1994 17:43:36 GMT""}]","2009-10-22"
+"astro-ph/9411048","Matthias Bartelmann","Ramesh Narayan and Matthias Bartelmann","The lens parallax method: determining the redshifts of the faint blue
+  galaxies through gravitational lensing","9 pages, uuencoded compressed postscript including one figure",,,,"astro-ph",,"  We propose a new technique, which we call the lens parallax method, to
+determine simultaneously the redshift distribution of the faint blue galaxies
+and the mass distribution of foreground clusters of galaxies. The method is
+based on gravitational lensing and uses the fact that the mean angular size of
+the faint blue galaxies is a well-determined function of surface brightness.
+The method requires first a calibration of the angular-size vs. surface
+brightness relation in unlensed blank fields and a determination of the mean
+redshift of the brightest of the faint blue galaxies. By combining this
+information with observations of the distorted images of background galaxies in
+the fields of foreground clusters, we show that it is possible to obtain the
+mean redshift of the galaxies as a function of their surface brightness. With a
+sample of about ten moderate redshift rich clusters and using ten bins in
+surface brightness, a bin-to-bin signal-to-noise ratio of $\sim3.5$ can be
+achieved. The method simultaneously allows a determination of the convergence
+and shear of the lensing cluster as a function of position, and through this
+the mass distribution of the lens can be obtained. The lens parallax method can
+be used in conjunction with, and will improve the accuracy of, other previously
+proposed techniques for mapping clusters.
+","[{""version"":""v1"",""created"":""Fri, 11 Nov 1994 20:29:14 GMT""}]","2007-05-23"
+"astro-ph/9411049","Robert Brandenberger","Robert H. Brandenberger (Brown University)","Modern Cosmology and Structure Formation","120 pages, phyzzx macros. There are 47 figures + 1 table available at
+  http://www.het.brown.edu/people/rhb/index.html",,,"BROWN HET-964","astro-ph hep-ph",,"  An introduction to modern cosmology is given, focusing on theories for the
+origin of structure in the Universe. After a brief review of the theory of
+growth of cosmological perturbations and a summary of some important
+observational results, most of the article is devoted to discussions of the
+inflationary Universe scenario and of topological defect models of structure
+formation. The final chapter is a summary of the theory of cosmic microwave
+background temperature fluctuations and of the current observational status.
+","[{""version"":""v1"",""created"":""Fri, 11 Nov 1994 23:02:14 GMT""}]","2008-04-11"
+"cond-mat/9411047",,"I.R. Aitchison, P. Ao, D.J. Thouless, and X.-M. Zhu","Effective Lagrangians for BCS Superconductors at T=0","Latex, 13 pages",,"10.1103/PhysRevB.51.6531","CERN-Th.7385/94","cond-mat",,"  We show that the low frequency, long wavelength dynamics of the phase of the
+pair field for a BCS-type s-wave superconductor at T=0 is equivalent to that of
+a time-dependent non-linear Schr\""odinger Lagrangian (TDNLSL), when terms
+required by Galilean invariance are included. If the modulus of the pair field
+is also allowed to vary, the system is equivalent to two coupled TDNLSL's.
+  We also refer the interested reader to our earlier paper, `Nonlinear
+Schrodinger equation for superconductors' [cond-mat/9312099], for a different
+line of derivation
+","[{""version"":""v1"",""created"":""Sat, 12 Nov 1994 15:56:57 GMT""}]","2009-10-22"
+"gr-qc/9411029","Joan Centrella","Xing Zhuge, Joan M. Centrella, and Stephen L. W. McMillan (Drexel
+  University)","Gravitational Radiation from Coalescing Binary Neutron Stars","33 pages, LaTex with RevTex macros; 21 figures available in
+  compressed PostScript format via anonymous ftp to
+  ftp://zonker.drexel.edu/papers/ns_coll_1 ; in press, Phys. Rev. D (Nov 15,
+  1994 issue)","Phys.Rev.D50:6247-6261,1994","10.1103/PhysRevD.50.6247",,"gr-qc astro-ph",,"  We calculate the gravitational radiation produced by the merger and
+coalescence of inspiraling binary neutron stars using 3-dimensional numerical
+simulations. The stars are modeled as polytropes and start out in the
+point-mass limit at wide separation. The hydrodynamic integration is performed
+using smooth particle hydrodynamics (SPH) with Newtonian gravity, and the
+gravitational radiation is calculated using the quadrupole approximation. We
+have run several simulations, varying both the neutron star radius and the
+equation of state. The resulting gravitational wave energy spectra $dE/df$ are
+rich in information about the hydrodynamics of merger and coalescence. In
+particular, our results demonstrate that detailed information on both $GM/Rc^2$
+and the equation of state can in principle be extracted from the spectrum.
+","[{""version"":""v1"",""created"":""Fri, 11 Nov 1994 16:49:34 GMT""}]","2011-09-09"
+"gr-qc/9411030","Jim Wheeler","James T. Wheeler","Scale-invariant phase space and the conformal group","7 pages, plain tex, no figures",,,"USU-FTG-123","gr-qc",,"  The gauge bundle of the 4-dim conformal group over an 8-dim base space,
+called biconformal space, is shown have a consistent interpretation as a
+scale-invariant phase space. Specifically, we show that a classical Hamiltonian
+system generates a differential geometry which is necessarily biconformal, and
+that the classical Hamiltonian dynamics of a point particle is equivalent to
+the specification of a 7-dim hypersurface in flat biconformal space together
+with the consequent necessary existence of a set of preferred curves. The
+result is centrally important for establishing the physical interpretation of
+conformal gauging.
+","[{""version"":""v1"",""created"":""Fri, 11 Nov 1994 19:18:20 GMT""}]","2007-05-23"
+"gr-qc/9411031","Steve Carlip","S. Carlip and J.E. Nelson","Comparative Quantizations of (2+1)-Dimensional Gravity","24 pages, LaTeX, no figures","Phys.Rev.D51:5643-5653,1995","10.1103/PhysRevD.51.5643","UCD-94-37 and DFTT/49/94","gr-qc hep-th",,"  We compare three approaches to the quantization of (2+1)-dimensional gravity
+with a negative cosmological constant: reduced phase space quantization with
+the York time slicing, quantization of the algebra of holonomies, and
+quantization of the space of classical solutions. The relationships among these
+quantum theories allow us to define and interpret time-dependent operators in
+the ``frozen time'' holonomy formulation.
+","[{""version"":""v1"",""created"":""Sat, 12 Nov 1994 02:18:41 GMT""}]","2010-04-28"
+"hep-lat/9411022","Peter Stephenson","P.W. Stephenson (UKQCD Collaboration, University of Wales, Swansea)","Hadron correlators with improved fermions","Talk at Lattice '94: 3 pages, latex using espcrc2 and epsf with 4
+  tar'd and feathered PS figures appended in self-extracting shell archive.
+  PostScript file available on the WorldWide Web as
+  http://python.swan.ac.uk/~pypeters/p2pbiel.ps","Nucl.Phys.Proc.Suppl. 42 (1995) 370-372","10.1016/0920-5632(95)00253-6","SWAT/50","hep-lat",,"  We investigate point-to-point correlation functions for various mesonic and
+baryonic channels using the ${\cal O}(a)$-improved Wilson action due to
+Sheikholeslami and Wohlert. We consider propagators to both time slices 0 and
+1. We find that discretisation effects are more pronounced than those reported
+with unimproved Wilson fermions, but that the same procedure for removing
+finite size effects is successful. Extrapolating to the chiral limit, we see
+the notable features predicted phenomenologically: the ratio of interacting to
+free correlators in the vector channel is roughly constant to about 1 fm, while
+in the pseudoscalar channel the ratio increases markedly due to the strong
+binding.
+","[{""version"":""v1"",""created"":""Fri, 11 Nov 1994 18:01:53 GMT""}]","2009-10-22"
+"hep-ph/9411269",,"A. Bramon, A. Grau, G. Pancheri","Effective Chiral Lagrangians with an SU(3)-Broken Vector-Meson Sector","10 pages, LaTeX file, A postscript version can be obtained from
+  anonymous ftp at ftp://ftp.ifae.es/preprint.ft/ )","Phys.Lett. B345 (1995) 263-268","10.1016/0370-2693(94)01625-M","UAB-FT-335/94","hep-ph",,"  The accuracy of effective chiral lagrangians including vector-mesons as
+(hidden symmetry) gauge fields is shown to be improved by taking into account
+SU(3)-breaking in the vector-meson sector. The masses, $M_V$, and couplings to
+the photon field and pseudoscalar pairs, $f_{V\gamma}$ and $g_{VPP}$, are all
+consistently described in terms of two parameters, which also fit the values
+for the pseudoscalar decay-constants, $f_P$, and charge radii, $<r^2_P>$. The
+description of the latter is further improved when working in the context of
+chiral perturbation theory.
+","[{""version"":""v1"",""created"":""Fri, 11 Nov 1994 16:51:15 GMT""}]","2009-10-28"
+"hep-ph/9411270",,"B. Ancochea, A. Bramon","Past-Future Interference in $\Phi$-Decays into Entangled Kaon Pairs","8 pages, LaTeX file, A postscript version can be obtained via
+  anonymous ftp at ftp://ftp.ifae.es/preprint.ft/ )","Phys.Lett. B347 (1995) 419-423","10.1016/0370-2693(95)00077-X","UAB-FT-345/94","hep-ph quant-ph",,"  Quantum interference effects between past and future events (neutral kaon
+transitions, including CP violating decays) are discussed for entangled kaon
+pairs produced through $\phi \to K^0 \bar{K^0}$ in $\phi$-factories.
+Contrasting with the exciting conclusions of other recent analyses, we predict
+the inexistence of such an observable effect.
+","[{""version"":""v1"",""created"":""Fri, 11 Nov 1994 16:52:00 GMT""}]","2009-10-28"
+"hep-ph/9411271",,"A. Bramon, E. Shabalin","Standard Model predictions for weak decays of $\eta$ mesons","6 pages, LaTeX file, A postscript version can be obtained from
+  anonymous ftp at ftp://ftp.ifae.es/preprint.ft","Phys.Atom.Nucl. 58 (1995) 1931-1933; Yad.Fiz. 58 (1995) 2041-2043",,"UAB-FT-352/94","hep-ph",,"  The branching ratios of weak decays of $\eta$ mesons are estimated in the
+framework of the Standard Model. To observe such decays, $\eta$ meson sources
+with $N_{\eta} > 10^{13}$ per year are needed.
+","[{""version"":""v1"",""created"":""Fri, 11 Nov 1994 16:52:34 GMT""}]","2007-05-23"
+"hep-ph/9411272",,"Bruce A. Campbell and Keith A. Olive","Nucleosynthesis and the Time Dependence of Fundamental Couplings","10 pages, latex, no figures","Phys.Lett.B345:429-434,1995","10.1016/0370-2693(94)01652-S","UMN-TH-1318/94","hep-ph astro-ph",,"  We consider the effects of the time dependence of couplings due to their
+dependence on a dilaton field, as occurs in superstring theory, as well as in
+gravity theories of the Jordan-Brans-Dicke type. Because the scale parameters
+of couplings set by dimensional transmutation depend exponentially on the
+dilaton vev, we may obtain stringent limits on the shift of the dilaton from
+the requirement that the induced shift in the couplings not vitiate the
+successful calculations of element abundances for big-bang nucleosynthesis.
+These limits can be substantially stronger than those obtained directly from
+the dilaton-induced change in the gravitational coupling.
+","[{""version"":""v1"",""created"":""Fri, 11 Nov 1994 16:36:13 GMT""}]","2009-09-15"
+"hep-ph/9411273","Lawrence Hall","S. Dimopoulos and L. J. Hall","Electric dipole moments as a test of supersymmetric unification","16 pages","Phys.Lett.B344:185-192,1995","10.1016/0370-2693(94)01572-T","LBL 36269","hep-ph",,"  In a class of supersymmetric grand unified theories, including those based on
+the gauge group $SO(10)$, there are new contributions to the electric dipole
+moments of the neutron and electron, which arise as a heavy top quark effect.
+These contributions arise from CKM-like phases, not from phases of the
+supersymmetry breaking operators, and can be reliably computed in terms of the
+parameters of the weak scale supersymmetric theory. For the expected ranges of
+these parameters, the electric dipole moments of the neutron and the electron
+are predicted to be close to present experimental limits.
+","[{""version"":""v1"",""created"":""Fri, 11 Nov 1994 17:48:17 GMT""}]","2010-11-01"
+"hep-ph/9411274",,"R. N. Mohapatra and S. Nussinov","Almost Degenerate Neutrinos with Maximal Mixing","University of Maryland Preprint UMD-PP-95-61; 10 pages, Latex file","Phys.Lett.B346:75-80,1995","10.1016/0370-2693(94)01687-8",,"hep-ph",,"  If the upper limit on the effective (Majorana) neutrino mass from
+neutrinoless double beta decay experiments is confirmed to be much less than an
+electron-volt, then one way to reconcile it with the degenerate neutrino mass
+pattern suggested recently to explain the observed deficit of solar and
+atmospheric neutrinos as well as neutrinos as HDM is to postulate that there be
+maximal mixing among the three light (or two) neutrinos. This suggestion is
+advanced in this paper and is analysed.
+","[{""version"":""v1"",""created"":""Fri, 11 Nov 1994 21:10:08 GMT""}]","2010-11-01"
+"hep-ph/9411275","Benjamin Grinstein","Benjamin Grinstein","An Introduction To The Theory Of Heavy Mesons And Baryons","Re-posted: there are requests, and previous version not processing
+  under modern TeX. Figures included. 70 pages, harvmac, 15 figures",,,"UCSD/PTH 94-24","hep-ph","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  Introductory lectures (delivered at TASI, June 1994) on heavy quarks and
+heavy quark effective field theory. Applications to inclusive semileptonic
+decays and to interactions with light mesons are covered in detail.
+","[{""version"":""v1"",""created"":""Fri, 11 Nov 1994 21:43:30 GMT""},{""version"":""v2"",""created"":""Wed, 14 Dec 2016 06:17:43 GMT""}]","2016-12-15"
+"hep-ph/9411276",,"H.-C. Cheng and L.J. Hall","Squark and Slepton Mass Relations in Grand Unified Theories","29 pages, LateX, 2 uuencoded figures included","Phys.Rev. D51 (1995) 5289-5298","10.1103/PhysRevD.51.5289","LBL-35950","hep-ph",,"  In the minimal supersymmetric standard model, assuming universal scalar
+masses at large energies, there are four intragenerational relations between
+the masses of the squarks and sleptons for each light generation. In this paper
+we study the scalar mass relations which follow only from the assumption that
+at large energies there is a grand unified theory which leads to a significant
+prediction of the weak mixing angle. Two new intragenerational mass relations
+for each of the light generations are derived. In addition, a third mass
+relation is found which relates the Higgs masses, the masses of the third
+generation scalars , and the masses of the scalars of the lighter generations.
+Verification of a fourth mass relation, involvingonly the charged slepton
+masses, provides a signal for SO(10) unification.
+","[{""version"":""v1"",""created"":""Fri, 11 Nov 1994 23:24:23 GMT""}]","2009-10-28"
+"hep-ph/9411277","Frank Cuypers","Frank Cuypers (MPI Munich) and Karol Kolodziej (University of Munich)","Probing Anomalous Quartic Vector Boson Couplings in $e^-e^-$ Collisions","8 pages, Postscript version available via anonymous ftp at
+  ftp://gluon.hep.physik.uni-muenchen.de/preprints/mpi9478.ps","Phys.Lett. B344 (1995) 365-369","10.1016/0370-2693(94)01569-X","MPI-PhT/94-78, LMU-20/94","hep-ph",,"  We study the incidence of genuine quartic vector boson couplings in the
+reactions e-e- -> e-e-ZZ, e-\nu ZW, \nu\nu WW. We find that a linear collider
+operated in the e-e- mode will provide bounds on these couplings which are
+competitive with those to be obtained in the e+e- mode.
+","[{""version"":""v1"",""created"":""Sat, 12 Nov 1994 12:44:21 GMT""}]","2009-10-28"
+"hep-ph/9411278","Department of Theoretical Physics","A.A.Gvozdev, A.V.Kuznetsov, N.V.Mikheev and L.A.Vassilevskaya","Muon decays with lepton--number violation via vector leptoquark","10 pages, LaTeX, Submitted to Phys.Lett.B","Phys.Lett. B345 (1995) 490-494","10.1016/0370-2693(95)00003-4","YARU-HE-94/09 (Yaroslavl State University)","hep-ph",,"  The decays $\mu \rightarrow e \gamma$, $\mu \rightarrow e \gamma \gamma$, and
+$\mu \rightarrow e e \bar e$ are analysed in the framework of the Pati-Salam
+type quark-lepton symmetry $SU(4)_V \otimes SU(2)_L \otimes G_R$ where the
+effects of mixing in the quark-lepton currents are taken into account. It is
+shown that the $\mu \rightarrow e \gamma \gamma$ and $\mu \rightarrow e e \bar
+e$ decays via the vector leptoquark have not a GIM--type suppression, while the
+$\mu \rightarrow e \gamma$ decay has. So, the specific hierarchy of the decay
+probabilities could take place $\Gamma(\mu \rightarrow e e \bar e) \gg
+\Gamma(\mu \rightarrow e \gamma \gamma) \gg \Gamma(\mu \rightarrow e \gamma)$.
+The existing bounds on the vector leptoquark mass and on the mixing matrix
+elements, based on the data for the $\mu e$ conversion in nuclei and for the
+ratio of the $K_{e 2}$ and $K_{\mu 2}$ decays allow to set the upper limits on
+the branching ratios at a level of $10^{-18}$ for the $\mu \rightarrow e \gamma
+\gamma$ decay and at a level of $10^{-15}$ for the $\mu \rightarrow e e \bar e$
+decay.
+","[{""version"":""v1"",""created"":""Sat, 12 Nov 1994 13:21:52 GMT""},{""version"":""v2"",""created"":""Mon, 14 Nov 1994 13:54:53 GMT""}]","2009-10-28"
+"hep-ph/9411279",,"L. Ya. Glozman, D.O. Riska","The Baryon Spectrum and Chiral Dynamics","10 pages, latex, Configuration of Sigma(1750) changed, numerical
+  values accordingly revised, misprints corrected","PiN Newslett.10:115-120,1995",,"HU-TFT-94-47","hep-ph",,"  The fine structure of the low energy part of the nucleon and strange hyperon
+spectra, which are formed of single states without parity doublets, may be
+understood in terms of an $SU(3)$ flavor-symmetric quark-quark interaction that
+describes chiral pseudoscalar boson exchange. The model predicts the fine
+structure splittings within 10-30\% of their empirical values and provides an
+explanation of the reversed ordering of the lowest positive and negative parity
+resonances in the nucleon and the $\Lambda$ hyperon spectra.
+","[{""version"":""v1"",""created"":""Sat, 12 Nov 1994 13:53:11 GMT""},{""version"":""v2"",""created"":""Sun, 13 Nov 1994 23:20:53 GMT""},{""version"":""v3"",""created"":""Thu, 22 Dec 1994 13:14:47 GMT""}]","2011-04-20"
+"hep-th/9411081","Alejandro Rivero","Luis J Boya, Alejandro Rivero (Universidad de Zaragoza)","Renormalization in 1D Quantum Mechanics: contact interactions","Four figures not included (but two of them sketched)",,,"DFTUZ 9413","hep-th",,"  We build a toy model of the Wilson-Kogut renormalization group in one
+dimensional Quantum Mechanics. With it, we show how the RG flow in the space of
+1-D S matrices of finite range defines, as renormalized interactions, the known
+four parametric set of contact interactions, thus providing a suitable
+framework for its study.
+","[{""version"":""v1"",""created"":""Fri, 11 Nov 1994 21:17:33 GMT""}]","2009-09-25"
+"hep-th/9411084","Florian Nill","Florian Nill, Hans-Werner Wiesbrock","A Comment on Jones Inclusions with infinite Index","latex, 40 pages","Rev.Math.Phys. 7 (1995) 599-630","10.1142/S0129055X95000244",,"hep-th funct-an math.FA math.QA q-alg",,"  Given an irreducible inclusion of infinite von-Neumann-algebras $\cn \subset
+\cm$ together with a conditional expectation $ E : \cm \rightarrow \cm $ such
+that the inclusion has depth 2, we show quite explicitely how $\cn $ can be
+viewed as the fixed point algebra of $\cm$ w.r.t. an outer action of a compact
+Kac-algebra acting on $\cm$. This gives an alternative proof, under this
+special setting of a more general result of M. Enock and R. Nest, [E-N], see
+also S. Yamagami, [Ya2].
+","[{""version"":""v1"",""created"":""Fri, 11 Nov 1994 16:52:24 GMT""}]","2009-10-28"
+"hep-th/9411085","Francesco Ravanini","F. Ravanini, M. Stanishkov (INFN Bologna) and R. Tateo (Torino Univ)","Integrable perturbations of CFT with complex parameter: the $M_{3/5}$
+  model and its generalizations","30p, LaTeX, 2 postscript figs (embedable into text with epsfig.sty)","Int.J.Mod.Phys. A11 (1996) 677-698","10.1142/S0217751X96000304","DFUB-93-12","hep-th",,"  We give evidence, by use of the Thermodynamic Bethe Ansatz approach, of the
+existence of both massive and massless behaviours for the $\phi_{2,1}$
+perturbation of the $M_{3,5}$ non-unitary minimal model, thus resolving
+apparent contradictions in the previous literature. The two behaviours
+correspond to changing the perturbing bare coupling constant from real values
+to imaginary ones. Generalizations of this picture to the whole class of
+non-unitary minimal models $M_{p,2p\pm 1}$, perturbed by their least relevant
+operator lead to a cascade of flows similar to that of unitary minimal models
+perturbed by $\phi_{1,3}$. Various aspects and generalizations of this
+phenomenon and the links with the Izergin-Korepin model are discussed.
+","[{""version"":""v1"",""created"":""Fri, 11 Nov 1994 23:23:14 GMT""}]","2015-06-26"
+"hep-th/9411086","Hideaki Aoyama","Hideaki Aoyama and Toshiyuki Harano","Complex-time approach for semi-classical quantum tunneling","9 pages + 3 figures, phyzzx and epsf macros (ps files attached)","Mod.Phys.Lett.A10:1135-1142,1995","10.1142/S0217732395001253","KUCP-0072/KUNS-1302","hep-th",,"  The complex-time method for quantum tunneling is studied. In one-dimensional
+quantum mechanics, we construct a reduction formula for a Green function in the
+number of turning points based on the WKB approximation. This formula yields a
+series, which can be interpreted as a sum over the complex-time paths. The
+weights of the paths are determined.
+","[{""version"":""v1"",""created"":""Sat, 12 Nov 1994 03:45:09 GMT""}]","2010-11-01"

@@ -1,0 +1,29 @@
+"cond-mat/9401071","M. V. N. Murthy","M.V.N.Murthy and R.Shankar (Institute of Mathematical Sciences,
+  Madras, India)","Haldane exclusion statistics and second virial coefficient","11 pages, REVTEX 3.0",,"10.1103/PhysRevLett.72.3629","IMSc-94/01","cond-mat",,"  We show that Haldanes new definition of statistics, when generalised to
+infinite dimensional Hilbert spaces, is equal to the high temperature limit of
+the second virial coefficient. We thus show that this exclusion statistics
+parameter, g , of anyons is non-trivial and is completely determined by its
+exchange statistics parameter $\alpha$. We also compute g for quasiparticles in
+the Luttinger model and show that it is equal to $\alpha$.
+","[{""version"":""v1"",""created"":""Sun, 30 Jan 1994 14:35:39 GMT""}]","2009-10-22"
+"hep-lat/9401034","Maxim Tsypin","M.M.Tsypin","The universal effective potential for three-dimensional massive scalar
+  field theory from the Monte Carlo study of the Ising model","19 pages with 7 figures (LaTeX + epsf.sty), PITHA 94/9",,,,"hep-lat hep-ph hep-th",,"  We study the low-energy effective action $S_{eff}[\varphi]$ for the
+one-component real scalar field theory in three Euclidean dimensions in the
+symmetric phase, concentrating on its static part --- effective potential
+$V_{eff}(\varphi)$. It characterizes the approach to the phase transition in
+all systems that belong to the 3d Ising universality class. We compute it from
+the probability distributions of the average magnetization in the 3d Ising
+model in a homogeneous external field, obtained by Monte Carlo. We find that
+the $\varphi^6$ term in $V_{eff}$ is important, while the higher terms can be
+neglected within our statistical errors. Thus we obtain the approximate
+effective action $$ S_{eff} = \int d^3 x \left\{
+  {1 \over 2} \partial_\mu \varphi \partial_\mu \varphi +
+  {1 \over 2} m^2 \varphi^2 + m g_4 \varphi^4 + g_6 \varphi^6 \right\} , $$
+with arbitrary mass $m$ that sets the scale, and dimensionless couplings $g_4 =
+0.97 \pm 0.02$ and $g_6 = 2.05 \pm 0.15$. The value of $g_4$ is consistent with
+the renormalization group fixed point coupling. This $V_{eff}$, when used
+instead of the traditional $a \varphi^2 + b \varphi^4$, turns the
+Ginzburg--Landau description of the long-wave properties of the 3d theory near
+criticality into quantitatively accurate. It is also relevant to the theory of
+cosmological phase transitions.
+","[{""version"":""v1"",""created"":""Sat, 29 Jan 1994 19:41:09 GMT""}]","2007-05-23"

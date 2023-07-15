@@ -1,0 +1,278 @@
+"alg-geom/9401009","Shelly Cook","Michele Cook","The Connectedness of Space Curve Invariants","18 pages, Latex v2.09",,,,"alg-geom math.AG",,"  It is a result of Gruson and Peskine that the invariants of a set points in
+$\ptwo$ in general position are connected. Associated to a space curve there
+are sequences of invariants which generalize the invariants of points in
+$\ptwo$. The main result of this paper is to show that the invariants of
+reduced, irreducible, non-degenerate curves in $\pthree$ also satisfy a
+connectedness property. This result greatly restricts the kinds of Borel-fixed
+monomial ideals which can occur as generic initial ideals of such curves and
+thus gives us more control over their Hilbert functions.
+","[{""version"":""v1"",""created"":""Fri, 28 Jan 1994 18:19:12 GMT""}]","2008-02-03"
+"astro-ph/9401050","Rennan Bar-Kana","R. Bar-Kana","Limits on Direct Detection of Gravitational Waves","10 pages inc. 3 figures, LaTeX file + 3 figures in tarred,
+  compressed, uuencoded PostScript, CSR-AT-94-2","Phys.Rev. D50 (1994) 1157-1160","10.1103/PhysRevD.50.1157",,"astro-ph gr-qc",,"  We compute energy density and strain induced by a primordial spectrum of
+gravitational waves on terrestrial- and space-based detectors (e.g., LIGO) as
+constrained by the COBE detection of microwave background anisotropy. For the
+case where the spectrum is created during inflation, we find new, stricter
+upper bounds on the induced strain, making detection unlikely. However,
+detectors might be useful for discovering (or ruling out) exotic,
+non-inflationary sources.
+","[{""version"":""v1"",""created"":""Fri, 28 Jan 1994 17:38:46 GMT""}]","2009-10-22"
+"comp-gas/9401002","Daniel Martinez","Daniel Martinez, Shiyi Chen (Theoretical Division and Center for
+  Nonlinear Studies, Los Alamos National Laboratory) and William Matthaeus
+  (Bartol Research Institute, University of Delaware, Newark, DE)","Lattice Boltzmann Magnetohydrodynamics","45 pages, to appear in Physics of Plasmas",,"10.1063/1.870640","LA-UR-93-4510","comp-gas nlin.CG",,"  Lattice gas and lattice Boltzmann methods are recently developed numerical
+schemes for simulating a variety of physical systems. In this paper a new
+lattice Boltzmann model for modeling two-dimensional incompressible
+magnetohydrodynamics (MHD) is presented. The current model fully utilizes the
+flexibility of the lattice Boltzmann method in comparison with previous lattice
+gas and lattice Boltzmann
+  MHD models, reducing the number of moving directions from $36$ in other
+models to $12$ only. To increase computational efficiency, a simple single time
+relaxation rule is used for collisions, which directly controls the transport
+coefficients.
+  The bi-directional streaming process of the particle distribution function in
+this paper is similar to the original model [ H. Chen and W. H. Matthaeus,
+Phys. Rev. Lett., {\bf 58}, 1845(1987), S.Chen, H.Chen, D.Mart\'{\i}nez and
+W.H.Matthaeus, Phys. Rev. Lett. {\bf 67},3776 (1991)], but has been greatly
+simplified, affording simpler implementation of boundary conditions and
+increasing the feasibility of extension into a workable three-dimensional
+model. Analytical expressions for the transport coefficients are presented.
+Also, as example cases, numerical calculation for the Hartmann flow is
+performed, showing a good agreement between the theoretical
+","[{""version"":""v1"",""created"":""Fri, 28 Jan 1994 17:33:32 GMT""},{""version"":""v2"",""created"":""Fri, 4 Feb 1994 15:28:18 GMT""}]","2009-10-22"
+"comp-gas/9401003","Shiyi Chen","Shuling Hou, Qisu Zou, Shiyi Chen, Gary D. Doolen and Allen C. Cogley
+  (Center for Nonlinear Studies and Theoretical Division Los Alamos National
+  Laboratory, Los Alamos, NM)","Simulation of Cavity Flow by the Lattice Boltzmann Method","Submitted to J. Comput. Physics, latex",,"10.1006/jcph.1995.1103",,"comp-gas nlin.CG",,"  A detailed analysis is presented to demonstrate the capabilities of the
+lattice Boltzmann method. Thorough comparisons with other numerical solutions
+for the two-dimensional, driven cavity flow show that the lattice Boltzmann
+method gives accurate results over a wide range of Reynolds numbers. Studies of
+errors and convergence rates are carried out. Compressibility effects are
+quantified for different maximum velocities, and parameter ranges are found for
+stable simulations. The paper's objective is to stimulate further work using
+this relatively new approach for applied engineering problems in transport
+phenomena utilizing parallel computers.
+","[{""version"":""v1"",""created"":""Fri, 28 Jan 1994 18:44:45 GMT""}]","2009-10-22"
+"comp-gas/9401004","Shiyi Chen","S. Hou, J. Sterling, S. Chen and G. D. Doolen (Theoretical Division
+  and Center for Nonlinear Studies Los Alamos National Laboratory, Los Alamos,
+  NM)","A Lattice Boltzmann Subgrid Model for High Reynolds Number Flows","latex",,,,"comp-gas nlin.CG",,"  A subgrid turbulence model for the lattice Boltzmann method is proposed for
+high Reynolds number fluid flow applications. The method, based on the standard
+Smagorinsky subgrid model and a single-time relaxation lattice Boltzmann
+method, incorporates the advantages of the lattice Boltzmann method for
+handling arbitrary boundaries and is easily implemented on parallel machines.
+The method is applied to a two-dimensional driven cavity flow for studying
+dynamics and the Reynolds number dependence of the flow structures. The
+substitution of other subgrid models, such as the dynamic subgrid model, in the
+framework of the LB method is discussed.
+","[{""version"":""v1"",""created"":""Fri, 28 Jan 1994 18:50:06 GMT""}]","2008-02-03"
+"cond-mat/9401067","Lotfi Belkhir","Lotfi Belkhir","Quantum and Many-Body Effects on the Capacitance of a Quantum Dot","7 pages RevTex, 5 figures on request",,"10.1103/PhysRevB.50.8885",,"cond-mat",,"  We calculate exactly, using finite size techniques, the quantum mechanical
+and many-body effects to the self-capacitance of a spherical quantum dot in the
+regime of extreme confinement, where the radius of the sphere is much smaller
+than the effective Bohr radius. We find that the self-capacitance oscillates as
+a function of the number of electrons close to its classical value. We also
+find that the electrostatic energy extrapolates to zero when $N=1$, suggesting
+that the energy scales like $e^{2}N(N-1)$. This establishes, at least for this
+configuration, that the semiclassical description of Coulomb charging effects
+in terms of capacitances holds to a good approximation even at very small
+scales.
+","[{""version"":""v1"",""created"":""Fri, 28 Jan 1994 18:26:21 GMT""}]","2009-10-22"
+"cond-mat/9401068","Raphael Blumenfeld","Raphael Blumenfeld (Princeton Materials Institute, Princeton
+  University)","Two-dimensional Laplacian growth can be mapped onto Hamiltonian dynamics","11 pages, tex, 1 postscript figure not included (available upon
+  request), (This version less than 80 characters per line)",,"10.1016/0375-9601(94)91177-0","LA-UR-93-2800","cond-mat nlin.PS patt-sol",,"  It is shown that the dynamics of the growth of a two dimensional surface in a
+Laplacian field can be mapped onto Hamiltonian dynamics. The mapping is carried
+out in two stages: first the surface is conformally mapped onto the unit
+circle, generating a set of singularities. Then the dynamics of these
+singularities are transformed to Hamiltonian action-angle variables. An
+explicit condition is given for the existence of the transformation. This
+formalism is illustrated by solving explicitly for a particular case where the
+result is a separable and integrable Hamiltonian.
+","[{""version"":""v1"",""created"":""Fri, 28 Jan 1994 20:36:23 GMT""},{""version"":""v2"",""created"":""Mon, 31 Jan 1994 20:06:38 GMT""}]","2009-10-22"
+"cond-mat/9401069","Raphael Blumenfeld","Raphael Blumenfeld (CNLS, Los Alamos Nat'l Lab., Los Alamos, NM)","Towards a theory of growing surfaces: Mapping two-dimensional Laplacian
+  growth onto Hamiltonian dynamics and statistics","17 pages, tex, 1 postscript figure not included (available upon
+  request), (This version has less than 80 characters per line)",,,"LA-UR-93-3591","cond-mat nlin.PS patt-sol",,"  I show that the evolution of a two dimensional surface in a Laplacian field
+can be described by Hamiltonian dynamics. First the growing region is mapped
+conformally to the interior of the unit circle, creating in the process a set
+of mathematical zeros and poles that evolve dynamically as the surface grows.
+Then the dynamics of these quasi-particles is analysed. A class of arbitrary
+initial conditions is discussed explicitly, where the surface-tension-free
+Laplacian growth process is integrable. This formulation holds only as long as
+the singularities of the map are confined to within the unit circle. But the
+Hamiltonian structure further allows for surface tension to be introduced as an
+energetic term that effects repulsion between the quasi-particles and the
+surface. These results are used to formulate a first-principles statistical
+theory of pattern formation in stochastic growth, where noise is a key player.
+","[{""version"":""v1"",""created"":""Fri, 28 Jan 1994 20:36:41 GMT""},{""version"":""v2"",""created"":""Mon, 31 Jan 1994 20:08:13 GMT""}]","2008-02-03"
+"cond-mat/9401070","Zhang Guang Ming","G. M. Zhang, S. Feng, and L. Yu","Strong-Coupling Behavior of Two $t-J$ Chains with Interchain Single
+  Electron Hopping","12 pages, no figures, revtex 3.0, (to appaer in Phys. Rev. B), ICTP
+  preprint 1993",,,,"cond-mat",,"  Using the fermion-spin transformation to implement spin-charge separation of
+constrained electrons, a model of two $t-J$ chains with interchain
+single-electron hopping is studied by abelian bosonization. After spin-charge
+decoupling the charge dynamics can be trivially solved, while the spin dynamics
+is determined by a strong-coupling fixed point where the correlation functions
+can be calculated explicitly. This is a generalization of the Luther-Emery line
+for two-coupled $t-J$ chains. The interchain single-electron hopping changes
+the asymptotic behavior of the interchain spin-spin correlation functions and
+the electron Green function, but their exponents are independent of the
+coupling strength.
+","[{""version"":""v1"",""created"":""Sat, 29 Jan 1994 13:55:33 GMT""}]","2007-05-23"
+"gr-qc/9401033","Andrew L. Berkin","Andrew L. Berkin and Ronald W. Hellings","Multiple Field Scalar-Tensor Theories of Gravity and Cosmology","17 pages","Phys.Rev.D49:6442-6449,1994","10.1103/PhysRevD.49.6442",,"gr-qc",,"  We consider multiple scalar fields coupled to gravity, with special attention
+given to two-field theories. First, the conditions necessary for these theories
+to meet solar system tests are given. Next, we investigate the cosmological
+evolution of the fields to see if these conditions can be met. Solutions are
+found in the dust era, as well as radiation and cosmological constant dominated
+epochs. The possibility of inflation in these theories is discussed. While
+power law growth of the scalar fields can yield the appropriate conditions to
+meet solar system constraints, these solutions are unstable.
+","[{""version"":""v1"",""created"":""Fri, 28 Jan 1994 23:22:26 GMT""}]","2010-11-01"
+"hep-ph/9401350",,"Gerhard Buchalla","$K^+\to\pi^+\nu\bar\nu$ Beyond Leading Logs and $V_{td}$","5 pages, MPI-PhT/94-3",,,,"hep-ph",,"  The calculation of QCD corrections beyond the leading logarithmic
+approximation for the short-distance dominated rare decay
+$K^+\to\pi^+\nu\bar\nu$ is summarized. This analysis requires the complete
+${\cal O}(\alpha_s)$ corrections to the top contribution to all orders in the
+top-quark mass and a two-loop renormalization group (RG) calculation for the
+charm contribution. The inclusion of these QCD corrections reduces considerably
+the theoretical uncertainty in calculating $B(K^+\to\pi^+\nu\bar\nu)$.
+Implications for the determination of $V_{td}$ from this decay are discussed.
+","[{""version"":""v1"",""created"":""Fri, 28 Jan 1994 17:27:00 GMT""}]","2007-05-23"
+"hep-ph/9401351","Michael Joyce","M. Joyce, T. Prokopec and N. Turok","Constraints and Transport in Electroweak Baryogenesis","simple tex, 12 pages, 1 figure, PUPT-94-1436",,"10.1016/0370-2693(94)90625-4",,"hep-ph",,"  In unconstrained thermal equilibrium a local potential for total or fermionic
+hypercharge does not bias electroweak anomalous processes. We consider two
+proposed mechanisms for electroweak baryogenesis in this light. In
+`spontaneous' baryogenesis, which was argued to apply in the `adiabatic' limit
+of thick, slow walls, a non-zero result was obtained by setting globally
+conserved charges to be zero {\it locally}. We show that this is a poor
+approximation unless the walls are very thick. For more realistic wall
+thicknesses the local equilibrium approached as the wall velocity
+$v_w\rightarrow 0$ has zero baryon number violation and nonzero global charges
+on the wall. In the `charge transport' mechanism, argued to apply to the case
+of thin fast walls, calculations of the magnitude of the asymmetry also involve
+the same error. In corrected calculations the local values of global charges
+should be determined dynamically rather than fixed locally to zero.
+","[{""version"":""v1"",""created"":""Fri, 28 Jan 1994 22:38:18 GMT""},{""version"":""v2"",""created"":""Mon, 31 Jan 1994 16:59:46 GMT""},{""version"":""v3"",""created"":""Thu, 13 Oct 1994 23:49:32 GMT""}]","2009-10-28"
+"hep-ph/9401352","Michael Joyce","Michael Joyce, Tomislav Prokopec and Neil Turok","Efficient Electroweak Baryogenesis from Lepton Transport","15 pages and 1 figure (included in a compressed figure file),
+  preprint PUPT-94-1437","Phys.Lett.B338:269-275,1994","10.1016/0370-2693(94)91377-3",,"hep-ph",,"  One mechanism for generating a baryon asymmetry at the electroweak phase
+transition involves propagation of particle asymmetries generated by reflection
+from the bubble walls into the unbroken phase. Hitherto attention has focussed
+on top quarks because of their large mass and thus effective scattering from
+bubble walls. In this paper we point out that leptons may be more efficient
+mediators of this type of electroweak baryogenesis, particularly for thicker
+bubble walls favored by perturbative calculations. We carry out an analytic
+calculation of each stage of the mechanism and conclude it produces a baryon
+asymmetry compatible with observations for a wide range of parameters.
+","[{""version"":""v1"",""created"":""Fri, 28 Jan 1994 22:41:57 GMT""},{""version"":""v2"",""created"":""Mon, 31 Jan 1994 17:01:05 GMT""},{""version"":""v3"",""created"":""Thu, 13 Oct 1994 23:53:47 GMT""}]","2010-11-01"
+"hep-th/9401147","J. Maharana","Ashok Das and Jnanadeva Maharana","Duality of the Superstring in Superspace","10 pages","Mod.Phys.Lett. A9 (1994) 1361-1368","10.1142/S0217732394001180",,"hep-th",,"  The evolution of a closed NSR string is considered in the background of
+constant graviton and antisymmetric fields. The $\sigma$-model action is
+written in a manifestly supersymmetric form in terms of superfields. The first
+order formalism adopted for the closed bosonic string is generalised to
+implement duality transformations and the constant dual backgrounds are
+obtained for the dual theory. We recover the $G \rightarrow G^{-1}$ duality for
+the case when antisymmetric tensor field is set to zero. Next, the case when
+the backgrounds depend on one superfield, is also analysed. This scenario is
+similar to the cosmological case envisaged for the bosonic string. The explicit
+form of the duality transformation is given for this case.
+","[{""version"":""v1"",""created"":""Sat, 29 Jan 1994 10:08:14 GMT""}]","2015-06-26"
+"hep-th/9401150","Folkert Mueller-Hoissen","A. Dimakis and F. M""uller-Hoissen","Differential Calculus and Discrete Structures","6 pages, LaTeX, GOET-TP 98/93, contribution to the proceedings of the
+  International Symposium ``Generalized Symmetries in Physics'', ASI Clausthal
+  1993",,,,"hep-th",,"  There is a deformation of the ordinary differential calculus which leads from
+the continuum to a lattice (and induces a corresponding deformation of physical
+theories). We recall some of its features and relate it to a general framework
+of differential calculus on discrete sets. This framework generalizes the usual
+(lattice) discretization.
+","[{""version"":""v1"",""created"":""Fri, 28 Jan 1994 16:08:24 GMT""}]","2007-05-23"
+"hep-th/9401151","Folkert Mueller-Hoissen","A. Dimakis and F. M""uller-Hoissen","Noncommutative Differential Calculus: Quantum Groups, Stochastic
+  Processes, and the Antibracket","11 pages, LaTeX, GOET-TP 55/93, contribution to the DGMTP conference
+  (Ixtapa, Sept. 93)",,,,"hep-th",,"  We explore a differential calculus on the algebra of smooth functions on a
+manifold. The former is `noncommutative' in the sense that functions and
+differentials do not commute, in general. Relations with bicovariant
+differential calculus on certain quantum groups and stochastic calculus are
+discussed. A similar differential calculus on a superspace is shown to be
+related to the Batalin-Vilkovisky antifield formalism.
+","[{""version"":""v1"",""created"":""Fri, 28 Jan 1994 16:10:22 GMT""}]","2007-05-23"
+"hep-th/9401152","Folkert Mueller-Hoissen","F. M""uller-Hoissen","Differential Calculi on Quantum (Sub-) Groups and Their Classical Limit","contribution to the proceedings of the International Symposium
+  ``Generalized Symmetries in Physics'' (ASI Clausthal 1993), 12 pages, LaTeX,
+  GOET-TP 97/93",,,,"hep-th",,"  For the two-parameter matrix quantum group GLp,q(2) all bicovariant
+differential calculi (with a four-dimensional space of 1-forms) are known. They
+form a one-parameter family. Here, we give an improved presentation of previous
+results by using a different parametrization. We also discuss different ways to
+obtain bicovariant calculi on the quantum subgroup SLq(2). For those calculi,
+we do not obtain the ordinary differential calculus on SL(2) in the classical
+limit. The structure which emerges here can be generalized to a nonstandard
+differential calculus on an arbitrary differentiable manifold and exhibits
+relations with stochastic calculus and `proper time' relativistic quantum
+theories.
+","[{""version"":""v1"",""created"":""Fri, 28 Jan 1994 16:33:52 GMT""}]","2007-05-23"
+"hep-th/9401153","Robert Perry","K. G. Wilson, T. Walhout, A. Harindranath, W. M. Zhang, R. J. Perry
+  and S. Glazek","Nonperturbative Light-Front QCD","56 pages (REVTEX), Report OSU-NT-94-28. (figures not included,
+  available via anaonymous ftp from pacific.mps.ohio-state.edu in subdirectory
+  pub/infolight/qcd)","Phys.Rev. D49 (1994) 6720-6766","10.1103/PhysRevD.49.6720",,"hep-th hep-ph nucl-th",,"  In this work the determination of low-energy bound states in Quantum
+Chromodynamics is recast so that it is linked to a weak-coupling problem. This
+allows one to approach the solution with the same techniques which solve
+Quantum Electrodynamics: namely, a combination of weak-coupling diagrams and
+many-body quantum mechanics. The key to eliminating necessarily nonperturbative
+effects is the use of a bare Hamiltonian in which quarks and gluons have
+nonzero constituent masses rather than the zero masses of the current picture.
+The use of constituent masses cuts off the growth of the running coupling
+constant and makes it possible that the running coupling never leaves the
+perturbative domain. For stabilization purposes an artificial potential is
+added to the Hamiltonian, but with a coefficient that vanishes at the physical
+value of the coupling constant. The weak-coupling approach potentially
+reconciles the simplicity of the Constituent Quark Model with the complexities
+of Quantum Chromodynamics. The penalty for achieving this perturbative picture
+is the necessity of formulating the dynamics of QCD in light-front coordinates
+and of dealing with the complexities of renormalization which such a
+formulation entails. We describe the renormalization process first using a
+qualitative phase space cell analysis, and we then set up a precise similarity
+renormalization scheme with cutoffs on constituent momenta and exhibit
+calculations to second order. We outline further computations that remain to be
+carried out. There is an initial nonperturbative but nonrelativistic
+calculation of the hadronic masses that determines the artificial potential,
+with binding energies required to be fourth order in the coupling as in QED.
+Next there is a calculation of the leading radiative corrections to these
+masses, which requires our renormalization program. Then the real struggle of
+finding the right extensions to perturbation theory to study the
+strong-coupling behavior of bound states can begin.
+","[{""version"":""v1"",""created"":""Fri, 28 Jan 1994 20:00:43 GMT""}]","2009-10-28"
+"hep-th/9401154","Kareljan Schoutens","Kareljan Schoutens","Yangian Symmetry in Conformal Field Theory","LaTex, PUPT-1442","Phys.Lett.B331:335-341,1994","10.1016/0370-2693(94)91061-8",,"hep-th cond-mat",,"  We show that the $SU(N)$, level-1 Wess-Zumino-Witten conformal field theory
+provides a natural realization of the Yangian $Y(sl_N)$ for $N\geq 3$. We also
+construct a hamiltonian $H_2$ which commutes with the Yangian generators and
+study its spectrum. Our results, which generalize work by Haldane et al.\
+\cite{hhtbp}, provide the field theory extension of the algebraic structure of
+the $SU(N)$ Haldane-Shastry spin chains with $1/r^2$ exchange.
+","[{""version"":""v1"",""created"":""Fri, 28 Jan 1994 19:25:20 GMT""}]","2010-11-01"
+"hep-th/9401155","Sean Carroll","Sean M. Carroll, Daniel Z. Freedman, Miguel E. Ortiz, and Don N. Page","Physical States in Canonically Quantized Supergravity","36 pages (uses jnl.tex), CTP #2279","Nucl.Phys.B423:661-687,1994","10.1016/0550-3213(94)90148-1",,"hep-th gr-qc",,"  We discuss the canonical quantization of $N=1$ supergravity in the functional
+Schrodinger representation. Although the form of the supersymmetry constraints
+suggests that there are solutions of definite order $n$ in the fermion fields,
+we show that there are no such states for any finite $n$. For $n=0$, a simple
+scaling argument definitively excludes the purely bosonic states discussed by
+D'Eath. For $n>0$, the argument is based on a mode expansion of the gravitino
+field on the quantization 3-surface. It is thus suggested that physical states
+in supergravity have infinite Grassmann number. This is confirmed for the free
+spin-3/2 field, for which we find that states satisfying the gauge constraints
+contain an infinite product of fermion mode operators.
+","[{""version"":""v1"",""created"":""Fri, 28 Jan 1994 21:11:45 GMT""}]","2009-10-08"
+"hep-th/9401156",,"Ana Lopez, A.G.Rojo and Eduardo Fradkin","Chern_simons Theory of the Anisotropic Quantum Heisenberg
+  Antiferromagnet on a Square Lattice","53 pages, one figure available upon request, Revtex",,"10.1103/PhysRevB.49.15139",,"hep-th cond-mat",,"  We consider the anisotropic quantum Heisenberg antiferromagnet (with
+anisotropy $\lambda$) on a square lattice using a Chern-Simons (or
+Wigner-Jordan) approach. We show that the Average Field Approximation (AFA)
+yields a phase diagram with two phases: a Ne{\`e}l state for
+$\lambda>\lambda_c$ and a flux phase for $\lambda<\lambda_c$ separated by a
+second order transition at $\lambda_c<1$. We show that this phase diagram does
+not describe the $XY$ regime of the antiferromagnet. Fluctuations around the
+AFA induce relevant operators which yield the correct phase diagram. We find an
+equivalence between the antiferromagnet and a relativistic field theory of two
+self-interacting Dirac fermions coupled to a Chern-Simons gauge field. The
+field theory has a phase diagram with the correct number of Goldstone modes in
+each regime and a phase transition at a critical coupling $\lambda^* >
+\lambda_c$. We identify this transition with the isotropic Heisenberg point. It
+has a non-vanishing Ne{\` e}l order parameter, which drops to zero
+discontinuously for $\lambda<\lambda^*$.
+","[{""version"":""v1"",""created"":""Fri, 28 Jan 1994 21:32:52 GMT""}]","2009-10-28"
+"hep-th/9401157","J. Maharana","Jnanadeva Maharana and Lambodhar P. Singh","Theory of Loops and Strings with Matter in the Adjoint Representation","22 pages (4 figures on request)","Int.J.Mod.Phys. A10 (1995) 807-826","10.1142/S0217751X95000395",,"hep-th",,"  We have presented canonical and path integral formulations of a theory of
+loops and closed strings with the matter field quanta transforming in the
+adjoint representation of the SU(N) gauge group. The physical processes arising
+out of the interactions of loops and closed strings are discussed.
+","[{""version"":""v1"",""created"":""Sat, 29 Jan 1994 10:07:20 GMT""}]","2015-06-26"
+"math/9401225","Henk Bruin","Henk Bruin, Gerhard Keller, Tomasz Nowicki, Sebastian van Strien","Absorbing Cantor sets in dynamical systems: Fibonacci maps",,,,"Stony Brook IMS 1994/2","math.DS",,"  In this paper we shall show that there exists a polynomial unimodal map f:
+[0,1] -> [0,1] which is
+  1) non-renormalizable(therefore for each x from a residual set, $\omega(x)$
+is equal to an interval),
+  2) for which $\omega(c)$ is a Cantor set, and
+  3) for which $\omega(x)=\omega(c)$ for Lebesgue almost all x.
+  So the topological and the metric attractor of such a map do not coincide.
+This gives the answer to a question posed by Milnor.
+","[{""version"":""v1"",""created"":""Sat, 29 Jan 1994 00:00:00 GMT""}]","2008-02-03"

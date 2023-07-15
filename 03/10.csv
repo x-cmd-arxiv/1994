@@ -1,0 +1,368 @@
+"astro-ph/9403016","Ed Bertschinger","Edmund Bertschinger and A.J.S. Hamilton","Lagrangian Evolution of the Weyl Tensor","17 pages, AAS LateX v3.0, submitted to ApJ, MIT-CSR-94-06","Astrophys.J. 435 (1994) 1","10.1086/174787",,"astro-ph gr-qc",,"  We derive the evolution equations for the electric and magnetic parts of the
+Weyl tensor for cold dust from both general relativity and Newtonian gravity.
+In a locally inertial frame at rest in the fluid frame, the Newtonian equations
+agree with those of general relativity. We give explicit expressions for the
+electric and magnetic parts of the Weyl tensor in the Newtonian limit. In
+general, the magnetic part does not vanish, implying that the Lagrangian
+evolution of the fluid is not purely local.
+","[{""version"":""v1"",""created"":""Thu, 10 Mar 1994 13:17:42 GMT""}]","2009-10-22"
+"chem-ph/9403004","Lawrence Pratt","Gary G. Hoffman, and Lawrence R. Pratt","Comparison of electron density functional models","Molec. Phys. 82, 241(1994)","Molec. Phys. 82, 245-261(1994)","10.1080/00268979400100184",,"chem-ph physics.chem-ph",,"  Presented here are calculations of the distortion of the density of an
+electron gas due to the electrostatic field of a proton. Several models based
+upon the local density approximation (LDA) of density functional theory [linear
+response theory, Kohn-Sham (KS), optimized Thomas-Fermi theory (OTF), and OTF
+plus perturbation corrections] are compared with one another. These models, in
+turn, are compared with available results of quantum Monte Carlo (QMC)
+calculations for the same system. Comparison of the KS results with the OTF
+results shows a very reasonable agreement that seems to be progressively
+improvable. This provides encouragement for the application of the OTF model to
+condensed phase systems. The QMC calculations of the density do not agree well
+with the density functional results. The reasons for this poor agreement are
+not clear. This particular system is expected to be an ideal one for
+application of the LDA and, thus, the poor agreement is of fundamental
+importance. The lack of detail presented in the available QMC results leads us
+to conclude that the QMC calculations should be attempted again. in print:
+Molec. Phys. 82, 245-261(1994)
+","[{""version"":""v1"",""created"":""Wed, 9 Mar 1994 20:54:45 GMT""},{""version"":""v2"",""created"":""Mon, 27 Jun 1994 19:03:29 GMT""}]","2009-10-22"
+"cond-mat/9403037","Yung-Chung ChenT","Y. C. Chen, A. Moreo, F. Ortolani, E. Dagotto and T. K. Lee","Is there spin-charge separation in the 2D Hubbard and t-J models at low
+  electronic densities?","11 pages, tex, 3 figures upon request, NTHU - preprint",,"10.1103/PhysRevB.50.655",,"cond-mat",,"  The spin and density correlation functions of the two-dimensional Hubbard
+model at low electronic density $<n>$ are calculated in the ground state by
+using the power method, and at finite temperatures by using the quantum Monte
+Carlo technique. Both approaches produce similar results, which are in close
+agreement with numerical and high temperature expansion results for the
+two-dimensional ${\rm t-J}$ model. Using perturbative approximations, we show
+that the examination of the density correlation function alone is not enough to
+support recent claims in the literature that suggested spin and charge
+separation in the low electronic density regime of the ${\rm t-J}$ model.
+","[{""version"":""v1"",""created"":""Wed, 9 Mar 1994 18:53:41 GMT""}]","2009-10-22"
+"cond-mat/9403038","Leonid Pryadko","Leonid Pryadko and Shou-Cheng Zhang","Fluctuation-Induced First Order Transition between the Quantum Hall
+  Liquid and Insulator","5 pages, REVTEX 3.0, two PostScript pictures appended, preprint
+  SU-ITP-94-6","Phys. Rev. Lett. 73, 3282-5 (1994)","10.1103/PhysRevLett.73.3282",,"cond-mat",,"  We study the phase transition between the quantum Hall liquid state and the
+insulating state within the framework of the Chern-Simons-Landau-Ginzburg
+theory of the quantum Hall effect. For the transition induced by a background
+periodic potential in the absence of disorder, the model is described by a
+relativistic scalar field coupled to the Chern-Simons gauge field. For this
+system, we show that the transition is of the first order, induced by the
+fluctuations of the gauge field, rather than second order, with statistical
+angle-dependent scaling exponent.
+","[{""version"":""v1"",""created"":""Thu, 10 Mar 1994 03:17:25 GMT""},{""version"":""v2"",""created"":""Thu, 10 Mar 1994 18:57:54 GMT""}]","2009-10-22"
+"cond-mat/9403039","Satoshi Fujimoto","S. Fujimoto, N. Kawakami, and S.-K. Yang","Microscopic Calculations of the Finite-Size Spectrum in the Kondo
+  Problem","REVTEX 3.0, 27 page",,"10.1103/PhysRevB.50.1046",,"cond-mat",,"  The finite-size spectrum in the Kondo problem is obtained from the
+Bethe-ansatz solution of the exactly solved models. We investigate the Anderson
+model, the highly correlated SU($\nu$) Anderson model and the {\it s-d}
+exchange model. For all these models we find that the spectra exhibit the
+properties characteristic of the Fermi liquid fixed point, and hence our
+microscopic calculations are in accordance with the results obtained by
+boundary conformal field theory with current algebra symmetry.
+","[{""version"":""v1"",""created"":""Thu, 10 Mar 1994 08:13:16 GMT""}]","2016-08-31"
+"cond-mat/9403040","Te","L. F. Cugliandolo and J. Kurchan","Weak-ergodicity breaking in mean-field spin-glass models","17 pages and 3 Figures (upon request), Universita` di Roma I preprint
+  1005/94. Contribution to `Fifth International Workshop on Disordered
+  Systems', Italy, February, 1994, to appear in Philosophical Magazine",,"10.1080/01418639508238541",,"cond-mat",,"  We review the long-time off-equilibrium dynamical behaviour of two
+representative mean-field spin-glass models, namely the $p$-spin spherical and
+the Sherrington-Kirkpatrick models. We show how both models capture aging
+phenomena but with rather different characteristics. We discuss a scenario that
+allows for interpreting our results.
+","[{""version"":""v1"",""created"":""Thu, 10 Mar 1994 13:45:20 GMT""}]","2015-06-25"
+"gr-qc/9403016","Jennie Traschen","Jennie Traschen","Discrete Self-Similiarity and Critical Point Behavior in Fluctuations
+  About Extremal Black Holes","12 pages (harvmac), UMHEP-405","Phys. Rev. D 50, 7144 (1994)","10.1103/PhysRevD.50.7144",,"gr-qc",,"  The issues of scaling symmetry and critical point behavior are studied for
+fluctuations about extremal charged black holes. We consider the scattering and
+capture of the spherically symmetric mode of a charged, massive test field on
+the background spacetime of a black hole with charge $Q$ and mass $M$. The
+spacetime geometry near the horizon of a $|Q|=M$ black hole has a scaling
+symmetry, which is absent if $|Q|<M$, a scale being introduced by the surface
+gravity. We show that this symmetry leads to the existence of a self-similiar
+solution for the charged field near the horizon, and further, that there is a
+one parameter family of discretely self-similiar solutions . The scaling
+symmetry, or lack thereof, also shows up in correlation length scales, defined
+in terms of the rate at which the influence of an external source coupled to
+the field dies off. It is shown by constructing the Greens functions, that an
+external source has a long range influence on the extremal background, compared
+to a correlation length scale which falls off exponentially fast in the $|Q|<M$
+case. Finally it is shown that in the limit of $\Delta \equiv (1-{Q^2 \overM^2}
+)^{1\over 2} \rightarrow 0$ in the background spacetime, that infinitesimal
+changes in the black hole area vary like $\Delta ^{1\over 2}$.
+","[{""version"":""v1"",""created"":""Wed, 9 Mar 1994 17:30:39 GMT""}]","2013-11-13"
+"gr-qc/9403017","Ted Jacobson","Steven Corley and Ted Jacobson","Collapse of Kaluza-Klein Bubbles","6 pages, plain LaTeX, UMDGR-94-089","Phys.Rev.D49:6261-6263,1994","10.1103/PhysRevD.49.R6261",,"gr-qc hep-th",,"  Kaluza-Klein theory admits ``bubble"" configurations, in which the
+circumference of the fifth dimension shrinks to zero on some compact surface. A
+three parameter family of such bubble initial data at a moment of time-symmetry
+(some including a magnetic field) has been found by Brill and Horowitz,
+generalizing the (zero-energy) ``Witten bubble"" solution. Some of these data
+have negative total energy. We show here that all the negative energy bubble
+solutions start out expanding away from the moment of time symmetry, while the
+positive energy bubbles can start out either expanding or contracting. Thus it
+is unlikely that the negative energy bubbles would collapse and produce a naked
+singularity.
+","[{""version"":""v1"",""created"":""Wed, 9 Mar 1994 18:57:18 GMT""}]","2010-01-06"
+"gr-qc/9403018",,"Dieter Brill and Geoff Hayward","Is the gravitational action additive?","20 pages LaTeX file, report numbers UMD-PP 94-100 and Alberta Thy
+  10-94","Phys.Rev. D50 (1994) 4914-4919","10.1103/PhysRevD.50.4914",,"gr-qc",,"  The gravitational action is not always additive in the usual sense. We
+provide a general prescription for the change in action that results when
+different portions of the boundary of a spacetime are topologically identified.
+We discuss possible implications for the superposition law of quantum gravity.
+We present a definition of `generalized additivity' which does hold for
+arbitrary spacetime composition.
+","[{""version"":""v1"",""created"":""Wed, 9 Mar 1994 22:28:44 GMT""},{""version"":""v2"",""created"":""Thu, 10 Mar 1994 17:10:44 GMT""}]","2009-10-22"
+"gr-qc/9403019","Serge Droz","A. Bonanno, S. Droz, W. Israel and S.M. Morsink","Structure of the Inner Singularity of a Spherical Black Hole","5 pages, Latex 5 pages 2 postscript figures,Alberta-Thy-9-94","Phys.Rev. D50 (1994) 7372-7375","10.1103/PhysRevD.50.7372",,"gr-qc",,"  We review the evidence for and against the possibility that the inner
+singularity of a black hole contains a lightlike segment which is locally mild
+and characterized by mass inflation.
+","[{""version"":""v1"",""created"":""Thu, 10 Mar 1994 01:02:20 GMT""}]","2009-10-22"
+"gr-qc/9403020",,"H. D. Zeh","Time (a-)symmetry in a recollapsing quantum universe","12 pages, Contribution presented at Mazagon, Spain, October 1991",,,,"gr-qc",,"  It is argued that Hawking's `greatest mistake' may not have been a mistake at
+all. According to the canonical quantum theory of gravity for Friedmann type
+universes, any time arrows of general nature can only be correlated with that
+of the expansion. For recollapsing universes this seems to be facilitated in
+part by quantum effects close to their maximum size. Because of the resulting
+thermodynamical symmetry between expansion and (formal) collapse, black holes
+must formally become `white' during the collapse phase (while physically only
+expansion of the universe and black holes can be observed). It is conjectured
+that the quantum universe remains completely singularity-free in this way
+(except for the homogeneous singularity) if an appropriate boundary condition
+for the wave function is able to exclude {\it past} singularities (as is often
+assumed).
+","[{""version"":""v1"",""created"":""Thu, 10 Mar 1994 15:55:06 GMT""}]","2007-05-23"
+"hep-lat/9403009","C. Ruge","C. Ruge, P. Zhu and F. Wagner","Correlation Function in Ising Models","16 pages Latex, uuencoded compressed tar file with 6 figures included",,"10.1016/0378-4371(94)90195-3",,"hep-lat cond-mat",,"  We simulated the fourier transform of the correlation function of the Ising
+model in two and three dimensions using a single cluster algorithm with
+improved estimators. The simulations are in agreement with series expansion and
+the available exact results in $d=2$, which shows, that the cluster algorithm
+can succesfully be applied for correlations. We show as a further result that
+our data do not support a hypothesis of Fisher that in any $d=2$ lattice the
+fourier transform of the correlation function depends on the lattice generating
+function only. In $d=3$ our simulation are again in agreement with the results
+from the series expansion, except for the amplitudes $f_{\pm}$, where we find
+$f_+/f_-=2.06(1)$.
+","[{""version"":""v1"",""created"":""Wed, 9 Mar 1994 16:58:01 GMT""}]","2009-10-22"
+"hep-lat/9403010","Stefano Vinti","M. Caselle, F. Gliozzi, P. Provero and S. Vinti","Finite Size Effects in Fluid Interfaces","3 pages, uuencoded .ps file, figures included. (Proceeding of Lattice
+  '93)","Nucl.Phys.Proc.Suppl. 34 (1994) 720-722","10.1016/0920-5632(94)90493-6",,"hep-lat cond-mat hep-th",,"  It is shown that finite size effects in the free energy of a rough interface
+of the 3D Ising and three--state Potts models are well described by the
+capillary wave model at {\em two--loop} order. The agreement between
+theoretical predictions and Monte Carlo simulations strongly supports the idea
+of the universality of this description of order--order interfaces in 3D
+statistical systems above the roughening temperature.
+","[{""version"":""v1"",""created"":""Thu, 10 Mar 1994 11:32:28 GMT""}]","2009-10-22"
+"hep-ph/9403252","Craig Roberts","Zhihua Dong, Herman J. Munczek and Craig D. Roberts","Gauge covariant fermion propagator in quenched, chirally-symmetric
+  quantum electrodynamics","11 pages. REVTEX 3.0. ANL-PHY-7711-TH-94","Phys.Lett.B333:536-544,1994","10.1016/0370-2693(94)90180-5",,"hep-ph",,"  We discuss the chirally symmetric solution of the massless, quenched,
+Dyson-Schwinger equation for the fermion propagator in three and four
+dimensions. The solutions are manifestly gauge covariant. We consider a gauge
+covariance constraint on the fermion--gauge-boson vertex, which motivates a
+vertex Ansatz that both satisfies the Ward identity when the fermion self-mass
+is zero and ensures gauge covariance of the fermion propagator.
+","[{""version"":""v1"",""created"":""Wed, 9 Mar 1994 16:22:44 GMT""}]","2010-03-04"
+"hep-ph/9403253",,"S. Narison","Upsilon \bar BB$ Couplings, Slope of the Isgur-Wise Function and
+  Improved Estimate of \boldmath{$V_{cb}$}}","{{\bf $\bf 10 pages, Latex, (1 Figure on request), CERN-TH-7103/93
+  (Phys. Lett. B in press)","Phys.Lett.B325:197-204,1994","10.1016/0370-2693(94)90092-2",,"hep-ph",,"  We estimate the sum of the $\Upsilon \bar BB $ couplings using QCD Spectral
+Sum Rules (QSSR). Our result implies the phenomenological bound $\xi'(vv'=1)
+\geq -1.04$ for the slope of the Isgur-Wise function. An analytic estimate of
+the (physical) slope to two loops within QSSR leads to the accurate value
+$\xi'(vv'=1) \simeq -(1.00 \pm 0.02)$ due to the (almost) complete
+cancellations between the perturbative and non-perturbative corrections at the
+stability points. Then, we deduce, from the present data, the improved estimate
+$\vert V_{cb} \vert \simeq \ga 1.48 \mbox{ps}/\tau_B \dr ^{1/2}(37.3 \pm 1.2
+\pm 1.4)\times 10^{-3}$ where the first error comes from the data analysis and
+the second one from the different model parametrizations of the Isgur-Wise
+function.
+","[{""version"":""v1"",""created"":""Wed, 9 Mar 1994 17:43:02 GMT""}]","2010-11-01"
+"hep-ph/9403254",,"S. Narison","Precise Determination of {$f_{P_{s}}/f_P$}} {\bf and Measurement of the
+  ``Perturbative'' Pole Mass from {$f_P$}}","{{\bf \bf 9 pages, CERN-TH 7094/93 (published in Phys. Lett. B322
+  (1994) 247 )","Phys.Lett.B322:247-252,1994","10.1016/0370-2693(94)91115-0",,"hep-ph",,"  We present a compact analytic two-loop expression of the $SU(3)_f$ breaking
+effects on the ratio of the pseudoscalar decay constants $R_P \equiv
+f_{P_S}/f_P$ ($P \equiv D,B $), from which, we extract the precise values :
+$R_D = 1.15 \pm .04$, $R_B = 1.16 \pm .05 $, where the errors are mainly due to
+the uncalculated $\alpha_s^2$-corrections. We also scan carefully the $M_c$
+(resp. $M_b$) mass dependence of $f_D$ (resp. $f_B$) in view of precise
+measurements of the ``perturbative'' c and b pole quark masses from the future
+data of the decay constants $f_P$.
+","[{""version"":""v1"",""created"":""Wed, 9 Mar 1994 18:03:11 GMT""}]","2011-01-27"
+"hep-ph/9403255",,"Hitoshi Yamamoto","Isospin Analysis of Two-body B Decays and Test of Factorization","8 pages, HUTP94/A006",,,,"hep-ph",,"  It is shown that the existing data on two-body B decays, some of them only
+upper limits, are precise enough to perform an isospin analysis to extract the
+phase shifts due to final state interaction. Unlike charm decays, no
+significant final state interaction is observed in decays $B\to D\pi, D\rho$,
+and $D^*\pi$ supporting the factorization hypothesis in these decays. By
+fitting directly the isospin amplitudes obtained, we extract the ratio
+$a_2/a_1$, where $a_1$ and $a_2$ are the coefficients in the factorized
+effective Hamiltonian.
+","[{""version"":""v1"",""created"":""Wed, 9 Mar 1994 19:26:19 GMT""}]","2009-09-25"
+"hep-ph/9403256","Henry Upton","A.H. Mueller and Bimal Patel","Single and Double BFKL Pomeron Exchange and a Dipole Picture of High
+  Energy Hard Processes","CU-TP-625, minor TeX problems of previous version have been fixed","Nucl.Phys. B425 (1994) 471-488","10.1016/0550-3213(94)90284-4",,"hep-ph",,"  Onium-onium scattering at high energy is used to illustrate a dipole picture
+of high energy hard scattering in the large $N_c$ limit. Single and double BFKL
+pomeron exchanges are calculated in the leading logarithmic approximation. An
+expression is given for the triple pomeron coupling when one of the pomeron's
+momentum is zero while the other two have momentum transfer, t. This expression
+is explicit and could be evaluated numerically. It has a $(-t)^{-{1\over 2}}$
+singularity at t=0.
+","[{""version"":""v1"",""created"":""Wed, 9 Mar 1994 20:38:16 GMT""},{""version"":""v2"",""created"":""Thu, 10 Mar 1994 20:21:28 GMT""}]","2009-10-28"
+"hep-ph/9403257",,"Patrick Huet and Michael E. Peskin","Violation of CPT and Quantum Mechanics in the K0--K0bar System","50 pages, uses PHYZZX, one figure available on request. This revised
+  version contains minor corrections, improved bounds on the parameters which
+  measure violation of quantum mechanics, and a more complete set of formulae","Nucl.Phys.B434:3-38,1995","10.1016/0550-3213(94)00390-Z","SLAC-PUB-6454","hep-ph",,"  We reconsider the model of quantum mechanics violation in the $\ko$--$\kob$
+system, due to Ellis, Hagelin, Nanopoulos, and Srednicki, in which \cp- and
+\cpt-violating signatures arise from the evolution of pure states into mixed
+states. We present a formalism for computing time-dependent asymmetries in this
+model and show that present data constrains its parameters significantly. In
+the future, this model will be put to very stringent tests at a $\phi$ factory.
+We present the theory of these tests and show the relation between particular
+$\phi$ decay correlations and the parameters of quantum mechanics violation.
+","[{""version"":""v1"",""created"":""Wed, 9 Mar 1994 20:14:00 GMT""},{""version"":""v2"",""created"":""Sat, 20 Aug 1994 00:01:00 GMT""}]","2010-11-01"
+"hep-ph/9403258","Marshall Baker","M. Baker, J.S Ball, F. Zachariasen","A Constituent Quark Anti-Quark Effective Lagrangian Based on the Dual
+  Superconducting Model of Long Distance QCD","{\bf 32,UW/PT94-01","Int.J.Mod.Phys. A11 (1996) 343-360","10.1142/S0217751X96000171",,"hep-ph",,"  We review the assumptions leading to the description of long distance QCD by
+a Lagrangian density expressed in terms of dual potentials. We find the color
+field distribution surrounding a quark anti-quark pair to first order in their
+velocities. Using these distributions we eliminate the dual potentials from the
+Lagrangian density and obtain an effective interaction Lagrangian $L_I ( \vec
+x_1 \, , \vec x_2 \, ; \vec v_1 \, , \vec v_2 )$ depending only upon the quark
+and anti-quark coordinates and velocities, valid to second order in their
+velocities. We propose $L_I$ as the Lagrangian describing the long distance
+interaction between constituent quarks. Elsewhere we have determined the two
+free parameters in $L_I$, $\alpha_s$ and the string tension $\sigma$, by
+fitting the 17 known levels of $b \bar b$ and $c \bar c$ systems. Here we use
+$L_I$ at the classical level to calculate the leading Regge trajectory. We
+obtain a trajectory which becomes linear at large $M^2$ with a slope $\alpha'
+\simeq .74 \, \hbox{GeV}^{-1}$, and for small $M^2$ the trajectory bends so
+that there are no tachyons. For a constituent quark mass between 100 and 150
+MeV this trajectory passes through the two known Regge recurrences of the $\pi$
+meson. In this paper, for simplicity of presentation, we have treated the
+quarks as spin-zero particles.
+","[{""version"":""v1"",""created"":""Wed, 9 Mar 1994 21:01:31 GMT""}]","2019-08-17"
+"hep-ph/9403259",,"Sacha Davidson, Hitoshi Murayama, and Keith A. Olive","On Preserving a B+L Asymmetry Produced in the Early Universe","10 pages, LaTeX, UMN-TH-1240, CfPA-TH-94-13, LBL-35275","Phys.Lett.B328:354-359,1994","10.1016/0370-2693(94)91490-7",,"hep-ph astro-ph",,"  One of the most efficient mechanisms for producing the baryon asymmetry of
+the Universe is the decay of scalar condensates in a SUSY GUT as was first
+suggested by Affleck and Dine. We show that given a large enough asymmetry, the
+baryon number will be preserved down to low temperatures even if B - L = 0,
+because the baryon number carrying scalars form bose condensates that give the
+W a mass. We derive the conditions on the condensate needed to suppress
+electroweak sphaleron interactions which would otherwise drive the baryon
+asymmetry to zero when B - L = 0.
+","[{""version"":""v1"",""created"":""Wed, 9 Mar 1994 21:46:28 GMT""}]","2009-09-15"
+"hep-ph/9403260","Evan Reidell","Xiangdong Ji","$Q^2$-Dependence of Deep Inelastic Sum Rules","8 pages in plain TeX with PostScript figures to follow, MIT-CTP-2288",,,,"hep-ph",,"  In this talk, I will concentrate on $Q^2$-dependence of deep inelastic sum
+rules. I will first give a modern definition of deep-inelastic sum rules and
+then discuss physical origins of their scaling violation at finite $Q^2$.
+Following this, I discuss a few well-known examples, in particular, the Bjorken
+sum rule, which is at the center of interest of this symposium. Finally, I
+consider the $Q^2 \to 0$ limit of sum rules using low-energy theorems. I think
+this can motivate some interesting CEBAF physics.
+","[{""version"":""v1"",""created"":""Wed, 9 Mar 1994 22:58:00 GMT""}]","2007-05-23"
+"hep-ph/9403261",,"Leonard S. Kisslinger and Siwen Wang","Pion Form Factor: Transition From Soft To Hard QCD","13 pages. 3 figures in PS file are available upon request from
+  authors",,,,"hep-ph",,"  We have reexamined the elastic pion form factor over a broad range of
+momentum transfers with the mass evolution from current quark to constituent
+quark being taken into account. We have also studied the effect of Sudakov form
+factors, of anomalous quark magnetic moments and of alternative soft wave
+functions. Our calculation shows a power-law falloff from the present
+experimental values to near-asymptotic values in the few $GeV^{2}$ range.
+","[{""version"":""v1"",""created"":""Thu, 10 Mar 1994 04:14:31 GMT""}]","2016-09-01"
+"hep-ph/9403262",,"S.V.Faleev, P.G.Silvestrov","Instanton -- Antiinstanton interaction and asymptotics of perturbation
+  theory expansion in double well oscillator","12 pages, Latex, BUDKERINP 94-24","Phys.Lett. A197 (1995) 372","10.1016/0375-9601(94)00965-R",,"hep-ph hep-th",,"  Instanton -- antiinstanton pair is considered as a source of singularity at
+the Borel plane for the ground state energy of anharmonic oscillator. The
+problem of defining the short range instanton -- antiinstanton interaction
+reduces to calculation of a smooth part of the Borel function, which cannot be
+found without explicit calculation of several terms of ordinary perturbation
+theory. On the other hand, the large order terms of perturbative expansion are
+dominated by large fluctuations in the functional integral like well separated
+instanton and antiinstanton.
+  The preasymptotics ($\sim 1/n$) of large order perturbation theory
+contribution to the ground state energy of anharmonic oscillator was found
+analytically. To this end the subleading long range asymptotics of the
+classical instanton -- antiinstanton interaction, the one -- loop quantum
+contribution to instanton -- antiinstanton interaction and the second quantum
+correction to a single instanton density were considered.
+","[{""version"":""v1"",""created"":""Thu, 10 Mar 1994 11:36:43 GMT""}]","2009-10-28"
+"hep-ph/9403263",,"John F. Donoghue","Light Quark Masses and Mixing Angles","UMHEP-402, Latex file, 27 pages",,"10.1142/9789814503785_0003",,"hep-ph",,"  I review the present state of our knowledge about the masses and weak mixing
+elements of the u, d, s quarks. This is the written version of lectures given
+in the 1993 Theoretical Advanced Study Institute (TASI).
+","[{""version"":""v1"",""created"":""Thu, 10 Mar 1994 15:41:23 GMT""}]","2016-10-26"
+"hep-th/9403058","James H. Horne","James H. Horne and Gregory Moore","Chaotic Coupling Constants","18 pages (4 figs), YCTP-P2-94, RU-94-25","Nucl.Phys. B432 (1994) 109-126","10.1016/0550-3213(94)90595-9",,"hep-th",,"  We examine some novel physical consequences of the general structure of
+moduli spaces of string vacua. These include (1) finiteness of the volume of
+the moduli space and (2) chaotic motion of the moduli in the early universe. To
+fix ideas we examine in detail the example of the (conjectural) dilaton-axion
+``$S$-duality'' of four-dimensional string compactifications. The facts (1) and
+(2) together might help to solve some problems with the standard scenarios for
+supersymmetry breaking and vacuum selection in string theory.
+","[{""version"":""v1"",""created"":""Wed, 9 Mar 1994 23:12:31 GMT""}]","2009-10-28"
+"hep-th/9403059","Sergey V. Kozyrev","S.V.Kozyrev","The Stable Representation of the algebra of functions on the quantum
+  group $SU_{q}(2)$",,,,,"hep-th",,"  An operation of a coproduct of representations of a bialgebra is defined. The
+coproduct operation for representations of the Hopf algebra of functions on the
+quantum group $SU_{q}(2)$ is investigated. A notion of a stable representation
+$\Pi$ is introdused. This means that the representation $\Pi$ is invariant
+under coproduct by arbitrary representation. Algebra of functions on the
+quantum group $SU_{q}(2)$ in the representation $\Pi$ is a factor of a type
+II$_{\infty}$. Formula for the trace in the representation $\Pi$ is given . The
+invariant integral of Woronovich on $SU_{q}(2)$ will take the form $\int f d\mu
+= tr(f cc^{*})$.
+","[{""version"":""v1"",""created"":""Wed, 9 Mar 1994 18:56:25 GMT""}]","2007-05-23"
+"hep-th/9403060","Ramy Brustein","R. Brustein and G. Veneziano","The Graceful Exit Problem in String Cosmology","13 pages,uuencoded post-script, preprint CERN-TH.7179/94","Phys.Lett. B329 (1994) 429-434","10.1016/0370-2693(94)91086-3",,"hep-th astro-ph",,"  Isotropic string cosmology solutions can be classified into two duality
+related branches: one can be connected smoothly to an expanding
+Friedman-Robertson-Walker Universe, the other describes accelerated inflation
+or contraction. We show that, if the dilaton potential has certain generic
+properties, the two branches can evolve smoothly into each other. We find,
+however, that just the effects of a potential do not allow for a graceful exit
+from accelerated inflation in the weak curvature regime. We explain how
+conformal field theory techniques could be used to give a decisive answer on
+whether graceful exit from accelerated inflation is possible at all.
+","[{""version"":""v1"",""created"":""Wed, 9 Mar 1994 17:48:18 GMT""}]","2009-10-28"
+"hep-th/9403061","Bill Spence","G. Au and B. Spence","Covariant Phase Space Formulations of Superparticles and Supersymmetric
+  WZW Models","15pp., LaTeX","Mod.Phys.Lett. A9 (1994) 2469-2480","10.1142/S0217732394002343",,"hep-th",,"  We present new covariant phase space formulations of superparticles moving on
+a group manifold, deriving the fundamental Poisson brackets and current
+algebras. We show how these formulations naturally generalise to the
+supersymmetric Wess-Zumino-Witten models.
+","[{""version"":""v1"",""created"":""Thu, 10 Mar 1994 07:46:57 GMT""}]","2015-06-26"
+"hep-th/9403062","Klaus Kirsten","Klaus Kirsten, Sergei Odintsov","One-loop effective potential in 2D dilaton gravity on hyperbolic plane","7 pages, LaTex, UB-ECM-PF 94/3","Mod.Phys.Lett.A9:2761-2766,1994","10.1142/S0217732394002616",,"hep-th",,"  The one-loop effective potential in $2D$ dilaton gravity in conformal gauge
+on the topologically non-trivial plane $\reals \times S^1$ and on the
+hyperbolic plane $H^2/\Gamma$ is calculated. For arbitrary choice of the tree
+scalar potential it is shown, that the one-loop effective potential explicitly
+depends on the reference metric (through the dependence on the radius of the
+torus or the radius of $H^2/\Gamma$). This phenomenon is absent only for some
+special choice of the tree scalar potential corresponding to the Liouville
+potential and leading to one-loop ultraviolet finite theory. The effective
+equations are discussed and some interpretation of the reference metric
+dependence of the effective potential is made.
+","[{""version"":""v1"",""created"":""Thu, 10 Mar 1994 12:45:17 GMT""}]","2009-09-17"
+"hep-th/9403063",,"A.Bartoli and J.Julve","Gauge fixing in higher derivative field theories","16 pages, Latex,( Preprint imaff 93/10)","Nucl.Phys. B425 (1994) 277-288","10.1016/0550-3213(94)90181-3",,"hep-th",,"  Higher Derivative (HD) Field Theories can be transformed into second order
+equivalent theories with a direct particle interpretation. In a simple model
+involving abelian gauge symmetries we examine the fate of the possible gauge
+fixings throughout this process. This example is a useful test bed for HD
+theories of gravity and provides a nice intuitive interpretation of the ""third
+ghost"" occurring there and in HD gauge theories when a HD gauge fixing is
+adopted.
+","[{""version"":""v1"",""created"":""Thu, 10 Mar 1994 11:47:18 GMT""}]","2009-10-28"
+"math/9403201","Thomas Leathrum","Thomas E. Leathrum","A Special Class of Almost Disjoint Families",,,,"Logic E-prints March 10, 1994","math.LO",,"  The collection of branches (maximal linearly ordered sets of nodes) of the
+tree ${}^{<\omega}\omega$ (ordered by inclusion) forms an almost disjoint
+family (of sets of nodes). This family is not maximal -- for example, any level
+of the tree is almost disjoint from all of the branches. How many sets must be
+added to the family of branches to make it maximal? This question leads to a
+series of definitions and results: a set of nodes is {\it off-branch} if it is
+almost disjoint from every branch in the tree; an {\it off-branch family} is an
+almost disjoint family of off-branch sets; ${\frak o}=\min\{|{\Cal O}|: {\Cal
+O}$ is a maximal off-branch family$\}$. Results concerning $\frak o$ include:
+(in ZFC) ${\frak a}\leq{\frak o}$, and (consistent with ZFC) $\frak o$ is not
+equal to any of the standard small cardinal invariants $\frak b$, $\frak a$,
+$\frak d$, or ${\frak c}=2^\omega$. Most of these consistency results use
+standard forcing notions -- for example, $Con({\frak b}={\frak a}<{\frak
+o}={\frak d}={\frak c})$ comes from starting with a model of $ZFC+CH$ and
+adding $\omega_2$-many Cohen reals. Many interesting open questions remain,
+though -- for example, $Con({\frak o}<{\frak d})$.
+","[{""version"":""v1"",""created"":""Thu, 10 Mar 1994 00:00:00 GMT""}]","2009-09-25"
+"math/9403202","Jindrich Zapletal","Jind\v{r}ich Zapletal","Shooting a club with finite conditions",,,,"Logic E-prints March 10, 1994","math.LO",,"  We study cohabitation of the poset $P_S$ shooting a club through a given
+stationary subset $S$ of $\omega _1$ with finite conditions with other
+forcings. Sample results:
+  (1) $P_S$ ""sometimes"" preserves presaturatedness of $NS_{\omega _1}$
+  (2) $P_S=P_T$ if $S=T mod NS_{\omega _1}$ (in Boolean algebra sense)
+  (3) Cons ( one can embed $Q,$ the poset adding $\aleph _1$ Cohen reals, to
+$P_S$ such that reals in $V^Q$ are the same as reals in $V^{P_S}.$ )
+","[{""version"":""v1"",""created"":""Thu, 10 Mar 1994 00:00:00 GMT""}]","2016-09-06"
+"math/9403203","Jindrich Zapletal","Jind\v{r}ich Zapletal","More on the cut and choose game",,,,"Logic E-prints March 10, 1994","math.LO",,"  We improve some ancient results of Velickovic on the cut and choose (c&c)
+game on complete Boolean algebras.
+  (1) If Nonempty has a winning strategy for c&c game on $B$ then $B$ is
+semiproper.
+  (2) If Nonempty has a winning strategy and $B$ has $2^{\aleph _0}$ -c.c. then
+Nonempty has a winning strategy in the descending chain game.
+  (3) Cons ($B$ is $\aleph _1$-distributive implies Nonempty has a winning
+strategy in c&c on $B$ )
+  We also give some new examples of forcings where Nonempty has or does not
+have a winning strategy in c&c game.
+","[{""version"":""v1"",""created"":""Thu, 10 Mar 1994 00:00:00 GMT""}]","2016-09-06"
+"nucl-th/9403010","Klaus Werner","K. Werner","Quark-Gluon-Plasma Formation at SPS Energies?","7 Pages, HD-TVP-94-6 (1 uuencoded figure)","Phys.Rev.Lett. 73 (1994) 1594-1597","10.1103/PhysRevLett.73.1594",,"nucl-th hep-ph",,"  By colliding ultrarelativistic ions, one achieves presently energy densities
+close to the critical value, concerning the formation of a quark-gluon-plasma.
+This indicates the importance of fluctuations and the necessity to go beyond
+the investigation of average events. Therefore, we introduce a percolation
+approach to model the final stage ($\tau > 1$ fm/c) of ion-ion collisions, the
+initial stage being treated by well-established methods, based on strings and
+Pomerons. The percolation approach amounts to finding high density domains, and
+treating them as quark-matter droplets. In this way, we have a {\bf realistic,
+microscopic, and Monte--Carlo based model which allows for the formation of
+quark matter.} We find that even at SPS energies large quark-matter droplets
+are formed -- at a low rate though. In other words: large quark-matter droplets
+are formed due to geometrical fluctuation, but not in the average event.
+","[{""version"":""v1"",""created"":""Thu, 10 Mar 1994 00:11:43 GMT""}]","2009-10-28"

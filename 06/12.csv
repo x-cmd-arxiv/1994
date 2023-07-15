@@ -1,0 +1,85 @@
+"chao-dyn/9406003",,"S.C.Woon (Imperial College, Blackett Lab, London SW7 2BZ)","Riemann zeta function is a fractal","4 pages, LaTeX, uses psfig.sty and a4wide.sty, in 2 parts. Part 2
+  contains 2 Postscript figures created by uufiles",,,,"chao-dyn nlin.CD",,"  Voronin's theorem on the `Universality'' of Riemann zeta function is shown to
+imply that Riemann zeta function is a fractal (in the sense that Mandelbrot set
+is a fractal) and a concrete ``representation'' of the ``giant book of
+theorems'' that Paul Halmos referred to.
+","[{""version"":""v1"",""created"":""Sat, 11 Jun 1994 18:32:47 GMT""}]","2008-02-03"
+"hep-ph/9406287","Chen Yu-qi","Yu-Qi Chen, Yu-Ping Kuang and Robert J. Oakes","On The Spin-Dependent Potential Between Heavy Quark And Antiquark","12 pages, REVTEX; NSF-ITP-94-49, TUIMP-TH-94/59, NUHEP-TH-94-10","Phys.Rev.D52:264-270,1995","10.1103/PhysRevD.52.264",,"hep-ph",,"  A new formula for the heavy quark-antiquark spin dependent potential is given
+by using the techniques developed in the heavy quark effective theory. The
+leading logarithmic quark mass terms emerging from the loop contributions are
+explicitly extracted and summed up. There is no renormalization scale ambiguity
+in this new formula. The spin-dependent potential in the new formula is
+expressed in terms of three independent color-electric and color-magnetic field
+correlation functions, and it includes both the Eichten-Feinberg's formula and
+the one-loop QCD result as special cases.
+","[{""version"":""v1"",""created"":""Sat, 11 Jun 1994 17:18:28 GMT""}]","2008-11-26"
+"hep-ph/9406288","Pene","M.B. Gavela, M. Lozano, J. Orloff, O.P\`ene","Standard Model CP-violation and Baryon asymmetry Part I: Zero
+  Temperature","38 pages, CERN-TH.7262/94, LPTHE-Orsay-94/48, HD-THEP-94-19,
+  FAMNSE-12-94, NSF-ITP-94-64","Nucl.Phys.B430:345-381,1994","10.1016/0550-3213(94)00409-9",,"hep-ph astro-ph",,"  We consider quantum effects in a world with two coexisting symmetry phases,
+unbroken and spontaneously broken, as a result of a first order phase
+transition. The discrete symmetries of the problem are discussed in general. We
+compute the exact two-point Green function for a free fermion, when a thin wall
+separates the two phases. The Dirac propagator displays both massive and
+massless poles, and new CP-even phases resulting from the fermion reflection on
+the wall. We discuss the possible quark-antiquark CP asymmetries produced in
+the Standard Model(SM) for the academic $T=0$ case. General arguments indicate
+that an effect first appears at order $\alpha_W$ in the reflection amplitude,
+as the wall acts as a source of momentum and the on-shell one-loop self-energy
+cannot be renormalized away. The asymmetries stem from the interference of the
+SM CP-odd couplings and the CP-even phases in the propagator. We perform a toy
+computation that indicates the type of GIM cancellations of the problem. The
+behaviour can be expressed in terms of two unitarity triangles.
+","[{""version"":""v1"",""created"":""Sat, 11 Jun 1994 18:33:05 GMT""}]","2010-11-01"
+"hep-ph/9406289","Pene","M.B. Gavela, P. Hernandez, J. Orloff, O.P\`ene, C. Quimbay","Standard Model CP-violation and Baryon asymmetry Part II: Finite
+  Temperature","44 pages, CERN-TH.7263/94, LPTHE Orsay-94/49, HUTP-94/A015,
+  HD-THEP-94-20, FTUAM-94/14, NSF-ITP-94-65","Nucl.Phys.B430:382-426,1994","10.1016/0550-3213(94)00410-2",,"hep-ph astro-ph",,"  We consider the scattering of quasi-particles off the boundary created during
+a first order electroweak phase transition. Spatial coherence is lost due to
+the quasi-quark damping rate, and we show that reflection on the boundary is
+suppressed, even at tree-level. Simply on CP considerations, we argue against
+electroweak baryogenesis in the Standard Model via the charge transport
+mechanism. A CP asymmetry is produced in the reflection properties of quarks
+and antiquarks hitting the phase boundary. An effect is present at order
+$\alpha_W^2$ in rate and a regular GIM behaviour is found, which can be
+expressed in terms of two unitarity triangles. A crucial role is played by the
+damping rate of quasi-particles in a hot plasma, which is a relevant scale
+together with $M_W$ and the temperature. The effect is many orders of magnitude
+below what observation requires.
+","[{""version"":""v1"",""created"":""Sat, 11 Jun 1994 18:34:06 GMT""},{""version"":""v2"",""created"":""Sun, 12 Jun 1994 10:30:12 GMT""}]","2010-11-01"
+"hep-ph/9406290","Ken-ichiro Aoki","Kenichiro Aoki and Santiago Peris","Triviality, perturbation theory and $Z\to b \overline b$","12pages (incl. figs.), TIT/HEP--258,CERN-TH.7287/94","Phys.Lett. B335 (1994) 470-478","10.1016/0370-2693(94)90379-4",,"hep-ph hep-lat",,"  We compute the large-$m_t$ contributions to the $Zb\overline b$ vertex in the
+Standard Model non-perturbatively using both the $1/\nc$ and the $1/\nf$
+expansions. Triviality and its consequences for the perturbative result are
+systematically analyzed. In particular, we point out that the effect of
+triviality is already important at the two-loop level for a heavy Higgs
+($600\gev<M_H<1\tev$) even when the top mass is below $200\gev$.
+","[{""version"":""v1"",""created"":""Sun, 12 Jun 1994 14:54:03 GMT""}]","2009-10-28"
+"hep-ph/9406292","Xing Zhi-Zhong","Dan-di WU and Zhi-zhong XING","On the Unitarity Triangles of the CKM Matrix","9 Latex pages; LMU-07/94 and PVAMU-HEP-94-5 (A few minor changes are
+  made, accepted for publication in Phys. Lett. B)","Phys.Lett.B341:386-390,1995","10.1016/0370-2693(94)01312-Z",,"hep-ph",,"  The unitarity triangles of the $3\times 3$ Cabibbo-Kobayashi-Maskawa (CKM)
+matrix are studied in a systematic way. We show that the phases of the nine CKM
+rephasing invariants are indeed the outer angles of the six unitarity triangles
+and measurable in the $CP$-violating decay modes of $B_{d}$ and $B_{s}$ mesons.
+An economical notation system is introduced for describing properties of the
+unitarity triangles. To test unitarity of the CKM matrix we present some
+approximate but useful relations among the sides and angles of the unitarity
+triangles, which can be confronted with the accessible experiments of quark
+mixing and $CP$ violation.
+","[{""version"":""v1"",""created"":""Sun, 12 Jun 1994 08:50:49 GMT""},{""version"":""v2"",""created"":""Tue, 11 Oct 1994 19:03:23 GMT""}]","2010-11-01"
+"hep-ph/9406293","Xing Zhi-Zhong","Zhi-zhong Xing","On Test of CPT Symmetry in CP Violating B Decays","13 Latex pages; LMU-02/94 (Accepted for publication in Phys. Rev. D
+  as a Rapid Communication)","Phys.Rev.D50:2957-2961,1994","10.1103/PhysRevD.50.R2957",,"hep-ph",,"  Considering that the existing experimental limit for $CPT$ violation is still
+poor, we explore various possible ways to test $CPT$ symmetry in $CP$-violating
+$B$ decays at $e^{+}e^{-}$ $B$ factories and hadron machines. We find that it
+is difficult to distinguish between the effect of direct $CP$ violation and
+that of $CPT$ violation in the time-integrated measurements of neutral $B$
+decays to $CP$ eigenstates such as $\psi K_{S}$ and $\pi^{+}\pi^{-}$. Instead,
+a cleaner signal of small $CPT$ violation may appear in the time-integrated
+$CP$ asymmetries for a few non-$CP$-eigenstate channels, e.g.,
+$B^{0}_{d}/\bar{B}^{0}_{d}\rightarrow D^{\pm}\pi^{\mp}$ and
+$\stackrel{(-)}{D}$$^{(*)0}K_{S}$. The time-dependent measurements of $CP$
+asymmetries are available, in principle, to limit the size of $CPT$-violating
+effects in neutral $B$-meson decays.
+","[{""version"":""v1"",""created"":""Sun, 12 Jun 1994 08:39:33 GMT""}]","2009-12-30"
+"solv-int/9406001","Ron Perline","Ron Perline (Department of Mathematics and Computer Science, Drexel
+  University)","Localized induction equation and pseudospherical surfaces","21 pages, AMSTeX file. To appear in Journal of Physics A:
+  Mathematical and General",,"10.1088/0305-4470/27/15/029",,"solv-int hep-th nlin.SI",,"  We describe a close connection between the localized induction equation
+hierarchy of integrable evolution equations on space curves, and surfaces of
+constant negative Gauss curvature.
+","[{""version"":""v1"",""created"":""Sat, 11 Jun 1994 16:47:27 GMT""}]","2009-10-28"

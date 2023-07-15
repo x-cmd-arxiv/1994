@@ -1,0 +1,305 @@
+"alg-geom/9406007","Victor Pidstrigatch","Victor Pidstrigatch","Some glueing formulas for spin polynomials and a proof of the Van de Ven
+  conjecture","17 pages. AmS-TeX-Version 2.1. A new reference is added (pp.1,15)",,,,"alg-geom math.AG",,"  We deduce some formulas for the spin invariants of the connected sum of an
+arbitrary 4-manifold X, b^+ _2(X) > 0 $ with $\overline {CP^2}$ in terms of the
+spin invariants of $X$ and apply this to prove the Van de Ven conjecture.
+","[{""version"":""v1"",""created"":""Mon, 27 Jun 1994 10:10:03 GMT""},{""version"":""v2"",""created"":""Tue, 5 Jul 1994 10:44:16 GMT""}]","2008-02-03"
+"astro-ph/9406067","Albert Stebbins","Albert Stebbins and Shoba Veeraraghavan","Beyond the Small-Angle Approximation For MBR Anisotropy from Seeds","23 pages, FERMILAB-Pub-94/047-A","Phys.Rev.D51:1465-1478,1995","10.1103/PhysRevD.51.1465",,"astro-ph",,"  In this paper we give a general expression for the energy shift of massless
+particles travelling through the gravitational field of an arbitrary matter
+distribution as calculated in the weak field limit in an asymptotically flat
+space-time. It is {\it not} assumed that matter is non-relativistic. We
+demonstrate the surprising result that if the matter is illuminated by a
+uniform brightness background that the brightness pattern observed at a given
+point in space-time (modulo a term dependent on the oberver's velocity) depends
+only on the matter distribution on the observer's past light-cone. These
+results apply directly to the cosmological MBR anisotropy pattern generated in
+the immediate vicinity of of an object like a cosmic string or global texture.
+We apply these results to cosmic strings, finding a correction to previously
+published results for in the small-angle approximation. We also derive the
+full-sky anisotropy pattern of a collapsing texture knot.
+","[{""version"":""v1"",""created"":""Mon, 27 Jun 1994 06:28:10 GMT""}]","2009-12-30"
+"astro-ph/9406068",,"M. Bruni, S. Matarrese and O. Pantano","Dynamics of Silent Universes","40 pages with 4 figures, compressed and uuencoded PostScript file,
+  submitted to ApJ, SISSA preprint Ref. 85/94/A","Astrophys.J. 445 (1995) 958-977","10.1086/175755",,"astro-ph",,"  We investigate the local non--linear dynamics of irrotational dust with
+vanishing magnetic part of the Weyl tensor, $H_{ab}$. Once coded in the initial
+conditions, this dynamical restriction is respected by the relativistic
+evolution equations. Thus, the outcome of the latter are {\it exact solutions}
+for special initial conditions with $H_{ab}=0$, but with no symmetries: they
+describe inhomogeneous triaxial dynamics generalizing that of a fluid element
+in a Tolman--Bondi, Kantowski--Sachs or Szekeres geometry. A subset of these
+solutions may be seen as (special) perturbations of Friedmann models, in the
+sense that there are trajectories in phase--space that pass arbitrarily close
+to the isotropic ones. We find that the final fate of ever--expanding
+configurations is a spherical void, locally corresponding to a Milne universe.
+For collapsing configurations we find a whole family of triaxial attractors,
+with vanishing local density parameter $\Omega$. These attractors locally
+correspond to Kasner vacuum solutions: there is a single physical configuration
+collapsing to a degenerate {\it pancake}, while the generic configuration
+collapses to a triaxial {\it spindle} singularity. These {\it silent universe}
+models may provide a fair representation of the universe on super horizon
+scales. Moreover, one might conjecture that the non--local information carried
+by $H_{ab}$ becomes negligible during the late highly non--linear stages of
+collapse, so that the attractors we find may give all of the relevant expansion
+or collapse configurations of irrotational dust.
+","[{""version"":""v1"",""created"":""Mon, 27 Jun 1994 09:57:46 GMT""}]","2009-10-22"
+"cmp-lg/9406038","Stephen Sutton","David G. Novick (Oregon Graduate Institute), Stephen Sutton (Oregon
+  Graduate Institute)","An Empirical Model of Acknowledgment for Spoken-Language Systems","6 pages, uuencoded compressed tar file","In Proceedings of ACL-94",,,"cmp-lg cs.CL",,"  We refine and extend prior views of the description, purposes, and
+contexts-of-use of acknowledgment acts through empirical examination of the use
+of acknowledgments in task-based conversation. We distinguish three broad
+classes of acknowledgments (other-->ackn, self-->other-->ackn, and self+ackn)
+and present a catalogue of 13 patterns within these classes that account for
+the specific uses of acknowledgment in the corpus.
+","[{""version"":""v1"",""created"":""Mon, 27 Jun 1994 04:20:02 GMT""}]","2008-02-03"
+"cmp-lg/9406039","Atro Voutilainen","Atro Voutilainen (Research Unit for Computational Linguistics,
+  University of Helsinki)","Three studies of grammar-based surface-syntactic parsing of unrestricted
+  English text. A summary and orientation","PhD dissertation. 36pp, gzipped and uuencoded .ps file",,,"Publications 24, Department of General Linguistics, University of
+  Helsinki, 1994","cmp-lg cs.CL",,"  The dissertation addresses the design of parsing grammars for automatic
+surface-syntactic analysis of unconstrained English text. It consists of a
+summary and three articles. {\it Morphological disambiguation} documents a
+grammar for morphological (or part-of-speech) disambiguation of English, done
+within the Constraint Grammar framework proposed by Fred Karlsson. The
+disambiguator seeks to discard those of the alternative morphological analyses
+proposed by the lexical analyser that are contextually illegitimate. The 1,100
+constraints express some 23 general, essentially syntactic statements as
+restrictions on the linear order of morphological tags. The error rate of the
+morphological disambiguator is about ten times smaller than that of another
+state-of-the-art probabilistic disambiguator, given that both are allowed to
+leave some of the hardest ambiguities unresolved. This accuracy suggests the
+viability of the grammar-based approach to natural language parsing, thus also
+contributing to the more general debate concerning the viability of
+probabilistic vs.\ linguistic techniques. {\it Experiments with heuristics}
+addresses the question of how to resolve those ambiguities that survive the
+morphological disambiguator. Two approaches are presented and empirically
+evaluated: (i) heuristic disambiguation constraints and (ii) techniques for
+learning from the fully disambiguated part of the corpus and then applying this
+information to resolving remaining ambiguities.
+","[{""version"":""v1"",""created"":""Mon, 27 Jun 1994 09:24:50 GMT""}]","2008-02-03"
+"cond-mat/9406102","Alexander Palevski","Y. Berk, A. Kamenev, A. Palevski, L. N. Pfeiffer, and K. W. West","Resonance Magnetoresistance in Coupled Quantum Wells","10 pages + 4 figures, REVTeX 3",,,,"cond-mat",,"  The in-plane magnetic field suppresses the quantum coupling between electrons
+in a double quantum well structure. The microscopical theory of this effect is
+developed and confirmed experimentally. We have shown that the decrease of the
+""resistance resonance"" peak is sensitive to the mutual orientation of the
+current and the in-plane magnetic field. The characteristic field required for
+the suppression of the resonance depends on the elastic small angle and
+electron--electron scattering rates. The study of the characteristic field
+allows to verify the temperature and Fermi energy dependence of the
+electron--electron scattering rate, providing a new experimental tool for its
+measurement.
+","[{""version"":""v1"",""created"":""Mon, 27 Jun 1994 11:25:05 GMT""}]","2007-05-23"
+"cond-mat/9406103","Dick van der Marel","O. V. Dolgov, A.E. Karakozov, A.A. Mikhailovsky, B.J. Feenstra, and D.
+  van der Marel","Observation of the Holstein shift in high $T_c$ superconductors with
+  thermal modulation reflectometry","6 pages, figures on request. Revtex, version 2, Materials Science
+  Center Internal Report Number VSGD.93.12.th","Physica C 229 (1994), 396","10.1016/0921-4534(94)90523-1",,"cond-mat",,"  We use the experimental technique of thermal modulation reflectometry to
+study the relatively small temperature dependence of the optical conductivity
+of superconductors. Due to a large cancellation of systematic errors, this
+technique is shown to a be very sensitive probe of small changes in
+reflectivity. We analyze thermal modulation reflection spectra of single
+crystals and epitaxially grown thin films of YBa$_2$Cu$_3$O$_{7-\delta}$ and
+obtain the ${\alpha_tr}^2F(\omega)$ function in the normal state, as well as
+the superconductivity induced changes in reflectivity. We present detailed
+model calculations, based on the Eliashberg-Migdal extension of the BCS model,
+which show good qualitative and quantitative agreement with the experimental
+spectra. VSGD.93.12.th
+","[{""version"":""v1"",""created"":""Mon, 27 Jun 1994 13:43:12 GMT""}]","2009-10-22"
+"cond-mat/9406104","Ton Coolen","A.C.C Coolen and D. Sherrington","Order Parameter Flow in the SK Spin-Glass I: Replica Symmetry","41 pages, Latex, OUTP-94-29S, 14 figures available in hardcopy",,"10.1088/0305-4470/27/23/013",,"cond-mat",,"  We present a theory to describe the dynamics of the Sherrington- Kirkpatrick
+spin-glass with (sequential) Glauber dynamics in terms of deterministic flow
+equations for macroscopic parameters. Two transparent assumptions allow us to
+close the macroscopic laws. Replica theory enters as a tool in the calculation
+of the time- dependent local field distribution. The theory produces in a
+natural way dynamical generalisations of the AT- and zero-entropy lines and of
+Parisi's order parameter function $P(q)$. In equilibrium we recover the
+standard results from equilibrium statistical mechanics. In this paper we make
+the replica-symmetric ansatz, as a first step towards calculating the order
+parameter flow. Numerical simulations support our assumptions and suggest that
+our equations describe the shape of the local field distribution and the
+macroscopic dynamics reasonably well in the region where replica symmetry is
+stable.
+","[{""version"":""v1"",""created"":""Mon, 27 Jun 1994 14:55:02 GMT""}]","2009-10-22"
+"cond-mat/9406105","Oleg Sushkov","M.Yu. Kuchiev and O. P. Sushkov","Quantum melting of the long-range antiferromagnetic order and spin-wave
+  condensation in t-J-V model","REVTEX 3.0, 8 pages",,,,"cond-mat",,"  We consider two-dimensional t-J-V model. The wave function of the ground
+state is constructed. We demonstrate that the doping by holes results in
+condensation of the spin-waves, destruction of the long-range antiferromagnetic
+order and formation of the gap in the spin-wave spectrum.
+","[{""version"":""v1"",""created"":""Mon, 27 Jun 1994 08:34:34 GMT""}]","2007-05-23"
+"cond-mat/9406106","Sasha Dotsenko","A. Dotsenko and O. Sushkov","Quantum Phase Transition in the Frustrated Heisenberg Antiferromagnet","8 pages of REVTeX 3.0, one PostScript file appended (Eq. 15
+  corrected, two recent references added, + some minor changes)","PRB 50, 13821 (1994)","10.1103/PhysRevB.50.13821",,"cond-mat",,"  Using the J_1-J_2 model, we present a description of quantum phase transition
+from Neel ordered to the spin-liquid state based on the modified spin wave
+theory. The general expression for the gap in the spectrum in the spin-liquid
+phase is presented.
+","[{""version"":""v1"",""created"":""Mon, 27 Jun 1994 09:27:48 GMT""},{""version"":""v2"",""created"":""Wed, 29 Jun 1994 02:35:56 GMT""}]","2009-10-22"
+"gr-qc/9406045","Stephen P. Braham","Stephen P. Braham","Hypertime Formalism for Spherically Symmetric Black Holes and Wormholes","14pp, LaTeX, QMW-Maths-1994-SPB-1","Phys.Rev.D51:536-543,1995","10.1103/PhysRevD.51.536",,"gr-qc hep-th",,"  Recent work on an approach to the geometrodynamics of cylindrical gravity
+waves in the presence of interacting scalar matter fields, based on the
+Kucha\v{r} hypertime formalism, is extended to the analogous spherically
+symmetric system. This produces a geometrodynamical formalism for spherical
+black holes and wormholes in which the metric variables are divided into two
+classes, dynamical and redundant. The redundant variables measure the embedding
+of a spacelike hypersurface into the spacetime, and proper time in the
+asymptotically flat regions. All the constraints can be explicitly solved for
+the momenta conjugate to the embedding variables. The dynamical variables,
+including an extra ADM mass for wormhole topologies, can then be considered as
+functionals of the redundant ones, including the proper time variable. The
+solution of the resulting constraint system determines the momentum conjugate
+to the proper time as a function of the other variables, producing Unruh's
+Hamiltonian formalism for the spherical black hole, whilst extending it to an
+arbitrary foliation choice. The resulting formalism is appropriate as a
+starting point for the construction of a hypertime functional Schr\""odinger
+equation for quantized spherically symmetric black holes and wormholes.
+","[{""version"":""v1"",""created"":""Mon, 27 Jun 1994 14:13:18 GMT""}]","2010-11-01"
+"hep-lat/9406019","Klaus Pinn","M. Hasenbusch, K. Pinn, and C. Wieczerkowski","Canonical Demon Monte Carlo Renormalization Group","LaTeX file, 7 pages, preprints CERN TH.7330/94, MS-TPI-7","Phys.Lett. B338 (1994) 308-312","10.1016/0370-2693(94)91383-8",,"hep-lat",,"  We describe a new method to compute renormalized coupling constants in a
+Monte Carlo renormalization group calculation. The method can be used for a
+general class of models, e.g., lattice spin or gauge models. The basic idea is
+to simulate a joint system of block spins and canonical demons. In contrast to
+the Microcanonical Renormalization Group invented by Creutz et al. our method
+does not suffer from systematical errors stemming from a simultaneous use of
+two different ensembles. We present numerical results for the $O(3)$ nonlinear
+$\sigma$-model.
+","[{""version"":""v1"",""created"":""Mon, 27 Jun 1994 07:22:45 GMT""}]","2009-10-22"
+"hep-ph/9406396","Lawrence M. Krauss","Evalyn Gates, Lawrence M. Krauss, Martin White","Treating Solar Model Uncertainties: A Consistent Statistical Analysis of
+  Solar Neutrino Models and Data","29 pages (incl figs), latex, 6 figures (appended as separate
+  uuencoded file. To embed figures in text, uncomment 6 \epsfysize lines which
+  appear before bibliography), CWRU-P5-94, CfPA-94-TTH-29,
+  Fermilab-Pub-94/176-A","Phys.Rev.D51:2631-2643,1995","10.1103/PhysRevD.51.2631",,"hep-ph astro-ph nucl-th",,"  We describe how to consistently incorporate solar model uncertainties, along
+with experimental errors and correlations, when analyzing solar neutrino data
+to derive confidence limits on parameter space for proposed solutions of the
+solar neutrino problem. Our work resolves ambiguities and inconsistencies in
+the previous literature. As an application of our methods we calculate the
+masses and mixing angles allowed by the current data for the proposed MSW
+solution using both Bayesian and frequentist methods, allowing purely for solar
+model flux variations, to compare with previous work. We consider the effects
+of including metal diffusion in the solar models and also discuss implications
+for future experiments.
+","[{""version"":""v1"",""created"":""Sun, 26 Jun 1994 20:04:27 GMT""}]","2008-11-26"
+"hep-ph/9406397","Hitoshi Murayama","Andrea Brignole, Hitoshi Murayama (LBL) and Riccardo Rattazzi (Rutgers
+  U.)","Upper bound on Hot Dark Matter Density from $SO(10)$ Yukawa Unification","LBL-35774, RU-94-51, 18 pages, plain LaTeX, two PostScript figures
+  appended in uuencoded format","Phys.Lett.B335:345-354,1994","10.1016/0370-2693(94)90362-X",,"hep-ph",,"  We study low-energy consequences of supersymmetric $SO(10)$ models with
+Yukawa unification $h_t = h_N$ and $h_b = h_\tau$. We find that it is difficult
+to reproduce the observed $m_b/m_\tau$ ratio when the third-generation
+right-handed neutrino is at an intermediate scale, especially for small $\tan
+\beta$. We obtain a conservative lower bound on the mass of the right-handed
+neutrino $M_N > 6 \times 10^{13}$~GeV for $\tan \beta < 10$. This bound
+translates into an upper bound on the $\tau$-neutrino mass, and therefore on
+its contribution to the hot dark matter density of the present universe,
+$\Omega_\nu h^2 < 0.004$. Our analysis is based on the full two-loop
+renormalization group equations with one-loop threshold effects. However, we
+also point out that physics above the GUT-scale could modify the Yukawa
+unification condition $h_b = h_\tau$ for $\tan \beta \lsim 10$. This might
+affect the prediction of $m_b/m_\tau$ and the constraint on $M_N$.
+","[{""version"":""v1"",""created"":""Sun, 26 Jun 1994 23:46:17 GMT""}]","2009-09-29"
+"hep-ph/9406398","Alexander Ignatiev","A.Yu.Ignatiev, G.C.Joshi and M.Matsuda","The Search for the Decay of Z Boson into Two Gammas as a Test of Bose
+  Statistics","9 pages, in REVTEX, RCHEP-94/17, UM-P-94/63","Mod.Phys.Lett.A11:871-876,1996","10.1142/S0217732396000874",,"hep-ph quant-ph",,"  We suggest that Bose statistics for photons can be tested by looking for
+decays of spin-1 bosons into two photons. The experimental upper limit on the
+decay $Z \rightarrow \gamma \gamma $ is used to establish for the first time
+the quantitative measure of the validity of Bose symmetry for photons.
+","[{""version"":""v1"",""created"":""Mon, 27 Jun 1994 03:09:50 GMT""}]","2011-07-19"
+"hep-ph/9406399","Yamawaki","Koichi Yamawaki and V.I. Zakharov","Nambu-Jona-Lasinio Model vs QCD","LaTeX, 9 pages, UM-TH-94-20, DPNU-94-23",,,,"hep-ph",,"  We argue that the extended Nambu-Jona-Lasinio model which introduces
+four-quark interactions to describe hadron physics at low energies can be
+confronted with fundamental quantum chromodynamics by means of spectral sum
+rules. While there arise rather restrictive bounds on the strength of the
+effective four-quark interaction in the vector channel, introduction of the
+four-quark interaction in the pseudoscalar channel resolves a long standing
+puzzle of the sum rules.
+","[{""version"":""v1"",""created"":""Mon, 27 Jun 1994 05:40:09 GMT""}]","2007-05-23"
+"hep-ph/9406400","Stefan Dittmaier","A.Denner, S.Dittmaier, G.Weiglein","Green functions from a gauge-invariant effective action for the
+  electroweak Standard Model","to appear in Nucl. Phys. B Proc. Suppl., proceedings to the 1994
+  Zeuthen workshop on elementary particle theory, ""physics at LEP200 and
+  beyond"", 6 pages uuencoded postscript, BI-TP 94/22","Nucl.Phys.Proc.Suppl.37B:87,1994","10.1016/0920-5632(94)90664-5",,"hep-ph",,"  Application of the background-field method to the electroweak Standard-Model
+yields a gauge-invariant effective action giving rise to simple Ward
+identities. We find that in the background-field `t Hooft-Feynman gauge the
+resulting vertex functions are exactly those that are obtained using the pinch
+technique. Thus, the background-field method provides a general framework that
+generalizes the pinch technique directly and uniquely to arbitrary Green
+functions and arbitrary orders of perturbation theory. Moreover, the desirable
+properties of the pinch-technique vertex functions hold for arbitrary gauge
+parameters and have a simple explanation within the background- field method.
+","[{""version"":""v1"",""created"":""Mon, 27 Jun 1994 08:17:03 GMT""}]","2009-10-28"
+"hep-ph/9406401","Steve King","Stephen F King","Dynamical Electroweak Symmetry Breaking","This revised version contains some minor changes and is somewhat
+  shorter than the original.","Rept.Prog.Phys.58:263-310,1995","10.1088/0034-4885/58/3/001",,"hep-ph",,"  We review the status of and recent developments in dynamical electroweak
+symmetry breaking, concentrating on the ideas of technicolour and top quark
+condensates. The emphasis is on the essential physical ideas and experimental
+implications rather than on detailed mathematical formalism.
+","[{""version"":""v1"",""created"":""Mon, 27 Jun 1994 10:52:41 GMT""},{""version"":""v2"",""created"":""Mon, 20 Mar 1995 11:00:24 GMT""}]","2010-12-17"
+"hep-ph/9406402","Yuhsuke Yoshida","Masayasu Harada and Yuhsuke Yoshida","QCD S Parameter from Inhomogeneous Bethe-Salpeter Equation","22 pages (LaTeX), 6 PostScript figures are included as
+  uuencoded-compressed-tar file at the end (need 'epsf.tex' macro package),
+  KUNS-1270 HE(TH)94/09","Phys.Rev.D50:6902-6910,1994","10.1103/PhysRevD.50.6902",,"hep-ph",,"  We calculate the low-energy parameter S in QCD, which is also known as
+L_{10}, and the pion decay constant f_\pi using inhomogeneous Bethe-Salpeter
+equation in improved ladder approximation. To extract these quantities we
+calculate the ``V-A'' two-point function, \Pi_{VV}(q^2) - \Pi_{AA}(q^2), in
+space-like region. We obtain S = 0.43 \sim 0.48, which is about 30% larger than
+the experimental value. The calculated f_\pi is well consistent with the result
+by solving the homogeneous Bethe-Salpeter equation for pion. We also evaluate
+$S$ parameter in SU(3) gauge theory with N_D doublets of fermions in connection
+with walking technicolor model, and find that the value of S/N_D hardly depends
+on N_D.
+","[{""version"":""v1"",""created"":""Mon, 27 Jun 1994 11:56:14 GMT""}]","2014-11-17"
+"hep-ph/9406403",,"Pran Nath and R. Arnowitt","Susy Particles","16 pages+ 6 figs(hard copies available on request)",,,"CERN-TH.7227/94, NUB-TH.3089/94,and CTP-TAMU-28/94","hep-ph",,"  Analysis of the SUSY spectrum in supergravity unified models is given under
+the naturalness criterion that the universal scalar mass $(m_0)$ and the gluino
+mass $(m_{\tilde g})$ satisfy the constraint $m_0, m_{\tilde g}$ less than or
+equal to 1 TeV. The SUSY spectrum is analysed in four different scenarios: (1)
+minimal supergravity models ignoring proton decay from dimension five
+operators, (2) imposing proton stability constraint in supergravity models with
+SU(5) type embedding which allow proton decay via dimension five operators, (3)
+with inclusion of dark matter constraints in models of type (1), and (4) with
+inclusion of dark matter constraint in models of type (2). It is found that
+there is a very strong upper limit on the light chargino mass in models of type
+(4), i.e., the light chargino mass is less than or equals 120 GeV.
+","[{""version"":""v1"",""created"":""Mon, 27 Jun 1994 11:02:44 GMT""}]","2009-09-25"
+"hep-th/9406173","Danny Birmingham","Danny Birmingham and Mark Rakowski","Discrete Quantum Field Theories and the Intersection Form","10 pages, Latex, ITFA-94-19","Mod.Phys.Lett. A9 (1994) 2265-2271","10.1142/S0217732394002124",,"hep-th",,"  It is shown that the standard mod-$p$ valued intersection form can be used to
+define Boltzmann weights of subdivision invariant lattice models with gauge
+group $Z_{p}$. In particular, we discuss a four dimensional model which is
+based upon the assignment of field variables to the $2$-simplices of the
+simplicial complex. The action is taken to be the intersection form defined on
+the second cohomology group of the complex, with coefficients in $Z_{p}$.
+Subdivision invariance of the theory follows when the coupling constant is
+quantized and the field configurations are restricted to those satisfying a
+mod-$p$ flatness condition. We present an explicit computation of the partition
+function for the manifold $\pm CP^{2}$, demonstrating non-triviality.
+","[{""version"":""v1"",""created"":""Mon, 27 Jun 1994 10:06:23 GMT""}]","2015-06-26"
+"hep-th/9406174","M. Czachor","Marek Czachor","Elements of nonlinear quantum mechanics (Part II): Triple bracket
+  generalization of quantum mechanics",,,,,"hep-th",,"  A new version of NLQM is formulated in terms of the generalized Nambu
+dynamics. The generalization is free from the difficulties of earlier
+approaches. The paper is a second part of ""Elements of NLQM (I): NL Schrodinger
+equation and two-level atoms"".
+","[{""version"":""v1"",""created"":""Mon, 27 Jun 1994 10:34:28 GMT""}]","2007-05-23"
+"hep-th/9406175","R. W. Gebert","R.W. Gebert and H. Nicolai","On $E_{10}$ and the DDF construction","47 pages LATEX, preprint DESY 94-106","Commun.Math.Phys.172:571-622,1995","10.1007/BF02101809",,"hep-th",,"  An attempt is made to understand the root spaces of Kac Moody algebras of
+hyperbolic type, and in particular $E_{10}$, in terms of a DDF construction
+appropriate to a subcritical compactified bosonic string. While the level-one
+root spaces can be completely characterized in terms of transversal DDF states
+(the level-zero elements just span the affine subalgebra), longitudinal DDF
+states are shown to appear beyond level one. In contrast to previous treatments
+of such algebras, we find it necessary to make use of a rational extension of
+the self-dual root lattice as an auxiliary device, and to admit non-summable
+operators (in the sense of the vertex algebra formalism). We demonstrate the
+utility of the method by completely analyzing a non-trivial level-two root
+space, obtaining an explicit and comparatively simple representation for it. We
+also emphasize the occurrence of several Virasoro algebras, whose interrelation
+is expected to be crucial for a better understanding of the complete structure
+of the Kac Moody algebra.
+","[{""version"":""v1"",""created"":""Mon, 27 Jun 1994 12:09:42 GMT""}]","2010-11-01"
+"hep-th/9406176",,"G. Papadopoulos","Global Aspects of Symmetries in Sigma Models with Torsion","11pp",,,,"hep-th",,"  It is shown that non-trivial topological sectors can prevent the quantum
+mechanical implementation of the symmetries of the classical field equations of
+sigma models with torsion. The associated anomaly is computed, and it is shown
+that it depends on the homotopy class of the topological sector of the theory
+and the group action on the sigma model manifold that generates the symmetries
+of the classical field equations.
+","[{""version"":""v1"",""created"":""Mon, 27 Jun 1994 14:31:15 GMT""}]","2007-05-23"
+"hep-th/9406177","Gabriele Ferretti","G. Ferretti (Chalmers University, G\""oteborg Sweden)","Regularization and Quantization of Higher Dimensional Current Algebras","(Talk given at the G\""ursey Memorial Conference I on Strings and
+  Symmetries, Istanbul, Turkey, June 6-10 1994.) 11 pages, plain TEX. ITP 94-17",,"10.1007/3-540-59163-X_296",,"hep-th",,"  We present some recently discovered infinite dimensional Lie algebras that
+can be understood as extensions of the algebra Map(M,g) of maps from a compact
+p-dimensional manifold to some finite dimensional Lie algebra g. In the first
+part of the paper, we describe the physical motivations for the study of these
+algebras. In the second part, we discuss their realization in terms of
+pseudo-differential operators and comment on their possible representation
+theory.
+","[{""version"":""v1"",""created"":""Mon, 27 Jun 1994 15:40:48 GMT""}]","2015-06-26"
+"nucl-th/9406031","Saracco Paolo","R. Cenni and P. Saracco","Functional approach to the electromagnetic response function: the
+  Longitudinal Channel","RevTeX, 18 figures available upon request - to be published in
+  Physical Review C","Phys.Rev.C50:1851-1867,1994","10.1103/PhysRevC.50.1851",,"nucl-th",,"  In this paper we address the (charge) longitudinal electromagnetic response
+for a homogeneous system of nucleons interacting via meson exchanges in the
+functional framework. This approach warrants consistency if the calculation is
+carried on order-by-order in the mesonic loop expansion with RPA-dressed
+mesonic propagators. At the 1-loop order and considering pion, rho and omega
+exchanges we obtain a quenching of the response, in line with the experimental
+results.
+","[{""version"":""v1"",""created"":""Mon, 27 Jun 1994 08:00:29 GMT""}]","2008-11-26"
+"nucl-th/9406032","Bradley D. Keister","B. D. Keister","Forms of Relativistic Dynamics: What Are the Possibilities?","13 pp",,"10.1063/1.48217",,"nucl-th hep-ph",,"  Various methods of constructing solvable few-body models are reviewed, with
+an emphasis on direct interactions with few degrees of freedom, as an
+alternative to the use of local quantum field theories. Several applications
+are discussed.
+","[{""version"":""v1"",""created"":""Mon, 27 Jun 1994 15:00:30 GMT""}]","2015-06-26"

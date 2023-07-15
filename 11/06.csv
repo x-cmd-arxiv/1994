@@ -1,0 +1,132 @@
+"astro-ph/9411021","Heinz Andernach","D.E.Harris, C.S.Grant, and H.Andernach","The EINSTEIN On-Line Service","4 pages, uuencoded compressed PostScript; including 1 figure; to
+  appear in ""Astronomical Data Analysis Software and Systems - IV"", ASP
+  Conf.Ser.(1995), eds. H.Payne, D.Shaw, & J.Hayes",,,,"astro-ph",,"  The Einstein On-Line Service (EOLS) is a simple menu-driven system which
+provides an intuitive method of querying over one hundred database catalogs. In
+addition, the EOLS contains over 30 CDROMs of images from the Einstein X-ray
+Observatory which are available for downloading. The EOLS provides all of our
+databases to the NASA Astrophysics Data System (ADS) and our documents which
+describe each table are written in the ADS format. In conjunction with the IAU
+working group on Radioastronomical Databases, the EOLS serves as an
+experimental platform for on-line access to radio source catalogs. The number
+of entries in these catalogs exceeds half a million.
+","[{""version"":""v1"",""created"":""Sat, 5 Nov 1994 17:23:17 GMT""}]","2007-05-23"
+"chao-dyn/9411002","S. Y. Kim","Sang-Yoon Kim (Dept. of Phys., Kangwon Nat'l Univ., Chunchon
+  Kangwon-Do 200-701, Korea)","Critical behavior of period doubling in coupled area-preserving maps","23 pages + 3 figures (available upon request), Revtex 3.0, Published
+  in the November issue of Phys. Rev. E","Phys. Rev. E 50, 1922 (1994)","10.1103/PhysRevE.50.1922","KWNU-SP-94-2","chao-dyn cond-mat nlin.CD",,"  We study the critical behavior of period doublings in $N$ symmetrically
+coupled area-preserving maps for many-coupled cases with $N>3$. It is found
+that the critical scaling behaviors depend on the range of coupling
+interaction. In the extreme long-range case of global coupling, in which each
+area-preserving map is coupled to all the other area-preserving maps with equal
+strength, there exist an infinite number of bifurcation routes in the parameter
+plane, each of which ends at a critical point. The critical behaviors, which
+vary depending on the type of bifurcation routes, are the same as those for the
+previously-studied small $N$ cases $(N=2,3)$, independently of $N$. However,
+for any other non-global coupling cases of shorter range couplings, there
+remains only one bifurcation route ending at the zero-coupling critical point,
+at which the $N$ area-preserving maps become uncoupled, The critical behavior
+at the zero-coupling point is also the same as that for the small $N$ cases
+$(N=2,3)$, independently of the coupling range.
+","[{""version"":""v1"",""created"":""Sun, 6 Nov 1994 04:42:15 GMT""}]","2009-10-22"
+"chao-dyn/9411003","S. Y. Kim","Sang-Yoon Kim (Dept. of Phys., Kangwon Nat'l Univ., Chunchon
+  Kangwon-Do 200-701, Korea)","M-furcations in coupled maps","18 pages + 2 figures (available upon request), Revtex 3.0",,"10.1142/S0217979295000689","KWNU-SP-94-3","chao-dyn cond-mat nlin.CD",,"  We study the scaling behavior of $M$-furcation $(M\!=\!2, 3, 4,\dots)$
+sequences of $M^n$-period $(n=1,2,\dots)$ orbits in two coupled one-dimensional
+(1D) maps. Using a renormalization method, how the scaling behavior depends on
+$M$ is particularly investigated in the zero-coupling case in which the two 1D
+maps become uncoupled. The zero-coupling fixed map of the $M$-furcation
+renormalization transformation is found to have three relevant eigenvalues
+$\delta$, $\alpha$, and $M$ ($\delta$ and $\alpha$ are the parameter and
+orbital scaling factors of 1D maps, respectively). Here the second and third
+ones, $\alpha$ and $M$, called the ``coupling eigenvalues'', govern the scaling
+behavior associated with coupling, while the first one $\delta$ governs the
+scaling behavior of the nonlinearity parameter like the case of 1D maps. The
+renormalization results are also confirmed by a direct numerical method.
+","[{""version"":""v1"",""created"":""Sun, 6 Nov 1994 04:46:00 GMT""}]","2009-10-22"
+"cond-mat/9411028","P. Singh Deo","P. Singha Deo and A. M. Jayannavar","Quantum Waveguide Transport in Serial Stub and Loop Structures","Revtex 3.2 version, 27 pages, figures available on request, To appear
+  in Phys. Rev. B",,,,"cond-mat",,"  We have studied the quantum transmission properties of serial stub and loop
+structures. Throughout we have considered free electron networks and the
+scattering arises solely due to the geometric nature of the problem. The band
+formation in these geometric structures is analyzed and compared with the
+conventional periodic potential scatterers. Some essential differences are
+pointed out. We show that a single defect in an otherwise periodic structure
+modifies band properties non trivially. By a proper choice of a single defect
+one can produce positive energy bound states in continuum in the sense of von
+Neumann and Wigner. We also discuss some magnetic properties of loop structures
+in the presence of Aharonov-Bohm flux.
+","[{""version"":""v1"",""created"":""Sat, 5 Nov 1994 22:45:52 GMT""}]","2007-05-23"
+"cond-mat/9411029","Leonid Pryadko","K. Chaltikian, L. Pryadko and S. C. Zhang","Universal Fluctuation of the Hall Conductance in the Random Magnetic
+  Field","4 pages, Revtex 3.0; added the paragraph regarding applicability to
+  other systems with broken T-invariance, misc. minor changes","Phys. Rev. B52, R8688-91 (1995)","10.1103/PhysRevB.52.R8688","SU-ITP #94/38","cond-mat",,"  We show that the RMS fluctuation of the antisymmetric part of the Hall
+conductance of a planar mesoscopic metal in a random magnetic field with zero
+average is universal, of the order of $e^2/h$, independent of the amplitude of
+the random magnetic field and the diffusion coefficient even in the weak field
+limit. This quantity is exactly zero in the case of ordinary scalar disorder.
+We propose an experiment to measure this surprising effect, and also discuss
+its implications on the localization physics of this system. Our result applies
+to some other systems with broken time-reversal ({\bf T}) symmetry.
+","[{""version"":""v1"",""created"":""Sun, 6 Nov 1994 01:27:34 GMT""},{""version"":""v2"",""created"":""Thu, 26 Jan 1995 04:24:48 GMT""}]","2009-10-22"
+"gr-qc/9411013","Sardanashvily Gennadi","G.Sardanashvily","Gravity as a Higgs Field. III. Nongravitional Deviations of
+  Gravitational Fields","17 pp., compuscript LaTeX",,,"TP\94\219","gr-qc",,"  In Parts I and II of the work (gr-qc/9405013, 9407032), we have shown that
+gravity is {\it sui generis} a Higgs field corresponding to spontaneous
+symmetry breaking when the fermion matter admits only the Lorentz subgroup of
+world symmetries of the geometric arena. From the mathematical viewpoint, the
+Higgs nature of gravity issues from the fact that different gravitational
+fields are responsible for nonequivalent representations of cotangent vectors
+to a world manifold by $\gamma$-matrices on spinor bundles. It follows that
+gravitational fields fail to form an affine space modelled on a linear space of
+deviations of some background field. In other words, even weak gravitational
+fields do not satisfy the superposition principle and, in particular, can not
+be quantized by usual methods. At the same time, one can examine superposable
+deviations $\sigma$ of a gravitational field $h$ so that $h+\sigma$ fails to be
+a gravitational field. These deviations are provided with the adequate
+mathematical description in the framework of the affine group gauge theory in
+dislocated manifolds, and their Lagrangian densities differ from the familiar
+gravitational ones. They make contribution to the standard gravitational
+effects, e.g., modify Newton's gravitational potential.
+","[{""version"":""v1"",""created"":""Sun, 6 Nov 1994 00:17:48 GMT""}]","2007-05-23"
+"hep-lat/9411006","Stephan Olejnik","M. Faber, H. Markum, S.Olejnik, W.Sakuler","Flux tubes and topological charges in finite-temperature lattice QCD","4 pages, PostScript, uuencoded compressed tar file (contributed talk
+  at the International Conference on Quark Confinement and the Hadron Spectrum,
+  Villa Olmo--Como, Italy, 20-24 June, 1994)",,,,"hep-lat",,"  Topological properties of the vacuum were investigated in finite-temperature
+lattice QCD without and with dynamical quarks using a local operator of
+topological charge density and a variant of cooling. Below the deconfinement
+temperature evidence for flux tube formation was observed in the distribution
+of topological charge density around a static $Q\bar Q$ pair. With dynamical
+quarks, the flux tube breaks when the distance between the static quark and
+antiquark increases.
+","[{""version"":""v1"",""created"":""Sun, 6 Nov 1994 12:07:22 GMT""}]","2007-05-23"
+"hep-ph/9411229","Vladimir Braun","M.Beneke and V.M Braun","Naive nonabelianization and resummation of fermion bubble chains","12 pages, LATEX, no figures","Phys.Lett. B348 (1995) 513-520","10.1016/0370-2693(95)00184-M","DESY 94-200","hep-ph",,"  We propose to extend the Brodsky-Lepage-Mackenzie scale-fixing prescription
+by resumming exactly any number of one-loop vacuum polarization insertions into
+one-loop diagrams. In this way, one makes maximal use of the information
+contained in one-loop perturbative corrections combined with the one-loop
+running of the effective coupling. The scale ambiguity at leading order is
+converted into an intrinsic uncertainty of perturbative approximations induced
+by IR renormalons. Practical implementation of this resummation requires only
+knowledge of one-loop radiative corrections with non-vanishing gluon mass. We
+find that higher order corrections to the pole mass and the top quark decay
+width are dominated by renormalons already in low orders and demonstrate the
+impact of eliminating the pole mass on the convergence of the perturbative
+series.
+","[{""version"":""v1"",""created"":""Sat, 5 Nov 1994 16:49:50 GMT""}]","2009-10-28"
+"hep-ph/9411230",,"H. Liebl and Gary R. Goldstein","Electromagnetic Polarizabilities and Charge Radii of the Nucleons in the
+  Diquark-model","15 Pages, Latex, Figs on request, to be published Phys.Lett.B. Minor
+  errors corrected and eqn 5,6,8,9 corrected","Phys.Lett. B343 (1995) 363-368","10.1016/0370-2693(94)01464-N","TUFTS-TH-94-G01","hep-ph",,"  The diquark model is used to calculate the electromagnetic polarizabilities
+and charge radii of the nucleons for three different potentials. Making the
+scalar diquark lower in mass introduces a mixing angle $\theta $ between the
+$\left| 56\right\rangle $ and $\left| 70\right\rangle $ states ,which allows an
+improvement in value of all 6 properties. Generalizing the Gamov-Teller matrix
+and the magnetic moment operator to the diquark model gives constraints on this
+mixing. We obtain for the Richardson potential $\theta =23.2^{\circ },$
+$\overline{\alpha }_p=7.9_{-0.9}^{+1.0}\times 10^{-4}fm^3,$ $\overline{\alpha
+}_n=7.7_{-0.6}^{+0.3}\times 10^{-4}fm^3,$ $\overline{\beta
+}_p=5.4_{-0.4}^{+1.6}\times 10^{-4}fm^3,$ $\overline{\beta }%
+_n=6.7_{-0.7}^{+1.3}\times 10^{-4}fm^3,$ $\left\langle r^2\right\rangle
+_p=0.37_{-0.03}^{+0.02}fm^2,$ $\left\langle r^2\right\rangle
+_n=-0.07_{-0.02}^{+0.03}fm^2.$ Additional pion cloud contributions could
+improve on all six results.
+","[{""version"":""v1"",""created"":""Sat, 5 Nov 1994 19:39:35 GMT""},{""version"":""v2"",""created"":""Wed, 9 Nov 1994 22:03:09 GMT""}]","2009-10-28"
+"hep-ph/9411231","Victor Gurarie","V. Gurarie","Runaway Quarks","13 pages, uses harvmac.tex, epsf.tex","Phys.Rev. D52 (1995) 1639-1642","10.1103/PhysRevD.52.1639","PUPT-1506","hep-ph",,"  When heavy nuclei collide, a quark-gluon plasma is formed. The plasma is
+subject to strong electric field due to the charge of the colliding nuclei. The
+electric field can influence the behavior of the quark-gluon plasma. In
+particular, we might observe an increased number of quarks moving in the
+direction of that field, as we do in the standard electron-ion plasma. In this
+paper we show that this phenomenon, called the runaway quarks, does not exist.
+","[{""version"":""v1"",""created"":""Sat, 5 Nov 1994 21:59:07 GMT""}]","2009-10-28"

@@ -1,0 +1,230 @@
+"astro-ph/9404018","Thomas Buchert","A.L. Melott, T. Buchert, A.G. Wei{\ss}","Testing Higher--Order Lagrangian Perturbation Theory Against Numerical
+  Simulations -- 2. Hierarchical Models","TeX, 21 pages, submitted to A&A; - figures can be obtained by
+  anonymous ftp to: ibm-3.mpa-garching.mpg.de -- directory: pub/aow (labelled
+  with the SISSA preprint number). Note: Also the figures to paper I (astro-ph
+  9309056) can be found in this directory. #paper II-MBW#","Astron.Astrophys. 294 (1995) 345-365",,,"astro-ph",,"  We present results showing an improvement of the accuracy of perturbation
+theory as applied to cosmological structure formation for a useful range of
+scales. The Lagrangian theory of gravitational instability of
+Friedmann--Lema\^\i tre cosmogonies investigated and solved up to the third
+order in the series of papers by Buchert (1989, 1992, 1993), Buchert \& Ehlers
+(1993), Buchert (1994), Ehlers \& Buchert (1994), is compared with numerical
+simulations. In this paper we study the dynamics of hierarchical models as a
+second step. In the first step (Buchert, Melott and Wei{\ss} 1994) we analyzed
+the performance of the Lagrangian schemes for pancake models, i.e., models
+which initially have a truncated power spectrum. We here explore whether the
+results found for pancake models carry over to hierarchical models which are
+evolved deeply into the non--linear regime............We find that for spectra
+with negative power--index the second--order scheme performs considerably
+better than TZA in terms of statistics which probe the dynamics, and slightly
+better in terms of low--order statistics like the power--spectrum. In cases
+with much small--scale power the gain from the higher--order schemes is small,
+but still measurable. However, in contrast to the results found for pancake
+models, where the higher--order schemes get worse than TZA at late non--linear
+stages and on small scales, we here find that the second--order model is as
+robust as TZA, retaining the improvement at later stages and on smaller scales.
+In view of these
+","[{""version"":""v1"",""created"":""Fri, 8 Apr 1994 18:20:59 GMT""}]","2009-09-25"
+"astro-ph/9404020","Renyue Cen","Neta A. Bahcall, Mirt Gramann and Renyue Cen (Princeton University
+  Observatory, Princeton, NJ)","The Motions of Clusters and Groups of Galaxies","25p plaintex submitted to The Astrophysical Journal",,,,"astro-ph",,"  The distributions of peculiar velocities of rich clusters and of groups of
+galaxies are investigated for different cosmological models and are compared
+with observations. Four cosmological models are studied: standard ($\Omega=1$)
+CDM, low-density CDM, HDM ($\Omega=1$), and PBI. We find that rich clusters of
+galaxies exhibit a Maxwellian distribution of peculiar velocities in all
+models, as expected from a Gaussian initial density fluctuation field. The
+cluster 3-D velocity distribution is generally similar in the models: it peaks
+at $v \sim 500$ km s$^{-1}$, and extends to high cluster velocities of $v \sim
+1500$ km s$^{-1}$. Approximately 10\% of all model rich clusters move with high
+peculiar velocities of $v \ge 10^3$ km s$^{-1}$. The highest velocity clusters
+frequently originate in dense superclusters. The group velocity distribution
+is, in general, similar to the velocity distribution of the rich clusters. In
+all but the low-density CDM model, the mass exhibits a longer tail of high
+velocities than do the clusters. This high-velocity tail originates mostly from
+the high velocities that exist within rich clusters. The model velocity
+distributions of groups and clusters of galaxies are compared with
+observations. The data are generally consistent with the models, but exhibit a
+somewhat larger high-velocity tail, to $v_r \sim 3000$ km s$^{-1}$. While this
+high-velocity tail is similar to the HDM model predictions, the data are
+consistent with the other models studied, including the low-density CDM model,
+which best fits most other large-scale structure observations. The observed
+velocity
+","[{""version"":""v1"",""created"":""Fri, 8 Apr 1994 20:21:17 GMT""}]","2007-05-23"
+"cond-mat/9404018","Jared Levy","J. L. Levy and R. B. Laughlin","Spin Susceptibility and Gap Structure of the Fractional-Statistics Gas","35 pages, written in REVTeX, 16 figures available upon request from
+  jared@large.stanford.edu",,"10.1103/PhysRevB.50.7107",,"cond-mat",,"  This paper establishes and tests procedures which can determine the electron
+energy gap of the high-temperature superconductors using the $t\!-\!J$ model
+with spinon and holon quasiparticles obeying fractional statistics. A simpler
+problem with similar physics, the spin susceptibility spectrum of the spin 1/2
+fractional-statistics gas, is studied. Interactions with the density
+oscillations of the system substantially decrease the spin gap to a value of
+$(0.2 \pm 0.2)$ $\hbar \omega_c$, much less than the mean-field value of
+$\hbar\omega_c$. The lower few Landau levels remain visible, though broadened
+and shifted, in the spin susceptibility. As a check of the methods, the
+single-particle Green's function of the non-interacting Bose gas viewed in the
+fermionic representation, as computed by the same approximation scheme, agrees
+well with the exact results. The same mechanism would reduce the gap of the
+$t\!-\!J$ model without eliminating it.
+","[{""version"":""v1"",""created"":""Sat, 9 Apr 1994 00:16:58 GMT""}]","2009-10-22"
+"cond-mat/9404019",,"M. Grilli and C. Castellani (Dipartimento di Fisica, Universit\'a La
+  Sapienza, Piazzale Aldo Moro, Roma, Italy)","The Electron-Phonon Interaction in the Presence of Strong Correlations","LateX 3.14, 04.11.1994 Preprint no.1012",,"10.1103/PhysRevB.50.16880",,"cond-mat",,"  We investigate the effect of strong electron-electron repulsion on the
+electron-phonon interaction from a Fermi-liquid point of view: the strong
+interaction is responsible for vertex corrections, which are strongly dependent
+on the $v_Fq/\omega$ ratio. These corrections generically lead to a strong
+suppression of the effective coupling between quasiparticles mediated by a
+single phonon exchange in the $v_Fq/\omega \gg 1$ limit. However, such effect
+is not present when $v_Fq/\omega \ll 1$. Analyzing the Landau stability
+criterion, we show that a sizable electron-phonon interaction can push the
+system towards a phase-separation instability. A detailed analysis is then
+carried out using a slave-boson approach for the infinite-U three-band Hubbard
+model. In the presence of a coupling between the local hole density and a
+dispersionless optical phonon, we explicitly confirm the strong dependence of
+the hole-phonon coupling on the transferred momentum versus frequency ratio. We
+also find that the exchange of phonons leads to an unstable phase with negative
+compressibility already at small values of the bare hole-phonon coupling. Close
+to the unstable region, we detect Cooper instabilities both in s- and d-wave
+channels supporting a possible connection between phase separation and
+superconductivity in strongly correlated systems.
+","[{""version"":""v1"",""created"":""Sat, 9 Apr 1994 12:04:00 GMT""}]","2009-10-22"
+"gr-qc/9404014","Ian Moss","Ian G. Moss","Exotic Black Holes","12 pages, NCL94-TP2 (LaTeX)",,,,"gr-qc",,"  Black hole solutions can be used to shed light on general issues in General
+Relativity and Quantum Physics. Black--hole hair, entropy and naked
+singularities are considered here, along with some implications for the
+inflationary universe scenario.
+","[{""version"":""v1"",""created"":""Fri, 8 Apr 1994 16:12:15 GMT""}]","2007-05-23"
+"gr-qc/9404015","Ian Moss","Chris M. Chambers and Ian G. Moss","Stability of the Cauchy horizon in Kerr--de Sitter spacetimes","21 pages, NCL93-TP10 (TeX)","Class.Quant.Grav.11:1035-1054,1994","10.1088/0264-9381/11/4/019",,"gr-qc",,"  We begin a program of work aimed at examining the interior of a rotating
+black hole with a non--zero cosmological constant. The generalisation of
+Teukolsky's equation for the radial mode functions is presented. It is shown
+that the energy fluxes of scalar, electromagnetic and gravity waves are regular
+at the Cauchy horizon whenever the surface gravity there is less than the
+surface gravity at the cosmological horizon. This condition is narrowly
+allowed, even when the cosmological constant is very small, thus permitting an
+observer to pass through the hole, viewing the naked singularity along the way.
+","[{""version"":""v1"",""created"":""Fri, 8 Apr 1994 16:21:27 GMT""}]","2010-04-06"
+"hep-ph/9404238",,"D.G.Lee, R.N.Mohapatra, M.K.Parida and M.Rani","Predictions for Proton Lifetime in Minimal Non-Supersymmetric SO(10)
+  Models: An Update","UMD-PP-94-117 ( 20 pages;latex; no figures )","Phys.Rev. D51 (1995) 229-235","10.1103/PhysRevD.51.229",,"hep-ph",,"  We present our best estimates of the uncertainties due to heavy particle
+threshold corrections on the unification scale $M_U$, intermediate scale $M_I$
+and coupling constant Alpha_U in the minimal non-supersymmetric SO(10) models.
+Using these , we update the predictions for proton life-time in these models.
+","[{""version"":""v1"",""created"":""Fri, 8 Apr 1994 16:24:05 GMT""}]","2009-10-28"
+"hep-ph/9404239","Jose Ramon Pelaez","A.Dobado, J.R.Pelaez (Departamento de Fisica Teorica, Universidad
+  Complutense de Madrid)","The Equivalence Theorem for Chiral Lagrangians","18 pages, LaTeX, FT/UCM/2/94 (We have corrected some errata)","Phys.Lett.B329:469-478,1994; Addendum-ibid.B335:554,1994","10.1016/0370-2693(94)91092-8",,"hep-ph",,"  In this work we derive the version of the Equivalence Theorem that applies
+when the symmetry breaking sector of the Standard Model is described by a
+general chiral lagrangian. The demonstration is valid for renormalized fields
+for any value of the gauge parameter (in $R_{\xi}$ gauges) and any
+parametrization of the coset space. It is based in the absence of gauge
+anomalies which makes it possible to build an (anti)-BRS invariant chiral
+lagrangian in terms of the renormalized fields and therefore to use the
+corresponding Ward identities to obtain the theorem.
+","[{""version"":""v1"",""created"":""Fri, 8 Apr 1994 17:06:50 GMT""},{""version"":""v2"",""created"":""Thu, 21 Apr 1994 12:53:54 GMT""}]","2019-08-17"
+"hep-ph/9404240","Mark Wise","Yu-Qi Chen and Mark B. Wise","Remark on Charm Quark Fragmentation to $D^{**}$ Mesons","6 pages, CALT-68-1928","Phys.Rev. D50 (1994) 4706-4707","10.1103/PhysRevD.50.4706",,"hep-ph",,"  The observed $D^{**}$ mesons have $c\bar q$ flavor quantum numbers and
+spin-parity of the light degrees of freedom $s_\ell^{\pi_{\ell}} = 3/2^+$. In
+the $m_c \rightarrow \infty$ limit the spin of the charm quark is conserved and
+the $c \rightarrow D^{**}$ fragmentation process is characterized by the
+probability for the charm quark to fragment to a $D^{**}$ meson with a given
+helicity for the light degrees of freedom. We consider the calculated $b
+\rightarrow B_c^{**}$ fragmentation functions in the limit $m_c/m_b \rightarrow
+0$ as a qualitative model for the $c \rightarrow D^{**}$ fragmentation
+functions. We find that in this model charm quark fragmentation to
+$s_\ell^{\pi_{\ell}} = 3/2^+$ light degrees of freedom with helicities $\pm
+1/2$ is favored over fragmentation to $s_\ell^{\pi_{\ell}} = 3/2^+$ light
+degrees of freedom with helicities $\pm 3/2$.
+","[{""version"":""v1"",""created"":""Fri, 8 Apr 1994 19:03:24 GMT""}]","2009-10-28"
+"hep-ph/9404241",,"Yue-Liang Wu","A Model of CP Violation","80 pages (no figures), Latex, (with corrections of minor misprints
+  indicated at the beginning of the file. for hard copy available upon
+  request), CMU-HEP94-01, DOE-ER/40682-54",,,,"hep-ph",,"  It is shown that a two-Higgs doublet model with Vacuum CP Violation and
+Approximate Global $U(1)$ Family Symmetries (AGUFS) may provide one of the
+simplest and attractive models in understanding origin and mechanisms of CP
+violation at the weak scale. The whole new interactions of the model are
+explicitly presented here. It is seen that CP violation can occur, after
+spontaneous symmetry breaking, everywhere it can from a single CP-phase in the
+vacuum. It is also shown that ""the mechanism of spontaneous symmetry breaking
+provides not only a mechanism for giving mass to the bosons and the fermions,
+but also a mechanism for generating CP-phase of the bosons and the fermions"".
+Four types of CP-violating mechanism are classified. A new type of CP-violating
+mechanism is emphasized and can provide a consistent application to both the
+established and the reported CP-violating phenomena. The smallness of the CKM
+mixing angles and the induced KM-type CP-violating effects as well as the
+suppression of flavor-changing neutral scalar interactions can be attributed to
+the AGUFS and Partial Conservation of Neutral Flavor (PCNF). This suggests that
+if one Higgs doublet is necessary for generation of mass, two Higgs doublets
+are then needed for origin and phenomenology of CP violation. Various
+interesting phenomenological features arising from this model are analyzed.
+Their experimental implications and importance are discussed and emphasized.
+Directly searching for the exotic Higgs bosons introduced in this model is
+worthwhile at both $e^{+}e^{-}$ and hadron colliders.
+","[{""version"":""v1"",""created"":""Fri, 8 Apr 1994 19:23:04 GMT""},{""version"":""v2"",""created"":""Wed, 27 Apr 1994 14:17:39 GMT""}]","2008-02-03"
+"hep-ph/9404243","PostDoc Its","N. Deshpande, Xiao-Gang He and E. Keith","Proton Life-Time Problem In Finite Grand Unified Theories","10 pages, revtex, OITS-540","Phys.Lett.B332:88-92,1994","10.1016/0370-2693(94)90863-X",,"hep-ph",,"  We study proton decay in finite supersymmetric SU(5) grand unified theories.
+We find that the dimension-five operators due to color triplet higgsino induce
+too rapid a proton decay. This behaviour can be traced to the large Yukawa
+couplings to the first generation that are necessary for finiteness.
+","[{""version"":""v1"",""created"":""Fri, 8 Apr 1994 21:38:05 GMT""}]","2011-07-19"
+"hep-ph/9404244","J. Gunion","J.F. Gunion and T. Han","Standard Model Higgs Physics at a 4 TeV Upgraded Tevatron","21 pages; requires phyzzx.tex and tables.tex; full postscript file
+  including embedded figures available via anonymous ftp at ucdhep.ucdavis.edu
+  as [anonymous.gunion]4tev.ps, preprint UCD-94-10","Phys.Rev. D51 (1995) 1051-1063","10.1103/PhysRevD.51.1051",,"hep-ph",,"  We compute an array of Standard Model Higgs boson ($\hsm$) signals and
+backgrounds for a possible upgrade of the Tevatron to $E_{\rm cm}=4\tev$.
+Taking $\mt\geq 140\gev$, and assuming a total accumulated luminosity of
+$L=30\fbi$, we find that a Standard Model Higgs boson with $\mhsm\lsim 110\gev$
+could almost certainly be detected using the $\wpm\hsm\rta l\nu b\anti b$ mode.
+A Higgs boson with mass between $\sim 120\gev$ and $\sim 140\gev$ or above
+$\sim 230-250\gev$ almost certainly would not be seen. A Higgs boson with
+$\mhsm\sim 150\gev$ or $200\lsim\mhsm\lsim 230-250\gev$ has a decent chance of
+being detected in the $ZZ\rta 4l$ mode. There would also be some possibility of
+discovering the $\hsm$ in the $WW\rta l\nu jj$ mode for $150\lsim\mhsm\lsim
+200\gev$. Finally, hints of an event excess in the $WW\rta ll \nu\nu$ mode due
+to the $\hsm$ might emerge for $140\lsim\mhsm\lsim 180\gev$. Given the
+difficult nature of the Higgs boson signals for $\mhsm$ values beyond the reach
+of LEP-200, and the discontinuous $\mhsm$ range that could potentially be
+probed, justification of an upgrade of the Tevatron to $4\tev$ on the basis of
+its potential for Standard Model Higgs boson discovery would seem
+inappropriate.
+","[{""version"":""v1"",""created"":""Sat, 9 Apr 1994 02:45:29 GMT""}]","2009-10-28"
+"hep-th/9404050","Didina Serban","D. Bernard, V. Pasquier and D. Serban","Spinons in Conformal Field Theory","18 pages","Nucl.Phys.B428:612-628,1994","10.1016/0550-3213(94)90366-2","SPhT/94/039","hep-th",,"  We study the $su(2)$ conformal field theory in its spinon description,
+adapted to the Yangian invariance. By evaluating the action of the Yangian
+generators on the primary fields, we find a new connection between this
+conformal field theory and the Calogero-Sutherland model with $su(2)$ spin. We
+use this connection to describe how the spinons are the quasi-particles
+spanning the irreducible Yangian multiplet, and also to exhibit operators
+creating the $N$-spinon highest weight vectors.
+","[{""version"":""v1"",""created"":""Fri, 8 Apr 1994 16:12:30 GMT""}]","2008-11-26"
+"hep-th/9404051","Fis. Teorica. Valladolid.","Angel Ballesteros and Javier Negro","Multiboson Expansions for the q-Oscillator and $SU(1,1)_q$","13 pages, AMS-TEX file, UVA/93-92",,"10.1016/0375-9601(94)90108-2",,"hep-th",,"  All the hermitian representations of the ``symmetric"" $q$-oscillator are
+obtained by means of expansions. The same technique is applied to characterize
+in a systematic way the $k$-order boson realizations of the $q$-oscillator and
+$su(1,1)_q$. The special role played by the quadratic realizations of
+$su(1,1)_q$ in terms of boson and $q$-boson operators is analysed and
+clarified.
+","[{""version"":""v1"",""created"":""Fri, 8 Apr 1994 20:13:00 GMT""}]","2009-10-28"
+"hep-th/9404052","Fis. Teorica. Valladolid.","A. Ballesteros, F.J. Herranz, M.A. del Olmo and M. Santander","Quantum Algebras for Maximal Motion Groups of N-Dimensional Flat Spaces","10 pages, AMS-TEX file","Lett.Math.Phys. 33 (1995) 273-281","10.1007/BF00749681","UVA/93-102","hep-th math.QA",,"  An embedding method to get $q$-deformations for the non--semisimple algebras
+generating the motion groups of $N$--dimensional flat spaces is presented. This
+method gives a global and simultaneous scheme of $q$-deformation for all
+$iso(p,q)$ algebras and for those ones obtained from them by some
+In\""on\""u--Wigner contractions, such as the $N$--dimensional Euclidean,
+Poincar\'e and Galilei algebras.
+","[{""version"":""v1"",""created"":""Fri, 8 Apr 1994 20:37:00 GMT""}]","2009-10-28"
+"hep-th/9404053","Kefeng Liu","Kefeng Liu","Modular Invariance and Characteristic Numbers","14 pages","Commun.Math.Phys.174:29-42,1995","10.1007/BF02099462",,"hep-th math.QA",,"  We show that a general miraculous cancellation formula, the divisibility of
+certain characteristic numbers and some other topologiclal results are con-
+sequences of the modular invariance of elliptic operators on loop spaces.
+Previously we have shown that modular invariance also implies the rigidity of
+many elliptic operators on loop spaces.
+","[{""version"":""v1"",""created"":""Fri, 8 Apr 1994 20:42:52 GMT""}]","2011-07-19"
+"hep-th/9404054","Ulrich Meyer","Ulrich Meyer","Wave Equations on q-Minkowski space","29 pages, DAMTP/94-10, LATEX","Commun.Math.Phys. 174 (1995) 457-476","10.1007/BF02101524",,"hep-th",,"  We give a systematic account of the exterior algebra of forms on q-Minkowski
+space, introducing the q-exterior derivative, q-Hodge star operator,
+q-coderivative, q-Laplace-Beltrami operator and the q-Lie-derivative. With
+these tools at hand, we then give a detailed exposition of the q-d'Alembert and
+q-Maxwell equation. For both equations we present a q-momentum-indexed family
+of plane wave solutions. We also discuss the gauge freedom of the q-Maxwell
+field and give a q-spinor analysis of the q-field strength tensor.
+","[{""version"":""v1"",""created"":""Sat, 9 Apr 1994 12:05:12 GMT""}]","2015-06-26"
+"math/9404237","Feliks Przytycki","Feliks Przytycki","Iterations of rational functions: which hyperbolic components contain
+  polynomials?",,,,"Stony Brook IMS 1994/6","math.DS",,"  Let $H^d$ be the set of all rational maps of degree $d\ge 2$ on the Riemann
+sphere which are expanding on Julia set. We prove that if $f\in H^d$ and all or
+all but one critical points (or values) are in the immediate basin of
+attraction to an attracting fixed point then there exists a polynomial in the
+component $H(f)$ of $H^d$ containing $f$. If all critical points are in the
+immediate basin of attraction to an attracting fixed point or parabolic fixed
+point then $f$ restricted to Julia set is conjugate to the shift on the
+one-sided shift space of $d$ symbols.
+  We give exotic examples of maps of an arbitrary degree $d$ with a non-simply
+connected, completely invariant basin of attraction and arbitrary number $k \ge
+2$ of critical points in the basin. For such a map $f\in H^d$ with $k<d$ there
+is no polynomial in $H(f)$.
+  Finally we describe a computer experiment joining an exotic example to a
+Newton's method (for a polynomial) rational function with a 1-parameter family
+of rational maps.
+","[{""version"":""v1"",""created"":""Sat, 9 Apr 1994 00:00:00 GMT""}]","2016-09-06"

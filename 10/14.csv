@@ -1,0 +1,265 @@
+"astro-ph/9410041","Chris Aikman","C.L. Morbey, O. Le Fevre, F. Hammer, L. Tresse, S. J. Lilly and D.J.
+  Schade","Surveys for Z>1 Field Galaxies; David Crampton","6 pages PlainTex, 5 figures on request, SISSA-DAO-94-005",,,,"astro-ph",,"  In the course of the comprehensive CFRS redshift survey to I = 22.5 with the
+CFHT MOS/SIS spectrograph, we have observed ~25 field galaxies with z > 1.
+However, it is clear that almost an equal number, predominantly red galaxies,
+have likely been missed largely because of limitations in the observed
+wavelength range. The properties of the observed galaxies and the reasons for
+the presumed incompleteness are briefly discussed in this contribution, and
+strategies for improving our methods of observing high redshift galaxies are
+explored. In particular, it is demonstrated that sky subtraction to the
+required limiting magnitude is possible even with very low spectral resolution,
+and that new IR arrays and new optical designs for multi-object spectrographs
+will allow us to easily reach field galaxies at z > 1.
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 17:49:55 GMT""}]","2007-05-23"
+"astro-ph/9410042","Chris Aikman","T. J. Davidge","V and I Photometry of Bright Giants in the Central Regions of NGC 147","18 pages LaTeX, 7 figures upon request, SISSA-DAO-94-006","Astron.J. 108 (1994) 2123-2127","10.1086/117224",,"astro-ph",,"  Deep V and I CCD images with sub-arcsec spatial resolution are used to
+investigate the stellar content of the central regions of the Local Group dwarf
+elliptical galaxy NGC147. Red giant branch (RGB) stars are resolved over the
+entire field, and the RGB-tip occurs at I ~ 20.5, suggesting that the distance
+modulus is 24.3. A comparison with globular cluster sequences indicates that
+the center of NGC147 is moderately metal-poor, with [Fe/H] ~ -1. This is not
+significantly different from what was found in the outer regions of the galaxy
+by Mould, Kristian & Da Costa (1983, ApJ, 270, 471). Moreover, the width of the
+V-I color distribution at I = 21.0 indicates that a spread in metallicity is
+present, with sigma[Fe/H] ~ +/- 0.3. There is no evidence of a component more
+metal-poor than [Fe/H] ~ -1.3. A small population of moderately bright
+asymptotic giant branch (AGB) stars has also been detected, and the AGB-tip
+occurs near M{bol} ~ -5.0, indicating that an intermediate-age population is
+present. It is estimated that the intermediate-age population contributes ~
+2-3% of the V light from NGC147.
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 18:01:46 GMT""}]","2009-10-22"
+"astro-ph/9410043","Simon White","Simon D.M. White","Formation and Evolution of Galaxies: Les Houches Lectures","77 pages, postscript",,,"MPA 831","astro-ph",,"  This is a set of lecture notes based on the lectures on the formation and
+evolution of galaxies which were given by S. White at Les Houches in August
+1993. This postscript file does not contain the 16 figures. A version
+containing these figures can be obtained by writing to: Fr. C. Rickl, MPI fuer
+Astrophysik, Karl-Schwarzschildstr. 1, 85740 Garching, Germany
+(car@mpa-garching.mpg.de).
+","[{""version"":""v1"",""created"":""Fri, 14 Oct 1994 10:57:41 GMT""}]","2009-09-25"
+"chao-dyn/9410001","Christian Forst","Peter F. Stadler (ITC, SFI), Wolfgang Schnabl (ITC, Alcatel Austria),
+  Christian V. Forst (IMB), and Peter Schuster (ITC, SFI, IMB) (ITC: Inst. of
+  Theoretical Chemistry, Univ. Vienna, Austria; SFI: Santa Fe Inst., New Mexico
+  IMB: Inst. of Molecuar Biotechnology, Jena, Germany)","Dynamics of Small Autocatalytic Reaction Network II: Replication,
+  Mutation and Catalysis","49 pages uuencoded compressed poscript file (all figures included) -
+  490Kbyte",,,,"chao-dyn nlin.CD",,"  Mutation is introduced into autocatalytic reaction networks. Examples of low
+dimensional dynamical systems --- n = 2, 3 and 4 --- are discussed and complete
+qualitative analysis is presented. Error thresholds known from simple
+replication-mutation kinetics with frequency independent replication rates
+occur here as well. Instead of cooperative transitions or higher order phase
+transistions the thresholds appear here as supercritical or subcritical
+bifurcations being analogous to first order phase transitions.
+","[{""version"":""v1"",""created"":""Fri, 14 Oct 1994 09:05:47 GMT""}]","2008-02-03"
+"cond-mat/9410045",,"Klaus Richter","Phase--coherence Effects in Antidot Lattices: A Semiclassical Approach
+  to Bulk Conductivity","11 pages, 2 figures available under request, RevTex",,"10.1209/0295-5075/29/1/002",,"cond-mat chao-dyn nlin.CD",,"  We derive semiclassical expressions for the Kubo conductivity tensor. Within
+our approach the oscillatory parts of the diagonal and Hall conductivity are
+given as sums over contributions from classical periodic orbits in close
+relation to Gutzwiller's trace formula for the density of states. Taking into
+account the effects of weak disorder and temperature we reproduce recently
+observed anomalous phase coherence oscillations in the conductivity of large
+antidot arrays.
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 17:02:41 GMT""}]","2009-10-22"
+"cond-mat/9410046","Mark Srednicki","Mark Srednicki","Does Quantum Chaos Explain Quantum Statistical Mechanics?","8 pages in RevTeX 3.0; revised version contains an improved
+  discussion of quantum chaos more accessible to nonspecialists",,,"UCSB-TH-94-40","cond-mat chao-dyn hep-ph hep-th nlin.CD",,"  If a many-body quantum system approaches thermal equilibrium from a generic
+initial state, then the expectation value $\langle\psi(t)|A_i|\psi(t)\rangle$,
+where $|\psi(t)\rangle$ is the system's state vector and $A_i$ is an
+experimentally accessible observable, should approach a constant value which is
+independent of the initial state, and equal to a thermal average of $A_i$ at an
+appropriate temperature. We show that this is the case for all simple
+observables whenever the system is classically chaotic.
+","[{""version"":""v1"",""created"":""Fri, 14 Oct 1994 06:11:51 GMT""},{""version"":""v2"",""created"":""Thu, 20 Apr 1995 22:50:21 GMT""}]","2008-02-03"
+"cond-mat/9410047",,"A.H. MacDonald","Introduction to the Physics of the Quantum Hall Regime","50 pages, Figures available upon request, IUCM94-014",,,,"cond-mat",,"  These lecture notes attempt to explain the main ideas of the theory of the
+quantum Hall effect. The emphasis is on the localization and interaction
+physics in the extreme quantum limit which gives rise to the quantum Hall
+effect. The interaction physics in the extreme quantum limit which is
+responsible for the fractional quantum Hall effect is discussed at length and
+from an elementary point of view.
+","[{""version"":""v1"",""created"":""Fri, 14 Oct 1994 15:41:40 GMT""}]","2007-05-23"
+"hep-ph/9410278",,"N.B.Shul'gina (The Niels Bohr Institute, Permanent address: The
+  Kurchatov Institute, Moscow)","Right Handed Weak Currents in Sum Rules for Axialvector Constant
+  Renormalization","to be published in Phys. Rev. Lett. LaTeX, 8 pages, 21 kb","Phys.Rev.Lett. 73 (1994) 2658-2661","10.1103/PhysRevLett.73.2658","Preprint NBI-94-18","hep-ph nucl-th",,"  The recent experimental results on deep inelastic polarized lepton scattering
+off proton, deuteron and $^{3}$He together with polari% zed neutron
+$\beta$-decay data are analyzed. It is shown that the problem of Ellis-Jaffe
+and Bjorken sum rules deficiency and the neutron paradox could be solved
+simultaneously by assuming the small right handed current (RHC) admixture in
+the weak interaction Lagrangian. The possible RHC impact on pion-nucleon
+$\sigma$-term and Gamow-Teller sum rule for $(p,n)$ nuclear reactions is
+pointed out.
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 16:28:15 GMT""},{""version"":""v2"",""created"":""Sat, 15 Oct 1994 11:49:52 GMT""}]","2009-10-28"
+"hep-ph/9410280","Alexander Khodjamirian","V.M. Belyaev, V.M. Braun, A. Khodjamirian and R. R\""uckl","$D^*D\pi$ and $B^*B\pi$ couplings in QCD","27 pages (LATEX) +3 figures enclosed as .uu file MPI-PhT/94-62 ,
+  CEBAF-TH-94-22, LMU 15/94","Phys.Rev.D51:6177-6195,1995","10.1103/PhysRevD.51.6177",,"hep-ph",,"  We calculate the $D^*D\pi$ and $B^*B\pi$ couplings using QCD sum rules on the
+light-cone. In this approach, the large-distance dynamics is incorporated in a
+set of pion wave functions. We take into account two-particle and
+three-particle wave functions of twist 2, 3 and 4. The resulting values of the
+coupling constants are $g_{D^*D\pi}= 12.5\pm 1$ and $g_{B^*B\pi}= 29\pm 3 $.
+From this we predict the partial width $ \Gamma (D^{*+} \ra D^0 \pi^+ )=32 \pm
+5~ keV $. We also discuss the soft-pion limit of the sum rules which is
+equivalent to the external axial field approach employed in earlier
+calculations. Furthermore, using $g_{B^*B\pi}$ and $g_{D^*D\pi}$ the pole
+dominance model for the $ B \ra \pi$ and $D\ra \pi$ semileptonic form factors
+is compared with the direct calculation of these form factors in the same
+framework of light-cone sum rules.
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 20:48:54 GMT""}]","2014-11-17"
+"hep-ph/9410281","Tomislav Prokopec","Michael Joyce, Tomislav Prokopec, Neil Turok","Non-local Electroweak Baryogenesis Part I : Thin Wall Regime","Final version to appear in Phys. Rev. D.; various minor additions and
+  corrections, new appendices on reflection coefficients and thermal effects,
+  additional references. 51 page, simple tex, 5 figures in a compressed file","Phys.Rev.D53:2930-2957,1996","10.1103/PhysRevD.53.2930","PUP-TH-1495 (1994)","hep-ph astro-ph",,"  We investigate `non-local' schemes for baryogenesis at a first order
+electroweak phase transition, in which the effects of a $CP$ violating
+condensate on the bubble wall propagate into the unbroken phase where the
+sphaleron rate is unsupressed. Such a condensate exists in multi-Higgs
+extensions of the standard model, and may exist due to an instability in the
+minimal standard model. In this paper we first discuss the general problem of
+determining the $CP$ violating perturbations, distinguishing two regimes
+(quantum and classical). We then give an analytic treatment of quantum
+mechanical reflection in the thin wall regime, in which interactions with the
+plasma can be neglected as a particle propagates across the wall. We focus on
+leptons because of their much weaker coupling to the plasma. We argue that they
+are likely to be accurately described by this calculation, but quarks are not.
+The relative magnitude of the baryon asymmetry produced for different fermions
+depends on their relative Yukawa couplings ({\it not} their zero temperature
+masses), their transport properties and their interactions. We calculate the
+baryon asymmetry for various parameter ranges and conclude that asymmetries
+comparable with observations can be generated.
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 22:44:00 GMT""},{""version"":""v2"",""created"":""Wed, 25 Oct 1995 10:41:43 GMT""},{""version"":""v3"",""created"":""Mon, 30 Oct 1995 19:09:09 GMT""},{""version"":""v4"",""created"":""Tue, 31 Oct 1995 19:43:21 GMT""}]","2019-08-15"
+"hep-ph/9410282","Tomislav Prokopec","Michael Joyce, Tomislav Prokopec, Neil Turok","Non-local Electroweak Baryogenesis Part II : The Classical Regime","Final version to appear in Phys. Rev. D.; second half of the paper
+  restructured and simplified, numerous smaller changes and corrections, new
+  appendix on thermal corrections, additional references. 41 pages, simple tex,
+  4 figures in a compressed file","Phys.Rev.D53:2958-2980,1996","10.1103/PhysRevD.53.2958","PUP-TH-1496 (1994)","hep-ph astro-ph",,"  We investigate baryogenesis at a first order electroweak phase transition in
+the presence of a CP violating condensate on the bubble walls, in the regime in
+which the bubble walls are `thick', in the sense that fermions interact with
+the plasma many times as the bubble wall passes. Such a condensate is present
+in multi-Higgs extensions of the standard model and may be formed via an
+instability in the minimal standard model. We concentrate on particles with
+typical thermal energies in the plasma, whose interactions with the wall are
+accurately described by the WKB approximation, in which a classical chiral
+force is evident. The deviations from thermal equilibrium produced by motion of
+the wall are then treated using a classical Boltzmann equation which we solve
+in a fluid approximation. From the resulting equations we find two effects
+important for baryogenesis: (i) a classical chiral force term due to the $CP$
+violating background, and (ii) a term arising from hypercharge violating
+interactions which are pushed out of equilibrium by the background{field.
+Provided the wall propagates slower than the speed of sound, both terms lead to
+the diffusion of a chiral asymmetry in front of the wall. This can produce a
+baryon asymmetry of the observed magnitude for typical wall velocities and
+thicknesses.
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 22:52:00 GMT""},{""version"":""v2"",""created"":""Wed, 25 Oct 1995 10:54:23 GMT""},{""version"":""v3"",""created"":""Mon, 30 Oct 1995 19:19:30 GMT""},{""version"":""v4"",""created"":""Tue, 31 Oct 1995 19:44:29 GMT""}]","2019-08-15"
+"hep-ph/9410283",,"H. Baer, C. Kao and X. Tata","Impact of R-Parity Violation on Supersymmetry Searches at the Tevatron","preprint nos. FSU-HEP-941001, UR-1387, ER-40685-836 and
+  UH-511-807-94, 13 pages (REVTEX) plus 3 uuencoded figures attached","Phys.Rev. D51 (1995) 2180-2186","10.1103/PhysRevD.51.2180",,"hep-ph",,"  We evaluate cross sections for $\eslt$, 1$\ell$ and various dilepton and
+multilepton event topologies that result from the simultaneous production of
+all sparticles at the Tevatron collider, both within the minimal model
+framework as well as in two different $R$-parity violating scenarios. Our
+analysis assumes that these $R$-violating couplings are small, and that their
+sole effect is to cause the lightest supersymmetric particle to decay inside
+the detector. We reassess future strategies for sparticle searches at the
+Tevatron, and quantify by how much the various signals for supersymmetry could
+differ from their minimal model expectations, if $R$-parity is not conserved
+due to either baryon number or lepton number violating operators. We also
+evaluate the Tevatron reach in $m_{\tg}$ for the various models, and find that
+rate-limited multilepton signals ultimately provide the largest reach for both
+$R$-parity conserving and $R$-parity violating cases.
+","[{""version"":""v1"",""created"":""Fri, 14 Oct 1994 02:18:51 GMT""}]","2009-10-28"
+"hep-ph/9410284","Gye Tai Park","Jihn E. Kim and Gye T. Park","Probing Supergravity Models with Indirect Experimental Signatures","RevTeX 3.0, 16 Pages+4 figures(not included but available as a
+  uuencoded file from gtpark@phyb.snu.ac.kr), SNUTP-94-95","Phys.Rev.D51:2444-2450,1995","10.1103/PhysRevD.51.2444",,"hep-ph",,"  We explore the one-loop electroweak radiative corrections in the context of
+the traditional minimal $SU(5)$ and the string-inspired $SU(5)\times U(1)$
+supergravity models by calculating explicitly vacuum-polarization and
+vertex-correction contributions to the $\epsilon_1$ and $\epsilon_b$
+parameters. We also include in this analysis the constraint from $b\rightarrow
+s\gamma$ whose inclusive branching ratio $B(b\rightarrow s\gamma)$ has been
+actually measured very recently by CLEO. We find that by combining these three
+most important indirect experimental signatures and using the most recent
+experimental values for them, $m_t\gtrsim 170 {\rm GeV}$ is excluded for
+$\mu>0$ in both the minimal $SU(5)$ supergravity and the no-scale $SU(5)\times
+U(1)$ supergravity. We also find that $m_t\gtrsim 175(185) {\rm GeV}$ is
+excluded for any sign of $\mu$ in the minimal ($SU(5)\times U(1)$) supergravity
+model.
+","[{""version"":""v1"",""created"":""Fri, 14 Oct 1994 02:22:39 GMT""}]","2009-11-05"
+"hep-ph/9410285","Hitoshi Murayama","Hitoshi Murayama (LBL)","Supersymmetry","LBL-36175, LaTeX, 27 pages. Psfig1.9 required. Invited talk presented
+  at the 22nd INS International Symposium on Physics with High Energy
+  Colliders, Tokyo, Japan, March 8--10, 1994, to appear in Proceedings of INS
+  Symposium. The original version submitted in June, only references and
+  spellings corrected. Five EPS figures appended in uuencoded format",,,,"hep-ph",,"  I review phenomenologically interesting aspects of supersymmetry. First I
+point out that the discovery of the positron can be regarded as a historic
+analogue to the would-be discovery of supersymmetry. Second I review the recent
+topics on the unification of the gauge coupling constants, $m_b$--$m_\tau$
+relation, proton decay, and baryogenesis. I also briefly discuss the recent
+proposals to solve the problem of flavor changing neutral currents. Finally I
+argue that the measurements of supersymmetry parameters may probe the physics
+at the Planck scale.
+","[{""version"":""v1"",""created"":""Fri, 14 Oct 1994 05:39:17 GMT""}]","2007-05-23"
+"hep-ph/9410286","Fred Hawes","Frederick T. Hawes and Anthony G. Williams","Chiral Symmetry Breaking in Quenched Massive Strong-Coupling QED$_4$","REVTEX 3.0, 15 pages plus 7 uuencoded PostScript figures","Phys.Rev.D51:3081-3089,1995","10.1103/PhysRevD.51.3081","ADP-94-15/T156, FSU-SCRI-94-98","hep-ph",,"  We present results from a study of subtractive renormalization of the fermion
+propagator Dyson-Schwinger equation (DSE) in massive strong-coupling quenched
+QED$_4$. Results are compared for three different fermion-photon proper vertex
+{\it Ans\""{a}tze\/}: bare $\gamma^\mu$, minimal Ball-Chiu, and
+Curtis-Pennington. The procedure is straightforward to implement and
+numerically stable. This is the first study in which this technique is used and
+it should prove useful in future DSE studies, whenever renormalization is
+required in numerical work.
+","[{""version"":""v1"",""created"":""Fri, 14 Oct 1994 07:08:00 GMT""}]","2016-09-01"
+"hep-ph/9410287","Domenec Espriu","D.Espriu","Perturbative QCD","45 pages and 36 figures (not included, available upon request), TeX,
+  UB-ECM-PF-94/24",,,,"hep-ph",,"  This is the written version of a set of lectures on perturbative QCD that
+were delivered to a mixed audience of young theorists and experimentalists in
+the course of the XXII International Meeting on Fundamental Physics. These
+notes are virtually a verbatim transcription of the lectures. The selection of
+topics is somewhat arbitrary, but two basic points are emphasized: the
+rationale behind QCD and how ongoing experiments, such as those taking place in
+LEP and HERA, contribute to our understanding of strong interactions. The
+lectures are thus roughly divided into three parts: foundations of QCD,
+determination of $\alpha_s$ and jet physics, and deep inelastic experiments.
+","[{""version"":""v1"",""created"":""Fri, 14 Oct 1994 15:19:22 GMT""}]","2007-05-23"
+"hep-ph/9410288",,"Zenr\=o Hioki","Studying Structure of Electroweak Corrections","18 pages","Int.J.Mod.Phys. A10 (1995) 3803-3816","10.1142/S0217751X95001790","TUM-T31-80/94","hep-ph",,"  Several different effects in electroweak quantum corrections are explored
+separately through the latest data on the weak-boson masses. The leading-log
+approximation, the improved-Born approximation and the non-decoupling top-quark
+effects are studied without depending on the recent CDF data of $m_t$, and the
+results are given in a form independent of the Higgs mass. On the other hand,
+the bosonic- and the non-decoupling Higgs effects are examined by fully taking
+account of those CDF data. It is emphasized that future precision measurements
+of $M_W$ and $m_t$ are considerably significant not only for further studies of
+the electroweak theory at higher confidence level but also for new physics
+searches beyond it.
+","[{""version"":""v1"",""created"":""Fri, 14 Oct 1994 14:52:55 GMT""}]","2015-06-25"
+"hep-ph/9410289","Thomas Mannel","Ahmed Ali, Gian Giudice, Thomas Mannel","Towards a Model Independent Analysis of Rare $B$ Decays","Contribution to ICHEP94, Glasgow, 20. - 27. July 1994, 5 pages,
+  LaTeX, uses ichep.sty and epsf.sty, 4 uuencoded and compressed figures,
+  CERN-TH.7430/94",,"10.1007/BF01624585",,"hep-ph",,"  We propose to undertake a model-independent analysis of the inclusive decay
+rates and distributions in the processes \bgamaxs~ and \Bsell ~($B=B^\pm$ or
+$B^0_d$). We show how measurements of the decay rates and distributions in
+these processes would allow us to extract the magnitude and sign of the
+dominant Wilson coefficients of the magnetic moment operator $\mb \bar{s}_L
+\sigma_{\mu \nu} b_R F^{\mu \nu }$ and the four-fermion operators $(\bar{s}_L
+\gamma_\mu b_L)(\bar{\ell} \gamma^{\mu} \ell)$ and $(\bar{s}_L \gamma_\mu
+b_L)(\bar{\ell} \gamma^{\mu}\gamma^5 \ell)$.
+","[{""version"":""v1"",""created"":""Fri, 14 Oct 1994 15:49:32 GMT""}]","2009-10-28"
+"hep-th/9410098",,"H. Boschi-Filho, C. Farina and A. de Souza Dutra","The Partition Function for an Anyon-Like Oscillator","LaTex, 9 pages, preprint IF/UFRJ","J.Phys. A28 (1995) L7-L12","10.1088/0022-3727/28/1/003",,"hep-th",,"  We compute the partition function of an anyon-like harmonic oscillator. The
+well known results for both the bosonic and fermionic oscillators are then
+reobtained as particular cases as ours. The technique we employ is a
+non-relativistic version of the Green function method used in the computation
+of one-loop effective actions of quantum field theory.
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 20:00:44 GMT""}]","2009-10-28"
+"hep-th/9410099","Rainer Dick","Rainer Dick","Half-Differentials and Fermion Propagators","22 pages, Latex, IASSNS-HEP-94/83","Rev.Math.Phys. 7 (1995) 689-708","10.1142/S0129055X9500027X",,"hep-th",,"  From a geometric point of view, massless spinors in $3+1$ dimensions are
+composed of primary fields of weights $(\frac{1}{2},0)$ and $(0,\frac{1}{2})$,
+where the weights are defined with respect to diffeomorphisms of a sphere in
+momentum space. The Weyl equation thus appears as a consequence of the
+transformation behavior of local sections of half--canonical bundles under a
+change of charts. As a consequence, it is possible to impose covariant
+constraints on spinors of negative (positive) helicity in terms of
+(anti--)holomorphy conditions. Furthermore, the identification with
+half--differentials is employed to determine possible extensions of fermion
+propagators compatible with Lorentz covariance. This paper includes in
+particular the full derivation of the primary correlators needed in order to
+determine the fermion correlators.
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 23:58:46 GMT""}]","2015-06-26"
+"hep-th/9410100","Christian Schubert","Michael G. Schmidt and Christian Schubert","Multiloop Calculations in the String-Inspired Formalism: The Single
+  Spinor-Loop in QED","uuencoded ps-file, 20 pages, 2 figures, final revised version to
+  appear in Phys. Rev. D","Phys.Rev. D53 (1996) 2150-2159","10.1103/PhysRevD.53.2150","DESY-94-189, HD-THEP-94-25","hep-th hep-ph",,"  We use the worldline path-integral approach to the Bern-Kosower formalism for
+developing a new algorithm for calculation of the sum of all diagrams with one
+spinor loop and fixed numbers of external and internal photons. The method is
+based on worldline supersymmetry, and on the construction of generalized
+worldline Green functions. The two-loop QED $\beta$ -- function is calculated
+as an example.
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 22:49:12 GMT""},{""version"":""v2"",""created"":""Tue, 17 Oct 1995 11:24:26 GMT""},{""version"":""v3"",""created"":""Wed, 18 Oct 1995 18:21:40 GMT""},{""version"":""v4"",""created"":""Mon, 18 Dec 1995 17:39:09 GMT""}]","2009-10-28"
+"solv-int/9410002","Troy Shinbrot","Troy Shinbrot (Northwestern University), J.M. Ottino (Northwestern
+  University)","Maps, PDE's and Solitary Waves","28 pages, Binhexed Macintosh MS Word 5.1 file follows; available in
+  hardcopy by request (shinbrot@merle.acns.nwu.edu). In press: Int. J. Bif. &
+  Chaos",,"10.1142/S0218127495000429",,"solv-int chao-dyn nlin.CD nlin.PS nlin.SI patt-sol",,"  We describe a map-based model which reproduces many of the behaviors seen in
+partial differential equations (PDE's). Like PDE's, we show that this model can
+support an infinite number of stationary solutions, traveling solutions,
+breathing solutions, and elastically colliding solutions. Unlike PDE's, the
+model can be applied with minimal computational machinery, and few sources of
+numerical error. Moreover, this model clarifies possible mechanisms by which
+various coherent solutions are maintained in the face of dispersion.
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 21:58:42 GMT""}]","2015-06-26"

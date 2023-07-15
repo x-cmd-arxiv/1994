@@ -1,0 +1,265 @@
+"alg-geom/9404001","Arnaud Beauville","Arnaud Beauville","Vector bundles on curves and generalized theta functions: recent results
+  and open problems","15 pages, Plain TeX",,,,"alg-geom math.AG",,"  Riemann surface carries a natural line bundle, the determinant bundle. The
+space of sections of this line bundle (or its multiples) constitutes a natural
+non-abelian generalization of the spaces of theta functions on the Jacobian.
+There has been much progress in the last few years towards a better
+understanding of these spaces, including a rigorous proof of the celebrated
+Verlinde formula which gives their dimension. This survey paper tries to
+explain what is now known and what remains open.
+","[{""version"":""v1"",""created"":""Tue, 5 Apr 1994 10:22:54 GMT""}]","2008-02-03"
+"astro-ph/9404002","Maggie Best","John N. Bahcall, et al","Has A Standard Model Solution to the Solar Neutrino Problem Been Found?","8 pages, Latex file (Worldsci.sty file is required). Institute for
+  Advanced Study number AST 94/13","in Solar Modeling}, Proceedings of the Workshop on Solar Modeling,
+  Seattle, WA, March 21-24, 1994, eds. J. N. Bahcall and B. Balantekin (World
+  Scientific: Singapore), pp. 121-127 (1995)",,,"astro-ph",,"  The claim by Dar and Shaviv that they have found a standard model solution to
+the solar neutrino problem is based upon an incorrect assumption made in
+extrapolating nuclear cross sections and the selective use of a small fraction
+of the nuclear physics and of the neutrino data. In addition, five different
+solar model codes show that the rate obtained for the chlorine experiment using
+the Dar-Shaviv stated parameters differs by at least $14 \sigma$ from the
+observed rate.
+","[{""version"":""v1"",""created"":""Mon, 4 Apr 1994 19:12:57 GMT""}]","2007-05-23"
+"chem-ph/9404003",,"A. B. Finnila, M. A. Gomez, C. Sebenik, C. Stenson, and J.D. Doll
+  (Department of Chemistry Brown University, Providence, Rhose Island)","Quantum Annealing: A New Method for Minimizing Multidimensional
+  Functions",,"Chem. Phys. Lett. 219 (1994) pp. 343-348","10.1016/0009-2614(94)00117-0",,"chem-ph physics.chem-ph",,"  Quantum annealing is a new method for finding extrema of multidimensional
+functions. Based on an extension of classical, simulated annealing, this
+approach appears robust with respect to avoiding local minima. Further, unlike
+some of its predecessors, it does not require an approximation to a
+wavefunction. In this paper, we apply the technique to the problem of finding
+the lowest energy configurations of Lennard-Jones clusters of up to 19
+particles (roughly 10$^5$ local minima). This early success suggests that this
+method may complement the widely implemented technique of simulated annealing.
+","[{""version"":""v1"",""created"":""Tue, 5 Apr 1994 09:21:30 GMT""},{""version"":""v2"",""created"":""Fri, 3 Jun 1994 21:33:35 GMT""}]","2009-10-22"
+"funct-an/9404002","Jean-Bruno Erismann","H. Neidhardt, V. A. Zagrebnov","Singular Perturbations, Regularization and Extension Theory","7 pages,CPT-94/P.3011,latex",,,,"funct-an math.FA",,"  We present an abstract result on removing regularization for singular
+potentials which are not semibounded from below. The relation between ``right''
+regularizations and ``right'' self-adjoint extensions of the perturbed
+Schr\""odinger operators is examined.
+","[{""version"":""v1"",""created"":""Tue, 5 Apr 1994 07:43:15 GMT""},{""version"":""v2"",""created"":""Thu, 7 Apr 1994 07:29:04 GMT""}]","2008-02-03"
+"gr-qc/9404003","Brans","Carl H. Brans","Localized Exotic Smoothness","8 pages plus 6 figures, available on request, IASSNS-HEP-94/22","Class.Quant.Grav.11:1785-1792,1994","10.1088/0264-9381/11/7/015",,"gr-qc",,"  Gompf's end-sum techniques are used to establish the existence of an infinity
+of non-diffeomorphic manifolds, all having the same trivial ${\bf R^4}$
+topology, but for which the exotic differentiable structure is confined to a
+region which is spatially limited. Thus, the smoothness is standard outside of
+a region which is topologically (but not smoothly) ${\bf B^3}\times {\bf R^1}$,
+where ${\bf B^3}$ is the compact three ball. The exterior of this region is
+diffeomorphic to standard ${\bf R^1}\times {\bf S^2}\times{\bf R^1}$. In a
+space-time diagram, the confined exoticness sweeps out a world tube which, it
+is conjectured, might act as a source for certain non-standard solutions to the
+Einstein equations. It is shown that smooth Lorentz signature metrics can be
+globally continued from ones given on appropriately defined regions, including
+the exterior (standard) region. Similar constructs are provided for the
+topology, ${\bf S^2}\times {\bf R^2}$ of the Kruskal form of the Schwarzschild
+solution. This leads to conjectures on the existence of Einstein metrics which
+are externally identical to standard black hole ones, but none of which can be
+globally diffeomorphic to such standard objects. Certain aspects of the Cauchy
+problem are also discussed in terms of ${\bf R^4_\Theta}$\models which are
+``half-standard'', say for all $t<0,$ but for which $t$ cannot be globally
+smooth.
+","[{""version"":""v1"",""created"":""Mon, 4 Apr 1994 16:45:25 GMT""}]","2010-04-06"
+"gr-qc/9404004","Gerard Clement","G\'erard Cl\'ement","Particle-like solutions to topologically massive gravity","9 pages (LaTex), GCR-94/04/03","Class.Quant.Grav.11:L115-L120,1994","10.1088/0264-9381/11/9/001",,"gr-qc hep-th",,"  The solution of topologically massive gravity with cosmological constant is
+reduced, for space-times with two commuting Killing vectors, to a
+special-relativistic dynamical problem. This approach is applied to the
+construction of a class of exact sourceless, horizonless solutions asymptotic
+to the BTZ extreme black holes.
+","[{""version"":""v1"",""created"":""Tue, 5 Apr 1994 15:41:41 GMT""}]","2010-04-06"
+"hep-ph/9404211",,"S. Narison:","Simple But Efficient Tests of QCD from Tau Decays$^{*)}$","revised and updated version of hep-ph 9404211. CERN-TH 7188/94 (4
+  figures available on requests) Talk given at the Symposium {\it ``Symmetry
+  and simplicity in physics""} on the occasion of {\it Sergio Fubini's 65th
+  birthday}, Turin, 24--26 February 1994 and at the QCD--LEP meeting on
+  $\alpha_s$, Aachen, 11 April 1994. To appear in the ``Atti dell'Accademia
+  delle Science di Torino"" and in the Aachen proceedings",,,,"hep-ph",,"  We review the determinations of the QCD coupling $\alpha_s$ from the
+inclusive and exclusive modes of $\tau$-decays. The most recent $\tau$-data
+provide the average value $ \alpha_ s \left(M^2_\tau \right)\simeq 0.347\pm
+0.030 $ corresponding to $ \alpha_ s \left(M^2_Z \right) \simeq 0.121\pm 0.003
+\pm 0.001.$ The values of the QCD vacuum condensates extracted from the
+inclusive weighted-moment distributions are consistent with the ones from QCD
+spectral sum rules. Accurate estimates and further precision tests should be
+reached in the next $\tau$C/B-factory machines. The $M_\tau$-stability test
+from the $ e^+e^- \longrightarrow I=1 $ hadron data is also discussed.
+","[{""version"":""v1"",""created"":""Mon, 4 Apr 1994 19:13:47 GMT""},{""version"":""v2"",""created"":""Sun, 1 May 1994 10:01:08 GMT""}]","2012-08-27"
+"hep-ph/9404212",,"H. Baer, C. H. Chen, F. Paige and X. Tata","Trileptons from Chargino-Neutralino Production at the CERN Large Hadron
+  Collider","preprint nos. FSU-HEP-940310 and UH-511-786-94, 13 pages (REVTEX)
+  plus 7 uuencoded figures attached","Phys.Rev. D50 (1994) 4508-4516","10.1103/PhysRevD.50.4508",,"hep-ph",,"  We study direct production of charginos and neutralinos at the CERN Large
+Hadron Collider. We simulate all channels of chargino and neutralino production
+using ISAJET 7.07. The best mode for observing such processes appears to be
+$pp\to\tw_1\tz_2\to 3\ell +\eslt$. We evaluate signal expectations and
+background levels, and suggest cuts to optimize the signal. The trilepton mode
+should be viable provided $m_{\tg}\alt 500-600$~GeV; above this mass, the decay
+modes $\tz_2\to\tz_1 Z$ and $\tz_2\to H_{\ell}\tz_1$ become dominant, spoiling
+the signal. In the first case, the leptonic branching fraction for $Z$ decay is
+small and additional background from $WZ$ is present, while in the second case,
+the trilepton signal is essentially absent. For smaller values of $m_{\tg}$,
+the trilepton signal should be visible above background, especially if
+$|\mu|\simeq m_{\tg}$ and $m_{\tell}\ll m_{\tq}$, in which case the leptonic
+decays of $\tz_2$ are enhanced. Distributions in dilepton mass
+$m(\ell\bar{\ell})$ can yield direct information on neutralino masses due to
+the distribution cutoff at $m_{\tz_2}-m_{\tz_1}$. Other distributions that may
+lead to an additional constraint amongst the chargino and neutralino masses are
+also examined.
+","[{""version"":""v1"",""created"":""Tue, 5 Apr 1994 01:56:18 GMT""}]","2009-10-28"
+"hep-ph/9404213",,"I.B. Khriplovich and A.I. Milstein","Large relativistic corrections to the positronium decay rate","8 pages, LATEX, BINP 94-30","J.Exp.Theor.Phys. 79 (1994) 379-383; Zh.Eksp.Teor.Fiz. 106 (1994)
+  689-697",,,"hep-ph",,"  Relativistic corrections to the positronium decay rate are calculated. They
+are close to $40(\alpha /\pi)^2$ and $46(\alpha /\pi)^2$ for singlet and
+triplet states respectively.
+","[{""version"":""v1"",""created"":""Tue, 5 Apr 1994 02:40:38 GMT""}]","2007-05-23"
+"hep-ph/9404214","Rey Soo Jong","Junegone Chay and Soo-Jong Rey","Instanton Contribution to $B \rightarrow X_u e \bar \nu $ Decay","20 pages + 4 figures attached, SNUTP 94-08","Z.Phys. C68 (1995) 431-438","10.1007/BF01620717",,"hep-ph",,"  We study instanton effects on inclusive semileptonic $b \rightarrow u$ decay
+using the heavy quark effective field theory and the operator product
+expansion. The effect contributes not only to the hadronic matrix element but
+also to the coefficient functions in the operator product expansion. We find
+that the coefficient function is singular near the boundaries of the phase
+space. In order to use perturbative QCD reliably, it is necessary to introduce
+smearing near the boundary. However the instanton contribution to $b
+\rightarrow c$ decay seems negligibly small.
+","[{""version"":""v1"",""created"":""Tue, 5 Apr 1994 10:49:13 GMT""}]","2015-06-25"
+"hep-ph/9404215",,"Hans-Thomas Elze","Quantum Decoherence, Entropy and Thermalization in Strong Interactions
+  at High Energy","45 pages, 2 figures","Nucl.Phys.B436:213-264,1995","10.1016/0550-3213(94)00523-H",,"hep-ph",,"  Entropy is generated in high-multiplying events by a dynamical separation of
+strongly interacting systems into partons and unobservable environment modes
+(almost constant field configurations) due to confinement.
+","[{""version"":""v1"",""created"":""Tue, 5 Apr 1994 12:50:36 GMT""}]","2011-08-04"
+"hep-ph/9404216","Dima Zeitlin","D.Persson and Vad.Zeitlin","A Note on QED with Magnetic Field and Chemical Potentia","11 pages (postscript figure file appended at the end), FIAN/TD/94-01,
+  G\""oteborg ITP 94-11","Phys.Rev. D51 (1995) 2026-2029","10.1103/PhysRevD.51.2026",,"hep-ph",,"  Using a generalized proper-time method, we obtain expressions for the fermion
+density and the QED effective Lagrangian for an external magnetic field at
+finite chemical potential. The effective Lagrangian and the density are here
+written in terms of elementary functions, summed over a finite number of filled
+Landau levels.
+","[{""version"":""v1"",""created"":""Tue, 5 Apr 1994 12:18:23 GMT""}]","2009-10-28"
+"hep-ph/9404217","Brian Wright","Brian D. Wright","Yukawa Coupling Thresholds: Application to the MSSM and the Minimal
+  Supersymmetric SU(5) GUT","70 pages + 11 compressed PS figures (uses phyzzx and tables),
+  MAD/PH/812 (bugs fixed for VAX users due to two long lines)",,,,"hep-ph",,"  We consider a particular class of threshold corrections to Yukawa couplings
+and mass relations in the MSSM and supersymmetric grand unified models. We give
+a complete treatment of Yukawa coupling thresholds at the unification scale
+$\Mx$ and the effective supersymmetry scale $\Ms$ and apply them to corrections
+to the tree-level prediction $y_b(\Mx) = y_{\tau}(\Mx)$ in minimal
+supersymmetric SU(5). We apply both gauge and Yukawa coupling thresholds to
+gauge unification and the above Yukawa unification condition to find
+predictions for the top quark mass, $M_t$, the superheavy vector boson mass
+$\Mv$ and the colored Higgs triplet mass $\Mhs$. We discuss the dependencies of
+$\Mx$ and $\Mhs$ on $\alpha_s(M_Z)$, $M_t$ and the sparticle spectrum as well
+as those of $M_t$ on $\tan\beta$, $\alpha_s(M_Z)$ and the bottom quark mass,
+$M_b$. The effect of the Yukawa coupling thresholds on $M_t$ are given for
+representative sparticle spectra. We describe the quantitative differences
+between these effects for low and high $\tan\beta$. We also give new bounds on
+superheavy masses, incorporating proton decay as well as unification
+constraints, the former leading to a lower bound on $\alpha_s$.
+","[{""version"":""v1"",""created"":""Tue, 5 Apr 1994 15:56:21 GMT""},{""version"":""v2"",""created"":""Wed, 6 Apr 1994 16:03:52 GMT""}]","2009-09-25"
+"hep-th/9404013","Kostas Skenderis","L. D. Faddeev","Algebraic Aspects of Bethe-Ansatz","(Lectures delivered by L. D. Faddeev at the Institute for Theoretical
+  Physics, SUNY at Stony Brook, lecture notes written by Kostas Skenderis), 42
+  pages, ITP-SB-94-11, Latex","Int.J.Mod.Phys. A10 (1995) 1845-1878","10.1142/S0217751X95000905",,"hep-th",,"  In these lectures the introduction to algebraic aspects of Bethe Ansatz is
+given. The applications to the seminal spin 1/2 XXX model is discussed in
+detail and the generalization to higher spin as well as XXZ and lattice
+Sine-Gordon model are indicated. The origin of quantum groups and their
+appearance in CFT models is explained. The text can be considered as a guide to
+the research papers in this field.
+","[{""version"":""v1"",""created"":""Mon, 4 Apr 1994 16:05:49 GMT""}]","2015-06-26"
+"hep-th/9404015","P. K. Ghosh","Pijush K. Ghosh and Avinash Khare","Self-Dual Charged Vortices of Finite Energy per Unit Length in $3+1$
+  Dimensions","10 pages, RevTeX, IP/BBSR/94-14",,,,"hep-th",,"  We obtain both topological as well as nontopological self-dual charged vortex
+solutions of finite energy per unit length in a generalized abelian Higgs model
+in $3+1$ dimensions. In this model the Bogomol'nyi bound on the energy per unit
+length is obtained as a linear combination of the magnetic flux and the
+electric charge per unit length.
+","[{""version"":""v1"",""created"":""Mon, 4 Apr 1994 16:19:56 GMT""}]","2007-05-23"
+"hep-th/9404016","Castanos Garza Octavio-ICNUC","O. Casta\~nos, R. L\'opez-Pe\~na and V.I. Man'ko","Noether's Theorem and time-dependent quantum invariants","Plain TeX, 23 pages, preprint of Instituto de Ciencias Nucleares,
+  UNAM Departamento de F\ii sica and Matem\'aticas Aplicadas, No. 01 (1994)","J.Phys. A27 (1994) 1751-1770","10.1088/0305-4470/27/5/035",,"hep-th",,"  The time dependent-integrals of motion, linear in position and momentum
+operators, of a quantum system are extracted from Noether's theorem
+prescription by means of special time-dependent variations of coordinates. For
+the stationary case of the generalized two-dimensional harmonic oscillator, the
+time-independent integrals of motion are shown to correspond to special
+Bragg-type symmetry properties. A detailed study for the non-stationary case of
+this quantum system is presented. The linear integrals of motion are
+constructed explicitly for the case of varying mass and coupling strength. They
+are obtained also from Noether's theorem. The general treatment for a
+multi-dimensional quadratic system is indicated, and it is shown that the
+time-dependent variations that give rise to the linear invariants, as conserved
+quantities, satisfy the corresponding classical homogeneous equations of motion
+for the coordinates.
+","[{""version"":""v1"",""created"":""Mon, 4 Apr 1994 23:38:58 GMT""}]","2009-10-28"
+"hep-th/9404017","Castanos Garza Octavio-ICNUC","O. Casta\~nos, R. L\'opez-Pe\~na and V.I. Man'ko","Squeezing in a 2-D generalized oscillator","LaTeX, 5 pages, preprint of Instituto de Ciencias Nucleares, UNAM
+  Departamento de F\ii sica and Matem\'aticas Aplicadas, No. 02 (1994)",,,,"hep-th",,"  A two-dimensional generalized oscillator with time-dependent parameters is
+considered to study the two-mode squeezing phenomena. Specific choices of the
+parameters are used to determine the dispersion matrix and analytic
+expressions, in terms of standard hermite polynomials, of the wavefunctions and
+photon distributions. (to be publish in the Third Workshop on Squeezed States
+and Uncertainty Relations, Baltimore, USA, (August 1993))
+","[{""version"":""v1"",""created"":""Tue, 5 Apr 1994 00:16:45 GMT""}]","2007-05-23"
+"hep-th/9404018",,"C. Duval, Z. Horv\'ath, P.A. Horv\'athy","The Nappi-Witten example and gravitational waves",,,,,"hep-th",,"  The vanishing of the anomaly in the recent example of Nappi and Witten,
+constructed from the Wess-Zumino-Witten model based on a certain non-semisimple
+group, follows from a more general result valid for gravitational waves. The
+construction of the metric is explained.}
+","[{""version"":""v1"",""created"":""Tue, 5 Apr 1994 08:52:59 GMT""}]","2007-05-23"
+"hep-th/9404019","Sherry Robinson","Abhay Ashtekar","Quantum Gravity: A Mathematical Physics Perspective","28 pages, TEX, CGPG #93/12-2",,,,"hep-th",,"  This article is based on an invited talk given at the Workshop on
+Mathematical Physics Towards XXIst Century, held at Beer-Sheva, Israel in 1993.
+It contains an introduction to quantum gravity for mathematical physicists with
+an emphasis on the difference between the structure of this theory from more
+familiar, Minkowskian quantum field theories which arise due to the absence of
+a background space-time geometry.
+","[{""version"":""v1"",""created"":""Tue, 5 Apr 1994 14:35:41 GMT""}]","2007-05-23"
+"hep-th/9404020",,"S. Odintsov and R. Percacci","Renormalization group effects in the conformal sector of 4d quantom
+  gravity with matter","7 pages, plain TEX, SISSA 45/94/EP","Mod.Phys.Lett.A9:2041-2048,1994","10.1142/S0217732394001908",,"hep-th",,"  We discuss the ``gravitationally dressed'' beta functions in the Gross--Neveu
+model interacting with 2d Liouville theory and in $SU(N)$ gauge theory
+interacting with the conformal sector of 4d quantum gravity. Among the effects
+that we suggest may feel the gravitational dressing are the minimum of the
+effective potential and the running of the gauge coupling.
+","[{""version"":""v1"",""created"":""Tue, 5 Apr 1994 15:56:22 GMT""}]","2009-09-17"
+"hep-th/9404021","Weston Robert","A.H. Bougourzi and Robert A. Weston","A Free Field Representation of the Screening Currents of
+  $U_q(\widehat{sl(3)})","21 pages (LaTeX), CRM-1266","Int.J.Mod.Phys. A10 (1995) 561-578","10.1142/S0217751X95000255",,"hep-th",,"  We construct five independent screening currents associated with the
+$U_q(\widehat{sl(3)})$ quantum current algebra. The screening currents are
+expressed as exponentials of the eight basic deformed bosonic fields that are
+required in the quantum analogue of the Wakimoto realization of the current
+algebra. Four of the screening currents are `simple', in that each one is given
+as a single exponential field. The fifth is expressed as an infinite sum of
+exponential fields. For reasons we discuss, we expect that the structure of the
+screening currents for a general quantum affine algebra will be similar to the
+$U_q(\widehat{sl(3)})$ case.
+","[{""version"":""v1"",""created"":""Tue, 5 Apr 1994 14:49:44 GMT""}]","2015-06-26"
+"nucl-th/9404001","V. G. Stoks","V.G.J. Stoks and Th.A. Rijken","Nijmegen Soft-Core Potential Including Two-Meson Exchange","4 pages",,"10.1063/1.48202",,"nucl-th",,"  We report on the progress of the construction of the extended soft-core (ESC)
+Nijmegen potential. Next to the standard one-boson-exchange parts, the model
+includes the pion-meson-exchange potentials due to the parallel and crossed-box
+diagrams, as well as the one-pair and two-pair diagrams, vertices for which can
+be identified with similar interactions appearing in chiral-symmetric
+Lagrangians. Although the ESC potential is still under construction, it already
+gives an excellent description of all $N\!N$ scattering data below 350 MeV with
+$\chi^{2}/{\rm datum}=1.3$.
+","[{""version"":""v1"",""created"":""Tue, 5 Apr 1994 00:15:24 GMT""}]","2015-06-26"
+"nucl-th/9404002","Satoshi Takahara","S. Takahara, N. Onishi and N. Tajima","Pairing correlation in nuclear matter from Skyrme force","Latex, Submitted to Phys. Lett. B, 8 pages, 1 table and 3 uuencoded
+  postscript figures (modified) included, UT-Komaba 94-6","Phys.Lett. B331 (1994) 261-265","10.1016/0370-2693(94)91048-0",,"nucl-th",,"  The properties of pairing correlation in nuclear matter are investigated by
+using various versions of Skyrme forces. Truncation of states involving pairing
+correlation, necessary due to zero range nature of the Skyrme force, is
+discussed in detail. A plateau appears in pairing gap versus cutoff for each
+force. We propose to choose the cutoff parameter in the middle of the plateau
+so that the parameterization is independent of nuclides.
+","[{""version"":""v1"",""created"":""Tue, 5 Apr 1994 08:42:54 GMT""},{""version"":""v2"",""created"":""Wed, 13 Apr 1994 04:23:34 GMT""}]","2009-10-28"
+"nucl-th/9404003",,"N. Auerbach and V. Spevak","Theory of parity violation in compound nuclear states; one particle
+  aspects","37 pages, REVTEX, 5 figures not included (Postscript, available from
+  the authors)","Phys.Rev.C50:1456-1470,1994","10.1103/PhysRevC.50.1456",,"nucl-th",,"  In this work we formulate the reaction theory of parity violation in compound
+nuclear states using Feshbach's projection operator formalism. We derive in
+this framework a complete set of terms that contribute to the longitudinal
+asymmetry measured in experiments with polarized epithermal neutrons. We also
+discuss the parity violating spreading width resulting from this formalism. We
+then use the above formalism to derive expressions which hold in the case when
+the doorway state approximation is introduced. In applying the theory we limit
+ourselves in this work to the case when the parity violating potential and the
+strong interaction are one-body. In this approximation, using as the doorway
+the giant spin-dipole resonance and employing well known optical potentials and
+a time-reversal even, parity odd one-body interaction we calculate or estimate
+the terms we derived. In our calculations we explicitly orthogonalize the
+continuum and bound wave functions. We find the effects of orthogonalization to
+be very important. Our conclusion is that the present one-body theory cannot
+explain the average longitudinal asymmetry found in the recent polarized
+neutron experiments. We also confirm the discrepancy, first pointed out by
+Auerbach and Bowman, that emerges, between the calculated average asymmetry and
+the parity violating spreading width, when distant doorways are used in the
+theory.
+","[{""version"":""v1"",""created"":""Tue, 5 Apr 1994 09:38:37 GMT""}]","2009-09-25"
+"nucl-th/9404004","Zlatev Ivaylo","Xing-Wang Pan and Da Hsuan Feng","A Revisit of SO(6) Dynamical Symmetry in Nuclear Structure",,"Phys.Lett. B336 (1994) 285-289","10.1016/0370-2693(94)90533-9",,"nucl-th",,"  According to the analysis based on the fermion dynamical symmetry model,
+nuclei previously regarded as SO(6)-like (e.g. $^{128}$Xe and $^{196}$Pt) are
+shown to be more akin to the transitional nuclei between SO(7) and SO(6)
+symmetries.
+","[{""version"":""v1"",""created"":""Tue, 5 Apr 1994 13:23:44 GMT""}]","2015-06-26"
+"solv-int/9404001","Ron Perline","Joel Langer (Case Western Reserve University), Ron Perline (Drexel
+  University)","Localized induction equation, Heisenberg chain, and nonlinear
+  Schrodinger equation","9 pages, AMSTeX. To appear in Mechanics Day Proceedings, Fields
+  Institute, June 1992",,,"Drexel MCS Report 4.1.1","solv-int nlin.SI",,"  The three equations named in the title are examples of infinite-dimensional
+completely integrable Hamiltonian systems, and are related to each other via
+simple geometric constructions. In this paper, these interrelationships are
+further explained in terms of the recursion operator for the Localized
+Induction Equation, and the recursion operator is seen to play a variety of
+roles in key geometric variational formulas.
+","[{""version"":""v1"",""created"":""Mon, 4 Apr 1994 17:57:59 GMT""}]","2008-02-03"

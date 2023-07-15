@@ -1,0 +1,357 @@
+"adap-org/9405002","Chris Adami","Chris Adami (Kellogg Radiation Laboratory, Caltech)","On Modelling Life","6 p., postscript with figures (unpack with uufiles), to appear in the
+  Proc. of ``Artificial Life IV'', MIT Press","Artificial Life 1 (1995) 429-438",,"MAP-172","adap-org nlin.AO q-bio",,"  We present a theoretical as well as experimental investigation of a
+population of self-replicating segments of code subject to random mutation and
+survival of the fittest. Under the assumption that such a system constitutes a
+minimal system with characteristics of life, we obtain a number of statements
+on the evolution of complexity and the trade-off between entropy and
+information.
+","[{""version"":""v1"",""created"":""Mon, 16 May 1994 21:29:01 GMT""}]","2008-02-03"
+"adap-org/9405003","Chris Adami","Chris Adami and C. Titus Brown (Kellogg Radiation Laboratory, Caltech)","Evolutionary Learning in the 2D Artificial Life System ""Avida""","5 p., postscript with figures (unpack with uufiles), to appear in the
+  Proc. of ``Artificial Life IV'', MIT Press",,,"MAP-173","adap-org nlin.AO q-bio",,"  We present a new tierra-inspired artificial life system with local
+interactions and two-dimensional geometry, based on an update mechanism akin to
+that of 2D cellular automata. We find that the spatial geometry is conducive to
+the development of diversity and thus improves adaptive capabilities. We also
+demonstrate the adaptive strength of the system by breeding cells with simple
+computational abilities, and study the dependence of this adaptability on
+mutation rate and population size.
+","[{""version"":""v1"",""created"":""Mon, 16 May 1994 21:29:34 GMT""}]","2008-02-03"
+"adap-org/9405004","Iqbal Adjali","Iqbal Adjali, Jos\'e-Luis Fern\'andez-Villaca\~nas and Michael Gell
+  (Systems Research Division, BT Laboratories, Martlesham Heath, Ipswich,
+  United Kingdom)","Nonlinear Dynamics in Distributed Systems","Two parts: 8 pages LaTeX file and 5 (uuencoded) figures in Postscript
+  format",,"10.1007/BF01016129",,"adap-org nlin.AO",,"  We build on a previous statistical model for distributed systems and
+formulate it in a way that the deterministic and stochastic processes within
+the system are clearly separable. We show how internal fluctuations can be
+analysed in a systematic way using Van Kanpen's expansion method for Markov
+processes. We present some results for both stationary and time-dependent
+states. Our approach allows the effect of fluctuations to be explored,
+particularly in finite systems where such processes assume increasing
+importance.
+","[{""version"":""v1"",""created"":""Tue, 17 May 1994 09:53:52 GMT""}]","2009-10-22"
+"alg-geom/9405008","Klaus Altmann","Klaus Altmann","Infinitesimal Deformations and Obstructions for Toric Singularities","26 pages, LaTeX (uses diagram.sty)",,,,"alg-geom math.AG",,"  The obstruction space T^2 and the cup product T^1 x T^1 -> T^2 are computed
+for toric singularities.
+","[{""version"":""v1"",""created"":""Mon, 16 May 1994 17:16:49 GMT""}]","2008-02-03"
+"astro-ph/9405039",,"Chris Mihos and Lars Hernquist","Ultraluminous Starbursts in Major Mergers","9 pages, uuencoded compressed postscript, accepted to ApJ Letters",,,,"astro-ph",,"  We use numerical simulation to investigate the triggering of starbursts in
+merging disk galaxies. The properties of the merger-driven starbursts are
+sensitive to the structure of the progenitor galaxies; specifically, to the
+amount of material in a dense central bulge. Galaxies without bulges develop
+bars shortly after their first close passage, driving significant gas inflow
+and subsequent starbursts in the centers of the galaxies. These starbursts
+significantly deplete the star-forming gas, so that only relatively weak
+starbursts arise during the final merger. By contrast, models of galaxies with
+central bulges show that a bulge acts to stabilize the galaxies against inflow
+and starbursts until the galaxies actually merge. At this time, strong
+dissipation leads to the formation of a massive central gas mass and an ensuing
+star formation rate two orders of magnitude greater than that in our isolated
+disk models. These starbursts are very short in duration, typically $\sim$ 50
+Myr, suggesting that the rarity of ultraluminous infrared galaxies is a result
+of their being in a very short evolutionary phase, rather than special and rare
+formation conditions. The fact that these mergers display many of the
+properties of ultraluminous infrared galaxies -- tidal features, double nuclei,
+massive compact gas concentrations, and extreme levels of starburst activity --
+suggests that merger-driven starbursts can explain the emission from many
+ultraluminous infrared galaxies without an active nucleus.
+","[{""version"":""v1"",""created"":""Mon, 16 May 1994 21:40:11 GMT""}]","2007-05-23"
+"astro-ph/9405041",,"E. Roulet, S. Mollerach and G. F. Giudice","Is the halo responsible for the microlensing events?","10 pages, Postscript file (3 figures included). Talk given by E.R. in
+  the 6^th Workshop on Neutrino Telescopes, Venice, February 1994",,,"CERN-TH.7257/94","astro-ph",,"  We discuss whether the astrophysical objects responsible for the recently
+reported microlensing events of sources in the Large Magellanic Cloud can be
+identified as the brown dwarf components of the spheroid of our galaxy, rather
+than the constituents of a dark baryonic halo.
+","[{""version"":""v1"",""created"":""Tue, 17 May 1994 15:12:45 GMT""}]","2007-05-23"
+"chem-ph/9405001","M. V. Ramakrishna","Mushti V. Ramakrishna and Jun Pan","Chemical Reactions of Silicon Clusters","20 pages + 6 figures, Complete PostScript file is available through
+  anonymous ftp from ramanujan.chem.nyu.edu. The file name is jcp2.ps in
+  directory pub",,"10.1063/1.468238",,"chem-ph cond-mat physics.chem-ph",,"  Smalley and co-workers discovered that chemisorption reactivities of silicon
+clusters vary over three orders of magnitude as a function of cluster size. In
+particular, they found that \Si{33}, \Si{39}, and \Si{45} clusters are least
+reactive towards various reagents compared to their immediate neighbors in
+size. We explain these observations based on our stuffed fullerene model. This
+structural model consists of bulk-like core of five atoms surrounded by
+fullerene-like surface. Reconstruction of the ideal fullerene geometry gives
+rise to four-fold coordinated crown atoms and $\pi$-bonded dimer pairs. This
+model yields unique structures for \Si{33}, \Si{39}, and \Si{45} clusters
+without any dangling bonds and thus explains their lowest reactivity towards
+chemisorption of closed shell reagents. This model is also consistent with the
+experimental finding of Jarrold and Constant that silicon clusters undergo a
+transition from prolate to spherical shapes at \Si{27}. We justify our model
+based on an in depth analysis of the differences between carbon and silicon
+chemistry and bonding characteristics. Using our model, we further explain why
+dissociative chemisorption occurs on bulk surfaces while molecular
+chemisorption occurs on cluster surfaces. We also explain reagent specific
+chemisorption reactivities observed experimentally based on the electronic
+structures of the reagents. Finally, experiments on \Si{x}X$_y$ (X = B, Al, Ga,
+P, As, AlP, GaAs) are suggested as a means of verifying the proposed model. We
+predict that \Si{x}(AlP)$_y$ and \Si{x}(GaAs)$_y$ $(x = 25, 31, 37; y = 4)$
+clusters will be highly inert and it may be possible to prepare macroscopic
+samples of these alloy clusters through high temperature reactions.
+","[{""version"":""v1"",""created"":""Tue, 17 May 1994 01:56:25 GMT""}]","2009-10-22"
+"cond-mat/9405045","Didier Poilblanc","D. Poilblanc, H. Tsunetsugu, and T.M. Rice","Spin Gaps in Coupled t-J Ladders","11 pages, 5 figures, uuencoded form of postscript files of figures
+  and text, LPQTH-94/5",,"10.1103/PhysRevB.50.6511",,"cond-mat",,"  Spin gaps in coupled $t$-$J$ ladders are investigated by exact
+diagonalization of small clusters up to 4$\times$8 sites. At half-filling, the
+numerical results for the triplet excitation spectrum are in very good
+agreement with a second order perturbation expansion in term of small
+inter-ladder and intra-ladder exchange couplings between rungs
+($J/J^\prime$$<$$0.25$). The band of local triplet excitations moving
+coherently along the ladder (with momenta close to $\pi$) is split by the
+inter-ladder coupling. For intermediate couplings finite size scaling is used
+to estimate the spin gap. In the isotropic infinite 4-chain system (two coupled
+ladders) we find a spin gap of $0.245 J$, roughly half of the single ladder
+spin gap. When the system is hole doped, bonding and anti-bonding bound pairs
+of holes can propagate coherently along the chains and the spin gap remains
+finite.
+","[{""version"":""v1"",""created"":""Mon, 16 May 1994 17:42:08 GMT""}]","2009-10-22"
+"cond-mat/9405046","Alan Luther","A. Luther","Interacting Electrons on a Square Fermi Surface","25 pages, Nordita preprint 94/22 S",,"10.1103/PhysRevB.50.11446",,"cond-mat",,"  Electronic states near a square Fermi surface are mapped onto quantum chains.
+Using boson-fermion duality on the chains, the bosonic part of the interaction
+is isolated and diagonalized. These interactions destroy Fermi liquid behavior.
+Non-boson interactions are also generated by this mapping, and give rise to a
+new perturbation theory about the boson problem. A case with strong repulsions
+between parallel faces is studied and solved. There is spin-charge separation
+and the square Fermi surface remains square under doping. At half-filling,
+there is a charge gap and insulating behavior together with gapless spin
+excitations. This mapping appears to be a general tool for understanding the
+properties of interacting electrons on a square Fermi surface.
+","[{""version"":""v1"",""created"":""Tue, 17 May 1994 12:38:04 GMT""}]","2009-10-22"
+"cond-mat/9405047","Reimer Kuehn","R. K\""uhn","Critical Behaviour of the Randomly Spin--Diluted 2-d Ising Model --- A
+  Grand Ensemble Approach","10 pages, LaTeX, 2 Figures available by Fax upon request from the
+  author, TVP-94",,"10.1103/PhysRevLett.73.2268",,"cond-mat hep-lat",,"  The critical behaviour of the randomly spin-diluted Ising model in two space
+dimensions is investigated by a new method which combines a grand ensemble
+approach to disordered systems proposed by Morita with the phenomenological
+renormalization group scheme of Nightingale. Accurate approximations for the
+phase diagram and for the connectivity length exponent of the percolation
+transition are obtained. Our results suggest that the thermal phase transition
+of the disordered system might be different from that of the pure system: we
+observe a continuous variation of critical exponents with the density $\rho$ of
+magnetic impurities, respecting, however, weak universality in the sense that
+$\eta$ and $\gamma/\nu$ do {\it not\/} depend on $\rho$ while $\gamma$ and
+$\nu$ separately do. Our results are in qualitative and quantitative agreement
+with a recent Monte--Carlo study.
+","[{""version"":""v1"",""created"":""Tue, 17 May 1994 15:14:16 GMT""}]","2009-10-22"
+"gr-qc/9405034","Desmond McManus","Alan A. Coley and Des J. Mc Manus","On Spacetimes Admitting Shear-free, Irrotational, Geodesic Timelike
+  Congruences","23 pages LaTeX","Class.Quant.Grav.11:1261-1282,1994","10.1088/0264-9381/11/5/013",,"gr-qc",,"  A comprehensive analysis of general relativistic spacetimes which admit a
+shear-free, irrotational and geodesic timelike congruence is presented. The
+equations governing the models for a general energy-momentum tensor are written
+down. Coordinates in which the metric of such spacetimes takes on a simplified
+form are established. The general subcases of `zero anisotropic stress', `zero
+heat flux vector' and `two component fluids' are investigated. In particular,
+perfect fluid Friedmann-Robertson-Walker models and spatially homogeneous
+models are discussed. Models with a variety of physically relevant
+energy-momentum tensors are considered. Anisotropic fluid models and viscous
+fluid models with heat conduction are examined. Also, models with a perfect
+fluid plus a magnetic field or with pure radiation, and models with two
+non-collinear perfect fluids (satisfying a variety of physical conditions) are
+investigated. In particular, models with a (single) perfect fluid which is
+tilting with respect to the shear-free, vorticity-free and acceleration-free
+timelike congruence are discussed.
+","[{""version"":""v1"",""created"":""Mon, 16 May 1994 17:37:09 GMT""}]","2010-04-06"
+"gr-qc/9405035","Desmond McManus","Des J. Mc Manus and Alan A. Coley","Shear-free, Irrotational, Geodesic, Anisotropic Fluid Cosmologies","13 pages LaTeX","Class.Quant.Grav.11:2045-2058,1994","10.1088/0264-9381/11/8/011",,"gr-qc",,"  General relativistic anisotropic fluid models whose fluid flow lines form a
+shear-free, irrotational, geodesic timelike congruence are examined. These
+models are of Petrov type D, and are assumed to have zero heat flux and an
+anisotropic stress tensor that possesses two distinct non-zero eigenvalues.
+Some general results concerning the form of the metric and the stress-tensor
+for these models are established. Furthermore, if the energy density and the
+isotropic pressure, as measured by a comoving observer, satisfy an equation of
+state of the form $p = p(\mu)$, with $\frac{dp}{d\mu} \neq -\frac{1}{3}$, then
+these spacetimes admit a foliation by spacelike hypersurfaces of constant Ricci
+scalar. In addition, models for which both the energy density and the
+anisotropic pressures only depend on time are investigated; both spatially
+homogeneous and spatially inhomogeneous models are found. A classification of
+these models is undertaken. Also, a particular class of anisotropic fluid
+models which are simple generalizations of the homogeneous isotropic
+cosmological models is studied.
+","[{""version"":""v1"",""created"":""Mon, 16 May 1994 17:40:58 GMT""}]","2010-04-06"
+"gr-qc/9405036","T. P. Singh","P. S. Joshi and T. P. Singh","On the Role of Initial Data in the Gravitational Collapse of
+  Inhomogeneous Dust","Original title changed, numerical range of naked singularity
+  corrected. Plain Tex File. 14 pages. To appear in Physical Review D","Phys.Rev. D51 (1995) 6778-6782","10.1103/PhysRevD.51.6778","TIFR-TAP Preprint","gr-qc astro-ph hep-th",,"  We consider here the gravitational collapse of a spherically symmetric
+inhomogeneous dust cloud described by the Tolman-Bondi models. By studying a
+general class of these models, we find that the end state of the collapse is
+either a black hole or a naked singularity, depending on the parameters of the
+initial density distribution, which are $\rho_{c}$, the initial central density
+of the massive body, and $R_0$, the initial boundary. The collapse ends in a
+black hole if the dimensionless quantity $\beta$ constructed out of this
+initial data is greater than 0.0113, and it ends in a naked singularity if
+$\beta$ is less than this number. A simple interpretation of this result can be
+given in terms of the strength of the gravitational potential at the starting
+epoch of the collapse.
+","[{""version"":""v1"",""created"":""Tue, 17 May 1994 10:36:00 GMT""},{""version"":""v2"",""created"":""Wed, 15 Mar 1995 11:00:00 GMT""}]","2009-10-22"
+"hep-ex/9405005","David Gerdes","F. Abe, et al. (CDF Collaboration)","Evidence for Top Quark Production in $\bar{p}p$ Collisions at
+  $\sqrt{s}=1.8$ TeV","15 pages (Latex), 2 PostScript figures","Phys.Rev.Lett.73:225-231,1994","10.1103/PhysRevLett.73.225","FERMILAB-PUB-94/116-E","hep-ex hep-ph",,"  We summarize a search for the top quark with the Collider Detector at
+Fermilab (CDF) in a sample of $\bar{p}p$ collisions at $\sqrt{s}$= 1.8 TeV with
+an integrated luminosity of 19.3~pb$^{-1}$. We find 12 events consistent with
+either two $W$ bosons, or a $W$ boson and at least one $b$ jet. The probability
+that the measured yield is consistent with the background is 0.26%. Though the
+statistics are too limited to establish firmly the existence of the top quark,
+a natural interpretation of the excess is that it is due to $t\bar{t}$
+production. Under this assumption, constrained fits to individual events yield
+a top quark mass of $174 \pm 10^{+13}_{-12}$ GeV/c$^2$. The $t\bar{t}$
+production cross section is measured to be $13.9^{+6.1}_{-4.8}$~pb. (Submitted
+to Physical Review Letters on May 16, 1994).
+","[{""version"":""v1"",""created"":""Mon, 16 May 1994 22:22:37 GMT""}]","2010-05-12"
+"hep-lat/9405014","Masaki Oshikawa","H.Aoki, S.Iso, J.Nishimura and M.Oshikawa","The Effect of Dynamical Gauge Field on the Chiral Fermion on a boundary","16 pages (including 7 figures), LaTeX, UT-675, KEK-TH-393","Mod.Phys.Lett. A9 (1994) 1755-1766","10.1142/S021773239400160X",,"hep-lat",,"  We study the effect of dynamical gauge field on the Kaplan's chiral fermion
+on a boundary in the strong gauge coupling limit in the extra dimension. To all
+orders of the hopping parameter expansion, we prove exact parity invariance of
+the fermion propagator on the boundary. This means that the chiral property of
+the boundary fermion, which seems to survive even in the presence of the gauge
+field from a perturbative point of view, is completely destroyed by the
+dynamics of the gauge field.
+","[{""version"":""v1"",""created"":""Tue, 17 May 1994 12:22:55 GMT""}]","2015-06-25"
+"hep-ph/9405306","Hsien-Chih Jean","H.-C. Jean, D. Robson and A. G. Williams","Relativistic Quark-Antiquark Bound State Problem with Spin-dependent
+  Interactions in Momentum Space","9 pages in RevTeX, ADP-93-219/T137","Phys.Rev.D50:5873-5877,1994","10.1103/PhysRevD.50.5873",,"hep-ph nucl-th",,"  The work described in this paper is the first step toward a relativistic
+three-quark bound-state calculation using a Hamiltonian consistent with the
+Wigner-Bargmann theorem and macroscopic locality. We give an explicit
+demonstration that we can solve the two-body problem in momentum space with
+spin-dependent interactions. The form of the potential is a combination of
+linear+Coulomb+spin-spin+% spin-orbit+tensor, which includes confinement and is
+of the general form consistent with rotation, space-reflection and
+time-reversal invariance. Comparison is made with previous calculations using
+an alternate technique and with the experimental meson mass spectrum. The
+results obtained suggest that the model is realistic enough to provide a
+two-body basis for the three quark baryon problem in which the Poincar\'{e}
+group representation is unitary and cluster separability is respected.
+","[{""version"":""v1"",""created"":""Mon, 16 May 1994 17:03:49 GMT""}]","2010-03-04"
+"hep-ph/9405307",,"L. Lavoura","Signatures of discrete symmetries in the scalar sector","standard LATEX, 7 pages, no figures and no tables, Carnegie-Mellon
+  University Report No. CMU-HEP94-16 and DOE-ER/40682-70","Phys.Rev.D50:7089-7092,1994","10.1103/PhysRevD.50.7089",,"hep-ph",,"  I discuss methods to identify the presence of dicrete symmetries in the
+two-Higgs-doublet model by observing the masses and the cubic and quartic
+interactions of the scalars. The symmetries considered are a $ Z_2 $ symmetry
+under which $ \phi_2 \rightarrow - \phi_2 $, and a CP symmetry which enforces
+real coupling constants in the Higgs potential. Those symmetries are
+spontaneously broken, and the $ Z_2 $ symmetry may also be softly broken. I
+identify the signatures in the interactions of the scalars that these
+symmetries leave after their breaking.
+","[{""version"":""v1"",""created"":""Mon, 16 May 1994 18:59:40 GMT""}]","2010-11-01"
+"hep-ph/9405308",,"A. Kwiatkowski, M. Steinhauser","Corrections of Order ${\cal O}(G_F\alpha_s m_t^2)$ to the Higgs Decay
+  Rate $\Gamma(H\to b\bar{b})$","We corrected a mistake in our discussion, where a contribution
+  related to the universal corrections was missing in eq.(10). The numerical
+  result is affected","Phys.Lett. B338 (1994) 66-70; Erratum-ibid. B342 (1995) 455","10.1016/0370-2693(94)91345-5",,"hep-ph",,"  QCD corrections to the electroweak one-loop result for the partial width
+$\Gamma(H\rightarrow b\bar{b})$ are studied. For the decay channel into bottom
+quarks the rate is affected by a virtual top quark through electroweak
+interactions. The calculation of QCD corrections to this quantity is performed
+for an intermediate range Higgs mass in the heavy top mass limit. The leading
+correction of order ${\cal O}(G_F\alpha_s m_t^2)$ is estimated. Numerically the
+contribution is of comparable size as the electroweak correction, but of
+opposite sign.
+","[{""version"":""v1"",""created"":""Tue, 17 May 1994 09:52:00 GMT""},{""version"":""v2"",""created"":""Thu, 3 Nov 1994 19:28:00 GMT""}]","2009-10-28"
+"hep-ph/9405312","Neven","Neven Bilic","Supercooling of the quark-gluon plasma","10 pages, UCT-TP-212/94",,,,"hep-ph",,"  Transition from the quark-gluon (QG) plasma to a hadronic gas is studied in
+the framework of the relativistic combustion theory. The calculations reveal
+that the QG phase must be in a strongly supercooled state. The stability of
+this solution with respect to minor modifications is investigated. In
+particular the effect of an admixture of hadronic matter in the QG phase is
+considered in detail.
+","[{""version"":""v1"",""created"":""Tue, 17 May 1994 07:04:37 GMT""}]","2009-09-25"
+"hep-th/9405101",,"Francois Gieres","Supersymetrie et mathematiques","45 pages. Resubmitted due to previous transmission errors",,,"LYCEN 9419","hep-th math.QA",,"  Nous presentons une introduction aux concepts de la supersymetrie par
+l'intermediaire de trois exemples: (i) Mecanique quantique supersymetrique,
+(ii) Superalgebres de Lie, (iii) Superconnexions de Quillen. Les points communs
+a toutes ces notions sont soulignes et des applications sont indiquees. En
+particulier nous esquissons la demonstration du theoreme de Gauss et Bonnet
+d'apres Patodi et la demonstration des inegalites de Morse d'apres Witten.
+","[{""version"":""v1"",""created"":""Mon, 16 May 1994 20:42:16 GMT""},{""version"":""v2"",""created"":""Tue, 17 May 1994 13:14:57 GMT""}]","2008-02-03"
+"hep-th/9405102","Paul Demkin","Paul Demkin","Special functions as structure constants for new infinite-dimensional
+  algebras","8 pages, LaTex, UUITP 4/94",,,,"hep-th",,"  Novel infinite-dimensional algebras of the Virasoro/Kac-Moody/
+Floratos-Iliopoulos type are introduced, which involve special functions in
+their structure constants
+","[{""version"":""v1"",""created"":""Mon, 16 May 1994 21:01:24 GMT""}]","2007-05-23"
+"hep-th/9405104","Vincent Pasquier","V. Pasquier","A lecture on the Calogero-Sutherland models","(2 references added, small modifications)",,"10.1007/3-540-58453-6_3",,"hep-th",,"  In these lectures, I review some recent results on the Calogero-Sutherland
+model and the Haldane Shastry-chain. The list of topics I cover are the
+following: 1) The Calogero-Sutherland Hamiltonian and fractional statistics.
+The form factor of the density operator. 2) The Dunkl operators and their
+relations with monodromy matrices, Yangians and affine-Hecke algebras. 3) The
+Haldane-Shastry chain in connection with the Calogero-Sutherland Hamiltonian at
+a specific coupling constant.
+","[{""version"":""v1"",""created"":""Tue, 17 May 1994 08:20:53 GMT""},{""version"":""v2"",""created"":""Thu, 19 May 1994 08:43:35 GMT""},{""version"":""v3"",""created"":""Tue, 24 May 1994 12:58:15 GMT""}]","2009-10-28"
+"hep-th/9405105","C.-P.-Staszkiewicz. FU-Berlin","B. Schroer, FU Berlin","Some Useful Properties of Rotational Gibbs States In Chiral Conformal
+  QFT","16 pages, uuencoded, compressed postscript",,,,"hep-th",,"  We derive the Kac Wakimoto formula in the algebraic framework of chiral
+conformal QFT s a consequence of the universal behaviour of high-temperature
+Gibbs-states on intertwiner subalgebras. By studying selfintertwiners in the
+presence of other charges, we obtain charge-polarization coefficients which
+generalize the entries of Verlinde matrix S and belong to higher genus mapping
+class group matrices.
+","[{""version"":""v1"",""created"":""Tue, 17 May 1994 10:13:26 GMT""}]","2016-09-06"
+"hep-th/9405106","Sung-Kil Yang","T. Eguchi, Y. Yamada and S.-K. Yang","On the Genus Expansion in the Topological String Theory","36 pages, phyzzx, UTHEP-275","Rev.Math.Phys. 7 (1995) 279-310","10.1142/S0129055X95000141",,"hep-th",,"  A systematic formulation of the higher genus expansion in topological string
+theory is considered. We also develop a simple way of evaluating genus zero
+correlation functions. At higher genera we derive some interesting formulas for
+the free energy in the $A_1$ and $A_2$ models. We present some evidence that
+topological minimal models associated with Lie algebras other than the A-D-E
+type do not have a consistent higher genus expansion beyond genus one. We also
+present some new results on the $CP^1$ model at higher genera.
+","[{""version"":""v1"",""created"":""Tue, 17 May 1994 09:23:36 GMT""}]","2015-06-26"
+"hep-th/9405107",,"Shahn Majid and Henri Ruegg","Bicrossproduct structure of $\kappa$-Poincare group and non-commutative
+  geometry","12 pages. Revision: minor typos corrected","Phys.Lett. B334 (1994) 348-354","10.1016/0370-2693(94)90699-8",,"hep-th math.QA",,"  We show that the $\kappa$-deformed Poincar\'e quantum algebra proposed for
+elementary particle physics has the structure of a Hopf agebra bicrossproduct
+$U(so(1,3))\cobicross T$. The algebra is a semidirect product of the classical
+Lorentz group $so(1,3)$ acting in a deformed way on the momentum sector $T$.
+The novel feature is that the coalgebra is also semidirect, with a backreaction
+of the momentum sector on the Lorentz rotations. Using this, we show that the
+$\kappa$-Poincar\'e acts covariantly on a $\kappa$-Minkowski space, which we
+introduce. It turns out necessarily to be deformed and non-commutative. We also
+connect this algebra with a previous approach to Planck scale physics.
+","[{""version"":""v1"",""created"":""Tue, 17 May 1994 11:36:00 GMT""},{""version"":""v2"",""created"":""Fri, 20 May 1994 11:12:48 GMT""}]","2009-10-28"
+"hep-th/9405108","Danny Birmingham","Danny Birmingham and Mark Rakowski","State Sum Models and Simplicial Cohomology","28 pages, Latex, ITFA-94-13, (Expanded version with two new sections)","Commun.Math.Phys. 173 (1995) 135-154","10.1007/BF02100184",,"hep-th",,"  We study a class of subdivision invariant lattice models based on the gauge
+group $Z_{p}$, with particular emphasis on the four dimensional example. This
+model is based upon the assignment of field variables to both the $1$- and
+$2$-dimensional simplices of the simplicial complex. The property of
+subdivision invariance is achieved when the coupling parameter is quantized and
+the field configurations are restricted to satisfy a type of mod-$p$ flatness
+condition. By explicit computation of the partition function for the manifold
+$RP^{3} \times S^{1}$, we establish that the theory has a quantum Hilbert space
+which differs from the classical one.
+","[{""version"":""v1"",""created"":""Tue, 17 May 1994 10:19:51 GMT""},{""version"":""v2"",""created"":""Thu, 29 Sep 1994 10:45:29 GMT""}]","2009-10-28"
+"hep-th/9405109","Coussaert Olivier","G. Barnich, F. Brandt and M. Henneaux","Local BRST cohomology in the antifield formalism: I. General theorems","48 pages LaTeX file, ULB-PMIF-94/06 NIKEF-H 94-13 (minor changes in
+  section 10)","Commun.Math.Phys.174:57-92,1995","10.1007/BF02099464",,"hep-th",,"  We establish general theorems on the cohomology $H^*(s|d)$ of the BRST
+differential modulo the spacetime exterior derivative, acting in the algebra of
+local $p$-forms depending on the fields and the antifields (=sources for the
+BRST variations). It is shown that $H^{-k}(s|d)$ is isomorphic to $H_k(\delta
+|d)$ in negative ghost degree $-k\ (k>0)$, where $\delta$ is the Koszul-Tate
+differential associated with the stationary surface. The cohomological group
+$H_1(\delta |d)$ in form degree $n$ is proved to be isomorphic to the space of
+constants of the motion, thereby providing a cohomological reformulation of
+Noether theorem. More generally, the group $H_k(\delta|d)$ in form degree $n$
+is isomorphic to the space of $n-k$ forms that are closed when the equations of
+motion hold. The groups $H_k(\delta|d)$ $(k>2)$ are shown to vanish for
+standard irreducible gauge theories. The group $H_2(\delta|d)$ is then
+calculated explicitly for electromagnetism, Yang-Mills models and Einstein
+gravity. The invariance of the groups $H^{k}(s|d)$ under the introduction of
+non minimal variables and of auxiliary
+","[{""version"":""v1"",""created"":""Tue, 17 May 1994 13:09:31 GMT""},{""version"":""v2"",""created"":""Mon, 13 Jun 1994 13:22:11 GMT""}]","2008-11-26"
+"hep-th/9405110","Thomas Strobl","Peter Schaller and Thomas Strobl","Poisson Structure Induced (Topological) Field Theories","6 pages, LaTeX, TUW9403","Mod.Phys.Lett. A9 (1994) 3129-3136","10.1142/S0217732394002951",,"hep-th",,"  A class of two dimensional field theories, based on (generically degenerate)
+Poisson structures and generalizing gravity-Yang-Mills systems, is presented.
+Locally, the solutions of the classical equations of motion are given. A
+general scheme for the quantization of the models in a Hamiltonian formulation
+is found.
+","[{""version"":""v1"",""created"":""Tue, 17 May 1994 13:36:36 GMT""}]","2015-06-26"
+"hep-th/9405149",,"Dmitri Vassilevich","Comment on gauge choices and physical variables in QED","4 pages, SPbU-IP-94-8, Latex","NuovoCim.A108:123-126,1995","10.1007/BF02814863",,"hep-th",,"  We consider possible definitions of physical variables in QED. We demonstrate
+that the condition $\partial_i A_i$$=0$ is the most convenient one because it
+leads to path integral over physical components with local action. However,
+other choices, as $A_3=0$, are also possible. The standard expression for
+configuration space path integral in $A_3=0$ gauge is obtained starting with
+reduced phase space formulation. Contrary to the claims of the paper [M.Lavelle
+and D.McMullan,Phys. Lett. B316 (1993)172] the $A_3=0$ gauge is not
+overconstrained.
+","[{""version"":""v1"",""created"":""Tue, 17 May 1994 11:51:19 GMT""}]","2008-11-26"
+"nucl-th/9405017","Sidney H. Kahana","David E. Kahana, Declan Keane, Yang Pang, Tom Schlagel and Shan Wang","Collective Flow from the Intranuclear Cascade Model","9 pages, 2 figures included","Phys.Rev.Lett. 74 (1995) 4404-4407","10.1103/PhysRevLett.74.4404",,"nucl-th",,"  The phenomenon of collective flow in relativistic heavy ion collisions is
+studied using the hadronic cascade model ARC. Direct comparison is made to data
+gathered at the Bevalac, for Au+Au at $p=1-2$ GeV/c. In contrast to the
+standard lore about the cascade model, collective flow is well described
+quantitatively without the need for explicit mean field terms to simulate the
+nuclear equation of state. Pion collective flow is in the opposite direction to
+nucleon flow as is that of anti-nucleons and other produced particles. Pion and
+nucleon flow are predicted at AGS energies also, where, in light of the higher
+baryon densities achieved, we speculate that equation of state effects may be
+observable.
+","[{""version"":""v1"",""created"":""Tue, 17 May 1994 02:41:32 GMT""}]","2009-10-28"
+"nucl-th/9405018","Dao-Chen Zheng","D. C. Zheng, J. P. Vary, and B. R. Barrett","Large-space shell-model calculations for light nuclei","prepared using LaTex, 21 manuscript pages, no figures","Phys.Rev.C50:2841-2849,1994","10.1103/PhysRevC.50.2841","The University of Arizona AZPH-TH/94-14","nucl-th",,"  An effective two-body interaction is constructed from a new Reid-like $NN$
+potential for a large no-core space consisting of six major shells and is used
+to generate the shell-model properties for light nuclei from $A$=2 to 6. (For
+practical reasons, the model space is partially truncated for $A$=6.) Binding
+energies and other physical observables are calculated and compare favorably
+with experiment.
+","[{""version"":""v1"",""created"":""Tue, 17 May 1994 13:57:54 GMT""}]","2008-11-26"
+"nucl-th/9405019",,"Sadhan K. Adhikari, T. Frederico, I. D. Goldman, and S. S. Sharma","Model for asymptotic $D$-state parameters of light nuclei: Application
+  to $^4He$","20 pages, text and one postscript figure included","Phys.Rev.C50:822-830,1994","10.1103/PhysRevC.50.822","Preprint#ift-93","nucl-th",,"  A simple method for calculating the asymptotic $D$ state observables for
+light nuclei is suggested. The method exploits the dominant clusters of the
+light nuclei. The method is applied to calculate the $^4He$ asymptotic $D$ to
+$S$ normalization ratio $\rho^\alpha$ and the closely related $D$ state
+parameter $D_2^\alpha$. The study predicts a correlation between $D_2^\alpha$
+and $B_\alpha$, and between $\rho^\alpha$ and $B_\alpha$, where $B_\alpha$ is
+the binding energy of $^4He$. The present study yields $\rho^\alpha \simeq
+-0.14$ and $D_2^\alpha \simeq -0.12$ fm$^2$ consistent with the correct
+experimental $\eta^D$ and the binding energies of the deuteron, triton, and the
+$\alpha$ particle, where $\eta^d$ is the deuteron $D$ state to $S$ state
+normalization ratio.
+","[{""version"":""v1"",""created"":""Tue, 17 May 1994 13:40:00 GMT""}]","2009-09-25"

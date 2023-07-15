@@ -1,0 +1,285 @@
+"alg-geom/9404005",,"S.L'vovsky","On curves and surfaces with projectively equivalent hyperplane sections","7 pages, Plain TeX Version 3.141",,,,"alg-geom math.AG",,"  In this paper we describe projective curves and surfaces such that almost all
+their hyperplane sections are projectively equivalent. Our description is
+complete for curves and close to being complete for smooth surfaces. In the
+appendix we make some remarks on connections between the mentioned property of
+a projective variety and its adjunction properties.
+","[{""version"":""v1"",""created"":""Tue, 12 Apr 1994 10:14:00 GMT""}]","2008-02-03"
+"alg-geom/9404006","Jeroen Spandaw","K. Hulek and J. Spandaw","Degenerations of abelian surfaces and Hodge structures","35 pages, AMS-LaTeX 1.1 (amstex,amssymb,amscd,theorem), (revised
+  version: only minor TeX-changes)","Schriftenreihe Forschungsschwerpunkt komplexe Mannigfaltigkeiten
+  Heft Nr. 191",,,"alg-geom math.AG",,"  In this paper the authors consider a certain toroidal compactification of the
+moduli space of degenerations of (1,p)-polarized abelian surfaces with
+(canonical) level structure. Using Hodge theory we give a proof that a
+degenerate abelian surface associated to a corank 1 boundary point is (almost)
+completely determined by the boundary point. The crucial ingredient in the
+proof is the Local Invariant Cycle theorem which relates the variation of Hodge
+structure to the mixed Hodge structure on the singular surface.
+","[{""version"":""v1"",""created"":""Tue, 12 Apr 1994 14:44:32 GMT""},{""version"":""v2"",""created"":""Wed, 20 Apr 1994 14:15:49 GMT""}]","2008-02-03"
+"alg-geom/9404007","G. B. M. van der Geer","Gerard van der Geer and Marcel van der Vlugt","On the Existence of Supersingular Curves of Given Genus","9 pages, plain TeX, UvA-report 94-10",,,,"alg-geom math.AG",,"  We give a method to construct explicitly a supersingular curve of given genus
+g in characteristic 2.
+","[{""version"":""v1"",""created"":""Tue, 12 Apr 1994 14:48:54 GMT""}]","2008-02-03"
+"astro-ph/9404022","Fabien Malbet","Fabien Malbet, Michael Shao and Jeffrey Yu","Active Optics and Coronography with the Hubble Space Telescope","in Proc. of 1994's SPIE symposium on ""Astronomical Telescopes &
+  Instrumentation for the 21st Century"",(10 pages, Postscript format, figures
+  included) - contact: [malbet@huey.jpl.nasa.gov]",,,,"astro-ph",,"  In the field of planet and proto-planetary disk detection, achieving high
+angular resolution and high dynamic range is a necessity. Coronography coupled
+with adaptive optics on Hubble Space Telescope is a way to get both good
+spatial resolution and high dynamic range. However, because of the residual
+figure errors on the primary and on the secondary, HST has a scattered light
+level that prevents it from detecting extra-solar planets. Our simulations show
+that by using an active mirror (400-1000 actuators) in the optical path of HST
+with adaptive optics, we can correct the mirror errors and decrease the
+scattering level by a factor $10^{2}$ (from $10^{-4}$ to $10^{-6}$ fainter than
+the star). Furthermore, by controlling the spatial frequencies of the active
+mirror with a {\em dark hole\/} algorithm we can decrease the scattering level
+in image zones where planet detection is likely. Using this technique, we have
+succeeded in decreasing the scattering level to $3\times 10^{-8}$ of the star
+intensity within 1 arcsec from the central star. This will allow the detection
+of a Jupiter-like planet $10^{-9}$ times dimmer than the central star located
+10 pc away in 1 hour of integration time with a signal-to-noise ratio of 5.
+This paper describes the method used to determine the actuator strokes applied
+to a deformable mirror to achieve planet detection and the design of a
+coronograph which implements this novel technique.
+","[{""version"":""v1"",""created"":""Tue, 12 Apr 1994 00:43:14 GMT""}]","2007-05-23"
+"astro-ph/9404023","Hirai","Toshinari Hirai and Kei-ichi Maeda","Gauge-Invariant Cosmological Perturbations in Generalized Einstein
+  Theories","LaTeX, 24 pages, 4 figures available on request, to appear in ApJ,
+  August 1994, WU-AP/32/93","Astrophys.J.431:6-19,1994","10.1086/174463",,"astro-ph",,"  Using the covariant approach and conformal transformations, we present a
+gauge-invariant formalism for cosmological perturbations in generalized
+Einstein theories (GETs), including the Brans-Dicke theory, theories with a
+non-minimally coupled scalar field and certain curvature-squared theories. We
+find an enhancement in the growth rate of density perturbations in the
+Brans-Dicke theory, and discuss attractive features of GETs in the structure
+formation process.
+","[{""version"":""v1"",""created"":""Tue, 12 Apr 1994 08:33:58 GMT""}]","2010-11-01"
+"cmp-lg/9404005","Mark Johnson","Mark Johnson (Brown University)","Memoization in Constraint Logic Programming","11 pages",,,,"cmp-lg cs.CL",,"  This paper shows how to apply memoization (caching of subgoals and associated
+answer substitutions) in a constraint logic programming setting. The research
+is is motivated by the desire to apply constraint logic programming (CLP) to
+problems in natural language processing that involve (constraint) interleaving
+or coroutining, such as GB and HPSG parsing.
+","[{""version"":""v1"",""created"":""Mon, 11 Apr 1994 17:22:40 GMT""}]","2008-02-03"
+"cond-mat/9404024",,"Y. Berk, A. Kamenev, A. Palevski, L. N. Pfeiffer, and K. W. West","Resonant Transport in Coupled Quantum Wells: a Probe for Scattering
+  Mechanisms","10 pages; 4 figures, REVTEX 3.0",,"10.1103/PhysRevB.50.15420",,"cond-mat",,"  We present a microscopical theory and experimental results concerning
+resistance resonance in two tunneling coupled quantum wells with different
+mobilities. The shape of the resonance appears to be sensitive to the small
+angle scattering rate on remote impurities and to the electron--electron
+scattering rate. This allows the extraction of scattering parameters directly
+from the transport measurements. The negative resonance in a Hall coefficient
+is predicted and observed for the first time.
+","[{""version"":""v1"",""created"":""Mon, 11 Apr 1994 18:10:19 GMT""}]","2009-10-22"
+"cond-mat/9404025","Yong-Shi Wu","Denis Bernard and Yong-Shi Wu","A Note on Statistical Interactions and the Thermodynamic Bethe Ansatz","Latex file, 9 pages; SPhT-94-043, UU-HEP/94-03}. (Minor changes with
+  references added)",,,,"cond-mat hep-th",,"  We show that the thermodynamic Bethe ansatz equations for one-dimensional
+integrable many-body systems can be reinterpreted in such a way that they only
+code the statistical interactions, in the sense of Haldane, between particles
+of identical or different momenta. Thus, the thermodynamic properties of these
+systems can be characterized by the generalized ideal gases recently proposed
+by one of us. For example, the Yang-Yang $\delta$-function gas is a gas with
+specific statistical interactions between particles of different momenta, while
+the Calogero-Sutherland system provides a model for an ideal gas of particles
+with a fractional statistics.
+","[{""version"":""v1"",""created"":""Tue, 12 Apr 1994 00:52:54 GMT""},{""version"":""v2"",""created"":""Fri, 29 Apr 1994 22:18:59 GMT""}]","2008-02-03"
+"cond-mat/9404026","Nobuhiko Taniguchi","N. Taniguchi, A. Hashimoto, B. D. Simons and B. L. Altshuler","Crossover Driven by Time-reversal Symmetry Breaking in Quantum Chaos","11 pages + 1 postscript file (compressed and uuencoded), REVTeX3,
+  MIT-CMT-NT03","Europhys. Lett. 27, 335(1994)","10.1209/0295-5075/27/5/001",,"cond-mat",,"  Parametric correlations of energy spectra of quantum chaotic systems are
+presented in the orthogonal-unitary and symplectic-unitary crossover region.
+The spectra are allowed to disperse as a function of two external
+perturbations: one of which preserves time-reversal symmetry, while the other
+violates it. Exact analytical expressions for the parametric two-point
+autocorrelation function of the density of states are derived in the crossover
+region by means of the supermatrix method. For the orthogonal-unitary
+crossover, the velocity distributions is determined and shown to deviate from
+Gaussian.
+","[{""version"":""v1"",""created"":""Tue, 12 Apr 1994 03:38:02 GMT""}]","2009-10-22"
+"cond-mat/9404027","Antti-Pekka Jauho","Antti-Pekka Jauho, Ned S.Wingreen, and Yigal Meir","Time-dependent transport in interacting and non-interacting mesoscopic
+  systems","42 pages, 13 figures (available either as ps-files, or as FAX, upon
+  request), RevTex 3.0",,"10.1103/PhysRevB.50.5528",,"cond-mat",,"  We consider a mesoscopic region coupled to two leads under the influence of
+external time-dependent voltages. The time dependence is coupled to source and
+drain contacts, the gates controlling the tunnel- barrier heights, or to the
+gates which define the mesoscopic region. We derive, with the Keldysh
+nonequilibrium Green function technique, a formal expression for the fully
+nonlinear, time-dependent current through the system. The analysis admits
+arbitrary interactions in the mesoscopic region, but the leads are treated as
+noninteracting. For proportionate coupling to the leads, the time-averaged
+current is simply the integral between the chemical potentials of the
+time-averaged density of states, weighted by the coupling to the leads, in
+close analogy to the time-independent result of Meir and Wingreen (PRL {\bf
+68}, 2512 (1992)). Analytical and numerical results for the exactly solvable
+non-interacting resonant-tunneling system are presented.
+","[{""version"":""v1"",""created"":""Tue, 12 Apr 1994 11:38:08 GMT""}]","2009-10-22"
+"gr-qc/9404019","Eric Woolgar","E. Woolgar","The Positivity of Energy for Asymptotically Anti-de Sitter Spacetimes","(Plain TeX - figures not included)","Class.Quant.Grav.11:1881-1900,1994","10.1088/0264-9381/11/7/022",,"gr-qc",,"  We use the formulation of asymptotically anti-de Sitter boundary conditions
+given by Ashtekar and Magnon to obtain a coordinate expression for the general
+asymptotically AdeS metric in a neighbourhood of infinity. From this, we are
+able to compute the time delay of null curves propagating near infinity. If the
+gravitational mass is negative, so will be the time delay (relative to null
+geodesics at infinity) for certain null geodesics in the spacetime. Following
+closely an argument given by Penrose, Sorkin, and Woolgar, who treated the
+asymptotically flat case, we are then able to argue that a negative time delay
+is inconsistent with non-negative matter-energies in spacetimes having good
+causal properties. We thereby obtain a new positive mass theorem for these
+spacetimes. The theorem may be applied even when the matter flux near the
+boundary-at-infinity falls off so slowly that the mass changes, provided the
+theorem is applied in a time-averaged sense. The theorem also applies in
+certain spacetimes having local matter-energy that is sometimes negative, as
+can be the case in semi-classical gravity.
+","[{""version"":""v1"",""created"":""Mon, 11 Apr 1994 22:45:16 GMT""}]","2010-04-06"
+"gr-qc/9404020","Eric Woolgar","E. Woolgar","Positive Energy for Asymptotically Anti-de Sitter Schwarzschild
+  Spacetimes","talk given at Fifth Canadian Conference on General Relativity and
+  Relativistic Astrophysics, Waterloo, 1993. (Plain TeX)",,,,"gr-qc",,"  Within the general class of Asymptotically Anti-de Sitter spacetimes that are
+asymptotic to the A-de-S Schwarzschild metric, we give a simple positive mass
+theorem based on arguments from causal structure. A general result for all
+asymptotically A-de-S spacetimes will be given elsewhere.
+","[{""version"":""v1"",""created"":""Mon, 11 Apr 1994 22:51:53 GMT""}]","2007-05-23"
+"gr-qc/9404021","Todd Brun","Todd A. Brun (Department of Physics, Caltech)","The Decoherence of Phase Space Histories","20 pages (RevTex 3.0 macros)",,,"Caltech preprint CALT-68-1929 (Corrected the preprint code)","gr-qc hep-th",,"  In choosing a family of histories for a system, it is often convenient to
+choose a succession of locations in phase space, rather than configuration
+space, for comparison to classical histories. Although there are no good
+projections onto phase space, several approximate projections have been used in
+the past; three of these are examined in this paper. Expressions are derived
+for the probabilities of histories containing arbitrary numbers of projections
+onto phase space, and the conditions for the decoherence of these histories are
+studied.
+","[{""version"":""v1"",""created"":""Tue, 12 Apr 1994 08:41:42 GMT""},{""version"":""v2"",""created"":""Wed, 13 Apr 1994 09:30:47 GMT""}]","2008-02-03"
+"hep-lat/9404006","Doug Toussaint","Tom Blum, Thomas A. DeGrand, Carleton DeTar, Steven Gottlieb, A.
+  Hasenfratz, Leo Karkkainen, D. Toussaint, and R.L. Sugar","QCD thermodynamics with Wilson quarks at large kappa","12 pages, AZPH-TH/94-06","Phys.Rev.D50:3377-3381,1994","10.1103/PhysRevD.50.3377",,"hep-lat",,"  We have extended our study of the high temperature transition with two
+flavors of Wilson quarks on 12^3 x 6 lattices to kappa=0.19. We have also
+performed spectrum calculations on 12^3 x 24 lattices at kappa=0.19 to find the
+physical lattice spacing and quark mass. At this value of kappa the transition
+is remarkable in that the plaquette and psi-bar-psi show a large discontinuity
+while the Polyakov loop changes very little. This and several other features of
+the transition are more suggestive of a bulk transition than a transition to a
+quark-gluon plasma. However, if the temperature is estimated using the rho mass
+as a standard, the result is about 150 MeV, in agreement with the value found
+for the thermal transition with Kogut-Susskind quarks. uuencoded compressed
+Postscript file
+","[{""version"":""v1"",""created"":""Tue, 12 Apr 1994 15:42:01 GMT""}]","2008-11-26"
+"hep-ph/9404251",,"J.E.Horvath","Curvature energy effects on strange quark matter nucleation at finite
+  density","PlainTex, 6 pp., IAG-USP Rep.58","Phys.Rev. D49 (1994) 5590-5592","10.1103/PhysRevD.49.5590",,"hep-ph astro-ph",,"  We consider the effects of the curvature energy term on thermal strange quark
+matter nucleation in dense neutron matter. Lower bounds on the temperature at
+which this process can take place are given and compared to those without the
+curvature term.
+","[{""version"":""v1"",""created"":""Mon, 11 Apr 1994 19:06:26 GMT""}]","2009-10-28"
+"hep-ph/9404252","Ed Stoeffhaas","F. Halzen and J.E Jacobsen","The Indirect Detection of Halo Dark Matter","Talk given by F. Halzen at the International Conference on Critique
+  of the Sources of Dark Matter in the Universe, UCLA, 1994. Standard Latex, 15
+  pages. Seven uufiled EPS figures included",,,"MAD/PH/823","hep-ph astro-ph",,"  High energy particles are produced by the annihilation of dark matter
+particles in our galaxy. These are presently searched for using balloon-borne
+antiproton and positron detectors and large area, deep underground neutrino
+telescopes. Dark matter particles, trapped inside the sun, are an abundant
+source of such neutrinos.
+  From both the cosmological and particle physics points of view the lightest,
+stable supersymmetric particle or neutralino is arguably the leading dark
+matter candidate. Its mass is bracketed by a minimum value of order a few tens
+of GeV, determined from unsuccessful accelerator searches, and a maximum value
+of order 1~TeV imposed by particle physics as well as cosmological constraints.
+Back-of-the-envelope calculations are sufficient to demonstrate how present
+neutrino telescopes are competitive with existing and future particle colliders
+such as the LHC in the search for supersymmetry. We emphasize that a $1\,\rm
+km^2$ area is the natural scale for a future instrument capable of probing the
+full GeV--TeV neutralino mass range by searching for high energy neutrinos
+produced by their annihilation in the sun.
+","[{""version"":""v1"",""created"":""Mon, 11 Apr 1994 19:05:44 GMT""}]","2016-09-01"
+"hep-ph/9404253","Christopher Kolda","Chris Kolda, Leszek Roszkowski, James D. Wells, and G.L. Kane","Predictions for Constrained Minimal Supersymmetry with Bottom-Tau Mass
+  Unification","Michigan preprint UM-TH-94-03, LaTeX, 18 pages with inline figures
+  (figures included in uuencoded file). Complete PS file also available by
+  anonymous FTP to williams.physics.lsa.umich.edu in
+  /pub/preprints/UM-TH-94-03.ps.Z or by e-mailing request","Phys.Rev.D50:3498-3507,1994","10.1103/PhysRevD.50.3498",,"hep-ph",,"  We examine the Constrained Minimal Supersymmetric Standard Model (CMSSM) with
+an additional requirement of strict b - tau unification in the region of small
+tan(beta). We find that the parameter space becomes completely limited below
+about 1 TeV by physical constraints alone, without a fine-tuning constraint. We
+study the resulting phenomenological consequences, and point out several ways
+of falsifying the adopted b - tau unification assumption. We also comment on
+the effect of a constraint from the non-observation of proton decay.
+","[{""version"":""v1"",""created"":""Mon, 11 Apr 1994 20:37:40 GMT""}]","2011-01-27"
+"hep-ph/9404256",,"R. D. Peccei","Summary Talk at the 3rd KEK Topical Conference on CP Violation","12 pages, UCLA/TEP/16; figures will be FAXed on request by e-mailing
+  reyes@physics.ucla.edu","Nucl.Phys.Proc.Suppl.37A:225-236,1994","10.1016/0920-5632(94)90754-4",,"hep-ph",,"  A summary of the contributions to this topical conference is presented. The
+topics discussed ranged from detailing what we know about CP violation, to what
+we hope to learn in the future, to still unsolved mysteries in the subject.
+","[{""version"":""v1"",""created"":""Tue, 12 Apr 1994 02:35:00 GMT""}]","2015-06-25"
+"hep-ph/9404257","Annemarie Blobel","Ralf Hempfling","Can the Supersymmetric $\mu$ parameter be generated dynamically without
+  a light Singlet?","6 pages, phyzzx, DESY 94-061","Phys.Lett. B329 (1994) 222-224","10.1016/0370-2693(94)90764-1",,"hep-ph",,"  It is generally assumed that the dynamical generation of the Higgs mass
+parameter of the superpotential, $\mu$, implies the existence of a light
+singlet at or below the supersymmetry breaking scale, $\msusy$. We present a
+counter-example in which the singlet field can receive an arbitrarily heavy
+mass (\eg, of the order of the Planck scale, $M_{\rm P}\approx 10^{19}~\gev$).
+In this example, a non-zero value of $\mu$ is generated through soft
+supersymmetry breaking parameters and is thus naturally of the order of
+$\msusy$.
+","[{""version"":""v1"",""created"":""Tue, 12 Apr 1994 07:23:16 GMT""}]","2009-10-28"
+"hep-ph/9404259",,"T. Arens and L.M. Sehgal","$W^+-H^+$ Interference and Partial Width Asymmetry in Top and Antitop
+  Decays","14 pages, report PITHA 94/19","Phys.Rev.D51:3525-3531,1995","10.1103/PhysRevD.51.3525",,"hep-ph",,"  We re-examine the question of a possible difference in the partial decay
+widths of $t$ and $\overline t$, induced by an intermediate scalar boson $H^+$
+with $CP$-violating couplings. The interference of $W^+$ and $H^+$ exchanges is
+analysed by constructing the $2\times 2$ propagator matrix of the $W^+-H^+$
+system, and determining its absorptive part in terms of fermion loops. Results
+are obtained for the partial rate difference in the channels $t\to bl^+\nu_l $
+and $t\to bc\overline s$, which fulfil explicitly the constraints of $CPT$
+invariance. These results are contrasted with those in previous work.
+","[{""version"":""v1"",""created"":""Tue, 12 Apr 1994 12:47:17 GMT""}]","2010-11-01"
+"hep-th/9404060","Paul Aspinwall","P. Aspinwall","Minimum Distances in Non-Trivial String Target Spaces","21 pages, IASSNS-HEP-94/19","Nucl.Phys. B431 (1994) 78-96","10.1016/0550-3213(94)90098-1",,"hep-th gr-qc",,"  The idea of minimum distance, familiar from R <-> 1/R duality when the string
+target space is a circle, is analyzed for less trivial geometries. The
+particular geometry studied is that of a blown-up quotient singularity within a
+Calabi-Yau space and mirror symmetry is used to perform the analysis. It is
+found that zero distances can appear but that in many cases this requires other
+distances within the same target space to be infinite. In other cases zero
+distances can occur without compensating infinite distances.
+","[{""version"":""v1"",""created"":""Mon, 11 Apr 1994 21:13:25 GMT""}]","2009-10-28"
+"hep-th/9404061","Alexandr Andrianov","A.A.Andrianov, F.Cannata, J.-P-Dedonder and M.V.Ioffe","Second Order Derivative Supersymmetry and Scattering Problem","19 pages LaTeX, Preprint SPbU-IP-94-03","Int.J.Mod.Phys.A10:2683-2702,1995","10.1142/S0217751X95001261",,"hep-th nucl-th",,"  Extensions of standard one-dimensional supersymmetric quantum mechanics are
+discussed. Supercharges involving higher order derivatives are introduced
+leading to an algebra which incorporates a higher order polynomial in the
+Hamiltonian. We study scattering amplitudes for that problem. We also study the
+role of a dilatation of the spatial coordinate leading to a q-deformed
+supersymmetric algebra. An explicit model for the scattering amplitude is
+constructed in terms of a hypergeometric function which corresponds to a
+reflectionless potential with infinitely many bound states.
+","[{""version"":""v1"",""created"":""Tue, 12 Apr 1994 14:34:09 GMT""}]","2010-04-06"
+"nucl-th/9404011","Jacek Dobaczewski","P. Navratil, H.B. Geyer, J. Dobes, and J. Dobaczewski","SDG fermion-pair algebraic SO(12) and Sp(10) models and their boson
+  realizations","25 LaTeX pages, 4 uuencoded postscript figures included, Preprint
+  IFT/8/94 & STPHY-TH/94-4","Annals Phys. 243 (1995) 218-246","10.1006/aphy.1995.1098",,"nucl-th",,"  It is shown how the boson mapping formalism may be applied as a useful
+many-body tool to solve a fermion problem. This is done in the context of
+generalized Ginocchio models for which we introduce S-, D-, and G-pairs of
+fermions and subsequently construct the sdg-boson realizations of the
+generalized Dyson type. The constructed SO(12) and Sp(10) fermion models are
+solved beyond the explicit symmetry limits. Phase transitions to rotational
+structures are obtained, also in situations where there is no underlying SU(3)
+symmetry.
+","[{""version"":""v1"",""created"":""Tue, 12 Apr 1994 09:09:30 GMT""}]","2015-06-26"
+"nucl-th/9404012",,"LADS collaboration, T.Alteholz, D.Androic, G.Backenstoss, D.Bosnar,
+  H.Breuer, A.Brkovic, H.Dobbeling, T. Dooling, W.Fong, M.Furic, P.A.M.Gram,
+  N.K.Gregory, J.P.Haas, A.Hoffart, C.H.Q.Ingram, A.Klein, K.Koch, J.Kohler,
+  B.Kotlinski, M.Kroedel, G.Kyle, A.Lehmann, Z.N.Lin, G.Mahl, A.O.Mateos,
+  K.Michaelian, S.Mukhopadhyay, T.Petkovic, R.P.Redwine, D.Rowntree, R.
+  Schumacher, U.Sennhauser, N.Simicevic, F.D.Smit, G.van der Steenhoven,
+  D.R.Tieger, R.Trezeciak, H.Ullrich, M.Wang, M.H.Wang, H.J.Weyer, M.Wildi,
+  K.E.Wilson","A Large Solid Angle Study of Pion Absorption on He3","8 pages, LaTeX. 3 figures, anonymous ftp MITLNS.MIT.EDU, cd LADS.
+  Submitted to PRL. PSI-PR-94-11 (Paul Scherrer Institute) and LNS 94-56 (MIT
+  Lab. for Nucl. Sci.)","Phys.Rev.Lett. 73 (1994) 1336-1339","10.1103/PhysRevLett.73.1336",,"nucl-th",,"  Measurements have been made of pi+ absorption on He3 at T_pi+ = 118, 162, and
+239 MeV using the Large Acceptance Detector System (LADS). The nearly 4pi solid
+angle coverage of this detector minimizes uncertainties associated with
+extrapolations over unmeasured regions of phase space. The total absorption
+cross section is reported. In addition, the total cross section is divided into
+components in which only two or all three nucleons play a significant role in
+the process. These are the first direct measurements of the total and three
+nucleon absorption cross sections.
+","[{""version"":""v1"",""created"":""Mon, 11 Apr 1994 19:24:53 GMT""},{""version"":""v2"",""created"":""Tue, 12 Apr 1994 19:34:53 GMT""}]","2019-08-17"
+"nucl-th/9404013",,"L. Tiator, C. Bennhold and S.S. Kamalov","The $\eta$NN Coupling in Eta Photoproduction","25 pages, 9 figures (available from the authors), Mainz preprint
+  MKPH-T-94-3","Nucl.Phys. A580 (1994) 455-474","10.1016/0375-9474(94)90909-1",,"nucl-th",,"  Low-energy eta photoproduction on the nucleon is studied in an effective
+Lagrangian approach that contains Born terms, vector meson and nucleon
+resonance contributions. The resonance sector includes the $S_{11}(1535)$,
+$P_{11}(1440)$ and $D_{13}(1520)$ states whose couplings are fixed by
+independent electromagnetic and hadronic data. The available $(\gamma,\eta)$
+data are employed to discuss the difference between pseudoscalar and
+pseudovector Born terms and to determine the magnitude of the $\eta NN$
+coupling constant. We present multipoles that are most sensitive to the various
+model ingredients and demonstrate how these multipoles may be accessed in
+polarization observables. Cross section calculations are presented for eta
+photoproduction on light nuclei.
+","[{""version"":""v1"",""created"":""Tue, 12 Apr 1994 14:22:17 GMT""}]","2009-10-28"
+"nucl-th/9404014",,"T. Alm(1), G. Roepke(1) and M. Schmidt(2) ((1)Arbeitsgruppe der
+  Max-Planck-Gesellschaft ``Theoretische Vielteilchenphysik ``an der
+  Universitaet Rostock Germany;(2)Institut fuer Ostseeforschung
+  Rostock-Warnemuende Germany)","Critical Enhancement of the In-medium Nucleon-Nucleon Cross Section at
+  low Temperatures","10 pages with 4 figures (available on request from the authors),
+  MPG-VT-UR 34/94 accepted for publication in Phys. Rev. C","Phys.Rev.C50:31-37,1994","10.1103/PhysRevC.50.31",,"nucl-th",,"  The in-medium nucleon-nucleon cross section is calculated starting from the
+thermodynamic T-matrix at finite temperatures. The corresponding
+Bethe-Salpeter-equation is solved using a separable representation of the Paris
+nucleon-nucleon-potential. The energy-dependent in-medium N-N cross section at
+a given density shows a strong temperature dependence. Especially at low
+temperatures and low total momenta, the in-medium cross section is strongly
+modified by in-medium effects. In particular, with decreasing temperature an
+enhancement near the Fermi energy is observed. This enhancement can be
+discussed as a precursor of the superfluid phase transition in nuclear matter.
+","[{""version"":""v1"",""created"":""Tue, 12 Apr 1994 13:50:26 GMT""}]","2009-09-25"

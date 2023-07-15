@@ -1,0 +1,357 @@
+"chao-dyn/9412003","Pierre Collet","P. Collet (Centre de Physique Th'eorique Laboratoire CNRS, Ecole
+  Polytechnique, Palaiseau, France.), J. Xin (Department of Mathematics
+  University of Arizona Tucson, AZ)","Global Existence and Large Time Asymptotic Bounds of $L^{infty}$
+  Solutions of Thermal Diffusive Combustion Systems on $R^{n}$","15 pages, dvi uuencoded",,,"Mittag-Leffler 1994/1995 No 9","chao-dyn nlin.CD",,"  We consider the initial value problem for the thermal-diffusive combustion
+systems of the form:
+  $u_{1,t}= Delta_{x}u_1 - u_1 u_2^m$, $u_{2,t}= d Delta_{x} u_2 + u_1 u_2^m$,
+  $x in R^{n}$, $n geq 1$, $m geq 1$, $d > 1$,
+  with bounded uniformly continuous nonnegative initial data. For such initial
+data, solutions can be simple traveling fronts or complicated domain walls. Due
+to the well-known thermal-diffusive instabilities when $d$, the Lewis number,
+is sufficiently away from one, front solutions are potentially chaotic. It is
+known in the literature that solutions are uniformly bounded in time in case $d
+leq 1$ by a simple comparison argument. In case $d >1$, no comparison principle
+seems to apply. Nevertheless, we prove the existence of global classical
+solutions and show that the $L^{infty}$ norm of $u_2$ can not grow faster than
+$O(log log t)$ for any space dimension. Our main tools are local $L^{p}$
+a-priori estimates and time dependent spatially decaying test functions. Our
+results also hold for the Arrhenius type reactions.
+","[{""version"":""v1"",""created"":""Mon, 5 Dec 1994 10:59:26 GMT""}]","2016-08-31"
+"cmp-lg/9412002","Robbin Collier","Robin Collier (Department of Computer Science, University of
+  Sheffield, England)","N-Gram Cluster Identification During Empirical Knowledge Representation
+  Generation",,,,,"cmp-lg cs.CL",,"  This paper presents an overview of current research concerning knowledge
+extraction from technical texts. In particular, the use of empirical techniques
+during the identification and generation of a semantic representation is
+considered. A key step is the discovery of useful n-grams and correlations
+between clusters of these n-grams.
+","[{""version"":""v1"",""created"":""Mon, 5 Dec 1994 05:40:54 GMT""}]","2008-02-03"
+"cond-mat/9412015","Gaitan Frank","Frank Gaitan","Microscopic Analysis of the Non-Dissipative Force on a Line Vortex in
+  Superconductor","abbrev. version of cond-mat/9408025, 4 pages, RevTex, no figures",,"10.1088/0953-8984/7/12/002","IC/94/383","cond-mat",,"  A microscopic analysis of the non-dissipative force F_nd acting on a line
+vortex in a type-II superconductor at T=0 is given. All work assumes a charged
+BCS superconductor. We first examine the Berry phase induced in the BCS ground
+state by movement of the vortex and show how this phase enters into the
+hydrodynamic action S_hyd of the condensate. Appropriate variation of S_hyd
+gives F_nd and variation of the Berry phase term is seen to contribute the
+Magnus force of classical hydrodynamics to F_nd. This analysis confirms in
+detail the arguments of Ao and Thouless within the context of the BCS model.
+Our Berry phase, in the limit e -> 0, reproduces the Berry phase they obtain
+for a neutral superfluid. A second independent determination of F_nd is given
+through a microscopic derivation of the continuity equation for the condensate
+linear momentum. This yields the acceleration equation for the superflow. The
+vortex is seen to act as a momentum sink and the rate of momentum loss yields
+F_nd. Both calculations yield the same F_nd and show that the Magnus force
+contribution to F_nd is a consequence of the vortex motion and topology.
+","[{""version"":""v1"",""created"":""Sun, 4 Dec 1994 19:35:32 GMT""}]","2009-10-22"
+"cond-mat/9412016","Diptiman Sen","R. Chitra, Swapan K. Pati, H. R. Krishnamurthy, D. Sen and S.
+  Ramasesha","DMRG Studies of the Spin-Half Heisenberg System with Dimerization and
+  Frustration","17 pages in tex; figures not included; this published version differs
+  significantly from the original, particularly in some numbers","Phys. Rev. B 52 (1995) 6581 - 6587","10.1103/PhysRevB.52.6581",,"cond-mat",,"  Using the density matrix renormalization group technique, we study the ground
+state phase diagram and other low-energy properties of an isotropic
+antiferromagnetic spin-half chain with both dimerization and frustration, i.e.,
+an alternation $\delta$ of the nearest neighbor exchanges and a
+next-nearest-neighbor exchange $J_2~$. For $\delta = 0$, the system is gapless
+for $J_2 < J_{2c} ~$ and has a gap for $J_2 > J_{2c} ~$ where $J_{2c}~$ is
+about $0.241$. For $J_2 = J_{2c}$, the gap above the ground state grows as
+$\delta$ to the power $0.667 \pm 0.001$. In the $J_2 - \delta$ plane, there is
+a disorder line $2 J_2 + \delta = 1$. To the left of this line, the peak in the
+static structure factor $S(q)$ is at $q_{max} = \pi$ (Neel phase), while to the
+right of the line, $q_{max}$ decreases from $\pi$ to $\pi / 2$ as $J_2$ is
+increased to large values (spiral phase). For $\delta = 1$, the system is
+equivalent to two coupled chains as on a ladder and it is gapped for all values
+of the interchain coupling.
+","[{""version"":""v1"",""created"":""Mon, 5 Dec 1994 06:49:00 GMT""},{""version"":""v2"",""created"":""Fri, 19 Apr 1996 08:10:38 GMT""}]","2009-10-22"
+"cond-mat/9412017","Diptiman Sen","Diptiman Sen and R. Chitra","Large-$U$ limit of a Hubbard model in a magnetic field: chiral spin
+  interactions and paramagnetism","12 pages, plain TeX, one figure available on request, to appear in
+  Phys. Rev. B","Phys. Rev. B 51 (1995) 1922-1925","10.1103/PhysRevB.51.1922",,"cond-mat",,"  We consider the large-$U$ limit of the one-band Hubbard model at half-filling
+on a non-bipartite two-dimensional lattice. An external magnetic field can
+induce a three-spin chiral interaction at order $1 / U^2 ~$. We discuss
+situations in which, at low temperatures, the chiral term may have a larger
+effect than the Pauli coupling of electron spins to a magnetic field. We
+present a model which explicitly demonstrates this. The ground state is a
+singlet with a gap; hence the spin susceptibility is zero while the chiral
+susceptibility is finite and paramagnetic.
+","[{""version"":""v1"",""created"":""Mon, 5 Dec 1994 07:16:00 GMT""}]","2009-10-22"
+"cond-mat/9412018","Giorgio Parisi","Giorgio Parisi (Dip. Fisica, Univ. Roma I)","Complexity in Biology",,,,,"cond-mat hep-th q-bio.MN",,"  We will review some of the theoretical progresses that have been in the study
+of complex systems in physics and of their applications to biology.
+","[{""version"":""v1"",""created"":""Mon, 5 Dec 1994 08:59:32 GMT""}]","2008-02-03"
+"cond-mat/9412019",,"B. Bonnier, Y. Leroyer and E. Pommiers","Random sequential adsorption on a dashed line","14 pages (Latex) + 4 Postscript figures",,"10.1088/0305-4470/28/7/009",,"cond-mat",,"  We study analytically and numerically a model of random sequential adsorption
+(RSA) of segments on a line, subject to some constraints suggested by two kinds
+of physical situations:
+  - deposition of dimers on a lattice where the sites have a spatial extension;
+  - deposition of extended particles which must overlap one (or several)
+adsorbing sites on the substrate.
+  Both systems involve discrete and continuous degrees of freedom, and, in one
+dimension, are equivalent to our model, which depends on one length parameter.
+When this parameter is varied, the model interpolates between a variety of
+known situations : monomers on a lattice, ""car-parking"" problem, dimers on a
+lattice. An analysis of the long-time behaviour of the coverage as a function
+of the parameter exhibits an anomalous 1/t^2 approach to the jamming limit at
+the transition point between the fast exponential kinetics, characteristic of
+the lattice model, and the 1/t law of the continuous one.
+","[{""version"":""v1"",""created"":""Mon, 5 Dec 1994 10:59:40 GMT""},{""version"":""v2"",""created"":""Thu, 8 Dec 1994 12:51:14 GMT""}]","2016-08-31"
+"cond-mat/9412020","Chimera","L.A. Fernandez, E. Marinari and J. J. Ruiz-Lorenzo","Tempering Dynamics and Relaxation Times in the $3D$ Ising Model","10 pages, compressed ps-file (uufiles)","Journal de Physique I (France) 5 (1995)","10.1051/jp1:1995195",,"cond-mat",,"  We discuss the tempering Monte Carlo method, and its critical slowing down in
+the $3d$ Ising model. We show that at $T_c$ the tempering does not change the
+critical slowing down exponent $z$. We also discuss the exponential slowing
+down for the transition from the plus to the minus state in the cold phase, and
+we show that tempering reduces it to a power law slowing down. We discuss the
+relation of the flip-flop rate to the surface tension for the local dynamical
+schemes.
+","[{""version"":""v1"",""created"":""Mon, 5 Dec 1994 11:55:54 GMT""}]","2009-10-22"
+"cond-mat/9412021","Uwe Tauber","Uwe C. T\""auber, Hongjie Dai, David R. Nelson, and Charles M. Lieber","Coulomb Gap and Correlated Vortex Pinning in Superconductors","10 pages, Revtex, 4 figures appended as uu-encoded postscript files,
+  also available as hardcopies from tauber@cmt.harvard.edu","Phys. Rev. Lett. 74 (1995) 5132","10.1103/PhysRevLett.74.5132",,"cond-mat",,"  The positions of columnar pins and magnetic flux lines determined from a
+decoration experiment on BSCCO were used to calculate the single--particle
+density of states at low temperatures in the Bose glass phase. A wide Coulomb
+gap is found, with gap exponent $s \approx 1.2$, as a result of the long--range
+interaction between the vortices. As a consequence, the variable--range hopping
+transport of flux lines is considerably reduced with respect to the
+non--interacting case, the effective Mott exponent being enhanced from $p_0 =
+1/3$ to $p_{\rm eff} \approx 0.5$ for this specific experiment.
+","[{""version"":""v1"",""created"":""Mon, 5 Dec 1994 15:13:12 GMT""},{""version"":""v2"",""created"":""Fri, 9 Dec 1994 20:19:05 GMT""}]","2009-10-22"
+"cond-mat/9412026","Igor Herbut","Igor Herbut (Johns Hopkins University)","Spectral Boundary of Positive Random Potential in a Strong Magnetic
+  Field","12 pages, LaTex, 5 figures available upon request, to appear in Phys.
+  Rev. B",,"10.1103/PhysRevB.51.9820",,"cond-mat",,"  We consider the problem of randomly distributed positive delta-function
+scatterers in a strong magnetic field and study the behavior of density of
+states close to the spectral boundary at $E=\hbar\omega_{c}/2$ in both two and
+three dimensions. Starting from dimensionally reduced expression of Brezin et
+al. and using the semiclassical approximation we show that the density of
+states in the Lifshitz tail at small energies is proportio- nal to $e^{f-2}$ in
+two dimensions and to $\exp(-3.14f\ln(3.14f/\pi e)/ \sqrt(2me))$ in three
+dimensions, where $e$ is the energy and $f$ is the density of scatterers in
+natural units.
+","[{""version"":""v1"",""created"":""Mon, 5 Dec 1994 13:15:24 GMT""}]","2009-10-22"
+"gr-qc/9412013","Dirk Graudenz","Dirk Graudenz (CERN)","On the Space-Time Geometry of Quantum Systems","15 pages (LaTeX); figures are included via epsfig; the corresponding
+  postscript files are uuencoded; AMS-fonts are needed",,,"CERN-TH.7516/94","gr-qc hep-th",,"  We describe the time evolution of quantum systems in a classical background
+space-time by means of a covariant derivative in an infinite dimensional vector
+bundle. The corresponding parallel transport operator along a timelike curve
+$\cC$ is interpreted as the time evolution operator of an observer moving along
+$\cC$. The holonomy group of the connection, which can be interpreted as a
+group of local symmetry transformations, and the set of observables have to
+satisfy certain consistency conditions. Two examples related to local
+$\mbox{SO}(3)$ and $\mbox{U}(1)$-symmetries, respectively, are discussed in
+detail. The theory developed in this paper may also be useful to analyze
+situations where the underlying space-time manifold has closed timelike curves.
+","[{""version"":""v1"",""created"":""Mon, 5 Dec 1994 11:52:07 GMT""}]","2007-05-23"
+"hep-lat/9412023",,"J.-F. Lagae and K.-F. Liu","Finite ma corrections for sea quark matrix elements","3 pages, contribution to LATTICE'94, uuencoded compressed tar file
+  (square root removed in equation (1))","Nucl.Phys.Proc.Suppl. 42 (1995) 355-357","10.1016/0920-5632(95)00248-8","UK/94-05","hep-lat",,"  We discuss the finite $ma$ corrections associated with the computation of sea
+quark matrix elements. We find them to differ from the standard normalization
+used for valence quarks and to depend strongly on the Lorentz structure of the
+current under consideration. Phenomenological implications of these results are
+briefly discussed in two examples. We also mention how the magnitude of the
+correction factors can be reduced by using a 2-link improved action.
+","[{""version"":""v1"",""created"":""Mon, 5 Dec 1994 04:51:12 GMT""},{""version"":""v2"",""created"":""Tue, 6 Dec 1994 03:42:50 GMT""}]","2009-10-28"
+"hep-lat/9412024",,"J.B. Kogut and J.-F. Lagae","Quenched QED on a momentum space lattice","3 pages, contribution to LATTICE'94, uuencoded compressed tar file","Nucl.Phys.Proc.Suppl. 42 (1995) 681-683","10.1016/0920-5632(95)00349-E","ILL-(TH)-94-25","hep-lat",,"  We discuss the advantages of using the momentum space lattice method for
+studying the phase diagram of quenched QED_4. Preliminary results of a
+numerical simulation are presented. They indicate that the method avoids the
+contamination by 4-fermi interactions which plagues the conventional position
+space non-compact formulation.
+","[{""version"":""v1"",""created"":""Mon, 5 Dec 1994 04:52:51 GMT""}]","2009-10-28"
+"hep-lat/9412025","Yoshinobu Kuramashi","M. Fukugita, Y. Kuramashi, M. Okawa and A. Ukawa","Scalar and axial vector matrix elements of proton in quenched QCD:
+  Calculation of both connected and disconnected contributions","3 pages. Latex source file with two figures as epsf-file. Style file
+  is appended at the end. Contribution to Lattice 94",,"10.1016/0920-5632(95)00243-3",,"hep-lat",,"  $\pi$-$N$ $\sigma$ term and proton axial vector matrix elements are
+calculated including disconnected contributions with a variant wall source
+method using the Wilson quark action at $\beta=5.7$ in quenched QCD. For the
+$\sigma$ term, we find $\sigma_{disc}/\sigma_{conn}=2.35(46)$ and
+$\sigma=44(6)$MeV--60(9)MeV. The fraction of proton spin carried by quarks is
+$\Delta\Sigma=\Delta{u}+\Delta{d}+\Delta{s}=+0.638(54)-0.347(46)-0.109(30)=
++0.18(10)$.
+","[{""version"":""v1"",""created"":""Mon, 5 Dec 1994 04:45:39 GMT""}]","2009-10-28"
+"hep-lat/9412026","Shinji Ejiri","Shinji Ejiri, Shun-ichi Kitahara, Yoshimi Matsubara and Tsuneo Suzuki","String tension and monopoles in $T \neq 0$ SU(2) QCD","3pages (6 figures), Latex, Contribution to Lattice 94","Nucl.Phys.Proc.Suppl. 42 (1995) 481-483","10.1016/0920-5632(95)00286-I","KANAZAWA 94-28","hep-lat",,"  Monopole and photon contributions to abelian Wilson loops are calculated
+using Monte-Carlo simulations of finite-temperature $SU(2)$ QCD in the
+maximally abelian gauge. The string tension is reproduced by monopole
+contribution alone also in finite temperature SU(2) QCD. The spatial string
+tension scales as $\sqrt{\sigma} \propto g^{2}(T)T$ and is reproduced almost by
+monopole contribution alone. Each configuration has one long monopole loop, and
+the long monopole loops alone are responsible for the string tension in the
+confinement phase. On the other hand, the spatial string tension in the
+deconfinement phase is reproduced by wrapped monopole loops alone.
+","[{""version"":""v1"",""created"":""Mon, 5 Dec 1994 07:20:26 GMT""}]","2009-10-28"
+"hep-lat/9412027","Bornyakov","G.S. Bali, V. Bornyakov, M. M\""uller-Preussker and F. Pahl","New algorithm for gauge fixing in SU(2) lattice gauge theory","Talk given at the LATTICE '94 International Symposium on Lattice
+  Field Theory, Bielefeld, Germany, September 27 -- October 1, 1994. 4 pages,
+  uuencoded","Nucl.Phys.Proc.Suppl. 42 (1995) 852-854","10.1016/0920-5632(95)00401-T","HUB--IEP--94/29, WUB 94-35","hep-lat",,"  An overrelaxed variant of simulated annealing is applied to the problem of
+maximally abelian gauge fixing. The superiority of this algorithm over the
+commonly used relaxation procedure is demonstrated. Biases on non gauge
+invariant quantities due to gauge fixing ambiguities are discussed.
+","[{""version"":""v1"",""created"":""Mon, 5 Dec 1994 10:47:45 GMT""}]","2009-10-28"
+"hep-lat/9412028","J. Westphalen","M. Gockeler, H.A. Kastrup, J. Viola and J. Westphalen","Fermion-Fermion Scattering in the Gross-Neveu Model - a Status Report","4 pages, uuencoded compressed Postscript, contribution to Lattice 94,
+  also available at ftp://thphys.physik.rwth-aachen.de/pub/scat/Lat94proc.ps.Z
+  and http://thphys.physik.rwth-aachen.de/thphys/papers","Nucl.Phys.Proc.Suppl. 42 (1995) 782-784","10.1016/0920-5632(95)00381-I","HLRZ-94-47","hep-lat",,"  Encouraged by the successful applications of L\""uscher's method to
+boson--boson scattering we discuss the possibility of extracting scattering
+phase shifts from finite--volume energies for fermion--fermion scattering in
+the Gross--Neveu model.
+","[{""version"":""v1"",""created"":""Mon, 5 Dec 1994 11:36:24 GMT""}]","2009-10-28"
+"hep-lat/9412029",,"A.M.Green, J. Lukkarinen, P. Pennanen, C.Michael and S.Furui","Four-quark energies in SU(2) lattice Monte Carlo using a tetrahedral
+  geometry","3 pages, latex, no figures, contribution to Lattice 94","Nucl.Phys.Proc.Suppl.42:249-251,1995","10.1016/0920-5632(95)00216-V","HU-TFT-94-49","hep-lat",,"  This contribution -- a continuation of earlier work -- reports on recent
+developments in the calculation and understanding of 4-quark energies generated
+using lattice Monte Carlo techniques.
+","[{""version"":""v1"",""created"":""Mon, 5 Dec 1994 11:51:27 GMT""}]","2008-11-26"
+"hep-lat/9412030","Arjan Hulsebos","Arjan Hulsebos and Peer Ueberholz","Topological Updating Schemes: A Case Study In 3-d U(1)","3 pages as PostScript file. To appear in the proceedings of
+  Lattice'94, held in Bielefeld, Germany","Nucl.Phys.Proc.Suppl. 42 (1995) 873-875","10.1016/0920-5632(95)00407-Z",,"hep-lat",,"  We study a topological updating scheme in three dimensional U(1) gauge
+theory. Some expectations for four dimensional SU(N) gauge theories are
+discussed.
+","[{""version"":""v1"",""created"":""Mon, 5 Dec 1994 12:02:47 GMT""}]","2009-10-28"
+"hep-lat/9412031","Arjan Hulsebos","Arjan Hulsebos","Anisotropic Gauge Theories: A Numerical Study of the Fu-Nielsen Model","To appear in the proceedings of Lattice'94, held in Bielefeld,
+  Germany","Nucl.Phys.Proc.Suppl. 42 (1995) 618-620","10.1016/0920-5632(95)00329-8",,"hep-lat",,"  We study numerically 4+1 dimensional pure gauge theory.
+","[{""version"":""v1"",""created"":""Mon, 5 Dec 1994 11:59:35 GMT""}]","2016-08-31"
+"hep-ph/9412226","Alexander Khodjamirian","Alexander Khodjamirian and Reinhold R\""uckl","Heavy-to-Light Form Factors from QCD Sum Rules on the Light-Cone","presented by A. Khodjamirian at the Workshop ""Theory of Hadrons and
+  Light-Front QCD"", Zakopane, Poland, August 1994, 7 pages, latex, 4 figures in
+  uuencoded .ps file",,,"MPI-PhT/94-79, LMU 19/94","hep-ph",,"  We discuss the calculation of the $B \rightarrow \pi$ and $D \rightarrow \pi$
+form factors based on an expansion in terms of pion wave functions on the
+light-cone with increasing twist and QCD sum rule methods. The results are
+compared with predictions of conventional QCD sum rules and other approaches.
+","[{""version"":""v1"",""created"":""Sun, 4 Dec 1994 19:11:31 GMT""},{""version"":""v2"",""created"":""Tue, 6 Dec 1994 08:23:44 GMT""}]","2009-09-25"
+"hep-ph/9412227",,"I.I. Bigi","The Expected, The Promised and The Conceivable -- On CP Violation in
+  Beauty and Charm Decays","Invited Talk given at HQ 94; LATEX, 14 pages, 3 figures, 3 EPS files
+  -- 7207FG1.EPS, 7207FG4.EPS, 7207FG5.EPS -- attached at end ofdocument","Frascati Phys.Ser.3:235-248,1994",,"UND-HEP-94-BIG11","hep-ph",,"  the KM expectations of large CP asymmetries in $B$ decays are reviewed. I
+describe some observable signatures for the intervention of New Physics and
+list benchmarks defining the `ultimate' measurements in beauty physics. I also
+stress the need for dedicated searches for CP asymmetries in $D$ decays;
+attaining a sensitivity level of $10^{-3}$ could well reveal New Physics and
+thus lead to a new paradigm.
+","[{""version"":""v1"",""created"":""Mon, 5 Dec 1994 04:59:30 GMT""}]","2010-11-01"
+"hep-ph/9412228","Michael Booth","Michael J. Booth","Quenched Chiral Corrections to Heavy-Light Decay Constants at Order 1/M","14 pages, Latex, 6 postscript figures (included separately). Complete
+  ps available at http://www.phys.ufl.edu/~booth/papers/quenched2.ps.gz . Minor
+  changes to text in revised version",,,"IFT-94-10","hep-ph",,"  Quenched chiral perturbation is used to study the decay constants for
+heavy-light mesons beyond the leading order in 1/M. The results are used to
+estimate the error in quenched lattice calculations of the decay constants. For
+the double ratio $R_1 = ( f_{D_s}/f_D) / (f_{B_s}/f_B)$ we find that the error
+is small, conservatively 6%, but likely smaller. We also find that quenching
+decreases the ratio $f_{D_s}/f_D$ relative to the unquenched theory.
+","[{""version"":""v1"",""created"":""Mon, 5 Dec 1994 03:21:32 GMT""},{""version"":""v2"",""created"":""Thu, 8 Dec 1994 02:43:03 GMT""}]","2008-02-03"
+"hep-ph/9412229","Olivier Pene","R. Aleksan, A. Le Yaouanc, L. Oliver, O. P\`ene and J.-C. Raynal","The $B \to K^\ast \psi$ Polarization Puzzle","LATEX 15 pages, Contribution to the First Arctic Workshop on Future
+  Physics and Accelarators, Saariselk\""a, Finland, August 1994",,,"LPTHE Orsay-94/105","hep-ph",,"  We point out that current estimates of form factors fail to explain the
+non-leptonic decays $B \to \psi K(K^{\ast})$ and that the combination of data
+on the semi-leptonic decays $D \to K(K^{\ast})\ell \nu$ and on the non-leptonic
+decays $B \to \psi K(K^{\ast})$ (in particular recent po\-la\-ri\-za\-tion
+data) severely constrain the form (normalization and $q^2$ dependence) of the
+heavy-to-light meson form factors, if we assume the factorization hypothesis
+for the latter. From a simultaneous fit to \bpsi and \dk data we find that
+strict heavy quark limit scaling laws applied to the form factors do not hold
+when going from $D$ to $B$ and must have large corrections that make softer the
+dependence on the masses. This is in contrast with the matrix elements
+themselves which are found to need smaller $1/m_Q$ corrections to the
+asymptotic heavy quark scaling laws. We also find that $A_1(q^2)$ should
+increase slower with \qq than $A_2, V, f_+$. We propose a simple
+parametrization of these corrections based on a quark model or on an extension
+of the \hhs laws to the \hl case, complemented with an approximately constant
+$A_1(q^2)$. This model may be viewed as assuming a precocious validity of
+strict heavy quark scaling laws for the current matrix elements. Although this
+model reproduces qualitatively the wanted features for mass and $q^2$
+dependence, and thus reduces the discrepancy with data, it is insufficient to
+reach a full agreement with the experiment. In our opinion the puzzle is still
+there.
+","[{""version"":""v1"",""created"":""Mon, 5 Dec 1994 08:53:40 GMT""}]","2007-05-23"
+"hep-ph/9412230",,"E.L. Bratkovskaya, E.A. Kuraev, Z.K. Silagadze, O.V. Teryaev","Spin-Momentum Correlation (Handedness) in the Process of Four Pions
+  Production in the Electron-Positron Collisions","9 pages, Latex, without figures. To appear in Phys. Lett. B","Phys.Lett. B338 (1994) 471","10.1016/0370-2693(94)90802-8","E4-94-234 (Dubna)","hep-ph",,"  We discuss special type of polarization asymmetry (``handedness"") in the
+process $e^+e^-\to 4\pi$, when one of initial particles is longitudinally
+polarized. The asymmetry is proportional to the degree of polarization and to
+the width to mass ratio of rho-meson. It can reach 4-5\% in some kinematical
+region. Both channels $2 \pi^+ 2 \pi^-$ and $2 \pi^0 \pi^+ \pi^-$ are
+considered in the framework of the effective chiral lagrangian with vector
+mesons, in the energy range $\sim 1$ GeV. The corresponding total cross
+sections are also calculated.
+","[{""version"":""v1"",""created"":""Mon, 5 Dec 1994 14:19:42 GMT""}]","2009-10-28"
+"hep-ph/9412231",,"L.Ya.Glozman, D.O.Riska","Systematics of the Light and Strange Baryons and the Symmetries of QCD","The SU(3) flavor breaking Lambda-N, Sigma-Lambda and Xi-Sigma
+  splittings derived and shown to agree well with the empirical values",,,"HU-TFT-94-48","hep-ph",,"  The spectra of the nucleons and the strange hyperons are well described by a
+harmonic confinement potential for the constituent quarks and an SU(3)
+flavor-symmetric interaction mediated by the pseudoscalar octet that is
+associated with the hidden approximate chiral symmetry of QCD. The spectrum is
+formed of multiplets of $SU(6)_{FS}\times U(6)_{conf}$, which are mixed by the
+octet interaction. With 4 matrix elements of the octet mediated interaction
+determined by the lowest mass splittings in the nucleon spectrum the resulting
+mass formula predicts the whole spectrum with an accuracy of $\sim$ 5\%.
+","[{""version"":""v1"",""created"":""Mon, 5 Dec 1994 11:38:19 GMT""},{""version"":""v2"",""created"":""Fri, 16 Dec 1994 13:43:11 GMT""},{""version"":""v3"",""created"":""Thu, 23 Feb 1995 23:32:16 GMT""}]","2008-02-03"
+"hep-ph/9412232","Ruth Gregory","Ruth Gregory","A Note on the Finiteness of Curvature at Cosmic String Cusps","7 pages, plain TeX",,,"DTP/94/51, DAMTP/R-94/59","hep-ph gr-qc hep-th",,"  We examine a Nambu-Goto string trajectory in the neighbourhood of a cusp and
+determine the extrinsic curvature invariants. These are demonstrated to be
+finite, in contradiction with naive expectation. Thus the Nambu action is a
+valid approximation for the motion of a cosmic string vortex even at cusps.
+This suggests that cusp annihilation is not a feasible mechanism for particle
+radiation from cosmic strings.
+","[{""version"":""v1"",""created"":""Mon, 5 Dec 1994 15:40:20 GMT""}]","2007-05-23"
+"hep-ph/9412239","""V. A."" Khoze","Valery A. Khoze","Chromo- and Electrodynamics of Heavy Unstable Particle","28 pages, LATEX, figures are not included (the hard copies are
+  available from the Author)","Surveys High Energ.Phys.11:145-167,1997",,"DTP/94-114","hep-ph",,"  In this talk I attempt to survey some selected physics issues on radiative
+interference phenomena in the production of heavy unstable particles. A special
+emphasis is placed on the reactions $e^+e^- \rightarrow W^+W^- \rightarrow 4$
+jets and $e^+e^- \rightarrow t\bar{t} \rightarrow bW^+\bar{b}W^-$. A
+transparent recipe is given for quantifying the level of suppression of the
+interference effects in the inclusive production processes. The influence of
+the $W$ width on the Coulomb corrections to the threshold $W^+W^-$ production
+is briefly addressed.
+","[{""version"":""v1"",""created"":""Mon, 5 Dec 1994 15:45:54 GMT""}]","2011-03-02"
+"hep-th/9412030","Barry McCoy","Alexander Berkovich and Barry M. McCoy","Continued Fractions and Fermionic Representations for Characters of
+  M(p,p') minimal models","Several references, one further explicit result and several
+  discussion remarks added","Lett.Math.Phys. 37 (1996) 49-66","10.1007/BF00400138","BONN-TH-94-28 and ITPSB 94-060","hep-th",,"  We present fermionic sum representations of the characters
+$\chi^{(p,p')}_{r,s}$ of the minimal $M(p,p')$ models for all relatively prime
+integers $p'>p$ for some allowed values of $r$ and $s$. Our starting point is
+binomial (q-binomial) identities derived from a truncation of the state
+counting equations of the XXZ spin ${1\over 2}$ chain of anisotropy
+$-\Delta=-\cos(\pi{p\over p'})$. We use the Takahashi-Suzuki method to express
+the allowed values of $r$ (and $s$) in terms of the continued fraction
+decomposition of $\{{p'\over p}\}$ (and ${p\over p'}$) where $\{x\}$ stands for
+the fractional part of $x.$ These values are, in fact, the dimensions of the
+hermitian irreducible representations of $SU_{q_{-}}(2)$ (and $SU_{q_{+}}(2)$)
+with $q_{-}=\exp (i \pi \{{p'\over p}\})$ (and $q_{+}=\exp ( i \pi {p\over
+p'})).$ We also establish the duality relation $M(p,p')\leftrightarrow
+M(p'-p,p')$ and discuss the action of the Andrews-Bailey transformation in the
+space of minimal models. Many new identities of the Rogers-Ramanujan type are
+presented.
+","[{""version"":""v1"",""created"":""Mon, 5 Dec 1994 03:43:44 GMT""},{""version"":""v2"",""created"":""Mon, 5 Dec 1994 20:52:51 GMT""},{""version"":""v3"",""created"":""Mon, 19 Dec 1994 03:53:37 GMT""},{""version"":""v4"",""created"":""Mon, 19 Dec 1994 18:36:39 GMT""}]","2009-10-28"
+"hep-th/9412033","Maximilian Kreuzer","M. Kreuzer, H. Skarke","Landau-Ginzburg orbifolds with discrete torsion","12 pages, LaTeX","Mod.Phys.Lett. A10 (1995) 1073-1086","10.1142/S0217732395001198","ITP-UH-16/94, TUW-94/20","hep-th",,"  We complete the classification of (2,2) vacua that can be constructed from
+Landau--Ginzburg models by abelian twists with arbitrary discrete torsions.
+Compared to the case without torsion the number of new spectra is surprisingly
+small. In contrast to a popular expectation mirror symmetry does not seem to be
+related to discrete torsion (at least not in the present compactification
+framework): The Berglund-H""ubsch construction naturally extends to orbifolds
+with torsion; for more general potentials, on the other hand, the new spectra
+neither have nor provide mirror partners in our class of models.
+","[{""version"":""v1"",""created"":""Mon, 5 Dec 1994 13:38:49 GMT""}]","2009-10-28"
+"hep-th/9412039","Marek Grabowski","M. P. Grabowski and P. Mathieu","Integrability Test for Spin Chains","29 pages in plain TeX plus 1 uuencoded figure, uses macros
+  harvmac.tex and epsf.tex","J.Phys. A28 (1995) 4777-4798","10.1088/0305-4470/28/17/013","LAVAL-PHY-22/94","hep-th cond-mat",,"  We examine a simple heuristic test of integrability for quantum chains. This
+test is applied to a variety of systems, including a generic isotropic spin-1
+model with nearest-neighbor interactions and a multiparameter family of
+spin-1/2 models generalizing the XYZ chain, with next-to-nearest neighbor
+interactions and bond alternation. Within the latter family we determine all
+the integrable models with an o(2) symmetry.
+","[{""version"":""v1"",""created"":""Mon, 5 Dec 1994 10:45:55 GMT""}]","2009-10-28"
+"math/9412220",,"David W. Farmer","Mean Values of the Logarithmic Derivative of the zeta Function and the
+  GUE Hypothesis",,,,"MSRI 1995-017","math.NT",,"  The GUE Hypothesis, which concerns the distribution of zeros of the Riemann
+zeta-function, is used to evaluate some integrals involving the logarithmic
+derivative of the zeta-function. Some connections are shown between the GUE
+Hypothesis and other conjectures.
+","[{""version"":""v1"",""created"":""Mon, 5 Dec 1994 00:00:00 GMT""}]","2009-09-25"
+"mtrl-th/9412003","Tutida","Eiji Tsuchida and Masaru Tsukada","Real Space Approach to Electronic-Structure Calculations","11 pages, LaTeX, 5 figures available on request from
+  tuti@komachi.phys.s.u-tokyo.ac.jp",,"10.1016/0038-1098(95)00006-2",,"mtrl-th cond-mat.mtrl-sci",,"  We have applied the Finite Element Method to the self-consistent electronic
+structure calculations of molecules and solids for the first time. In this
+approach all the calculations are performed in ""real space"" and the use of
+non-uniform mesh is made possible, thus enabling us to deal with localized
+systems with ease. To illustrate the utility of this method, we perform an
+all-electron calculation of hydrogen molecule in a supercell with LDA
+approximation. Our method is also applicable to mesoscopic systems.
+","[{""version"":""v1"",""created"":""Mon, 5 Dec 1994 14:30:04 GMT""},{""version"":""v2"",""created"":""Mon, 5 Dec 1994 15:26:01 GMT""}]","2009-10-28"
+"nucl-th/9412004","Iraj R. Afnan","T-Y Saito and I.R. Afnan","The energy dependence of the $\pi N$ amplitude and the three-nucleon
+  interaction","RevTex file, 36 pages, 10 figures available from authors:
+  phira@flinders.edu.au","Few Body Syst. 18 (1995) 101-132","10.1007/s006010050006",,"nucl-th",,"  By calculating the contribution of the $\pi-\pi$ three-body force to the
+three-nucleon binding energy in terms of the $\pi N$ amplitude using
+perturbation theory, we are able to determine the importance of the energy
+dependence and the contribution of the different partial waves of the $\pi N$
+amplitude to the three-nucleon force. A separable representation of the
+non-pole $\pi N$ amplitude allows us to write the three-nucleon force in terms
+of the amplitude for $NN\rightarrow NN^*$, propagation of the $NNN^*$ system,
+and the amplitude for $NN^*\rightarrow NN$, with $N^*$ being the $\pi N$
+quasi-particle amplitude in a given state. The division of the $\pi N$
+amplitude into a pole and non-pole gives a procedure for the determination of
+the $\pi NN$ form factor within the model. The total contribution of the
+three-body force to the binding energy of the triton for the separable
+approximation to the Paris nucleon-nucleon potential (PEST) is found to be very
+small mainly as a result of the energy dependence of the $\pi N$ amplitude, the
+cancellation between the $S$- and $P$-wave $\pi N$ amplitudes, and the soft
+$\pi NN$ form factor.
+","[{""version"":""v1"",""created"":""Mon, 5 Dec 1994 08:11:49 GMT""}]","2009-10-28"
+"solv-int/9412001","R. A. Sharipov","R.A. Sharipov (Dep. of Math., Bashkir State University, Ufa, Russia),
+  R.I. Yamilov (Inst. of Math. UrO RAN, Chernishevsky 112, Ufa, Russia)","B\""acklund transformation and the construction of the integrable
+  boundary-value problem for the equation $u_{xx}-u_{tt}=e^u-e^{-2u}$","7 pages AmS-TeX, Published in book: Problems of Math. Physics and the
+  asymptotics of their solutions, (V.Yu. Novokshenov, ed.) Inst. of Math. UrO
+  AN SSSR, Ufa, 1991, pp. 66-77",,,,"solv-int nlin.SI",,"  B\""acklund transformation for the Bullough-Dodd-Jiber-Shabat equation
+$u_{xx}-u_{tt}=e^u-e^{-2u}$ is found. The construction of integrable boundary
+condition for this equation together with the algebro-geometric solutions
+satisfying it are suggested.
+","[{""version"":""v1"",""created"":""Mon, 5 Dec 1994 05:33:27 GMT""}]","2008-02-03"

@@ -1,0 +1,218 @@
+"alg-geom/9410015","Bert van Geemen","Bert van Geemen and Emma Previato","On the Hitchin System","23 pages, LaTeX Version 2.09 <7 Dec 1989>",,,,"alg-geom math.AG",,"  The Hitchin system is a completely integrable hamiltonian system (CIHS) on
+the cotangent space to the moduli space of semi-stable vector bundles over a
+curve. We consider the case of rank-two vector bundles with trivial
+determinant. Such a bundle $E$ defines a divisor $D_E$ in the Jacobian of the
+curve and for any smooth point of $D_E$ we define a cotangent vector (a Higgs
+field). The Hitchin map on these Higgs fields is then determined in terms of
+the Gauss map on the divisor $D_E$. We apply the results to the $g=2$ case and
+show how Hitchin's system is related to classical line geometry in $\PP^3$.
+","[{""version"":""v1"",""created"":""Fri, 14 Oct 1994 19:08:38 GMT""}]","2008-02-03"
+"astro-ph/9410044","Krzysztof Stanek","K. Z. Stanek, M. Mateo, A. Udalski, M. Szymanski, J. Kaluzny, M.
+  Kubiak & W. Krzeminski","Evidence for the Galactic Bar from the Two Color Photometry of the Bulge
+  Red Clump Stars","6 pages, 5 figures, talk presented at the IAU Symposium 169
+  ``Unsolved Problems of the Milky Way'', uses Kluwer LaTeX style macro,
+  PostScript figures and PostScript version of the paper available through
+  anonymous ftp from astro.princeton.edu, directory stanek/IAU169, through WWW,
+  http://astro.princeton.edu/~stanek/, or on request",,,,"astro-ph",,"  The Optical Gravitational Lensing Experiment (OGLE, Udalski et al.~1994a;
+Paczy\'nski et al.~1994b -- these proceedings; and references therein) is an
+extensive photometric search for the rare cases of gravitational microlensing
+of Galactic bulge stars by foreground objects. It provides a huge data base
+(Szyma\'nski \& Udalski 1993), from which color-magnitude diagrams have been
+compiled (Udalski et al.~1993, 1994b). Here we discuss the use a of
+well-defined population of bulge red clump stars to investigate the presence of
+the bar in our Galaxy. The results of our earlier studies are described by
+Stanek et al.~(1994).
+","[{""version"":""v1"",""created"":""Fri, 14 Oct 1994 17:17:48 GMT""}]","2007-05-23"
+"astro-ph/9410045",,"Chris Mihos","Morphology of Galaxy Mergers at Intermediate Redshift","7 pages, uuencoded compressed postscript, figures available on
+  request from hos@lick.ucsc.edu, accepted for ApJ Letters",,,,"astro-ph",,"  Using a combination of numerical simulation and synthesized Hubble Space
+Telescope Wide Field Camera 2 (HST WFC2) images, we follow the detectability of
+morphological signatures of disk galaxy mergers at intermediate redshifts z=0.4
+and z=1.0. Rapid evolution in the surface brightness of tidal tails makes their
+use as an interaction signature limited; long tidal tails will only be
+detectable relatively early in the encounter, before the galaxies actually
+merge. Violent relaxation rapidly smooths isophotal irregularities after the
+galaxies merge, leaving the very low surface brightness tidal debris
+surrounding the remnant as the only sign of peculiarity after a few hundred
+Myr. This debris becomes indistinguishable from the main body of the remnant
+after 0.5 (z=1.0) to 1 (z=0.4) Gyr, leaving a morphologically normal elliptical
+galaxy behind. Using WFC1, all signatures become undetectable almost
+immediately once the galaxies merge, due to the aberrated PSF. We interpret
+these results in light of recent HST programs investigating the nature of
+starburst and E+A galaxies in moderate redshift clusters.
+","[{""version"":""v1"",""created"":""Fri, 14 Oct 1994 19:17:11 GMT""}]","2007-05-23"
+"astro-ph/9410046","Schaerer Daniel","D. Schaerer, A. de Koter, and W. Schmutz","Combined Stellar Structure and Atmosphere Models: Exploratory Results
+  for Wolf-Rayet Stars","JD16 IAU General Assembly, ""Astrophysical Applications of Powerful
+  New Atomic Databases"", ASP Conf. Series, Eds. S. Adelman, W.L. Wiese, 5
+  pages, uuencoded postscript with 2 figures, DS-10-94",,,,"astro-ph",,"  In this paper we present Complete Stellar models (CoStar) for massive stars,
+which treat the stellar interior and atmosphere, including its wind. Particular
+emphasis is given to Wolf-Rayet stars. We address the question of the effective
+temperatures of WNE and WC stars. Our first results show a satisfactory
+agreement between the CoStar models and the simple temperature correction
+method applied by Schaller et al. (1992). An analyses of the subphotospheric
+structure of the WR star models shows the importance of metal opacity. This may
+be essential for understanding the driving mechanism of Wolf-Rayet winds.
+","[{""version"":""v1"",""created"":""Fri, 14 Oct 1994 21:23:00 GMT""}]","2007-05-23"
+"astro-ph/9410047",,"J.C.N.de Ara\'ujo, J.A. de Freitas Pacheco, J.E.Horvath and M.Cattani","Gravitational Waves from Wobbling Pulsars","PlainTex, 7 pp. , no figures, IAG/USP Rep. 67",,"10.1093/mnras/271.1.L31",,"astro-ph",,"  The prospects for detection of gravitational waves from precessing pulsars
+have been considered by constructing fully relativistic rotating neutron star
+models and evaluating the expected wave amplitude $h$ from a galactic source.
+For a ""typical"" neutron matter equation of state and observed rotation rates,
+it is shown that moderate wobble angles may render an observable signal from a
+nearby source once the present generation of interferometric antennas becomes
+operative.
+","[{""version"":""v1"",""created"":""Fri, 14 Oct 1994 23:14:07 GMT""}]","2016-06-08"
+"astro-ph/9410048","Dave Bennett","David P. Bennett and Sun Hong Rhie (CfPA, UC Berkeley, and IGPP, LLNL)","Is There Evidence for Repeating Gamma Ray Bursters in the BATSE Data?","16 text pages and 9 figures; We have added a section comparing our
+  pair-matching statistic to the 2-point correlation and nearest neighbor
+  statistics. Our statistic is shown to be more sensitive than these statistics
+  especially when burst sources repeat more than once. (to appear in ApJ)",,,"CfPA-th-44","astro-ph",,"  The possibility that classical gamma ray bursts (GRB) occasionally repeat
+from the same locations on the sky provides a critical test of GRB models.
+There is currently some controversy about whether there is evidence for burst
+repetition in the BATSE data. We introduce a gamma ray burst ``pair matching""
+statistic that can be used to search for a repeater signal in the BATSE data.
+The pair matching statistic is built upon the reported position errors for each
+burst and is more sensitive than previously used statistics at detecting faint
+repeating bursts or multiple burst recurrences. It is also less likely to
+produce (false) evidence of burst repetition due to correlations in the
+positions that are inconsistent with repeating bursters. We find that the
+excesses in ``matched"" and ``antipodal"" pairs seen with other statistics are
+caused by an excess of pairs with a separation smaller than their error bars
+would indicate. When we consider all separations consistent with the error
+bars, no significant signal remains. We conclude that the publicly available
+BATSE 1B and 2B data sets contain no evidence for repeating gamma ray bursters.
+","[{""version"":""v1"",""created"":""Sat, 15 Oct 1994 00:26:23 GMT""},{""version"":""v2"",""created"":""Fri, 11 Aug 1995 12:44:27 GMT""}]","2008-02-03"
+"cond-mat/9410048","Mike Norman","M.R. Norman, A.H. MacDonald, and H. Akera","Magnetic Oscillations and Quasiparticle Band Structure in the Mixed
+  State of Type-II Superconductors","35 pages (REVTEX), IUCM94-015, 19 figures available by request from
+  the authors","Phys Rev B 51, 5927 (1995)","10.1103/PhysRevB.51.5927",,"cond-mat",,"  We consider magnetic oscillations due to Landau quantization in the mixed
+state of type-II superconductors. Our work is based on a previously developed
+formalism which allows the mean-field gap equations of the Abrikosov state to
+be conveniently solved in a Landau level representation. We find that the
+quasiparticle band structure changes qualitatively when the pairing self-energy
+becomes comparable to the Landau level separation. For small pairing self-
+energies, Landau level mixing due to the superconducting order is weak and
+magnetic oscillations survive in the superconducting state although they are
+damped. We find that the width of the quasiparticle Landau levels in this
+regime varies approximately as $\Delta_0 n_{\mu}^{-1/4}$ where $\Delta_0$ is
+proportional to the magnitude of the order parameter and $n_{\mu}$ is the
+Landau level index at the Fermi energy. For larger pairing self-energies, the
+lowest energy quasiparticle bands occur in pairs which are nearly equally
+spaced from each other and evolve with weakening magnetic field toward the
+bound states of an isolated vortex core. These bands have a weak magnetic field
+dependence and magnetic oscillations vanish rapidly in this regime. We discuss
+recent observations of the de Haas-van Alphen effect in the mixed state of
+several type II superconductors in light of our results.
+","[{""version"":""v1"",""created"":""Fri, 14 Oct 1994 16:50:58 GMT""}]","2009-10-22"
+"cond-mat/9410049",,"M.Otto and T.A.Vilgis","The conformation of conducting polymer chains: Hubbard polymers","11 pages of Latex + uuencoded postscript figure",,"10.1016/0375-9601(94)90088-4",,"cond-mat",,"  The conformational and electronic properties of conducting flexible random
+and self-avoiding walk polymer chains are under investigation. A Hamiltonian
+for conjugated flexible polymers is introduced and its physical consequences
+are presented. One important result is that the electronic degrees of freedom
+greatly affect the conformational statistics of the walks and vice versa. The
+electronic degrees of freedom extend the size of the chain. The end-to-end
+distance behaves as $R\propto L^{\nu}$ with $\nu=(d+1)/(d+2)$, where $d$ is the
+spatial dimension.
+","[{""version"":""v1"",""created"":""Fri, 14 Oct 1994 18:52:00 GMT""}]","2009-10-22"
+"hep-ph/9410290","Peter Filip","Peter Filip","The Structure of a Source from Interferometry Measurements in Heavy Ion
+  Collisions","9 pages, 4 figures (in ps format available upon request), IC/94/313",,,,"hep-ph",,"  Some experimental results of correlation functions in Bose-Einstein
+interferometry measurements exhibit a non smooth behaviour - oscillations.
+Possible origin of such a behaviour in non-trivial spatial distribution of the
+source is considered. A method for obtaining additional information about the
+structure of source emitting identical particles is suggested. It is shown that
+this information could be extracted by a one dimensional fourier analysis of
+the filtered correlation function. Further possible enhancement of the method
+is sketched. Some technical aspects of the proposed technique are discussed.
+","[{""version"":""v1"",""created"":""Fri, 14 Oct 1994 16:22:34 GMT""}]","2009-09-25"
+"hep-ph/9410292","Chyla Jiri","J.Ch\'yla and J. Rame\v{s}","What does the CCFR measurement of the Gross--Llewelyn Smith sum rule
+  tell us?","PRA-HEP/94-09, Latex, 9 pages and 5 uuencoded figures. Raw PS files
+  replaced with uuencoded ones","Phys.Lett. B343 (1995) 351-357","10.1016/0370-2693(94)01469-S",,"hep-ph",,"  Recently the CCFR Collaboration reported the measurement of the
+Gross--Llewellyn Smith sum rule %at $Q^2=3\; \mr{GeV}^2$:
+$\int^{1}_{0}\mr{d}F_{3}^{\nu p+\bare{\nu}p}(x,Q^2=3\;\mr{GeV}^2)= 2.50\pm
+0.018(\mr{stat})$. Subsequently Kataev and Sidorov analyzed the
+$Q^2$--dependence of this sum rule and pointed out a discrepancy between the
+results obtained via integration of the NLO fits to $xF_{3}(x,Q^2)$ and the
+purely perturbative prediction. We suggest an explanation of this disagreement
+and show that the result of the CCFR measurement of the GLS sum rule integral
+can be determined from the knowledge of the value of $\Lambda_{\bbare{MS}}$
+only.
+","[{""version"":""v1"",""created"":""Fri, 14 Oct 1994 17:50:22 GMT""},{""version"":""v2"",""created"":""Tue, 18 Oct 1994 21:32:05 GMT""}]","2016-08-14"
+"hep-ph/9410293",,"B. Blok, R. Dikeman and M. Shifman","Calculation of 1/m^3 terms in the total semileptonic width of D mesons.","Final version accepted for publication in Physical Review D (19
+  pages, 5 figures appended as two PS files at the end of the LATEX file)","Phys.Rev. D51 (1995) 6167-6176","10.1103/PhysRevD.51.6167","TPI-MINN-94/23-T, UMN-TH-1261, Technion-PH-94-8","hep-ph",,"  We calculate the 1/$m^3_c$ corrections in the inclusive semileptonic widths
+of $D$ mesons. We show that these are due to the novel penguin type operators
+that appear at this level in the transition operator. Taking into account the
+nonperturbative corrections leads to the predicted value of the semileptonic
+width significantly lower than the experimental value. The $1/m^3_c$ worsen the
+situation or at the very least, within uncertainty, give small contribution. We
+indicate possible ways out. It seems most probable that violations of duality
+are noticeable in the energy range characteristic to the inclusive decays in
+the charm family. Theoretically these deviations are related to divergence of
+the high-order terms in the power expansion in the inverse heavy quark mass.
+","[{""version"":""v1"",""created"":""Fri, 14 Oct 1994 19:05:00 GMT""},{""version"":""v2"",""created"":""Tue, 28 Mar 1995 19:47:52 GMT""}]","2009-10-28"
+"hep-ph/9410294","Peter Arnold","Peter Arnold","The Electroweak Phase Transition, Part 1: Review of Perturbative Methods","16 pages, 7 figures",,,,"hep-ph",,"  Talk presented at the conference Quarks `94: Vladimir, Russia. I review the
+successes and limitations of standard perturbative methods for studying the
+order and strength of the electroweak phase transition.
+","[{""version"":""v1"",""created"":""Fri, 14 Oct 1994 23:58:24 GMT""}]","2007-05-23"
+"hep-ph/9410295","Laurence Yaffe","Laurence Yaffe","The Electroweak Phase Transition, Part 2: $\epsilon$-Expansion Results","9 pages, 2 figures",,,,"hep-ph",,"  Talk presented at the conference Quarks `94: Vladimir, Russia. I summarize
+the application of $\epsilon$-expansion methods to the electroweak phase
+transition. Results from both leading and next-to-leading order calculations
+are discussed.
+","[{""version"":""v1"",""created"":""Fri, 14 Oct 1994 23:51:56 GMT""}]","2009-09-25"
+"hep-th/9410101","Klaus Kirsten","E. Elizalde, K. Kirsten and Yu. Kubyshin","On the instability of the vacuum in multidimensional scalar theories","25 pages, LaTex, UB-ECM-PF 94/17, 3 figures available on request","Z.Phys. C70 (1996) 159-172",,,"hep-th",,"  The 1-loop effective potential in a scalar theory with quartic interaction on
+the space $M^{4} \times T^{n}$ for $n=2$ is calculated and is shown to be
+unbounded from below. This is an indication of a possible instability of the
+vacuum of the $\lambda \phi^{4}$ theory on $M^{4}$, when it is regarded as a
+result of the dimensional reduction of the original six-dimensional model. The
+issue of stability for other values of the number $n$ of extra dimensions is
+also discussed.
+","[{""version"":""v1"",""created"":""Fri, 14 Oct 1994 16:10:46 GMT""}]","2009-09-25"
+"hep-th/9410102","Chris Eilbeck","P L Christiansen, J C Eilbeck, V Z Enolskii and N A Kostov","Quasiperiodic Solutions of the Fibre Optics Coupled Nonlinear
+  Schr{\""o}dinger Equations","24 pages",,"10.1098/rspa.1995.0149",,"hep-th",,"  We consider travelling periodical and quasiperiodical waves in single mode
+fibres, with weak birefringence and under the action of cross-phase modulation.
+The problem is reduced to the ``1:2:1"" integrable case of the two-particle
+quartic potential. A general approach for finding elliptic solutions is given.
+New solutions which are associated with two-gap Treibich-Verdier potentials are
+found. General quasiperiodic solutions are given in terms of two dimensional
+theta functions with explicit expressions for frequencies in terms of theta
+constants. The reduction of quasiperiodic solutions to elliptic functions is
+discussed.
+","[{""version"":""v1"",""created"":""Fri, 14 Oct 1994 16:35:24 GMT""}]","2019-08-15"
+"hep-th/9410103","Paula Bozzay","Claudio Teitelboim","Action and Entropy of Extreme and Non-Extreme Black Holes","10pp, IASSNS-HEP-94/84","Phys.Rev.D51:4315,1995; Erratum-ibid.D52:6201,1995;
+  Phys.Rev.D52:6201,1995","10.1103/PhysRevD.51.4315 10.1103/PhysRevD.52.6201",,"hep-th gr-qc",,"  The Hamiltonian actions for extreme and non-extreme black holes are compared
+and contrasted and a simple derivation of the lack of entropy of extreme black
+holes is given. In the non-extreme case the wave function of the black hole
+depends on horizon degrees of freedom which give rise to the entropy. Those
+additional degrees of freedom are absent in the extreme case.
+","[{""version"":""v1"",""created"":""Fri, 14 Oct 1994 18:36:22 GMT""}]","2014-11-18"
+"hep-th/9410104","Ioannis Bakas","Ioannis Bakas","Space Time Interpretation of S-Duality and Supersymmetry Violations of
+  T-Duality","Latex, 14pp, CERN-TH.7473/94","Phys.Lett. B343 (1995) 103-112","10.1016/0370-2693(94)01441-E",,"hep-th",,"  The S--duality transformations of the lowest order string effective theory
+admit a space time interpretation for 4-dim backgrounds with one Killing
+symmetry. Starting from pure gravity and performing a sequence of intertwined
+T-S-T duality transformations we obtain new solutions which are always pure
+gravitational. In this fashion, S-duality induces an $SL(2,R)$ transformation
+in the space of target space metrics which coincides with the action of the
+Ehlers-Geroch group and interchanges the electric with the magnetic aspects of
+gravity. Specializing to gravitational instanton backgrounds we show that ALE
+instantons are mapped to (multi) Taub-NUT backgrounds and vice-versa. We find,
+however, that the self-duality of the metric is not generically preserved,
+unless the corresponding Killing vector field has self-dual covariant
+derivatives. Thus, the T-S-T transformations are not always compatible with the
+world-sheet supersymmetry of $N=4$ superconformal string vacua. We also provide
+an algebraic characterization of the corresponding obstruction and associate it
+with a breakdown of space time supersymmetry under rotational T-duality
+transformations.
+","[{""version"":""v1"",""created"":""Fri, 14 Oct 1994 19:54:39 GMT""}]","2009-10-28"
+"hep-th/9410106","Michela Varagnolo","M. Costantini and M. Varagnolo","Multiparameter quantum function algebra at roots of 1","22 pages",,,,"hep-th math.QA",,"  We study the theory of representations of a multiparameter deformation of the
+function algebra of a simple algebraic group (as defined by Reshetikhin) when
+the quantum parameter is a root of unity. We extend the technics of De
+Concini-Lyubashenko in the standard quantum case.
+","[{""version"":""v1"",""created"":""Sat, 15 Oct 1994 11:22:49 GMT""}]","2008-02-03"
+"nucl-th/9410021","Hilmar Forkel","Hilmar Forkel","Chiral Quark Dynamics in Dense Nuclear Matter","40 pages, UMPP #94--037, (4 figures available on request by e-mail or
+  FAX)","Nucl.Phys. A581 (1995) 557-597","10.1016/0375-9474(94)00471-X",,"nucl-th hep-ph",,"  We consider a new approach to the description of dense nuclear matter in the
+framework of chirally symmetric, quark-based hadron models. As previously in
+the Skyrme model, the dense environment is described in terms of hyperspherical
+cells of unit baryon number. The intrinsic curvature of these cells generates a
+new gauge interaction for the quark fields which mediates interactions with the
+ambient matter. We apply this approach to the Nambu-Jona-Lasinio (NJL) model,
+construct its curved-space quark propagator and solve the ladder Bethe-Salpeter
+equation for the pion. We find a high-density phase transition to chiral
+restoration, discuss the density dependence of the chiral order parameter and
+of the pion properties, and compare with results of the conventional
+chemical-potential approach. The new approach can additionally describe
+baryon-density-free cavities in the dense medium.
+","[{""version"":""v1"",""created"":""Sat, 15 Oct 1994 02:41:50 GMT""}]","2009-10-28"

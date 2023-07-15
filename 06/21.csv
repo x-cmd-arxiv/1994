@@ -1,0 +1,439 @@
+"adap-org/9406001",,"S.L. Adler, G.V. Bhanot, J.D. Weckel","Study of a New Neuron","19 pages, 7 figures(not included) available upon request, postscript
+  file",,,"IASSNS-HEP-94/40","adap-org nlin.AO q-bio",,"  We study a modular neuron alternative to the McCulloch-Pitts neuron that
+arises naturally in analog devices in which the neuron inputs are represented
+as coherent oscillatory wave signals. Although the modular neuron can compute
+$XOR$ at the one neuron level, it is still characterized by the same
+Vapnik-Chervonenkis dimension as the standard neuron. We give the formulas
+needed for constructing networks using the new neuron and training them using
+back-propagation. A numerical study of the modular neuron on two data sets is
+presented, which demonstrates that the new neuron performs at least as well as
+the standard neuron.
+","[{""version"":""v1"",""created"":""Mon, 20 Jun 1994 19:58:34 GMT""}]","2008-02-03"
+"astro-ph/9406057","Brad Gibson","P.Hickson, E.F.Borra, R.Cabanac, R.Content, B.K.Gibson, G.A.H.Walker","Ubc/Laval 2.7-Meter Liquid Mirror Telescope","submitted to Astrophysical Journal Letters, 15 pages + 4 figures,
+  uuencoded compressed PostScript, UBC-200694",,"10.1086/187667",,"astro-ph",,"  We report the successful development and operation of a large astronomical
+liquid-mirror telescope. Employing a rotating 2.7-meter diameter mirror with a
+surface of liquid mercury, the telescope images a half-degree diameter field
+centered at the zenith. Located near Vancouver, British Columbia, it is
+equipped with a low-noise 2048x2048-pixel CCD detector, operating in TDI mode,
+which produces continuous imaging of a 20 arcminute-widestrip of sky with 2
+minute integration time. Images with FWHM of 2 arcseconds or less are regularly
+obtained. This image quality is limited only by atmospheric seeing and
+star-trail curvature. The telescope is equipped with a series of narrow-band
+filters, designed to produce 40-point spectral energy distributions from 0.4 to
+1.0 microns of all detected objects. These will allow classification and
+redshift estimation of approximately 25,000 galaxies and 1,000 quasars to a
+limiting magnitude of R~21.
+","[{""version"":""v1"",""created"":""Tue, 21 Jun 1994 13:30:30 GMT""}]","2019-08-17"
+"astro-ph/9406058",,"V.Castellani & S. Degl'Innocenti","Dwarf Spheroidals and the Evolution of Not-Too-Old Population II Stars","postscript file of 10 pages plus 2 tables 3 figures will be added
+  later as postscript file The latex file and the other two not postscript
+  figures are available upon request at scilla@vaxfe.fe.infn.it",,,,"astro-ph",,"  Previous evolutionary computations concerning stars with masses in the range
+of the ``Red Giants Transition Phase'' are extended to lower metallicities.
+Clusters isochrones for two values of the metallicity Z (Z=10E-4, 4E-4) and for
+ages down to 1 billion years are presented, discussing selected evolutionary
+features characterizing the structure of the stars during both H or He burning
+phases. One finds that clusters with Z about equal to 1E-4 an age around 1-2
+billion years could be characterized by the occurrence of anomalous He burning
+variables at a luminosity of the order of LogL= 2.0-2.2 (in solar units).
+","[{""version"":""v1"",""created"":""Tue, 21 Jun 1994 13:29:53 GMT""},{""version"":""v2"",""created"":""Wed, 22 Jun 1994 16:56:11 GMT""}]","2009-09-25"
+"astro-ph/9406060","Martin White","Martin White and Douglas Scott","Quoting Experimental Information","5 pages (plain TeX), no figures, to appear in the proceedings of
+  ``CMB Anisotropies Two Years After COBE'', CWRU, April 22-24, 1994;
+  CfPA-94-TH-28",,,,"astro-ph",,"  There was a question raised at this meeting as to the best way to present the
+results of experiments measuring anisotropies in the CMB. Here we will make
+some simple comments about the 3 main competing methods and some suggestions.
+In particular we will give an over-simplified but hopefully useful method of
+comparing GACF numbers with other power spectra, and a simple rule-of-thumb for
+converting between the two main conventions.
+","[{""version"":""v1"",""created"":""Tue, 21 Jun 1994 07:21:53 GMT""}]","2007-05-23"
+"cmp-lg/9406028","Michael Niv","Michael Niv (University of Pennsylvania)","Resolution of Syntactic Ambiguity: the Case of New Subjects","6 pages, LaTeX source","COGSCI-93",,,"cmp-lg cs.CL",,"  I review evidence for the claim that syntactic ambiguities are resolved on
+the basis of the meaning of the competing analyses, not their structure. I
+identify a collection of ambiguities that do not yet have a meaning-based
+account and propose one which is based on the interaction of discourse and
+grammatical function. I provide evidence for my proposal by examining
+statistical properties of the Penn Treebank of syntactically annotated text.
+","[{""version"":""v1"",""created"":""Mon, 20 Jun 1994 19:13:30 GMT""},{""version"":""v2"",""created"":""Mon, 20 Jun 1994 22:58:41 GMT""}]","2008-02-03"
+"cmp-lg/9406029","Michael Niv","Michael Niv (University of Pennsylvania)","A Computational Model of Syntactic Processing: Ambiguity Resolution from
+  Interpretation","128 pages, LaTeX source compressed and uuencoded, figures separate
+  macros: rotate.sty, lingmacros.sty, psfig.tex. Dissertation, Computer and
+  Information Science Dept., October 1993","Dissertation, Computer and Information Science Dept. 1993",,"IRCS-93-27","cmp-lg cs.CL",,"  Syntactic ambiguity abounds in natural language, yet humans have no
+difficulty coping with it. In fact, the process of ambiguity resolution is
+almost always unconscious. But it is not infallible, however, as example 1
+demonstrates.
+  1. The horse raced past the barn fell.
+  This sentence is perfectly grammatical, as is evident when it appears in the
+following context:
+  2. Two horses were being shown off to a prospective buyer. One was raced past
+a meadow. and the other was raced past a barn. ...
+  Grammatical yet unprocessable sentences such as 1 are called `garden-path
+sentences.' Their existence provides an opportunity to investigate the human
+sentence processing mechanism by studying how and when it fails. The aim of
+this thesis is to construct a computational model of language understanding
+which can predict processing difficulty. The data to be modeled are known
+examples of garden path and non-garden path sentences, and other results from
+psycholinguistics.
+  It is widely believed that there are two distinct loci of computation in
+sentence processing: syntactic parsing and semantic interpretation. One
+longstanding controversy is which of these two modules bears responsibility for
+the immediate resolution of ambiguity. My claim is that it is the latter, and
+that the syntactic processing module is a very simple device which blindly and
+faithfully constructs all possible analyses for the sentence up to the current
+point of processing. The interpretive module serves as a filter, occasionally
+discarding certain of these analyses which it deems less appropriate for the
+ongoing discourse than their competitors.
+  This document is divided into three parts. The first is introductory, and
+reviews a selection of proposals from the sentence processing literature. The
+second part explores a body of data which has been adduced in support of a
+theory of structural preferences --- one that is inconsistent with the present
+claim. I show how the current proposal can be specified to account for the
+available data, and moreover to predict where structural preference theories
+will go wrong. The third part is a theoretical investigation of how well the
+proposed architecture can be realized using current conceptions of linguistic
+competence. In it, I present a parsing algorithm and a meaning-based ambiguity
+resolution method.
+","[{""version"":""v1"",""created"":""Mon, 20 Jun 1994 19:57:34 GMT""}]","2008-02-03"
+"cmp-lg/9406030","Michael Niv","Michael Niv (Technion)","The complexity of normal form rewrite sequences for Associativity","5 pages",,,"Computer Science Department, LCL 94-6","cmp-lg cs.CL",,"  The complexity of a particular term-rewrite system is considered: the rule of
+associativity (x*y)*z --> x*(y*z). Algorithms and exact calculations are given
+for the longest and shortest sequences of applications of --> that result in
+normal form (NF). The shortest NF sequence for a term x is always n-drm(x),
+where n is the number of occurrences of * in x and drm(x) is the depth of the
+rightmost leaf of x. The longest NF sequence for any term is of length
+n(n-1)/2.
+","[{""version"":""v1"",""created"":""Mon, 20 Jun 1994 20:29:54 GMT""},{""version"":""v2"",""created"":""Mon, 20 Jun 1994 23:04:06 GMT""}]","2008-02-03"
+"cmp-lg/9406031","Michael Niv","Michael Niv (Technion)","A Psycholinguistically Motivated Parser for CCG","8 pages, LaTeX, requires psfig.tex, 2 figures in separate file","ACL-94",,,"cmp-lg cs.CL",,"  Considering the speed in which humans resolve syntactic ambiguity, and the
+overwhelming evidence that syntactic ambiguity is resolved through selection of
+the analysis whose interpretation is the most `sensible', one comes to the
+conclusion that interpretation, hence parsing take place incrementally, just
+about every word. Considerations of parsimony in the theory of the syntactic
+processor lead one to explore the simplest of parsers: one which represents
+only analyses as defined by the grammar and no other information.
+  Toward this aim of a simple, incremental parser I explore the proposal that
+the competence grammar is a Combinatory Categorial Grammar (CCG). I address the
+problem of the proliferating analyses that stem from CCG's associativity of
+derivation. My solution involves maintaining only the maximally incremental
+analysis and, when necessary, computing the maximally right-branching analysis.
+I use results from the study of rewrite systems to show that this computation
+is efficient.
+","[{""version"":""v1"",""created"":""Mon, 20 Jun 1994 22:18:26 GMT""}]","2008-02-03"
+"cmp-lg/9406032","Guenther Goerz","Guenther Goerz (University of Erlangen-Nuernberg, IMMD VIII) and
+  Marcus Kesseler (University of Erlangen-Nuernberg, IMMD VIII)","Anytime Algorithms for Speech Parsing?","5 pages, 2 figures","COLING-94",,,"cmp-lg cs.CL",,"  This paper discusses to which extent the concept of ``anytime algorithms''
+can be applied to parsing algorithms with feature unification. We first try to
+give a more precise definition of what an anytime algorithm is. We arque that
+parsing algorithms have to be classified as contract algorithms as opposed to
+(truly) interruptible algorithms. With the restriction that the transaction
+being active at the time an interrupt is issued has to be completed before the
+interrupt can be executed, it is possible to provide a parser with limited
+anytime behavior, which is in fact being realized in our research prototype.
+","[{""version"":""v1"",""created"":""Tue, 21 Jun 1994 13:21:13 GMT""}]","2008-02-03"
+"cond-mat/9406082","Ton Coolen","A.C.C. Coolen and S. Franz","Closure of Macroscopic Laws in Disordered Spin Systems: A Toy Model","14 pages, LateX, OUTP-94-24S",,"10.1088/0305-4470/27/21/011",,"cond-mat",,"  We use a linear system of Langevin spins with disordered interactions as an
+exactly solvable toy model to investigate a procedure, recently proposed by
+Coolen and Sherrington, for closing the hierarchy of macroscopic order
+parameter equations in disordered spin systems. The closure procedure, based on
+the removal of microscopic memory effects, is shown to reproduce the correct
+equations for short times and in equilibrium. For intermediate time-scales the
+procedure does not lead to the exact equations, yet for homogeneous initial
+conditions succeeds at capturing the main characteristics of the flow in the
+order parameter plane. The procedure fails in terms of the long-term temporal
+dependence of the order parameters. For low energy inhomogeneous initial
+conditions and near criticality (where zero modes appear) deviations in
+temporal behaviour are most apparent. For homogeneous initial conditions the
+impact of microscopic memory effects on the evolution of macroscopic order
+parameters in disordered spin systems appears to be mainly an overall slowing
+down.
+","[{""version"":""v1"",""created"":""Tue, 21 Jun 1994 07:56:56 GMT""}]","2009-10-22"
+"cond-mat/9406083","Carlo Beenakker","C.W.J. Beenakker","Quantum transport in semiconductor-superconductor microjunctions","38 pages, 17 figures (included in version 2)","""Mesoscopic Quantum Physics"", edited by E. Akkermans, G.
+  Montambaux, J.-L. Pichard, and J. Zinn-Justin (North-Holland, Amsterdam,
+  1995)",,,"cond-mat.mes-hall",,"  Recent experiments on conduction between a semiconductor and a superconductor
+have revealed a variety of new mesoscopic phenomena. Here is a review of the
+present status of this rapidly developing field. A scattering theory is
+described which leads to a conductance formula analogous to Landauer's formula
+in normal-state conduction. The theory is used to identify features in the
+conductance which can serve as ""signatures"" of phase-coherent Andreev
+reflection, i.e. for which the phase coherence of the electrons and the
+Andreev-reflected holes is essential. The applications of the theory include a
+quantum point contact, quantum dot, weak localization, universal conductance
+fluctuations, shot noise, and reflectionless tunneling. This review is based on
+lectures at the Les Houches summer school, Session LXI, 1994.
+","[{""version"":""v1"",""created"":""Tue, 21 Jun 1994 15:08:53 GMT""},{""version"":""v2"",""created"":""Sat, 10 Sep 2005 15:32:15 GMT""}]","2008-02-03"
+"cond-mat/9406084","Florian Gebhard","F. Gebhard and P.-A. Bares (ILL Grenoble)","Asymptotic Bethe-Ansatz results for a Hubbard Chain with 1/sinh-Hopping","9 pages, REVTeX; original manuscript rejected by PRL for
+  non-scientific reasons -- this shortened version to to appear in Europhys.
+  Lett. (1995)",,,"none","cond-mat",,"  We investigate spin-1/2 electrons with local Hubbard interaction and variable
+range hopping amplitudes which decay like~$\sinh(\kappa)/\sinh(\kappa r)$.
+Assuming integrability the Asymptotic Bethe Ansatz approach allows us to derive
+the generalized Lieb-Wu integral equations from the two-particle phase shift.
+Due to the nesting property there is a metal-to-insulator transition at
+$U_c(\kappa>0)=0^+$. The charge gap in the singular limit $\kappa=0$ opens when
+the interaction strength equals the bandwidth, $U_c(\kappa=0)=W >0$.
+","[{""version"":""v1"",""created"":""Tue, 21 Jun 1994 15:55:04 GMT""},{""version"":""v2"",""created"":""Wed, 29 Jun 1994 09:18:42 GMT""},{""version"":""v3"",""created"":""Thu, 9 Feb 1995 10:50:41 GMT""}]","2012-07-07"
+"gr-qc/9406031","Warner A. Miller","Arkady Kheyfets and Warner A. Miller","Quantum Geometrodynamics I: Quantum-Driven Many-Fingered Time","11, (No Figures), (Typeset using RevTeX)","Phys.Rev.D51:493-501,1995","10.1103/PhysRevD.51.493",,"gr-qc",,"  The classical theory of gravity predicts its own demise -- singularities. We
+therefore attempt to quantize gravitation, and present here a new approach to
+the quantization of gravity wherein the concept of time is derived by imposing
+the constraints as expectation-value equations over the true dynamical degrees
+of freedom of the gravitational field -- a representation of the underlying
+anisotropy of space. This self-consistent approach leads to qualitatively
+different predictions than the Dirac and the ADM quantizations, and in
+addition, our theory avoids the interpretational conundrums associated with the
+problem of time in quantum gravity. We briefly describe the structure of our
+functional equations, and apply our quantization technique to two examples so
+as to illustrate the basic ideas of our approach.
+","[{""version"":""v1"",""created"":""Mon, 20 Jun 1994 19:21:23 GMT""}]","2010-11-01"
+"gr-qc/9406032","Warner A. Miller","Salman Habib, Daniel E. Holz, Arkady Kheyfets, Richard A. Matzner,
+  Warner A. Miller and Brian W. Tolman","Spin Dynamics of the LAGEOS Satellite in Support of a Measurement of the
+  Earth's Gravitomagnetism","16 pages, RevTeX, LA-UR-94-1289. (Part I of II, postscript figures in
+  Part II)","Phys.Rev.D50:6068-6079,1994","10.1103/PhysRevD.50.6068",,"gr-qc",,"  LAGEOS is an accurately-tracked, dense spherical satellite covered with 426
+retroreflectors. The tracking accuracy is such as to yield a medium term (years
+to decades) inertial reference frame determined via relatively inexpensive
+observations. This frame is used as an adjunct to the more difficult and data
+intensive VLBI absolute frame measurements. There is a substantial secular
+precession of the satellite's line of nodes consistent with the classical,
+Newtonian precession due to the non-sphericity of the earth. Ciufolini has
+suggested the launch of an identical satellite (LAGEOS-3) into an orbit
+supplementary to that of LAGEOS-1: LAGEOS-3 would then experience an equal and
+opposite classical precession to that of LAGEOS-1. Besides providing a more
+accurate real-time measurement of the earth's length of day and polar wobble,
+this paired-satellite experiment would provide the first direct measurement of
+the general relativistic frame-dragging effect. Of the five dominant error
+sources in this experiment, the largest one involves surface forces on the
+satellite, and their consequent impact on the orbital nodal precession. The
+surface forces are a function of the spin dynamics of the satellite.
+Consequently, we undertake here a theoretical effort to model the spin
+ndynamics of LAGEOS. In this paper we present our preliminary results.
+","[{""version"":""v1"",""created"":""Mon, 20 Jun 1994 20:44:42 GMT""}]","2011-09-09"
+"gr-qc/9406033",,"Sean A. Hayward","Spin-Coefficient Form of the New Laws of Black-Hole Dynamics","9 pages","Class.Quant.Grav.11:3025-3036,1994","10.1088/0264-9381/11/12/016",,"gr-qc",,"  General laws of black-hole dynamics, some of which are analogous to the laws
+of thermodynamics, have recently been found for a general definition of black
+hole in terms of a future outer trapping horizon, a hypersurface foliated by
+marginal surfaces of a certain type. This theory is translated here into
+spin-coefficient language. Second law: the area form of a future outer trapping
+horizon is generically increasing, otherwise constant. First law: the rate of
+change of the area form is given by an energy flux and the trapping gravity.
+Zeroth law: the total trapping gravity of a compact outer marginal surface has
+an upper bound, attained if and only if the trapping gravity is constant.
+Topology law: a compact future outer marginal surface has spherical topology.
+Signature law: an outer trapping horizon is generically spatial, otherwise
+null. Trapping law: spatial surfaces sufficiently close to a compact future
+outer marginal surface are trapped if they lie inside the trapping horizon.
+Confinement law: if the interior and exterior of a future outer trapping
+horizon are disjoint, an observer inside the horizon cannot get outside.
+","[{""version"":""v1"",""created"":""Tue, 21 Jun 1994 07:35:09 GMT""}]","2010-04-06"
+"gr-qc/9406034","Susan","Naresh Dadhich and L.K. Patel","Uniqueness of the non-singular family and characterisation of
+  cosmological models","TeX pages 13, IUCAA-14/94",,,,"gr-qc",,"  We prove that for an orthogonal spacetime metric separable in space and time
+in comoving coordinates, the requirements of perfect fluid and non-singularity
+single out the unique family of singularity free cosmological models. Further
+homogeneous models could only be Bianchi I or FLRW while inhomogeneous ones can
+be with or without a singularity.
+","[{""version"":""v1"",""created"":""Tue, 21 Jun 1994 13:43:27 GMT""},{""version"":""v2"",""created"":""Fri, 2 Sep 1994 16:24:06 GMT""}]","2008-02-03"
+"gr-qc/9406035",,"Bjorn Jensen and Jarom\'ir Ku\v{c}era","A reinterpretation of the Taub singularity","11, Oslo-TP-9-94, TP-MUBR 94-06/1",,"10.1016/0375-9601(94)90081-7",,"gr-qc",,"  We reinterpret the well known Taub-singularity in terms of a cylinder
+symmetric geometry. It is shown that a cylindrical analog to the Einstein-Rosen
+bridge as well as a cosmic string will be present in the geometry.
+","[{""version"":""v1"",""created"":""Tue, 21 Jun 1994 13:16:57 GMT""}]","2016-08-14"
+"hep-ph/9406341","Pene","A. Le Yaouanc, L Oliver, O.P\`ene, J.-C. Raynal","B Decays, an Introductory Survey","9 pages, talk at the XXIXth Rencontre de Moriond, ``QCD and High
+  Energy Hadronic Interactions'', march 1994, M\'eribel France",,,,"hep-ph",,"  To start the $b$-decay session we briefly introduce and comment some
+important theoretical tools which are currently used in $b$ physics. Heavy
+Quark Symmetry and its consequences for heavy to heavy and heavy to light
+semi-leptonic decays, as well as for leptonic decays, are briefly summarised.
+It is stressed that symmetry must be completed with dynamical calculations. A
+critical discussion of the nearest pole dominance (VMD) assumption is
+performed. Parton model and its higher twist corrections are discussed on the
+example of lifetimes. Finally non-leptonic decays are considered via the
+example of the exclusive calculation of $\Delta \Gamma$ in the $B_s-\overline
+B_s$ system. The popular factorization assumption is discussed and seems to be
+rather good.
+","[{""version"":""v1"",""created"":""Mon, 20 Jun 1994 18:27:04 GMT""},{""version"":""v2"",""created"":""Tue, 21 Jun 1994 10:46:15 GMT""}]","2008-02-03"
+"hep-ph/9406343","Mark Trodden","M. Trodden (Brown University)","Cosmic Strings and Electroweak Symmetry Restoration in the Two-Higgs
+  Doublet Model","12 pages, 4 figures (available from the author), uses phyzzx,
+  BROWN-HET-945","Mod.Phys.Lett. A9 (1994) 2649-2659","10.1142/S0217732394002495",,"hep-ph",,"  We investigate the region of restored electroweak symmetry around a
+superconducting cosmic string coupled to the Weinberg-Salam model with an extra
+Higgs doublet. We show that the presence of the extra Higgs fields, and in
+particular their CP violating relative phase, does not qualitatively affect the
+results of Perkins and Davis[1] obtained for the standard electroweak theory.
+This result is neccessary to ensure the validity of some recently proposed
+string-mediated electroweak baryogenesis scenarios.
+","[{""version"":""v1"",""created"":""Mon, 20 Jun 1994 17:32:59 GMT""}]","2015-06-25"
+"hep-ph/9406344",,"Kenneth Lane","Top-Quark Production and Flavor Physics","(Submitted to the International Conference on High Energy Physics,
+  Glasgow, Scotland, July 20-27, 1994), 16 pages plus 10 uuencoded figures
+  appended at the end of the TeX file. BUHEP-94-12",,,,"hep-ph hep-ex",,"  Because of the top quark's very large mass, about 175~GeV, it now provides
+the best window into flavor physics. Thus, pair--production of top quarks at
+the Tevatron Collider is the best probe of this physics until the Large Hadron
+Collider turns on in the next century. I will discuss aspects of the mass and
+angular distributions that can be measured in $\ttb$ production with the coming
+large data samples from the Tevatron and even larger ones from the LHC.
+","[{""version"":""v1"",""created"":""Mon, 20 Jun 1994 19:50:00 GMT""}]","2007-05-23"
+"hep-ph/9406345",,"A. G. Cohen, D. B. Kaplan, A. E. Nelson","Diffusion Enhances Spontaneous Electroweak Baryogenesis","15 pages, uses harvmac and epsf macros","Phys.Lett. B336 (1994) 41-47","10.1016/0370-2693(94)00935-X","NSF-ITP-94-67","hep-ph",,"  We include the effects of diffusion in the electroweak spontaneous
+baryogenesis scenario and show that it can greatly enhance the resultant baryon
+density, by as much as a factor of $1/\alpha_w^4 \sim 10^6$ over previous
+estimates. Furthermore, the baryon density produced is rather insensitive to
+parameters characterizing the first order weak phase transition, such as the
+width and propagation velocity of the phase boundary.
+","[{""version"":""v1"",""created"":""Mon, 20 Jun 1994 23:46:37 GMT""}]","2009-10-28"
+"hep-ph/9406346",,"Jizhi Wu, Richard Arnowitt, and Pran Nath","Constraints on the minimal supergravity model from the b->s+\gamma decay","12 pages, plain tex file, three figures avaliable upon request,
+  CTP-TAMU-03/94, NUB-TH.7316/94, and CERN-TH.3092/94","Phys.Rev.D51:1371-1376,1995","10.1103/PhysRevD.51.1371",,"hep-ph",,"  The constraints on the minimal supergravity model from the b->s+\gamma decay
+are studied. A large domain in the parameter space for the model satisfies the
+CLEO bound, BR(b->s+\gamma)<5.4X10^{-4}. However, the allowed domain is
+expected to diminish significantly with an improved bound on this decay. The
+dependence of the b->s+\gamma branching ratio on various parameters is studied
+in detail. It is found that, for A_t<0 and the top quark mass within the
+vicinity of the center of the CDF value, m_t^{pole}=174\pm17 GeV, there exists
+only a small allowed domain because the light stop is tachyonic for most of the
+parameter space. A similar phenomenon exists for a lighter top and A_t negative
+when the GUT coupling constant is slightly reduced. For A_t>0, however, the
+branching ratio is much less sensitive to small changes in m_t, and \alpha_G.
+","[{""version"":""v1"",""created"":""Tue, 21 Jun 1994 02:17:04 GMT""}]","2009-09-25"
+"hep-ph/9406347","Department of theoretic physics","A.V. Kuznetsov and N.V. Mikheev","Vector Leptoquarks Could Be Rather Light?","10 pages, LaTeX, Yaroslavl, Yaroslavl State University preprint
+  YARU-HE-94/02","Phys.Lett.B329:295-299,1994","10.1016/0370-2693(94)90775-7",,"hep-ph",,"  Some low-energy manifestations of a minimal extension of the Standard Model
+based on the quark-lepton $SU(4)_V \otimes SU(2)_L \otimes G_R$ symmetry of the
+Pati-Salam type are analysed. Given this symmetry a new type of mixing in the
+quark-lepton interactions is shown to be required. An additional arbitrariness
+of the mixing parameters could allow to decrease noticeably the lower bound on
+the leptoquark mass $M_X$ originated from the $\pi$ and $K$ decays and the $\mu
+e$ conversion. The only mixing independent bound emerging from the cosmological
+limit on the $\pi^0 \rightarrow \nu \bar{\nu}$ decay width is $M_X > 18~TeV$.
+","[{""version"":""v1"",""created"":""Tue, 21 Jun 1994 07:14:59 GMT""}]","2008-11-26"
+"hep-ph/9406349","Bruno Machet","B. Machet","Comments on the Standard Model of Electroweak Interactions","some misprints have been corrected, references added, and an
+  incorrect remark suppressed. 33 pages Latex [amssymb,times,epsf], 8 (tarred,
+  compressed, uuencoded) postscript figures included (instructions at the
+  beginning of the latex file).","Int.J.Mod.Phys. A11 (1996) 29-64","10.1142/S0217751X96000031","PAR-LPTHE 94/24 (June 1994, revised March 1995)","hep-ph hep-th",,"  The Standard Model of electroweak interactions is shown to include a gauge
+theory for the observed scalar and pseudoscalar mesons. This is done by
+exploiting the consequences of embedding the SU(2)left X U(1) group into the
+chiral group of strong interactions and by considering explicitly the Higgs
+boson and its three companions inside the standard scalar 4-plet as composite.
+No extra scale of interaction is needed. Quantizing by the Feynman path
+integral reveals how, in the `Nambu Jona-Lasinio approximation', the quarks and
+the Higgs boson become unobservable, and the theory anomaly-free. Nevertheless,
+the `anomalous' couplings of the pseudoscalar mesons to gauge fields spring
+again from the constraints associated with their compositeness itself. This
+work is the complement of a previous one, ref.[1], where the leptonic sector
+was shown to be compatible with a purely vectorial theory and, consequently, to
+be also anomaly-free. The bond between quarks and leptons loosens.
+","[{""version"":""v1"",""created"":""Tue, 21 Jun 1994 08:03:51 GMT""},{""version"":""v2"",""created"":""Mon, 3 Apr 1995 08:05:32 GMT""}]","2009-10-28"
+"hep-ph/9406350","Peter Landshoff","S D Bass and P V Landshoff","The small $x$ behaviour of $g_1$","6 pages plus 2 figures, uuencoded ps file, Cavendish preprint HEP
+  94/4, DAMTP 94/50","Phys.Lett. B336 (1994) 537-542","10.1016/0370-2693(94)90569-X",,"hep-ph",,"  We discuss the small $x$ behaviour of the spin dependent structure function
+$g_1$. We find a contribution from the exchange of two non-perturbative gluons
+which behaves as $\sim ( 2 \ln {1 \over x} -1)$.
+","[{""version"":""v1"",""created"":""Tue, 21 Jun 1994 09:20:59 GMT""}]","2009-10-28"
+"hep-ph/9406351","Bill Scott","P. F. Harrison and W. G. Scott","Generation Permutation Symmetry and the Quark Mixing Matrix","8 pages of text; no figures. RAL-94-072","Phys.Lett.B333:471-475,1994","10.1016/0370-2693(94)90170-8",,"hep-ph",,"  We propose a new discrete symmetry in the generation space of the fundamental
+fermions, consistent with the observed fermion mass spectrum. In the case of
+the quarks, the symmetry leads to the unique prediction of a flat CKM matrix at
+high energy. We explore the possibility that evolution due to quantum
+corrections leads to the observed hierarchical form of the CKM matrix at low
+energies.
+","[{""version"":""v1"",""created"":""Tue, 21 Jun 1994 11:00:00 GMT""}]","2014-11-17"
+"hep-ph/9407246","Passarino Giampiero","Guido Montagna, Oreste Nicrosini, Giampiero Passarino and Fulvio
+  Piccinini","The Top Quark and the Higgs Boson Mass from LEP SLC and CDF Data","Latex (6 Figures upon request, MONTAGNA@PV.INFN.IT)","Phys.Lett.B335:484-489,1994","10.1016/0370-2693(94)90381-6",,"hep-ph",,"  The impact of the new experimental data from LEP, SLC and CDF on the top
+quark mass and the Higgs boson mass is investigated. The determinations of
+m_{top} and of an upper bound on m_{Higgs} are given, taking into account the
+experimental error on the QED coupling constant \alpha_{em} and on the b-quark
+mass m_b. The relevance of higher order theoretical uncertainties is pointed
+out. briefly reviewed.
+","[{""version"":""v1"",""created"":""Tue, 21 Jun 1994 07:41:43 GMT""}]","2009-09-25"
+"hep-th/9406131","Shibaji Roy","P.M.Llatas and S.Roy","Observations on the Topological Structure in 2d Gravity Coupled to
+  Minimal Matter","13 pages, plain tex, UG-5/94 Some clarifying statements and two new
+  references added","Phys.Lett. B342 (1995) 66-72","10.1016/0370-2693(94)01408-5",,"hep-th",,"  By using a bosonization we uncover the topological gravity structure of
+Labastida, Pernici and Witten in ordinary $2d$ gravity coupled to $(p,q)$
+minimal models. We study the cohomology class associated with the fermionic
+charge of the topological gravity which is shown to be isomorphic to that of
+the total $BRST$ charge. One of the ground ring generators of $c_M <1$ string
+theory is found to be in the equivariant cohomology of this fermionic charge.
+","[{""version"":""v1"",""created"":""Mon, 20 Jun 1994 16:45:00 GMT""},{""version"":""v2"",""created"":""Wed, 19 Oct 1994 17:08:54 GMT""}]","2009-10-28"
+"hep-th/9406132","Michael Dine","T. Banks and M. Dine","Coping With Strongly Coupled String Theory","29 pages, RU-50-94, SCIPP 94/12 Two question marks removed","Phys. Rev. D 50, 7454 (1994)","10.1103/PhysRevD.50.7454",,"hep-th hep-ph",,"  String theory, if it describes nature, is probably strongly coupled. As a
+result, one might despair of making any statements about the theory. In the
+framework of a set of clearly spelled out assumptions, we show that this is not
+necessarily the case. Certain discrete gauge symmetries, combined with
+supersymmetry, tightly constrain the form of the effective action. Among our
+assumptions are that the true ground state can be obtained from some
+perturbative ground state by varying the coupling, and that the actual
+numerical value of the low energy field theoretic coupling ${g^2 \over 4\pi}$
+is small. It follows that the low energy theory is approximately
+supersymmetric; corrections to the superpotential and gauge coupling function
+are small, while corrections to the Kahler potential are large; the spectrum of
+light particles is the same at strong as at weak coupling. We survey the
+phenomenological consequences of this viewpoint. We also note that the string
+axion can serve as QCD axion in this framework (modulo cosmological problems).
+","[{""version"":""v1"",""created"":""Mon, 20 Jun 1994 18:37:18 GMT""},{""version"":""v2"",""created"":""Tue, 21 Jun 1994 17:37:35 GMT""}]","2013-11-13"
+"hep-th/9406133","Fabian Essler","F.H.L. Essler, H. Frahm, A.G. Izergin, V.E. Korepin","Determinant Representations for Correlation Functions of Spin-1/2 XXX
+  and XXZ Heisenberg Magnets","23 pages, TeX, BONN-TH-94-14, revised version: typos corrected","Commun.Math.Phys. 174 (1995) 191-214","10.1007/BF02099470",,"hep-th cond-mat",,"  We consider correlation functions of the spin-$\half$ XXX and XXZ Heisenberg
+chains in a magnetic field. Starting from the algebraic Bethe Ansatz we derive
+representations for various correlation functions in terms of determinants of
+Fredholm integral operators.
+","[{""version"":""v1"",""created"":""Mon, 20 Jun 1994 18:53:15 GMT""},{""version"":""v2"",""created"":""Thu, 22 Sep 1994 12:55:26 GMT""}]","2009-10-28"
+"hep-th/9406134","Kraus","Elisabeth Kraus","Asymptotic normalization properties and mass independent renormalization
+  group functions","14 pages, Plain TeX, BUTP 94-6","Helv.Phys.Acta 67 (1994) 424-435",,,"hep-th hep-ph",,"  Mass independent renormalization group functions in massive theories are
+related to normalization properties of the Green functions in the asymptotic
+region, where mass effects are neglected. In this special form the
+renormalization group invariance is restricted to the asymptotic region and
+consequently mass effects cannot be recoverd by a integration of the
+renormalziation group equation. It is shown, that mass independence results in
+the limit of a large normalization point, whenever a Callan-Symanzik equation
+exists and contains the same differential operators as the renormalization
+group equation.
+","[{""version"":""v1"",""created"":""Tue, 21 Jun 1994 08:55:00 GMT""}]","2007-05-23"
+"hep-th/9406135","Hector DE Vega","H.J. de Vega","The Field Theory Limit of Integrable Lattice Models","21 pages, Latex, LPTHE preprint 94-26. Figures available from the
+  author under request",,,,"hep-th",,"  The light-cone approach is reviewed. This method allows to find the
+underlying quantum field theory for any integrable lattice model in its gapless
+regime. The relativistic spectrum and S-matrix follows straightforwardly in
+this way through the Bethe Ansatz. We show here how to derive the infinite
+number of local commuting and non-local and non-commuting conserved charges in
+integrable QFT, taking the massive Thirring model (sine-Gordon) as an example.
+They are generated by quantum monodromy operators and provide a representation
+of $q-$deformed affine Lie algebras $U_q({\hat\G})$. Based on lectures
+delivered at the $XXX_q$ Karpacz Winter School, Poland, February 14-26, 1994.
+","[{""version"":""v1"",""created"":""Tue, 21 Jun 1994 10:36:32 GMT""}]","2009-09-25"
+"hep-th/9406136","A. A. Kehagias","A.A. Kehagias","All WZW Mooels in $D\leq5$","(kehagias@sci.kun.nl), 19 pages, LaTex, NTUA-45/94",,,,"hep-th",,"  We present here all the real algebras $\cal{A}$ with dim$\cal{A}\leq $5 and
+all 6-dimensional nilpotent ones with symmetric, invariant and non-degenerate
+metrics for which a WZW model can be constructed.
+  In three and four dimensions there are no other algebras than the well known
+$SU(2)$, $SU(1,1)$, $E_2^c$ and $H_4$. There exist only one five-dimensional
+and one six-dimensional nilpotent algebra with invariant non-degenerate metric
+and central charge $c=5, \,6$, respectively. We examine in details the
+five-dimensional case and, by gauging an appropriate subgroup, four-dimensional
+plane-wave string backgrounds are obtained. The corresponding background for
+the six-dimensional case is flat.
+","[{""version"":""v1"",""created"":""Tue, 21 Jun 1994 11:50:21 GMT""}]","2007-05-23"
+"math/9406217","Haskell P. Rosenthal","Haskell P. Rosenthal","Differences of bounded semi-continuous functions, I",,,,"Banach Archive 6/20/94","math.FA",,"  Structural properties are given for $D(K)$, the Banach algebra of (complex)
+differences of bounded semi-continuous functons on a metric space $K$. For
+example, it is proved that if all finite derived sets of $K$ are non-empty,
+then a complex function $\varphi$ operates on $D(K)$ (i.e., $\varphi\circ f\in
+D(K)$ for all $f\in D(K)$) if and only if $\varphi$ is locally Lipschitz.
+Another example: if $W\subset K$ and $g\in D(W)$ is real-valued, then it is
+proved that $g$ extends to a $\tilde g$ in $D(K)$ with $\|\tilde g\|_{D(K)} =
+\|g\|_{D(W)}$. Considerable attention is devoted to $SD(K)$, the closure in
+$D(K)$ of the set of simple functions in $D(K)$. Thus it is proved that every
+member of $SD(K)$ is a (complex) difference of semi-continuous functions in
+$SD(K)$, and that $|f|$ belongs to $SD(K)$ if $f$ does. An intrinsic
+characterization of $SD(K)$ is given, in terms of transfinite oscillation sets.
+Using the transfinite oscillations, alternate proofs are given of the results
+of Chaatit, Mascioni and Rosenthal that functions of finite Baire-index belong
+to $SD(K)$, and that $SD(K)\ne D(K)$ for interesting $K$. It is proved that the
+``variable oscillation criterion'' characterizes functions belonging to
+$B_{1/4}(K)$, thus answering an open problem raised in earlier work of Haydon,
+Odell and Rosenthal. It is also proved that $f$ belongs to $B_{1/4}(K)$ (if
+and) only if $f$ is a uniform limit of simple $D$-functions of uniformly
+bounded $D$-norm iff $\osc_\omega f$ is bounded; the last equivalence has also
+been obtained by V.~Farmaki, using other methods.
+","[{""version"":""v1"",""created"":""Mon, 20 Jun 1994 17:26:30 GMT""}]","2016-09-06"
+"nucl-th/9406023",,"G.A. Miller (Department of Physics, FM-15, University of Washington,
+  Seattle, WA)","Charge Independence and Symmetry of Nuclear Forces","15 pages, 9 figures, available from Miller by ordinary mail. U. WA.
+  Preprint DOE/ER/40427-09-N94","Chin.J.Phys.32:1075-1088,1994",,,"nucl-th hep-ph",,"  Charge independence and symmetry are approximate symmetries of nature. The
+observations of the small symmetry breaking effects and the consequences of
+those effects are reviewed. The effects of the mass difference between up and
+down quarks and the off shell dependence $q^2$ of $\rho^0$-$\omega$ mixing are
+stressed. In particular, I argue that models which predict a strong $q^2$
+dependence of $\rho^0$-$\omega$ mixing seem also to predict a strong $q^2$
+variation for the $\rho^0$-$\gamma^*$ matrix element, in contradiction with
+experiment.
+","[{""version"":""v1"",""created"":""Mon, 20 Jun 1994 23:11:31 GMT""}]","2011-02-01"
+"nucl-th/9406024","J. Labarsouque","J. C. Caillon and J. Labarsouque","RPA calculation of $K^+$-nucleus cross-sections with a density-dependent
+  Brueckner-Hartree-Fock NN interaction","7 pages, LaTeX, 1 figure available upon request, preprint
+  CENBG-94-th1","Nucl.Phys. A589 (1995) 609-619","10.1016/0375-9474(95)00126-L",,"nucl-th",,"  In the calculation of the $K^+$-nucleus cross sections, the coupling of the
+mesons exchanged between the $K^+$ and the target nucleons to the polarization
+of the Fermi and Dirac seas has been taken into account. This polarization has
+been calculated in the one-loop approximation but summed up to all orders (RPA
+approximation). For this calculation a density-dependent Brueckner-Hartree-Fock
+NN interaction providing a good description of both nuclear matter and finite
+nuclei has been used. The agreement with experiment is considerably improved.
+","[{""version"":""v1"",""created"":""Tue, 21 Jun 1994 09:45:30 GMT""}]","2009-10-28"
+"nucl-th/9406025","Jean Marc Richard","Jean-Marc Richard","Antiproton Induced Reactions","(Latex), Lectures given at the Indian-Summer School, Prague, August
+  1993 (Replace the untexable previous version)","Czech.J.Phys.44:515-544,1995","10.1007/BF01689773",,"nucl-th",,"  The various aspects of antiproton physics are shortly reviewed, and its
+relevance for the possible discovery of new particles and effects is pointed
+out. Then a survey of the nucleon-antinucleon interactions is given. In the
+nucleon-antinucleon annihilations, there is a big amount of experimental data
+that call for theoretical explanation. Importance of specific spin and isospin
+channels for our understanding of antiproton physics is stressed.
+","[{""version"":""v1"",""created"":""Tue, 21 Jun 1994 15:10:57 GMT""},{""version"":""v2"",""created"":""Tue, 5 Jul 1994 10:26:41 GMT""}]","2010-11-01"

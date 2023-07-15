@@ -1,0 +1,103 @@
+"cond-mat/9406081","Fabian Essler","Fabian H.L. Essler","A Note on Dressed S-Matrices in Models with Long-Range Interactions","18 pages, jyTeX (macro included - just TeX the file) BONN-TH-94-13,
+  revised version: analysis of models with 1/sinh^2 interaction added",,"10.1103/PhysRevB.51.13357",,"cond-mat",,"  The {\sl dressed} Scattering matrix describing scattering of quasiparticles
+in various models with long-range interactions is evaluated by means of
+Korepin's method\upref vek1/. For models with ${1\over\sin^2(r)}$-interactions
+the S-matrix is found to be a momentum-independent phase, which clearly
+demonstrates the ideal gas character of the quasiparticles in such models. We
+then determine S-matrices for some models with ${1\over\sinh^2(r)}$-interaction
+and find them to be in general nontrivial. For the ${1\over r^2}$-limit of the
+${1\over\sinh^2(r)}$-interaction we recover trivial S-matrices, thus exhibiting
+a crossover from interacting to noninteracting quasiparticles. The relation of
+the S-matrix to fractional statistics is discussed.
+","[{""version"":""v1"",""created"":""Sun, 19 Jun 1994 20:44:32 GMT""},{""version"":""v2"",""created"":""Mon, 19 Dec 1994 21:57:52 GMT""}]","2009-10-22"
+"funct-an/9406004",,"Vladimir G. Pestov","Douady's conjecture on Banach analytic spaces","5 pages. AmS TeX 2.1 source file",,,"RP-94-144, Victoria Univ of Wellington, June 1994, 5 pp","funct-an math.FA",,"  We show that, as conjectured by Adrien Douady back in 1972, every complete
+metric space is homeomorphic (moreover, isometric) to the locus of zeros of an
+analytic map between two Banach spaces. As a corollary, a paracompact
+topological space admits the structure of a Banach analytic space if and only
+if it is metrizable with a complete metric.
+","[{""version"":""v1"",""created"":""Mon, 20 Jun 1994 12:15:44 GMT""}]","2008-02-03"
+"hep-lat/9406013","Klaus Pinn","M. Grabenstein and K. Pinn","Multigrid Monte Carlo Algorithms for SU(2) Lattice Gauge Theory: Two
+  versus Four Dimensions","24 pages, PostScript file (compressed and uuencoded), preprint
+  MS-TPI-94-8","Phys.Rev.D50:6998-7010,1994","10.1103/PhysRevD.50.6998",,"hep-lat",,"  We study a multigrid method for nonabelian lattice gauge theory, the time
+slice blocking, in two and four dimensions. For SU(2) gauge fields in two
+dimensions, critical slowing down is almost completely eliminated by this
+method. This result is in accordance with theoretical arguments based on the
+analysis of the scale dependence of acceptance rates for nonlocal Metropolis
+updates. The generalization of the time slice blocking to SU(2) in four
+dimensions is investigated analytically and by numerical simulations. Compared
+to two dimensions, the local disorder in the four dimensional gauge field leads
+to kinematical problems.
+","[{""version"":""v1"",""created"":""Mon, 20 Jun 1994 08:03:40 GMT""}]","2014-11-17"
+"hep-lat/9406014","Massimo Campostrini","Massimo Campostrini, Paolo Rossi, and Ettore Vicari","Asymptotic scaling from strong coupling","8 pages + 3 figures (PostScript); report no. IFUP-TH 36/94","Phys.Rev.D51:958-961,1995","10.1103/PhysRevD.51.958",,"hep-lat",,"  Strong-coupling analysis of two-dimensional chiral models, extended to 15th
+order, allows for the identification of a scaling region where known continuum
+results are reproduced with great accuracy, and asymptotic scaling predictions
+are fulfilled. The properties of the large-$N$ second-order phase transition
+are quantitatively investigated.
+","[{""version"":""v1"",""created"":""Mon, 20 Jun 1994 10:11:16 GMT""}]","2009-12-30"
+"hep-ph/9406340","Dietrich Lehner","D. Bardin, M. Bilenky, D. Lehner, A. Olchevski, T. Riemann","Semi-Analytical Approach to Four-Fermion Production in $e^+ e^-$
+  Annihilation","15 pages (LaTeX), 3 figures (not included, a uuencoded file
+  containing the LaTeX and all ps files is available via anonymous ftp from
+  convex.ifh.de as /pub/preprint/desy94-093.uu), CERN-TH.7295/94, DESY 94-093","Nucl.Phys.Proc.Suppl. 37B (1994) 148-157","10.1016/0920-5632(94)90670-X",,"hep-ph",,"  A study of the semi-analytical approach to four-fermion production in $e^+
+e^-$ annihilation is presented. We classify all possible four-fermion final
+states and present results of new calculations for the `basic' processes with
+the $WW,ZZ$, and $ZH$ off-shell production together with some examples of
+`background' processes. The Initial State Radiative corrections are included
+for the basic processes. Several numerical examples are given in the energy
+range from LEP2 up to $\sqrt{s}=1$ TeV.
+","[{""version"":""v1"",""created"":""Mon, 20 Jun 1994 10:45:05 GMT""}]","2009-10-28"
+"hep-ph/9406342",,"D. Ghilencea, L. Micu","Structure Dependence in $\pi \to \bf\ell\nu, \pi\ to \ell\nu\gamma$ and
+  $\pi^0\ to \gamma\gamma$ Decays","no. pages 16 + 6 pages with figures by request, LATEX","Phys.Rev. D52 (1995) 1577-1587","10.1103/PhysRevD.52.1577","IFA-FT-395-1994","hep-ph",,"  The amplitudes of $\pi$-meson decays are calculated in a relativistic
+nonperturbative quark model which assumes that mesons are made of a quark
+antiquark pair and of a scalar neutral component representing the contribution
+of the nonelementary fluctuations of the quark gluonic field. The experimental
+data can be fitted in a satisfactory manner using current quark masses
+$m_u\approx1.5\ MeV, m_d\approx9\ MeV$.
+","[{""version"":""v1"",""created"":""Mon, 20 Jun 1994 11:24:00 GMT""}]","2009-10-28"
+"hep-th/9406128","Massimo Porrati","L. Girardello, A. Giveon, M. Porrati and A. Zaffaroni","Non-Abelian Strong-Weak Coupling Duality in (String-Derived) N=4
+  Supersymmetric Yang-Mills Theories","11 pages (minor misprints corrected, new references added; latex
+  file), NYU-TH-94/06/02, IFUM/472/FT, SISSA 80/94/EP, RI-6-94","Phys.Lett.B334:331-338,1994","10.1016/0370-2693(94)90697-1",,"hep-th",,"  We study strong-weak coupling duality (S-duality) in N=4 supersymmetric
+non-Abelian Yang-Mills theories. These theories arise naturally as the
+low-energy limit of four-dimensional toroidal compactifications of the
+heterotic string. Firstly, we define the free energy in the presence of
+electric and magnetic fluxes using 't Hooft's prescription, i.e. through
+functional integrals at finite volume in the presence of twisted boundary
+conditions. Then, we compute those free energies in two limiting cases: small
+and large coupling constant. Finally, we extend the free-energies to all values
+of the coupling constant (and the theta angle) by presenting a fully S-duality
+invariant ansatz. This ansatz obeys all relevant consistency conditions; in
+particular, it obeys 't Hooft duality equations and Witten's magnetic-electric
+transmutation. The existence of an S-duality invariant, consistent definition
+of free energies supports the claim made in the literature that S-duality is a
+duality symmetry of N=4 SUSY Yang-Mills. Our ansatz also suggests that N=4,
+irrespective of whether partially broken or not, is in a self-dual phase: no
+phase transitions occur between the strong and weak coupling regimes.
+","[{""version"":""v1"",""created"":""Sun, 19 Jun 1994 17:03:27 GMT""},{""version"":""v2"",""created"":""Wed, 22 Jun 1994 19:02:46 GMT""}]","2011-07-19"
+"hep-th/9406129","Piotr Hajac","Piotr M. Hajac","Strong Connections on Quantum Principal Bundles","AMS-LaTeX, 40 pages, major revision including examples of connections
+  over a quantum real projective space","Commun.Math.Phys. 182 (1996) 579-617","10.1007/BF02506418",,"hep-th math.QA",,"  A gauge invariant notion of a strong connection is presented and
+characterized. It is then used to justify the way in which a global curvature
+form is defined. Strong connections are interpreted as those that are induced
+from the base space of a quantum bundle. Examples of both strong and non-strong
+connections are provided. In particular, such connections are constructed on a
+quantum deformation of the fibration $S^2 -> RP^2$. A certain class of strong
+$U_q(2)$-connections on a trivial quantum principal bundle is shown to be
+equivalent to the class of connections on a free module that are compatible
+with the q-dependent hermitian metric. A particular form of the Yang-Mills
+action on a trivial $U\sb q(2)$-bundle is investigated. It is proved to
+coincide with the Yang-Mills action constructed by A.Connes and M.Rieffel.
+Furthermore, it is shown that the moduli space of critical points of this
+action functional is independent of q.
+","[{""version"":""v1"",""created"":""Mon, 20 Jun 1994 09:23:07 GMT""},{""version"":""v2"",""created"":""Fri, 25 Sep 1998 15:30:35 GMT""}]","2009-10-28"
+"hep-th/9406130","Nersessina Armen","A. Nersessian and V. Ter-Antonian","``Charge-Dyon"" System As The Reduced Oscillator","4 pages, IC/94/128 , LaTeX file","Mod.Phys.Lett. A9 (1994) 2431-2436","10.1142/S0217732394002306",,"hep-th",,"  It is shown, that in the general case the Kustaanheimo-Stiefel transformation
+(reduction of $4d$ oscillator on the twistor space by the Hamiltonian action of
+$U(1)$ with further time-reparametrization) leads to the integrable system,
+describing the interaction of a spinless electrically charged particle with a
+dyon .
+","[{""version"":""v1"",""created"":""Mon, 20 Jun 1994 13:46:50 GMT""}]","2015-06-26"
+"math/9406208",,"Matthew Miller and Rafael H. Villarreal","On the Betti numbers of some Gorenstein ideals",,,,"Formerly com-alg/940002","math.AC",,"  Assume $R$ is a polynomial ring over a field and $I$ is a homogeneous
+Gorenstein ideal of codimension $g\ge3$ and initial degree $p\ge2$. We prove
+that the number of minimal generators $\nu(I_p)$ of $I$ that are in degree $p$
+is bounded above by $\nu_0={p+g-1\choose g-1}-{p+g-3\choose g-1}$, which is the
+number of minimal generators of the defining ideal of the extremal Gorenstein
+algebra of codimension $g$ and initial degree $p$. Further, $I$ is itself
+extremal if $\nu(I_p)=\nu_0$.
+","[{""version"":""v1"",""created"":""Mon, 20 Jun 1994 00:00:00 GMT""}]","2009-09-25"

@@ -1,0 +1,231 @@
+"astro-ph/9411019","Kim Griest","C.Alcock, R.A.Allsman, T.S.Axelrod, D.P. Bennett, K.H.Cook, N.W.Evans,
+  K.C.Freeman, K. Griest, J.Jijina, M. Lehner, S.L.Marshall, S.Perlmutter,
+  B.A.Peterson, M.R. Pratt, P.J.Quinn, A.W.Rodgers, C.W.Stubbs, and W.
+  Sutherland (the MACHO collaboration)","Theory of Exploring the Dark Halo with Microlensing 1: Power--Law Models","19 pages, tex, 12 figures(uuencoded + text.ps)","Astrophys.J. 449 (1995) 28","10.1086/176028","UCSD/PTH 94-21; CfPA 94-th-56","astro-ph hep-ph",,"  The detection of microlensing has opened the way for the development of new
+methods in galactic astronomy. This series of papers investigates what
+microlensing can teach us about the structure and shape of the dark halo. In
+this paper we present formulas for the microlensing rate, optical depth and
+event duration distributions for a simple set of axisymmetric disk-halo models.
+The halos are based on the ""power--law models"" which have simple velocity
+distributions. Using these models, we show that there is a large uncertainty in
+the predicted microlensing rate because of uncertainty in the halo parameters.
+For example, models which reproduce the measured galactic observables to within
+their errors still differ in microlensing rate towards the Magellanic Clouds by
+more than a factor of ten. We find that while the more easily computed optical
+depth correlates well with microlensing rate, the ratio of optical depth to
+rate can vary by a factor of two (or greater if the disk is maximal).
+Comparison of microlensing rates towards the Large and Small Magellanic Clouds
+(LMC and SMC) and M31 can be used to aid determinations of the halo flattening
+and rotation curve slope. For example, the ratio of microlensing rates towards
+the LMC and SMC is $\sim 0.7-0.8$ for E0 halos and $\sim 1.0 - 1.2$ for E7
+halos (c.f. Sackett \& Gould 1993). Once the flattening has been established,
+the ratio of microlensing rates towards M31 and the LMC may help to distinguish
+between models with rising, flat or falling rotation curves. Comparison of
+rates along LMC and galactic bulge lines-of-sight gives useful information on
+the halo core radius, although this may not be so easy to extract in practice.
+Maximal disk models provide substantially smaller halo optical depths, shorter
+event durations and even larger model uncertainties.
+","[{""version"":""v1"",""created"":""Fri, 4 Nov 1994 22:04:23 GMT""}]","2009-10-22"
+"astro-ph/9411020",,"Joel R. Primack, Jon Holtzman, Anatoly Klypin, and David O. Caldwell
+  Comments 8 pages, uuencoded compressed .ps file","Cold + Hot Dark Matter Cosmology with $m(\nu_\mu) \approx m(\nu_\tau)
+  \approx 2.4$ ev",,"Phys.Rev.Lett. 74 (1995) 2160-2163","10.1103/PhysRevLett.74.2160","SCIPP 94/28 (October 1994), submitted to Phys. Rev. Lett","astro-ph hep-ph",,"  Cold + Hot Dark Matter (CHDM) $\Omega=1$ cosmological models require a total
+neutrino mass $\sim 5$ eV. Because recent data support the $\nu_\mu \to
+\nu_\tau$ oscillation explanation of the cosmic ray $\nu_\mu$ deficit, which
+requires that $m(\nu_\mu) \approx m(\nu_\tau)$, this suggests that $m(\nu_\mu)
+\approx m(\nu_\tau) \approx 2.4$ eV. The linear calculations and N-body
+simulation reported here indicate that an $\Omega=1$ CHDM model with two 2.4 eV
+neutrinos (designated C$\nu^2$DM) agrees remarkably well with all available
+observations, but only if the Hubble parameter $h \approx 0.5$. We also show
+that even one 2.4 eV neutrino raises serious difficulties for low-$\Omega$ flat
+CDM models.
+","[{""version"":""v1"",""created"":""Sat, 5 Nov 1994 01:46:48 GMT""}]","2009-10-22"
+"chem-ph/9411004","Alex Matro","Alexander Matro and Jeffrey A. Cina (Department of Chemistry and The
+  James Franck Institute, The University of Chicago, Chicago, IL)","Theoretical Study of Time-Resolved Fluorescence Anisotropy from Coupled
+  Chromophore Pairs","Journal of Physical Chemistry, 44 pages",,,,"chem-ph physics.chem-ph",,"  Calculations of time-resolved fluorescence anisotropy from a pair of
+chromophores coupled by an excitation transfer interaction are presented. For
+the purpose of investigating the effects of nuclear motion on the energy
+transfer and anisotropy, an illustrative model is developed that provides each
+chromophore with a single intramolecular vibrational mode. Account is taken of
+non-instantaneous excitation and time- and frequency-resolved detection.
+Effects of excitation pulse duration, detection window duration and frequency
+resolution, and excitation transfer coupling strength on the time-resolved
+anisotropy are examined in detail. Effects of vibrational relaxation and
+dephasing are also examined using a simplified Redfield description of the
+effects of coupling to a thermal bath.
+","[{""version"":""v1"",""created"":""Fri, 4 Nov 1994 19:09:13 GMT""}]","2008-02-03"
+"cmp-lg/9411011","Fernando Gomez","Fernando Gomez (UCF), Richard Hull (UCF), Carlos Segami (Barry
+  University)","Acquiring Knowledge from Encyclopedic Texts","7 pages, 7 Postscript figures, uses aclap.sty","Proceedings of the Fourth ACL Conference on Applied Natural
+  Language Processing, Stuttgart, Germany, October 13-15, 1994",,,"cmp-lg cs.CL",,"  A computational model for the acquisition of knowledge from encyclopedic
+texts is described. The model has been implemented in a program, called SNOWY,
+that reads unedited texts from {\em The World Book Encyclopedia}, and acquires
+new concepts and conceptual relations about topics dealing with the dietary
+habits of animals, their classifications and habitats. The program is also able
+to answer an ample set of questions about the knowledge that it has acquired.
+This paper describes the essential components of this model, namely semantic
+interpretation, inferences and representation, and ends with an evaluation of
+the performance of the program, a sample of the questions that it is able to
+answer, and its relation to other programs of similar nature.
+","[{""version"":""v1"",""created"":""Fri, 4 Nov 1994 23:08:09 GMT""}]","2008-02-03"
+"cmp-lg/9411012","Bob Frank","Robert Frank (University of Delaware)","From Regular to Context Free to Mildly Context Sensitive Tree Rewriting
+  Systems: The Path of Child Language Acquisition","4 pages","Appeared in {\em 3e Colloque International sur les grammaires
+  d'Arbres Adjoints (TAG+3).}",,"TALANA-RT-94-01, TALANA, Universit\'{e} Paris 7, 1994","cmp-lg cs.CL",,"  Current syntactic theory limits the range of grammatical variation so
+severely that the logical problem of grammar learning is trivial. Yet, children
+exhibit characteristic stages in syntactic development at least through their
+sixth year. Rather than positing maturational delays, I suggest that
+acquisition difficulties are the result of limitations in manipulating
+grammatical representations. I argue that the genesis of complex sentences
+reflects increasing generative capacity in the systems generating structural
+descriptions: conjoined clauses demand only a regular tree rewriting system;
+sentential embedding uses a context-free tree substitution grammar;
+modification requires TAG, a mildly context-sensitive system.
+","[{""version"":""v1"",""created"":""Fri, 4 Nov 1994 20:56:44 GMT""}]","2008-02-03"
+"cmp-lg/9411013","Geunbae Lee","Geunbae Lee Jong-Hyeok Lee Kyunghee Kim (Department of Computer
+  Science & Engineering and Postech Information Research Laboratory Pohang
+  University of Science & Technology, Korea)","Phoneme-level speech and natural language intergration for agglutinative
+  languages","12 pages, Latex Postscript, compressed, uuencoded, will be presented
+  in TWLT-8",,,,"cmp-lg cs.CL",,"  A new tightly coupled speech and natural language integration model is
+presented for a TDNN-based large vocabulary continuous speech recognition
+system. Unlike the popular n-best techniques developed for integrating mainly
+HMM-based speech and natural language systems in word level, which is obviously
+inadequate for the morphologically complex agglutinative languages, our model
+constructs a spoken language system based on the phoneme-level integration. The
+TDNN-CYK spoken language architecture is designed and implemented using the
+TDNN-based diphone recognition module integrated with the table-driven
+phonological/morphological co-analysis. Our integration model provides a
+seamless integration of speech and natural language for connectionist speech
+recognition systems especially for morphologically complex languages such as
+Korean. Our experiment results show that the speaker-dependent continuous
+Eojeol (word) recognition can be integrated with the morphological analysis
+with over 80\% morphological analysis success rate directly from the speech
+input for the middle-level vocabularies.
+","[{""version"":""v1"",""created"":""Sat, 5 Nov 1994 06:22:31 GMT""}]","2008-02-03"
+"cond-mat/9411023","Per Hedegard","Per Hedegard and Anders Smith","Solution of the Boltzmann equation in a random magnetic field","15 pages, Revtex 3.0. The 5 postscript figures can be obtained from
+  our WWW-server: http://roemer.fys.ku.dk/randbolt.htm , or on request from the
+  authors",,"10.1103/PhysRevB.51.10869",,"cond-mat",,"  A general framework for solving the Boltzmann equation for a 2-dimensional
+electron gas (2DEG) in random magnetic fields is presented, when the random
+fields are included in the driving force. The formalism is applied to some
+recent experiments, and a possible extension to composite fermions at $\nu=1/2$
+is discussed.
+","[{""version"":""v1"",""created"":""Fri, 4 Nov 1994 22:26:24 GMT""}]","2009-10-22"
+"cond-mat/9411024","Per Hedegard","Mads Nielsen and Per Hedegaard","Two-dimensional electron transport in the presence of magnetic flux
+  vortices","47 pages, Revtex 3.0, 18 postscript figures can be obtained from our
+  WWW-server: http://roemer.fys.ku.dk/vortices.htm , or on request from the
+  Authors. Note that this paper is a thoroughly revised version of
+  cond-mat/9404053",,"10.1103/PhysRevB.51.7679",,"cond-mat",,"  We have considered the conductivity properties of a two dimensional electron
+gas (2DEG) in two different kinds of inhomogeneous magnetic fields, i.e. a
+disordered distribution of magnetic flux vortices, and a periodic array of
+magnetic flux vortices. The work falls in two parts. In the first part we show
+how the phase shifts for an electron scattering on an isolated vortex, can be
+calculated analytically, and related to the transport properties through a
+force balance equation. In the second part we present numerical results for the
+Hall conductivity of the 2DEG in a periodic array of flux vortices. We find
+characteristic peaks in the Hall conductance, when plotted against the filling
+fraction. It is argued that the peaks can be interpreted in terms of
+``topological charge'' piling up across local and global gaps in the energy
+spectrum.
+","[{""version"":""v1"",""created"":""Fri, 4 Nov 1994 23:46:26 GMT""}]","2009-10-22"
+"cond-mat/9411025","Su Gang","H.T. Nieh, Gang Su and Bao-Heng Zhao","Off-Diagonal Long-Range Order: Meissner Effect and Flux Quantization","11 pages, Latex file",,"10.1103/PhysRevB.51.3760","ITP-SB-94-12","cond-mat hep-th",,"  There has been a proof by Sewell that the hypothesis of off-diagonal
+long-range order in the reduced density matrix $\rho _2$ implies the Meissner
+effect. We present in this note an elementary and straightforward proof that
+not only the Meissner effect but also the property of magnetic flux
+quantization follows from the hypothesis. It is explicitly shown that the two
+phenomena are closely related, and phase coherence is the origin for both.
+","[{""version"":""v1"",""created"":""Sat, 5 Nov 1994 03:08:50 GMT""}]","2009-10-22"
+"cond-mat/9411027","Kikuo Harigaya","Kikuo Harigaya, Yukihiro Shimoi, and Shuji Abe","Exciton effects in soliton and bipolaron lattice states of doped
+  electron-phonon Peierls systems","Printed figures should be requested from the author K.Harigaya
+  (harigaya@etl.go.jp)","J. Phys.: Condens. Matter 7 (1995) 4061-4073","10.1088/0953-8984/7/21/006",,"cond-mat chem-ph mtrl-th",,"  Exciton effects on soliton and bipolaron lattice states are investigated
+using an electron-lattice Peierls model with long-range Coulomb interactions.
+The Hartree-Fock (HF) approximation and the single-excitation configuration-
+interaction (single-CI) method are used to obtain optical absorption spectra.
+We discuss the following properties: (1) The attraction between the excited
+electron and the remaining hole makes the excitation energy smaller when the
+correlations are taken into account by the single-CI. The oscillator strengths
+of the lower excited states become relatively larger than in the HF
+calculations. (2) We look at variations of relative oscillator strengths of two
+or three kinds of excitons described by the single-CI. While the
+excess-electron concentration is small, the ratio of the oscillator strengths
+of the exciton with the lowest energy increases almost linearly. The oscillator
+strengths accumulate at this exciton as the concentration increases.
+","[{""version"":""v1"",""created"":""Sat, 5 Nov 1994 07:54:11 GMT""}]","2007-05-23"
+"dg-ga/9411001","Claude LeBrun","Claude LeBrun, Shin Nayatani, and Takashi Nitta","Self-Dual Manifolds with Positive Ricci Curvature","17 pages, LaTeX",,,,"dg-ga math.DG",,"  We prove that the connected sums CP_2 # CP_2 and CP_2 # CP_2 # CP_2 admit
+self-dual metrics with positive Ricci curvature. Moreover, every self-dual
+metric of positive scalar curvature on CP_2 # CP_2 is conformal to a metric
+with positive Ricci curvature.
+","[{""version"":""v1"",""created"":""Fri, 4 Nov 1994 20:19:28 GMT""}]","2008-02-03"
+"gr-qc/9411012","Melnikov Vitaly Nikolaevich","V. D. Ivashchuk and V. N. Melnikov","Billiard Representation for Multidimensional Quantum Cosmology near the
+  Singularity","6 pages, LaTex","Class. Quant. Grav. 12 (1995) 809","10.1007/3-540-60024-8_87","RGA-CSVR-014/94","gr-qc",,"  The degenerate Lagrangian system describing a lot of cosmological models is
+considered. When certain restrictions on the parameters of the model are
+imposed, the dynamics of the model near the ""singularity"" is reduced to a
+billiard on the Lobachevsky space. The Wheeler-DeWitt equation in the
+asymptotical regime is solved and a third-quantized model is suggested.
+","[{""version"":""v1"",""created"":""Fri, 4 Nov 1994 16:35:36 GMT""}]","2009-10-22"
+"hep-ph/9411226","Rudy Hwa","R.C.Hwa","Factorial Moments of Continuous Order","15 pages + 9 figures (figures available upon request), Latex","Phys.Rev. D51 (1995) 3323-3331","10.1103/PhysRevD.51.3323","OITS-558","hep-ph",,"  The normalized factorial moments $F_q$ are continued to noninteger values of
+the order $q$, satisfying the condition that the statistical fluctuations
+remain filtered out. That is, for Poisson distribution $F_q = 1$ for all $q$.
+The continuation procedure is designed with phenomenology and data analysis in
+mind. Examples are given to show how $F_q$ can be obtained for positive and
+negative values of $q$. With $q$ being continuous, multifractal analysis is
+made possible for multiplicity distributions that arise from self-similar
+dynamics. A step-by-step procedure of the method is summarized in the
+conclusion.
+","[{""version"":""v1"",""created"":""Fri, 4 Nov 1994 23:27:39 GMT""}]","2009-10-28"
+"hep-ph/9411227","Toshiyuki Morii","Toshiyuki Morii","The Spin Structure of Nucleons and Deep Inelastic Scatterings","10 pages(Latex), 7 figures not included but available upon request
+  (Invited talk presented at the XII International Seminar on High Energy
+  Physics Problems- Relativistic Nuclear Physics and Quantum Chromodynamics-,
+  Dubna, 12-17 September, 1994: to appear in the proceedings.)",,,"KOBE-FHD-94-09","hep-ph",,"  Based on a simple model which is compatible with the idea of the static quark
+model and the parton model, the polarized structure functions of proton and
+deuteron, two-spin asymmetries of $\pi ^0$ in polarized $pp$ reactions and
+inelastic $J/\psi$ productions in polarized lepton-proton collisions are
+analyzed. In particular, an important role of polarized gluon distributions is
+pointed out.
+","[{""version"":""v1"",""created"":""Sat, 5 Nov 1994 09:20:34 GMT""}]","2007-05-23"
+"hep-ph/9411228","Teruya Yamanishi","T.Morii, S.Tanaka and T.Yamanishi","The Shape of Polarized Gluon Distributions","LaTeX file, 14 pages + 8 figures not included available upon request","Z.Phys. C67 (1995) 621-626","10.1007/BF01553988","KOBE-FHD-94-08","hep-ph",,"  The recent high precision SMC data on polarized $\mu p$ scatterings have
+again confirmed that very little of the proton spin is carried by quarks. To
+unravel the mystery of the proton spin structure, it is quite important to know
+the behavior of the polarized gluon distribution. By using the positivity
+condition of distribution functions together with the unpolarized and polarized
+experimental data, we restrict the $x$ dependence of the polarized gluon
+distribution.
+","[{""version"":""v1"",""created"":""Sat, 5 Nov 1994 09:24:19 GMT""}]","2009-10-28"
+"hep-th/9411037","Robert Perry","Robert J. Perry","A Simple Confinement Mechanism for Light-Front Quantum Chromodynamics","15 pages, latex, no figures. To appear in Proceedings of the workshop
+  `Theory of Hadrons and Light-Front QCD,' Poland, August 1994",,,,"hep-th hep-ph nucl-th",,"  Light-front field theory offers a scenario in which a constituent picture of
+hadrons may arise, but only if cutoffs that violate explicit covariance and
+gauge invariance are used. The perturbative renormalization group can be used
+to approximate the cutoff QCD hamiltonian, and even at lowest orders the
+resultant hamiltonian displays interesting phenomenological features. A general
+scheme for computing and using these hamiltonians is discussed and it is
+explicitly shown that a confining interaction appears when the hamiltonian is
+computed to second order.
+","[{""version"":""v1"",""created"":""Fri, 4 Nov 1994 18:58:25 GMT""},{""version"":""v2"",""created"":""Mon, 7 Nov 1994 02:48:42 GMT""}]","2008-02-03"
+"hep-th/9411038","Michael Schlieker","B.Jurco and M. Schlieker","On Fock Space Representations of quantized Enveloping Algebras related
+  to Non-Commutative Differential Geometry","10 pages","J.Math.Phys.36:3814-3821,1995","10.1063/1.530999","Cern-th.7489/94, LBL-36321","hep-th math.QA q-alg",,"  In this paper we construct explicitly natural (from the geometrical point of
+view) Fock space representations (contragradient Verma modules) of the
+quantized enveloping algebras. In order to do so, we start from the Gauss
+decomposition of the quantum group and introduce the differential operators on
+the corresponding $q$-deformed flag manifold (asuumed as a left comodule for
+the quantum group) by a projection to it of the right action of the quantized
+enveloping algebra on the quantum group. Finally, we express the
+representatives of the elements of the quantized enveloping algebra
+corresponding to the left-invariant vector fields on the quantum group as
+first-order differential operators on the $q$-deformed flag manifold.
+","[{""version"":""v1"",""created"":""Sat, 5 Nov 1994 00:28:49 GMT""}]","2010-11-01"
+"hep-th/9411039","Paolo Aschieri","Paolo Aschieri and Leonardo Castellani","R-Matrix Formulation of the Quantum Inhomogeneous Groups Iso_qr(N) and
+  Isp_qr(N)","14 pages, latex, no figures","Lett.Math.Phys.36:197-211,1996","10.1007/BF00714382","DFTT-44/94","hep-th",,"  The quantum commutations $RTT=TTR$ and the orthogonal (symplectic) conditions
+for the inhomogeneous multiparametric $q$-groups of the $B_n,C_n,D_n$ type are
+found in terms of the $R$-matrix of $B_{n+1},C_{n+1},D_{n+1}$. A consistent
+Hopf structure on these inhomogeneous $q$-groups is constructed by means of a
+projection from $B_{n+1},C_{n+1},D_{n+1}$. Real forms are discussed: in
+particular we obtain the $q$-groups $ISO_{q,r}(n+1,n-1)$, including the quantum
+Poincar\'e group.
+","[{""version"":""v1"",""created"":""Sat, 5 Nov 1994 01:43:24 GMT""}]","2014-11-18"
+"hep-th/9411040",,"Carl M. Bender and Joshua Feinberg","Eigenvalue Integro-Differential Equations for Orthogonal Polynomials on
+  the Real Line","28 pages, Latex, U. Texas at Austin/ Washington University preprint","J.Math.Phys. 36 (1995) 3106-3125","10.1063/1.531016","UTTG-15-94/WU-HEP-1994-17","hep-th cond-mat funct-an math.FA",,"  The one-dimensional harmonic oscillator wave functions are solutions to a
+Sturm-Liouville problem posed on the whole real line. This problem generates
+the Hermite polynomials. However, no other set of orthogonal polynomials can be
+obtained from a Sturm-Liouville problem on the whole real line. In this paper
+we show how to characterize an arbitrary set of polynomials orthogonal on
+$(-\infty,\infty)$ in terms of a system of integro-differential equations of
+Hartree-Fock type. This system replaces and generalizes the linear differential
+equation associated with a Sturm-Liouville problem. We demonstrate our results
+for the special case of Hahn-Meixner polynomials.
+","[{""version"":""v1"",""created"":""Fri, 4 Nov 1994 23:53:18 GMT""}]","2009-10-28"

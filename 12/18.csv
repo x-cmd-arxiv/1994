@@ -1,0 +1,100 @@
+"astro-ph/9412063","Max Tegmark","Max Tegmark","Probes of the Early Universe","UC Berkeley PhD thesis, April 1994. 195 pages, incl. 39 figs.
+  Replaced by the complete document now that 650kb is no longer a large file",,,,"astro-ph",,"  One of the main challenges in cosmology is to quantify how small density
+fluctuations at the recombination epoch z around 1000 evolved into the galaxies
+and the large-scale structure we observe in the universe today. This thesis
+discusses ways of probing the intermediate epoch, focusing on the thermal
+history. The main emphasis is on the role played by non-linear feedback, where
+a small fraction of matter forming luminous objects can inject enough energy
+into the inter-galactic medium to radically alter subsequent events. Chapter 2,
+""A Cosmology Primer"", provides a 60-page introduction to cosmology that may be
+useful for the reader with a general physics background.
+","[{""version"":""v1"",""created"":""Sat, 17 Dec 1994 21:37:02 GMT""},{""version"":""v2"",""created"":""Sun, 8 Sep 1996 16:02:41 GMT""},{""version"":""v3"",""created"":""Thu, 9 Mar 2006 15:15:19 GMT""}]","2008-02-03"
+"astro-ph/9412064","Max Tegmark","Max Tegmark","A method for extracting maximum resolution power spectra from microwave
+  sky maps","25 pages, including 4 figures. Postscript. Substantially revised,
+  more than twice original length, matches accepted version. Latest version
+  available from http://www.sns.ias.edu/~max/window.html (faster from the US),
+  from http://www.mpa-garching.mpg.de/~max/window.html (faster from Europe) or
+  from max@ias.edu","Mon.Not.Roy.Astron.Soc.280:299-308,1996","10.1093/mnras/280.1.299",,"astro-ph",,"  A method for extracting maximal resolution power spectra from microwave sky
+maps is presented and applied to the 2 year COBE data, yielding a power
+spectrum that is consistent with a standard n=1, Q=20 micro-Kelvin model. By
+using weight functions that fall off smoothly near the galactic cut, it is
+found that the spectral resolution \Delta l can be more than doubled at l=15
+and more than tripled at l=20 compared to simply using galaxy-cut spherical
+harmonics. For a future high-resolution experiment with reasonable sky
+coverage, the resolution around the CDM Doppler peaks would be enhanced by a
+factor of about 100, down to \Delta l\approx 1, thus allowing spectral features
+such as the locations of the peaks to be determined with great accuracy. The
+reason that the improvement is so large is basically that functions with a
+sharp edge at the galaxy cut exhibit considerable ""ringing"" in the Fourier
+domain, whereas smooth functions do not. The method presented here is
+applicable to any survey geometry, chopping strategy and exposure pattern
+whatsoever. The so called signal-to-noise eigenfunction technique is found to
+be a special case, corresponding to ignoring the width of the window functions.
+","[{""version"":""v1"",""created"":""Sun, 18 Dec 1994 00:21:37 GMT""},{""version"":""v2"",""created"":""Wed, 13 Dec 1995 11:07:50 GMT""},{""version"":""v3"",""created"":""Thu, 25 Jul 1996 13:48:17 GMT""}]","2015-06-24"
+"gr-qc/9412048","Hajicek","P. Hajicek, A. Higuchi and J. Tolar","Group quantization of parametrized systems II. Pasting Hilbert spaces","35 pages, latex, no figures","J.Math.Phys.36:4639-4666,1995","10.1063/1.530912","BUTP-94/22","gr-qc",,"  The method of group quantization described in the preceeding paper I is
+extended so that it becomes applicable to some parametrized systems that do not
+admit a global transversal surface. A simple completely solvable toy system is
+studied that admits a pair of maximal transversal surfaces intersecting all
+orbits. The corresponding two quantum mechanics are constructed. The similarity
+of the canonical group actions in the classical phase spaces on the one hand
+and in the quantum Hilbert spaces on the other hand suggests how the two
+Hilbert spaces are to be pasted together. The resulting quantum theory is
+checked to be equivalent to that constructed directly by means of Dirac's
+operator constraint method. The complete system of partial Hamiltonians for any
+of the two transversal surfaces is chosen and the quantum Schr\""{o}dinger or
+Heisenberg pictures of time evolution are constructed.
+","[{""version"":""v1"",""created"":""Sun, 18 Dec 1994 07:15:42 GMT""}]","2010-11-01"
+"hep-lat/9412085","Tilman Sauer","Wolfhard Janke and Tilman Sauer","Application of Multicanonical Multigrid Monte Carlo Method to the
+  Two-Dimensional $\phi^4$-Model: Autocorrelations and Interface Tension","49 pp. Latex incl. 14 figures (Fig.7 not included, sorry) as
+  uuencoded compressed tar file","J.Stat.Phys.78:759,1995","10.1007/BF02183687","FU-Berlin preprint FUB-HEP 15/93: J.Stat.Phys., in press","hep-lat",,"  We discuss the recently proposed multicanonical multigrid Monte Carlo method
+and apply it to the scalar $\phi^4$-model on a square lattice. To investigate
+the performance of the new algorithm at the field-driven first-order phase
+transitions between the two ordered phases we carefully analyze the
+autocorrelations of the Monte Carlo process. Compared with standard
+multicanonical simulations a real-time improvement of about one order of
+magnitude is established. The interface tension between the two ordered phases
+is extracted from high-statistics histograms of the magnetization applying
+histogram reweighting techniques.
+","[{""version"":""v1"",""created"":""Sat, 17 Dec 1994 16:04:37 GMT""}]","2009-10-28"
+"hep-lat/9412086","Tilman Sauer","Wolfhard Janke and Tilman Sauer","Monte Carlo simulation of $1+1$-dimensional $\phi^4$ quantum field
+  theory","contribution to Lattice 94 as uuencoded compressed 3pp. Postscript
+  file","Nucl.Phys.Proc.Suppl. 42 (1995) 917-919","10.1016/0920-5632(95)00421-5","FU Berlin preprint FUB-HEP 17/94","hep-lat",,"  We report results of a Monte Carlo simulation of the $\phi^4$ quantum field
+theory using multigrid simulation techniques and a refined discretization
+scheme. The resulting accuracy of our data allows for a significant test of an
+analytical approximation based on a variational ansatz. While the variational
+approximation is well reproduced for a large range of parameters we find
+significant deviations for low temperatures and large couplings.
+","[{""version"":""v1"",""created"":""Sat, 17 Dec 1994 16:27:27 GMT""}]","2009-10-28"
+"hep-th/9412154","Melzer Ezer","Ezer Melzer (Tel-Aviv University)","Supersymmetric Analogs of the Gordon-Andrews Identities, and Related TBA
+  Systems","20 pages, using harvmac (b)",,,"TAUP 2211-94","hep-th",,"  The Gordon-Andrews identities, which generalize the Rogers-Ramanujan-Schur
+identities, provide product and fermionic forms for the characters of the
+minimal conformal field theories (CFTs) M(2,2k+1). We discuss/conjecture
+identities of a similar type, providing two different fermionic forms for the
+characters of the models SM(2,4k) in the minimal series of N=1 super-CFTs.
+These two forms are related to two families of thermodynamic Bethe Ansatz (TBA)
+systems, which are argued to be associated with the $\hat{\phi}_{1,3}^{\rm
+top}$- and $\hat{\phi}_{1,5}^{\rm bot}$-perturbations of the models SM(2,4k).
+Certain other q-series identities and TBA systems are also discussed, as well
+as a possible representation-theoretical consequence of our results, based on
+Andrews's generalization of the Gollnitz-Gordon theorem.
+","[{""version"":""v1"",""created"":""Sun, 18 Dec 1994 08:44:57 GMT""}]","2007-05-23"
+"hep-th/9412155",,"I.Ya.Aref'eva and I.V.Volovich","Anisotropic Asymptotics and High Energy Scattering","16 pages, LATEX, 3 figures, Invited talk at the Conference Quarks 94,
+  Vladimir, May, 1994",,,"SMI-15-94","hep-th hep-ph",,"  Recently E.Verlinde and H.Verlinde have suggested an effective
+two-dimensional theory describing the high-energy scattering in QCD. In this
+report we attempt to clarify some issues of this suggestion. We consider {\it
+anisotropic asymptotics} of correlation functions for scalar and gauge theories
+in four dimensions. Anisotropic asymptotics describe behaviour of correlation
+functions when some components of coordinates are large as compare with others
+components. It is occurred that (2+2) anisotropic asymptotics for 4-points
+functions are related with the well known Regge regime of scattering
+amplitudes. We study an expansion of correlation functions with respect to the
+rescaling parameter $\lambda$ over a part of variables (anisotropic
+$\lambda$-expansion). An effective theory describing the anisotropic limit of
+free scalar field contains two 2 dim conformal theories. One of them is a
+conformal theory in configuration space and another one is a conformal theory
+in momentum space. In some special cases ,in particular for the Wilson line
+correlators in gauge theories, the leading term of the anisotropic expansion
+involves only one of the conformal theories and it can be described by an
+effective theory with an action being a dimensional reduction of the original
+action.
+","[{""version"":""v1"",""created"":""Sun, 18 Dec 1994 15:49:33 GMT""}]","2007-05-23"

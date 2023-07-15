@@ -1,0 +1,131 @@
+"astro-ph/9403042",,"Ben Moore, Carlos Frenk, George Efstathiou and Will Saunders","The Clustering Properties of IRAS Galaxies","TeX file. Send email for Figures. MNRAS in press",,"10.1093/mnras/269.3.742",,"astro-ph",,"  We investigate the clustering of galaxies in the QDOT redshift survey of IRAS
+galaxies. We find that the redshift space two-point correlation function is
+well approximated by a power-law of slope -1.11+\-0.09, with clustering length
+3.87+\-0.32 Mpc/h out to pair separations of 25 Mpc\h. On scales larger than 40
+Mpc/h, the correlation function is consistent with zero. The r.m.s. fluctuation
+in the count of QDOT galaxies above the Poisson level in spheres of radius 8
+Mpc/h is \sigma_8^{IRAS}=0.58+\-0.14, showing that fluctuations in the
+distribution of IRAS galaxies on these scales are smaller than those of optical
+galaxies by a factor of about 0.65, with an uncertainty of 25%. We find no
+detectable difference between the correlation functions measured in redshift
+space and in real space, leading to a $2\sigma$ limit of b_{IRAS}/\Omega^{0.6}
+>1.05, where b_{IRAS} is the bias factor for IRAS galaxies and \Omega is the
+cosmological density parameter. The QDOT autocorrelation function calculated in
+concentric shells increases significantly with shell radius. This difference is
+more likely due to sampling fluctuations than to an increase of the clustering
+strength with galaxy luminosity, but the two effects are difficult to
+disentangle; our data allow at most an increase of \sim 20% in clustering
+strength for each decade in luminosity. For separations greater than \sim 3
+Mpc/h, the cross-correlation function of Abell clusters (with Richness R\ge 1)
+and QDOT galaxies is well approximated by a power-law of slope -1.81+\-0.10,
+with clustering length 10.10+\-0.45 Mpc/h, and no significant signal beyond
+\gsim 50 Mpc\h. This cross-correlation depends only weakly on cluster richness.
+","[{""version"":""v1"",""created"":""Mon, 21 Mar 1994 01:42:56 GMT""}]","2015-06-24"
+"cond-mat/9403073","Carlo Beenakker","R.A. Jalabert, J.-L. Pichard, and C.W.J. Beenakker","Universal Quantum Signatures of Chaos in Ballistic Transport","4 pages, REVTeX-3.0, INLO-PUB-940321","Europhys.Lett. 27 (1994) 255","10.1209/0295-5075/27/4/001",,"cond-mat",,"  The conductance of a ballistic quantum dot (having chaotic classical dynamics
+and being coupled by ballistic point contacts to two electron reservoirs) is
+computed on the single assumption that its scattering matrix is a member of
+Dyson's circular ensemble. General formulas are obtained for the mean and
+variance of transport properties in the orthogonal (beta=1), unitary (beta=2),
+and symplectic (beta=4) symmetry class. Applications include universal
+conductance fluctuations, weak localization, sub-Poissonian shot noise, and
+normal-metal-superconductor junctions. The complete distribution P(g) of the
+conductance g is computed for the case that the coupling to the reservoirs
+occurs via two quantum point contacts with a single transmitted channel. The
+result P(g)=g^(-1+beta/2) is qualitatively different in the three symmetry
+classes. ***Submitted to Europhysics Letters.****
+","[{""version"":""v1"",""created"":""Mon, 21 Mar 1994 08:28:18 GMT""}]","2009-10-22"
+"cond-mat/9403074",,"Dingping Li and St\'ephane Ouvry (Dipartimento di Fisica, Universit\'a
+  di Trento)","Haldane's Fractional Statistics and the Riemann-Roch Theorem","38050 Povo, Trento and Division de Physique Th\'eorique, IPN, 91406
+  Orsay Cedex, 19 pages, IPNO/TH 94-11, SISSA/27/94/EP,UFT/324",,"10.1016/0550-3213(94)90159-7",,"cond-mat",,"  The new definition of fractional statistics given by Haldane can be
+understood in some special cases in terms of the Riemann-Roch theorem.
+","[{""version"":""v1"",""created"":""Mon, 21 Mar 1994 12:45:47 GMT""}]","2009-10-22"
+"gr-qc/9403041","Jorma Louko","Jorma Louko and Donald Marolf","Global structure of Witten's 2+1 gravity on ${\bf R}\times T^2$","3 pages, LaTeX. CGPG-94/3-2, WISC-MILW-94-TH-12",,,,"gr-qc hep-th",,"  We investigate the space ${\cal M}$ of classical solutions to Witten's
+formulation of 2+1 gravity on the manifold ${\bf R} \times T^2$. ${\cal M}$ is
+connected, but neither Hausdorff nor a manifold. However, removing from ${\cal
+M}$ a set of measure zero yields a connected manifold which is naturally viewed
+as the cotangent bundle over a non-Hausdorff base space. Avenues towards
+quantizing the theory are discussed in view of the relation between spacetime
+metrics and the various parts of~${\cal M}$. (Contribution to the proceedings
+of the Lanczos Centenary Conference, Raleigh, NC, December 12--17, 1993.)
+","[{""version"":""v1"",""created"":""Mon, 21 Mar 1994 15:39:52 GMT""}]","2007-05-23"
+"hep-ph/9403314","Andree Blotz","A. Blotz, M. Praszalowicz, K.Goeke","Axial Properties of the Nucleon with $1/N_c$-Corrections in the
+  solitonic SU(3)-NJL-Model","60 pages, (Bochum report No. RUB-TPII-41/93)","Phys.Rev. D53 (1996) 485-503","10.1103/PhysRevD.53.485",,"hep-ph",,"  Within the semibosonized SU(3)-NJL model the mass splittings of baryons and
+the axial vector coupling constants of the nucleon are evaluated. The mass
+splittings of the hyperons are reproduced with great accuracy if second order
+corrections in $m_s$ are taken into account. New corrections to the axial
+vector currents coming from the subleading terms in the $1/N_c$ expansion are
+shown to be non-vanishing and substantially improving the phenomenological
+predictions for axial quantities. Finally the numerical values for the $g_{\rm
+A}$'s are $g_A^{(0)}=0.37$, $g_A^{(3)}=1.38$ and $g_A^{(8)}=0.31$ reproducing
+reasonably well the recent data from lepton scattering.
+","[{""version"":""v1"",""created"":""Sun, 20 Mar 1994 20:08:33 GMT""}]","2009-10-28"
+"hep-ph/9403315","Robert Shrock","A. Kusenko and R. Shrock","Phases in Leptonic Mass Matrices: Higher Order Invariants and
+  Applications to Models","27 p., LaTex, ITP-SB-93-68",,,,"hep-ph",,"  We discuss complex rephasing invariants of charged lepton and neutrino mass
+matrices and associated theorems which determine in general (i) the number of
+physically meaningful phases in these matrices and (ii) which elements of these
+matrices can be rendered real by rephasings. New results are presented on
+higher order complex invariants and the application of the methods to several
+models.
+","[{""version"":""v1"",""created"":""Sun, 20 Mar 1994 21:37:55 GMT""}]","2007-05-23"
+"hep-ph/9403318",,"Nick Evans","Strong Extended Technicolour Interactions and the $Zb\bar{b}$ Vertex","9 pages + 3 appended ps figures, SWAT/27","Phys.Lett. B331 (1994) 378-382","10.1016/0370-2693(94)91067-7",,"hep-ph",,"  LEP precision measurements of the $Zb\bar{b}$ vertex coupling are
+sufficiently accurate to see the non-oblique corrections from the heavy gauge
+boson responsible for the large top mass in standard extended tecnicolour
+models. If the ETC couplings are strong the techni-fermion condensate may be
+enhanced by several orders of magnitude allowing a top mass of order 150GeV to
+be obtained for large values of the ETC breaking scale sufficient to supress
+the ETC contribution to the $Zb{\bar b}$ vertex. In this letter we investigate
+the degree of fine tuning of the ETC coupling required in a realistic model. We
+conclude that the fine tuning need only be of order $10\%$.
+","[{""version"":""v1"",""created"":""Mon, 21 Mar 1994 13:18:54 GMT""}]","2009-10-28"
+"hep-ph/9403319","Jan Bolz","J. Bolz, P. Kroll, J.G. Koerner","l=0 to l=1 Transition Form Factors","27 pages, 6 PS-figures in uuencoded compressed file, Latex, WU-B
+  93-29, MZ-TH/93-24","Z.Phys.A350:145-159,1994","10.1007/BF01290682",,"hep-ph",,"  A method is proposed to extend the hard scattering picture of Brodsky and
+Lepage to transitions between hadrons with orbital angular momentum l=0 and
+l=1. The use of covariant spin wave functions turns out to be very helpful in
+formulating that method. As a first application we construct a light-cone wave
+function of the nucleon resonance $N^*(1535)$ in the quark-diquark picture.
+Using this wave function and the extended hard scattering picture, the
+$N$--$N^*$ transition form factors are calculated at large momentum transfer
+and the results compared to experimental data. As a further application of our
+method we briefly discuss the $\pi$--$a_1$ form factors in an appendix.
+","[{""version"":""v1"",""created"":""Mon, 21 Mar 1994 13:52:39 GMT""},{""version"":""v2"",""created"":""Wed, 23 Mar 1994 09:08:09 GMT""}]","2009-09-25"
+"hep-ph/9403320",,"P. Aurenche, T. Becherrawy, E. Petitgirard","Retarded/Advanced Correlation Functions and Soft Photon Production in
+  the Hard Loop Approximation","11 figures available (PETITG@LAPVAX.IN2P3.FR), ENSLAPP-A-452/93,
+  NSF-ITP-93-155",,,,"hep-ph",,"  We apply the retarded/advanced formalism of real time field theory to the QED
+or QED like case. We obtain a general expression for the imaginary part of the
+two-point correlation function in terms of discontinuities. The hard loop
+expansion is derived. The formalism is used to extract the divergent part of
+the soft fermion loop contribution to the real soft photon production.
+","[{""version"":""v1"",""created"":""Mon, 21 Mar 1994 15:10:37 GMT""}]","2007-05-23"
+"hep-ph/9403321","A. Leonidov","Dmitri Kharzeev, Andrei Leonidov","Measuring Hadronization Length in e^+ e^- \rightarrow K^0 {\bar{K}}^0
+  \gamma","5 pages, CERN-TH-7200/94, BI-TP 94/04, March 1994","Phys.Lett. B329 (1994) 374-378","10.1016/0370-2693(94)90789-7",,"hep-ph",,"  We propose to study the space-time picture of hadronization by looking at the
+angular distribution of photons emitted in the process e^+ e^- \rightarrow K^0
+{\bar{K}}^0 \gamma at DA{\Phi}NE energies. it is shown that the angular
+distributions are quite sensitive to the hadronization length.
+","[{""version"":""v1"",""created"":""Mon, 21 Mar 1994 14:19:29 GMT""}]","2009-10-28"
+"hep-ph/9403322","Michael Tung","Michael M. Tung","O(alpha_s) Longitudinal Spin Polarization in Heavy-Quark Production","13 pages, LaTeX, 5 tables and 2 figures are appended in uuencoded
+  postscript format, revised version (changes made to appear in Phys. Rev. D)","Phys.Rev.D52:1353-1358,1995","10.1103/PhysRevD.52.1353","FTUV/94-4 (University of Valencia preprint)","hep-ph",,"  The massive one-loop {\it QCD} corrections to the production cross sections
+of We present the massive one-loop {\it QCD} corrections to the production
+cross sections of polarized quarks in the annihilation process $e^+e^-\to
+q\bar{q}(g)$ for bottom, top, and charm quarks. From the full analytical
+expressions for the production cross sections, Schwinger-type interpolation
+formulae for all parity-parity combinations $(VV, V\!A, AA)$ are derived. The
+parity-odd interpolation formula contains the correct limit for vanishing quark
+masses taking into account a residual coupling of left- and right-chiral states
+in the massless theory. Numerical results for the total cross section and the
+longitudinal spin polarization demonstrate the accuracy of the interpolation
+formulae.
+","[{""version"":""v1"",""created"":""Mon, 21 Mar 1994 15:31:00 GMT""},{""version"":""v2"",""created"":""Tue, 4 Jul 1995 19:26:15 GMT""}]","2010-01-15"
+"hep-th/9403118",,"A. N. Leznov","Local solutions of harmonical and bi-harmonical equations, Universal
+  Field Equation and self-dual configurations of Yang--Mills fields in four
+  dimensions","5 pages, LaTeX file, IHEP 94-21",,,,"hep-th",,"  A general method for the construction of solutions of the d'Alambertian and
+double d'Alambertian (harmonic and bi-harmonic) equations with local dependence
+of arbitrary functions upon two independent arguments is proposed. The
+connection between solutions of this kind and self-dual configurations of gauge
+fields having no singularities is established.
+","[{""version"":""v1"",""created"":""Mon, 21 Mar 1994 12:13:11 GMT""}]","2007-05-23"
+"math/9403216","Tom H. Koornwinder","Tom H. Koornwinder","q-Special functions, a tutorial","46 pages, 2 figures; v2 corrects a few minor errors in v1 and the
+  edited book version","Representations of Lie groups and quantum groups, V. Baldoni &
+  M.A. Picardello (eds.), Longman Scientific & Technical, 1994, pp. 46-128",,,"math.CA","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  A tutorial introduction is given to q-special functions and to q-analogues of
+the classical orthogonal polynomials, up to the level of Askey-Wilson
+polynomials.
+","[{""version"":""v1"",""created"":""Mon, 21 Mar 1994 00:00:00 GMT""},{""version"":""v2"",""created"":""Mon, 14 Oct 2013 13:57:53 GMT""}]","2013-10-15"

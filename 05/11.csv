@@ -1,0 +1,341 @@
+"adap-org/9405001","Natalie Glance","Bernardo A. Huberman and Natalie S. Glance (Xerox Palo Alto Research
+  Center, Palo Alto, CA)","Beliefs and Cooperation","26 pages, also available by anonymous ftp at parcftp.xerox.com in the
+  directory pub/dynamics. Hardcopy requests to glance@parc.xerox.com",,,,"adap-org nlin.AO",,"  Individuals in groups must often choose between acting selfishly and
+cooperating for the common good. The choices they make are based on their
+beliefs on how they expect their actions to affect others. We show that for a
+broad set of beliefs and group characteristics cooperation can appear
+spontaneously in non-cooperative groups after very long periods of time. When
+delays in information are unavoidable the group dynamics acquires a wide
+repertoire of behaviors, ranging from opportunistic oscillations to bursty
+chaos, thus excluding the possibility of sustained cooperation.
+","[{""version"":""v1"",""created"":""Tue, 10 May 1994 17:33:25 GMT""}]","2009-09-25"
+"alg-geom/9405003","Alan Hyungju Park","H. Park and C. Woodburn","An Algorithmic Proof of Suslin's Stability Theorem over Polynomial Rings","23 pages, LaTex",,,,"alg-geom math.AG",,"  Let $k$ be a field. Then Gaussian elimination over $k$ and the Euclidean
+division algorithm for the univariate polynomial ring $k[x]$ allow us to write
+any matrix in $SL_n(k)$ or $SL_n(k[x])$, $n\geq 2$, as a product of elementary
+matrices. Suslin's stability theorem states that the same is true for the
+multivariate polynomial ring $SL_n(k[x_1,\ldots ,x_m])$ with $n\geq 3$. As
+Gaussian elimination gives us an algorithmic way of finding an explicit
+factorization of the given matrix into elementary matrices over a field, we
+develop a similar algorithm over polynomial rings.
+","[{""version"":""v1"",""created"":""Tue, 10 May 1994 19:40:16 GMT""}]","2008-02-03"
+"alg-geom/9405004","Michael Thaddeus","Michael Thaddeus","Geometric invariant theory and flips","33 pages, LaTeX with AMS fonts",,,,"alg-geom math.AG",,"  We study the dependence of geometric invariant theory quotients on the choice
+of a linearization. We show that, in good cases, two such quotients are related
+by a flip in the sense of Mori, and explain the relationship with the minimal
+model programme. Moreover, we express the flip as the blow-up and blow-down of
+specific ideal sheaves, leading, under certain hypotheses, to a quite explicit
+description of the flip. We apply these ideas to various familiar moduli
+problems, recovering results of Kirwan, Boden-Hu, Bertram-Daskalopoulos-
+Wentworth, and the author. Along the way we display a chamber structure,
+following Duistermaat-Heckman, on the space of all linearizations. We also give
+a new, easy proof of the Bialynicki-Birula decomposition theorem.
+","[{""version"":""v1"",""created"":""Tue, 10 May 1994 17:01:36 GMT""}]","2008-02-03"
+"astro-ph/9405021","Ted Pyne","Ted Pyne and Mark Birkinshaw","Beyond the Thin Lens Approximation","Submitted to ApJl, 9 pages plus one figure (plain TeX)",,,,"astro-ph gr-qc",,"  We obtain analytic formulae for the null geodesics of
+Friedmann-Lema\^{\i}tre-Robertson-Walker spacetimes with scalar perturbations
+in the longitudinal gauge. We use these to provide a rigorous derivation of the
+cosmological lens equation. We obtain an expression for the magnification of a
+bundle of light rays in these spacetimes without restriction to static or thin
+lens scenarios. We show how the usual magnification matrix naturally emerges in
+the appropriate limits.
+","[{""version"":""v1"",""created"":""Tue, 10 May 1994 16:10:23 GMT""}]","2007-05-23"
+"astro-ph/9405022",,"Keith A. Olive and Gary Steigman","On the Abundance of Primordial Helium","21 pages, LaTeX, 6 postscript figures available upon request,
+  UMN-TH-1230","Astrophys.J.Suppl.97:49-58,1995","10.1086/192134",,"astro-ph",,"  We have used recent observations of helium-4, nitrogen and oxygen from some
+four dozen, low metallicity, extra-galactic HII regions to define mean $N$
+versus $O$, $^4He$ versus $N$ and $^4He$ versus $O$ relations which are
+extrapolated to zero metallicity to determine the primordial $^4He$ mass
+fraction $Y_P$. The data and various subsets of the data, selected on the basis
+of nitrogen and oxygen, are all consistent with $Y_P = 0.232 \pm 0.003$. For
+the 2$\sigma$ (statistical) upper bound we find $Y_P^{2\sigma} \le 0.238$.
+Estimating a 2\% systematic uncertainty $(\sigma _{syst} = \pm 0.005)$ leads to
+a maximum upper bound to the primordial helium mass fraction: $Y_P^{MAX} =
+Y_P^{2\sigma} + \sigma_{syst} \le 0.243$. We compare these upper bounds to
+$Y_P$ with recent calculations of the predicted yield from big bang
+nucleosynthesis to derive upper bounds to the nucleon-to-photon ratio $\eta$
+($\eta_{10} \equiv 10^{10}\eta$) and the number of equivalent light (\lsim 10
+MeV) neutrino species. For $Y_P \le 0.238$ ($0.243$), we find $\eta_{10} \le
+2.5 (3.9)$ and $N_\nu \leq 2.7 (3.1)$. If indeed $Y_P \le 0.238$, then BBN
+predicts enhanced production of deuterium and helium-3 which may be in conflict
+with the primordial abundances inferred from model dependent (chemical
+evolution) extrapolations of solar system and interstellar observations. Better
+chemical evolution models and more data - especially $D$-absorption in the QSO
+Ly-$\alpha$ clouds - will be crucial to resolve this potential crisis for BBN.
+The larger upper bound, $Y_P \leq 0.243$ is completely
+","[{""version"":""v1"",""created"":""Wed, 11 May 1994 14:44:07 GMT""}]","2009-09-25"
+"chao-dyn/9405005","Bruce W. Roberts","Bruce W. Roberts, Eberhard Bodenschatz, and James P. Sethna","Defect--Defect Correlation Functions, Generic Scale Invariance, and the
+  Complex Ginzburg--Landau Equation","12 pages and 3 included figures, RevTeX",,,"CULASSP-4269","chao-dyn nlin.CD",,"  We present a calculation of defect--defect correlation functions in the
+defect turbulence regime of the complex Ginzburg--Landau equation. Our results
+do not agree with the predictions of generic scale invariance. Using the
+topological nature of the defects, we prove that defect--defect correlations
+cannot decay as slowly as predicted by generic scale invariance
+","[{""version"":""v1"",""created"":""Wed, 11 May 1994 12:08:43 GMT""}]","2008-02-03"
+"chao-dyn/9405006","Andrea Crisanti","E. Aurell, G. Boffetta, A. Crisanti, P. Frick, G. Paladin, A. Vulpiani","Statistical Mechanics of Shell Models for 2D-Turbulence","25 pages + 9 figures, TeX dialect: RevTeX 3.0",,"10.1103/PhysRevE.50.4705","TNT 94-1","chao-dyn cond-mat nlin.CD",,"  We study shell models that conserve the analogues of energy and enstrophy,
+hence designed to mimic fluid turbulence in 2D. The main result is that the
+observed state is well described as a formal statistical equilibrium, closely
+analogous to the approach to two-dimensional ideal hydrodynamics of Onsager,
+Hopf and Lee. In the presence of forcing and dissipation we observe a forward
+flux of enstrophy and a backward flux of energy. These fluxes can be understood
+as mean diffusive drifts from a source to two sinks in a system which is close
+to local equilibrium with Lagrange multipliers (``shell temperatures'')
+changing slowly with scale. The dimensional predictions on the power spectra
+from a supposed forward cascade of enstrophy, and from one branch of the formal
+statistical equilibrium, coincide in these shell models at difference to the
+corresponding predictions for the Navier-Stokes and Euler equations in 2D. This
+coincidence have previously led to the mistaken conclusion that shell models
+exhibit a forward cascade of enstrophy.
+","[{""version"":""v1"",""created"":""Wed, 11 May 1994 12:23:54 GMT""}]","2009-10-22"
+"cond-mat/9405030","Roland Fehrenbacher","R. Fehrenbacher and M.R. Norman","Can Impurity Effects Help to Identify the Symmetry of the Order
+  Parameter of the Cuprates?","2pages, uuencoded Postscript, to appear in the Proceedings of the
+  M^2-HTSC IV conference",,"10.1016/0921-4534(94)92424-4",,"cond-mat",,"  The effects of non-magnetic impurities on the properties of superconductors
+with order parameters (OP) of different symmetry are discussed. In particular,
+we contrast the case of a d_{x^2 - y^2} with various forms of an anisotropic
+s-wave (ASW) gap. The biggest qualitative difference occurs if the phase of the
+s-wave OP does not change sign.
+","[{""version"":""v1"",""created"":""Tue, 10 May 1994 23:30:20 GMT""}]","2009-10-22"
+"cond-mat/9405031",,"Silvio R. Dahmen (University of Bonn)","Reaction-Diffusion Processes Described by Three-State Quantum Chains and
+  Integrability","27 pages, plain Latex, 73 kB",,"10.1088/0305-4470/28/4/016",,"cond-mat",,"  The master equation of one-dimensional three-species reaction-diffusion
+processes is mapped onto an imaginary-time Schr\""odinger equation. In many
+cases the Hamiltonian obtained is that of an integrable quantum chain. Within
+this approach we search for all $3$-state integrable quantum chains whose
+spectra are known and which are related to diffusive-reactive systems.Two
+integrable models are found to appear naturally in this context: the
+$U_{q}\widehat{SU(2)}$-invariant model with external fields and the $3$-state
+$U_q Su(P/M)$-invariant Perk-Schultz models with external fields. A nonlocal
+similarity transformation which brings the Hamiltonian governing the chemical
+processes to the known standard forms is described, leading in the case of
+periodic boundary conditions to a generalization of the Dzialoshinsky-Moriya
+interaction.
+","[{""version"":""v1"",""created"":""Wed, 11 May 1994 15:40:47 GMT""}]","2009-10-22"
+"cond-mat/9405032","Michael N. Kiselev","Michael N. Kiselev","Excitonic Instability and Origin of the Mid-Gap States","2 pages with 2 figures available upon request, LaTex Version 3.0
+  (PCTeX), to appear in the Proceedings of the M2S-HTSC IV Conference",,"10.1016/0921-4534(94)92384-1",,"cond-mat",,"  In the framework of the two-band model of a doped semiconductor the
+self-consistent equations describing the transition into the excitonic
+insulator state are obtained for the 2D case. It is found that due to the
+exciton-electron interactions the excitonic phase may arise with doping in a
+semiconductor stable initially with respect to excitonic transition in the
+absence of doping. The effects of the strong interactions between electron
+(hole) Fermi-liquid (FL) and excitonic subsystems can lead to the appearance of
+the states lying in the middle of the insulating gap.
+","[{""version"":""v1"",""created"":""Wed, 11 May 1994 13:20:24 GMT""}]","2009-10-22"
+"gr-qc/9405026","Martin B. Einhorn","A. D. Dolgov, M. B. Einhorn, and V. I. Zakharov","The Vacuum of de~Sitter Space","31 pages, no figures, UM-TH-94-14. (Compile twice with LaTeX.)
+  Amended 5/13/94 to add a citation","Acta Phys.Polon. B26 (1995) 65-90",,,"gr-qc hep-th",,"  To resolve infrared problems with the de~Sitter invariant vacuum, we argue
+that the history of the de~Sitter phase is crucial. We illustrate how either
+(1)~the diagonalization of the Hamiltonian for long-wavelength modes or (2)~an
+explicit modification of the metric in the distant past leads to natural
+infrared cutoffs. The former case resembles a bosonic superconductor in which
+graviton-pairing occurs between non-adiabatic modes. While the dynamical
+equations respect de~Sitter symmetry, the vacuum is not de~Sitter invariant
+because of the introduction of an initial condition at a finite time. The
+implications for the one-loop stress tensor and the production of particles are
+also discussed.
+","[{""version"":""v1"",""created"":""Tue, 10 May 1994 21:30:12 GMT""},{""version"":""v2"",""created"":""Fri, 13 May 1994 22:41:00 GMT""}]","2008-02-03"
+"gr-qc/9405027","Guillermo Mena","Guillermo A Mena Marugan","Wormholes as Basis for the Hilbert Space in Lorentzian Gravity","23 pages (Latex), Preprint IMAFF-RC-04-94, CGPG-94/5-2","Phys.Rev.D50:3923-3931,1994","10.1103/PhysRevD.50.3923",,"gr-qc",,"  We carry out to completion the quantization of a Friedmann-Robertson-Walker
+model provided with a conformal scalar field, and of a Kantowski-Sachs
+spacetime minimally coupled to a massless scalar field. We prove that the
+Hilbert space determined by the reality conditions that correspond to
+Lorentzian gravity admits a basis of wormhole wave functions. This result
+implies that the vector space spanned by the quantum wormholes can be equipped
+with an unique inner product by demanding an adequate set of Lorentzian reality
+conditions, and that the Hilbert space of wormholes obtained in this way can be
+identified with the whole Hilbert space of physical states for Lorentzian
+gravity. In particular, all the normalizable quantum states can then be
+interpreted as superpositions of wormholes. For each of the models considered
+here, we finally show that the physical Hilbert space is separable by
+constructing a discrete orthonormal basis of wormhole solutions.
+","[{""version"":""v1"",""created"":""Tue, 10 May 1994 21:33:59 GMT""}]","2010-11-01"
+"gr-qc/9405028","U. Bleyer","U. Bleyer, A. Zhuk","Multidimensional Integrable Cosmological Models with Dynamical and
+  Spontaneous Compactification","22 pages, 3 figures available on request from ubleyer@aip.de, Potsdam
+  University, preprint Free University Berlin FUB-HEP/93-19",,,,"gr-qc",,"  Multidimensional cosmological models with $n (n > 1)$ spaces of constant
+curvature are discussed classically and with respect to canonical quantization.
+These models are integrable in the case of Ricci flat internal spaces. For
+positive curvature in the external space we find exact solutions modelling
+dynamical as well as spontaneous compactification of internal spaces.
+","[{""version"":""v1"",""created"":""Wed, 11 May 1994 06:51:05 GMT""},{""version"":""v2"",""created"":""Fri, 13 May 1994 11:48:50 GMT""}]","2009-09-25"
+"gr-qc/9405029","Chris Isham","Chris Isham and Noah Linden","Quantum temporal logic and decoherence functionals in the histories
+  approach to generalised quantum theory","32 pages, Imperial/TP/93--94/35","J.Math.Phys. 35 (1994) 5452-5476","10.1063/1.530759",,"gr-qc",,"  We analyse and develop the recent suggestion that a temporal form of quantum
+logic provides the natural mathematical framework within which to discuss the
+proposal by Gell-Mann and Hartle for a generalised form of quantum theory based
+on the ideas of histories and decoherence functionals. Particular stress is
+placed on properties of the space of decoherence functionals, including one way
+in which certain global and topological properties of a classical system are
+reflected in a quantum history theory.
+","[{""version"":""v1"",""created"":""Wed, 11 May 1994 14:11:00 GMT""}]","2009-10-22"
+"hep-ex/9405001","Nichol Brummer","Nichol. C. Brummer","Experimental momentum spectra of identified hadrons in jets and the
+  predictions from LPHD + MLLA","8 pages of postscript, NIKHEF preprint NIKHEF-H/94-09",,,,"hep-ex hep-ph",,"  Experimental data on the shape of hadronic momentum spectra are compared with
+theoretical predictions in the context of calculations in the Modified Leading
+Log Approximation (MLLA), under the assumption of Local Parton Hadron Duality
+(LPHD). Considered are experimental measurements at $e^+e^-$-colliders of
+$\xi_p^*$, the position of the maximum in the distribution of
+$\xi_p=\log(1/x_p)$, where $x_p=p/p_{beam}$. The parameter $\xi_p^*$ is
+determined for various hadrons at various centre of mass energies. It is
+interesting to look at the dependence of $\xi^*_p$ on the hadron type. This is
+used to study the influence of the hadron type on the cut-off scale $Q_0$ in
+the parton shower development. The dependence of $\xi^*_p$ on the centre of
+mass energy is seen to be described adequately by perturbation theory. The
+approach is made quantitative by extracting a value of $\alpha_s(m_Z)$ from an
+overall fit to the scaling behaviour of $\xi^*_p$.
+","[{""version"":""v1"",""created"":""Wed, 11 May 1994 10:23:02 GMT""}]","2007-05-23"
+"hep-lat/9405010",,"J. Ambjorn and J. Jurkiewicz","On the exponential bound in four dimensional simplicial gravity","7 pages, 2 figures appended as a ps-file. Latex. NBI-HE-94-29","Phys.Lett. B335 (1994) 355-358","10.1016/0370-2693(94)90363-8",,"hep-lat gr-qc hep-th",,"  Simplicial quantum gravity has been proposed as a regularization for four
+dimensional quantum gravity. The partition function is constructed by
+performing a weighted sum over all triangulations of the 4-sphere. The model is
+well-defined only if the number of such triangulations consisting of $N$
+simplexes is exponentially bounded. Numerical simulations seem so far to favor
+such a bound.
+","[{""version"":""v1"",""created"":""Wed, 11 May 1994 11:39:14 GMT""}]","2009-10-22"
+"hep-ph/9405260",,"Ferruccio Feruglio","The Physics of the Chiral Fermions","37 pages, LaTeX, DFPD 94/TH/32, Lectures given at the XVII
+  International School of Theoretical Physics ""Standard Model and Beyond '93"",
+  Sczcyrk (Poland), September 19-27, 1993","Acta Phys.Polon.B25:1279-1316,1994",,,"hep-ph",,"  We review the aspects of chiral gauge theories related to the violation of
+the decoupling property. The case of the top quark is worked out in detail. The
+mechanism of anomaly cancellation in the low-energy effective theory is
+illustrated in a simple model.
+","[{""version"":""v1"",""created"":""Tue, 10 May 1994 16:46:33 GMT""}]","2014-11-17"
+"hep-ph/9405261","Kingman Cheung","Kingman Cheung and Tzu Chiang Yuan","Spin Alignment in the Production of Vector Mesons with Charm and/or
+  Beauty via Heavy Quark Fragmentation","32 pages, 8 figures (not included but will send upon request),
+  standard LaTeX file, Report # NUHEP-TH-94-7 and UCD-94-4","Phys.Rev.D50:3181-3194,1994","10.1103/PhysRevD.50.3181",,"hep-ph",,"  We calculate the process-independent fragmentation functions for a $\bar b$
+antiquark to fragment into longitudinally and transversely polarized $B_c^*$
+($^3S_1$) mesons to leading order in the QCD strong coupling constant. In the
+special case of equal quark mass we recover previous results for the
+fragmentation of $c\to \psi$ and $b\to\Upsilon$. Various spin asymmetry
+parameters are defined as measures of the relative population of the
+longitudinally and transversely polarized vector meson states. In the heavy
+quark mass limit $m_b \to \infty$ our polarized fragmentation functions obey
+heavy quark spin symmetry, we therefore apply them as a model to describe the
+fragmentation of charm and bottom into heavy-light mesons like $D^*$ and $B^*$.
+The spin asymmetry parameter, $\alpha(z)$, is consistent with the existing CLEO
+data for $D^*$. The scaling behavior of $\langle z \rangle$ is studied in
+detail. We find excellent agreement between the predictions of $\langle z
+\rangle$ from our fragmentation functions and the experimental data for $D^*$
+and $B^*$ from the LEP, CLEO, and ARGUS detectors. Finally, we also point out
+that the spin asymmetry depends significantly on the transverse momentum
+$p_\perp$ of the vector mesons relative to the fragmentation axis.
+","[{""version"":""v1"",""created"":""Tue, 10 May 1994 19:55:15 GMT""}]","2011-01-27"
+"hep-ph/9405262","Vladimir Adolf Miransky","V.P.Gusynin, V.A.Miransky, and I.A.Shovkovy","Catalysis of Dynamical Flavor Symmetry Breaking by a Magnetic Field in
+  $2+1$ Dimensions","11 pages, LaTeX. The final version (with minor corrections) which
+  appeared in Phys.Rev.Lett. 73 (1994) 3499","Phys.Rev.Lett. 73 (1994) 3499-3502; Erratum-ibid. 76 (1996) 1005","10.1103/PhysRevLett.76.1005","Santa Barbara preprint NSF-ITP-94-44","hep-ph hep-th",,"  It is shown that in $2+1$ dimensions, a constant magnetic field is a strong
+catalyst of dynamical flavor symmetry breaking, leading to generating a fermion
+dynamical mass even at the weakest attractive interaction between fermions. The
+effect is illustrated in the Nambu-Jona-Lasinio model in a magnetic field. The
+low-energy effective action in this model is derived and the thermodynamic
+properties of the model are established. The relevance of this effect for
+planar condensed matter systems is pointed out.
+","[{""version"":""v1"",""created"":""Tue, 10 May 1994 23:06:00 GMT""},{""version"":""v2"",""created"":""Wed, 11 Oct 1995 21:48:17 GMT""}]","2009-10-28"
+"hep-ph/9405263",,"O.K.Kalashnikov","Infrared Properties of the Hot Gauge Theory after Symmetry Breaking","12 pages, LaTeX, Yukawa Institute Preprint YITP/K-1071 (April 1994)","Prog.Theor.Phys.92:1207-1216,1994","10.1143/PTP.92.1207",,"hep-ph",,"  It is shown that the fictitious infrared pole is eliminated from the hot
+gauge theory which acquires a new vacuum after the global gauge symmetry
+spontaneously breaking. The nonzero W-condensate is generated and leads to the
+screening of the chromomagnetic forces through the scenario with the standard
+magnetic mass.
+","[{""version"":""v1"",""created"":""Wed, 11 May 1994 09:31:37 GMT""}]","2010-11-01"
+"hep-ph/9405264","J. J. Lodder","J. J. Lodder and H. J. de Blank","Recalculation of W and Z radiative corrections and a top quark mass
+  estimate","5pp. Note added, original file was truncated in mail, refs lost",,,,"hep-ph",,"  The newly published top mass prediction of 85.1 GeV conflicts with indirect
+limits on the top mass, based on precision measurements interpreted by
+calculations using dimensional regularization. The top quark contribution to
+part of the electroweak W and Z vacuum polarization tensor is recomputed using
+the symmetrical theory of generalised functions. The squared top mass
+coefficient is larger by a factor 1.44. The indirect limits on the top mass
+based on this computation should therefore be divided by 1.2. Further
+recomputation and data analysis is needed.
+","[{""version"":""v1"",""created"":""Wed, 11 May 1994 12:32:43 GMT""},{""version"":""v2"",""created"":""Thu, 19 May 1994 13:27:52 GMT""}]","2008-02-03"
+"hep-ph/9405265","J. J. Lodder","J. J. Lodder","Quantum-Electrodynamics without renormalization V. Bosonic contributions
+  to the photon mass","7pp",,,,"hep-ph",,"  The bosonic contributions to the photon mass are shown to be of the same form
+as the fermionic contributions, but of opposite sign. A mass sum rule for
+bosons and fermions follows from gauge invariance. Assuming completeness of the
+standard model the top quark mass can be predicted. Effectively only the
+W-bosons contribute, giving a lowest order prediction of 85.1 GeV for the mass
+of top quark, on the low side of currently accepted estimates.
+","[{""version"":""v1"",""created"":""Wed, 11 May 1994 12:32:23 GMT""}]","2007-05-23"
+"hep-ph/9405266",,"Dieter Schildknecht (University of Bielefeld, Department of
+  Theoretical Physics)","Experimental Evidence for Electroweak Corrections Beyond Fermion Loops","Presented at the XXIXth Rencontres de Moriond, March 1994., 4pages
+  uuencoded postscript file, BI-TP 94/18",,,,"hep-ph",,"  We reemphasize the importance of discriminating fermion-loop and bosonic
+electroweak corrections in the analysis of electroweak precision data. Most
+recent data are indeed precise enough to require corrections beyond (trivial)
+fermion loops. An analysis of these data in terms of the observables $\Delta x
+\equiv \epsilon_{N1} - \epsilon_{N2}$, $\Delta y \equiv - \epsilon_{N2}$ and
+$\epsilon \equiv - \epsilon_{N3}$ identifies the required additional
+corrections as vertex corrections at the $W^\pm f\bar f^\prime$ and $Z^0 f\bar
+f$ vertices. Standard-model values for these corrections are consistent with
+the experimental data.
+","[{""version"":""v1"",""created"":""Wed, 11 May 1994 11:45:39 GMT""}]","2007-05-23"
+"hep-th/9405067","Achim Kempf","A. Kempf","Quantum Field Theory with Nonzero Minimal Uncertainties in Positions and
+  Momenta","52 pages LATEX, DAMTP/93-33. Revised version now includes a chapter
+  on the Poincare algebra and curvature as noncommutativity of momentum space",,"10.1007/BF01690456",,"hep-th gr-qc",,"  A noncommutative geometric generalisation of the quantum field theoretical
+framework is developed by generalising the Heisenberg commutation relations.
+There appear nonzero minimal uncertainties in positions and in momenta. As the
+main result it is shown with the example of a quadratically ultraviolet
+divergent graph in $\phi^4$ theory that nonzero minimal uncertainties in
+positions do have the power to regularise. These studies are motivated with the
+ansatz that nonzero minimal uncertainties in positions and in momenta arise
+from gravity. Algebraic techniques are used that have been developed in the
+field of quantum groups.
+","[{""version"":""v1"",""created"":""Tue, 10 May 1994 16:21:00 GMT""},{""version"":""v2"",""created"":""Wed, 25 May 1994 18:38:18 GMT""},{""version"":""v3"",""created"":""Wed, 5 Oct 1994 11:32:16 GMT""}]","2009-10-28"
+"hep-th/9405069","Charles Thorn","Charles B. Thorn","Reformulating String Theory with the $1/N$ Expansion","11 pages, phyzzx required, preprint UFIFT-HEP-91-23 with a
+  postscript, 1994",,,,"hep-th",,"  We argue that string theory should have a formulation for which stability and
+causality are evident. Rather than regard strings as fundamental objects, we
+suggest they should be regarded as composite systems of more fundamental
+point-like objects. A tentative scheme for such a reinterpretation is described
+along the lines of 't Hooft's $1/N$ expansion and the light-cone
+parametrization of the string.
+","[{""version"":""v1"",""created"":""Tue, 10 May 1994 18:11:00 GMT""}]","2007-05-23"
+"hep-th/9405070","Dean Welch","Dean L. Welch","Timelike Duality","16 pages, UCSBTH-94-15","Phys. Rev. D 50, 6404 (1994)","10.1103/PhysRevD.50.6404",,"hep-th",,"  Several stationary solutions of the low energy string equations are dualized
+with respect to their timelike symmetry. Many of the duals have simple physical
+interpretations. Those of the nonextremal three dimensional black hole and
+black string are negative mass black strings. The extremal cases of these, and
+extremal higher dimensional black strings also, give negative energy plane
+fronted waves. In fact, all of the duals of positive mass solutions that will
+be considered here have nonpositive energies, but an argument is given which
+suggests that this is not true in general.
+","[{""version"":""v1"",""created"":""Tue, 10 May 1994 19:44:08 GMT""}]","2013-11-13"
+"hep-th/9405071",,"C. Gomez and E. Lopez","On the Algebraic Structure of the Holomorphic Anomaly for N=2
+  Topological Strings","14 pages, LaTeX (misprints corrected)","Phys.Lett. B334 (1994) 323-330","10.1016/0370-2693(94)90696-3",,"hep-th",,"  The special geometry ($(t,{\bar t})$-equations) for twisted $N=2$ strings are
+derived as consistency conditions of a new contact term algebra. The dilaton
+appears in the contact terms of topological and antitopological operators. The
+holomorphic anomaly, which can be interpreted as measuring the background
+dependence, is obtained from the contact algebra relations.
+","[{""version"":""v1"",""created"":""Tue, 10 May 1994 21:20:51 GMT""},{""version"":""v2"",""created"":""Sat, 14 May 1994 19:08:42 GMT""}]","2009-10-28"
+"hep-th/9405072","Kojima","S. Kojima, N. Sakai and Y. Tanii","Dilaton Gravity in $2+\epsilon$ Dimensions","26 pages, TIT/HEP-254, STUPP-94-136","Nucl.Phys. B426 (1994) 223-243","10.1016/0550-3213(94)90133-3",,"hep-th",,"  Quantum theory of dilaton gravity is studied in $2+\epsilon$ dimensions.
+Divergences are computed and renormalized at one-loop order. The mixing between
+the Liouville field and the dilaton field eliminates $1/\epsilon$ singularity
+in the Liouville-dilaton propagator. This smooth behavior of the dilaton
+gravity theory in the $\epsilon \rightarrow 0$ limit solves the oversubtraction
+problem which afflicted the higher orders of the Einstein gravity in
+$2+\epsilon$ dimensions. As a nontrivial fixed point, we find a dilaton gravity
+action which can be transformed to a CGHS type action.
+","[{""version"":""v1"",""created"":""Wed, 11 May 1994 02:55:10 GMT""}]","2009-10-28"
+"hep-th/9405073","Hugo Compean","Jerzy F. Plebanski and H. Garcia-Compean","A q-deformed Version of the Heavenly Equations","18 pages. LaTex, no figures, extended and corrected version","Int.J.Mod.Phys. A10 (1995) 3371-3379","10.1142/S0217751X95001637","CINVESTAV-FIS 05/94","hep-th",,"  Using a $q$-deformed Moyal algebra associated with the group of area
+preserving diffeomorphisms of th two-dimensional torus $T^2$, sdiff$_q (T^2)$,
+a $q$-deformed version for the Heavenly equations is given. Finally, the
+two-dimensional chiral version of Self-dual gravity in this $q$-deformed
+context is briefly discussed.
+","[{""version"":""v1"",""created"":""Wed, 11 May 1994 01:29:03 GMT""},{""version"":""v2"",""created"":""Sat, 25 Nov 1995 21:37:58 GMT""}]","2009-10-28"
+"hep-th/9405074",,"P.Pasti and M.Tonin","Twistor--like Formulation of D=10, type IIA, Superstrings $^*$","22 pages,tex, DFPD/94/TH/05",,,,"hep-th",,"  The twistor--like formulation of the type IIA superstring $\sigma$--model in
+D=10 is obtained by performing a dimensional reduction of the recently proposed
+twistor--like action of the supermembrane in D=11. The superstring action is
+invariant under local, worldsheet $(n,n)$ supersymmetry where $3\leq n \leq 8$
+and is classical equivalent to the standard Green--Schwarz action (at least for
+$n=8)$
+","[{""version"":""v1"",""created"":""Wed, 11 May 1994 07:09:56 GMT""}]","2007-05-23"
+"math/9405209",,"J. Bonet, Jari Taskinen","The subspace problem for weighted inductive limits of spaces of
+  holomorphic functions",,,,"Banach Archive 5/11/94","math.FA",,"  We construct a countable inductive limit of weighted Banach spaces of
+holomorphic functions, which is not a topological subspace of the corresponding
+weighted inductive limit of spaces of continuous functions. The main step of
+our construction, using a special sequence of outer holomorphic functions,
+shows that a certain sequence space is isomorphic to a complemented subspace of
+a weighted space of holomorphic functions in two complex variables.
+  This example solves in the negative a well-known open problem raised by
+Bierstedt, Meise and Summers.
+","[{""version"":""v1"",""created"":""Wed, 11 May 1994 15:30:40 GMT""}]","2016-09-06"
+"nucl-th/9405011",,"M.V. STOITSOV, P. RING and M.M. SHARMA (Physics Department, Technical
+  University Munich, and Max Planck Institute of Astrophysik, Garching,
+  Germany)","Generator Coordinate Calculations for the Breathing-Mode Giant Monopole
+  Resonance in Relativistic Mean Field Theory","27 pages (Revtex) and 5 figures (available upon request), Preprint
+  MPA-793 (March 1994)","Phys.Rev.C50:1445-1455,1994","10.1103/PhysRevC.50.1445",,"nucl-th",,"  The breathing-mode giant monopole resonance (GMR) is studied within the
+framework of the relativistic mean-field theory using the Generator Coordinate
+Method (GCM). The constrained incompressibility and the excitation energy of
+isoscalar giant monopole states are obtained for finite nuclei with various
+sets of Lagrangian parameters. A comparison is made with the results of
+nonrelativistic constrained Skyrme Hartree-Fock calculations and with those
+from Skyrme RPA calculations. In the RMF theory the GCM calculations give a
+transition density for the breathing mode, which resembles much that obtained
+from the Skyrme HF+RPA approach and also that from the scaling mode of the GMR.
+From the systematic study of the breathing-mode as a function of the
+incompressibility in GCM, it is shown that the GCM succeeds in describing the
+GMR energies in nuclei and that the empirical breathing-mode energies of heavy
+nuclei can be reproduced by forces with an incompressibility close to $K = 300$
+MeV in the RMF theory.
+","[{""version"":""v1"",""created"":""Wed, 11 May 1994 11:52:15 GMT""}]","2009-09-25"

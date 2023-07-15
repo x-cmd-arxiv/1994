@@ -1,0 +1,191 @@
+"astro-ph/9404060","Van Riper 091398","K. Van Riper (LANL), B. Link (Montana), and R. Epstein (LANL)","Frictional Heating and Neutron Star Thermal Evolution","AASTeX, 24 pages, 7 figures (Substantial Changes)",,"10.1086/175961","LA-UR-93-3118","astro-ph",,"  Differential rotation between the neutron star crust and a more rapidly
+rotating interior superfluid leads to frictional heating that affects the
+star's long-term thermal evolution and resulting surface emission. Here we
+present the results of thermal evolution simulations based on two models of the
+vortex pinning forces that bracket a range of plausible pinning strengths. We
+include the effects of superfluidity, magnetic fields, and temperature
+gradients. As representative standard and accelerated neutrino emission
+processes taking place in the core, we consider the modified Urca process in
+normal baryonic matter, and the much faster quark Urca process. Comparison of
+our results with neutron star surface temperature data, including the recent
+temperature measurement of the Geminga pulsar, shows that stars with soft
+equations of state and modest frictional heating are in closest agreement with
+the data; stars with stronger frictional heating have temperatures inconsistent
+with the upper limit of PSR 1929+10. Stiffer stars undergoing standard cooling
+generally have temperatures lying above the Vela detection, a situation
+worsened by the inclusion of frictional heating. Stars undergoing accelerated
+cooling without frictional heating have temperatures that fall far below most
+temperature measurements; the Vela and Geminga detections being the most
+compelling examples. Only in stiff stars, which have thick crusts, can the
+inclusion of strong frictional heating raise the temperature at late stages in
+the evolution to a level consistent with the data. However, such a large amount
+of heating leads to a temperature at $\sim 1000$ yr in excess of the Crab upper
+limit. Suppression of accelerated neutrino emission processes, perhaps by
+superfluid pairing in the core, may yield acceptable cooling models.
+","[{""version"":""v1"",""created"":""Sun, 24 Apr 1994 19:43:26 GMT""},{""version"":""v2"",""created"":""Sat, 4 Feb 1995 17:15:08 GMT""}]","2009-10-22"
+"astro-ph/9404061",,"D. Polarski and A. A. Starobinsky","Isocurvature Perturbations in Multiple Inflationary Models","Latex, 16 pages, YITP-U-94-008","Phys.Rev.D50:6123-6129,1994","10.1103/PhysRevD.50.6123",,"astro-ph gr-qc",,"  Dynamics of long-wave isocurvature perturbations during an inflationary stage
+in multiple (multi-component) inflationary models is calculated analytically
+for the case where scalar fields producing this stage interact between
+themselves through gravity only. This enables to determine correct amplitudes
+of such perturbations produced by vacuum quantum fluctuations of the scalar
+fields during the multiple inflationary stage. Exact matching to a
+post-inflationary evolution that gives the amplitude of isocurvature
+perturbations in the cold dark matter model with radiation is performed in the
+case where a massive inflaton field remains uncoupled from usual matter up to
+the present time. For this model, isocurvature perturbations are smaller than
+adiabatic ones in the region of the break in the perturbation spectrum which
+arises due to a transition between the two phases of inflation, but they may be
+much bigger and have a maximum at much shorter scales. The case of an inflaton
+with a quartic coupling which remains uncoupled after inflation is considered,
+too.
+","[{""version"":""v1"",""created"":""Sun, 24 Apr 1994 20:17:07 GMT""}]","2011-06-30"
+"astro-ph/9404062","Dong Lai","Dong Lai","Resonant Oscillations and Tidal Heating in Coalescing Binary Neutron
+  Stars","35 pages, TeX (MNRAS in press). Cornell CRSR-1064","Mon.Not.Roy.Astron.Soc. 270 (1994) 611","10.1093/mnras/270.3.611",,"astro-ph",,"  Tidal interaction in a coalescing neutron star binary can resonantly excite
+the g-mode oscillations of the neutron star when the frequency of the tidal
+driving force equals the intrinsic g-mode frequencies. We study the g-mode
+oscillations of cold neutron stars using recent microscopic nuclear equations
+of state, where we determine self-consistently the sound speed and
+Brunt-V\""ais\""al\""a frequency in the nuclear liquid core. The properties of the
+g-modes associated with the stable stratification of the core depend
+sensitively on the pressure-density relation as well as the symmetry energy of
+the dense nuclear matter. The frequencies of the first ten g-modes lie
+approximately in the range of $10-100$ Hz. Resonant excitations of these
+g-modes during the last few minutes of the binary coalescence result in energy
+transfer and angular momentum transfer from the binary orbit to the neutron
+star. The angular momentum transfer is possible because a dynamical tidal lag
+develops even in the absence of fluid viscosity. However, since the coupling
+between the g-mode and the tidal potential is rather weak, the amount of energy
+transfer during a resonance and the induced orbital phase error are very small.
+Resonant excitations of the g-modes play an important role in tidal heating of
+binary neutron stars. Without the resonances, viscous dissipation is effective
+only when the stars are close to contact. The resonant oscillations result in
+dissipation at much larger orbital separation. The actual amount of tidal
+heating depends on the viscosity of the neutron star. Using the microscopic
+viscosity, we find that the binary neutron stars are heated to a temperature
+$\sim 10^8$ K before they come into contact.
+","[{""version"":""v1"",""created"":""Mon, 25 Apr 1994 01:31:08 GMT""}]","2015-06-24"
+"cond-mat/9404076","Daryl Hess","P.G. McQueen, D.W. Hess and J.W. Serene","Pseudogap Formation in the Symmetric Anderson Lattice Model","RevTeX - 14 pages and 7 figures (available on request),
+  NRL-JA-6690-94-0024",,"10.1103/PhysRevB.50.7304",,"cond-mat",,"  We present self-consistent calculations for the self-energy and magnetic
+susceptibility of the 2D and 3D symmetric Anderson lattice Hamiltonian, in the
+fluctuation exchange approximation. At high temperatures, strong f-electron
+scattering leads to broad quasiparticle spectral functions, a reduced
+quasiparticle band gap, and a metallic density of states. As the temperature is
+lowered, the spectral functions narrow and a pseudogap forms at the
+characteristic temperature $T_x$ at which the width of the quasiparticle
+spectral function at the gap edge is comparable to the renormalized activation
+energy. For $T << T_x $, the pseudogap is approximately equal to the
+hybridization gap in the bare band structure. The opening of the pseudogap is
+clearly apparent in both the spin susceptibility and the compressibility.
+","[{""version"":""v1"",""created"":""Mon, 25 Apr 1994 02:14:45 GMT""}]","2009-10-22"
+"cond-mat/9404077","Alexander Zagoskin","A.M. Zagoskin, S.N. Rashkeev, R.I. Shekhter, and G. Wendin","Soft Disorder Effects in the Conductance Quantization in Quantum Point
+  Contacts: Indirect Backscattering Statistics","28 pages, 5 figures (availiable upon request by conventional mail),
+  REVTEX, Applied Physics Report 94-13",,,,"cond-mat",,"  The breakdown of conductance quantization in a quantum point contact in the
+presence of random long-range impurity potential is discussed. It is shown that
+in the linear response regime a decisive role is played by the indirect
+backscattering mechanism via quasilocalized states at the Fermi level; this can
+provide much higher backscattering rate than any direct backscattering process.
+For the realistic contact lengths ($\leq 2000$nm) the scattering processes
+prove to be independent, in spite of coherence of the electron wave. The
+distribution function of conductance fluctuations is obtained by direct
+numerical calculations as well as estimated within an analytical model for the
+first time. It is shown to be a generalized Poisson distribution. Estimates are
+made for quantum point contact performance at different choice of parameters.
+In particular, it is the better the larger the intermode distance is compared
+to the amplitude of the random impurity potential.
+","[{""version"":""v1"",""created"":""Mon, 25 Apr 1994 09:40:15 GMT""}]","2007-05-23"
+"gr-qc/9404042","Guillermo Mena","Guillermo A. Mena Marugan","Bases of Wormholes in Quantum Cosmology","23 pages (Latex), Preprint CGPG-94/4-4","Class.Quant.Grav.11:2205-2218,1994","10.1088/0264-9381/11/9/006",,"gr-qc",,"  We show that if the space of physical states spanned by the wormhole wave
+functions can be equipped with a Hilbert structure, such a Hilbert space must
+coincide with that of the Lorentzian gravitational system under consideration.
+The physical inner product can then be determined by imposing a set of
+Lorentzian reality conditions. The Hilbert space of the gravitational model
+admits in this case a basis of wormhole solutions, and every proper quantum
+state can be interpreted as a superposition of wormholes. We also argue that
+the wave functions that form the basis of wormholes must be eigenfunctions of a
+complete set of compatible observables. The associated eigenvalues provide a
+set of well-defined wormhole parameters, in the sense that they can be employed
+to designate the different elements of the basis of wormholes. We analyse in
+detail the case of a Friedmann-Robertson-Walker spacetime minimally coupled to
+a massless scalar field. For this minisuperspace, we prove the validity of all
+the above statements and discuss various admissible choices of bases of
+wormhole wave functions.
+","[{""version"":""v1"",""created"":""Sun, 24 Apr 1994 19:03:20 GMT""}]","2010-04-06"
+"gr-qc/9404052",,"Dmitri Vassilevich","Vector Fields on a Disk with Mixed Boundary Conditions","15 pp, Latex, SPbU-IP-94-6","J.Math.Phys. 36 (1995) 3174-3182","10.1063/1.531021",,"gr-qc",,"  We study vector fields on a disk satisfying two types of mixed boundary
+conditions. These boundary conditions are selected by BRST-invariance in
+electrodynamics. They also appear in the de Rham complex. The manifest
+construction of the harmonic expansion is presented. The eigenfunctions of the
+vector Laplace operator are expressed in terms of fields satisfying pure
+Dirichlet or Robin boundary conditions. For the case of four-dimensional disk
+several first coefficients of the heat kernel expansion are computed. An error
+in the analitical expression by Branson and Gilkey is corrected.
+","[{""version"":""v1"",""created"":""Mon, 25 Apr 1994 13:00:14 GMT""}]","2009-10-22"
+"hep-ph/9404330",,"B. Grzadkowski","CP Violation in {\boldmath $H \ra t \overline{t}$} Decays at {\boldmath
+  $\epem$} Colliders","13 pages + 5 appended ps files with 5 figures, LaTex, Institute of
+  Theoretical Physics at Warsaw University, IFT 07/94 (a few misprints
+  corrected and numerical analysis modified, a new CP violating asymmetry
+  defined, all conclusions stay unchanged)","Phys.Lett.B338:71-79,1994","10.1016/0370-2693(94)91346-3",,"hep-ph",,"  A helicity asymmetry for top quarks originating from Higgs boson decays is
+investigated within the 2-Higgs Doublet Model. The asymmetry is sensitive to CP
+violation in the scalar sector of the model, whereas it vanishes in the
+Standard Model. It has been checked that without any fine tuning of parameters
+the asymmetry can reach $50\%$. Standard decay patterns $\twbdec$ and
+$\tbwbdec$ are utilized as spin analyzers to measure the asymmetry. The Higgs
+production mechanism considered here is $\hprod$. It has been shown that signal
+from the asymmetry can easy overcome the noise for Higgs bosons produced in
+future linear $\epem$ colliders at energy $\sqrt{s}=500\gev$ operating with
+integrated luminosity $L=2.0\times10^4\lumun$.
+","[{""version"":""v1"",""created"":""Sun, 24 Apr 1994 18:30:35 GMT""},{""version"":""v2"",""created"":""Fri, 17 Jun 1994 11:40:24 GMT""}]","2010-11-01"
+"hep-ph/9404331","Lars Adam","L.-E. Adam and K.G. Chetyrkin","Renormalization of 4-Quark Operators and QCD-Sum Rules","8 pages, Latex A complete postscript file is available via anonymous
+  ftp at ttpux2.physik.uni-karlsruhe.de (129.13.102.139) as
+  /ttp93-26/ttp93-26.ps, Local preprint# TTP93-26","Phys.Lett. B329 (1994) 129-135","10.1016/0370-2693(94)90528-2",,"hep-ph",,"  We compute the renormalization mismatch displayed in 1--loop approximation by
+classically equivalent 4-quark operators and coming from different possible
+definitions of the $\gamma_5$ matrix in dimensional regularization. The result
+is then employed to study the effect of the various treatments of $\gamma_5$
+upon the size of radiative corrections to 4-quark condensates in the QCD sum
+rules for $\rho$ and $A_1$ mesons. We find that a fully anticommuting
+$\gamma_5$ which automatically respects non-anomalous chiral Ward-Slavnov
+identities leads to considerably smaller corrections and reduces theoretical
+uncertainty in the QCD prediction for the $\tau$ hadronic decay rate.
+","[{""version"":""v1"",""created"":""Mon, 25 Apr 1994 12:09:46 GMT""}]","2009-10-28"
+"hep-ph/9404332","Boucaud","V. N. Gribov","Orsay lectures on confinement (II)","LPTHE 94-20, 13 pages with 4 figures in PostScript; uses plain TeX
+  with epsf.tex (included)",,,,"hep-ph",,"  The behaviour of the light quark vacuum in the presence of a heavy quark is
+investigated.
+","[{""version"":""v1"",""created"":""Mon, 25 Apr 1994 14:59:49 GMT""}]","2007-05-23"
+"hep-th/9404150","Xavier Vilasis-Cardona","Xavier Vilasis-Cardona","Renormalisation Group Flows and Conserved Vector Currents","14 pages in Plain TeX, UB-ECM-PF 94/6","Nucl.Phys. B435 (1995) 735-752","10.1016/0550-3213(94)00451-J",,"hep-th",,"  Irreversibility of RG flows in two dimensions is shown using conserved vector
+currents. Out of a conserved vector current, a quantity decreasing along the RG
+flow is built up such that it is stationary at fixed points where it coincides
+with the constant coefficient of the two current correlation function. For
+Wess-Zumino-Novikov-Witten models this constant coefficient is the level of
+their associated affine Lie algebra. Extensions to higher dimensions using the
+spectral decomposition of the two current correlation function are studied.
+","[{""version"":""v1"",""created"":""Sun, 24 Apr 1994 18:44:07 GMT""}]","2009-10-28"
+"hep-th/9404151","Paul Aspinwall","P.S. Aspinwall and D.R. Morrison","String Theory on K3 Surfaces","14 pages","Mirror Symmetry II (B. Greene and S.-T. Yau, eds.), International
+  Press, Cambridge, 1997, pp. 703-716",,"DUK-TH-94-68, IASSNS-HEP-94/23","hep-th alg-geom math.AG",,"  The moduli space of N=(4,4) string theories with a K3 target space is
+determined, establishing in particular that the discrete symmetry group is the
+full integral orthogonal group of an even unimodular lattice of signature
+(4,20). The method combines an analysis of the classical theory of K3 moduli
+spaces with mirror symmetry. A description of the moduli space is also
+presented from the viewpoint of quantum geometry, and consequences are drawn
+concerning mirror symmetry for algebraic K3 surfaces.
+","[{""version"":""v1"",""created"":""Sun, 24 Apr 1994 18:38:09 GMT""}]","2008-02-03"
+"hep-th/9404152","Nam SoonKeon","Changrim Ahn, Kong-Ju-Bock Lee, and Soonkeon Nam","Thermodynamics of Non-Relativistic Scattering Theory","12 pages","J.Korean Phys.Soc.28:783-787,1995",,"EWHA-TH-003 / KHTP-94-02 / SNUTP-94-26","hep-th cond-mat",,"  We use thermodynamic Bethe ansatz to study nonrelativistic scattering theory
+of low energy excitations of 1D Hubbard model, using the $S$-matrices proposed
+by E\ss ler and Korepin. This model can be described by two types of excitation
+states, holons and spinons, as asymptotic states. In the attractive regime, the
+spinon is massive while the holon is massless. The situation is reversed with a
+repulsive coupling. We derive that the central charge of the Hubbard model in
+the IR limit is $c=1$ while it vanishes in the UV limit. The contribution is
+due to the massless degree of freedom, i.e. the holon for the attractive
+regime, and the massive mode decouples completely. This result is consistent
+with various known results based on lattice Bethe ansatz computations. Our
+results make it possible to use the $S$-matrices of the excitations to compute
+more interesting quantities like correlation functions.
+","[{""version"":""v1"",""created"":""Mon, 25 Apr 1994 08:17:58 GMT""}]","2010-02-05"
+"hep-th/9404153",,"D.V. Volkov","Supergravity before and after 1976","8 pages, latex, CERN-TH.7226/94",,,,"hep-th",,"  This paper is part of the lecture given at the TH Division of CERN and
+devoted to the CXXV anniversary of the birthday of Elie Cartan (1869-1951). It
+is shown how the methods of differential geometry, due to E. Cartan, were
+applied to the construction of the supersymmetry transformation law and to the
+actions for Goldstone fermions and supergravity.
+","[{""version"":""v1"",""created"":""Mon, 25 Apr 1994 09:04:49 GMT""}]","2007-05-23"
+"hep-th/9404154","Larry Horwitz","L.P. Horwitz","The Unstable System in Relativistic Quantum Mechanics","24 pages, report TAUP 2134-94","Found.Phys. 25 (1995) 39-65","10.1007/BF02054656",,"hep-th",,"  A soluble model for the relativistically description of an unstable system is
+given in terms of relativistic quantum field theory, with a structure similar
+to Van Hove's generalization of the Lee model in the non-relativistic theory.
+","[{""version"":""v1"",""created"":""Mon, 25 Apr 1994 13:04:29 GMT""}]","2009-10-28"

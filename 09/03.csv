@@ -1,0 +1,295 @@
+"adap-org/9409001","Michael Youssefmir","Michael Youssefmir, Bernardo Huberman, and Tad Hogg (Dynamics of
+  Computation Group, Xerox Palo Alto Research Center, 3333 Coyote Hill Rd.,
+  Palo Alto, CA 94304)","Bubbles and Market Crashes","Postscript file with 21 pages. Comments to youssefm, huberman, or
+  hogg@parc.xerox.com",,,,"adap-org nlin.AO",,"  We present a dynamical theory of asset price bubbles that exhibits the
+appearance of bubbles and their subsequent crashes. We show that when
+speculative trends dominate over fundamental beliefs, bubbles form, leading to
+the growth of asset prices away from their fundamental value. This growth makes
+the system increasingly susceptible to any exogenous shock, thus eventually
+precipitating a crash. We also present computer experiments which in their
+aggregate behavior confirm the predictions of the theory.
+","[{""version"":""v1"",""created"":""Fri, 2 Sep 1994 21:48:37 GMT""}]","2008-02-03"
+"alg-geom/9409002","Tohsuke Urabe","Tohsuke Urabe","Dynkin Graphs and Triangle Singularities","7 pages, AMS-TeX",,,,"alg-geom math.AG",,"  We treat nine of fourteen triangle singularities in Arnold's classification
+list of singularities. We consider what kind of combinations of rational double
+points can appear on their small deformation fibers. We show their combinations
+are described by a simple priciple using Dynkin graphs.
+","[{""version"":""v1"",""created"":""Sat, 3 Sep 1994 12:50:43 GMT""}]","2008-02-03"
+"astro-ph/9409006","Jose Maria Solanes","Marco Scodeggio, Jos\'e M. Solanes, Riccardo Giovanelli, and Martha P.
+  Haynes","The Spatial Distribution, Kinematics, and Dynamics of the Galaxies in
+  the Region of Abell 2634 and 2666","52 pages (AAS LaTeX macro v3.0). 5 Tables and 18 Figures available on
+  request. To appear in the ApJ. JMS-94-01",,"10.1086/175581",,"astro-ph",,"  A total of 663 galaxies with known redshifts in a $6\deg\!\times 6\deg$ field
+centered on A2634, including 211 new measurements, are used to study the
+structure of this cluster and its surroundings. Two samples, ---one containing
+200 galaxies within two degrees from the cluster center and a second,
+magnitude-limited, of 118 galaxies within the central half degree---, are used
+to examine the structure, kinematics, dynamics of A2634. We show that
+early-type galaxies appear to be a relaxed system, while the spiral population
+eschews the center of the cluster and exhibits both a multimodal velocity
+distribution and a much larger velocity dispersion than the ellipticals. We
+find no evidence of significant substructure in the central regions supportive
+of a recent merger of two subclusters, a scenario that has been suggested to
+explain the bending of the tails of the cluster central radio source (3C 465).
+We also conclude that the adoption of lenient membership criteria that ignore
+the dynamical complexity of A2634 are unlikely to be responsible for the
+conflictual results reported on the motion of this cluster with respect to the
+CMB. The kinematical and dynamical analysis is extended to A2634's close
+companion, A2666, and to two distant background clusters at 18,000 and 37,000
+$\rm km s^{-1}$.
+","[{""version"":""v1"",""created"":""Fri, 2 Sep 1994 20:52:23 GMT""}]","2009-10-22"
+"astro-ph/9409007","Ethan Vishniac","Jill Bechtold, Arlin P.S. Crotts, Robert C. Duncan & Yihu Fang","Spectroscopy of the Double Quasars Q1343+266AB: I. a New Determination
+  of the Size of Lyman-Alpha Forest Absorbers","(9 pages, Accepted to Ap. J. Letters) 9294",,"10.1086/187688",,"astro-ph",,"  We have obtained spectroscopy of Q 1343+266 AB, a pair of quasars at redshift
+z = 2.03 with a projected separation of 9.5 arcseconds. This system is
+well-suited for probing the Ly-alpha forest, since the two component spectra
+show several Ly-alpha lines in common and several others not. Using Bayesian
+statistics, under the idealization of uniform-radius spherical absorbers, we
+find that the Ly-alpha cloud radius at $z \approx 1.8$ lies in the range
+$40\hkpc < R < 280 \hkpc$ with $98\%$ confidence in a $(\Omega_o, \Lambda_o) =
+(1, 0)$ model universe, where $h =(H_o / 100 km s^{-1}
+  Mpc^{-1})$. The median value of R is 90 h^-1 kpc. \ These numbers scale up by
+a factor 1.44 for $(\Omega_o, \Lambda_o) =(0.1, 0)$; and by a factor 1.85 for
+(0.1, 0.9). Pressure-confined and freely-expanding Ly-alpha cloud models in
+which the absorbers formed in a significantly more compressed state at $z \gg
+2$ are contradicted by these new data, as are models involving stably-confined
+gas concentrations in photoionization equilibrium within minihalos of cold dark
+matter. The comoving density of Ly-alpha forest objects at $z\sim 2$ is $\sim
+0.3 h (R/100 kpc)^{-2} Mpc^{-3}$ in a (1,0) model universe. This suggests a
+possible identification of Ly-alpha clouds with the unvirialized, collapsing
+progenitors of the faint, blue galaxies at $z\sim 1$.
+","[{""version"":""v1"",""created"":""Fri, 2 Sep 1994 20:13:29 GMT""}]","2009-10-22"
+"astro-ph/9409008","Ethan Vishniac","Arlin P.S. Crotts, Jill Bechtold, Yihu Fang & Robert C. Duncan","Spectroscopy of the Double Quasars Q1343+264 Ab: II. the Relationship
+  between Galaxies Ans QSO C~IV Absorption Lines -","(8 pages, Accepted by Ap. J Letters) 9295",,"10.1086/187687",,"astro-ph",,"  We present spectra of QSOs 1343+266 A B, covering Ly-beta to C~IV emission at
+2\AA~resolution, and find further evidence that this system is not
+gravitationally lensed. We see, however, a large number of Ly-alpha and some
+C~IV absorption features common to both spectra. The frequency of C~IV lines in
+common indicates that these absorbers have a radius close to the sightline
+separation, $39~h^{-1}$kpc ($q_o=0.5$), implying a spatial number density of
+these absorbers the same as current day $L>0.3L_*$ galaxies. Furthermore, the
+velocity mismatch for C~IV systems indicates absorber masses in the range
+$10^{11}~M_{\odot} < M < 10^{12}~M_{\odot}$. These results confirm that typical
+galaxies cause QSO C~IV-line absorption. A complete line-list of metal-lines
+and the Ly-alpha forest is presented
+","[{""version"":""v1"",""created"":""Fri, 2 Sep 1994 20:19:13 GMT""}]","2009-10-22"
+"astro-ph/9409009",,"G. Hazak and R. Zamir","Generalized Van Cittert Zernike Theorem in Curved Spacetime - Some
+  Astrophysical Applications","\thanks{{\it Submitted to ApJ.}} } \maketitle",,,,"astro-ph",,"  The {\em Van Cittert Zernike} theorem consists of a simple relation between
+the measured coherence of the radiation and the characteristics of the emitting
+stochastic source. In the present work, an extension of the theorem to
+partially correlated sources in curved spacetime is derived. The generalized
+theorem is used to evaluate the changes in the spectrum of light travelling
+through a gravitational lens. Some possible astrophysical applications are
+discussed, accompanied by a numerical estimation of the spectrum modification
+in the process of propagation through a gravitational lens.
+","[{""version"":""v1"",""created"":""Sat, 3 Sep 1994 07:06:00 GMT""}]","2007-05-23"
+"cond-mat/9409007","Steve Teitel","M. Franz and S. Teitel","Vortex Lattice Melting in 2D Superconducting Networks and Films","55 pages, RevTex3.0, 25 figures (available by mail by contacting
+  stte@pas.rochester.edu)","Phys. Rev. B 51, 6551 (1995)","10.1103/PhysRevB.51.6551","UR-94-ST06","cond-mat",,"  We carry out MC studies of 2D superconducting networks, in an applied
+magnetic field, for square and honeycomb geometries. We consider both dilute
+systems (f=1/q) and systems near full frustration (f=1/2-1/q). For the dilute
+case (which models a film as q->infinity), we find two transitions: at
+T_c(f)~1/q there is a depinning transition from a pinned to a floating vortex
+lattice; at T_m(f)~constant the floating vortex lattice melts into an isotropic
+liquid. We analyze this melting according to the Kosterlitz- Thouless theory of
+dislocation mediated melting, and find that the melting is weakly first order.
+For the case near full frustration, the system can be described in terms of the
+density of defects in an otherwise fully frustrated vortex pattern. We find
+pinned solid, floating solid, and liquid defect phases, as well as a higher
+sharp transition corresponding to the disordering of the fully frustrated
+background.
+","[{""version"":""v1"",""created"":""Fri, 2 Sep 1994 17:51:26 GMT""}]","2009-10-22"
+"cond-mat/9409008","Rudolf Morf","R. Morf and N. d'Ambrumenil","Stability and effective masses of composite-fermions in the first and
+  second Landau Level","9 pages, Revtex, PSIZ-TP-9401",,"10.1103/PhysRevLett.74.5116",,"cond-mat",,"  We propose a measure of the stability of composite fermions (CF's) at
+even-denominator Landau-level filling fractions. Assuming Landau-level mixing
+effects are not strong, we show that the CF liquid at $\nu=2+1/2$ in the $n=1$
+Landau level cannot exist and relate this to the absence of a hierarchy of
+incompressible states for filling fractions $2+1/3 < \nu < 2+2/3$. We find that
+a polarized CF liquid should exist at $\nu=2+1/4$. We also show that, for CF
+states, the variation with system size of the ground state energy of
+interacting electrons follows that for non-interacting particles in zero
+magnetic field. We use this to estimate the CF effective masses.
+","[{""version"":""v1"",""created"":""Fri, 2 Sep 1994 19:49:57 GMT""}]","2009-10-22"
+"gr-qc/9409004","Jorge Pullin","Jorge Pullin (Editor)","MATTERS OF GRAVITY, a newsletter for the gravity community, Number 4","Plain TeX, 24 pages",,,"MOG-4","gr-qc",,"  Table of contents
+  Editorial.
+  Gravity News:
+  Report on the APS topical group in gravitation, Beverly Berger.
+  Research briefs:
+  Gravitational microlensing and the search for dark matter, Bohdan Paczynski.
+  Laboratory gravity: the G mystery, Riley Newman.
+  LIGO project update, Stan Whitcomb.
+  Conference Reports
+  PASCOS '94, Peter Saulson.
+  The Vienna Meeting, P. Aichelburg, R. Beig.
+  The Pitt binary black hole grand challenge meeting, Jeff Winicour.
+  International symposium on experimental gravitation at Pakistan,Munawar Karim
+  10th Pacific coast gravity meeting, Jim Isenberg.
+","[{""version"":""v1"",""created"":""Fri, 2 Sep 1994 21:49:36 GMT""}]","2007-05-23"
+"gr-qc/9409005","James Hartle","James B. Hartle","Spacetime Information","47pages, 2 figures, UCSBTH 94-04","Phys.Rev. D51 (1995) 1800-1817","10.1103/PhysRevD.51.1800",,"gr-qc hep-th",,"  In usual quantum theory, the information available about a quantum system is
+defined in terms of the density matrix describing it on a spacelike surface.
+This definition must be generalized for extensions of quantum theory which do
+not have a notion of state on a spacelike surface. It must be generalized for
+the generalized quantum theories appropriate when spacetime geometry fluctuates
+quantum mechanically or when geometry is fixed but not foliable by spacelike
+surfaces. This paper introduces a four-dimensional notion of the information
+available about a quantum system's boundary conditions in the various sets of
+decohering histories it may display. The idea of spacetime information is
+applied in several contexts: When spacetime geometry is fixed the information
+available through alternatives restricted to a spacetime region is defined. The
+information available through histories of alternatives of general operators is
+compared to that obtained from the more limited coarse- grainings of
+sum-over-histories quantum mechanics. The definition of information is
+considered in generalized quantum theories. We consider as specific examples
+time-neutral quantum mechanics with initial and final conditions, quantum
+theories with non-unitary evolution, and the generalized quantum frameworks
+appropriate for quantum spacetime. In such theories complete information about
+a quantum system is not necessarily available on any spacelike surface but must
+be searched for throughout spacetime. The information loss commonly associated
+with the ``evolution of pure states into mixed states'' in black hole
+evaporation is thus not in conflict with the principles of generalized quantum
+mechanics.
+","[{""version"":""v1"",""created"":""Fri, 2 Sep 1994 22:43:25 GMT""}]","2009-10-22"
+"hep-ph/9409214",,"Z. Bern, L. Dixon, D.C. Dunbar and D.A. Kosower","Recent Progress in One-Loop Multi-Parton Calculations","SLAC-PUB-6658, LaTeX, 4 pages","Nucl.Phys.Proc.Suppl.39BC:146-149,1995","10.1016/0920-5632(95)00060-M",,"hep-ph",,"  We describe techniques that simplify the calculation of one-loop QCD
+amplitudes with many external legs, which are needed for next-to-leading-order
+(NLO) corrections to multi-jet processes. The constraints imposed by
+perturbative unitarity, collinear singularities and a supersymmetry-inspired
+organization of helicity amplitudes are particularly useful. Certain sequences
+of one-loop helicity amplitudes may be obtained for an arbitrary number of
+external gluons using these techniques. We also report on progress in
+completing the set of one-loop helicity amplitudes required for NLO three-jet
+production at hadron colliders, namely the amplitudes with two external quarks
+and three gluons. (Contribution presented by L. Dixon at the workshop
+``QCD'94'', Montpellier, France, July 7-13, 1994. To appear in those
+proceedings.)
+","[{""version"":""v1"",""created"":""Fri, 2 Sep 1994 23:00:00 GMT""}]","2010-11-15"
+"hep-ph/9409215",,"Alexander L. Kagan","Implications of TeV Flavor Physics for the \Delta I =1/2 Rule and the
+  B-meson Semileptonic Branching Ratio","52 pages+12 postscript figures, SLAC-PUB-6626","Phys.Rev. D51 (1995) 6196-6220","10.1103/PhysRevD.51.6196",,"hep-ph",,"  Two of the outstanding discrepancies between weak interaction phenomenology
+and the standard model come in the large size of the $\Delta I={1\over 2}$
+enhancement in $K$ decays and in the small value of the $B$ semileptonic
+branching ratio. We argue that these discrepancies are naturally explained by
+chromomagnetic dipole operators arising from new physics at the TeV scale.
+These operators are closely connected to diagrams which contribute to the quark
+mass matrix, and we show how the proper enhancement of the hadronic decays of
+$s$ and $b$ quarks can be linked to generation of particular
+Cabbibo-Kobayaski-Maskawa mixing angles or quark masses. We confirm our
+model-independent analysis with detailed consideration of supersymmetric models
+and of technicolor models with techniscalars. This picture has additional
+phenomenological predictions for the $B$ system: The branching ratio of
+charmless nonleptonic $B$ decays should be of order 20\%, due to a large rate
+for $b\to sg$, while there are no dangerous new contributions to $b\rightarrow
+s \gamma$. Sizable contributions to $b \to d \gamma$ are a common feature of
+models incorporating this mechanism. In techniscalar models the $Z b \bar b$
+coupling is enhanced, in association with sizable contributions to $b \to s
+\mu^+ \mu^-$.
+","[{""version"":""v1"",""created"":""Sat, 3 Sep 1994 00:34:00 GMT""}]","2009-10-28"
+"hep-ph/9409216","Antonio Pineda","A. Pineda and J. Soto","Heavy Quark Hadronic Lagrangian for S-wave Quarkonium","38 pages, TeX, general rewritten version with minor changes in
+  physical outcomes, to appear in Phys. Rev. D","Phys.Rev. D53 (1996) 3983-3997","10.1103/PhysRevD.53.3983","UB-ECM-PF-94/19","hep-ph",,"  We use Heavy Quark Effective Theory (HQET) techniques to parametrize certain
+non-perturbative effects related to quantum fluctuations that put both heavy
+quark and antiquark in quarkonium almost on shell.
+  The large off-shell momentum contributions are calculated using Coulomb type
+states. The almost on-shell momentum contributions are evaluated using an
+effective 'chiral' lagrangian which incorporates the relevant symmetries of the
+HQET for quarks and antiquarks. The cut-off dependence of both contributions
+matches perfectly. The decay constants and the matrix elements of bilinear
+currents at zero recoil are calculated. The new non-perturbative contributions
+from the on-shell region are parametrized by a single constant. They turn out
+to be $O(\alpha^2/\Lambda_{QCD} a_{n})$, $a_{n}$ being the Bohr radius and
+$\alpha$ the strong coupling constant, times the non-perturbative contribution
+coming from the multipole expansion (gluon condensate). We discuss the physical
+applications to $\Upsilon$, $J/\Psi$ and $B_{c}$ systems.
+","[{""version"":""v1"",""created"":""Fri, 2 Sep 1994 20:39:45 GMT""},{""version"":""v2"",""created"":""Tue, 23 Jan 1996 19:11:47 GMT""}]","2016-09-01"
+"hep-th/9409012",,"Maurice R. Kibler","Introduction to Quantum Algebras","25 pages",,,"LYCEN 9234","hep-th math.QA",,"  The concept of a quantum algebra is made easy through the investigation of
+the prototype algebras $u_{qp}(2)$, $su_q(2)$ and $u_{qp}(1,1)$. The latter
+quantum algebras are introduced as deformations of the corresponding Lie
+algebras~; this is achieved in a simple way by means of $qp$-bosons. The Hopf
+algebraic structure of $u_{qp}(2)$ is also discussed. The basic ingredients for
+the representation theory of $u_{qp}(2)$ are given. Finally, in connection with
+the quantum algebra $u_{qp}(2)$, we discuss the $qp$-analogues of the harmonic
+oscillator and of the (spherical and hyperbolical) angular momenta.
+","[{""version"":""v1"",""created"":""Fri, 2 Sep 1994 19:01:00 GMT""}]","2008-02-03"
+"hep-th/9409013","Alex Ridgway","S. Alexander Ridgway and Erick J. Weinberg","Instabilities of Magnetically Charged Black Holes","19 pages + 2 figures, CU-TP-651","Phys.Rev.D51:638-646,1995","10.1103/PhysRevD.51.638",,"hep-th",,"  The stability of the magnetically charged Reissner-Nordstrom black hole
+solution is investigated in the context of a theory with massive charged vector
+mesons. By exploiting the spherical symmetry of the problem, the linear
+perturbations about the Reissner-Nordstrom solution can be decomposed into
+modes of definite angular momentum $J$. For each value of $J$, unstable modes
+appear if the horizon radius is less than a critical value that depends on the
+vector meson gyromagnetic ratio $g$ and the monopole magnetic charge $q/e$. It
+is shown that such a critical radius exists (except in the anomalous case
+$q={1\over 2}$ with $0 \le g \le 2$), provided only that the vector meson mass
+is not too close to the Planck mass. The value of the critical radius is
+determined numerically for a number of values of $J$. The instabilities found
+here imply the existence of stable solutions with nonzero vector fields
+(``hair'') outside the horizon; unless $q=1$ and $g>0$, these will not be
+spherically symmetric.
+","[{""version"":""v1"",""created"":""Fri, 2 Sep 1994 20:36:34 GMT""}]","2010-11-01"
+"hep-th/9409014","A. W. Sitarz","Andrzej Sitarz","Noncommutative Differential Calculus on the Kappa-Minkowski Space","LaTeX 10 pages","Phys.Lett.B349:42-48,1995","10.1016/0370-2693(95)00223-8",,"hep-th",,"  Following the construction of the $\kappa$-Minkowski space from the
+bicrossproduct structure of the $\kappa$-Poincare group, we investigate
+possible differential calculi on this noncommutative space. We discuss then the
+action of the Lorentz quantum algebra and prove that there are no 4D
+bicovariant differential calculi, which are Lorentz covariant. We show,
+however, that there exist a five-dimensional differential calculus, which
+satisfies both requirements. We study also a toy example of 2D
+$\kappa$-Minkowski space and and we briefly discuss the main properties of its
+differential calculi.
+","[{""version"":""v1"",""created"":""Fri, 2 Sep 1994 20:38:00 GMT""},{""version"":""v2"",""created"":""Sun, 4 Sep 1994 13:59:00 GMT""}]","2011-07-18"
+"hep-th/9409015",,"Alexander Belopolsky, Barton Zwiebach","Off-shell Closed String Amplitudes: Towards a Computation of the Tachyon
+  Potential","42 pages, phyzzx macropackage. A correction made that implies that
+  the tachyon potential is unbounded below and unlikely to have a local
+  minimum. An extra reference added","Nucl.Phys.B442:494-532,1995","10.1016/0550-3213(95)00094-9","MIT-CTP-2336","hep-th",,"  We derive an explicit formula for the evaluation of the classical closed
+string action for any off-shell string field, and for the calculation of
+arbitrary off-shell amplitudes. The formulae require a parametrization, in
+terms of some moduli space coordinates, of the family of local coordinates
+needed to insert the off-shell states on Riemann surfaces. We discuss in detail
+the evaluation of the tachyon potential as a power series in the tachyon field.
+The expansion coefficients in this series are shown to be geometrical
+invariants of Strebel quadratic differentials whose variational properties
+imply that closed string polyhedra, among all possible choices of string
+vertices, yield a tachyon potential which is as small as possible order by
+order in the string coupling constant. Our discussion emphasizes the
+geometrical meaning of off-shell amplitudes.
+","[{""version"":""v1"",""created"":""Fri, 2 Sep 1994 23:55:39 GMT""},{""version"":""v2"",""created"":""Tue, 8 Nov 1994 00:11:15 GMT""}]","2010-11-01"
+"hep-th/9409016",,"C.R. Fernandez-Pousa, M.V. Gallas, J.L. Miramontes and J. Sanchez
+  Guillen","W-Algebras from Soliton Equations and Heisenberg Subalgebras","Improved version with more specific results concerning the class of
+  W-algebras which are defined in terms of soliton equations. 48 pages. Plain
+  TeX","Annals Phys. 243 (1995) 372-419","10.1006/aphy.1995.1102","US-FT/13-94","hep-th",,"  We derive sufficient conditions under which the ``second'' Hamiltonian
+structure of a class of generalized KdV-hierarchies defines one of the
+classical $\cal W$-algebras obtained through Drinfel'd-Sokolov Hamiltonian
+reduction. These integrable hierarchies are associated to the Heisenberg
+subalgebras of an untwisted affine Kac-Moody algebra. When the principal
+Heisenberg subalgebra is chosen, the well known connection between the
+Hamiltonian structure of the generalized Drinfel'd-Sokolov hierarchies - the
+Gel'fand-Dickey algebras - and the $\cal W$-algebras associated to the Casimir
+invariants of a Lie algebra is recovered. After carefully discussing the
+relations between the embeddings of $A_1=sl(2,{\Bbb C})$ into a simple Lie
+algebra $g$ and the elements of the Heisenberg subalgebras of $g^{(1)}$, we
+identify the class of $\cal W$-algebras that can be defined in this way. For
+$A_n$, this class only includes those associated to the embeddings labelled by
+partitions of the form $n+1= k(m) + q(1)$ and $n+1= k(m+1) + k(m) + q(1)$.
+","[{""version"":""v1"",""created"":""Sat, 3 Sep 1994 07:15:43 GMT""},{""version"":""v2"",""created"":""Wed, 30 Nov 1994 13:25:26 GMT""}]","2016-09-06"
+"hep-th/9409017","Sergei Ketov","Sergei V. Ketov","The BRST Charge for the $\hat{D}(2,1;\a)$ Non-Linear
+  Quasi-Superconformal Algebra","13 pages, LaTeX, Hannover preprint ITP-UH-12/94, September 1994","Mod.Phys.Lett. A10 (1995) 79-90","10.1142/S0217732395000090",,"hep-th",,"  The quantum BRST charge for the most general, two-dimensional, non-linear,
+$N=4$ quasi-superconformal algebra $\hat{D}(1,2;\a)$, whose linearisation is
+the so-called `large' $N=4$ superconformal algebra, is constructed. The
+$\hat{D}(1,2;\a)$ algebra has $\Hat{su(2)}_{k^+}\oplus
+\Hat{su(2)}_{k^-}\oplus\Hat{u(1)}$ Ka\v{c}-Moody component, and $\a=k^-/k^+$.
+As a pre-requisite to our construction, we check the $\hat{D}(1,2;\a)$ Jacobi
+identities and construct a classical BRST charge. Then, we analyse the quantum
+BRST charge nilpotency conditions and find the only solution, $k^+=k^-=-2$. The
+$\hat{D}(1,2;1)$ algebra is actually isomorphic to the $SO(4)$-based
+Bershadsky-Knizhnik non-linear quasi-superconformal algebra. We argue about the
+existence of a new string theory with (i) the non-linearly realised $N=4$
+world-sheet supersymmetry, (ii) non-unitary matter in a $\hat{D}(1,2;\a)$
+representation of $k=-2$ and $c=-6$, and (iii) negative `critical dimension'.
+","[{""version"":""v1"",""created"":""Sat, 3 Sep 1994 12:14:38 GMT""}]","2015-06-26"
+"hep-th/9409018",,"Kenichi Horie (Institut f""ur Physik, Johannes Gutenberg--Universit""at
+  Mainz, D--55099 Mainz, Germany)","Geometric Interpretation of Electromagnetism in a Gravitational Theory
+  with Space--Time Torsion","22 pages, LaTeX-file, preprint number MZ--TH/94--16, May 1994,
+  e--mail: horie@vipmzw.physik.uni-mainz.de",,,,"hep-th",,"  A complete geometric unification of gravity and electromagnetism is proposed
+by considering two aspects of torsion: its relation to spin established in
+Einstein--Cartan theory and the possible interpretation of the torsion trace as
+the electromagnetic potential. Starting with a Lagrangian built of Dirac
+spinors, orthonormal tetrads, and a complex rather than a real linear
+connection we define an extended spinor derivative by which we obtain not only
+a very natural unification, but can also fully clarify the nontrivial
+underlying fibre bundle structure. Thereby a new type of contact interaction
+between spinors emerges, which differs from the usual one in Einstein--Cartan
+theory. The splitting of the linear connection into a metric and an
+electromagnetic part together with a characteristic length scale in the theory
+strongly suggest that gravity and electromagnetism have the same geometrical
+origin.
+","[{""version"":""v1"",""created"":""Sat, 3 Sep 1994 09:27:48 GMT""}]","2007-05-23"

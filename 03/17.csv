@@ -1,0 +1,285 @@
+"alg-geom/9403013","Jean Valles","Valles Jean","Complexes inattendus de droites de saut (Unexpected complex of jumping
+  lines)","7 pages, Latex",,,,"alg-geom math.AG",,"  We prove here the following results: \begin{th} Let $E$ a rank 2 vector
+bundle over ${\bf P}_3$, if $C$ is a reduced irreducible curve of ${\bf
+P}_3^{\vee}$ such that $E_H$ is unstable for all $H\in C$ then $C$ is a line.
+  \end{th} We define now the set $W(E)$ as the set of planes $H$ such that the
+restricted bundle $E_H$ is unstable (that means non semi-stable).
+  \begin{th} Let $E$ a rank 2 vector bundle over ${\bf P}_3$, with first chern
+class $c_1=c_1(E)$, $L$ a line and an integer $n\ge 0$. The following
+conditions are equivalent:
+  \begin{description}
+  \item[(i)] $L^{\vee}\subset W(E)$ and $H^0(E_H(-n+[-c_1/2]))\neq 0$ for a
+general point $H\in L^{\vee}$. \item[(ii)] There exist $m>0$ and a section
+$t\in H^0(E(m+[-c_1/2]))$ such that the zero variety of $t$ contains the
+infinitesimal neighbourhood of order $(m+n-1)$ of $L$.
+  \end{description}
+","[{""version"":""v1"",""created"":""Thu, 17 Mar 1994 14:34:40 GMT""}]","2015-06-30"
+"astro-ph/9403035","Lauro Moscardini","Paolo Catelan and Lauro Moscardini","Kurtosis as a Non--Gaussian Signature of the Large--Scale Velocity Field","10 pages in Latex (plus 2 figures in a separate file), PD-cosmo/9401","Astrophys.J.436:5,1994","10.1086/174875",,"astro-ph",,"  We discuss the non--linear growth of the kurtosis of the smoothed peculiar
+velocity field (along an arbitrary direction), in an Einstein--de Sitter
+universe, induced by Gaussian primordial density fluctuations. Applying the
+perturbative theory, we show that, for different cosmological models, a
+departure from the original Gaussian distribution is gravitationally induced
+only on small scales ($\simlt 20-30$ Mpc). Models with scale--free power
+spectrum $P(k)\propto k^{\,n}$, with $-1< n \leq 1$, are also considered. When
+the fluid particles move according to the Zel'dovich approximation the
+probability distribution of the peculiar velocity field remains unaltered
+during the evolution.
+","[{""version"":""v1"",""created"":""Thu, 17 Mar 1994 08:10:57 GMT""}]","2008-11-26"
+"astro-ph/9403036","Albert Zijlstra","Albert A. Zijlstra, Peter A.M. van Hoof, Jessica M. Chapman and Cecile
+  Loup","Radio and Infrared Emission from a [WC]-Type Planetary Nebula in the LMC","Accepted for publication in Astronomy and Astrophysics. [compressed
+  and uuencoded dvi file, 6 pages] Hardcopy and 2 figures available on request
+  from azijlstr@eso.org. ESO-AZ-02",,,,"astro-ph",,"  Radio continuum emission has been detected from a planetary nebula in the
+Large Magellanic Cloud: this is the first radio continuum detection for any
+planetary nebula outside our galaxy. The radio flux density is a factor of two
+lower than predicted from the \hbeta\ flux. This could be due either to a
+two-component morphology or to a stellar contribution to the \hbeta\ emission.
+We have modeled the optical and infrared spectrum using the photo-ionisation
+code Cloudy: a very good fit is obtained if we assume the nebula is carbon
+rich. The derived diameter implies an evolutionary age of the nebula of
+$<1000\yr$, similar to what is derived from the IRAS colours alone. The central
+star, which is of [WC] type, has a much higher stellar temperature than
+Galactic [WC] stars showing similar circumstellar IRAS colours. An explanation
+could be that the expansion velocity of the nebula is lower than those of its
+galactic counterparts. This radio detection indicates that accurate nebular
+luminosities could be determined from their radio emission for many LMC
+planetary nebulae.
+","[{""version"":""v1"",""created"":""Thu, 17 Mar 1994 14:54:58 GMT""}]","2007-05-23"
+"astro-ph/9403037","Patrick Peter","P.Peter, D.Polarski and A.A.Starobinsky","Confrontation of Double-Inflationary Models with Observations","15 pages LaTeX-REVTeX, 3 figures available upon request,
+  DAMTP-R94/20, YITP/U-94-6","Phys.Rev.D50:4827-4834,1994","10.1103/PhysRevD.50.4827",,"astro-ph gr-qc",,"  We consider double-inflationary models with two noninteracting scalar fields,
+a light scalar field $\phi_l$ with potential $\frac{1}{2}m_l^2\phi_l^2$ and a
+heavy scalar field $\phi_h$ with potential $\frac{\lambda}{n}\phi_h^n$ with
+$n=2,4$. CDM with the initial spectrum of adiabatic perturbations produced in
+these models is compared with observations. These models contain two more free
+parameters than the standard CDM model with an initial scale-invariant
+spectrum. We normalize our spectra to COBE DMR and compare the predictions with
+observations on the biasing factor, large-scale peculiar velocities, quasar and
+galaxy formation and the Stromlo-APM counts-in-cells analysis. The model with
+$n=4$ is excluded by the data while for the $n=2$ model, taking cosmic variance
+into account, a small window of parameters compatible with observations is
+found.
+","[{""version"":""v1"",""created"":""Thu, 17 Mar 1994 15:23:23 GMT""}]","2010-12-09"
+"astro-ph/9403038","Konrad Kuijken","Konrad Kuijken","An Axisymmetric Distribution Function for the Galactic Bulge","19 pages, 700 kb uu-encoded compressed postscript file, CfA preprint",,"10.1086/175778",,"astro-ph",,"  We describe a method for parameterizing two-integral distribution functions,
+based on triangular tesselations of the integral plane. We apply the method to
+the axisymmetric isotropic rotator model for the Galactic bulge of Kent~(1992),
+and compare the results with observations of proper motions in Baade's Window,
+and with radial velocity surveys. In spite of mounting evidence from surface
+photometry and from study of the gas kinematics that the Galactic bulge is not
+axisymmetric, the stellar kinematics in Baade's Window are very similar to
+those of an isotropic oblate rotator. Another field at large radius does not
+fit this model, though. In any case, the edge-on kinematics of a hot stellar
+population are a poor handle on the existence or otherwise of a bar.
+","[{""version"":""v1"",""created"":""Thu, 17 Mar 1994 15:56:28 GMT""}]","2009-10-22"
+"chem-ph/9403008","Steve Rick","Steven W. Rick and J.D. Doll (Department of Chemistry, Brown
+  University, Providence, RI)","Vibrational States of the Hydrogen Isotopes on Pd(111)","Surface Science Letters, 302, L305 (1994)",,"10.1016/0039-6028(94)90826-5",,"chem-ph physics.chem-ph",,"  The ground and excited vibrational states for the three hydrogen isotopes on
+the Pd(111) surface have been calculated. Notable features of these states are
+the high degree of anharmonicity, which is most prominently seen in the weak
+isotopic dependence of the parallel vibrational transition, and the narrow
+bandwidths of these states, which imply that atomic hydrogen is localized on a
+particular surface site on time scales of 100 picoseconds or more. Experiments
+to resolve ambiguities concerning the present system are suggested.
+","[{""version"":""v1"",""created"":""Wed, 16 Mar 1994 16:42:45 GMT""}]","2009-10-22"
+"cond-mat/9403062","Daniel Olguin","D. Olguin and R. Baquero","On the Origin of the -4.4 eV Band in CdTe(100)""","17 pages, Rev-TEX, CIEA-Phys. 02/94",,"10.1103/PhysRevB.50.1980",,"cond-mat",,"  We calculate the bulk- (infinite system), (100)-bulk-projected- and
+(100)-Surface-projected Green's functions using the Surface Green's Function
+Matching method (SGFM) and an empirical tight-binding hamiltonian with
+tight-binding parameters (TBP) that describe well the bulk band structure of
+CdTe. In particular, we analyze the band (B--4) arising at --4.4 eV from the
+top of the valence band at $\Gamma$ according to the results of Niles and
+H\""ochst and at -4.6 eV according to Gawlik {\it et al.} both obtained by
+Angle-resolved photoelectron spectroscopy (ARPES). We give the first
+theoretical description of this band.
+","[{""version"":""v1"",""created"":""Wed, 16 Mar 1994 21:29:35 GMT""}]","2009-10-22"
+"cond-mat/9403063","Tin-Lun Ho","Tin-Lun Ho","Quantum Hall Ferromagnets","4 pages, Revtex, Ohio State University",,"10.1103/PhysRevLett.73.874",,"cond-mat",,"  It is pointed out recently that the $\nu=1/m$ quantum Hall states in bilayer
+systems behave like easy plane quantum ferromagnets. We study the
+magnetotransport of these systems using their ``ferromagnetic"" properties and a
+novel spin-charge relation of their excitations. The general transport is a
+combination of the ususal Hall transport and a time dependent transport with
+$quantized$ time average. The latter is due to a phase slippage process in
+$spacetime$ and is characterized by two topological constants. (Figures will be
+provided upon requests).
+","[{""version"":""v1"",""created"":""Wed, 16 Mar 1994 22:02:18 GMT""}]","2009-10-22"
+"cond-mat/9403064","Tin-Lun Ho","Tin-Lun Ho","Oscillatory Tunneling between Quantum Hall Systems","20 pages, OSU",,"10.1103/PhysRevB.50.4524",,"cond-mat",,"  Electron tunneling between quantum Hall systems on the same two dimensional
+plane separated by a narrow barrier is studied. We show that in the limit where
+inelastic scattering time is much longer than the tunneling time, which can be
+achieved in practice, electrons can tunnel back and forth through the barrier
+continously, leading to an oscillating current in the absence of external
+drives. The oscillatory behavior is dictated by a tunneling gap in the energy
+spectrum. We shall discuss ways to generate oscillating currents and the
+phenomenon of natural ``dephasing"" between the tunneling currents of edge
+states. The noise spectra of these junctions are also studied. They contain
+singularites reflecting the existence of tunneling gaps as well as the inherent
+oscillation in the system. (Figures will be given upon requests).
+","[{""version"":""v1"",""created"":""Wed, 16 Mar 1994 22:15:02 GMT""}]","2009-10-22"
+"cond-mat/9403065","Johannes Kellendonk","Johannes Kellendonk","Non Commutative Geometry of Tilings and Gap Labelling","45 pages, 3 figures (few corrections in section 4)",,"10.1142/S0129055X95000426","KCL-TH-94-1","cond-mat.stat-mech hep-th math.OA",,"  To a given tiling a non commutative space and the corresponding C*-algebra
+are constructed. This includes the definition of a topology on the groupoid
+induced by translations of the tiling. The algebra is also the algebra of
+observables for discrete models of one or many particle systems on the tiling
+or its periodic identification. Its scaled ordered K_0-group furnishes the gap
+labelling of Schroedinger operators. The group is computed for one dimensional
+tilings and Cartesian products thereof. Its image under a state is investigated
+for tilings which are invariant under a substitution. Part of this image is
+given by an invariant measure on the hull of the tiling which is determined.
+The results from the Cartesian products of one dimensional tilings point out
+that the gap labelling by means of the values of the integrated density of
+states is already fully determined by this measure.
+","[{""version"":""v1"",""created"":""Thu, 17 Mar 1994 10:41:34 GMT""},{""version"":""v2"",""created"":""Fri, 22 Apr 1994 00:01:04 GMT""}]","2016-08-31"
+"cond-mat/9403066","Fabian Essler","Vladimir E. Korepin, Anatoli G. Izergin, Fabian H.L. Essler and Denis
+  B. Uglov","Correlation Function of the Spin-1/2 XXX Antiferromagnet","6 pages, LaTeX, ITP-SB-94-05, BONN-HE-94-06","Phys.Lett. A190 (1994) 182-184","10.1016/0375-9601(94)90074-4",,"cond-mat hep-th",,"  We consider a special correlation function in the isotropic spin-$\half$
+Heisenberg antiferromagnet. It is the probability of finding a ferromagnetic
+string of (adjacent) spins in the antiferromagnetic ground state. We give two
+different representations for this correlation function. Both of them are exact
+at any distance, but one becomes more effective for the description of long
+distance behaviour, the other for the description of short distance behaviour.
+","[{""version"":""v1"",""created"":""Thu, 17 Mar 1994 15:30:54 GMT""}]","2009-10-22"
+"gr-qc/9403031",,"M. Gasperini and G. Veneziano","Dilaton Production in String Cosmology","49 pages, plain tex, 2 figures (available on request),
+  CERN-TH.7178/94","Phys.Rev. D50 (1994) 2519-2540","10.1103/PhysRevD.50.2519",,"gr-qc astro-ph hep-th",,"  We consider the coupled evolution of density, (scalar) metric and dilaton
+perturbations in the transition from a ``stringy"" phase of growing curvature
+and gravitational coupling to the standard radiation-dominated cosmology. We
+show that dilaton production, with a spectrum tilted towards large frequencies,
+emerges as a general property of this scenario. We discuss the
+frame-independence of the dilaton spectrum and of the inflationary properties
+of the metric background by using, as model of source, a pressureless gas of
+weakly interacting strings, which is shown to provide an approximate but
+consistent solution to the full system of background equations and string
+equations of motion. We combine various cosmological bounds on a growing
+dilaton spectrum with the bound on the dilaton mass obtained from tests of the
+equivalence principle, and we find allowed windows compatible with a universe
+presently dominated by a relic background of dilatonic dark matter.
+","[{""version"":""v1"",""created"":""Wed, 16 Mar 1994 17:19:43 GMT""}]","2016-08-31"
+"hep-ph/9403299","Stevenson","M. Consoli and P.M. Stevenson","Triviality"" and the Perturbative Expansion in $\lambda\Phi^4$ Theory","10 pages, LaTeX, no figures, DE-FG05-92ER40717-13, MAD/TH/94-4",,,,"hep-ph",,"  The ""triviality"" of $(\lambda\Phi^4)_4$ quantum field theory means that the
+renormalized coupling $\lambda_R$ vanishes for infinite cutoff. That result
+inherently conflicts with the usual perturbative approach, which begins by
+postulating a non-zero, cutoff-independent $\lambda_R$. We show how a ""trivial""
+solution $\lambda_R=0$ can be compatible with the known structure of
+perturbation theory to arbitrarily high orders, by a simple re-arrangement of
+the expansion. The ""trivial"" solution reproduces the result obtained by
+non-perturbative renormalization of the effective potential. The physical mass
+is finite, while the renormalized coupling strength vanishes: the two are NOT
+proportional. The classically scale-invariant $\lambda \Phi^4$ theory coupled
+to the Standard Model predicts a 2.2 TeV Higgs, but does NOT imply strong
+interactions in the scalar sector.
+","[{""version"":""v1"",""created"":""Wed, 16 Mar 1994 22:38:00 GMT""}]","2007-05-23"
+"hep-ph/9403300",,"Zheng Huang, Mahiko Suzuki and Xin-Nian Wang","Signals of Disoriented Chiral Condensate","13 pages in LaTeX, UCB-PTH-94/05, LBL-35337","Phys.Rev. D50 (1994) 2277-2281","10.1103/PhysRevD.50.2277",,"hep-ph nucl-th",,"  If a disoriented chiral condensate is created over an extended space-time
+region following a rapid cooling in hadronic or nuclear collisions, the
+misalignment of the condensate with the electroweak symmetry breaking can
+generate observable effects in the processes which involve both strong and
+electromagnetic interactions. We point out the relevance of the dilepton decay
+of light vector mesons as a signal for formation of the disoriented condensate.
+We predict that the decay \rho^0 to dileptons will be suppressed and/or the
+\rho resonance peak widens, while the decay \omega to dileptons will not be
+affected by the condensate.
+","[{""version"":""v1"",""created"":""Wed, 16 Mar 1994 23:15:36 GMT""}]","2009-10-28"
+"hep-ph/9403301","Anton Kraemmer-Rebhan","U. Kraemmer, A.K.Rebhan, and H. Schulz","Resummations in Hot Scalar Electrodynamics","53 p. LaTeX, 7 figs. (2 in LaTeX, 5 EPS appended as uu-encoded file),
+  ITP-UH-01/94 & DESY 94-034","Ann.Phys.238:286-331,1995","10.1006/aphy.1995.1023",,"hep-ph hep-th",,"  The gauge-boson sector of perturbative scalar electrodynamics is investigated
+in detail as a testing ground for resummation methods in hot gauge theories. It
+also serves as a simple non-trivial reference system for the non-Abelian gluon
+plasma. The complete next-to-leading order contributions to the polarization
+tensor are obtained within the resummation scheme of Braaten and Pisarski. The
+simpler scheme proposed recently by Arnold and Espinosa is shown to apply to
+static quantities only, whereas Braaten-Pisarski resummation turns out to need
+modification for collective phenomena close to the light-cone. Finally, a
+recently proposed resummation of quasi-particle damping contributions is
+assessed critically.
+","[{""version"":""v1"",""created"":""Thu, 17 Mar 1994 14:52:10 GMT""}]","2010-11-01"
+"hep-th/9403089",,"Fumihiko Sugino and Osamu Tsuchiya","Critical behavior in $c=1$ matrix model with branching interactions","11pages. latex (The arguments in Discussions are corrected and more
+  clarified! Several grammatical errors are corrected. And some preprints in
+  references are replaced with the published versions.)","Mod.Phys.Lett. A9 (1994) 3149-3162","10.1142/S0217732394002975",,"hep-th",,"  Motivated by understanding the phase structure of $d >1$ strings we
+investigate the $c=1$ matrix model with $g' (\tr M(t)^{2})^{2}$ interaction
+which is the simplest approximation of the model expected to describe the
+critical phenomena of the large-$N$ reduced model of odd-dimensional matrix
+field theory. We find three distinct phases: (i) an ordinary $c=1$ gravity
+phase, (ii) a branched polymer phase and (iii) an intermediate phase. Further
+we can also analyse the one with slightly generalized $ g^{(2)} (\frac{1}{N}\tr
+M(t)^{2})^{2} +g^{(3)} (\frac{1}{N}\tr M(t)^{2})^{3} + \cdots + g^{(n)}
+(\frac{1}{N}\tr M(t)^{2})^{n} $ interaction. As a result the multi-critical
+versions of the phase (ii) are found.
+","[{""version"":""v1"",""created"":""Wed, 16 Mar 1994 21:56:39 GMT""},{""version"":""v2"",""created"":""Fri, 25 Mar 1994 19:57:55 GMT""},{""version"":""v3"",""created"":""Fri, 22 Apr 1994 20:40:13 GMT""}]","2009-10-28"
+"hep-th/9403091","Samuel Anderegg","S. Anderegg and V. Mukhanov","Path Integral Quantization of Cosmological Perturbations","16 pages, ETH-TH/94-09","Phys.Lett. B331 (1994) 30-38","10.1016/0370-2693(94)90939-3",,"hep-th",,"  We derive the first order canonical formulation of cosmological perturbation
+theory in a Universe filled by a few scalar fields. This theory is quantized
+via well-defined Hamiltonian path integral. The propagator which describes the
+evolution of the initial (for instance, vacuum) state, is calculated.
+","[{""version"":""v1"",""created"":""Wed, 16 Mar 1994 16:01:12 GMT""}]","2009-10-28"
+"hep-th/9403092","Jose Gaite","Jose Gaite","Unitarity of The Realization of Conformal Symmetry in The Quantum Hall
+  Effect","17 pages, LaTeX, section added on unitarity of Chern-Simons theory
+  and anomalies, general improvement","Int.J.Mod.Phys.A11:2065-2080,1996","10.1142/S0217751X96001048","UVA-94-09","hep-th cond-mat",,"  We study the realization of conformal symmetry in the QHE as part of the
+$W_\infty$ algebra. Conformal symmetry can be realized already at the classical
+level and implies the complexification of coordinate space. Its quantum version
+is not unitary. Nevertheless, it can be rendered unitary by a suitable
+modification of its definition which amounts to taking proper care of the
+quantum measure. The consequences of unitarity for the Chern-Simons theory of
+the QHE are also studied, showing the connection of non-unitarity with
+anomalies. Finally, we discuss the geometrical paradox of realizing conformal
+transformations as area preserving diffeomorphisms.
+","[{""version"":""v1"",""created"":""Wed, 16 Mar 1994 21:11:32 GMT""},{""version"":""v2"",""created"":""Fri, 7 Apr 1995 18:11:37 GMT""}]","2008-11-26"
+"hep-th/9403093","Michael Schlieker","M. Schlieker and Bruno Zumino","Braided Hopf Algebras and Differential Calculus","8 pages","Lett.Math.Phys. 33 (1995) 33-38","10.1007/BF00750809","LBL-35299, UCB-PTH-94/03","hep-th math.QA",,"  We show that the algebra of the bicovariant differential calculus on a
+quantum group can be understood as a projection of the cross product between a
+braided Hopf algebra and the quantum double of the quantum group. The resulting
+super-Hopf algebra can be reproduced by extending the exterior derivative to
+tensor products.
+","[{""version"":""v1"",""created"":""Wed, 16 Mar 1994 21:35:51 GMT""}]","2009-10-28"
+"hep-th/9403094","Rinat Kedem","Omar Foda, K. Iohara, M. Jimbo, R. Kedem, T. Miwa and H. Yan","An elliptic quantum algebra for $\widehat{sl}_2$","(Final version for publication.)","Lett.Math.Phys. 32 (1994) 259-268","10.1007/BF00750668",,"hep-th math.QA",,"  An elliptic deformation of $\widehat{sl}_2$ is proposed. Our presentation of
+the algebra is based on the relation $RLL=LLR^*$, where $R$ and $R^*$ are
+eight-vertex $R$-matrices with the elliptic moduli chosen differently. In the
+trigonometric limit, this algebra reduces to a quotient of that proposed by
+Reshetikhin and Semenov-Tian-Shansky. Conjectures concerning highest weight
+modules and vertex operators are formulated, and the physical interpretation of
+$R^*$ is discussed.
+","[{""version"":""v1"",""created"":""Thu, 17 Mar 1994 06:09:45 GMT""},{""version"":""v2"",""created"":""Sat, 19 Mar 1994 06:51:56 GMT""},{""version"":""v3"",""created"":""Thu, 12 May 1994 11:43:28 GMT""}]","2009-10-28"
+"hep-th/9403095","Yelkhovsky A. S.","A.S. Yelkhovsky","Recoil Correction in the Dirac-Coulomb Problem","7 pages, LaTeX, BudkerINP-94-27",,,,"hep-th hep-ph",,"  The expression for the first recoil correction to the Dirac-Coulomb spectrum
+is obtained employing the gauge invariance.
+","[{""version"":""v1"",""created"":""Thu, 17 Mar 1994 08:48:52 GMT""},{""version"":""v2"",""created"":""Mon, 21 Mar 1994 02:25:01 GMT""}]","2008-02-03"
+"hep-th/9403096","Stefan Theisen","S. Hosono, A. Klemm and S. Theisen","Lectures on Mirror Symmetry","LMU-TPW-94-02, 45 pages, harvmac",,"10.1007/3-540-58453-6_13",,"hep-th",,"  We give an introduction to mirror symmetry of strings on Calabi-Yau manifolds
+with an emphasis on its applications e.g. for the computation of Yukawa
+couplings. We introduce all necessary concepts and tools such as the basics of
+toric geometry, resolution of singularities, construction of mirror pairs,
+Picard-Fuchs equations, etc. and illustrate all of this on a non-trivial
+example. Extended version of a lecture given at the Third Baltic Student
+Seminar, Helsinki September 1993
+","[{""version"":""v1"",""created"":""Thu, 17 Mar 1994 13:00:28 GMT""}]","2009-10-28"
+"hep-th/9403097",,"O. A. Soloviev","The Gauged WZNW Model Perturbed by the Sigma Model Term","LaTex file, 7 pages, Preprint QMW 94-6. One important reference added",,,,"hep-th",,"  We discuss special perturbations of the gauged level $k$ WZNW model inspired
+by the $\sigma$-model perturbation of the nonunitary WZNW model. In the large
+$k$ limit there is a second conformal point in the vicinity of the ultarviolet
+fixed point. At the second critical point the conformal model has a rational
+Virasoro central charge which no longer corresponds to a coset construction. In
+spite of this fact the perturbative conformal model appears to be a unitary
+system as long as the underlying coset construction at the ultraviolet critical
+point is unitary.
+","[{""version"":""v1"",""created"":""Thu, 17 Mar 1994 12:33:25 GMT""},{""version"":""v2"",""created"":""Mon, 21 Mar 1994 10:05:30 GMT""}]","2008-02-03"
+"hep-th/9403098",,"Naohito Nakazawa and Eisaku Sakane","Large Improved Wick Rotation Prescription in Stochastic Quantization of
+  Dissipative Systems",,,,,"hep-th",,"  We apply Stochastic Quantization Method to dissipative systems at finite
+temperature. Especially, the relation of SQM to the Caldeira-Leggett model is
+clarified ensuring that the naive Wick rotation is improved in this context. We
+show that the Langevin system obtained by the \lq\lq Improved Wick Rotation ""
+prescription is equivalent to an ideal friction case ( low temperature limit)
+in the C-L model. We derive, based on our approach, a general formula on the
+fluctuation-dissipation theorem for higher derivative frictions.
+","[{""version"":""v1"",""created"":""Thu, 17 Mar 1994 12:48:51 GMT""}]","2007-05-23"
+"hep-th/9403099","Vladimir Kazakov","V.A.Fateev, V.A.Kazakov and P.B.Wiegmann","Principal Chiral Field at Large N","19 pages, preprint ENS-94/07, LATEX","Nucl.Phys. B424 (1994) 505-520","10.1016/0550-3213(94)90405-7",,"hep-th",,"  We present the exact and explicit solution of the principal chiral field in
+two dimensions for an infinitely large rank group manifold. The energy of the
+ground state is explicitly found for the external Noether's fields of an
+arbitrary magnitude. The exact Gell-Mann - Low function exhibits the asymptotic
+freedom behaviour at large value of the field in agreement with perturbative
+calculations. Coefficients of the perturbative expansion in the renormalized
+charge are calculated. They grow factorially with the order showing the
+presence of renormalons. At small field we found an inverse logarithmic
+singularity in the ground state energy at the mass gap which indicates that at
+$N=\infty$ the spectrum of the theory contains extended objects rather then
+pointlike particles.
+","[{""version"":""v1"",""created"":""Thu, 17 Mar 1994 13:58:00 GMT""}]","2009-10-28"
+"hep-th/9403100","Andreas Hueffmann","A. H\""uffmann","On representations of super coalgebras","18 pages, LaTeX, KCL-TH-94-3","J.Phys. A27 (1994) 6421-6432","10.1088/0305-4470/27/19/015",,"hep-th",,"  The general structure of the representation theory of a $Z_2$-graded
+coalgebra is discussed. The result contains the structure of Fourier analysis
+on compact supergroups and quantisations thereof as a special case. The general
+linear supergroups serve as an explicit illustration and the simplest example
+is carried out in detail.
+","[{""version"":""v1"",""created"":""Thu, 17 Mar 1994 14:08:02 GMT""}]","2009-10-28"
+"nucl-th/9403012","Hsien-Chih Jean","H.-C. Jean, G. L. Payne, and W. N. Polyzou","The Balian-Br\'ezin Method in Relativistic Quantum Mechanics","14 pages in LaTeX",,"10.1007/BF01077694",,"nucl-th hep-ph",,"  The method suggested by Balian and Br\'ezin for treating angular momentum
+reduction in the Faddeev equations is shown to be applicable to the
+relativistic three-body problem.
+","[{""version"":""v1"",""created"":""Wed, 16 Mar 1994 18:52:53 GMT""}]","2009-10-28"
+"nucl-th/9403013",,"V. Bernard, N. Kaiser, Ulf-G. Mei{\ss}ner and A. Schmidt","Threshold Two-Pion Photo- and Electroproduction: More neutrals than
+  expected","23pp, plain TeX, 11 figures available upon request, CRN 94/14","Nucl.Phys. A580 (1994) 475-499","10.1016/0375-9474(94)90910-5",,"nucl-th hep-ph",,"  We present an exploratory study of two pion photo-- and electroproduction off
+the nucleon in the threshold region. To calculate the pertinent amplitudes, we
+make use of heavy baryon chiral perturbation theory. We show that due to finite
+chiral loops the production cross section for final states with two neutral
+pions is considerably enhanced. The experimental implications are briefly
+discussed.
+","[{""version"":""v1"",""created"":""Thu, 17 Mar 1994 13:13:40 GMT""}]","2009-10-28"

@@ -1,0 +1,278 @@
+"alg-geom/9402009","Eduardo Cattani","Eduardo Cattani, Pierre Deligne, and Aroldo Kaplan","On the Locus of Hodge Classes","25 pages, Plain TeX",,,,"alg-geom math.AG",,"  Let $f: X \rightarrow S$ be a family of non singular projective varieties
+parametrized by a complex algebraic variety $S$. Fix $s \in S$, an integer $p$,
+and a class $h \in {\rm H}^{2p}(X_s,\Z)$ of Hodge type $(p,p)$. We show that
+the locus, on $S$, where $h$ remains of type $(p,p)$ is algebraic. This result,
+which in the geometric case would follow from the rational Hodge conjecture, is
+obtained in the setting of variations of Hodge structures.
+","[{""version"":""v1"",""created"":""Thu, 10 Feb 1994 22:00:53 GMT""}]","2008-02-03"
+"astro-ph/9402028","Scott Dodelson","Scott Dodelson, Geza Gyuk, and Michael S. Turner","Is a Massive Tau Neutrino Just What Cold Dark Matter Needs?","9 pages LaTeX plus 4 figures (available upon request)
+  FERMILAB--Pub--94/026-A","Phys.Rev.Lett. 72 (1994) 3754-3757","10.1103/PhysRevLett.72.3754",,"astro-ph",,"  The cold dark matter (CDM) scenario for structure formation in the Universe
+is very attractive and has many successes; however, when its spectrum of
+density perturbations is normalized to the COBE anisotropy measurement the
+level of inhomogeneity predicted on small scales is too large. This can be
+remedied by a tau neutrino of mass $1\MeV - 10\MeV$ and lifetime $0.1\sec -
+100\sec$ whose decay products include electron neutrinos because it allows the
+total energy density in relativistic particles to be doubled without
+interfering with nucleosynthesis. The anisotropies predicted on the degree
+scale for ``$\tau$CDM'' are larger than standard CDM. Experiments at $e^\pm$
+colliders may be able to probe such a mass range.
+","[{""version"":""v1"",""created"":""Fri, 11 Feb 1994 05:21:17 GMT""}]","2009-10-22"
+"astro-ph/9402029",,"Alain Bouquet, Jean Kaplan and Jean-Manuel Verschaeve","Microlensing by brown dwarfs: the case of dark clusters","9 pages LaTeX,PAR-LPTHE 93-03",,,,"astro-ph",,"  Experiments are looking for diffuse brown dwarfs in the dark galactic halo
+through the gravitational lens effect. If brown dwarfs are clumped in dark
+clusters, the event rate is not changed, but events are spatially clustered,
+and stars nearby a micro-lensed one are likely to be micro-lensed in a near
+future. Therefore, an intensive survey of the region where a micro-lensing
+occurred should reveal many other events.
+","[{""version"":""v1"",""created"":""Fri, 11 Feb 1994 12:38:42 GMT""}]","2007-05-23"
+"astro-ph/9402030","Paolo Marziani","P. Marziani, W. C. Keel, D. Dultzin--Hacyan, and J. W. Sulentic","Multiple High-Velocity Emission-Line Systems in the E+S Pair CPG 29","40 pp. + 9 figures available upon request, AASTeX, no preprint number",,"10.1086/174844",,"astro-ph",,"  A detailed study of the mixed-morphology galaxy pair CPG 29 (Arp 119, VV 347)
+shows spectacular spectroscopic peculiarities in the southern (spiral)
+component (Mkn 984) including a spatially resolved region, roughly aligned
+along the minor axis of the galaxy, with multiple emission-line components
+redshifted by as much as 1300 km s$^{-1}$ with respect to the LINER nucleus.
+Strong [OI]\l6300 and [SII]\l\l6716,6731 emission suggest shock ionization. The
+rest of the galaxy's disk is spectroscopically undistinguished, with emission
+lines characteristic of disk H II regions and, in large part, ordered rotation.
+We discuss the following four possible explanations for the morphological and
+spectroscopic peculiarities in the spiral: (1) a super--wind scenario,
+supported by the high FIR luminosity of the spiral, and by emission line
+activity similar to that observed in FIR strong galaxies; (2) motion of the
+spiral through a hot, relatively dense intergalactic medium, possibly
+associated with the elliptical, that could affect the star formation rate and
+create a brightened disk rim; (3) a faint companion in direct collision with
+the disk, at $\Delta v_r \sim 1000$ \kms, that would straightforwardly explain
+the existence of the different redshift systems; (4) a pole on collision by the
+elliptical, that could produce the disturbed morphology and other properties of
+the spiral. The elliptical/spiral pole--on collision explains the high velocity
+line emitting regions as tidally stripped gas, and accounts for the presence of
+gas ionized by moterate velocity shocks. The morphology of Mrk 984 is
+consistent
+","[{""version"":""v1"",""created"":""Fri, 11 Feb 1994 04:07:30 GMT""},{""version"":""v2"",""created"":""Tue, 10 May 1994 05:57:28 GMT""}]","2009-10-22"
+"cond-mat/9402049","Peter Rehberg","Werner Kerler and Peter Rehberg","Simulated-tempering approach to spin-glass simulations","12 pages (LaTeX), 4 postscript figures, uufiles encoded, submitted to
+  Physical Review B",,"10.1103/PhysRevE.50.4220",,"cond-mat hep-lat",,"  After developing an appropriate iteration procedure for the determination of
+the parameters, the method of simulated tempering has been successfully applied
+to the 2D Ising spin glass. The reduction of the slowing down is comparable to
+that of the multicanonical algorithm. Simulated tempering has, however, the
+advantages to allow full vectorization of the programs and to provide the
+canonical ensemble directly.
+","[{""version"":""v1"",""created"":""Thu, 10 Feb 1994 17:31:08 GMT""}]","2009-10-22"
+"cond-mat/9402050","Gen Tatara","Gen Tatara and Hidetoshi Fukuyama","Macroscopic Quantum Tunneling of a Domain Wall in a Ferromagnetic Metal","41 pages, 8 figures on request, REVTEX, Detailed version of Phys.
+  Rev. Lett. 72, 772 (1994)",,"10.1016/0921-4526(94)90456-1",,"cond-mat",,"  The macroscopic quantum tunneling of a planar domain wall in a ferromagnetic
+metal is studied by use of an instanton method. Based on the Hubbard model, the
+effective action of the magnetization is derived within the assumption of slow
+dependences on space and time. The resulting action is formally similar to that
+of a ferromagnetic Heisenberg model but with a term non-local in time that
+describes the dissipation due to the itinerant electron. The crucial difference
+from the case of the insulator is the presence of the ohmic dissipation even at
+zero temperature due to the gapless Stoner excitation. The reduction of the
+tunneling rate due to the dissipation is calculated. The dissipative effect is
+found to be very large for a thin domain wall with thickness of a few times the
+lattice spacing, but is negligible for a thick domain wall. The results are
+discussed in the light of recent experiments on ferromagnets with strong
+anisotropy. (Submitted to J. Phys. Soc. Jpn)
+","[{""version"":""v1"",""created"":""Fri, 11 Feb 1994 06:31:22 GMT""}]","2009-10-22"
+"cond-mat/9402051",,"Elbio Dagotto, Alexander Nazarenko and Massimo Boninsegni","Flat quasiparticle dispersion and a hidden small energy scale in the 2D
+  t-J model","13 pages + 4 figures (figures are available on request), REVTEX",,,,"cond-mat",,"  A model of weakly interacting hole quasiparticles is proposed to describe the
+normal state of the high temperature superconductors. The effect of strong
+correlations is contained in the dispersion relation of the holes, which is
+obtained accurately using a numerical technique and the t-J model on $12\times
+12$ clusters. Saddle-points generated by many-body effects induce quasiparticle
+$flat$ bands similar to those observed in recent angle-resolved photoemission
+experiments. The near degeneracy between momentum states along the ${\rm X-Y}$
+direction is a hidden small energy scale in the problem, which produces a
+strongly temperature dependent Hall coefficient, as well as a large Fermi
+surface similar to those observed in the cuprates.
+","[{""version"":""v1"",""created"":""Fri, 11 Feb 1994 07:41:49 GMT""}]","2007-05-23"
+"cond-mat/9402052","Jordi Garcia Ojalvo","J. Garcia-Ojalvo, J.M. Sancho and H. Guo","Dynamic Renormalization Group Study of the $\phi^4$ Model with Colored
+  Noise","16 pages (REVTEX 3.0), 6 PostScript figures included via epsf
+  (available upon request to jmsancho@ebubecm1.bitnet)",,,,"cond-mat",,"  The non-conserved $\phi^4$ model defined by a Langevin equation with external
+non-white noise is studied by means of the Dynamic Renormalization Group. The
+correlation time of the noise changes the critical point location but does not
+affect the critical exponents up to order $\varepsilon^2$. The same effect is
+obtained when the correlation length of the noise is considered. These results
+are shown to be in agreement with previous numerical simulations.
+","[{""version"":""v1"",""created"":""Fri, 11 Feb 1994 10:10:45 GMT""}]","2007-05-23"
+"gr-qc/9402024",,"Edward Malec (Physics Department, UCC, Cork, Ireland and Institute of
+  Physics, UJ 30-059 Cracow, Reymonta)","Event horizons and apparent horizons in spherically symmetric geometries","4, Poland July 1993, 24 pages, latex","Phys.Rev.D49:6475-6483,1994","10.1103/PhysRevD.49.6475",,"gr-qc",,"  Spherical configurations that are very massive must be surrounded by apparent
+horizons. These in turn, when placed outside a collapsing body, have a fixed
+area and must propagate outward with a velocity equal to the velocity of
+radially outgoing photons. That proves, within the framework of the (1+3)
+formalism and without resorting to the Birkhoff theorem, that apparent horizons
+coincide with event horizons in electrovacuum.
+","[{""version"":""v1"",""created"":""Fri, 11 Feb 1994 11:30:43 GMT""}]","2014-11-17"
+"hep-lat/9402005","Wolfgang Bietenholz","W. Bietenholz","Chiral Symmetry, Renormalization Group and Fixed Points for Lattice
+  Fermions","9 pages , preprint CBPF-NF-073/93, (e-mail: wbthz@cat.cbpf.br)",,,,"hep-lat hep-th",,"  We discuss fixed point actions for various types of free lattice fermions.
+The iterated block spin renormalization group transformation yields lines of
+local but chiral symmetry breaking fixed points. For staggered fermions at
+least the $U(1) \otimes U(1)$ symmetry can be preserved. This provides a basis
+for approximating perfect actions for asymptotically free theories far from the
+critical surface. For a class of lattice fermions that includes Wilson fermions
+we find in addition one non local but chirally invariant fixed point. Its
+vicinity is studied in the framework of the Gross Neveu model with weak four
+Fermi interaction.
+","[{""version"":""v1"",""created"":""Thu, 10 Feb 1994 21:06:40 GMT""}]","2007-05-23"
+"hep-lat/9402006",,"Jacobus Verbaaarschot","Spectrum of the Dirac operator in a QCD instanton liquid: two versus
+  three colors","12 pages and 2 figures (available on request), SUNY-NTG-94/6","Nucl.Phys. B427 (1994) 534-544","10.1016/0550-3213(94)90638-6",,"hep-lat",,"  Approximating the sum over all gauge field configurations in the QCD
+partition function by a liquid of instantons, we calculate the spectrum of the
+Dirac operator for two and three colors and for 0, 1 and 2 flavors. We find a
+remarkable difference in the spectrum near zero virtuality between 2 and 3
+colors, which can be explained in terms of chiral random matrix theory. For two
+colors the Dirac operator is real, and the appropriate random matrix ensemble
+has real matrix elements. For three colors the Dirac operator is complex, and
+the spectrum can be described by a random matrix ensemble with complex matrix
+elements. These results provide further evidence that the spectrum near zero
+virtuality is universal and is completely determined by symmetries.
+","[{""version"":""v1"",""created"":""Fri, 11 Feb 1994 14:33:53 GMT""}]","2009-10-22"
+"hep-lat/9402007",,"J. M. Aroca and H. Fort","Loop Action for Lattice U(1) Gauge Theory",,"Phys.Lett. B325 (1994) 166-170","10.1016/0370-2693(94)90088-4",,"hep-lat",,"  It is showed that the very recently introduced Lagrangian $loop$ formulation
+of the lattice Maxwell theory is equivalent to the Villain form in 2+1
+dimensions. A transparent description of the classical $loop$ action is given
+in pure geometrical terms for the $2+1$ and $3+1$ dimensional cases.
+","[{""version"":""v1"",""created"":""Fri, 11 Feb 1994 15:08:57 GMT""}]","2009-10-22"
+"hep-ph/9402268","J. Gunion","J.F. Gunion and H. Pois","Exploring the Yukawa Unified Minimal Supergravity Model at the Tevatron,
+  LEP-II, and the LHC","12 pages, requires phyzzx.tex, full postscript file including
+  embedded figures available via anonymous ftp at ucdhep.ucdavis.edu as
+  [anonymous.gunion]noscale.ps, preprint UCD-94-1","Phys.Lett. B329 (1994) 136-142","10.1016/0370-2693(94)90529-0",,"hep-ph",,"  We explore the prospects for detection of sparticles and Higgs bosons at the
+Tevatron, LEP-200 and the LHC in the allowed parameter space of a `yukawa
+unified' ($\lambda_b(M_U)=\lambda_{\tau}(M_U)$) minimal supergravity (YUMS)
+model, where the only non-zero unification scale soft-SUSY-breaking terms are a
+universal gaugino mass and a Higgs mixing term. In a bottom-up approach, just
+two weak scale parameters, $\tanb$ and $\mha$, (along with the sign of the
+Higgs mixing parameter $\mu$) completely parameterize the model. Many
+interesting `special' situations regarding sparticle and Higgs discovery arise,
+such as the importance of the invisible $\hl\rta\cnone\cnone,\snu\snubar$ decay
+modes.
+","[{""version"":""v1"",""created"":""Fri, 11 Feb 1994 03:13:15 GMT""}]","2009-10-28"
+"hep-ph/9402269",,"Hitoshi Yamamoto","B Decays - Measurements and Predictions","37 pages",,,,"hep-ph",,"  Hadronic decays of $B$ mesons are reviewed. First, masses of $B$ mesons and
+observed patterns together with physics behind them are discussed. Then the
+effective Hamiltonian responsible for major decays is presented and its
+practical applications are discussed in the context of factorization. Various
+tests of factorization are then studied. For rare decays, the focus is placed
+on $K\pi$, $\pi\pi$ final state and the penguin-mediated $X_s\gamma$. In
+general, the measurements are in excellent agreement with predictions of the
+standard model.
+","[{""version"":""v1"",""created"":""Fri, 11 Feb 1994 02:52:41 GMT""}]","2007-05-23"
+"hep-ph/9402270","Vladimir Braun","V.M. Braun and I. Halperin","Soft contribution to the pion form factor from light-cone QCD sum rules","LATEX, 11 pages, 3 figures appended as uu-encoded file, MPI-PhT/94-8","Phys.Lett. B328 (1994) 457-465","10.1016/0370-2693(94)91505-9",,"hep-ph",,"  We propose a simple method to calculate the pion form factor at not very
+large momentum transfers, which combines the technique of the QCD sum rules
+with the description of the pion in terms of the set of wave functions of
+increasing twist. This approach allows one to calculate the soft (end point)
+contribution to the form factor in a largely model-independent way. Our results
+confirm existing expectations that the soft contribution remains important at
+least up to the momentum transfers of order 10 GeV$^2$, and suggest that it
+comes from the region of relatively small transverse separations of order 1
+GeV$^{-1}$.
+","[{""version"":""v1"",""created"":""Fri, 11 Feb 1994 10:26:27 GMT""},{""version"":""v2"",""created"":""Sat, 26 Feb 1994 01:19:15 GMT""},{""version"":""v3"",""created"":""Fri, 18 Mar 1994 16:09:04 GMT""}]","2009-10-28"
+"hep-ph/9402271","Roger Phillips","R.J.N. Phillips","Solar Neutrino Oscillations","8 pages, 9 figures (not included), RAL-94-017",,,,"hep-ph",,"  Invited review talk at the International Conference on Non-Accelerator
+Particle Physics (ICNAPP-94), Bangalore, India, 2-9 January 1994. Latex file.
+","[{""version"":""v1"",""created"":""Fri, 11 Feb 1994 13:02:00 GMT""}]","2009-09-25"
+"hep-ph/9402272","Michael Bergmann","N. G. Stefanis and M. Bergmann","On Proton and Delta Wave Functions","8 pages, RUB-TPII-46/93",,,,"hep-ph",,"  Physical wave functions for the nucleon and the $\Delta^{+}$ isobar are
+presented, which unify the best features of previous models. With these wave
+functions we can calculate elastic form factors and the decays of the
+charmonium levels ${}^{3}S_{1}$, ${}^{3}P_{1}$, ${}^{3}P_{2}$ into $p\bar p$ in
+agreement with the data. A striking scaling behavior between
+$R=|G_{\text{M}}^{\text{n}}|/G_{\text{M}}^{\text{p}}$ and the coefficient
+$B_{4}$ of the Appell polynomial decomposition of the nucleon distribution
+amplitude is found; the implications for elastic nucleon cross sections are
+discussed.
+","[{""version"":""v1"",""created"":""Fri, 11 Feb 1994 13:44:24 GMT""}]","2007-05-23"
+"hep-ph/9402273","Ioannis Vergados","G. K. Leontaris and J. D. Vergados","Neutrino Properties in a GUT Analysis for Fermion Masses","(Invited talk, Latex file, 11pp, IOA-302/94)",,,,"hep-ph",,"  In practically all extentions of the standard model, the neutrinos naturally
+acquire a mass. The neutrino mass matrix, however, contains many parameters
+which can neither be predicted by the prevailing models nor can be fitted to
+the data. We propose a fermion mass matrix ansatz in the context of Grand
+Unified Supersymmetric Theories (GUTs) at the GUT scale and use the
+renormalization group equations for the gauge and Yukawa couplings to predict
+the 13 arbitrary parameters of the Standard model. The constraints imposed by
+the charged fermion data are used to make predictions in the neutrino sector.
+The neutrino mass matrix is worked out in the case of the flipped SU(5) model
+and the predictions are compared with the available experimental data.
+","[{""version"":""v1"",""created"":""Fri, 11 Feb 1994 13:43:44 GMT""}]","2007-05-23"
+"hep-ph/9402274","Krzywicki","J.P. Blaizot and A. Krzywicki","Dynamics of a Disoriented Chiral Condensate","14 pages Latex, LPTHE Orsay 94/18 , SPhT T94/019","Phys.Rev. D50 (1994) 442-446","10.1103/PhysRevD.50.442",,"hep-ph",,"  We use the linear $\sigma$ model to analyse the dynamics of a disoriented
+chiral condensate. For idealized boundary conditions appropriate to high energy
+collisions, the problem can be reduced to a one dimensional one. The evolution
+of the chiral state is then that of a simple dynamical system and can be
+studied analytically.
+","[{""version"":""v1"",""created"":""Fri, 11 Feb 1994 14:55:07 GMT""}]","2009-10-28"
+"hep-th/9402064","Sergei Krivonos","S.Krivonos and A.Sorin","The $N=2$ Super-$W_3^{(2)}$ Algebra","9 pages, LaTeX",,,,"hep-th",,"  We construct the nonlinear $N=2$ super-$W_3^{(2)}$ algebra with an arbitrary
+central charge at the classical level in the framework of Polyakov ""soldering""
+procedure. It contains two non-intersecting subalgebras: $N=2$ superconformal
+algebra and $W_3^{(2)}$ and their closure gives the $N=2$ super-$W_3^{(2)}$
+algebra. Besides the currents of $N=2$ superconformal and $W_3^{(2)}$ algebras,
+it comprises two pairs of fermionic currents with spins 1 and 2. The hybrid
+field realization and contractions to the zero central charge are constructed.
+","[{""version"":""v1"",""created"":""Thu, 10 Feb 1994 18:59:54 GMT""}]","2007-05-23"
+"hep-th/9402065","Wolfgang Bietenholz","W. Bietenholz, J.J. Giambiagi","Solutions of the Spherically Symmetric Wave Equation in $p+q$ Dimensions","16 pages, preprint CBPF-NF-016/94","J.Math.Phys.36:383-387,1995","10.1063/1.531313",,"hep-th gr-qc",,"  We discuss solutions of the spherically symmetric wave equation and Klein
+Gordon equation in an arbitrary number of spatial and temporal dimensions.
+Starting from a given solution, we present various procedures to generate
+futher solutions in the same or in different dimensions. The transition from
+odd to even or non integer dimensions can be performed by fractional derivation
+or integration. The dimensional shift, however, can also be interpreted simply
+as a modification of the dynamics. We also discuss the analytic continuation to
+arbitrary real powers of the D'Alembert operator. There, particular
+peculiarities in the pole structure show up when $p$ and $q$ are both even.
+Finally we give operators which transform a time into a space coordinate and
+v.v. and comment on their possible relation to black holes. In this context, we
+describe a few aspects of the extension of our discussion to a curved metrics.
+","[{""version"":""v1"",""created"":""Thu, 10 Feb 1994 21:14:33 GMT""}]","2010-11-19"
+"hep-th/9402066",,"A.V.Smilga","Instantons and fermion condensate in adjoint QCD_2","TPI-MINN-94/6-T. 37 p., 3 fig. Fig.3 and discussion around it are
+  rectified. Bibliography updated","Phys.Rev.D49:6836-6848,1994","10.1103/PhysRevD.49.6836",,"hep-th",,"  We show that $QCD_2$ with adjoint fermions involves instantons due to
+nontrivial $\pi_1[SU(N)/Z_N]~=~Z_N$. At high temperatures, quasiclassical
+approximation works and the action and the form of effective (with account of
+quantum corrections) instanton solution can be evaluated. Instanton presents a
+localized configuration with the size $\propto g^{-1}$. At $N=2$, it involves
+exactly 2 zero fermion modes and gives rise to fermion condensate
+$<\bar{\lambda}^a \lambda^a>_T$ which falls off $\propto \exp\{-\pi^{3/2}
+T/g\}$ at high $T$ but remains finite.
+  At low temperatures, both instanton and bosonization arguments also exhibit
+the appearance of fermion condensate $<\bar{\lambda}^a \lambda^a>_{T=0} ~\sim
+~g$. For $N>2$, the situation is paradoxical. There are $2(N-1)$ fermion zero
+modes in the instanton background which implies the absence of the condensate
+in the massless limit. From the other hand, bosonization arguments suggest the
+appearance of the condensate for any $N$. Possible ways to resolve this paradox
+(which occurs also in some 4-dim gauge theories) are discussed.
+","[{""version"":""v1"",""created"":""Thu, 10 Feb 1994 23:30:30 GMT""},{""version"":""v2"",""created"":""Fri, 18 Mar 1994 18:32:39 GMT""}]","2009-09-25"
+"hep-th/9402067","Alexei Vladimirov","A. A. Vladimirov","Coadditive differential complexes on quantum groups and quantum spaces","9 pages","J.Phys. A27 (1994) 4497-4504","10.1088/0305-4470/27/13/023","JINR E2-94-39","hep-th math.QA",,"  A regular way to define an additive coproduct (or ``coaddition'') on the
+q-deformed differential complexes is proposed for quantum groups and quantum
+spaces related to the Hecke-type R-matrices. Several examples of braided
+coadditive differential bialgebras (Hopf algebras) are presented.
+","[{""version"":""v1"",""created"":""Fri, 11 Feb 1994 09:31:06 GMT""}]","2009-10-28"
+"hep-th/9402070","Pavel Pyatov","L. D. Faddeev and P. N. Pyatov","The Differential Calculus on Quantum Linear Groups","14 pages. To be published in F.A.Berezin memorial volume. Few
+  misprints are corrected, several references are added","Am.Math.Soc.Transl. 175 (1996) 35-47",,,"hep-th math.QA",,"  The non-commutative differential calculus on the quantum groups $SL_q(N)$ is
+constructed. The quantum external algebra proposed contains the same number of
+generators as in the classical case. The exterior derivative defined in the
+constructive way obeys the modified version of the Leibnitz rules.
+","[{""version"":""v1"",""created"":""Fri, 11 Feb 1994 13:55:48 GMT""},{""version"":""v2"",""created"":""Mon, 7 Mar 1994 19:38:57 GMT""}]","2008-02-03"
+"math/9402209",,"Alvaro Arias","Nest algebras in $c_1$",,,,"Banach Archive 2/11/94","math.FA",,"  In this paper we address some basic questions of the Banach space structure
+of the nest algebras in the trace class; in particular, we study whether any
+two of them are isomorphic to each other, and show that the nest algebras in
+the trace class have bases. We construct three non-isomorphic examples of nest
+algebras in $c_1$; present a new proof of the primarity of $c_1$ (Arazy, [Ar1],
+[Ar2]), and prove that $K(H)$, and the nest algebras in $B(H)$ are primary.
+","[{""version"":""v1"",""created"":""Fri, 11 Feb 1994 00:00:00 GMT""}]","2009-09-25"
+"nucl-th/9402018","Ekkard Schnedermann","Ekkard Schnedermann and Ulrich Heinz","Hydrodynamical assessment of 200 AGeV collisions","19 pages, 11 figs in separate uuencoded file, for LateX, epsf.tex,
+  dvips, TPR-94-5 and BNL-(no number yet)","Phys.Rev.C50:1675-1683,1994","10.1103/PhysRevC.50.1675",,"nucl-th hep-ph",,"  We are analyzing the hydrodynamics of 200 A GeV S+S collisions using a new
+approach which tries to quantify the uncertainties arising from the specific
+implementation of the hydrodynamical model. Based on a previous
+phenomenological analysis we use the global hydrodynamics model to show that
+the amount of initial flow, or initial energy density, cannot be determined
+from the hadronic momentum spectra. We additionally find that almost always a
+sizeable transverse flow deve- lops, which causes the system to freeze out,
+thereby limiting the flow velocity in itself. This freeze-out dominance in turn
+makes a distinction between a plasma and a hadron resonance gas equation of
+state very difficult, whereas a pure pion gas can easily be ruled out from
+present data. To complete the picture we also analyze particle multiplicity
+data, which suggest that chemical equilibrium is not reached with respect to
+the strange particles. However, the over- population of pions seems to be at
+most moderate, with a pion chemical potential far away from the Bose
+divergence.
+","[{""version"":""v1"",""created"":""Thu, 10 Feb 1994 20:01:37 GMT""}]","2008-11-26"
+"nucl-th/9402019","Joel Parramore","J. Parramore and J. Piekarewicz","On the Lorentz structure of the confinement potential","18 pages using RevTeX 3.0, with 8 figures available upon request,
+  FSU-SCRI-94-15","Nucl.Phys. A585 (1995) 705-726","10.1016/0375-9474(94)00722-Y",,"nucl-th hep-ph",,"  We investigate the Lorentz structure of the confinement potential through a
+study of the meson spectrum using Salpeter's instantaneous approximation to the
+Bethe-Salpeter equation. The equivalence between Salpeter's and a
+random-phase-approximation (RPA) equation enables one to employ the same
+techniques developed by Thouless, in his study of nuclear collective
+excitations, to test the stability of the solutions. The stablity analysis
+reveals the existence of imaginary eigenvalues for a confining potential that
+transforms as a Lorentz scalar. Moreover, we argue that the instability
+persists even for very large values of the constituent quark mass. In contrast,
+we find no evidence of imaginary eigenvalues for a timelike vector potential
+--- even for very small values of the constituent mass.
+","[{""version"":""v1"",""created"":""Thu, 10 Feb 1994 21:28:00 GMT""}]","2009-10-28"

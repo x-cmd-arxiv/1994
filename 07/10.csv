@@ -1,0 +1,48 @@
+"alg-geom/9407004","Andreas Steffens","Andreas Steffens","On the stability of the tangent bundle of Fano manifolds","9 pages, LaTeX, to appear in Math. Ann",,,,"alg-geom math.AG",,"  By using the classification of Fano 3-folds we prove: Let $X$ be Fano 3-fold.
+Assume that the tangent bundle $T_X$ of $X$ is not stable (i.e. semi-stable or
+unstable). Then $b_2\geq 2$ and a relative tangent sheaf $T_{X/Y}$ of a
+contraction $f:X\longrightarrow Y$ of an extremal face on $X$ is a
+destabilising subsheaf of $T_X$.
+","[{""version"":""v1"",""created"":""Sun, 10 Jul 1994 14:39:02 GMT""}]","2008-02-03"
+"astro-ph/9407027","Zhi-hong Zhou","Ruth Durrer, Zhi-hong Zhou","Structure Formation in the Universe from Texture Induced Fluctuation","8 pages, LaTeX, ZU-TH21/94","Phys.Rev.Lett.74:1701-1704,1995","10.1103/PhysRevLett.74.1701",,"astro-ph",,"  The topic of this letter is structure formation with topological defects. We
+first present a partially new, fully local and gauge invariant system of
+perturbation equations to treat microwave background and dark matter
+fluctuations induced by topological defects (or any other type of seeds). We
+show that this treatment is extremly well suited for linear numerical analysis
+of structure formation by applying it to the texture scenario. Our numerical
+results cover a larger dynamical range than previous investigations and are
+complementary since we use substantially different methods.
+","[{""version"":""v1"",""created"":""Sat, 9 Jul 1994 21:19:47 GMT""}]","2010-11-01"
+"cond-mat/9407048","Kazuhiro Sano","Kazuhiro Sano and Yoshiaki \=Ono","Phase diagrams of electronic state on One Dimensional d-p Model","11 pages, 5 figures available",,"10.1103/PhysRevB.51.1175",,"cond-mat",,"  We investigate the one-dimensional(1D) d-p model, simulating a Cu-O linear
+chain with strong Coulomb repulsion, by using the numerical diagonalization
+method. Using the Luttinger liquid theory, we obtained phase diagrams of the
+ground state on $U_d-U_{pd}$ plane, where $U_d$ and $U_{pd}$ represent on-site
+interaction at d-sites and the nearest-neighbor interaction between p- and
+d-sites respectively. In the weak coupling region, they agree with the g-ology;
+a superconducting phase (SC(I)) is restricted to attractive interaction
+$U_{pd}<0$. On the other hand, in the strong coupling region, we found a novel
+superconducting phase(SC(II)) for repulsive interaction $U_{pd}>|U_d|$ and a
+insulating state with a charge gap for $U_d>U_d^c$ and $U_{pd}>U_{pd}^c$ with
+critical values $U_d^c$ and $U_{pd}^c$ at half-filling.
+  Away from half-filling, another superconducting phase (SC(III)) appears for
+$U_d>>U_{pd}>0$; which has been found for $U_d\to \infty$ in the previous paper
+[Physica {\bf C205} (1993) 170]. An analysis of the spin gap suggests that the
+SC(I) and SC(II) include the Luther-Emery region (with spin-gap) in part, while
+the SC(III) belongs to Tomonaga-Luttinger region (without spin-gap) in whole.
+","[{""version"":""v1"",""created"":""Sun, 10 Jul 1994 10:01:16 GMT""}]","2016-08-14"
+"hep-ph/9407261","Alexander Bochkarev","A.I.Bochkarev and R.S.Willey","On the scheme dependence of the Electroweak radiative corrections","9 pages (Latex) + 4 figures (Postscr.), Preprint PITT-TH-94-04","Phys.Rev.D51:2049-2052,1995","10.1103/PhysRevD.51.2049",,"hep-ph",,"  We study the scheme dependence of the two-loop expression for the
+$\rho$-parameter of the Standard Model in the heavy $t$-quark mass limit $m_{t}
+\gg m_{w}$. In the $\ms$-scheme the two-loop electroweak correction to the
+${\cal O}(m_{t}^{2})$ term in $\dr$ is found greater than the QCD
+$\as$-correction.
+","[{""version"":""v1"",""created"":""Sat, 9 Jul 1994 21:35:29 GMT""}]","2009-12-30"
+"nucl-th/9407019","Andrey M. Shirokov","Andrey M.Shirokov (Institute for Nuclear Physics, Moscow State
+  University, Moscow 119899, Russia)","Democratic Decay","presented as a talk at the conference Perspectives of Nuclear Physics
+  in the Late Nineties (Hanoi, March 1994). LaTeX, 16 pages including 6
+  postscript figures (45kb + 145kb uuencoded tar compressed postscript file)",,,,"nucl-th",,"  Results of some recent investigations of democratic three-body decays of
+nuclear systems are discussed. In particular, we consider experimental studies
+of three-body ($\alpha+N+N$)-decay of $A=6$ nuclei and $J$-matrix calculations
+of monopole excitations in $^{12}$C and $E1$ transitions in $^{11}$Li in the
+three-body-continuum cluster models $\alpha + \alpha + \alpha$ and $^{9}$Li + n
++ n, respectively.
+","[{""version"":""v1"",""created"":""Sun, 10 Jul 1994 01:08:50 GMT""}]","2007-05-23"

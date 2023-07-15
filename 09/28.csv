@@ -1,0 +1,420 @@
+"alg-geom/9409005","Alexei Gorodentsev","A.L.Gorodentsev","Non-symmetric orthogonal geometry of Grothendieck rings of coherent
+  sheaves on projective spaces","30 pages, LATEX (version 2.01), 12pt, twoside, font families ""eufm""
+  and ""msbm"" are used",,,,"alg-geom math.AG",,"  In this paper we consider orthogonal geometry of the free
+$\protect\ZZ$-module $K_0(\protect\PP_n)$ with respect to the non-symmetric
+unimodular bilinear form $$\chi(E,F)=\sum (-1)^\nu\dim\ext^\nu(E,F). $$ We
+calculate the isometry group of this form and describe invariants of its
+natural action on $K_0(\protect\PP_n)$. Also we consider some general
+constructions with non-symmetric unimodular forms. In particular, we discuss
+orthogonal decomposition of such forms and the action of the braid group on a
+set of semiorthonormal bases. We formulate a list of natural arithmetical
+conjectures about semiorthogonal bases of the form $\chi$.
+","[{""version"":""v1"",""created"":""Tue, 27 Sep 1994 17:25:27 GMT""}]","2008-02-03"
+"astro-ph/9409071","Harry Ferguson","Henry C. Ferguson and Stacy S. McGaugh","The Contribution of Low Surface-Brightness Galaxies to Faint Galaxy
+  Counts","39p, uuencoded compressed postscript, 18/21 figs included, full paper
+  from http://planxty.stsci.edu:1024/ ferguson/lsb/lsbpp_b.ps,STScI 874",,"10.1086/175289",,"astro-ph",,"  Low Surface-Brightness (LSB) galaxies are severely underrepresented in
+surveys used to define the local luminosity function (LF), but could it in
+principle be detected in deep surveys. To explore the possible contribution of
+such objects to faint galaxy counts, we construct catalogs of simulated
+non-evolving galaxies drawn from a multivariate distribution of galaxy
+luminosities, central surface brightnesses, bulge/disk ratios and
+spectral-energy distributions. We compare two models dominated by LSB galaxies
+to a standard non-evolving model. Model galaxies are convolved with seeing and
+selected in a manner that closely matches real surveys. For each model we
+compute the local LF, HI mass function, number counts, redshift and color
+distributions. We find it possible to include a large population of LSB
+galaxies and incorporate a steep faint-end slope of the LF in our simulations
+without violating the constraints on the local LF or HI mass function. For $q_0
+= 0.5$, the most favorable model matches the counts to B=23, but falls short of
+the observations at fainter magnitudes. The colors and redshift distributions
+remain roughly consistent with observations to B=24. The most serious
+discrepancy with observations is in the distribution of $r_e$ at faint
+magnitudes, suggesting that the model contains too many LSB galaxies.
+Nevertheless, the results suggest that LSB galaxies could be a significant
+contributor to faint-galaxy counts, reducing the need for such extreme models
+of galaxy evolution as rapid merging or bursting dwarf galaxies.
+","[{""version"":""v1"",""created"":""Tue, 27 Sep 1994 21:06:23 GMT""}]","2009-10-22"
+"astro-ph/9409072","Li-Zhi Fang","Yi-Peng Jing and Li-Zhi Fang","An Infrared Cutoff Revealed by the Two Years of COBE-DMR Observations of
+  Cosmic Temperature Fluctuations","11 pages, 4 figures (available upon request), Latex, AZPH-TH/94-5, to
+  appera in Phys. Rev. Lett","Phys.Rev.Lett. 73 (1994) 1882-1885","10.1103/PhysRevLett.73.1882",,"astro-ph",,"  We show that a good fitting to the first two years of {\it COBE}-DMR
+observations of the two-point angular correlation function of CBR temperature
+is given by models with a non-zero infrared cutoff $k_{min}$ in the spectrum of
+the primordial density perturbations. If this cutoff comes from the finiteness
+of the universe, say, a topological T3 model, we find $k_{min} \sim (0.3 -
+1.1)\pi$H$_0/c$ with confidence level 95\%. Such a non-zero $k_{min}$ universe
+would also give a better match to the observations both of the RMS quadrupole
+anisotropy of CBR and of galaxy clustering.
+","[{""version"":""v1"",""created"":""Tue, 27 Sep 1994 21:57:35 GMT""}]","2009-10-22"
+"astro-ph/9409073","Hyung Mok Lee","Hyung Mok Lee","Evolution of Galactic Nuclei with 10 $M_\odot$ Black Holes","25 pages; uuencoded compressed postscript including 5 figures; to
+  appear in MNRAS","Mon.Not.Roy.Astron.Soc. 272 (1995) 605","10.1093/mnras/272.3.605",,"astro-ph",,"  A star with main sequence mass greater than $25\sim 30\msun$ may collapse to
+a black hole of about 10 $\msun$ at the final stage of the evolution. About an
+order of 1\% of stellar mass is likely to be in form of such black holes in
+galaxies. We have examined the dynamics of two-component stellar systems
+composed of 0.7 $\msun$ main-sequence stars, representing the old population of
+stars whose main-sequence lifetimes are longer than the Hubble time, and a
+small fraction of 10 $\msun$ black holes. The dynamical friction leads to the
+segregation of black holes to the core and the core collapse takes place among
+the black holes in a time scale much shorter than that required for a single
+component cluster. The ultimate evolution of the two-component stellar system
+depends on the role of three-body binaries formed among the black holes. For a
+system with $v\gta 100\kms$ binaries merge by gravitational radiation at some
+hardness instead of being ejected. The critical hardness, at which the
+collision time and the merger time become comparable, determines the efficiency
+of the binary as a heat source. The efficiency is found to be inversely
+proportional to the velocity dispersion. For the clusters without serious
+reduction in heating efficiency (i.e., velocity dispersion well below 500
+$\kms$), heating by three-body binaries have the effect of stopping the
+core-collapse. The cluster
+","[{""version"":""v1"",""created"":""Wed, 28 Sep 1994 01:37:32 GMT""}]","2015-06-24"
+"astro-ph/9409074","Dmitry Pogosyan","Dmitri Pogosyan and Alexei Starobinsky","Mixed Cold-Hot Dark Matter Model with Falling and Quasi-Flat Initial
+  Perturbation Spectra","18 pages, LaTeX file, YITP/U-94-26, postscript figures on request","Astrophys.J. 447 (1995) 465","10.1086/175890",,"astro-ph",,"  The mixed cold-hot dark matter cosmological model (CHDM) with
+$\Omega_{tot}=1$ and a falling power-law initial spectrum of Gaussian adiabatic
+perturbations ($n>1$) is tested using recent obserbational data. It is shown
+that its fit to the data becomes worse with the growth of $n-1$, and may be
+considered as unreasonable for $n>1.1$ for all possible values of the Hubble
+constant. Thus, the CHDM model with a falling initial spectrum is worse than
+the same model with the approximately flat $(|n-1|<0.1)$ spectrum. On the other
+hand, the CHDM model provides a rather good fit to the data if $n$ lies in the
+range $(0.9-1.0)$, the Hubble constant $H_0 < 60$ km/s/Mpc ($H_0 < 55$ for
+$n=1$) and the neutrino energy density $\Omega_{\nu}< 0.25$. So, the CHDM model
+provides the best possibility for the realization of the simplest variants of
+the inflationary scenario having the effective slope $n\approx (0.95-0.97)$
+between galaxy and horizon scales, including a modest contribution of
+primordial gravitational wave background to large-angle $\Delta T/T$
+fluctuations of the cosmic microwave background (resulting in the increase of
+their total {\it rms} amplitude by $(5-10)%$) expected in some variants. A
+classification of cosmological models according to the number of fundamental
+parameters used to fit observational data is presented, too.
+","[{""version"":""v1"",""created"":""Wed, 28 Sep 1994 09:09:23 GMT""}]","2009-10-22"
+"astro-ph/9409075","Username","Guinevere Kauffmann","The Observed Properties of High-Redshift Cluster Galaxies","Latex file, 12 pages, postscript figures on request, 994",,"10.1093/mnras/274.1.161",,"astro-ph",,"  We use the semi-analytic models of galaxy formation developed by Kauffmann,
+White \& Guiderdoni to generate predictions for the observed properties of
+cluster and group galaxies at redshifts between 0 and 0.6. We examine four sets
+of cosmological initial conditions: low-density CDM models with and without
+cosmological constant, a flat CDM model and a mixed dark matter model. These
+models were selected because they span a wide range in cluster formation epoch.
+The semi-analytic models that we employ are able to follow both the evolution
+of the dark matter component of clusters and the formation and evolution of the
+stellar populations of the cluster galaxies. We are thus able to generate model
+predictions that can be compared directly with the observational data. In the
+low-density CDM models, clusters form at high red- shift and accrete very
+little mass at recent times. Our models predict that essentially no evolution
+in the observed properties of clusters will have occurred by a redshift of 0.6,
+in direct contradiction with the data. In contrast, in the MDM model, both
+galaxies and clusters form extremely late. This model predicts evolution which
+appears to be too extreme to be in agreement with the observations. The flat
+CDM model, which is intermediate in structure formation epoch, is most
+successful. This model is able to account for the evolution of the blue
+fraction of rich clusters with redshift, the relationship between blue fraction
+and cluster richness at different epochs, and the changes in the distribution
+of the morphologies of cluster galaxies by a redshift of 0.4.
+","[{""version"":""v1"",""created"":""Wed, 28 Sep 1994 09:41:15 GMT""}]","2015-06-24"
+"astro-ph/9409076","Perry Gerakines","P.A. Gerakines, W.A. Schutte, J.M. Greenberg, and Ewine F. van
+  Dishoeck","The Infrared Band Strengths of H2o, Co and Co2 in Laboratory Simulations
+  of Astrophysical Ice Mixtures","17 pages uuencoded compressed Postscript file-- includes all 6
+  figures (replaces most recent posting with only figs 2-5)",,,"GERAK-94-2 / Leiden Observatory preprint STW 281-94","astro-ph",,"  Infrared spectroscopic observations toward objects obscured by dense cloud
+material show that H$_2$O, CO and, likely, CO$_2$ are important constituents of
+interstellar ice mantles. In order to accurately calculate the column densities
+of these molecules, it is important to have good measurements of their infrared
+band strengths in astrophysical ice analogs. We present the results of
+laboratory experiments to determine these band strengths. Improved experimental
+methods, relying on simultaneous independent depositions of the molecule to be
+studied and of the dominating ice component, have led to accuracies better than
+a few percent. Furthermore, the temperature behavior of the infrared band
+strengths of CO and H$_2$O are studied. In contrast with previous work, the
+strengths of the CO, CO$_2$, and H$_2$O infrared features are found to depend
+only weakly on the composition of the ice matrix, and the reversible
+temperature dependence of the CO band is found to be weaker than previously
+measured for a mixture of CO in H$_2$O.
+","[{""version"":""v1"",""created"":""Wed, 28 Sep 1994 11:38:51 GMT""},{""version"":""v2"",""created"":""Fri, 11 Nov 1994 19:55:49 GMT""},{""version"":""v3"",""created"":""Tue, 14 Mar 1995 16:21:00 GMT""}]","2008-02-03"
+"astro-ph/9409077",,"Andrew R Liddle and David H Lyth","Trends in Large Scale Structure Observations and the Likelihood of Early
+  Reionization","8 pages uuencoded postscript (LaTeX file available from ARL), changes
+  include correction of the previously mishandled cosmological constant case
+  (leading also to slight changes in abstract and conclusions) plus an update
+  of the COBE normalisation","Mon.Not.Roy.Astron.Soc. 273 (1995) 1177","10.1093/mnras/273.4.1177","SUSSEX-AST 94/9-2","astro-ph",,"  With the imminent promise of constraints on the epoch of reionization from
+observations of microwave background anisotropies, the question of whether or
+not the standard Cold Dark Matter (CDM) model permits early reionization has
+been subjected to detailed investigation by various authors, with the
+conclusion that reionization may occur at quite high redshift. However, it is
+widely accepted that this model is excluded, as when normalised to the COBE
+observations it possesses excessive galaxy clustering on scales below tens of
+megaparsecs. We examine the trends of observations, first in a fairly model
+independent way, and second by considering variants on the standard CDM model
+introduced to resolve the observational conflicts. We conclude that the epoch
+of reionization favoured by the observational data is typically considerably
+later than the standard CDM model suggests, and amongst models which may fit
+the observational data only the introduction of a cosmological constant leads
+to a reionization redshift close to that of standard CDM.
+","[{""version"":""v1"",""created"":""Wed, 28 Sep 1994 15:16:00 GMT""},{""version"":""v2"",""created"":""Wed, 28 Sep 1994 15:35:00 GMT""},{""version"":""v3"",""created"":""Tue, 18 Oct 1994 15:00:00 GMT""}]","2015-06-24"
+"astro-ph/9409078",,"G.Vettolani, E.Zucca, A.Cappi, R.Merighi, M.Mignoli, G.Stirpe,
+  G.Zamorani, H.MacGillivray, C.Collins, C.Balkowski, J.Alimi, A.Blanchard,
+  V.Cayatte, P.Felenbok, S.Maurogordato, D.Proust, G.Chincarini, L.Guzzo,
+  D.Maccagni, R.Scaramella, M.Ramella","Preliminary Results from the ESO Slice Project (ESP)","contributed paper at the 35th Herstmonceux Conference on Wide field
+  spectroscopy and the Distant Universe; PS file, 6 pages; for figures contact
+  zucca@astbo1.bo.cnr.it; BAP #09-1994-029-IRA",,,,"astro-ph",,"  We present the first results of a galaxy redshift survey, ESO Slice Project
+(ESP), we are accomplishing as an ESO Key-Project over about 30 square degrees
+in a region near the South Galactic Pole. The limiting magnitude is b_J = 19.4.
+Observations have been almost completed and about 90% of the data obtained so
+far has been reduced providing about 3000 galaxy redshifts. We present some
+preliminary results concerning the large scale galaxy distribution and their
+luminosity function.
+","[{""version"":""v1"",""created"":""Wed, 28 Sep 1994 14:27:42 GMT""}]","2007-05-23"
+"cmp-lg/9409012","G. Foster TAO","Marc Dymetman, Julie Brousseau, George Foster, Pierre Isabelle, Yves
+  Normandin, Pierre Plamondon","Towards an Automatic Dictation System for Translators: the TransTalk
+  Project","Published in proceedings of the International Conference on Spoken
+  Language Processing (ICSLP) 94. 4 pages, uuencoded compressed latex source
+  with 4 postscript figures",,,,"cmp-lg cs.CL",,"  Professional translators often dictate their translations orally and have
+them typed afterwards. The TransTalk project aims at automating the second part
+of this process. Its originality as a dictation system lies in the fact that
+both the acoustic signal produced by the translator and the source text under
+translation are made available to the system. Probable translations of the
+source text can be predicted and these predictions used to help the speech
+recognition system in its lexical choices. We present the results of the first
+prototype, which show a marked improvement in the performance of the speech
+recognition task when translation predictions are taken into account.
+","[{""version"":""v1"",""created"":""Wed, 28 Sep 1994 15:43:30 GMT""}]","2008-02-03"
+"cond-mat/9409114","David Frenkel","Andrey V. Chubukov and David M. Frenkel","Resonant two-magnon Raman scattering in antiferromagnetic insulators","11 pages (REVTeX) + 3 figures in a single postscript file are
+  appended in uuencoded format, preprint TCSUH-94:098",,"10.1103/PhysRevLett.74.3057",,"cond-mat",,"  We propose a theory of two-magnon {\it resonant\/} Raman scattering from
+antiferromagnetic insulators, which contains information both on the magnetism
+and the carrier properties in the lighly doped phases. We argue that the
+conventional theory does not work in the resonant regime, in which the energy
+of the incident photon is close to the gap between the conduction and valence
+bands. We identify the diagram which gives the dominant contribution to Raman
+intensity in this regime and show that it can explain the unusual features in
+the two-magnon profile and in the two-magnon peak intensity dependence on the
+incoming photon frequency.
+","[{""version"":""v1"",""created"":""Tue, 27 Sep 1994 18:52:14 GMT""}]","2009-10-22"
+"cond-mat/9409115",,"J. Diehl, H. Davideit, S. Klimm and S. Horn (Lehrstuhl fuer
+  Experimentalphysik II, Uni-Augsburg, 86135 Augsburg, Germany) U.Tegel, C.
+  Geibel and F. Steglich (Institut fuer Festkoerperphysik, TH Darmstadt, 64289
+  Darmstadt, Germany)","Magnetic properites of the Heavy Fermion Antiferromagnets YbNiAl and
+  YbPtAl","12 pages including 5 figures (submitted to the SCES 94 Conference,
+  Ansterdam)",,"10.1016/0921-4526(94)00454-4",,"cond-mat",,"  Measurements of electrical resistivity and Hall effect as a function of
+magnetic field on the Heavy Fermion Systems YbNiAl and YbPtAl are presented.
+Both compounds order antiferro magnetically and show metamagnetic behavior in a
+magnetic field. Scaling behavior of the magnetoresistance above TN suggests
+that the paramagnetic regime for YbNiAl can be described in terms of a single
+ion Kondo effect.
+","[{""version"":""v1"",""created"":""Wed, 28 Sep 1994 07:15:42 GMT""}]","2009-10-22"
+"dg-ga/9409005","Jan Slovak","Andreas Cap, Jan Slovak","On multilinear operators commuting with Lie derivatives","Preprint ESI56",,,,"dg-ga math.DG",,"  Let $E_1,\dots ,E_k$ and $E$ be natural vector bundles defined over the
+category $\Cal Mf_m^+$ of smooth oriented $m$--dimensional manifolds and
+orientation preserving local diffeomorphisms, with $m\geq 2$. Let $M$ be an
+object of $\Cal Mf_m^+$ which is connected. We give a complete classification
+of all separately continuous $k$--linear operators $D\:\Ga
+_c(E_1M)\x\dots\x\Ga_c(E_kM)\to \Ga (EM)$ defined on sections with compact
+supports, which commute with Lie derivatives, i\.e\. which satisfy $$ \Cal
+L_X(D(s_1,\dots ,s_k))=\sum _{i=1}^kD(s_1,\dots ,\Cal L_Xs_i,\dots,s_k), $$ for
+all vector fields $X$ on $M$ and sections $s_j\in\Ga_c(E_jM)$, in terms of
+local natural operators and absolutely invariant sections. In special cases we
+do not need the continuity assumption. We also present several applications in
+concrete geometrical situations, in particular we give a completely algebraic
+characterization of some well known Lie brackets.
+","[{""version"":""v1"",""created"":""Wed, 28 Sep 1994 13:16:35 GMT""}]","2016-08-31"
+"funct-an/9409004","Dana Williams","Alexander Kumjian, Iain Raeburn, and Dana P. Williams","The equivariant Brauer groups of commuting free and proper actions are
+  isomorphic","10 pages, AMS-LaTeX v1.1, KRW94",,,,"funct-an math.FA math.RT",,"  If $X$ is a locally compact space which admits commuting free and proper
+actions of locally compact groups $G$ and $H$, then the Brauer groups
+$\Br_H(G/X)$ and $\Br_G(X/H)$ are naturally isomorphic.
+","[{""version"":""v1"",""created"":""Tue, 27 Sep 1994 18:22:32 GMT""}]","2008-02-03"
+"gr-qc/9409056","Dalia Goldwirth","Nathalie Deruelle and Dalia S. Goldwirth","Conditions for inflation in an initially inhomogeneous universe","9 pages, plain Tex, gr-qc/yymmnnn","Phys.Rev. D51 (1995) 1563-1568","10.1103/PhysRevD.51.1563",,"gr-qc astro-ph",,"  Using a long wavelength iteration scheme to solve Einstein's equations near
+the Big-Bang singularity of a universe driven by a massive scalar field, we
+find how big initial quasi-isotropic inhomogeneities can be before they can
+prevent inflation to set in.
+","[{""version"":""v1"",""created"":""Tue, 27 Sep 1994 16:04:41 GMT""}]","2009-10-22"
+"gr-qc/9409057","Dr. Scott C. Smith","J. L. Houser, J. M. Centrella, and S. C. Smith","Gravitational Radiation from Nonaxisymmetric Instability in a Rotating
+  Star","16 pages, LaTeX with REVTEX macros, reprints available - send mailing
+  address to scott@eagle.drexel.edu. Published: PRL 72, 1314 (1994)","Phys.Rev.Lett.72:1314-1317,1994","10.1103/PhysRevLett.72.1314",,"gr-qc astro-ph",,"  We present the first calculations of the gravitational radiation produced by
+nonaxisymmetric dynamical instability in a rapidly rotating compact star. The
+star deforms into a bar shape, shedding $\sim 4\%$ of its mass and $\sim 17\%$
+of its angular momentum. The gravitational radiation is calculated in the
+quadrupole approximation. For a mass $M \sim 1.4$ M$_{\odot}$ and radius $R
+\sim 10$ km, the gravitational waves have frequency $\sim 4$ kHz and amplitude
+$h \sim 2 \times 10^{-22}$ at the distance of the Virgo Cluster. They carry off
+energy $\Delta E/M \sim 0.1\%$ and radiate angular momentum $\Delta J/J \sim
+0.7\%$.
+","[{""version"":""v1"",""created"":""Tue, 27 Sep 1994 21:33:53 GMT""}]","2009-01-23"
+"hep-ph/9409424","Frank Close","F.E.Close and G.J.Gounaris","Searching for Exotic Mesons in e^+e^- Annihilation at Dafne","RAL-94-107,THES-TP 94/12; 11 pages;0figs","Phys.Lett. B343 (1995) 392-398","10.1016/0370-2693(94)01413-7",,"hep-ph",,"  $DA{\Phi}NE$ should be useful for testing the nature of the vector mesons
+directly produced in $e^-e^+$ annihilation, as well as the nature of the $C=+$
+states produced in the radiative decays of these vector mesons. In the
+$DA{\Phi}NE$ energy range, these latter states may have spin up to two and any
+parity. Provided the background can be handled and the spin of the produced
+state is known, the study of the angular distributions in these decays can
+measure the parity of the produced meson as well as the ratios of the
+independent production helicity amplitudes. These ratios provide sensitive
+tests for quark model classification of the states, in particular the enigmatic
+$f_1(1420)$. Thus, they can be used to indicate whether the mesons involved are
+consistent with the usual $q \bar q$ interpretation, or whether other
+interpretations like \eg\,hybrid, glueball or multiquark, are more favorable
+for some of them.
+","[{""version"":""v1"",""created"":""Tue, 27 Sep 1994 16:02:00 GMT""}]","2009-10-28"
+"hep-ph/9409425",,"Paula J. Franzini","Physics at DAPHNE","17 pages TeX, macros at end of TeX file, 8 figures appended, also
+  available directly as http://pss058.psi.ch/doc/preprints/zuoz.ps,
+  PSI-PR-94-30",,,,"hep-ph",,"  Proceedings of invited lecture at the Zuoz summer school on hadronic aspects
+of collider physics, August 23-31, 1994, Zuoz, Switzerland. Describes the PHI
+factory DAPHNE being built at Frascati, Italy, and the physics that can be done
+there, with emphasis on its potential for studying CP violation.
+","[{""version"":""v1"",""created"":""Tue, 27 Sep 1994 16:09:25 GMT""}]","2007-05-23"
+"hep-ph/9409426",,"M.R. Pennington, J. Portoles","The Chiral Lagrangian parameters, $\overline{\ell}_1$,
+  $\overline{\ell}_2$, are determined by the $\rho$--resonance","Plain LaTeX file, 13 pages, 3 figures not included (available from
+  the Authors under request). A comparison of our procedure with Chiral
+  Perturbation Theory has been included. Results have not changed. Accepted for
+  publication in Phys. Lett. B","Phys.Lett. B344 (1995) 399-406","10.1016/0370-2693(94)01551-M","DTP-94/54","hep-ph",,"  The all--important consequence of Chiral Dynamics for $\pi \pi$ scattering is
+the Adler zero, which forces $\pi \pi$ amplitudes to grow asymptotically. The
+continuation of this subthreshold zero into the physical regions requires a
+$P$--wave resonance, to be identified with the $\rho$. It is a feature of $\pi
+\pi$ scattering that convergent dispersive integrals for the $I=1$ channel are
+essentially saturated by the $\rho$--resonance and are much larger than those
+with $I=2$ quantum numbers. These facts predict the parameters
+$\overline{\ell}_1$, $\overline{\ell}_2$ of the Gasser--Leutwyler Chiral
+Lagrangian, as well as reproducing the well--known KSFR relation and
+self-consistently generating the $\rho-$resonance.
+","[{""version"":""v1"",""created"":""Tue, 27 Sep 1994 22:18:57 GMT""},{""version"":""v2"",""created"":""Mon, 28 Nov 1994 17:05:15 GMT""}]","2009-10-28"
+"hep-ph/9409427",,"Stephan Narison","Heavy Quarks from QCD Spectral Sum Rules","11 pages, CERN-TH.7444/94, 11 pages, Talk given at QCD 94,
+  Montpellier 7-13th July 1994 (F)","Nucl.Phys.Proc.Suppl.39BC:446-456,1995","10.1016/0920-5632(95)00116-Q",,"hep-ph hep-lat",,"  We summarize the recent developments on the extraction of the dynamical
+properties of the heavy quarks from QCD spectral sum rules.
+","[{""version"":""v1"",""created"":""Tue, 27 Sep 1994 20:46:35 GMT""}]","2010-11-01"
+"hep-ph/9409428",,"S. Narison","{$K^0$}-{$\overline{K}^0$} mixing and the CKM parameters $(\rho,\eta)$
+  from the Laplace sum rules","6 pages in latex file + 3 figure in ps files (sent by requests),
+  CERN-TH.7441/94 (1994) (some missprints in the previous version may lead to
+  some confusion)","Phys.Lett.B351:369-374,1995","10.1016/0370-2693(95)00295-V",,"hep-ph hep-lat",,"  Using the Laplace sum rule (LSR) approach, which is less affected by the
+contribution of the higher mass hadronic states than the Finite Energy Sum Rule
+(FESR), we test the reliability of the existing estimate of the
+$K^0$-$\overline {K}^0$ mixing parameter from the four-quark two-point
+correlator. We obtain, for the renormalization group invariant $B$-parameter
+$\Big[ f_K/(1.2f_\pi)\Big]^2 \hat {B}_K$, the upper bound: 0.83 and the $best$
+estimate: $0.55 \pm 0.09$. Combining the previous estimate with the updated
+value of $f_B\sqrt{B_B}=(1.49\pm 0.14)f_\pi$ obtained from the same LSR method,
+one can deduce the $best$ fitted values $(\rho,\eta)\approx (0.41,0.09)$ of the
+CKM parameters.
+","[{""version"":""v1"",""created"":""Tue, 27 Sep 1994 20:47:29 GMT""},{""version"":""v2"",""created"":""Wed, 28 Sep 1994 20:43:31 GMT""}]","2010-11-01"
+"hep-ph/9409429","Layssac Jacques","J. Layssac, F.M. Renard, C. Verzegnassi","A Probe of New Resonant Structures with Four Fermion Processes at a 1
+  TeV $e^+e^-$ Collider","4 pages, Latex file + figures in a postscript file. PM/94/34 e-mail
+  layssac@lpm.univ-montp2.fr",,,,"hep-ph",,"  Oblique contributions from vector particles that are strongly coupled to the
+known gauge bosons are calculated for the case of various observables at a 1
+TeV $e^+e^-$ collider. Constraints provided by LEP 1 results are taken into
+account in a model-independent way through a dispersion relation technique.
+Depending on the assumed theoretical properties, mass limits of several TeV
+should be observable.
+","[{""version"":""v1"",""created"":""Wed, 28 Sep 1994 09:36:00 GMT""},{""version"":""v2"",""created"":""Thu, 29 Sep 1994 09:01:21 GMT""}]","2019-08-17"
+"hep-ph/9409430","Thomas Gasenzer","Hildegard Meyer-Ortmanns and Bernd-Jochen Schaefer","How sharp is the chiral crossover phenomenon for realistic meson masses?","LaTeX, HD--TVP--94--16, Please contact authors via email for figures","Phys.Rev.D53:6586-6601,1996","10.1103/PhysRevD.53.6586",,"hep-ph",,"  The mass dependence of the chiral phase transition is studied in the linear
+$SU(3)\times SU(3)$ sigma-model to leading order in a $1/N_f$-expansion, $N_f$
+denoting the number of flavours. For realistic meson masses we find a smooth
+crossover between $T\sim181.5$ to 192.6~[MeV]. The crossover looks more rapid
+in the light quark condensate than in thermodynamic quantities like the energy
+and entropy densities. The change in the light quark condensate in this
+temperature interval is $\sim$~50\% of the zero-temperature condensate value,
+while the entropy density increases by ($5.5\pm0.8)\cdot10^{-3}$~[GeV$^3$].
+Since the numerical error is particularly large in this region, we cannot rule
+out a finite latent heat smaller than 0.2~[GeV/fm$^3$]. The chiral transition
+is washed out for an average pseudoscalar meson octet mass of 203~[MeV]. This
+gives an upper bound on the first-order transition region in the meson mass
+parameter space. The corresponding ratio of critical to realistic light current
+quark masses $m^{crit}_{u,d}/m_{u,d}$ is estimated as $0.26\pm0.08$. This
+result is by an order of magnitude larger than the corresponding mean-field
+value. Therefore the
+","[{""version"":""v1"",""created"":""Wed, 28 Sep 1994 09:40:03 GMT""}]","2010-11-01"
+"hep-ph/9409431","Zpli","Zhenping Li, Yubing Dong and Weihsing Ma","Longitudinal Transitions Of Baryon Resonances in Constituent Quark Model","13 pages with 5 figures in ps. file can be obtained from author","J.Phys.G23:151-162,1997","10.1088/0954-3899/23/2/003",,"hep-ph nucl-th",,"  A longitudinal transition operator that satisfies the gauge invariance
+requirement is introduced in constituent quark model. The corresponding
+longitudinal transitions between the nucleon and baryon resonances are
+calculated. We show that the study of the longitudinal coupling plays an
+important role in understanding the structure of baryons.
+","[{""version"":""v1"",""created"":""Wed, 28 Sep 1994 15:35:42 GMT""}]","2008-11-26"
+"hep-th/9409165","Annemarie Blobel","K.-H.Rehren, Ya.S.Stanev, I.T.Todorov","Characterizing Invariants for Local Extensions of Current Algebras","LaTeX-file, 26 pages, no figures","Commun.Math.Phys. 174 (1995) 605-634","10.1007/BF02101529","Vienna preprint ESI 132 (1994), DESY 94-164","hep-th",,"  Pairs $\aa \subset \bb$ of local quantum field theories are studied, where
+$\aa$ is a chiral conformal \qft and $\bb$ is a local extension, either chiral
+or two-dimensional. The local correlation functions of fields from $\bb$ have
+an expansion with respect to $\aa$ into \cfb s, which are non-local in general.
+Two methods of computing characteristic invariant ratios of structure constants
+in these expansions are compared: $(a)$ by constructing the monodromy \rep of
+the braid group in the space of solutions of the Knizhnik-Zamolodchikov
+differential equation, and $(b)$ by an analysis of the local subfactors
+associated with the extension with methods from operator algebra (Jones theory)
+and algebraic quantum field theory. Both approaches apply also to the reverse
+problem: the characterization and (in principle) classification of local
+extensions of a given theory.
+","[{""version"":""v1"",""created"":""Tue, 27 Sep 1994 16:30:06 GMT""}]","2015-06-26"
+"hep-th/9409166","Michele Bourdeau","Michele Bourdeau","Grassmannian Sigma Models and Topological-Antitopological Fusion","20 pages (LaTeX), OUTP-94-22P","Nucl.Phys. B439 (1995) 421-440","10.1016/0550-3213(95)95691-8",,"hep-th",,"  We study the topological-antitopological fusion equations for supersymmetric
+sigma models on Grassmannian manifolds G(k,N). We find a basis in which the
+metric becomes diagonal and the $tt^*$ equations become tractable. The solution
+for the metric of G(k,N) can then be described in terms of the metric for the
+$CP^{N-1}$ models. The IR expansion helps clarify the picture of the vacua and
+gives the soliton numbers and masses. We also show that the $tt^*$ equation for
+G(k,N) in the large N limit is solvable, for any k.
+","[{""version"":""v1"",""created"":""Tue, 27 Sep 1994 17:59:15 GMT""}]","2009-10-28"
+"hep-th/9409167","David N. Yetter","Louis Crane, Louis H. Kauffman, David N. Yetter","State-Sum Invariants of 4-Manifolds I","46 pages",,,,"hep-th math.QA",,"  We provide, with proofs, a complete description of the authors' construction
+of state-sum invariants announced in [CY], and its generalization to an
+arbitrary (artinian) semisimple tortile category. We also discuss the
+relationship of these invariants to generalizations of Broda's surgery
+invariants [Br1,Br2] using techniques developed in the case of the semi-simple
+sub-quotient of $Rep(U_q(sl_2))$ ($q$ a principal $4r^{th}$ root of unity) by
+Roberts [Ro1]. We briefly discuss the generalizations to invariants of
+4-manifolds equipped with 2-dimensional (co)homology classes introduced by
+Yetter [Y6] and Roberts [Ro2], which are the subject of the sequel. (citations
+refer to bibliography in the paper)
+","[{""version"":""v1"",""created"":""Tue, 27 Sep 1994 19:12:00 GMT""}]","2008-02-03"
+"hep-th/9409168","Joe Polchinski","Joseph Polchinski","On the Nonperturbative Consistency of $d=2$ String Theory","10 pages, 2 figures, LaTeX (author's name added)","Phys.Rev.Lett.74:638-641,1995","10.1103/PhysRevLett.74.638","NSF-ITP-94-96","hep-th",,"  An infinite number of distinct $d=1$ matrix models reproduce the perturbation
+theory of $d=2$ string theory. Due to constraints of causality, however, we
+argue that none of the existing constructions gives a consistent
+nonperturbative definition of the $d=2$ string.
+","[{""version"":""v1"",""created"":""Tue, 27 Sep 1994 19:10:22 GMT""},{""version"":""v2"",""created"":""Wed, 28 Sep 1994 20:40:25 GMT""}]","2009-10-09"
+"hep-th/9409169",,"Subir Ghosh","Anyons in Electromagnetic Field and the BMT Equation","Latex file, 10 pages, GHC-TH/94-02","Phys.Rev.D51:5827,1995; Erratum-ibid.D52:4762,1995;
+  Phys.Rev.D52:4762,1995","10.1103/PhysRevD.51.5827 10.1103/PhysRevD.52.4762",,"hep-th",,"  The Lagrangian model for anyon, presented in [6], is extended to include
+interactions with external, homogeneous electromagnetic field. Explicit
+electric and magnetic moment terms for the anyon are introduced in the
+Lagrangian. The 2+1-dimensional BMT equation as well as the correct value (2)
+of the gyromagnetic ratio is rederived, in the Hamiltonian framework.
+","[{""version"":""v1"",""created"":""Tue, 27 Sep 1994 17:08:00 GMT""}]","2014-11-18"
+"hep-th/9409170","Andreas Honecker","A. Honecker and G. von Gehlen","Excitation Spectrum and Correlation Functions of the Z_3-Chiral Potts
+  Quantum Spin Chain","19 pages + 6 PostScript figures (LaTeX); BONN-TH-94-20","Nucl.Phys. B435 (1995) 505-525","10.1016/0550-3213(94)00472-Q",,"hep-th cond-mat hep-lat",,"  We study the excitation spectrum and the correlation functions of the Z_3-
+chiral Potts model in the massive high-temperature phase using perturbation
+expansions and numerical diagonalization. We are mainly interested in results
+for general chiral angles but we consider also the superintegrable case. For
+the parameter values considered, we find that the band structure of the low-
+lying part of the excitation spectrum has the form expected from a
+quasiparticle picture with two fundamental particles. Studying the N-dependence
+of the spectrum, we confirm the stability of the second fundamental particle in
+a limited range of the momentum, even when its energy becomes so high that it
+lies very high up among the multiparticle scattering states. This is not a
+phenomenon restricted to the superintegrable line. Calculating a
+non-translationally invariant correlation function, we give evidence that it is
+oscillating. Within our numerical accuracy we find a relation between the
+oscillation length and the dip position of the momentum dispersion of the
+lightest particle which seems to be quite independent of the chiral angles.
+","[{""version"":""v1"",""created"":""Wed, 28 Sep 1994 06:45:13 GMT""}]","2009-10-28"
+"hep-th/9409171","Steven Kenneth Kauffmann","S. K. Kauffmann","Ultramicro Black Holes and Finiteness of the Electromagnetic
+  Contribution to the Electron Mass","21 pages",,,,"hep-th gr-qc nucl-th",,"  It is argued that the nonintegrably singular energy density of the electron's
+electromagnetic field (in both the classical point-charge model and quantum
+electrodynamics) must entail very strong self-gravitational effects, which, via
+black hole phenomena at finite radii, could well cut off the otherwise infinite
+electromagnetic contribution to the electron's mass. The general- relativistic
+equations for static, spherically symmetric stellar structure are specialized
+to treat the self-gravitational effects of static, spheri- cally symmetric,
+nonnegative, localized energy densities which may exhibit nonintegrable
+singularities at zero radius. It is demonstrated that in many situations,
+including the electromagnetic ones of interest here, such a system has a black
+hole whose Schwarzschild radius is that where the original energy per radial
+distance (the spherical shell area times the original energy density) reaches
+the inverse of (2G). The total mass of the system is that of this black hole
+(which follows in the usual way from its Schwarz- schild radius) plus the
+integrated original energy density outside this black hole. These results
+produce, for the classical point-charge model of the electron, an electrostatic
+contribution to its mass which is many orders of magnitude larger than its
+measured mass. For quantum electrodynamics, how- ever, the result is an
+electromagnetic mass contribution which is approxi- mately equal to its bare
+mass -- thus about half of its measured mass.
+","[{""version"":""v1"",""created"":""Wed, 28 Sep 1994 08:13:08 GMT""}]","2009-09-25"
+"hep-th/9409172","J. A. de Azcarraga","J.A. de Azcarraga, P.P. Kulish, F. Rodenas","Non-commutative geometry and covariance: from the quantum plane to the
+  quantum tensors","Lecture delivered (by J.A.) at the 3rd Colloquium `Quantum groups and
+  Physics', Prague, June 1994. To appear in the proceedings (Czechoslovak J.
+  Phys.)","Czech.J.Phys. 44 (1994) 981","10.1007/BF01690450",,"hep-th",,"  Reflection and braid equations for rank two $q$-tensors are derived from the
+covariance properties of quantum vectors by using the $R$-matrix formalism.
+","[{""version"":""v1"",""created"":""Wed, 28 Sep 1994 11:47:00 GMT""}]","2009-10-28"
+"hep-th/9409173",,"S. Graffi, V.R. Manfredi, L. Salasnich","Accuracy of the Semi--Classical Approximation: the Pullen Edmonds
+  Hamiltonian","12 pages, 5 figures (available upon request to the authors), LaTex,
+  DFPD/93/TH/47, to be published in Nuovo Cimento B","NuovoCim.B109:1147-1154,1994","10.1007/BF02726678",,"hep-th",,"  A test on the numerical accuracy of the semiclassical approximation as a
+function of the principal quantum number has been performed for the
+Pullen--Edmonds model, a two--dimensional, non--integrable, scaling invariant
+perturbation of the resonant harmonic oscillator. A perturbative interpretation
+is obtained of the recently observed phenomenon of the accuracy decrease on the
+approximation of individual energy levels at the increase of the principal
+quantum number. Moreover, the accuracy provided by the semiclassical
+approximation formula is on the average the same as that provided by quantum
+perturbation theory.
+","[{""version"":""v1"",""created"":""Wed, 28 Sep 1994 14:31:29 GMT""}]","2009-09-25"

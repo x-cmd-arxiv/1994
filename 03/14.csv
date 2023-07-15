@@ -1,0 +1,139 @@
+"astro-ph/9403030","Arno G. Weiss","A. G. Weiss and T. Buchert","High-Resolution Simulation of Deep Pencil Beam Surveys","in: 4th. MPG--CAS workshop ``High--energy astrophysics and
+  cosmology'', Schlo{\ss} Ringberg, Tegernsee, Germany, Eds.: B\""orner, G.,
+  Buchert T., Garching: MPA Proceedings P8, Dec.93, pp 310-318. (9 pages,
+  uuencoded compressed postscript, ca. 700kBytes)",,,,"astro-ph",,"  We report on a recent paper (Wei\ss\ \& Buchert 1993), where we carry out
+pencil beam constructions in a high-resolution simulation of the large-scale
+structure of galaxies. As an example we present the results for the case of
+``Hot-Dark-Matter"" (HDM) initial conditions (with scale-free $n = 1$ power
+index on large scales and $\Omega = 1$) as a representative of models with
+sufficient large-scale power. We use an analytic approximation for particle
+trajectories of a self-gravitating dust continuum and apply a local dynamical
+biasing of volume elements to identify luminous matter in the model. Using this
+method, we are able to resolve formally a simulation box of 1200h^-1 Mpc (e.g.
+for HDM initial conditions) down to the scale of galactic halos using $2160^3$
+particles. Pencil beam probes are taken for a given epoch using the parameters
+of observed beams. In particular, our analysis concentrates on the detection of
+a quasi-periodicity in the beam probes. The simulation is designed for
+application to parameter studies which prepare future observational projects.
+We find that a large percentage of the beams shows quasi-periodicities with
+periods which cluster at a certain length scale. The periods found range
+between one and eight times the cutoff length in the initial fluctuation
+spectrum.
+","[{""version"":""v1"",""created"":""Mon, 14 Mar 1994 11:53:14 GMT""}]","2007-05-23"
+"cond-mat/9403048","Jim Freericks","J. K. Freericks (University of California, Davis) and Mark Jarrell
+  (University of Cincinnati)","Simulation of the electron-phonon interaction in infinite dimensions","15 pages (three encapsulated postscript files appended at the end),
+  latex",,,,"cond-mat",,"  The electron-phonon interaction corresponding to the Holstein model (with
+Coulomb repulsion) is simulated in infinite dimensions using a novel quantum
+Monte Carlo algorithm. The thermodynamic phase diagram includes commensurate
+charge-density-wave phases, incommensurate charge-density-wave phases, and
+superconductivity. The crossover from a weak-coupling picture (where pairs both
+form and condense at $T_c$) to a strong-coupling picture (where preformed pairs
+condense at $T_c$) is illustrated with the onset of a double-well structure in
+the effective phonon potential.
+","[{""version"":""v1"",""created"":""Mon, 14 Mar 1994 03:13:06 GMT""}]","2007-05-23"
+"cond-mat/9403049",,"Ping Ao","Magnetic Field Effect on an Electron Tunneling out of a Confining Plane","latex, 11 pages",,"10.1103/PhysRevLett.72.1898",,"cond-mat",,"  The influence of a magnetic field on the tunneling of an electron out of a
+confining plane is studied by a path integral method. We map this 3-d problem
+on to a 1-d one, and find that the tunneling is strongly affected by the field.
+Without a perpendicular field the tunneling at zero temperature can be
+completely suppressed by a large parallel field, but in the small parallel
+field and low temperature limit the tunneling rate is finite. An explicit
+formula is obtained in this case. A quantitative explanation without fitting
+parameter to a recent experiment is provided.
+","[{""version"":""v1"",""created"":""Mon, 14 Mar 1994 04:32:00 GMT""}]","2009-10-22"
+"cond-mat/9403050",,"M. J. M. de Jong and C. W. J. Beenakker","Doubled Shot Noise In Disordered Normal-Metal-Superconductor Junctions","4 pages, RevTeX v3.0, including 1 figure, Submitted to Physical
+  Review B","Phys. Rev. B 49, 16070 (1994)","10.1103/PhysRevB.49.16070","NL-M.S.17.976","cond-mat",,"  The low-frequency shot-noise power of a normal-metal-superconductor junction
+is studied for arbitrary normal region. Through a scattering approach, a
+formula is derived which expresses the shot-noise power in terms of the
+transmission eigenvalues of the normal region. The noise power divided by the
+current is enhanced by a factor two with respect to its normal-state value, due
+to Cooper-pair transport in the superconductor. For a disordered normal region,
+it is still smaller than the Poisson noise, as a consequence of noiseless open
+scattering channels.
+","[{""version"":""v1"",""created"":""Mon, 14 Mar 1994 15:26:13 GMT""}]","2007-05-23"
+"funct-an/9403004",,"Vladimir G. Pestov","Regular Lie groups and a theorem of Lie-Palais","5 pages. AmS TeX 2.1 source file",,,"RP-94-135, Victoria Univ of Wellington, January 1994","funct-an math.FA math.RT",,"  In 1984 Milnor had shown how to deduce the Lie-Palais theorem on integration
+of infinitesimal actions of finite-dimensional Lie algebras on compact
+manifolds from general theory of regular Lie groups modelled on locally convex
+spaces. We show how, in the case of effective action, one can eliminate from
+Milnor's argument the abstract Lie-Cartan theorem, making the deduction rather
+elementary. A machinery employed in the proof provides a partial solution to a
+problem examined in 1972 by van Est and \'Swierczkowski.
+","[{""version"":""v1"",""created"":""Mon, 14 Mar 1994 11:00:51 GMT""}]","2008-02-03"
+"gr-qc/9403026","Roh-Suan Tung","James M. Nester, Roh Suan Tung and Vadim V. Zhytnikov","Some Spinor-Curvature Identities","5 pages Plain TeX, NCU-GR-93-SSCI","Class.Quant.Grav.11:983-988,1994","10.1088/0264-9381/11/4/014",,"gr-qc",,"  We describe a class of spinor-curvature identities which exist for Riemannian
+or Riemann-Cartan geometries. Each identity relates an expression quadratic in
+the covariant derivative of a spinor field with an expression linear in the
+curvature plus an exact differential. Certain special cases in 3 and 4
+dimensions which have been or could be used in applications to General
+Relativity are noted.
+","[{""version"":""v1"",""created"":""Sun, 13 Mar 1994 16:25:56 GMT""}]","2010-04-06"
+"hep-lat/9403015","Matteo Beccaria","Matteo Beccaria","Bosonization and the lattice: the $d=2$ Gross-Neveu model","17 pages, IFUP-TH \ 17/94",,,,"hep-lat",,"  We consider the lattice formulation of bosonized quantum field theories. As a
+non trivial example, we study the two dimensional Gross-Neveu model. Analytical
+investigations and direct numerical simulation strongly suggest that the
+lattice model reproduces the continuum physics. Anticommuting fields are not
+required and there are not related doubling problems. (3 PostScript figures
+available from the author)
+","[{""version"":""v1"",""created"":""Mon, 14 Mar 1994 11:15:27 GMT""}]","2009-09-25"
+"hep-ph/9403282","Paolo Gambino","A. Sirlin","QCD Corrections to $\Delta\rho$","8 pages in TeX, no figure",,,,"hep-ph",,"  We discuss a simple method to evaluate the QCD corrections to $\Delta\rho$.
+It assumes that the perturbative expansion in terms of $\ms$ parameters is
+meaningful and, unlike other studies, exploits significant available
+information concerning $\chass$ corrections. This approach leads to an
+enhancement of $\sim26\%$ relative to the conventional evaluation. QCD
+corrections to the $Z^0\to b\bar b$ amplitude are also considered. Implications
+for electroweak physics are briefly discussed.
+","[{""version"":""v1"",""created"":""Sun, 13 Mar 1994 22:40:46 GMT""}]","2007-05-23"
+"hep-ph/9403283",,"Hong-Jian He, Yu-Ping Kuang, Xiaoyuan Li","Proof of the Equivalence Theorem in the Chiral Lagrangian Formalism","10 pages, A few words have been added below eq.(22) to make our
+  meaning more precise","Phys.Lett. B329 (1994) 278-284","10.1016/0370-2693(94)90772-2","VPI-IHEP-93-15 and TUIMP-TH-94/56","hep-ph",,"  A general proof of the equivalence theorem in electroweak theories with the
+symmetry breaking sector described by the chiral Lagrangian is given in the
+$R_{\xi}$ gauge by means of the Ward-Takahashi identities. The precise form of
+the theorem contains a modification factor $C_{mod}$ associated with each
+external Goldstone boson similar to that in the standard model. $C_{mod}$ is
+exactly unity in our previously proposed renormalization scheme, {\it
+Scheme-II}.
+","[{""version"":""v1"",""created"":""Mon, 14 Mar 1994 00:25:05 GMT""},{""version"":""v2"",""created"":""Mon, 25 Apr 1994 00:21:18 GMT""}]","2009-10-28"
+"hep-ph/9403284",,"Masako Bando, K.-I. Izawa, and Tomohiko Takahashi","Hierarchical Mass Matrices in a Minimal SO(10) Grand Unification I","phyzzx and tables, 15 pages, KUNS 1252","Prog.Theor.Phys. 92 (1994) 143-152","10.1143/ptp/92.1.143",,"hep-ph",,"  We consider a minimal SO(10) unified model with horizontal Peccei-Quinn
+symmetry. The hierarchical structure of quark-lepton mass matrices is naturally
+implemented by the remnants of certain irrelevant terms. Georgi-Jarlskog
+relations are also realized due to the horizontal symmetry.
+","[{""version"":""v1"",""created"":""Mon, 14 Mar 1994 07:24:52 GMT""}]","2017-02-01"
+"hep-ph/9403285","Mit","Edward Farhi, Valentin V. Khoze, Krishna Rajagopal, and Robert
+  Singleton Jr","Spherical Shells of Classical Gauge Field and their Topological Charge
+  as a Perturbative Expansion","18 pages in REVTEX","Phys.Rev.D50:4162-4174,1994","10.1103/PhysRevD.50.4162","SLAC-PUB-6419(T), HUTP-94-A003, BUHEP-94-6, MIT-CTP-2287","hep-ph hep-th",,"  We consider the classical equations of motion of $SU(2)$ gauge theory,
+without a Higgs field, in Minkowski space. We work in the spherical ansatz and
+develop a perturbative expansion in the coupling constant $g$ for solutions
+which in the far past look like freely propagating spherical shells. The
+topological charge $Q$ of these solutions is typically non-integer. We then
+show that $Q$ can be expressed as a power series expansion in $g$ which can be
+nonzero at finite order. We give an explicit analytic calculation of the order
+$g^5$ contribution to $Q$ for specific initial pulses. We discuss the relation
+between our findings and anomalous fermion number violation, and speculate on
+the physical implications of our results.
+","[{""version"":""v1"",""created"":""Mon, 14 Mar 1994 13:43:19 GMT""},{""version"":""v2"",""created"":""Mon, 14 Mar 1994 23:03:18 GMT""}]","2010-11-01"
+"hep-ph/9403286",,"Lay Nam Chang, Yigao Liang, and Ron L. Workman","The Gerasimov-Drell-Hearn Sum Rule and Current Algebras","8 Pages","Phys.Lett. B329 (1994) 514-518","10.1016/0370-2693(94)91097-9","VPI-IHEP-94-3","hep-ph",,"  The status of the Gerasimov-Drell-Hearn sum rules for polarized inclusive
+photo-production on nucleons is reviewed. It is shown that results from
+currently available data compare favorably with an estimate based on an
+extended current algebra. Implications for integrals of spin-dependent
+structure functions are also briefly discussed.
+","[{""version"":""v1"",""created"":""Mon, 14 Mar 1994 14:06:04 GMT""},{""version"":""v2"",""created"":""Thu, 17 Mar 1994 14:58:34 GMT""}]","2009-10-28"
+"hep-th/9403072","Jeff Harvey","J. P Gauntlett and J. A. Harvey","H-Monopoles, SL(2,Z) Duality and K3 Surfaces","Paper is withdrawn and superseded by EFI-94-36 which will appear
+  shortly with the new hep-th number hep-th/9407111",,,"EFI-94-11","hep-th",,"  Paper is withdrawn and superseded by EFI-94-36 which will appear shortly with
+the new hep-th number hep-th/9407111 .
+","[{""version"":""v1"",""created"":""Sun, 13 Mar 1994 23:26:20 GMT""},{""version"":""v2"",""created"":""Mon, 18 Jul 1994 17:02:51 GMT""}]","2008-02-03"
+"hep-th/9403073",,"A. Berkovich","Fermionic counting of RSOS-states and Virasoro character formulas for
+  the unitary minimal series M(\nu,\nu+1). Exact results","33pp, LaTex, BONN-HE-94-04, spelling errors and typos corrected,
+  references added, to appear in Nucl. Phys. B431 (1994)","Nucl.Phys.B431:315-348,1994","10.1016/0550-3213(94)90108-2",,"hep-th",,"  The Hilbert space of an RSOS-model, introduced by Andrews, Baxter, and
+Forrester, can be viewed as a space of sequences (paths) {a_0,a_1,...,a_L},
+with a_j-integers restricted by 1<=a_j<=\nu, |a_j-a_{j+1}|=1, a_0=s, a_L=r. In
+this paper we introduce different basis which, as shown here, has the same
+dimension as that of an RSOS-model. Following McCoy et al, we call this basis
+-- fermionic (FB). Our first theorem Dim(FB)=Dim(RSOS-basis) can be succinctly
+expressed in terms of some identities for binomial coefficients. Remarkably,
+these binomial identities can be q-deformed. Here, we give a simple proof of
+these q-binomial identities in the spirit of Schur's proof of the
+Rogers-Ramanujan identities. Notably, the proof involves only the elementary
+recurrences for the q-binomial coefficients and a few creative observations.
+Finally, taking the limit L --> \infty in these q-identities, we derive an
+expression for the character formulas of the unitary minimal series
+M(\nu,\nu+1) ""Bosonic Sum = Fermionic Sum"". Here, Bosonic Sum denotes
+Rocha-Caridi representation (\chi_{r,s=1}^{\nu,\nu+1}(q)) and Fermionic Sum
+stands for the companion representation recently conjectured by the Stony Brook
+group.
+","[{""version"":""v1"",""created"":""Mon, 14 Mar 1994 15:14:47 GMT""},{""version"":""v2"",""created"":""Tue, 18 Oct 1994 19:28:48 GMT""}]","2010-11-01"

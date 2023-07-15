@@ -1,0 +1,514 @@
+"alg-geom/9410007","Zhenbo Qin","Robert Friedman and Zhenbo Qin","Flips of moduli spaces and transition formulas for Donaldson polynomial
+  invariants of rational surfaces","56 pages, amstex",,,"OSU Math 1995-11","alg-geom math.AG math.GT",,"  We study the change of moduli spaces of Gieseker-semistable torsion free
+rank-$2$ sheaves on algebraic surfaces as we vary the polarizations. When the
+surfaces are rational with an effective anti-canonical divisor, the moduli
+spaces are linked by a series of flips (blowups and blowdowns). Using these
+results, we compute the transition formulas for Donaldson polynomial invariants
+of rational surfaces. Part of the work is also obtained independently by
+Matsuki-Wentworth and Ellingsrud-G{\"" o}ttsche.
+","[{""version"":""v1"",""created"":""Wed, 12 Oct 1994 19:02:58 GMT""}]","2008-02-03"
+"alg-geom/9410008",,"David B. Jaffe","Applications of iterated curve blowup to set-theoretic complete
+  intersections in P3","57 pages, AMS-LaTeX",,,,"alg-geom math.AG",,"  Let S, T be surfaces in P3. Suppose that S intersect T is set-theoretically a
+smooth curve C of degree d and genus g. Suppose that S and T have no common
+singular points. Then if C is not a complete intersection, then deg(S), deg(T)
+< 2d^4. Fixing (d,g), one can form a finite (shorter) list of all possible
+pairs (deg(S),deg(T)). For instance, when (d,g) = (4,0), and assuming for
+simplicity that deg(S) <= deg(T):
+  (deg(S), deg(T)) \in {(3,4), (3,8), (4,4), (4,7), (6,26), (9,48), (10,28)
+  (12,18), (13,16), (17,220), (18,118), (19,84), (20,67), (22,50), (28,33)}.
+Assume characteristic 0. [1] Suppose that S and T have non-overlapping rational
+singularities. Then d <= g+3. [2] Suppose that S is normal, and that d>deg(S).
+Then C is linearly normal (and so d <= g+3). [3] Suppose that S is a quartic
+surface having only rational singularities. Then C is linearly normal. Hard
+copy is available from the author. E-mail to jaffe@cpthree.unl.edu.
+","[{""version"":""v1"",""created"":""Wed, 12 Oct 1994 19:33:46 GMT""}]","2008-02-03"
+"alg-geom/9410009",,"David B. Jaffe","Coherent functors, with application to torsion in the Picard group","46 pages, AMS-LaTeX",,,,"alg-geom math.AG",,"  Let A be a commutative noetherian ring. Call a functor <<commutative
+A-algebras>> --> <<sets>> coherent if it can be built up (via iterated finite
+limits) from functors of the form B \mapsto M tensor_A B, where M is a f.g.
+A-module. When such a functor F in fact takes its values in <<abelian groups>>,
+we show that there are only finitely many prime numbers p such that _p F(A) is
+infinite, and that none of these primes are invertible in A. This (and related
+statements) yield information about torsion in Pic(A). For example, if A is of
+finite type over Z, we prove that the torsion in Pic(A) is supported at a
+finite set of primes, and if _p Pic(A) is infinite, then the prime p is not
+invertible in A. These results use the (already known) fact that if such an A
+is normal, then Pic(A) is finitely generated. We obtain a parallel result for a
+reduced scheme X of finite type over Z. We show that the groups which can occur
+as the Picard group of a scheme of finite type over a finite field all have the
+form (finitely generated) + sum_{n=1}^infty F, where F is a finite p-group.
+Hard copy is available from the author. E-mail to jaffe@cpthree.unl.edu.
+","[{""version"":""v1"",""created"":""Wed, 12 Oct 1994 20:53:28 GMT""}]","2015-06-30"
+"alg-geom/9410010",,"David B. Jaffe","Functorial structure of units in a tensor product","23 pages, AMS-LaTeX. Hard copy is available from the author. E-mail
+  to jaffe@cpthree.unl.edu",,,,"alg-geom math.AG",,"  We study the units in a tensor product of rings. For example, let k be an
+algebraically closed field. Let A and B be reduced rings containing k, having
+connected spectra. Let u \in A tensor_k B be a unit. Then u = a tensor_k b for
+some units a \in A and b \in B. Here is a deeper result, stated for simplicity
+in the affine case only. Let k be a field, and let f: R --> S be a homomorphism
+of f.g. k-algebras such that Spec(f) is dominant. Assume that every irreducible
+component of Spec(R_red) or Spec(S_red) is geometrically integral and has a
+rational point. Let B --> C be a faithfully flat homomorphism of reduced
+k-algebras. For A a k-algebra, define Q(A) to be (S tensor_k A)^*/(R tensor_k
+A)^*. Then Q satisfies the following sheaf property: the sequence
+  0 --> Q(B) --> Q(C) --> Q(C tensor_B C)
+  is exact. This and another result are used in the proof of the following
+statement from ""The kernel of the map on Picard groups induced by a faithfully
+flat homomorphism"" by R. Guralnick, D. Jaffe, W. Raskind, R. Wiegand:
+  Let K/k be an algebraic field extension and let A be a f.g. k-algebra. Assume
+resolution of singularities. Then there is a finite extension E/k contained in
+K/k such that Pic(A tensor_k E) --> Pic(A tensor_k K) is injective.
+","[{""version"":""v1"",""created"":""Wed, 12 Oct 1994 21:45:50 GMT""}]","2008-02-03"
+"alg-geom/9410011","Oliver Kuechle","Oliver K\""uchle","Ample Line Bundles on Blown Up Surfaces","4 pages, AMS-TeX 2.1",,,,"alg-geom math.AG",,"  Given a smooth complex projective surface $S$ and an ample divisor $H$ on
+$S$, consider the blow up of $S$ along $k$ points in general position. Let $H'$
+be the pullback of $H$ and $E_1,..., E_k$ be the exceptional divisors. We show
+that $L = nH' -E_1 - ... -E_k$ is ample if and only if $L^2$ is positive
+provided the integer $n$ is at least 3.
+","[{""version"":""v1"",""created"":""Wed, 12 Oct 1994 22:05:09 GMT""}]","2008-02-03"
+"alg-geom/9410012","Tohsuke Urabe","Tohsuke Urabe","The principle describing possible combinations of singularities in
+  deformations of a fixed singularity","7 pages, AMS-TeX",,,,"alg-geom math.AG",,"  This is the abstract prepared for Workshop on Topology and Geometry (Zhang
+jiang, China, October 1994), and is a review of my recent works. What kinds of
+combinations of singularities can appear in small deformation fibers of a fixed
+singularity? We consider this problem for hypersurface singularities on complex
+analytic spaces of dimension 2. For all singularities in the beginning par t of
+Arnold's classification list, the answer to this problem is given by a unique
+principle described by Dynkin graphs. This article contains several figures. I
+will send the hard copy containin g figures by mail with envelope and stamps
+under request.
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 08:38:59 GMT""}]","2008-02-03"
+"alg-geom/9410013","Jaume Amoros Torrent","Jaume Amoros","On the Malcev completion of K\""ahler groups","AMS-TeX v. 2.0, 17 pages",,,,"alg-geom math.AG",,"  Restrictions are placed on the presentation and holonomy algebra of a
+K\""ahler group. Let $X$ be compact K\""ahler. It is known that the formality of
+$X$, its Albanese map and the Hodge structure of $H^{\ast}(X)$ impose
+restrictions on the holonomy algebra of $\pi_1 X$. We derive further
+restrictions from Sullivan's 1-minimal model. An effective algorithm is given
+to compute the holonomy algebra of a group from a presentation. Some very
+strong restrictions on K\""ahler groups with few defining relations are
+obtained.
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 15:16:02 GMT""}]","2008-02-03"
+"alg-geom/9410014",,"Dmitri Zaitsev","On the linearization of the automorphism groups of algebraic domains","10 pages, LaTeX",,,,"alg-geom math.AG",,"  Let $D$ be a domain in $C^n$ and $G$ a topological group which acts
+effectively on $D$ by holomorphic automorphisms. In this paper we are
+interested in projective linearizations of the action of $G$, i.e. a linear
+representation of $G$ in some $C^{N+1}$ and an equivariant imbedding of $D$
+into $\P^N$ with respect to this representation. The domains we discuss here
+are open connected sets defined by finitely many real polynomial inequalities
+or connected finite unions of such sets. Assume that the group $G$ acts by
+birational automorphisms.
+  Our main result is the equivalence of the following conditions:
+  1) there exists a projective linearization, i.e. a linear representation of
+$G$ in some $\C^{N+1}$ and a biregular imbedding $i\colon \P^n \hookrightarrow
+\P^N$ such that the restriction $i|_D$ is $G$-equivariant.
+  2) $G$ is a subgroup of a Lie group $\hat G$ of birational automorphisms of
+$D$ which extends the action of $G$ and has finitely many connected components;
+  3) $G$ is a subgroup of a Nash group $\hat G$ of birational automorphisms of
+$D$ which extends the action of $G$ to a Nash action $\hat G\times D\to D$;
+  4) $G$ is a subgroup of a Nash group $\hat G$ such that the action $G\times
+D\to D$ extends to a Nash action $\hat G\times D\to D$;
+  5) the degree of the automorphism $\phi_g\colon D\to D$
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 15:26:54 GMT""}]","2015-06-30"
+"astro-ph/9410035","Andreas Reisenegger","Andreas Reisenegger","Deviations from Chemical Equilibrium due to Spin-Down as an Internal
+  Heat Source in Neutron Stars","23 pages including 5 figures, uuencoded postscript files, IASSNS-AST
+  94/52","Astrophys.J. 442 (1995) 749","10.1086/175480",,"astro-ph",,"  The core of a neutron star contains several species of particles, whose
+relative equilibrium concentrations are determined by the local density. As the
+star spins down, its centrifugal force decreases continuously, and the star
+contracts. The density of any given fluid element increases, changing its
+chemical equilibrium state. The relaxation towards the new equilibrium takes a
+finite time, so the matter is not quite in chemical equilibrium, and energy is
+stored that can be released by reactions. For a neutron star core composed of
+neutrons (n), protons (p), and electrons (e), the departure from chemical
+equilibrium is quantified by the chemical potential difference $\delta\mu\equiv
+\mu_{\rm p}+\mu_{\rm e} -\mu_{\rm n}$. A finite $\delta\mu$ increases the
+reaction rates and the neutrino emissivity. If large enough ($|\delta\mu|\gta
+5kT$), it reduces the net cooling rate because some of the stored chemical
+energy is converted into thermal energy, and can even lead to net heating. A
+simple model shows the effect of this heating mechanism on the thermal
+evolution of neutron stars. It is particularly noticeable for old, rapidly
+spinning stars with weak magnetic fields. Observational consequences for
+millisecond pulsars are discussed.
+","[{""version"":""v1"",""created"":""Wed, 12 Oct 1994 16:34:19 GMT""}]","2009-10-22"
+"astro-ph/9410036","Eric Blackman","Eric G. Blackman and George B. Field (Harvard-Smithsonian Center for
+  Astrophysics)","Non-thermal Acceleration from Reconnection Shocks","12 pages, plain TeX, accepted for publication in Phys. Rev. Lett","Phys.Rev.Lett. 73 (1994) 3097","10.1103/PhysRevLett.73.3097",,"astro-ph",,"  Reconnection shocks in a magnetically dominated plasma must be compressive.
+Non-thermal ion acceleration can occur across built-in slow shocks, and across
+outflow fast shocks when the outflow is supermagnetosonic and the field is
+line-tied. Electron acceleration may be initiated by injection from the
+dissipation region. Reconnection and shock acceleration thus cooperate and
+non-thermal acceleration should be a characteristic feature.
+","[{""version"":""v1"",""created"":""Wed, 12 Oct 1994 17:25:16 GMT""}]","2009-10-22"
+"astro-ph/9410037",,"L. Toffolatti, et al","Foreground Contributions to 0.2-2 Degree CMB Anisotropies","invited talk to be published in the Proc. of the Workshop ""The cosmic
+  microwave background"", Capri (NA), 20-24 September 1993, Astrophys. Lett \&
+  Comm., in press. Latex 11 pages + 1 figure (file.PS). ASTRPD-94-10-04","Astrophys.Lett.Commun. 32 (1995) 125",,,"astro-ph",,"  We examine the extent to which galactic and extragalactic foregrounds can
+hamper the detection of primordial Cosmic Microwave Background (CMB)
+anisotropies. We limit our discussion to intermediate angular scales,
+$10^{\prime}\lsim \theta \lsim 2^{\circ}$, since many current as well as future
+experiments have been designed to map CMB anisotropies at these angular scales.
+In fact, scales of $\gsim 10^{\prime}$ are of crucial importance to test both
+the conditions in the early Universe and current theories of the gravitational
+collapse.
+","[{""version"":""v1"",""created"":""Wed, 12 Oct 1994 23:13:00 GMT""}]","2009-09-25"
+"astro-ph/9410038","Tom Weiler","Karl Strobl and Thomas J. Weiler","A Solvable Model for Anharmonic Evolution of Cosmic Axion Overdensitites","VAND-TH-94-22; presented at the 7th Marcel Grossmann Meeting on
+  General Relativity, Stanford U. July 24-29, 1994. 5 pages, Latex with three
+  postscript figures and two World Sci macros appended",,,,"astro-ph hep-ph",,"  We present analytic solutions to the spatially homogeneous axion field
+equation, using a model potential which strongly resembles the $(1-\cos
+\theta)$ standard anharmonic potential. We find that the anharmonicity
+amplifies early universe axion density fluctuations, but only significantly so
+for relatively large initial misalignment angles. Enhancements of $\sim$
+(2,3,4,13) result for $\theta_{\rm in}\sim (0.85,0.90,0.95,0.99)\times\pi$. The
+large $\theta$ result agrees with Lyth, and so validates his approximations.
+","[{""version"":""v1"",""created"":""Wed, 12 Oct 1994 23:08:20 GMT""}]","2009-09-25"
+"astro-ph/9410039","Arthur Mezhlumian","Arthur Mezhlumian","Stationary Universe Model: Inputs and Outputs","11 pages, LaTeX, Stanford Preprint SU-ITP-94-37",,"10.1007/3-540-60024-8_74",,"astro-ph gr-qc",,"  This is the text of a talk given at the Rome Conference ""The Birth of the
+Universe and Fundemental Physics"", May, 1994. We present the recent progress
+achieved in collaboration with A.Linde and D.Linde towards understanding the
+true nature of the global spatial structure of the universe as well as the most
+general stationary characteristics of its time-dependent state with eternally
+growing total volume.
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 04:45:12 GMT""}]","2009-10-22"
+"astro-ph/9410040","Katrina M. Sealey","K.M. Lanzetta, D.V. Bowen, D. Tytler, J.K. Webb and K.M. Sealey","The Origin of Intermediate-Redshift Lyman Alpha Absorption Systems","35th Herstmonceux Conference, ""Wide Field Spectroscopy and the
+  Distant Universe"", 6 pages, uuencoded compressed postscript with figures,
+  UN-AS-10/94",,,,"astro-ph",,"  We present initial results of an imaging and spectroscopic survey of faint
+galaxies in fields of Hubble Space Telescope spectroscopic target QSOs. The
+primary objectives of the survey are (a) to determine the incidence, extent,
+and covering factor of extended gaseous envelopes of luminous galaxies and (b)
+to determine the fraction of Lyman alpha absorption systems that arise in
+luminous galaxies. The goal of the survey is to identify in each field under
+consideration all objects with apparent r-band magnitudes satisfying r< 21.5
+within angular distances to the QSOs satisfying theta < 1.3 arcmin. We find
+that at z \apl 1 most luminous galaxies are surrounded by extended gaseous
+envelopes of approx 160 h^{-1} kpc radius and roughly unit covering factor and
+that at z \apl 1 the fraction of Ly alpha absorption systems that arise in
+luminous galaxies is at least 0.35 \pm 0.10 and is likely 0.65 \pm 0.18.
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 04:03:37 GMT""}]","2007-05-23"
+"cond-mat/9410042","Tatara Gen","Gen Tatara (The Institute of Physical and Chemical Research
+  (RIKEN),Wako, Saitama 351-01, Japan) and Hidetoshi Fukuyama (Dept. of
+  Physics, Univ. of Tokyo, 7-3-1 Hongo, Tokyo 113, Japan)","Macroscopic Quantum Tunneling and Dissipation of Domain Wall in
+  Ferromagnetic Metals","of pages 26, to appear in ""Quantum Tunneling of Magnetization, ed. B.
+  Barbara and L. Gunther (Kluwer Academic Pub.), Figures available by FAX
+  (81-48-462-4649)",,"10.1143/JPSJ.63.2538",,"cond-mat",,"  The depinning of a domain wall in ferromagentic metal via macroscopic quantum
+tunneling is studied based on the Hubbard model. The dynamics of the
+magnetization verctor is shown to be governed by an effective action of
+Heisenberg model with a term non-local in time that describes the dissipation
+due to the conduction electron. Due to the existence of the Fermi surface there
+exists Ohmic dissipation even at zero temperature, which is crucially different
+from the case of the insulator. Taking into account the effect of pinning and
+the external magnetic field the action is rewritten in terms of a collective
+coordinate, the position of the wall, $Q$. The tunneling rate for $Q$ is
+calculated by use of the instanton method. It is found that the reduction of
+the tunneling rate due to the dissipation is very large for a thin domain wall
+with thickness of a few times the lattice spacing, but is negligible for a
+thick domain wall. Dissipation due to eddy current is shown to be negligible
+for a wall of mesoscopic size.
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 02:18:09 GMT""}]","2015-06-25"
+"cond-mat/9410043","Melzer Ezer","Ezer Melzer","On the Scaling Limit of the 1D Hubbard Model at Half Filling","14 pages in harvmac, Tel-Aviv preprint TAUP 2203-94",,"10.1016/0550-3213(95)00105-2",,"cond-mat hep-th",,"  The dispersion relations and S-matrix of the one-dimensional Hubbard model at
+half filling are considered in a certain scaling limit. (In the process we
+derive a useful small-coupling expansion of the exact lattice dispersion
+relations.) The resulting scattering theory is consistently identified as that
+of the SU(2) chiral-invariant Thirring (or Gross-Neveu) field theory,
+containing both massive and massless sectors.
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 11:58:28 GMT""}]","2009-10-22"
+"cond-mat/9410044","Andreas Haedicke","H.-O. M\""uller, A. H\""adicke and W. Krech","On Thermometer Operation of Ultrasmall Tunnel Junctions","11 pages + 8 figures, REVTeX 3.0, JE-FKS-94-5 8 pages of Postscript
+  figures appended, The numbering of the figures is 1, 2, 3, 4, 5a, 5b, 5c and
+  6","phys.stat.sol. b 188(2), 667-77 (1995)",,,"cond-mat",,"  The temperature dependence of the I-V characteristics of many single-electron
+tunneling devices enable thermometer operation of these systems. We investigate
+two normal conducting kinds of them, {\sl (a)} a single junction in a
+high-impedance environment, and {\sl (b)} a double junction. The
+characteristics of both devices show a crossover from Coulomb blockade at low
+temperatures to ohmic behavior at high temperatures. The related differential
+conductivity dip allows the determination of the junctions temperature. Both
+configurations {\sl (a)} and {\sl (b)} are expected to work at least within the
+range $0.5\le\beta E_{\rm C}\le 10$, where $E_{\rm C}$ is the Coulomb energy of
+the system under investigation. We present an analytical solution for both low-
+and high-temperature case of {\sl (a)} and {\sl (b)} as well as numerical
+results and their fit, including the effect of co-tunneling in case of a double
+junction.
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 13:35:05 GMT""}]","2007-05-23"
+"dg-ga/9410005","J. C. Wood","P. Baird and J.C. Wood","Hermitian structures and harmonic morphisms in higher dimensional
+  Euclidean spaces","34 pages, preprint, University of Leeds, 94-13",,,,"dg-ga math.DG",,"  We construct new complex-valued harmonic morphisms from Euclidean spaces from
+functions which are holomorphic with respect to Hermitian structures. In
+particular, we give the first global examples of complex-valued harmonic
+morphisms from ${\bf R}^n$ for each $n>4$ which do not arise from a K\""ahler
+structure; it is known that such examples do not exist for $n \leq 4$.
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 14:29:42 GMT""},{""version"":""v2"",""created"":""Mon, 17 Oct 1994 08:41:30 GMT""}]","2008-02-03"
+"funct-an/9410003","Dana Williams","Siegfried Echterhoff and Dana Williams","Crossed products whose primitive ideal spaces are generalized trivial
+  $\widehat G$-bundles","25 pages, AMS-LaTeX v1.1, EW94. Postscript and dvi versions of this
+  paper are also available at http://coos.dartmouth.edu/~dana/dana.html/",,,,"funct-an math.OA",,"  We characterize when the primitive ideal space of a crossed product $\acg$ of
+a \cs-algebra $A$ by a locally compact abelian group $G$ is a $\sigma$-trivial
+$\ghat G$-space for the dual $\ghat G$-action. Specifically, we show that
+$\Prim(\acg)$ is $\sigma$-trivial if and only if the quasi-orbit space is
+Hausdorff, the map which assigns to each quasi-orbit $\w$ a certain subgroup
+$\ttg(\alpha^\w)$ of the Connes spectrum of the system $(A_\w,G,\alpha^\w)$ is
+continuous, and there is a generalized Green twisting map for $(A,G,\alpha)$.
+Our proof requires a substantial generalization of a theorem of Olesen and
+Pedersen in which we show that there is a generalized Green twisting map for
+$(A,G,\alpha)$ if and only if $\acg$ is isomorphic to a generalized induced
+algebra.
+","[{""version"":""v1"",""created"":""Wed, 12 Oct 1994 20:48:47 GMT""}]","2016-08-31"
+"gr-qc/9410016","Takashi Tachizawa","T. Tachizawa, K. Maeda, and T. Torii","Non-Abelian Black Holes and Catastrophe Theory II: Charged Type","23 pages, LaTeX (Figures are available on request as hard copies.)
+  WU-AP/40/93","Phys.Rev. D51 (1995) 4054-4066","10.1103/PhysRevD.51.4054",,"gr-qc astro-ph hep-th",,"  We reanalyze the gravitating monopole and its black hole solutions in the
+Einstein-Yang-Mills-Higgs system and we discuss their stabilities from the
+point of view of catastrophe theory. Although these non-trivial solutions
+exhibit fine and complicated structures, we find that stability is
+systematically understood via a swallow tail catastrophe. The
+Reissner-Nordstr\""{o}m trivial solution becomes unstable from the point where
+the non-trivial monopole black hole appears. We also find that, within a very
+small parameter range, the specific heat of a monopole black hole changes its
+sign .
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 04:07:25 GMT""},{""version"":""v2"",""created"":""Mon, 17 Oct 1994 06:16:54 GMT""}]","2009-10-22"
+"gr-qc/9410017","Renaud Parentani","Parentani Renaud","The inequivalence of thermodynamic ensembles","16 pages, Latex file with 3 figures available on request at
+  parenta@physique.ens.fr",,,,"gr-qc",,"  The inequivalence of thermodynamical ensembles related by a Legendre
+transformation is manifest in self-gravitating systems and in black hole
+thermodynamics. Using the Poincare's method of the linear series, we describe
+the mathematical reasons which lead to this inequivalence which in turn induces
+a hierarchy of ensembles: the most stable ensemble describes the most isolated
+system. Moreover, we prove that one can obtain the degree of stability of all
+equilibrium configurations in any ensensemble related by Legendre
+transformations to the most stable if one knows the degree of stability in the
+most stable ensemble.
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 14:31:51 GMT""}]","2009-09-25"
+"gr-qc/9410018","John Baez","John Baez","Knots and Quantum Gravity: Progress and Prospects","22 pages in LaTeX",,,,"gr-qc hep-th",,"  Recent work on the loop representation of quantum gravity has revealed
+previously unsuspected connections between knot theory and quantum gravity, or
+more generally, 3-dimensional topology and 4-dimensional generally covariant
+physics. We review how some of these relationships arise from a `ladder of
+field theories' including quantum gravity and BF theory in 4 dimensions,
+Chern-Simons theory in 3 dimensions, and the G/G gauged WZW model in 2
+dimensions. We also describe the relation between link (or multiloop)
+invariants and generalized measures on the space of connections. In addition,
+we pose some research problems and describe some new results, including a proof
+(due to Sawin) that the Chern-Simons path integral is not given by a
+generalized measure.
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 14:51:13 GMT""}]","2007-05-23"
+"hep-ex/9410010","Krzysztof L. Genser; 840-8278; MS","Krzysztof GENSER (Fermilab), D0 Collaboration","Search for Top with D0 Detector in Dilepton Channel","talk presented at the Eight Meeting of DPF of APS, Albuquerque,NM,
+  August 1994, 5 pages, FNAL/CONF-94/288, .ps at
+  http://d0wop.fnal.gov/d0pubs/dpf94/genser.ps",,,,"hep-ex",,"  Preliminary results from a search for high mass ttbar quark pair production
+in ppbar collisions at sqrt(s)=1.8TeV with the D0 detector in the ee+jets,
+emu+jets, and mumu+jets decay channels are presented. No conclusive evidence
+for top quark production for an integrated luminosity of 13.5+/-1.6pb-1 is
+observed.
+","[{""version"":""v1"",""created"":""Wed, 12 Oct 1994 16:54:48 GMT""}]","2009-09-25"
+"hep-lat/9410006","Thomas Kalkreuter","Thomas Kalkreuter","Spectrum of the Dirac Operator and Inversion Algorithms with Dynamical
+  Staggered Fermions","3 pages, 1 figure, uuencoded tar-compressed .ps-file, contribution to
+  LATTICE'94, report# HUB-IEP-94/22","Nucl.Phys.Proc.Suppl. 42 (1995) 882-884","10.1016/0920-5632(95)00410-B",,"hep-lat",,"  Complete spectra of the staggered Dirac operator $\Dirac$ are determined in
+four-dimensional $SU(2)$ gauge fields with and without dynamical fermions.
+  An attempt is made to relate the performance of multigrid and conjugate
+gradient algorithms for propagators with the distribution of the eigenvalues
+of~$\Dirac$.
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 15:58:21 GMT""}]","2009-10-22"
+"hep-ph/9410272",,"M.Genovese, N.N.Nikolaev and B.G.Zakharov","Direct calculation of the triple-pomeron coupling for diffractive DIS
+  and real photoproduction","14 pages, 1 figure (request from kph154@zam001.zam.kfa-juelich.de),
+  Juelich preprint KFA-IKP(Th)-1994-36","J.Exp.Theor.Phys. 81 (1995) 633-637; Zh.Eksp.Teor.Fiz. 108 (1995)
+  1155-1163",,,"hep-ph",,"  We present a unified direct calculation of the triple-pomeron coupling
+$A_{3\Pom}(Q^{2})$ for diffractive real photoproduction ($Q^{2}=0$) and deep
+inelastic scattering at large $Q^{2}$ in the framework of the dipole approach
+to the generalized BFKL pomeron. The small phenomenological value of
+$A_{3\Pom}(0)\approx 0.16$\,GeV$^{2}$, which was a mystery, is related to the
+small correlation radius $R_{c}\approx 0.3$\,fm for the perturbative gluons. We
+confirm the early expectations of weak $Q^{2}$ dependence of the dimensionfull
+coupling $A_{3\Pom}(Q^{2})$ and predict that it rises by the factor $\sim 1.6$
+from real photoproduction to deep inelastic scattering.
+","[{""version"":""v1"",""created"":""Wed, 12 Oct 1994 20:13:45 GMT""}]","2009-09-25"
+"hep-ph/9410273",,"M.Genovese, N.N. Nikolaev and B.G. Zakharov","Diffractive DIS from the generalized BFKL pomeron. Predictions for HERA","16 pages, 6 figures (request from kph154@zam001.zam.kfa-juelich.de),
+  Juelich preprint KFA-IKP(Th)-1994-37","J.Exp.Theor.Phys. 81 (1995) 625-632; Zh.Eksp.Teor.Fiz. 108 (1995)
+  1141-1154",,,"hep-ph",,"  We present microscopic QCD calculation of the cross section of diffractive
+DIS and of the partonic structure of the pomeron from the dipole approach to
+the generalized BFKL pomeron. We show that the pomeron can not be treated as a
+particle with uniquely defined structure function and flux in the proton. We
+find strong factorization breaking which can approximately be described by the
+two-component structure function of the pomeron, each component endowed with
+the different flux of pomerons in the proton. We predict very weak $Q^{2}$
+dependence of the diffractive contribution to the proton structure function.
+","[{""version"":""v1"",""created"":""Wed, 12 Oct 1994 20:14:25 GMT""}]","2009-09-25"
+"hep-ph/9410274","Bonnie Friedman","Xiangdong Ji","A QCD Analysis of the Mass Structure of the Nucleon","9 pages, MIT-CTP #2368, revtex with 1 table","Phys.Rev.Lett. 74 (1995) 1071-1074","10.1103/PhysRevLett.74.1071",,"hep-ph hep-th",,"  {}From the deep-inelastic momentum sum rule and the trace anomaly of the
+energy-momentum tensor, I derive a separation of the nucleon mass into the
+contributions of the quark and gluon kinetic and potential energies, the quark
+masses, and the trace anomaly.
+","[{""version"":""v1"",""created"":""Wed, 12 Oct 1994 22:00:55 GMT""}]","2009-10-28"
+"hep-ph/9410275","Kubota Takahiro","Shinya Kanemura and Takahiro Kubota","Radiative Corrections to the Higgs Boson Decay into a Longitudinal
+  $W$-Boson Pair in a Two-Doublet Model","32 pages plus 8 figures, OU-HET 197 LaTex","Phys.Rev.D51:3544-3556,1995; Erratum-ibid.D56:1820,1997","10.1103/PhysRevD.51.3544 10.1103/PhysRevD.56.1820",,"hep-ph",,"  The decay rate of a (neutral) Higgs boson ($H$) going into a longitudinal
+$W$-boson pair is calculated by including one loop radiative corrections in a
+two-Higgs doublet model. It is assumed that the
+  Higgs boson $H$ is much heavier than the $W$ boson and a full use has been
+made of the equivalence theorem. A possibility is explored extensively that the
+precise measurement of the decay rate of $H$ could be useful as a probe of the
+other neutral as well as charged Higgs bosons through potentially important
+radiative corrections. It is pointed out that, for some choice of the
+parameters, the radiative corrections are sizable and that there exist a
+possibility of extracting useful information on the other Higgs boson masses.
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 10:22:05 GMT""}]","2014-11-17"
+"hep-ph/9410276",,"Samuel W. MacDowell and Ola T\""ornkvist","Instability of a Nielsen-Olesen Vortex Embedded in the Electroweak
+  Theory: I. the Single-Component Higgs Gauge","16 pages, plain latex, talk given at the G\""ursey Memorial Conference
+  I on Strings and Symmetries, Istanbul, Turkey 6-10 June 1994, Preprint
+  NORDITA 94/52P",,,,"hep-ph",,"  The stability of an abelian (Nielsen-Olesen) vortex embedded in the
+electroweak theory against W production is investigated in a gauge defined by
+the condition of a single-component Higgs field. The model is characterized by
+the parameters $\beta=({M_H\over M_Z})^2$ and $\gamma=\cos^2\theta_{\rm w}$
+where $\theta_{\rm w}$ is the weak mixing angle. It is shown that the equations
+for W's in the background of the Nielsen-Olesen vortex have no solutions in the
+linear approximation. A necessary condition for the nonlinear equations to have
+a solution in the region of parameter space where the abelian vortex is
+classically unstable is that the W's be produced in a state of angular momentum
+$m$ such that $0>m>-2n$. The integer $n$ is defined by the phase of the Higgs
+field, $\exp(in\varphi)$. Solutions for a set of values of the parameters
+$\beta$ and $\gamma$ in this region were obtained numerically for the case
+$-m=n=1$. The possibility of existence of a stationary state for $n=1$ with W's
+in the state $m=-1$ was investigated. The boundary conditions for the
+Euler-Lagrange equations required to make the energy finite cannot be satisfied
+at $r=0$. For these values of $n$ and $m$ the possibility of a finite-energy
+stationary state defined in terms of distributions is discussed.
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 11:20:30 GMT""}]","2007-05-23"
+"hep-ph/9410277","Raymond Robert Volkas","H. Lew and R. R. Volkas","New physics motivated by the low energy approach to electric charge
+  quantization","11 pages, UM-P-94/68, LaTeX","Phys.Rev. D51 (1995) 3849-3854","10.1103/PhysRevD.51.3849",,"hep-ph",,"  The low-energy approach to electric charge quantization predicts physics
+beyond the minimal standard model. A model-independent approach via effective
+Lagrangians is used examine the possible new physics, which may manifest itself
+indirectly through family-lepton--number violating rare decays.
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 13:12:00 GMT""}]","2009-10-28"
+"hep-ph/9410279",,"M. A. Braun","Pomeron with a Running Coupling Constant: Intercept and Slope","10 pages, LaTeX, Universidade de Santiago preprint US-FT\17-94","Phys.Lett. B345 (1995) 155-160","10.1016/0370-2693(94)01545-N",,"hep-ph",,"  The equation for two reggeized gluons with a running QCD coupling constant,
+proposed earlier on the basis of the bootstrap condition, is investigated by
+the variational technique in the vacuum channel. The pomeron intercept and
+slope are calculated as a function of the infrared cutoff parameter $m$ (""the
+gluon mass""). The intercept depends weakly on $m$ staying in the region
+$0.3--0.5$ for values of $m$ in the range $0.3--1.0\ GeV$. The slope goes down
+from $5.0\ GeV^{-2}$ to $0.08\ GeV^{-2}$ in this range. The optimal value of
+$m$ seems to lie in the region $0.6--0.8\ GeV$ with the intercept $0.35$ and
+slope $0.35--0.15$. The character of the pomeron singularity: pole or cut, is
+also discussed.
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 10:26:37 GMT""}]","2009-10-28"
+"hep-th/9410086","Modanese","G. Modanese (INFN, Trento, and Max-Planck-Institut, Muenchen)","Vacuum correlations at geodesic distance in quantum gravity","report U.T.F. 332, July 94. Plain TeX, 67 pp. (+ 1 table and 7
+  figures, available from the author)","Riv.Nuovo Cim. 17N8 (1994) 1-62","10.1007/BF02724514",,"hep-th",,"  The vacuum correlations of the gravitational field are highly non-trivial to
+be defined and computed, as soon as their arguments and indices do not belong
+to a background but become dynamical quantities. Their knowledge is essential
+however in order to understand some physical properties of quantum gravity,
+like virtual excitations and the possibility of a continuum limit for lattice
+theory. In this review the most recent perturbative and non-perturbative
+advances in this field are presented. (To appear on Riv. Nuovo Cim.)
+","[{""version"":""v1"",""created"":""Wed, 12 Oct 1994 19:15:15 GMT""}]","2015-06-26"
+"hep-th/9410087","Tom Wynter","Vladimir A. Kazakov and Thomas Wynter","Large $N$ Phase Transition In The Heat Kernel On The $U(N)$ Group","17 pages, LPTENS-94/28","Nucl.Phys. B440 (1995) 407-420","10.1016/0550-3213(95)00077-6",,"hep-th",,"  The large N phase transition point is investigated in the heat kernel on the
+$U(N)$ group with respect to arbitrary boundary conditions. A simple functional
+relation is found relating the density of eigenvalues of the boundary field to
+the saddle point shape of the typical Young tableaux in the large $N$ limit of
+the character expansion of the heat kernel. Both strong coupling and weak
+coupling phases are investigated for some particular cases of the boundary
+holonomy.
+","[{""version"":""v1"",""created"":""Wed, 12 Oct 1994 20:24:28 GMT""}]","2009-10-28"
+"hep-th/9410088","Takashi Suzuki","Takashi Suzuki","Towards a Strong Coupling Liouville Gravity","10 pages, Latex file, to appear in Phys. Lett. B","Phys.Lett. B338 (1994) 175-180","10.1016/0370-2693(94)91363-3",,"hep-th",,"  A possibility of strong coupling quantum Liouville gravity is investigated
+via infinite dimensional representations of $\qslc$ with $q$ at a root of
+unity. It is explicitly shown that vertex operator in this model can be written
+by a tensor product of a vertex operator of the classical Liouville theory and
+that of weak coupling quantum Liouville theory. Some discussions about the
+strong coupling Liouville gravity within this formulation are given.
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 00:52:43 GMT""}]","2009-10-28"
+"hep-th/9410089","Anton Kapustin","D. Gepner, A. Kapustin","On the classification of fusion rings","10 pages, CALT-68-1960","Phys.Lett. B349 (1995) 71-75","10.1016/0370-2693(95)00172-H",,"hep-th",,"  The fusion rules and modular matrix of a rational conformal field theory obey
+a list of properties. We use these properties to classify rational conformal
+field theories with not more than six primary fields and small values of the
+fusion coefficients. We give a catalogue of fusion rings which can arise for
+these field theories. It is shown that all such fusion rules can be realized by
+current algebras. Our results support the conjecture that all rational
+conformal field theories are related to current algebras.
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 01:36:22 GMT""}]","2009-10-28"
+"hep-th/9410090","Masako Asano","Masako Asano, Chigak Itoi and Shin-Ichi Kojima","Quantum Diffusion Process with a Complex Weight on Three Dimensional
+  Lattice","7 pages, LaTeX, TIT/HEP--267, NUP-A-94-18",,,,"hep-th cond-mat hep-lat",,"  A rigorous definition of a path integral for a spinning particle in three
+dimensions is given on a regular cubic lattice. The critical diffusion constant
+and the associated critical exponents in each spin are calculated. Continuum
+field theories such as Klein-Gordon, Dirac and massive Chern-Simons theories
+are constructed near these critical points. The universality of obtained
+results is argued on some other lattices.
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 08:27:34 GMT""}]","2007-05-23"
+"hep-th/9410091","Dmitry Ivanov","D. Ivanov","Knizhnik-Zamolodchikov-Bernard equations on Riemann surfaces","23 pages","Int.J.Mod.Phys. A10 (1995) 2507","10.1142/S0217751X95001200",,"hep-th math.QA",,"  Knizhnik-Zamolodchikov-Bernard equations for twisted conformal blocks on
+compact Riemann surfaces with marked points are written explicitly in a general
+projective structure in terms of correlation functions in the theory of twisted
+b-c systems. It is checked that on the moduli space the equations provide a
+flat connection with the spectral parameter.
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 08:25:47 GMT""},{""version"":""v2"",""created"":""Thu, 29 Dec 1994 20:22:03 GMT""}]","2009-10-28"
+"hep-th/9410092","H. Sato","Haru-Tada Sato and Hisao Suzuki","On Bogoliubov Transformation of Scalar Wave Functions in De Sitter Space","16 pages, OU-HET 202, LMU-TPW 94-13","Mod.Phys.Lett. A9 (1994) 3673-3684","10.1142/S0217732394003518",,"hep-th",,"  We discuss the Bogoliubov transformation of the scalar wave functions caused
+by the change of coordinates in 4 dimensional de Sitter space. It is shown that
+the exact Bogoliubov coefficients can be obtained from the global coordinates
+to the static coordinates where there exist manifest horizon. We consider two
+type of global coordinates. In one global coordinates, it is shown that the
+Bogoliubov transformation to the static coordinates can be expressed by the
+discontinuous integral of Weber and Schafheitlin. The positive and negative
+energy states in the global coordinates degenerate in the static coordinates.
+In the other global coordinates, we obtain the Bogoliubov coefficients by using
+the analytic continuation of the hypergeometric functions in two variables.
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 09:33:01 GMT""}]","2015-06-26"
+"hep-th/9410093","A. Petkos","Anastasios Petkou","Conserved Currents, Consistency Relations and Operator Product
+  Expansions in the Conformally Invariant O(N) Vector Model","45 pages Latex + 2 uuencoded PostScript figures, DAMTP 94/12","Annals Phys.249:180-221,1996","10.1006/aphy.1996.0068",,"hep-th cond-mat",,"  We discuss conserved currents and operator product expansions (OPE's) in the
+context of a $O(N)$ invariant conformal field theory. Using OPE's we find
+explicit expressions for the first few terms in suitable short-distance limits
+for various four-point functions involving the fundamental $N$-component scalar
+field $\phi^{\alpha}(x)$, $\alpha=1,2,..,N$. We propose an alternative
+evaluation of these four-point functions based on graphical expansions.
+Requiring consistency of the algebraic and graphical treatments of the
+four-point functions we obtain the values of the dynamical parameters in either
+a free theory of $N$ massless fields or a non-trivial conformally invariant
+$O(N)$ vector model in $2<d<4$, up to next-to-leading order in a $1/N$
+expansion. Our approach suggests an interesting duality property of the
+critical $O(N)$ invariant theory. Also, solving our consistency relations we
+obtain the next-to-leading order in $1/N$ correction for $C_{T}$ which
+corresponds to the normalisation of the energy momentum tensor two-point
+function.
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 10:43:00 GMT""},{""version"":""v2"",""created"":""Thu, 13 Oct 1994 11:44:00 GMT""},{""version"":""v3"",""created"":""Sun, 30 Oct 1994 16:48:29 GMT""}]","2014-11-18"
+"hep-th/9410094","Karl Strobl","M. Hindmarsh and K. Strobl","Statistical Properties of Strings","20 pages, 8 figures (uuencoded) appended, DAMTP-94-56, SUSX-TP-94-72","Nucl.Phys. B437 (1995) 471-488","10.1016/0550-3213(94)00593-4",,"hep-th astro-ph cond-mat hep-lat hep-ph",,"  We investigate numerically the configurational statistics of strings. The
+algorithm models an ensemble of global $U(1)$ cosmic strings, or equivalently
+vortices in superfluid $^4$He. We use a new method which avoids the
+specification of boundary conditions on the lattice. We therefore do not have
+the artificial distinction between short and long string loops or a `second
+phase' in the string network statistics associated with strings winding around
+a toroidal lattice. Our lattice is also tetrahedral, which avoids ambiguities
+associated with the cubic lattices of previous work. We find that the
+percentage of infinite string is somewhat lower than on cubic lattices, 63\%
+instead of 80\%. We also investigate the Hagedorn transition, at which infinite
+strings percolate, controlling the string density by rendering one of the
+equilibrium states more probable. We measure the percolation threshold, the
+critical exponent associated with the divergence of a suitably defined
+susceptibility of the string loops, and that associated with the divergence of
+the correlation length.
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 11:49:08 GMT""}]","2009-10-28"
+"hep-th/9410095","Ruth Gregory","Brandon Carter and Ruth Gregory","Curvature Corrections to Dynamics of Domain Walls","19 pages plain TeX, 2 figures included","Phys.Rev.D51:5839-5846,1995","10.1103/PhysRevD.51.5839",,"hep-th astro-ph hep-ph",,"  The most usual procedure for deriving curvature corrections to effective
+actions for topological defects is subjected to a critical reappraisal. A
+logically unjustified step (leading to overdetermination) is identified and
+rectified, taking the standard domain wall case as an illustrative example.
+Using the appropriately corrected procedure, we obtain a new exact (analytic)
+expression for the corresponding effective action contribution of quadratic
+order in the wall width, in terms of the intrinsic Ricci scalar $R$ and the
+extrinsic curvature scalar $K$. The result is proportional to $cK^2-R$ with the
+coefficient given by $c\simeq 2$. The resulting form of the ensuing dynamical
+equations is obtained in terms of the second fundamental form and the
+Dalembertian of its trace, K. It is argued that this does not invalidate the
+physical conclusions obtained from the ""zero rigidity"" ansatz $c=0$ used in
+previous work.
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 13:23:47 GMT""}]","2010-11-01"
+"hep-th/9410096","J. W. Goodison","J.W.Goodison and D.J.Toms","The Canonical Partition Function for Quons","12 pages RevTex, NCL94-TP5 ( To be published in Physics Letters A )",,"10.1016/0375-9601(94)90423-5",,"hep-th",,"  We calculate the canonical partition function $Z_N$ for a system of $N$ free
+particles obeying so-called `quon' statistics where $q$ is real and satisfies
+$|q|<1$ by using simple counting arguments. We observe that this system is
+afflicted by the Gibbs paradox and that $Z_N$ is independent of $q$. We
+demonstrate that such a system of particles obeys the ideal gas law and that
+the internal energy $U$ ( and hence the specific heat capacity $C_V$ ) is
+identical to that of a system of $N$ free particles obeying Maxwell-Boltzmann
+statistics.
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 14:49:04 GMT""}]","2009-10-28"
+"hep-th/9410097","Javier Mas","Fernando Martinez-Moras and Javier Mas","Centrally Extended W_{1+\infty} and the KP Hierarchy","10 pages, plain tex (all macros included), US-FT-17-94, (some AMS
+  fonts have been skipped for easier TEXing)","Phys.Lett.B344:127-134,1995","10.1016/0370-2693(94)01518-H",,"hep-th",,"  It is well known that the centerless W_{1+\infty} algebra provides a
+hamiltonian structure for the KP hierarchy. In this letter we address the
+question whether the centerful version plays a similar r\^ole in any related
+integrable system. We find that, surprisingly enough, the centrally extended
+W_{1+\infty} algebra yields yet another Poisson structure for the same standard
+KP hierarchy. This is proven by explicit construction of the infinitely many
+new hamiltonians in closed form.
+","[{""version"":""v1"",""created"":""Thu, 13 Oct 1994 10:55:52 GMT""},{""version"":""v2"",""created"":""Mon, 17 Oct 1994 04:22:40 GMT""},{""version"":""v3"",""created"":""Thu, 20 Oct 1994 10:52:25 GMT""}]","2008-11-26"
+"nucl-th/9410020","Elaine Remillard","S. Shelly Sharma, and N.K. Sharma","q-deformed pairing-vibrations","17 pages, 9 figures avail. upon request, LaTex","Phys.Rev.C50:2323-2331,1994","10.1103/PhysRevC.50.2323",,"nucl-th",,"  Boson creation operators constructed from linear combinations of q- deformed
+zero coupled nucleon pair operators acting on the nucleus (A,0), are used to
+derive pp-RPA equations. The solutions of these equations are the pairing
+vibrations in (A${\underline{+}}$2) nuclei. For the $0^+_1$ and $0^+_2$ states
+of the nucleus $^{208}$Pb, the variations of relative energies and transfer
+cross-sections for populating these states via (t,p) reaction, with deformation
+parameter $\tau$ have been analysed. For $\tau=0.405$ the experimental
+excitation energy of 4.87MeV and the ratio $\frac{\sigma(0^+_2)
+}{\sigma(0^+_1)}=0.45$ are well reproduced. The critical value of pairing
+interaction strength for which phase transition takes place, is seen to be
+lower for deformed zero-coupled nucleon pair condensate with $\tau$ real,
+supporting our earlier conclusion that the real deformation simulates the
+two-body residual interaction. For $\tau$ purely imaginary a stronger pairing
+interaction is required to bring about the phase transition. The effect of
+imaginary deformation is akin to that of an antipairing type repulsive
+interaction. Using deformed zero coupled quasi-particle pairs, a deformed
+version of Quasi-boson approximation for $0^+$ states in superconducting nuclei
+is developed. For the test model of 20 particles in two shells, the results of
+q-deformed boson and quasi-boson approximations have been compared with exact
+results. It is found that the deformation effectively takes into account the
+anharmonicities and may be taken as a quantitative measure of the correlations
+not being accounted for in a certain approximate treatment.
+","[{""version"":""v1"",""created"":""Wed, 12 Oct 1994 18:23:13 GMT""}]","2008-11-26"

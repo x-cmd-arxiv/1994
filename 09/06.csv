@@ -1,0 +1,301 @@
+"astro-ph/9409011","Pascal de Theije","P.A.M. de Theije, P. Katgert, E. van Kampen","The Shapes of Galaxy Clusters","17 pages, postscript, submitted to MNRAS",,"10.1093/mnras/273.1.30","STW 264-94","astro-ph",,"  We have reanalyzed a data set of 99 low redshift ($ z < 0.1 $) Abell clusters
+and determined their shapes. For this, three different measures are used. We
+use Monte-Carlo simulations to investigate the errors in the methods. The
+corrected distribution of cluster ellipticities shows a peak at $ \epsilon \sim
+0.4 $ and extends to $ \epsilon \sim 0.8 $. The results are self-consistent,
+i.e., with the corrected distribution over projected cluster shapes we can
+reconstruct the observed distribution and the observed relation between the
+number of galaxies in a cluster and its ellipticity. It is shown that the
+richer clusters are intrinsically more nearly spherical than the poorer ones.
+The corrected distribution of cluster shapes is more consistent with a prolate
+population than with an oblate population.
+  We compare the corrected true distribution of (projected) ellipticities with
+predictions from N-body simulations. For this, we use a catalogue of 75 N-body
+simulated clusters (van Kampen 1994) which assume a CDM spectrum with $ \Omega
+= 1.0 $. The simulations include a recipe for galaxy formation and merging.
+'Observing' these simulated clusters produces an ellipticity distribution that
+extends to much higher $ \epsilon $ and that has too few nearly spherical
+clusters. Preliminary results of simulations of the formation of clusters in an
+$ \Omega = 0.2 $ universe suggest that, on average, clusters are more nearly
+spherical in this case.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 06:58:12 GMT""}]","2015-06-24"
+"astro-ph/9409012","Paul Johnson","P. A. Johnson","Rapid Stochastic Acceleration of Protons to Energies Above 100~TeV in
+  the Accretion Column Of Hercules X-1","14 pages of uuencoded compressed postscript including 10 figures,
+  accepted by Astroparticle Physics, ADP-AT-94-8",,"10.1016/0927-6505(94)00031-W",,"astro-ph",,"  An investigation into the acceleration of protons by scattering off
+relativistic Alfv\'{e}n waves in the accretion column of Hercules X-1 is
+presented. The mechanism is shown to achieve mean particle energies of 30~TeV
+under very reasonable assumptions about the environment, and 250~TeV is
+available under some circumstances. The highest individual energy attained is
+almost 1~PeV. The protons emerge in the form of a narrow beam directed at the
+inner edge of the accretion disk, which is favourable because of the reduced
+power requirement and presence of target material for gamma-ray production.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 07:02:16 GMT""}]","2009-10-22"
+"astro-ph/9409013",,"G. Marconi, M. Tosi, L. Greggio and P. Focardi","Star Formation in Dwarf Irregular Galaxies: NGC 6822","plain Tex format; for hardcopy of figures and tables 2 and 3 contact
+  Tosi@astbo3.bo.astro.it; BAP 09-1994-023-DDA",,"10.1086/117265",,"astro-ph",,"  Our proposed method to study the star formation histories in nearby
+irregulars is here applied to NGC 6822. To this purpose we have obtained
+accurate CCD photometry of three regions in the galaxy, reaching V$\simeq$23.5
+with an accuracy of $\sigma_{BVR}\leq$0.1 mag. The comparison of the
+observational color-magnitude diagrams and luminosity functions with
+corresponding synthetic simulations reveals that the star formation activity in
+the last Gyr has been rather continuous, possibly occurring in long episodes
+separated by short quiescent periods, and that the initial mass function
+exponent $\alpha$ is in the vicinity of Salpeter's value. The studied regions
+of NGC~6822 appear to contain different stellar populations. The preferred star
+formation regime for Region A is a continuous activity coupled with a
+moderately flat $\alpha$. For Region C, instead, our best models suggest a
+discontinuous star formation and a moderately steep $\alpha$. NGC 6822 is the
+last object of our original sample of five nearby irregulars. We can then draw
+the scenario resulting from this sample: most of the observed fields appear to
+have experienced a {\it gasping} regime of star formation, with average
+exponent $\alpha$=2.35 for the initial mass function. Despite their small
+sizes, the majority of the sample galaxies contain different stellar
+populations in different regions.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 08:39:59 GMT""}]","2009-10-22"
+"cmp-lg/9409001",,"Kevin Knight (USC/ISI), Ishwar Chander (USC/ISI), Matthew Haines
+  (USC/ISI), Vasileios Hatzivassiloglou (Columbia Univ.), Eduard Hovy
+  (USC/ISI), Masayo Iida (USC/ISI), Steve K. Luk (USC/ISI), Akitoshi Okumura
+  (NEC), Richard Whitney (USC/ISI), Kenji Yamada (USC/ISI)","Integrating Knowledge Bases and Statistics in MT","8 pages, compressed, uuencoded postscript","Proc Association for Machine Translation in the Americas (AMTA-94)",,,"cmp-lg cs.CL",,"  We summarize recent machine translation (MT) research at the Information
+Sciences Institute of USC, and we describe its application to the development
+of a Japanese-English newspaper MT system. Our work aims at scaling up
+grammar-based, knowledge-based MT techniques. This scale-up involves the use of
+statistical methods, both in acquiring effective knowledge resources and in
+making reasonable linguistic choices in the face of knowledge gaps.
+","[{""version"":""v1"",""created"":""Mon, 5 Sep 1994 21:21:29 GMT""}]","2008-02-03"
+"cond-mat/9409011","Dr S. Dalley","Simon Dalley","Polymer Collapse on Fluctuating Random Surfaces","9 pages LaTeX (some incorrect claims removed)",,,"OUTP-9419P","cond-mat hep-th",,"  The conformations of interacting linear polymers on a dynamical planar random
+lattice are studied using a random two-matrix model. An exact expression for
+the partition function of self-avoiding chains subject to attractive contact
+interactions of relative strength $1/c$, $0<c<1$, is found as a function of
+chain length $L$ and $c$. The number of configurations $L^a {\rm e}^{bL}$ as
+$L\to \infty$ is determined, showing that a chain undergoes a third-order
+collapse transition at $c=\sqrt{2} -1$; the universal scaling laws are found.
+","[{""version"":""v1"",""created"":""Mon, 5 Sep 1994 16:21:00 GMT""},{""version"":""v2"",""created"":""Wed, 11 Jan 1995 15:06:12 GMT""},{""version"":""v3"",""created"":""Thu, 12 Jan 1995 14:31:02 GMT""}]","2008-02-03"
+"cond-mat/9409012","Jainendra Jain","J.K. Jain","Compressible $\nu=\frac{1}{2}$ state in a finite size study?","revtex",,"10.1103/PhysRevLett.73.1051",,"cond-mat",,"  This is a comment published in Phys. Rev. Lett. vol. 73, page 1051 (1994).
+","[{""version"":""v1"",""created"":""Mon, 5 Sep 1994 22:56:00 GMT""}]","2009-10-22"
+"cond-mat/9409014","Nicola Manini","N.Manini and S.Oss","A simple approach to the correlation of rotovibrational states in
+  four-atomic molecules","16 pages (+8 figures), Postscript (ready to print!)","Z. Phys. D 32, 85 (1994)","10.1007/BF01425928","SISSA Ref. 119/94/CM/MB","cond-mat",,"  The problem of correlation between quantum states of four-atomic molecules in
+different geometrical configurations is reviewed in detail. A general, still
+simple rule is obtained which allows one to correlate states of a linear
+four-atomic molecule with those of any kind of non-linear four-atomic molecule.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 07:57:33 GMT""}]","2009-10-22"
+"cond-mat/9409015","Luca Peliti","F Manzo and L Peliti","Geographic speciation in the Derrida-Higgs model of species formation","11, IOPTeX",,"10.1088/0305-4470/27/21/022",,"cond-mat q-bio.PE",,"  We consider the Derrida-Higgs (DH) statistical model of species formation in
+the case where the population is geographically distributed in discrete
+locations, and mating only takes place within one location. Keeping the rate of
+migration between neighbouring locations at a fixed value, we change the
+mutation rate, changing therefore the average overlap between genotypes. When
+the overlap between individuals living in different locations falls below a
+fecundity threshold, speciation occurs. When more species coexist, the genetic
+structure of the population (as described by the overlap distribution $P(q)$)
+fluctuates. However, the average overlap, both within one location and among
+neighbouring locations, appears to vary according to the same laws as in the
+absence of speciation. The model provides a reasonable estimate of the
+parameter values necessary to observe geographic speciation, which is found to
+be much more likely than the sympatric speciation of the original DH model.
+Applications to the case of circular invasion, where the concept of biological
+species appears to run into difficulties, are sketched.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 11:33:57 GMT""}]","2009-10-22"
+"cond-mat/9409016","Jaime Ferrer","Jaime Ferrer, J. Gonz\'alez and M.-A. Mart\'in-Delgado","Bosonization on the lattice: the emergence of the higher harmonics","Pages: 15 (REVTEX 3.0) plus 4 postscript figures appended at the end
+  of the text",,"10.1103/PhysRevB.51.4807",,"cond-mat hep-th",,"  A general and transparent procedure to bosonize fermions placed on a lattice
+is presented. Harmonics higher than $k_F$ are shown to appear in the
+one-paticle Green function, due to the compact character of real electron
+bands. Quantitative estimations of the role of these higher harmonics are made
+possible by the bosonization technique presented here.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 14:33:10 GMT""}]","2016-08-16"
+"cond-mat/9409017","Yang Chen","Yang Chen and Kasper Juel Eriksen","Gap Formation Probability of the $\alpha-$ Ensemble","29, latex","Int. J. Mod. Phys. B9 (1995) 1205","10.1142/S0217979295000513",,"cond-mat",,"  In this paper we employ the continuum approximation of Dyson to determine the
+asymptotic gap formation probability in the spectrum of $N\times N$ Hermitean
+random matrices. The associated orthogonal polynomials has weight function,
+$w(x)=e^{-u(x)},$ where $u(x)=x^{\alpha},\;\alpha>0,\;0<x<\infty.$ It is shown
+that the probability that the scaled interval $(0,s)$ contains no eigenvalues
+is universal for $\alpha>1/2$ and depends on $\alpha$ for $0<\alpha<1/2.$
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 13:25:35 GMT""}]","2015-06-25"
+"cond-mat/9409018","M. V. Sadovskii","E.Z.Kuchinskii, A.I.Posazhennikova, M.V.Sadovskii","Ginzburg-Landau Expansion and Physical Properties of Odd-Gap
+  Superconductors","19 pages + 11 Figures, 8 Postscript Figures included, RevTeX 3.0,
+  IEF-LTF 94-01","JETP 80 (1995) 324",,,"cond-mat",,"  Ginzburg-Landau expansion is derived for superconductors with the
+gap-function odd over $k-k_{F}$. It is shown that in this odd-gap case
+Ginzburg-Landau coefficients possess an additional dependence on the pairing
+coupling constant which leads to the appropriate dependence of the physical
+properties. Non-magnetic impurities influence the odd-gap pairing in a
+significant way and the mechanism of this influence is quite different from
+that predicted by the usual theory of ""dirty"" superconductors. In particular
+this is reflected in an anomalous behavior of the upper critical field $H_{c2}$
+slope close to $T_{c}$. We also derive the complete temperature dependence of
+$H_{c2}$ for the odd-gap case.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 12:46:53 GMT""}]","2007-05-23"
+"gr-qc/9409008","Bill Unruh","W. G. Unruh (Univ. of BC)","Dumb Holes and the Effects of High Frequencies on Black Hole Evaporation","This paper is being replaced to include figures, so that lanl can tex
+  the paper and produce a ps version. The paper was published in Phys. Rev. D
+  51, 2827-2838 (1995)",,"10.1103/PhysRevD.51.2827",,"gr-qc",,"  The naive calculation of black hole evaporation makes the thermal emission
+depend on the arbitrary high frequency behaviour of the theory where the theory
+is certainly wrong. Using the sonic analog to black holes-- dumb holes-- I show
+numerically that a change in the dispersion relation at high frequencies does
+not seem to alter the evaporation process, lending weight to the reality of the
+black hole evaporation process. I also suggest a reason for the insensitivity
+of the process to high frequency regime.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 01:32:00 GMT""},{""version"":""v2"",""created"":""Mon, 18 Oct 1999 01:54:19 GMT""}]","2009-10-22"
+"gr-qc/9409009","Alan Rendall","Alan D. Rendall","Global Properties of Locally Spatially Homogeneous Cosmological Models
+  with Matter","18 pages, MPA-AR-94-4",,"10.1017/S0305004100073837",,"gr-qc",,"  The existence and nature of singularities in locally spatially homogeneous
+solutions of the Einstein equations coupled to various phenomenological matter
+models is investigated. It is shown that, under certain reasonable assumptions
+on the matter, there are no singularities in an expanding phase of the
+evolution and that unless the spacetime is empty a contracting phase always
+ends in a singularity where at least one scalar invariant of the curvature
+diverges uniformly. The class of matter models treated includes perfect fluids,
+mixtures of non-interacting perfect fluids and collisionless matter.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 06:55:59 GMT""}]","2015-06-25"
+"gr-qc/9409010",,"Vladimir S. Mashkevich","Indeterministic Quantum Gravity","11 pages, LATEX, Kiev Institute of Physics preprint IP 9/94",,,,"gr-qc",,"  A theory which claims to describe all the universe is advanced. It unifies
+general relativity, quantum field theory, and indeterministic conception. Basic
+entities are: classical metric tensor $g$, cosmic reference frame (including
+cosmic time $t$), operator $T$ of energy-momentum tensor, Hamiltonian $H_t$,
+and state vector $\Psi$. Dynamical equations are: the Einstein equation
+$G[g]=(\Psi,T\Psi)$ ($G$ is the Einstein tensor), the Heisenberg equation
+$dT/dt=i[H_t,T]$, and the condition $H_t\Psi_t=\epsilon_t \Psi_t$ arising from
+the cosmic energy determinacy principle advanced in the theory. The last
+equation describes quantum jump dynamics. Quantum jumps lead to the
+instantaneous transferring of action and information, which, however, neither
+violates the causality principle, nor contradicts quantum field theory and
+general relativity. The cosmic energy determinacy principle implies the eternal
+universe, i.e., the cyclic one without beginning and ending, the minimal energy
+in every cycle being finite.
+","[{""version"":""v1"",""created"":""Mon, 5 Sep 1994 20:40:57 GMT""}]","2007-05-23"
+"hep-lat/9409002","Andrea Ruben Levi","A.R. Levi","Subtleties and Fancies in Gauge Theory Non Trivial Vacuum","21 pages, BU-HEP-94-23",,,,"hep-lat",,"  The one loop effective potential for a non-Abelian gauge configuration is
+analyzed using the background field method. The Savvidy result and the
+non-Abelian ansatz, the other alternative possible background that generates a
+constant color magnetic field configuration, are compared. This second
+possibility is very interesting because it avoids the possible coordinate
+singularity, ${\rm Det}B_i^a=0$, and it is easy to implement in lattice
+simulations. We emphasize the interesting dependence of the potential by the
+gauge fixing parameter $\alpha$, when the loop expansion is performed around a
+non trivial background configuration. Finally, we point out some crucial
+differences in analyzing the vacuum structure between non-Abelian gauge
+theories and the cases of scalar and Abelian gauge theories.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 15:54:30 GMT""}]","2007-05-23"
+"hep-ph/9409224","Janusz Gluza ZTPiCE","J.Gluza & M.Zralek (Silesian University)","CP Violation in the Heavy Neutrinos Production Process
+  $e^+e^-\rightarrow N_1N_2$","LATEX,12 pages","Phys.Rev.D51:4707-4711,1995","10.1103/PhysRevD.51.4707",,"hep-ph",,"  The problem of CP conservation and CP violation for two heavy neutrinos
+production in $e^+e^-$ interaction is considered. Very convenient way of
+parametrization of the neutrino mass matrix, from which necessary and
+sufficient condition for CP conservation easily follows, is presented. Contrary
+to the Kobayashi-Maskawa mechanism, the effects of CP violation in the lepton
+sector with Majorana neutrinos can be very large. Change of the total cross
+section caused by CP violation can be much larger then the cross section
+itself.
+","[{""version"":""v1"",""created"":""Mon, 5 Sep 1994 19:09:27 GMT""}]","2010-11-01"
+"hep-ph/9409225","Janusz Gluza ZTPiCE","J.Gluza & M.Zralek (Silesian University)","Higgs Boson Contributions to Neutrino Production in e-e+ Collisions in a
+  Left-Right Symmetric Model","LATEX, 25 pages","Phys.Rev.D51:4695-4706,1995","10.1103/PhysRevD.51.4695",,"hep-ph",,"  In gauge models with bigger number of Higgs particles their couplings to
+fermions are more complicated then in the standard model (SM). The influence of
+the Higgs bosons exchange on the neutrino production cross section in $e^-e^+$
+collision ($e^-e^+ \rightarrow \nu N$) is investigated. The study has been done
+in the framework of the left-right symmetric model with the rich Higgs sector
+containing bidoublet and two triplets. The couplings of the Higgs particles
+even to light leptons can be as large as the gauge bosons couplings. The total
+effect of the Higgs bosons is small as a result of the big Higgs mass in the
+propagators.
+","[{""version"":""v1"",""created"":""Mon, 5 Sep 1994 19:11:21 GMT""}]","2011-08-17"
+"hep-ph/9409226","Markus Lautenbacher","M.E. Lautenbacher","Some Prospects for the Determination of the Unitarity Triangle Before
+  the LHC Era","(Invited talk given at ICHEP '94, Glasgow, July 1994.), 6 pages (with
+  4 PostScript figures available separately), Munich Technical University
+  preprint TUM-T31-77/94",,,,"hep-ph",,"  Anticipating improved determinations of $m_t$, $|V_{cb}|$, $|V_{ub}/V_{cb}|$,
+$B_K$ and $F_B \sqrt{B_B}$ in the next five years we make an excursion into the
+future in order to find a possible picture of the unitarity triangle, of quark
+mixing and of CP violation around the year~2000. We then analyse what impact on
+this picture will result from the measurements of the four possibly cleanest
+quantities: $BR(K^+ \to \pi^+ \nu \bar\nu)$, $x_d/x_s$, $\sin(2\alpha)$ and
+$\sin(2\beta)$. In the course of our investigations we extend the analysis of
+the unitarity triangle beyond the leading order in the Wolfenstein parameter
+$\lambda$. \\ We will also shortly present the status of direct CP violation in
+$K \rightarrow \pi\pi$ and $K_{\rm L} \rightarrow \pi^0 e^+ e^-$.
+","[{""version"":""v1"",""created"":""Mon, 5 Sep 1994 16:56:44 GMT""}]","2007-05-23"
+"hep-ph/9409227","George W. S. Hou","Wei-Shu Hou and Hsuan-Cheng Huang","Singlet Charge $2/3$ Quark hiding the Top: Tevatron and LEP Implications","10 pages + 3 Figures (not included), ReVTeX, NTUTH-94-18","Phys.Rev. D51 (1995) 5285-5288","10.1103/PhysRevD.51.5285",,"hep-ph",,"  If $c$ and $t$ quarks are strongly mixed with a weak singlet charge $2/3$
+quark, $BR(t\to \ell\nu + X)$ could be suppressed via the $t\to cH^0$ mode,
+thereby the top quark could still hide below $M_W$, whereas the heavy quark
+signal observed at the Tevatron is due to the dominantly singlet quark $Q$.
+This may occur without affecting the small $m_c$ value. Demanding $m_Q \simeq
+175$ GeV and $m_t \ltap M_W$, we find that $BR(t\to \ell\nu + X)$ cannot be too
+suppressed. The heavy quark $Q$ decays via $W,\ H$, and $Z$ bosons. The latter
+can lead to $b$-tagged $Z + 4$ jet events, while the strong $c$--$Q$ mixing is
+reflected in sizable $Q\to sW$ fraction. $Z\to t\bar c$ decay occurs at tree
+level and may be at the $10^{-3}$ order, leading to the signature of $Z\to
+\ell\nu b\bar c$, all isolated and with large $p_T$, at $10^{-5}$ order.
+","[{""version"":""v1"",""created"":""Mon, 5 Sep 1994 17:58:19 GMT""}]","2009-10-28"
+"hep-ph/9409228","Xerxes Tata","Xerxes Tata (University of Hawaii)","Looking Beyond the Standard Model","UH-511-803-94, 25 pages, 4 figures (not appended but available on
+  request from the author), invited talk, presented at the Physics in Collision
+  Conference, Tallahassee, June 1994",,,,"hep-ph",,"  Within the framework of the Standard Model, the scale of electroweak symmetry
+breaking is unstable to radiative corrections. We discuss two broad classes of
+models of new physics (one with a strongly interacting and the other with a
+perturbatively coupled electroweak symmetry breaking sector) in which this
+stability is restored. After reviewing experimental constraints on these, we
+discuss the implications of these types of models for experiments, both at
+currently operating colliders as well as the next generation of colliders under
+consideration for construction. Other extensions of the Standard Model are
+briefly alluded to.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 03:06:48 GMT""}]","2009-09-25"
+"hep-ph/9409229",,"David Atwood, Gad Eilam, Michael Gronau and Amarjit Soni","Enhancement of CP Violation in B^+- to K_i^+- D^0 By Resonant Effects","11 pages","Phys.Lett.B341:372-378,1995","10.1016/0370-2693(94)01317-6","CERN-TH.7428/94; SLAC-PUB-6655","hep-ph",,"  Resonance width effects in charged $B$ decays to neutral $D$ mesons and
+excited kaon states $K_i$ around 1400 MeV are shown to lead to large calculable
+final state phases. $CP$ asymmetries are defined for any charged $B$ decay to
+three pseudoscalar mesons involving intermediate overlapping resonance states.
+Asymmetries up to about 10$\%$ are found in $B^+\to K^+_i D^0\to (K\pi)^+ D^0$.
+Decay distributions can be used to determine the weak phase $\gamma$ of the
+Cabibbo-Kobayashi-Maskawa (CKM) matrix. No separation of the contributions from
+individual resonances is required.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 03:37:05 GMT""}]","2010-11-01"
+"hep-ph/9409230",,"Andrei L. Kataev","Higher-order QCD corrections to deep-inelastic sum rules","CERN-TH.7427/94; LATEX, 5 pages; Invited talk at the 27th Int.
+  Conference on HE Physics, Glasgow, Scotland, UK, 20-27 July 1994, shortened
+  version to be published in the ICHEP'27 Proceedings",,,,"hep-ph",,"  The brief review of the current status of the studies of the effects of the
+higher-order perturbative QCD corrections to the deep-inelastic sum rules is
+presented.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 13:41:20 GMT""}]","2007-05-23"
+"hep-ph/9409231","Johan Bijnens","J. Bijnens and J. Prades","2 and 3-point functions in the ENJL-model","NORDITA 94/43 N,P, talk given by JB at QCD94, July 7-13, 1994,
+  Montpellier, France","Nucl.Phys.Proc.Suppl.39BC:245-248,1995","10.1016/0920-5632(95)00078-N",,"hep-ph",,"  We discuss the extended Nambu-Jona-Lasinio model as a low energy expansion,
+all two-point functions and an example of a three-point function to all orders
+in momenta and quark masses. The model is treated at leading level in $1/N_c$
+but otherwise exact. Some comments about the QCD flavour anomaly and Vector
+Meson Dominance in this class of models is made. Uses epsf.sty and rotate.sty.
+One postscript figure included at the end.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 13:46:21 GMT""}]","2011-03-31"
+"hep-th/9409032","J. Kubo","Jisuke Kubo, Myriam Mondragon, George Zoupanos","Finite Unification and Top Quark Mass","9 pages, MPI-Ph/94-55, HD-THEP-94-34, KANAZAWA-94-18",,,,"hep-th",,"  In unified gauge theories there exist renormalization group invariant
+relations among gauge and Yukawa couplings that are compatible with
+perturbative renormalizability, which could be considered as a Gauge-Yukawa
+Unification. Such relations are even necessary to ensure all-loop finiteness in
+Finite Unified Theories, which have vanishing $\beta$-functions beyond the
+unification point. We elucidate this alternative way of unification, and then
+present its phenomenological consequences in $SU(5)$-based models.
+","[{""version"":""v1"",""created"":""Mon, 5 Sep 1994 16:36:48 GMT""},{""version"":""v2"",""created"":""Tue, 6 Sep 1994 10:51:27 GMT""}]","2008-02-03"
+"hep-th/9409033",,"M. Kibler, L.G. Mardoyan, and G.S. Pogosyan","On a Generalized Kepler-Coulomb System: Interbasis Expansions","24 pages, Latex, LYCEN 9415",,,,"hep-th",,"  This paper deals with a dynamical system that generalizes the Kepler-Coulomb
+system and the Hartmann system. It is shown that the Schr\""odinger equation for
+this generalized Kepler-Coulomb system can be separated in prolate spheroidal
+coordinates. The coefficients of the interbasis expansions between three bases
+(spherical, parabolic and spheroidal) are studied in detail. It is found that
+the coefficients for the expansion of the parabolic basis in terms of the
+spherical basis, and vice-versa, can be expressed through the Clebsch-Gordan
+coefficients for the group SU(2) analytically continued to real values of their
+arguments. The coefficients for the expansions of the spheroidal basis in terms
+of the spherical and parabolic bases are proved to satisfy three-term recursion
+relations.
+","[{""version"":""v1"",""created"":""Mon, 5 Sep 1994 18:28:58 GMT""}]","2007-05-23"
+"math/9409204","Menachem Kojman","Martin Goldstern, R. Grossberg, Menachem Kojman","Infinite homogeneous bipartite graphs with unequal sides",,,,"Logic E-prints September 06, 1994","math.LO",,"  We call a bipartite graph {\it homogeneous} if every finite partial
+automorphism which respects left and right can be extended to a total
+automorphism.
+  A $(\kappa,{\lambda} )$ bipartite graph is a bipartite graph with left side
+of size $\kappa$ and right side of size ${\lambda}$. We show, using a theorem
+of Hrushovski on finite graphs, that there is a homogeneous
+$({\aleph_0},2^{\aleph_0} )$ bipartite graph of girth 4 (thus answering
+negatively a question by Kupitz and Perles), and that depending on the
+underlying set theory all homogeneous $({\aleph_0},\aleph_1)$ bipartite graphs
+may be isomorphic, or there may be $2^{\aleph_1}$ many isomorphism types of
+$(\aleph_0,\aleph_1)$ homogeneous graphs.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 00:00:00 GMT""}]","2009-09-25"
+"math/9409205","Menachem Kojman","Menachem Kojman and Saharon Shelah","Homogeneous families and their automorphism groups",,,,"Logic E-prints September 06, 1994; Shelah [KjSh:499]","math.LO",,"  A homogeneous family of subsets over a given set is one with a very ``rich''
+automorphism group. We prove the existence of a bi-universal element in the
+class of homogeneous families over a given infinite set and give an explicit
+construction of $2^\cont$ isomorphism types of homogeneous families over a
+countable set.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 00:00:00 GMT""}]","2009-09-25"
+"math/9409206","Menachem Kojman","Martin Goldstern and Menachem Kojman","Universal bridge-free graphs",,,,"Logic E-prints September 06, 1994","math.LO",,"  We prove that there is no countable universal $B_n$-free graph for all $n$
+and that there is no countable universal graph in the class of graphs omitting
+all cycles of length at most $2k$ for $k\ge 2$.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 00:00:00 GMT""}]","2008-02-03"
+"math/9409227",,"Bille C. Carlson","Numerical computation of real or complex elliptic integrals",,,"10.1007/BF02198293","OP-SF 6 Sep 1994","math.CA",,"  Algorithms for numerical computation of symmetric elliptic integrals of all
+three kinds are improved in several ways and extended to complex values of the
+variables (with some restrictions in the case of the integral of the third
+kind). Numerical check values, consistency checks, and relations to Legendre's
+integrals and Bulirsch's integrals are included.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 00:00:00 GMT""}]","2015-06-26"
+"math/9409228",,"Alphonse P. Magnus","Painlev\'e equations for semi-classical recurrence coefficients",,,,"OP-SF 6 Sep 1994","math.CA",,"  The title says it all.
+","[{""version"":""v1"",""created"":""Tue, 6 Sep 1994 00:00:00 GMT""}]","2008-02-03"

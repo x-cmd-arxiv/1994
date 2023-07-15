@@ -1,0 +1,290 @@
+"astro-ph/9407009","Kem Cook","C.Alcock, R.Allsman, T.Axelrod, D.Bennett, S.Chan, K.Cook, K.Freeman,
+  K.Griest, S. Marshall, S.Perlmutter, B.Peterson, M.Pratt, P.Quinn, A.Rodgers,
+  C.Stubbs, and W.Sutherland","Probable Gravitational Microlensing towards the Galatic Bulge","submitted to Astrophysical Journal Letters, 10 pages text as
+  uuencoded compressed PostScript, 5 figures and paper also available via
+  anonymous ftp from merlin.anu.edu.au in /pub/kcf/macho",,"10.1086/175678",,"astro-ph",,"  The MACHO project carries out regular photometric monitoring of millions of
+stars in the Magellanic Clouds and Galactic Bulge, to search for very rare
+gravitational microlensing events due to compact objects in the galactic halo
+and disk. A preliminary analysis of one field in the Galactic Bulge, containing
+{$\sim430,000$} stars observed for 190 days, reveals four stars which show
+clear evidence for brightenings which are time-symmetric, achromatic in our two
+passbands, and have shapes consistent with gravitational microlensing. This is
+significantly higher than the $\sim 1$ event expected from microlensing by
+known stars in the disk. If all four events are due to microlensing, a 95\%
+confidence lower limit on the optical depth towards our bulge field is $1.3
+\times 10^{-6}$, and a ``best fit"" value is $\tau \approx 1.6 \times
+10^{-6}/\epsilon$,where $\epsilon$ is the detection efficiency of the
+experiment, and $\epsilon < 0.4$. If the true optical depth is close to the
+``best fit"" value, possible explanations include a ``maximal"" disk which
+accounts for most of the galactic circular velocity at the solar radius, a halo
+which is centrally concentrated, or bulge-bulge microlensing.
+","[{""version"":""v1"",""created"":""Sun, 3 Jul 1994 19:08:46 GMT""},{""version"":""v2"",""created"":""Tue, 5 Jul 1994 16:15:11 GMT""}]","2009-10-22"
+"astro-ph/9407010","Krzysztof Stanek","B. Paczynski, K. Z. Stanek, A. Udalski, M. Szymanski, J. Kaluzny, M.
+  Kubiak, M. Mateo, W. Krzeminski","Are the Ogle Microlenses in the Galactic Bar?","10 pages, 2 figures, revised version accepted for the publication in
+  ApJL, uses AAS LaTeX aaspp.sty macro, PostScript figures and PostScript
+  version of the paper available through anonymous ftp from
+  astro.princeton.edu, directory stanek/tau, or on request","Astrophys.J.435:L113-L116,1994","10.1086/187607",,"astro-ph",,"  The analysis of the first two years of OGLE data revealed 9 microlensing
+events of the galactic bulge stars, with the characteristic time scales in the
+range $ 8.6 < t_0 < 62 $ days, where $ t_0 = R_E / V $. The optical depth to
+microlensing is larger than $ ( 3.3 \pm 1.2 ) \times 10^{-6}$, in excess of
+current theoretical estimates, indicating a much higher efficiency for
+microlensing by either bulge or disk lenses. We argue that the lenses are
+likely to be ordinary stars in the galactic bar, which has its long axis
+elongated towards us. A relation between $ t_0 $ and the lens masses remains
+unknown until a quantitative model of bar microlensing becomes available. At
+this time we have no evidence that the OGLE events are related to dark matter.
+The geometry of lens distribution can be determined observationally when the
+microlensing rate is measured over a larger range of galactic longitudes, like
+$ -10^o < l < +10^o $, and the relative proper motions of the galactic bulge
+(bar) stars are measured with the HST.
+","[{""version"":""v1"",""created"":""Mon, 4 Jul 1994 12:56:00 GMT""},{""version"":""v2"",""created"":""Fri, 8 Jul 1994 12:32:00 GMT""},{""version"":""v3"",""created"":""Thu, 8 Sep 1994 19:56:00 GMT""}]","2008-12-18"
+"astro-ph/9407011","Sebastiano","S.Ghigna, S.Borgani, S.Bonometto, L.Guzzo, A.Klypin, J.R.Primack,
+  R.Giovanelli, M.Haynes","Sizes of Voids as a test for Dark Matter Models","15 pages, postscript",,"10.1086/187685",,"astro-ph",,"  We use the void probability statistics to study the redshift-space galaxy
+distribution as described by a volume-limited subsample of the Perseus-Pisces
+survey. We compare the results with the same analysis realized on artificial
+samples, extracted from high-resolution N-body simulations by reproducing the
+observational biases of the real data set. Simulations are run for the
+Cold+HotDM model (CHDM) and for unbiased and biased (b=1.5) CDM models in a 50
+Mpc/h box. We identify galaxies as residing in peaks of the evolved density
+field. We fragment overmerged structures into individual galaxies so as to
+reproduce both the correct luminosity function (after assuming M/ L values for
+the resulting galaxy groups) and the two-point correlation function. Our main
+result is that a void-probability function (VPF) from the standard CHDM model
+with fractions 60% cold, 30% hot, 10% barions, exceeds the observational VPF
+with a high confidence level. CDM models produce smaller VPF independent of the
+biasing parameter. We verify the robustness of this result against changing the
+observer position in the simulations and the galaxy identification in the
+evolved density field.
+","[{""version"":""v1"",""created"":""Mon, 4 Jul 1994 13:35:57 GMT""},{""version"":""v2"",""created"":""Thu, 25 Aug 1994 16:14:24 GMT""}]","2009-10-22"
+"cmp-lg/9407001","Johannes Matiasek","Harald Trost (Austrian Research Institute for Artificial
+  Intelligence), Johannes Matiasek (Austrian Research Institute for Artificial
+  Intelligence)","Morphology with a Null-Interface","7 pages, LaTeX, uses fullname.sty, to appear in COLING'95","Proceedings of the 15th International Conference on Computational
+  Linguistics (COLING 94), Kyoto, Japan, August 1994, pp. 141-147",,"OeFAI-TR-94-02","cmp-lg cs.CL",,"  We present an integrated architecture for word-level and sentence-level
+processing in a unification-based paradigm. The core of the system is a CLP
+implementation of a unification engine for feature structures supporting
+relational values. In this framework an HPSG-style grammar is implemented.
+Word-level processing uses X2MorF, a morphological component based on an
+extended version of two-level morphology. This component is tightly integrated
+with the grammar as a relation. The advantage of this approach is that
+morphology and syntax are kept logically autonomous while at the same time
+minimizing interface problems.
+","[{""version"":""v1"",""created"":""Mon, 4 Jul 1994 10:55:16 GMT""}]","2008-02-03"
+"cond-mat/9407011","Daniel Rohrlich","Dmitri Kouznetsov, Roberto Ortega, and Daniel Rohrlich","Quantum Noise Limits for Nonlinear, Phase-Invariant Amplifiers","RevTeX, 6 pages + 4 figures (included in file; hard copy sent on
+  request)",,"10.1103/PhysRevA.52.1665","TAUP 2171-94","cond-mat quant-ph",,"  Any quantum device that amplifies coherent states of a field while preserving
+their phase generates noise. A nonlinear, phase-invariant amplifier may
+generate less noise, over a range of input field strengths, than any linear
+amplifier with the same amplification. We present explicit examples of such
+nonlinear amplifiers, and derive lower bounds on the noise generated by a
+nonlinear, phase-invariant quantum amplifier.
+","[{""version"":""v1"",""created"":""Sun, 3 Jul 1994 17:09:38 GMT""}]","2009-10-22"
+"cond-mat/9407012","Michele Caselle","M.Caselle, F.Gliozzi and U.Magnea","Fluid Interfaces in the 3D Ising Model as a Dilute Gas of Handles","15 pages, Latex and 10 ps figs (uuencoded file) DFTT 27/94",,"10.1016/0378-4371(94)00289-6",,"cond-mat hep-lat hep-th",,"  We study the topology of fluid interfaces in the 3D Ising model in the rough
+phase. It turns out that such interfaces are accurately described as dilute
+gases of microscopic handles, and the stiffness of the interface increases with
+the genus. The number of configurations of genus $g$ follows a Poisson-like
+distribution. The probability per unit area for creating a handle is well
+fitted in a wide range of the inverse temperature $\beta$ near the roughening
+point by an exponentially decreasing function of $\beta$. The procedure of
+summing over all topologies results in an effective interface whose squared
+width scales logarithmically with the lattice size.
+","[{""version"":""v1"",""created"":""Mon, 4 Jul 1994 08:08:18 GMT""}]","2015-06-25"
+"cond-mat/9407013","Jean-Bruno Erismann","A. Car, V.A. Zagrebnov","Critical Fluctuation Operators for a Quantum Model of Ferroelectric","29 pages,CPT-94/P.3034,latex,3 fig available on cpt.univ-mrs. fr
+  directory pub/preprints/93/statphys/94-P.3034",,"10.1016/0378-4371(94)90341-7",,"cond-mat",,"  We consider dependence of the critical fluctuation operators on the rate of
+interaction decay for an exactly soluble model of the quantum anharmonic
+crystal of ferroelectric type. The critical exponents for the abnormal behavior
+of the displacement and momentum fluctuation operators on the critical line are
+calculated explicitly.
+","[{""version"":""v1"",""created"":""Mon, 4 Jul 1994 09:29:51 GMT""}]","2009-10-22"
+"cond-mat/9407014","Assaad","F.F. Assaad and S. Biskamp","The Fractional Quantum Hall Effect on a Lattice","11 pages, Latex, 3 compressed and uuencoded postscript figures
+  appended, FFA-94-02",,"10.1103/PhysRevB.51.1605",,"cond-mat",,"  Starting from the Hofstadter butterfly, we define lattice versions of Landau
+levels as well as a continuum limit which ensures that they scale to continuum
+Landau levels. By including a next-neighbor repulsive interaction and
+projecting onto the lowest lattice Landau level, we show that incompressible
+ground states exist at filling fractions, $\nu = 1/3, 2/5 $ and $3/7$. Already
+for values of $l_0/a \sim 2$ where $l_0$ ($a$) is the magnetic length (lattice
+constant), the lattice version of the $\nu = 1/3$ state reproduces with nearly
+perfect accuracy the the continuum Laughlin state. The numerical data strongly
+suggests that at odd filling fractions of the lowest lattice Landau level, the
+lattice constant is an irrelevant length scale. We find a new relation between
+the hierarchy of incompressible states and the self-similar structure of the
+Hofstadter butterfly.
+","[{""version"":""v1"",""created"":""Mon, 4 Jul 1994 10:14:25 GMT""}]","2009-10-22"
+"cond-mat/9407015","Mats Jonson","I. V. Krive, A. A. Nersesyan, M. Jonson, and R. I. Shekhter","Influence of Long-Range Coulomb Interactions on the Metal-Insulator
+  Transition in One-Dimensional Strongly Correlated Electron Systems","14 pages, LaTeX, G{\""o}teborg preprint APR 94-35",,"10.1103/PhysRevB.52.10865",,"cond-mat",,"  The influence of long-range Coulomb interactions on the properties of
+one-dimensional (1D) strongly correlated electron systems in vicinity of the
+metal-insulator phase transition is considered. It is shown that unscreened
+repulsive Coulomb forces lead to the formation of a 1D Wigner crystal in the
+metallic phase and to the transformation of the square-root singularity of the
+compressibility (characterizing the commensurate-incommensurate transition) to
+a logarithmic singularity. The properties of the insulating (Mott) phase depend
+on the character of the short-wavelength screening of the Coulomb forces. For a
+sufficiently short screening length the characteristics of the charge
+excitations in the insulating phase are totally determined by the Coulomb
+interaction and these quasipartic les can be described as quasiclassical
+Coulomb solitons.
+","[{""version"":""v1"",""created"":""Mon, 4 Jul 1994 11:23:12 GMT""}]","2009-10-22"
+"cond-mat/9407016","Alexander L. Chernyshev","V. I. Belinicher, A. L. Chernyshev, L. V. Popovich","Range of the t--J model parameters for CuO$_{2}$ plane: experimental
+  data constraints","20pp., REVTEX 3.0, (11 figures), report 666","Phys. Rev. B 50, 13768 (1994)","10.1103/PhysRevB.50.13768",,"cond-mat",,"  The t-J model effective hopping integral is determined from the three-band
+Hubbard model for the charge carriers in CuO$_{2}$ plane. For this purpose the
+values of the superexchange constant $J$ and the charge-transfer gap $E_{gap}$
+are calculated in the framework of the three-band model. Fitting values of $J$
+and $E_{gap}$ to the experimental data allows to narrow the uncertainty region
+of the three-band model parameters. As a result, the $t/J$ ratio of the t-J
+model is fixed in the range $2.4 \div 2.7$ for holes and $2.5 \div 3.0$ for
+electrons. Formation of the Frenkel exciton is justified and the main features
+of the charge-transfer spectrum are correctly described in the framework of
+this approach.
+","[{""version"":""v1"",""created"":""Mon, 4 Jul 1994 09:24:49 GMT""},{""version"":""v2"",""created"":""Tue, 5 Jul 1994 03:48:10 GMT""}]","2009-10-22"
+"cond-mat/9407017",,"J. Inarrea, G. Platero (Instituto de Ciencia de Materiales (CSIC) and
+  Departamento de Fisica de la Materia Condensada C-III, Universidad Autonoma,
+  Cantoblanco, 28049 Madrid, Spain) and C. Tejedor (Departamento de Fisica de
+  la Materia Condensada, Universidad Autonoma de Madrid, Cantoblanco, 28049
+  Madrid, Spain)","Coherent and sequential photoassisted tunneling through a semiconductor
+  double barrier structure","Revtex3.0, 8figures uuencoded compressed tar-file",,"10.1103/PhysRevB.50.4581",,"cond-mat",,"  We have studied the problem of coherent and sequential tunneling through a
+double barrier structure, assisted by light considered to be present All over
+the structure, i,e emitter, well and collector as in the experimental evidence.
+By means of a canonical transformation and in the framework of the time
+dependent perturbation theory, we have calculated the transmission coefficient
+and the electronic resonant current. Our calculations have been compared with
+experimental results turning out to be in good agreement. Also the effect on
+the coherent tunneling of a magnetic field parallel to the current in the
+presence of light, has been considered.
+","[{""version"":""v1"",""created"":""Mon, 4 Jul 1994 15:10:39 GMT""}]","2009-10-22"
+"gr-qc/9407001","Peter Goetsch Phy103","Peter Goetsch, Robert Graham, Fritz Haake","Cat States and Single Runs for the Damped Harmonic Oscillator","18, Revtex",,"10.1103/PhysRevA.51.136",,"gr-qc",,"  We discuss the fate of initial states of the cat type for the damped harmonic
+oscillator, mostly employing a linear version of the stochastic Schr\""odinger
+equation. We also comment on how such cat states might be prepared and on the
+relation of single realizations of the noise to single runs of experiments.
+","[{""version"":""v1"",""created"":""Mon, 4 Jul 1994 11:04:58 GMT""}]","2009-10-22"
+"hep-lat/9407002","Ferdinando Gliozzi","M. Caselle, R. Fiore, F. Gliozzi, M. Hasenbusch, K. Pinn and S. Vinti","Rough Interfaces Beyond the Gaussian Approximation","34 pages, uuencoded Latex file with 6 postscript figures included,
+  joint preprint CERN-TH 7291/94, DFTT 22/94, DF-UNICAL/94-15, MS-TPI-94-6","Nucl.Phys. B432 (1994) 590-620","10.1016/0550-3213(94)90035-3",,"hep-lat cond-mat hep-th",,"  We compare predictions of the Capillary Wave Model beyond its Gaussian
+approximation with Monte Carlo results for the energy gap and the surface
+energy of the 3D Ising model in the scaling region. Our study reveals that the
+finite size effects of these quantities are well described by the Capillary
+Wave Model, expanded to two--loop order ( one order beyond the Gaussian
+approximation).
+","[{""version"":""v1"",""created"":""Mon, 4 Jul 1994 10:19:37 GMT""}]","2009-10-22"
+"hep-ph/9407211","Aneesh V. Manohar","Aneesh V. Manohar","Semiclassical Meson-Baryon Dynamics from Large-Nc QCD","(13 pages, 1 figure, uses harvmac and uufiles), UCSD/PTH 94-14","Phys.Lett.B336:502-507,1994","10.1016/0370-2693(94)90564-9",,"hep-ph",,"  The large-$N_c$ limit of the meson-baryon effective Lagrangian is shown to
+reduce to a semiclassical field theory. A chiral bag structure emerges
+naturally in the $N_c\rightarrow \infty$ limit. A possible connection between
+the chiral bag picture and the Skyrme model is discussed. The classical
+meson-baryon theory is used to reproduce the $M_\pi^3$ non-analytic correction
+to the baryon mass obtained previously as a loop correction in chiral
+perturbation theory.
+","[{""version"":""v1"",""created"":""Sun, 3 Jul 1994 20:55:16 GMT""}]","2010-11-01"
+"hep-ph/9407212","Arjun Berera","Arjun Berera","A Renormalization Group Approach to the Chiral Transition","AZPH-TH 93-07, latex, Ann. Phys. (in press 94)","Annals Phys. 239 (1995) 1-21","10.1006/aphy.1995.1028",,"hep-ph",,"  A methodology is given to test the QCD $N_f$=2 chiral transition, presently
+conjectured to be second order. Scaling forms for the correlation length,
+susceptibilities and equation of state are given which account for finite
+lattice spacing. Confirmation by lattice simulation would provide a large set
+of consistency checks for establishing that the transition is second order.
+Further corrections from finite volume effects and higher dimensional operator
+mixing are given. The implications of scaling corrections in finite temperature
+lattice QCD studies are examined with emphasis on tests for the believed second
+order chiral transition within the realistic setting of finite lattice spacing
+effects.
+","[{""version"":""v1"",""created"":""Sun, 3 Jul 1994 21:00:29 GMT""}]","2015-06-25"
+"hep-ph/9407213","Arjun Berera","Arjun Berera","The Partonic Content of $h_1(x)$ and $h_2(x)","16 pages, AZPH-TH 93-32, Latex, Phys. Rev D 49, 3187 (1994)","Phys.Rev.D49:3187-3196,1994","10.1103/PhysRevD.49.3187",,"hep-ph",,"  A light-cone wavefunction interpretation is presented for the polarized
+distribution functions $h_1(x)$ and $h_2(x)$. All matrix elements for moments
+of these distributions are given in terms of overlap integrals between Fock
+state amplitudes of the target state. In a suitable spinor basis, $h_1(x)$
+involves only diagonal matrix elements so can be interpreted as a density.
+Matrix elements of $h_2(x)$ connect Fock states differing by one gluon so that
+$h_2(x)$ has no simple interpretation as a density. Nevertheless, in the
+wavefunction decomposition, $h_2(x)$ is described through a compact set of
+elementary quark-gluon processes which are averaged over the target
+wavefunction.
+","[{""version"":""v1"",""created"":""Sun, 3 Jul 1994 21:31:37 GMT""}]","2010-11-01"
+"hep-ph/9407214","Yongseok Oh","Yongseok Oh, Byung-Yoon Park and Dong-Pil Min","Heavy Quark Symmetry and the Skyrme Model","REVTeX, 33 pages, 3 figures included, SNUTP-94/13 (revised)","Phys.Rev.D50:3350-3367,1994","10.1103/PhysRevD.50.3350",,"hep-ph",,"  We present a consistent way of describing heavy baryons containing a heavy
+quark as bound states of an $SU(2)$ soliton and heavy mesons. The resulting
+mass formula reveals the heavy quark symmetry explicitly. By extending the
+model to the orbitally excited states, we establish the generic structure of
+the heavy baryon spectrum. As anticipated from the heavy quark spin symmetry,
+the $c$-factor denoting the hyperfine splitting constant {\em vanishes} and the
+baryons with the same angular momentum of light degrees of freedom form
+degenerate doublets. This approach is also applied to the pentaquark exotic
+baryons, where the conventional $c$-factor plays no more a role of the
+hyperfine constant. After diagonalizing the Hamiltonian of order $N_c^{-1}$, we
+get the degenerate doublets, which implies the vanishing of genuine hyperfine
+splitting.
+","[{""version"":""v1"",""created"":""Mon, 4 Jul 1994 08:52:48 GMT""}]","2010-11-01"
+"hep-ph/9407215",,"F. Zwirner","Beyond the MSSM","12 A4-pages, no figures (to be LATEXed twice), preprint
+  CERN-TH.7325/94",,,,"hep-ph",,"  To increase the predictivity of the Minimal Supersymmetric Standard Model
+(MSSM), one needs to go to an underlying, more fundamental theory, where at
+least some of the many MSSM parameters can be determined by symmetries or by
+dynamics. Progress may come from four-dimensional superstring solutions and
+their effective supergravities. Summarizing some recent work, we introduce a
+class of `large-hierarchy-compatible' (LHC) models that could naturally embed a
+stable hierarchy m_Z ~ m_{3/2} << \mpl. We discuss how in LHC models one may
+determine: 1) the explicit mass terms of the MSSM, as functions of the
+gravitino mass; 2) the scales of gauge and supersymmetry breaking, m_Z and
+m_{3/2}; 3) the heavy-fermion masses. Based on talks given at: the Second IFT
+Workshop on Yukawa Couplings, Gainesville, Florida, USA, 11--13 February 1994;
+the XXIXth Rencontres de Moriond, M\'eribel, France, 12--19 March 1994; the
+First International Conference on Phenomenology of Unification from Present to
+Future, Rome, Italy, 23--26 March 1994.
+","[{""version"":""v1"",""created"":""Mon, 4 Jul 1994 07:41:39 GMT""}]","2007-05-23"
+"hep-ph/9407216","Jan Willem Bos","J.W. Bos, Y.C. Lin, and H.H. Shih","Cross section for $ \gamma \gamma \rightarrow \pi^+ \pi^- \pi^0 $ in
+  chiral perturbation theory","8 pages LaTeX with Feynman.tex (2 postscript figures in separate
+  file), NCUHEP 94-04","Phys.Lett. B337 (1994) 152-156","10.1016/0370-2693(94)91460-5",,"hep-ph",,"  We give the amplitude for $\gamma\gamma \rightarrow \pi^+\pi^-\pi^0$ in
+leading order chiral perturbation theory. For the case of real photons we
+calculate the total and differential cross section. Furthermore, we give the
+dependence of the total cross section on the invariant mass of one of the
+photons.
+","[{""version"":""v1"",""created"":""Mon, 4 Jul 1994 15:25:21 GMT""}]","2009-10-28"
+"hep-th/9407011",,"Holger Bech Nielsen and Svend Erik Rugh","Why Do We Live in 3+1 Dimensions?","32 pages, 1 figure, LaTeX, Niels Bohr Institute preprint NBI-HE-93-11
+  (1993) (Contribution to Wendisch-Rietz meeting Sept.1992. Edited by B.
+  D\""{o}rfel and W. Wieczorek, DESY 93-013 preprint, ISSN 0418-9833)",,,,"hep-th",,"  Noticing that really the fermions of the Standard Model are best thought of
+as Weyl - rather than Dirac - particles (relative to fundamental scales located
+at some presumably very high energies) it becomes interesting that the
+experimental space-time dimension is singled out by the Weyl equation: It is
+observed that precisely in the experimentally true space-time dimensionality
+4=3+1 the number of linearly independent matrices $n_{Weyl}^2$ dimensionized as
+the matrices in the Weyl equation equals the dimension $d$. So just in this
+dimension (in fact, also in a trivial case $d=1$) do the sigma-matrices of the
+Weyl-equation form a basis. It is also characteristic for this dimension that
+there is no degeneracy of helicity states of the Weyl spinor for all nonzero
+momenta. We would like to interpret these features to signal a special ``form
+stability'' of the Weyl equation in the phenomenologically true dimension of
+space-time. In an attempt of making this stability to occur in an as large as
+possible basin of allowed modifications we discuss whether it is possible to
+define what we could possibly mean by ``stability of Natural laws''.
+","[{""version"":""v1"",""created"":""Sun, 3 Jul 1994 19:39:53 GMT""}]","2009-09-25"
+"hep-th/9407012",,"Holger Bech Nielsen, Svend Erik Rugh and Christian Surlykke","Seeking Inspiration from the Standard Model in Order to Go Beyond it","26 pages, (no figures), LaTeX, Niels Bohr Institute preprint
+  NBI-HE-93-48 (1993)",,,,"hep-th",,"  We look at various features of the Standard Model with the purpose of
+exploring some possibilities of how to seek physical laws beyond it, i.e. at
+even smaller distances. Only parameters and structure which are not calculable
+from the Standard Model is considered useful information. Ca. $90$ bits of
+information contained in the system of representations in the Standard Model
+are explained by four reasonable postulates. A crude estimate is that there is
+of the order of $\sim 2 \times 10^2$ useful bits of unexplained information
+left today. There are several signs of the fact that the Standard Model is a
+low energy tail of a more fundamental theory (not yet known). However, some
+worries are expressed as concerns how far the exploration of the physics beyond
+the Standard Model can proceed - if we are to be inspired from these $\sim 2
+\times 10^2$ bits alone.
+","[{""version"":""v1"",""created"":""Sun, 3 Jul 1994 19:44:19 GMT""}]","2007-05-23"
+"hep-th/9407013","Juergen Fuchs","J. Fuchs, A. Ganchev, P. Vecsernyes","On the quantum symmetry of rational field theories","10 pages in LaTeX, KL-TH-94/14. (talk of A.G. at Karpacz Winter
+  School 1994)",,,,"hep-th",,"  We describe the role of Rational Hopf Algebras as the symmetries of rational
+field theories and discuss their relation with algebraic field theory, braided
+monoidal categories and modular fusion rule algebras.
+","[{""version"":""v1"",""created"":""Mon, 4 Jul 1994 09:21:41 GMT""}]","2014-12-11"
+"hep-th/9407014","Steve Gubser","Steven S. Gubser and Igor R. Klebanov","A modified c=1 matrix model with new critical behavior","11 pages, 2 figures (uuencoded postscript files), PUPT-1479","Phys.Lett. B340 (1994) 35-42","10.1016/0370-2693(94)91294-7",,"hep-th",,"  By introducing a $\int dt \, g\left(\Tr \Phi^2(t)\right)^2$ term into the
+action of the $c=1$ matrix model of two-dimensional quantum gravity, we find a
+new critical behavior for random surfaces. The planar limit of the path
+integral generates multiple spherical ``bubbles'' which touch one another at
+single points. At a special value of $g$, the sum over connected surfaces
+behaves as $\Delta^2 \log\Delta$, where $\Delta$ is the cosmological constant
+(the sum over surfaces of area $A$ goes as $A^{-3}$). For comparison, in the
+conventional $c=1$ model the sum over planar surfaces behaves as $\Delta^2/
+\log\Delta$.
+","[{""version"":""v1"",""created"":""Mon, 4 Jul 1994 15:25:13 GMT""},{""version"":""v2"",""created"":""Tue, 5 Jul 1994 22:06:04 GMT""}]","2009-10-28"
+"nucl-th/9407005",,"G.A. Lalazissis, M.M. Sharma, J. Koenig and P. Ring (Physik
+  Department, Technische Universitaet Muenchen and Max Planck Institut fuer
+  Astrophysik, Garching bei Muenchen)","Anomalous Isotope Shifts in Pb Nuclei in RMF Theory","6 pages (Latex) and 2 figures (available upon request), Proc. of the
+  International Conference on Nuclear Shapes and Nuclear Structure at Low
+  Excitation Energies",,,"TUM-GA1 (June 1994)","nucl-th",,"  We have studied the anomalous behaviour of isotopic shifts of Pb nuclei in
+the relativistic mean field theory. It has been shown that the relativistic
+mean field provides an excellent description of the anomalous kink in the
+isotopic shifts about $^{208}$Pb. This is in contrast from density-dependent
+Skyrme forces which do not reproduce the observed trend in the empirical data
+on the charge radii. We discuss some differences in the description of isotope
+shifts in the RMF theory and the Skyrme mean field.
+","[{""version"":""v1"",""created"":""Mon, 4 Jul 1994 12:41:03 GMT""}]","2009-09-25"

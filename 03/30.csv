@@ -1,0 +1,401 @@
+"astro-ph/9403064","Xiangdong ""Sheldon"" Shi","X. Shi, D. N. Schramm, D. S. P. Dearborn and J. W. Truran","Possible Systematic Decreases in the Age of Globular Clusters","revtex 17 pages, 4 figures upon request, FERMILAB-PUB-94/060-A","Comments Astrophys. 17 (1995) 343-360",,,"astro-ph",,"  The ages of globular clusters inferred from observations depends sensitively
+on assumptions like the initial helium abundance and the mass loss rate. A high
+helium abundance (e.g., $Y\approx$0.28) or a mass loss rate of
+$\sim$10$^{-11}M_\odot$ yr$^{-1}$ near the main sequence turn-off region lowers
+the current age estimate from 14 Gyr to about 10--12 Gyr, significantly
+relaxing the constraints on the Hubble constant, allowing values as high as
+60km/sec/Mpc for a universe with the critical density and 90km/sec/Mpc for a
+baryon-only universe. Possible mechanisms for the helium enhancement in
+globular clusters are discussed, as are arguments for an instability strip
+induced mass loss near the turn-off. Ages lower than 10 Gyr are not possible
+even with the operation of both of these mechanisms unless the initial helium
+abundance in globular clusters is $>0.30$, which would conflict with indirect
+measurements of helium abundances in globular clusters.
+","[{""version"":""v1"",""created"":""Tue, 29 Mar 1994 21:01:43 GMT""}]","2009-09-25"
+"cond-mat/9403089","Luis Amaral","LAN Amaral, A-L Barabasi, and HE Stanley","Universality Classes for Interface Growth with Quenched Disorder","11 pages and 3 figures (upon request), REVTeX 3.0, (submitted to PRL)",,"10.1103/PhysRevLett.73.62",,"cond-mat",,"  We present numerical evidence that there are two distinct universality
+classes characterizing driven interface roughening in the presence of quenched
+disorder. The evidence is based on the behavior of $\lambda$, the coefficient
+of the nonlinear term in the growth equation. Specifically, for three of the
+models studied, $\lambda \rightarrow \infty$ at the depinning transition, while
+for the two other models, $\lambda \rightarrow 0$.
+","[{""version"":""v1"",""created"":""Tue, 29 Mar 1994 19:57:09 GMT""}]","2009-10-22"
+"cond-mat/9403090","Meik Hellmund","Uwe Girlich, Meik Hellmund","A comparison of FQHE quasi electron trial wave functions on the sphere","4 pages, RevTeX 3.0, 3 postscript figures included, UL-05/94","Phys. Rev. B49(1994)17488-17491","10.1103/PhysRevB.49.17488",,"cond-mat",,"  We study Haldane's and Jain's proposals for the quasiparticle wave function
+on the sphere. The expectation values of the energy and the pair angular
+momenta distribution are calculated at filling factor 1/3 and compared with the
+data of an exact numerical diagonalization for up to 10 electrons with Coulomb
+and truncated quasipotential interaction.
+","[{""version"":""v1"",""created"":""Wed, 30 Mar 1994 09:41:40 GMT""},{""version"":""v2"",""created"":""Tue, 17 May 1994 12:59:39 GMT""}]","2009-10-22"
+"cond-mat/9403091",,"J. K\""otzler(1), G. Nakielski(1), M. Baumann(1), R. Behr(1), F.
+  Goerke(1), E.H. Brandt(2) ((1)Institut f\""ur Angewandte Physik, Jungiusstr.
+  11, D 20355 Hamburg; (2)Max-Planck-Institut f\""ur Metallforschung,
+  Heisenbergstr. 1, D 70569 Stuttgart)","Universality of Frequency and Field Scaling of the Conductivity Measured
+  by Ac-Susceptibility of a Ybco-Film","8 pages (5 figures upon request), revtex 3.0, APK.94.01.02",,"10.1103/PhysRevB.50.3384",,"cond-mat",,"  Utilizing a novel and exact inversion scheme, we determine the complex linear
+conductivity $\sigma (\omega )$ from the linear magnetic ac-susceptibility
+which has been measured from 3\,mHz to 50\,MHz in fields between 0.4\,T and
+4\,T applied parallel to the c-axis of a 250\,nm thin disk. The frequency
+derivative of the phase $\sigma ''/\sigma '$ and the dynamical scaling of
+$\sigma (\omega)$ above and below $T_g(B)$ provide clear evidence for a
+continuous phase transition at $T_g$ to a generic superconducting state. Based
+on the vortex-glass scaling model, the resulting critical exponents $\nu $ and
+$z$ are close to those frequently obtained on films by other means and
+associated with an 'isotropic' vortex glass. The field effect on
+$\sigma(\omega)$ can be related to the increase of the glass coherence length,
+$\xi_g\sim B$.
+","[{""version"":""v1"",""created"":""Wed, 30 Mar 1994 14:02:01 GMT""},{""version"":""v2"",""created"":""Wed, 20 Apr 1994 14:48:24 GMT""}]","2009-10-22"
+"cond-mat/9403092",,"Achille Giacometti and Hisao Nakanishi","Eigenspectrum and Localization for Diffusion with Traps","16 pages, Revtex 3.0, 7 Figures available upon request by regular
+  mail. Email:giacometti@padova.infn.it PURD-TH-93-10",,"10.1103/PhysRevE.50.1093",,"cond-mat",,"  We investigate the {\em survival-return} probability distribution and the
+eigenspectrum for the transition probability matrix, for diffusion in the
+presence of perfectly absorbing traps distributed with critical disorder in two
+and three dimensions. The density of states is found to have a Lifshitz tail in
+the low frequency limit, consistent with a recent investigation of the long
+time behavior of the {\em survival} probability. The localization properties of
+the eigenstates are found to be very different from diffusion with no traps.
+","[{""version"":""v1"",""created"":""Wed, 30 Mar 1994 15:35:26 GMT""}]","2009-10-22"
+"gr-qc/9403054",,"B. L. Hu and Sukanya Sinha","A Fluctuation-Dissipation Relation for Semiclassical Cosmology","Latex 38 pages, umdpp 93-164 (submitted to Phys. Rev. D, March 28,
+  1994)","Phys.Rev.D51:1587-1606,1995","10.1103/PhysRevD.51.1587",,"gr-qc astro-ph",,"  Using the concept of open systems where the classical geometry is treated as
+the system and the quantum matter field as the environment, we derive a
+fluctuation-dissipation theorem for semiclassical cosmology. This theorem which
+exists under very general conditions for dissipations in the dynamics of the
+system, and the noise and fluctuations in the environment, can be traced to the
+formal mathematical relation between the dissipation and noise kernels of the
+influence functional depicting the open system, and is ultimately a consequence
+of the unitarity of the closed system. In particular, for semiclassical
+gravity, it embodies the backreaction effect of matter fields on the dynamics
+of spacetime. The backreaction equation derivable from the influence action is
+in the form of a Einstein-Langevin equation. It contains a dissipative term in
+the equation of motion for the dynamics of spacetime and a noise term related
+to the fluctuations of particle creation in the matter field. Using the
+well-studied model of a quantum scalar field in a Bianchi Type-I universe we
+illustrate how this Langevin equation and the noise term are derived and show
+how the creation of particles and the dissipation of anisotropy during the
+expansion of the universe can be understood as a manifestation of this
+fluctuation-dissipation relation.
+","[{""version"":""v1"",""created"":""Tue, 29 Mar 1994 16:43:49 GMT""}]","2008-11-26"
+"gr-qc/9403055","Don N. Page","Sheldon Goldstein (Rutgers University) and Don N. Page (University of
+  Alberta)","Linearly Positive Histories: Probabilities for a Robust Family of
+  Sequences of Quantum Events","8 pages, LaTeX. Shortened slightly to permit publication in Phys.
+  Rev. Lett. A paragraph after Eq. (21) was expanded","Phys.Rev.Lett.74:3715-3719,1995","10.1103/PhysRevLett.74.3715","Alberta-Thy-43-93","gr-qc hep-th",,"  Nonnegative probabilities that obey the sum rules may be assigned to a much
+wider family of sets of histories than decohering histories. The resulting {\it
+linearly positive histories} avoid the highly restrictive decoherence
+conditions and yet give the same probabilities when those conditions apply.
+Thus linearly positive histories are a broad extension of decohering histories.
+Moreover, the resulting theory is manifestly time-reversal invariant.
+","[{""version"":""v1"",""created"":""Tue, 29 Mar 1994 22:59:58 GMT""},{""version"":""v2"",""created"":""Thu, 1 Sep 1994 20:09:38 GMT""},{""version"":""v3"",""created"":""Fri, 3 Mar 1995 20:32:41 GMT""}]","2014-11-17"
+"gr-qc/9403056",,"A. D. Dolgov, M. B. Einhorn, and V. I. Zakharov","On Infrared Effects in de~Sitter Background","17, UM-TH-94-11, (1 postscript fig. at end)","Phys.Rev. D52 (1995) 717-722","10.1103/PhysRevD.52.717",,"gr-qc hep-ph",,"  We have estimated higher order quantum gravity corrections to de~Sitter
+spacetime. Our results suggest that, while the classical spacetime metric may
+be distorted by the graviton self-interactions, the corrections are relatively
+weaker than previously thought, possibly growing like a power rather than
+exponentially in time.
+","[{""version"":""v1"",""created"":""Tue, 29 Mar 1994 18:31:02 GMT""}]","2009-10-22"
+"gr-qc/9403057","Shyan-Ming Perng","Robert Geroch and Shyan-Ming Perng","Total Mass-Momentum of Arbitrary Initial-Data Sets in General Relativity","25 pages, LaTeX","J.Math.Phys.35:4157-4177,1994","10.1063/1.530880",,"gr-qc",,"  For an asymptotically flat initial-data set in general relativity, the total
+mass-momentum may be interpreted as a Hermitian quadratic form on the complex,
+two-dimensional vector space of ``asymptotic spinors''. We obtain a
+generalization to an arbitrary initial-data set. The mass-momentum is retained
+as a Hermitian quadratic form, but the space of ``asymptotic spinors'' on which
+it is a function is modified. Indeed, the dimension of this space may range
+from zero to infinity, depending on the initial data. There is given a variety
+of examples and general properties of this generalized mass-momentum.
+","[{""version"":""v1"",""created"":""Tue, 29 Mar 1994 20:55:06 GMT""}]","2008-11-26"
+"gr-qc/9403058","Sean Carroll","Sean M. Carroll and George B. Field","Consequences of Propagating Torsion in Connection-Dynamic Theories of
+  Gravity","16 pages plus one figure (plain TeX), MIT-CTP #2291. (Extraordinarily
+  minor corrections.)","Phys.Rev. D50 (1994) 3867-3873","10.1103/PhysRevD.50.3867",,"gr-qc hep-ph",,"  We discuss the possibility of constraining theories of gravity in which the
+connection is a fundamental variable by searching for observational
+consequences of the torsion degrees of freedom. In a wide class of models, the
+only modes of the torsion tensor which interact with matter are either a
+massive scalar or a massive spin-1 boson. Focusing on the scalar version, we
+study constraints on the two-dimensional parameter space characterizing the
+theory. For reasonable choices of these parameters the torsion decays quickly
+into matter fields, and no long-range fields are generated which could be
+discovered by ground-based or astrophysical experiments.
+","[{""version"":""v1"",""created"":""Wed, 30 Mar 1994 01:33:01 GMT""},{""version"":""v2"",""created"":""Thu, 16 Jun 1994 18:41:03 GMT""}]","2009-10-22"
+"gr-qc/9403060",,"Bjorn Jensen and Ulf Linstrom","Scattering of Fermions off Dilaton Black Holes","12, Oslo-TP-4-94, USITP-94-5","Class.Quant.Grav.11:2435-2442,1994","10.1088/0264-9381/11/10/005",,"gr-qc",,"  We discuss how various properties of dilaton black holes depend on the
+dilaton coupling constant $a$. In particular we investigate the $a$-dependence
+of certain mass parameters both outside and in the extremal limit and discuss
+their relation to thermodynamical quantities. To further illuminate the role of
+the coupling constant $a$ we look at a massless point particle in a dilaton
+black hole geometry as well as the scattering of (neutral) fermions. In this
+latter case we find that the scattering potential vanishes for the zero angular
+momentum mode which seems to indicate a catastrophic deradiation when $a>1$.
+","[{""version"":""v1"",""created"":""Wed, 30 Mar 1994 10:49:00 GMT""},{""version"":""v2"",""created"":""Fri, 1 Apr 1994 14:54:42 GMT""}]","2010-04-06"
+"gr-qc/9403061",,"B. L. Hu","Quantum Statistical Field Theory in Gravitation and Cosmology","Latex 38 pages, umdpp 94-45 Three Lectures given at the Canadian
+  Summer School for Theoretical Physics and the Third International Workshop on
+  Thermal Field Theories and Applications, Banff, Canada, Alberta, August
+  15-28, 1993. Proceedings edited by R. Kobes and G. Kunstatter (World
+  Scientific, Singapore, 1994)",,,,"gr-qc hep-th",,"  We describe how the concepts of quantum open systems and the methods of
+closed-time-path (CTP) effective action and influence functional (IF) can be
+usefully applied to the analysis of statistical mechanical problems involving
+quantum fields in gravitation and cosmology. In the first lecture we discuss in
+general terms the relevance of open system concepts in the description of a
+variety of physical processes, and outline the basics of the CTP and IF
+formalisms. In the second lecture we illustrate the IF method with a model of
+two interacting quantum fields, deriving the influence action via a
+perturbative expansion involving the closed-time-path Green functions. We show
+how noise of quantum fields can be defined and derive a general fluctuation-
+dissipation relation for quantum fields. In the third lecture we discuss the
+problem of backreaction in semiclassical gravity with the example of a scalar
+field in a Bianchi Type-I universe. We show that the CTP effective action not
+only yields a real and causal equation of motion with a dissipative term
+depicting the effect of particle creation, as was found earlier, it also
+contains a noise term measuring the fluctuations in particle number and
+governing the metric fluctuations. The particle creation-backreaction problem
+can be understood as a manifestation of a fluctuation-dissipation relation for
+quantum fields in dynamic spacetimes, generalizing Sciama's observation for
+black hole Hawking radiation. A more complete description of semiclassical
+gravity is given by way of an Einstein-Langevin equation, the conventional
+theory based on the expectation value of the energy momentum tensor being its
+","[{""version"":""v1"",""created"":""Wed, 30 Mar 1994 12:59:54 GMT""}]","2007-05-23"
+"gr-qc/9403062","Nail R. Khusnutdinov","N R Khusnutdinov","Self - Interaction Force for the Particle in the Cone Space - Time","9, CQG-94-0324","Class.Quant.Grav.11:1807-1814,1994","10.1088/0264-9381/11/7/017",,"gr-qc astro-ph",,"  The force acting on the charged particle moving along an arbitrary trajectory
+near the straight cosmic string is calculated. This interaction leads to the
+scattering of particles by the cosmic string. The scattering cross section is
+considered.
+","[{""version"":""v1"",""created"":""Wed, 30 Mar 1994 09:56:15 GMT""}]","2010-04-06"
+"hep-ph/9403389",,"Robert Garisto","CP violating polarizations in semileptonic heavy meson decays","32pp plain LATEX, 3 figs (by EMAIL request), TRI-PP-94-11","Phys.Rev.D51:1107-1116,1995","10.1103/PhysRevD.51.1107",,"hep-ph",,"  We study the $T$-violating lepton transverse polarization ($P^\perp_l$) in
+three body semileptonic heavy meson decays to pseudoscalar mesons and to vector
+mesons. We calculate these polarizations in the heavy quark effective limit,
+which simplifies the expressions considerably. After examining constraints from
+$CP$ conserving (including $b \rightarrow s \gamma$) and $CP$ violating
+processes, we find that in $B$ decays, $P^\perp$ of the muon in multi-Higgs
+doublet models can be of order $10\%$, while $P^\perp$ of the $\tau$ can even
+approach unity. In contrast, $P^\perp_\mu$ in $D$ decays is at most 1.5\%. We
+discuss possibilities for detection of $P^\perp_l$ at current and future $B$
+factories. We also show that $P^\perp_l$ in decays to vector mesons, unlike in
+decays to pseudoscalars, can get contributions from left-right models.
+Unfortunately, $P^\perp_l$ in that case is proportional to $W_L$-$W_R$ mixing,
+and is thus small.
+","[{""version"":""v1"",""created"":""Wed, 30 Mar 1994 08:01:58 GMT""}]","2010-11-01"
+"hep-ph/9403390","Juerg Gasser","J. Bijnens, G. Colangelo and J. Gasser","$K_{l4}$ - Decays Beyond One Loop","31 pages, LaTex, 3 figs. (two figures appended as postscript file),
+  BUTP-94/4,ROMF2 94/05","Nucl.Phys.B427:427-454,1994","10.1016/0550-3213(94)90634-3",,"hep-ph",,"  The matrix elements for $K\rightarrow \pi \pi \l \nu$ decays are described by
+four form factors $F,G,H$ and $R$. We complete previous calculations by
+evaluating $R$ at next-to-leading order in the low-energy expansion. We then
+estimate higher order contributions using dispersion relations and determine
+the low-energy constants $L_1,L_2$ and $L_3$ from data on $K_{e4}$ decays and
+on elastic pion scattering. Finally, we present predictions for the slope of
+the form factor $G$ and for total decay rates.
+","[{""version"":""v1"",""created"":""Wed, 30 Mar 1994 09:02:39 GMT""}]","2009-09-25"
+"hep-ph/9403391",,"W. Buchmuller, Z. Fodor and A. Hebecker","Gauge Invariant Treatment of the Electroweak Phase Transition","8 pages latex, DESY-94-043, 4 figures can be obtained via e-mail from
+  hebecker@vxdesy.desy.de","Phys.Lett.B331:131-136,1994","10.1016/0370-2693(94)90953-9",,"hep-ph",,"  We evaluate the gauge invariant effective potential for the composite field
+$\sigma=2\Phi^{\dagger}\Phi$ in the SU(2)-Higgs model at finite temperature.
+Symmetric and broken phases correspond to the domains $\sigma\leq T^2/3$ and
+$\sigma > T^2/3$, respectively. The effective potential increases very steeply
+at small values of $\sigma$. Predictions for several observables, derived from
+the ordinary and the gauge invariant effective potential, are compared. Good
+agreement is found for the critical temperature and the jump in the order
+parameter. The results for the latent heat differ significantly for large Higgs
+masses.
+","[{""version"":""v1"",""created"":""Wed, 30 Mar 1994 10:44:48 GMT""}]","2009-09-25"
+"hep-ph/9403392","Jutta Kunz","Yves Brihaye and Jutta Kunz","On Axially Symmetric Solutions in the Electroweak Theory","17 pages, latex, THU-94/07","Phys.Rev.D50:4175-4182,1994","10.1103/PhysRevD.50.4175",,"hep-ph",,"  We present the general ansatz, the energy density and the Chern-Simons charge
+for static axially symmetric configurations in the bosonic sector of the
+electroweak theory. Containing the sphaleron, the multisphalerons and the
+sphaleron-antisphaleron pair at finite mixing angle, the ansatz further allows
+the construction of the sphaleron and multisphaleron barriers and of the
+bisphalerons at finite mixing angle. We conjecture that further solutions
+exist.
+","[{""version"":""v1"",""created"":""Wed, 30 Mar 1994 11:22:42 GMT""}]","2010-11-19"
+"hep-ph/9403393","Torbjorn Sjostrand","Gerhard A. Schuler and Torbjorn Sjostrand","gamma-gamma and gamma-p Events at High Energies","20 pages, a compressed ps file is available via anonymous ftp to
+  preprints.cern.ch, file /cern/9403/th-7193-94.ps.Z, report CERN-TH.7193/94",,,,"hep-ph",,"  A real photon has a complicated nature, whereby it may remain unresolved or
+fluctuate into a vector meson or a perturbative q-qbar pair. Based on this
+picture, we previously presented a model for gamma-p events that is based on
+the presence of three main event classes: direct, VMD and anomalous. In
+gamma-gamma events, a natural generalization gives three-by-three combinations
+of the nature of the two incoming photons, and thus six distinct event classes.
+The properties of these classes are constrained by the choices already made, in
+the gamma-p model, of cut-off procedures and other aspects. It is therefore
+possible to predict the energy-dependence of the cross section for each of the
+six components separately. The total cross section thus obtained is in good
+agreement with data, and also gives support to the idea that a simple
+factorized ansatz with a pomeron and a reggeon term can be a good
+approximation. Event properties undergo a logical evolution from p-p to gamma-p
+to gamma-gamma events, with larger charged multiplicity, more transverse energy
+flow and a higher jet rate in the latter process.
+","[{""version"":""v1"",""created"":""Wed, 30 Mar 1994 12:55:27 GMT""}]","2007-05-23"
+"hep-ph/9403394","Torbjorn Sjostrand","Valery A. Khoze and Torbjorn Sjostrand","Colour Correlations and Multiplicities in Top Events","16 pages, a compressed ps file is available via anonymous ftp to
+  preprints.cern.ch, file /cern/9403/th-7199-94.ps.Z, report CERN-TH.7199/94
+  and DTP/94/18","Phys.Lett.B328:466-476,1994","10.1016/0370-2693(94)91506-7",,"hep-ph",,"  In events of the type e+ e- -> t tbar -> b W+ bbar W-, particle production
+could depend in a non-trivial way on the kinematics of the process. Energetic
+perturbative gluon radiation can be generated (when kinematically allowed) by
+the original t tbar system and by the t -> b W+ and tbar -> bbar W- decays,
+with negligible interference between the production and decay stages and
+between the t and tbar decays. Soft perturbative gluon emission and
+non-perturbative fragmentation does introduce a correlation, however. To
+illustrate the size of these effects, we study the multiplicity as a function
+of the angle between the b and bbar jets, close to the t tbar threshold. Also
+potential uncertainties in top mass determinations are briefly addressed.
+","[{""version"":""v1"",""created"":""Wed, 30 Mar 1994 12:56:27 GMT""}]","2011-02-15"
+"hep-ph/9403395","Alasdair James Gill","A.J. Gill and T.W.B. Kibble","Cosmic Rays From Cosmic Strings","11, Imperial/TP/93-94/23","Phys.Rev.D50:3660-3665,1994","10.1103/PhysRevD.50.3660",,"hep-ph astro-ph",,"  It has been speculated that cosmic string networks could produce ultra-high
+energy cosmic rays as a by-product of their evolution. By making use of recent
+work on the evolution of such networks, it will be shown that the flux of
+cosmic rays from cosmologically useful, that is GUT scale strings, is too small
+to be used as a test for strings with any foreseeable technology.
+","[{""version"":""v1"",""created"":""Wed, 30 Mar 1994 13:57:56 GMT""}]","2014-11-17"
+"hep-ph/9403396","Sean Fleming Northwestern Univ.","Sean Fleming","J/Psi Production from Electromagnetic Fragmentation in Z decay","16 pages and 8 figures","Phys.Rev. D50 (1994) 5808-5815","10.1103/PhysRevD.50.5808","FERMILAB-PUB-94/074-T NUHEP-TH-94-6","hep-ph",,"  The rate for $ Z^{0}\to J/ \psi + \ell^{+}\ell^{-} $ is suprisingly large
+with about one event for every million $Z^{0}$ decays. The reason for this is
+that there is a fragmentation contribution that is not suppressed by a factor
+of $M^{2}_{\psi}/M^{2}_{Z}$. In the fragmentation limit $ M_{Z}\to\infty$ with
+$E_{\psi}/M_{Z}$ fixed, the differential decay rate for $ Z^{0}\to J/ \psi +
+\ell^{+}\ell^{-} $ factors into electromagnetic decay rates and universal
+fragmentation functions. The fragmentation functions for lepton fragmentation
+and photon fragmentation into $J/\psi$ are calculated to lowest order in
+$\alpha$. The fragmentation approximation to the rate is shown to match the
+full calculation for $E_{\psi}$ greater than about $3 M_{\psi}$.
+","[{""version"":""v1"",""created"":""Wed, 30 Mar 1994 14:33:25 GMT""}]","2009-10-28"
+"hep-ph/9403404","Galina I. Krizhova","A. Andrianov, V. Andrianov and V. Yudichev","Structural Vertices of Extended SU(3)-Chiral Lagrangians in the
+  Large-N_c Approach","7 pages, LaTeX, Preprint SPbU-IP-94-1, Talk at the Workshop on Chiral
+  Perturbation Theory and Other Effective Theories (Karreb{\ae}ksminde,
+  Denmark, Sept.1993)","Phys.Lett. B328 (1994) 401-406","10.1016/0370-2693(94)91497-4",,"hep-ph",,"  The main goal of this paper is to elaborate the model-framework
+parametrization of effective coupling constants of the extended chiral
+lagrangian which is suitable for the description of the low-energy matrix
+elements of vector, axial-vector, scalar and pseudoscalar currents as well as
+of the matrix elements of the pseudoscalar gluon density. We establish the
+connection between the structural coupling constants of the phenomenological
+chiral lagrangian and the coefficients of effective lagrangians obtained in the
+QCD-bosonization models by means of the derivative expansion. The large-N_c
+relations for corresponding structural constants are elaborated. On this way we
+find the new set of OZI rules. In particular, one of them predicts the
+branching ratio of the decays $\psi' \rightarrow J/\psi + \pi$ or $\eta$.
+","[{""version"":""v1"",""created"":""Wed, 30 Mar 1994 08:23:56 GMT""}]","2009-10-28"
+"hep-th/9403172","Genadi A. Sardanashvily","G.Sardanashvily (Department of Theoretical Physics, Moscow State
+  University, Moscow, Russia)","Multimomentum Hamiltonian Formalism","LaTeX preprint MSU-TP-94-13",,,,"hep-th",,"  The standard Hamiltonian machinery, being applied to field theory, leads to
+infinite-dimensional phase spaces. It is not covariant. In this article, we
+present covariant finite-dimensional multimomentum Hamiltonian formalism for
+field theory. This is the multisymplectic generalization of the Hamiltonian
+formalism in mechanics. In field theory, multimomentum canonical variables are
+field functions and momenta corresponding to derivatives of fields with respect
+all world coordinates, not only the time. In case of regular Lagrangian
+densities, the multimomentum Hamiltonian formalism is equivalent to the
+Lagrangian formalism, otherwise for degenerate Lagrangian densities. In this
+case, the Euler-Lagrange equations become undetermined and require additional
+conditions which remain elusive. In the framework of the multimomentum
+Hamiltonian machinery, one obtaines them automatically as a part of Hamilton
+equations. The key point consists in the fact that, given a degenerate
+Lagrangian density, one must consider a family of associated multimomentum
+Hamiltonian forms in order to exaust solutions of the Euler-Lagrange equations.
+We spell out degenerate quadratic and affine Lagrangian densities. The most of
+field models are of these types. As a result, we get the general procedure of
+describing constraint field systems.
+","[{""version"":""v1"",""created"":""Wed, 30 Mar 1994 08:13:10 GMT""},{""version"":""v2"",""created"":""Thu, 31 Mar 1994 13:34:48 GMT""}]","2008-02-03"
+"hep-th/9403174",,"M. Temple-Raston","Solitonic photons and intermediate vector bosons","14 pages, LaTeX, CON-94-2 (a LaTeX typo is corrected)",,,,"hep-th hep-ph",,"  A four-dimensional topological field theory is introduced which generalises
+$B\wedge F$ theory to give a Bogomol'nyi structure. A class of non-singular,
+finite-Action, stable solutions to the variational field equations is
+identified. The solitonic solutions are analogous to the instanton in
+Yang-Mills theory. The solutions to the Bogomol'nyi equations in the
+topologically least complicated $U(1)$ theory have a well-behaved (covariant)
+phase space of dimension four---the same as that for photons. The dimensional
+reduction of the four-dimensional Lagrangian is also examined. Bogomol'nyi
+$U(2)$ solitons resembling the intermediate vector bosons $Z_o$, $W^\pm$ are
+identified.
+","[{""version"":""v1"",""created"":""Tue, 29 Mar 1994 16:29:38 GMT""},{""version"":""v2"",""created"":""Wed, 30 Mar 1994 16:33:41 GMT""}]","2008-02-03"
+"hep-th/9403175",,"Jacek Pawe{\l}czyk","Toward QCD String: No Folds","8 pages, latex, one figure (The paper has been rewritten, the regular
+  homotopy equivalence of different sectors is shown.)","Phys.Rev.Lett. 74 (1995) 3924-3926","10.1103/PhysRevLett.74.3924","IFT-1/94","hep-th",,"  We propose a string theory model which explains several features of two
+dimensional YM theory. Folds are suppressed. This in turn leads to the empty
+theory in flat target spaces. The Nambu-Goto action appears in the usual way.
+The model naturally splits into two (chiral) sectors: orientation preserving
+maps and orientation reversing maps. Moreover it has a straightforward
+extension to 3 and 4 dimensional space-times, which could be the rigid string
+with the self-intersection number at $\theta=\pi$.
+","[{""version"":""v1"",""created"":""Tue, 29 Mar 1994 16:31:12 GMT""},{""version"":""v2"",""created"":""Thu, 10 Nov 1994 11:56:59 GMT""}]","2009-10-28"
+"hep-th/9403176","Alberto Lerda","Alberto Lerda","A Field Theory Approach to the $t$-$J$ Model and the Spin-Charge
+  Separation","27 pp., TeX file (1 figure on request), DFT-US 1/94","Nucl.Phys. B428 (1994) 629-654","10.1016/0550-3213(94)90367-0",,"hep-th cond-mat",,"  We analyze the $t$-$J$ model using the ${\rm CP}^1$ representation for the
+slave operators (holons and spinons) which is particularly suited to study the
+phenomenon of the spin-charge separation in strongly correlated electron
+systems. In particular, we show that for the one-dimensional $t$-$J$ model
+below half-filling the low energy effective dynamics of the spin and charge
+degrees of freedom is represented in the continuum limit by a ${\rm CP}^1$
+model with a topological term, minimally coupled to a massless Dirac field with
+a four-fermion interaction. The bosonic term of this action describes the spin
+waves produced by the spinons, while the fermionic term represents the low
+energy charge excitations. This theory exhibits explicitly a local abelian
+gauge invariance.
+","[{""version"":""v1"",""created"":""Tue, 29 Mar 1994 17:01:21 GMT""}]","2009-10-28"
+"hep-th/9403177","Paul Howe","P.S. Howe","A note on chiral fermions and heterotic strings","10 pages","Phys.Lett. B332 (1994) 61-65","10.1016/0370-2693(94)90858-3",,"hep-th",,"  An off-shell manifestly (8,0) worldsheet supersymmetric formulation of a
+multiplet describing physical chiral fermions is given. The multiplet can be
+used to complete the doubly supersymmetric (twistor-like) action for the
+heterotic string. Correction of technical errors.
+","[{""version"":""v1"",""created"":""Tue, 29 Mar 1994 17:59:39 GMT""},{""version"":""v2"",""created"":""Wed, 30 Mar 1994 12:31:10 GMT""}]","2009-10-28"
+"hep-th/9403179",,"K. Behrndt, S. Foerste","String--Kaluza--Klein Cosmology","20 Pages, 5 figures, Latex, epsfig.sty, epsf.tex, SLAC--PUB--6471,
+  RI--2--94","Nucl.Phys.B430:441-459,1994","10.1016/0550-3213(94)00364-5",,"hep-th gr-qc",,"  We generalize a five dimensional black hole solution of low energy effective
+string theory to arbitrary constant spatial curvature. After interchanging the
+signature of time and radius we reduce the 5d solution to four dimensions and
+obtain that way a four dimensional isotropic cosmological space time. The
+solution contains a dilaton, modulus field and torsion. Several features of the
+solution are discussed.
+","[{""version"":""v1"",""created"":""Tue, 29 Mar 1994 18:32:40 GMT""}]","2011-08-17"
+"hep-th/9403180","Igor Tyutin","I.A.Batalin and I.V.Tyutin","On the Multilevel Field--Antifield Formalism with the Most General
+  Lagrangian Hypergauges","9, P.N.Lebedev Physical Institute, I.E.Tamm Theory Department","Mod.Phys.Lett. A9 (1994) 1707-1716","10.1142/S0217732394001556",,"hep-th",,"  The multilevel field-antifield formalism is constructed in a geometrically
+covariant way without imposing the unimodularity conditions on the hypergauge
+functions. Thus the previously given version [1,2] is extended to cover the
+most general case of Lagrangian surface bases. It is shown that the extra
+measure factors, required to enter the gauge-independent functional integrals,
+can be included naturally into the multilevel scheme by modifying the boundary
+conditions to the quantum master equation.
+","[{""version"":""v1"",""created"":""Wed, 30 Mar 1994 09:50:49 GMT""}]","2015-06-26"
+"hep-th/9403181","Martin Cederwall","Igor A. Bandos, Martin Cederwall, Dmitrij P. Sorokin and Dmitrij V.
+  Volkov","Towards a Complete Twistorization of the Heterotic String","11 pages, latex, report no. Goteborg-ITP-94-10","Mod.Phys.Lett. A9 (1994) 2987-2998","10.1142/S0217732394002823",,"hep-th",,"  In $D=3,4,6$ and 10 space--time dimensions considered is a string model
+invariant under transformations of $N=1$ space--time supersymmetry and $n=D-2$
+local worldsheet supersymmetry with the both Virasoro constraints solved in the
+twistor form. The twistor solution survives in a modified form even in the
+presence of the heterotic fermions.
+","[{""version"":""v1"",""created"":""Wed, 30 Mar 1994 11:15:01 GMT""}]","2015-06-26"
+"hep-th/9403182","Fis. Teorica. Valladolid.","A. Ballesteros, F. J. Herranz, M. A. del Olmo and M. Santander","Poisson--Lie contractions and quantum (1+1) groups","7 pages",,,"UVA/94-302","hep-th math.QA",,"  A Poisson--Hopf algebra of smooth functions on the (1+1) Cayley--Klein groups
+is constructed by using a classical $r$--matrix which is invariant under
+contraction. The quantization of this algebra for the Euclidean, Galilei and
+Poincar\'e cases is developed, and their duals are also computed. Contractions
+on these quantum groups are studied.
+","[{""version"":""v1"",""created"":""Wed, 30 Mar 1994 13:22:00 GMT""}]","2016-09-06"
+"hep-th/9403183","Wolfgang Lerche","W. Lerche and A. Sevrin","On the Landau-Ginzburg Realization of Topological Gravities","26p, harvmac, 4 uuencoded PostScript figures","Nucl.Phys.B428:259-281,1994","10.1016/0550-3213(94)90202-X","CERN-TH.7210/94","hep-th",,"  We study the equivariant cohomology of a class of multi-field topological LG
+models, and find that such systems carry intrinsic information about
+$W$-gravity. As a result, we can construct the gravitational chiral ring in
+terms of LG polynomials. We find, in particular, that the spectrum of such
+theories seems to be richer than so far expected. We also briefly discuss the
+BRST operator for non-linear topological $W$-gravity.
+","[{""version"":""v1"",""created"":""Wed, 30 Mar 1994 12:19:25 GMT""}]","2011-07-19"
+"hep-th/9403185","Peter West","P. West","$W$ Strings and Cohomology in Parafermionic Theories","14 pages, KCL-TH-94-4. A few sentences of clarification are added on
+  page 11 and equation (27) is extended","Phys.Lett. B329 (1994) 199-207","10.1016/0370-2693(94)90761-7",,"hep-th",,"  By enforcing locality we relate the cohomology found in parafermionic
+theories to that occurring in $W$ strings. This link provides a systematic
+method of finding states in the cohomology of $W_{2,s}$ strings.
+","[{""version"":""v1"",""created"":""Wed, 30 Mar 1994 14:00:06 GMT""},{""version"":""v2"",""created"":""Fri, 8 Apr 1994 11:44:24 GMT""},{""version"":""v3"",""created"":""Mon, 11 Apr 1994 13:54:34 GMT""}]","2009-10-28"
+"patt-sol/9403004",,"Yuri S. Kivshar (Optical Sci. Centre, Australian National Univ.) Niels
+  Gr\{o}nbech-Jensen (Theor. Div., Los Alamos Nat. Lab.) Robert D. Parmentier
+  (Dipt. Fisica, Univ. Salerno)","Kinks in the Presence of Rapidly Varying Perturbations","14 pages, 44 kbytes, of text in REVTeX 3.0. To be published in
+  Physical Review E. Figures available as PostScript files from NGJ or via fax
+  or snail mail from RDP., ysk124@rsphysse.anu.edu.au, ngj@viking.lanl.gov,
+  parment@salerno.infn.it",,,,"patt-sol nlin.PS",,"  Dynamics of sine-Gordon kinks in the presence of rapidly varying periodic
+perturbations of different physical origins is described analytically and
+numerically. The analytical approach is based on asymptotic expansions, and it
+allows to derive, in a rigorous way, an effective nonlinear equation for the
+slowly varying field component in any order of the asymptotic procedure as
+expansions in the small parameter $\omega^{-1}$, $\omega$ being the frequency
+of the rapidly varying ac driving force. Three physically important examples of
+such a dynamics, {\em i.e.}, kinks driven by a direct or parametric ac force,
+and kinks on rotating and oscillating background, are analysed in detail. It is
+shown that in the main order of the asymptotic procedure the effective equation
+for the slowly varying field component is {\em a renormalized sine-Gordon
+equation} in the case of the direct driving force or rotating (but phase-locked
+to an external ac force) background, and it is {\em the double sine-Gordon
+equation} for the parametric driving force. The properties of the kinks
+described by the renormalized nonlinear equations are analysed, and it is
+demonstrated analytically and numerically which kinds of physical phenomena may
+be expected in dealing with the renormalized, rather than the unrenormalized,
+nonlinear dynamics. In particular, we predict several qualitatively new effects
+which include, {\em e.g.}, the perturbation-induced internal oscillations of
+the $2\pi-$kink in a parametrically driven sine-Gordon model, and generation of
+kink motion by a pure ac driving force on a rotating background.
+","[{""version"":""v1"",""created"":""Wed, 30 Mar 1994 11:01:00 GMT""}]","2008-02-03"
+"patt-sol/9403005",,"Giovanni Filatrella (Phys. Inst., Univ. T\""ubingen) Boris A. Malomed
+  (Dept. Appl. Math., Tel Aviv Univ.) Robert D. Parmentier (Dipt. Fisica, Univ.
+  Salerno)","Inverse ac Josephson Effect for a Fluxon in a Long Modulated Junction","15 pages, 26 kbytes, of text in plain LaTeX. A uuencoded,
+  Z-compressed tar archive, 21 kbytes, containing 3 PostScript,
+  filatrella@pit.physik.uni-tuebingen.de, malomed@math.tau.ac.il,
+  parment@salerno.infn.it",,"10.1016/0375-9601(94)01014-L",,"patt-sol nlin.PS",,"  We analyze motion of a fluxon in a weakly damped ac-driven long Josephson
+junction with a periodically modulated maximum Josephson current density. We
+demonstrate both analytically and numerically that a pure {\it ac} bias current
+can drive the fluxon at a {\it resonant} mean velocity determined by the
+driving frequency and the spatial period of the modulation, provided that the
+drive amplitude exceeds a certain threshold value. In the range of strongly
+``relativistic'' mean velocities, the agreement between results of a numerical
+solution of the effective (ODE) fluxon equation of motion and analytical
+results obtained by means of the harmonic-balance analysis is fairly good;
+morever, a preliminary PDE result tends to confirm the validity of the
+collective-coordinate (PDE-ODE) reduction. At nonrelativistic mean velocities,
+the basin of attraction, in position-velocity space, for phase-locked solutions
+becomes progressively smaller as the mean velocity is decreased.
+","[{""version"":""v1"",""created"":""Wed, 30 Mar 1994 11:03:00 GMT""},{""version"":""v2"",""created"":""Wed, 30 Mar 1994 18:10:00 GMT""}]","2009-10-28"

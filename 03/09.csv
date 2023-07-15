@@ -1,0 +1,317 @@
+"chao-dyn/9403001","Matt Kennel","Matthew B. Kennel(1), Henry D. I. Abarbanel(1,2), and J. J. ""Sid""
+  Sidorowich(1) ((1) Institute for Nonlinear Science, UC San Diego (2) Marine
+  Physical Laboratory, Scripps Institution of Oceanography)","Prediction Errors and Local Lyapunov Exponents","In REVTeX format, followed by uuencoded, compressed "".tar.Z"" file
+  which includes Postscript version of manuscript and 5 Postscript figures.
+  PACS:{05.45.+b,92.60.Wc}, email:[mbk,hdia,sid]@inls1.ucsd.edu",,,,"chao-dyn nlin.CD",,"  It is frequently asserted that in a chaotic system two initially close points
+will separate at an exponential rate governed by the largest global Lyapunov
+exponent. Local Lyapunov exponents, however, are more directly relevant to
+predictability. The difference between the local and global Lyapunov exponents,
+the large variations of local exponents over an attractor, and the saturation
+of error growth near the size of the attractor---all result in non-exponential
+scalings in errors at both short and long prediction times, sometimes even
+obscuring evidence of exponential growth. Failure to observe exponential error
+scaling cannot rule out deterministic chaos as an explanation. We demonstrate a
+simple model that quantitatively predicts observed error scaling from the local
+Lyapunov exponents, for both short and surprisingly long times. We comment on
+the relevance to atmospheric predictability as studied in the meteorological
+literature.
+","[{""version"":""v1"",""created"":""Wed, 9 Mar 1994 00:04:52 GMT""}]","2008-02-03"
+"chem-ph/9403001","David L. Freeman","David L. Freeman (Department of Chemistry, The University of Rhode
+  Island, Kingston, RI) and J.D. Doll (Department of Chemistry, Brown
+  University, Providence, RI)","Fourier Path Integral Monte Carlo Method for the Calculation of the
+  Microcanonical Density of States","Journal of Chemical Physics","J. Chem. Phys. 101 (1994) 848","10.1063/1.468087",,"chem-ph physics.chem-ph",,"  Using a Hubbard-Stratonovich transformation coupled with Fourier path
+integral methods, expressions are derived for the numerical evaluation of the
+microcanonical density of states for quantum particles obeying Boltzmann
+statistics. A numerical algorithmis suggested to evaluate the quantum density
+of states and illustrated on a one-dimensional model system.
+","[{""version"":""v1"",""created"":""Tue, 8 Mar 1994 16:46:45 GMT""}]","2009-10-22"
+"chem-ph/9403002","David L. Freeman","Robert Q. Topper and David L. Freeman (Department of Chemistry,
+  University of Rhode Island, Kingston, RI)","Monte Carlo Studies of the Orientational Order-Disorder Phase Transition
+  in Solid Ammonium Chloride","submitted to Journal of Chemical Physics",,,,"chem-ph physics.chem-ph",,"  Monte Carlo methods are used to study the phase transition in ammonium
+chloride from the orientationally ordered $\delta$ phase to the orientationally
+disordered $\gamma$ phase. An effective pair potential is used to model the
+interaction between ions. Thermodynamic properties are computed in the
+canonical and isothermal-isobaric ensembles. Each ammonium ion is treated as a
+rigidly rotating body and the lattice is fixed in the low-temperature CsCl
+geometry. A simple extension of the Metropolis Monte Carlo method is used to
+overcome quasiergodicity in the rotational sampling. In the constant-$NVT$
+calculations the lattice is held rigid; in the constant-$NpT$ calculations the
+lattice parameter is allowed to fluctuate. In both ensembles the order
+parameter rapidly falls to zero in the range (200 - 250)K, suggesting that the
+model disorders at a temperature in fair agreement with the experimental
+disordering temperature (243K). Peaks in the heat capacity and thermal
+expansivity curves are also found in the same temperature range.
+","[{""version"":""v1"",""created"":""Tue, 8 Mar 1994 20:27:10 GMT""},{""version"":""v2"",""created"":""Wed, 9 Mar 1994 20:21:23 GMT""},{""version"":""v3"",""created"":""Fri, 11 Mar 1994 14:32:50 GMT""}]","2008-02-03"
+"chem-ph/9403003","Jean-Marc Richard","Jean-Marc Richard (Universit\'e Joseph Fourier, Grenoble (France))","Stability of the Hydrogen and Hydrogen-like Molecules",,,"10.1103/PhysRevA.49.3573",,"chem-ph physics.chem-ph",,"  We present a simple proof of the stability of the hydrogen molecule
+$(M^+M^+m^-m^-)$. It does not rely on the proton-to-electron mass ratio $M/m$
+being very large, and actually holds for arbitrary values of $M/m$. Some
+asymmetric molecules of the type $(m_1^+m_2^+m_3^-m_4^-)$ are also stable.
+Possible applications to molecules containing antiparticles and to exotic
+hadrons in the quark model are briefly outlined. Revtex Version 3.0, 4 Figures
+available on request by Fax or Mail.
+","[{""version"":""v1"",""created"":""Tue, 8 Mar 1994 20:35:21 GMT""}]","2009-10-22"
+"comp-gas/9403001","David R. Wolf","David H. Wolpert, David R. Wolf","Estimating Functions of Probability Distributions from a Finite Set of
+  Samples, Part 1: Bayes Estimators and the Shannon Entropy","uuencoded compressed tarfile, submitted",,,"LANL LA-UR-92-4369","comp-gas adap-org nlin.AO nlin.CG",,"  We present estimators for entropy and other functions of a discrete
+probability distribution when the data is a finite sample drawn from that
+probability distribution. In particular, for the case when the probability
+distribution is a joint distribution, we present finite sample estimators for
+the mutual information, covariance, and chi-squared functions of that
+probability distribution.
+","[{""version"":""v1"",""created"":""Tue, 8 Mar 1994 20:44:00 GMT""}]","2008-02-03"
+"comp-gas/9403002","David R. Wolf","David R. Wolf, David H. Wolpert","Estimating Functions of Distributions from A Finite Set of Samples, Part
+  2: Bayes Estimators for Mutual Information, Chi-Squared, Covariance and other
+  Statistics","uuencoded compressed postscript, submitted",,,"LANL LA-UR-93-833","comp-gas adap-org nlin.AO nlin.CG",,"  We present estimators for entropy and other functions of a discrete
+probability distribution when the data is a finite sample drawn from that
+probability distribution. In particular, for the case when the probability
+distribution is a joint distribution, we present finite sample estimators for
+the mutual information, covariance, and chi-squared functions of that
+probability distribution.
+","[{""version"":""v1"",""created"":""Tue, 8 Mar 1994 20:44:08 GMT""}]","2008-02-03"
+"cond-mat/9403032","Lev Ioffe","M. V. Feigelman and L. B. Ioffe","Non local screening in a vortex line liquid","This is a more detailed ``Letter'' version of the paper which was
+  originally a very short ``Comment''; 3 pages, LATEX file with 1 figure",,,,"cond-mat",,"  We show that the recent experiments \cite{safar} reporting the onset of the
+non-local conductivity in the vortex state of $YBaCuO$ single crystals indicate
+the presence of a new liquid phase of vortices. This phase is intermediate
+between the normal metal and the Abrikosov lattice. We use the mapping of the
+vortex problem to the problem of bose liquid to determine theoretically the
+properties of the proposed vortex liquid phase and compare them with the data.
+","[{""version"":""v1"",""created"":""Wed, 9 Mar 1994 05:13:03 GMT""},{""version"":""v2"",""created"":""Sun, 25 Dec 1994 16:12:24 GMT""}]","2008-02-03"
+"cond-mat/9403033","Carlo Beenakker","C.W.J. Beenakker (Instituut-Lorentz, Leiden, The Netherlands)","Exactly Solvable Scaling Theory of Conduction in Disordered Wires","9 pages, LATEX, INLO-PUB-940309a","Mod.Phys.Lett.B 8 (1994) 469","10.1142/S0217984994000509",,"cond-mat",,"  Recent developments are reviewed in the scaling theory of phase-coherent
+conduction through a disordered wire. The Dorokhov-Mello-Pereyra-Kumar equation
+for the distribution of transmission eigenvalues has been solved exactly, in
+the absence of time-reversal symmetry. Comparison with the previous prediction
+of random-matrix theory shows that this prediction was highly accurate --- but
+not exact: The repulsion of the smallest eigenvalues was overestimated by a
+factor of two. This factor of two resolves several disturbing discrepancies
+between random-matrix theory and microscopic calculations, notably in the
+magnitude of the universal conductance fluctuations in the metallic regime, and
+in the width of the log-normal conductance distribution in the insulating
+regime. ***To be published as a ""Brief Review"" in Modern Physics Letters B.****
+","[{""version"":""v1"",""created"":""Wed, 9 Mar 1994 09:09:48 GMT""}]","2013-04-08"
+"cond-mat/9403034","Carlo Beenakker","C.W.J. Beenakker and J.A. Melsen (Instituut-Lorentz, Leiden, The
+  Netherlands)","Conductance Fluctuations, Weak Localization, and Shot Noise for a
+  Ballistic Constriction in a Disordered Wire","15 pages, REVTeX-3.0, 9 postscript figures appended as
+  self-extracting archive, INLO-PUB-940309b","Phys.Rev.B 50 (1994) 2450","10.1103/PhysRevB.50.2450",,"cond-mat",,"  This is a study of phase-coherent conduction through a ballistic point
+contact with disordered leads. The disorder imposes mesoscopic
+(sample-to-sample) fluctuations and weak-localization corrections on the
+conductance, and also leads to time-dependent fluctuations (shot noise) of the
+current. These effects are computed by means of a mapping onto an unconstricted
+conductor with a renormalized mean free path. The mapping holds both in the
+metallic and in the localized regime, and permits a solution for arbitrary
+ratio of mean free path to sample length. In the case of a single-channel
+quantum point contact, the mapping is onto a one-dimensional disordered chain,
+for which the complete distribution of the conductance is known. The theory is
+supported by numerical simulations. ***Submitted to Physical Review B.****
+","[{""version"":""v1"",""created"":""Wed, 9 Mar 1994 09:10:04 GMT""}]","2007-05-23"
+"cond-mat/9403035","Enzo Granato","E. Granato","Phase transitions in the one-dimensional frustrated quantum XY model and
+  Josephson-junction ladders","13 pages, Revtex, J. Appl. Phys. (to appear), Inpe-las-004","J. Appl. Phys. 75, 6690 (1994)","10.1063/1.356765",,"cond-mat hep-lat",,"  A one-dimensional quantum version of the frustrated XY (planar rotor) model
+is considered which can be physically realized as a ladder of
+Josephson-junctions at half a flux quantum per plaquette. This system undergoes
+a superconductor to insulator transition at zero temperature as a function of
+charging energy. The critical behavior is studied using a Monte Carlo transfer
+matrix applied to the path-integral representation of the model and a
+finite-size-scaling analysis of data on small system sizes. Depending on the
+ratio between the interchain and intrachain couplings the system can have
+single or double transitions which is consistent with the prediction that its
+critical behavior should be described by the two-dimensional classical XY-Ising
+model.
+","[{""version"":""v1"",""created"":""Wed, 9 Mar 1994 14:05:44 GMT""}]","2009-10-22"
+"cond-mat/9403036","Albert Diaz-Guilera","Albert Diaz-Guilera (Dep. Fisica Fonamental, Universitat de Barcelona)","Dynamic Renormalization Group Approach to Self-Organized Critical
+  Phenomena","8 pages, RevTeX 3.0, 1 PostScript figure available upon request",,"10.1209/0295-5075/26/3/004",,"cond-mat",,"  Two different models exhibiting self-organized criticality are analyzed by
+means of the dynamic renormalization group. Although the two models differ by
+their behavior under a parity transformation of the order parameter, it is
+shown that they both belong to the same universality class, in agreement with
+computer simulations. The asymptotic values of the critical exponents are
+estimated up to one loop order from a systematic expansion of a nonlinear
+equation in the number of coupling constants.
+","[{""version"":""v1"",""created"":""Wed, 9 Mar 1994 14:16:56 GMT""}]","2009-10-22"
+"gr-qc/9403015","Miquel Dorca. Fisica Teorica Uab.","Miquel Dorca, Enric Verdaguer","Particle creation in a colliding plane wave spacetime: wave packet
+  quantization","23, latex, figures available by fax","Phys.Rev. D50 (1994) 2631-2644","10.1103/PhysRevD.50.2631","UAB-FT-334","gr-qc",,"  We use wave packet mode quantization to compute the creation of massless
+scalar quantum particles in a colliding plane wave spacetime. The background
+spacetime represents the collision of two gravitational shock waves followed by
+trailing gravitational radiation which focus into a Killing-Cauchy horizon. The
+use of wave packet modes simplifies the problem of mode propagation through the
+different spacetime regions which was previously studied with the use of
+monocromatic modes. It is found that the number of particles created in a given
+wave packet mode has a thermal spectrum with a temperature which is inversely
+proportional to the focusing time of the plane waves and which depends on the
+mode trajectory.
+","[{""version"":""v1"",""created"":""Wed, 9 Mar 1994 15:13:40 GMT""}]","2009-10-22"
+"hep-lat/9403008","Javier e Satulovsky","Javier Satulovsky and Tania Tome","Stochastic Lattice Gas Model for a Predator-Prey System","12 pages (RevTEX3.0), 9 figures, IFUSP/P-1102",,"10.1103/PhysRevE.49.5073",,"hep-lat",,"  We propose a stochastic lattice gas model to describe the dynamics of two
+animal species population, one being a predator and the other a prey. This
+model comprehends the mechanisms of the Lotka-Volterra model. Our analysis was
+performed by using a dynamical mean-field approximation and computer
+simulations. Our results show that the system exhibits an oscillatory behavior
+of the population densities of prey and predators. For the sets of parameters
+used in our computer simulations, these oscillations occur at a local level.
+Mean-field results predict synchronized collective oscillations.
+","[{""version"":""v1"",""created"":""Wed, 9 Mar 1994 14:14:54 GMT""},{""version"":""v2"",""created"":""Fri, 11 Mar 1994 10:46:29 GMT""},{""version"":""v3"",""created"":""Mon, 14 Mar 1994 10:48:09 GMT""}]","2009-10-22"
+"hep-ph/9403246","""V. A."" Khoze","V.S. Fadin, V.A. Khoze and M.I. Kotsky","Top quark polarization as a probe of $t\bar{t}$ threshold dynamics","21 pages. Figures available upon request","Z.Phys. C64 (1994) 45-56","10.1007/BF01557234",,"hep-ph",,"  We study the spin properties of top quarks produced in collisions of
+polarized photons in the threshold region. For a relatively heavy top quark the
+influence of non-perturbative effects is small and its polarization parameters
+can be predicted in perturbative QCD. The measurements of the top polarization
+may allow a novel test of QCD in the $t\bar{t}$ system. In particular, they may
+provide a new way to determine the precise value of $\alpha_s$ and to study the
+properties of the top quark.
+","[{""version"":""v1"",""created"":""Tue, 8 Mar 1994 21:10:12 GMT""}]","2009-10-28"
+"hep-ph/9403247",,"V. Delgado","Dynamical Generation of Mass","14 pages, No figures, REVTEX v3.0, ULLFT-1/94 (Comments concerning
+  the scalar sector have been added)",,,,"hep-ph astro-ph cond-mat hep-th",,"  An alternative for the Higgs mechanism is proposed. It predicts the
+appearance in the broken phase of a scalar background field which may be
+interpreted as describing an almost uniform (i.e., homogeneous and isotropic)
+superfluid condensate of decoupled Higgs bosons. Quantum fields acquire mass as
+a consequence of nonperturbative interactions with those particles condensed in
+the zero-momentum state (which constitutes the physical vacuum of the theory)
+giving rise in turn to the appearance of density fluctuations. This mechanism
+has therefore remarkable cosmological implications.
+","[{""version"":""v1"",""created"":""Tue, 8 Mar 1994 21:58:00 GMT""},{""version"":""v2"",""created"":""Tue, 29 Mar 1994 18:29:00 GMT""}]","2008-02-03"
+"hep-ph/9403248",,"U. Baur (FSU), T. Han and J. Ohnemus (UC Davis)","Amplitude Zeros in $W^\pm Z$ Production","11 pages, 4 figures submitted separately as uuencoded tar-ed
+  postscript files, FSU-HEP-940307, UCD-94-5","Phys.Rev.Lett. 72 (1994) 3941-3944","10.1103/PhysRevLett.72.3941",,"hep-ph",,"  We demonstrate that the Standard Model amplitude for $f_1 \bar f_2
+\rightarrow W^\pm Z $ at the Born-level exhibits an approximate zero located at
+$\cos\theta = (g^{f_1}_{-} + g^{f_2}_{-}) / (g^{f_1}_{-} - g^{f_2}_{-})$ at
+high energies, where the $g^{f_i}_{-}$ ($i=1,2$) are the left-handed couplings
+of the $Z$-boson to fermions and $\theta$ is the center of mass scattering
+angle of the $W$-boson. The approximate zero is the combined result of an exact
+zero in the dominant helicity amplitudes ${\cal M}(\pm,\mp)$ and strong gauge
+cancelations in the remaining amplitudes. For non-standard $WWZ$ couplings
+these cancelations no longer occur and the approximate amplitude zero is
+eliminated.
+","[{""version"":""v1"",""created"":""Tue, 8 Mar 1994 22:21:18 GMT""}]","2009-10-28"
+"hep-ph/9403249","Mannel Thomas","Thomas Mannel","Higher Order $1/m$ Corrections at Zero Recoil","LaTeX, 25 pages, one figure, appended after \end{document} as
+  uu-encoded and compressed eps file, uses epsf, CERN-TH.7162/94","Phys.Rev.D50:428-441,1994","10.1103/PhysRevD.50.428",,"hep-ph",,"  The general structure of the $1/m$ corrections at zero recoil is studied. The
+relevant matrix elements are forward matrix elements of local higher
+dimensional operators and their time ordered products with higher order terms
+from the Lagrangian. These matrix elements may be classified in a simple way
+and the analysis at the non recoil point for the form factor of heavy quark
+currents simplifies drastically. The second order recoil corrections to the
+form factor $h_{A1}$ of the axial vector current, relevant for the $|V_{cb}|$
+determination from $B \to D^*$ decays, are estimated to be $-5\% < h_{A1} - 1 <
+0$.
+","[{""version"":""v1"",""created"":""Wed, 9 Mar 1994 10:08:16 GMT""}]","2010-11-01"
+"hep-ph/9403250",,"G. Degrassi, S. Fanchiotti and P. Gambino","Two-loop next-to-leading $\mt$ corrections to the $\rho$ parameter","CERN-TH.7180/94, DFPD 94/TH/12 and NYU-Th-94/02/01, 26 pages (LaTeX +
+  PS figures, needs psfig (optional to include figures), doublespace,
+  equations, and cite styles)","Int.J.Mod.Phys. A10 (1995) 1377-1392","10.1142/S0217751X95000668",,"hep-ph",,"  The $O(G^2_\mu m_t^4)$ correction to the $\rho$ parameter is computed within
+the Standard Model using the current algebra formulation of radiative
+corrections. This approach is proved to be equivalent to the effective
+Lagrangian method proposed by Barbieri {\em et al.} Using the same framework,
+the $O(G^2_\mu m_t^2 m_z^2)$ correction to the ratio of neutral-to-charged
+current amplitudes is analysed in an $SU(2)$ model. The $O(G^2_\mu m_t^2
+m_z^2)$ contribution is shown to be numerically comparable to the leading
+$O(G^2_\mu m_t^4)$ term for realistic values of the top mass. The resummation
+of higher-order effects is discussed.
+","[{""version"":""v1"",""created"":""Wed, 9 Mar 1994 12:00:04 GMT""}]","2015-06-25"
+"hep-ph/9403251",,"R.D.Ball, V.Barone, S. Forte, M. Genovese","Anomalous Evolution of Nonsinglet Nucleon Structure Functions","13, harvmac 6 figures, CERN-TH.7189/94 and DFTT 02/94","Phys.Lett.B329:505-513,1994","10.1016/0370-2693(94)91096-0",,"hep-ph",,"  We calculate the scale dependence of nonsinglet nucleon structure functions.
+Due to anomalous axial symmetry breaking a large flavour asymmetry of the
+quark--antiquark sea is generated nonperturbatively. This produces a strong
+scale dependence of the nonsinglet structure function in an intermediate range
+of $Q^2$. Evolving nonperturbatively a pure valence distribution from an
+infrared scale we can thus compute $F_2^p-F_2^n$ as measured by the NMC, and
+give detailed predictions for its $Q^2$ dependence at fixed $x$. We also
+compare our results with Drell--Yan data.
+","[{""version"":""v1"",""created"":""Wed, 9 Mar 1994 14:29:47 GMT""}]","2014-11-17"
+"hep-th/9403053","Laurent Freidel","Daniel Altschuler and Laurent Freidel","On Universal Vassiliev Invariants","33 pages","Commun.Math.Phys. 170 (1995) 41-62","10.1007/BF02099438","ENSLAPP-L-455/94; ETH-TH/94-07","hep-th math.QA",,"  Using properties of ordered exponentials and the definition of the Drinfeld
+associator as a monodromy operator for the Knizhnik-Zamolodchikov equations, we
+prove that the analytic and the combinatorial definitions of the universal
+Vassiliev invariants of links are equivalent.
+","[{""version"":""v1"",""created"":""Tue, 8 Mar 1994 18:22:52 GMT""}]","2009-10-28"
+"hep-th/9403054","Eva Silverstein","Eva Silverstein and Edward Witten","Global U(1) R-Symmetry And Conformal Invariance Of (0,2) Models","8 pages","Phys.Lett.B328:307-311,1994","10.1016/0370-2693(94)91484-2","IASSNS-94/4,PUPT-1453","hep-th",,"  We derive a condition under which (0,2) linear sigma models possess a
+``left-moving'' conformal stress tensor in $\bq$ cohomology (i.e. which leaves
+invariant the ``right-moving'' ground states) even away from their critical
+points. At the classical level this enforces quasihomogeneity of the
+superpotential terms. The persistence of this structure at the quantum level on
+the worldsheet is obstructed by an anomaly unless the charges and
+superpotential degrees satisfy a condition which is equivalent to the condition
+for the cancellation of the anomaly in a particular ``right-moving'' U(1)
+R-symmetry.
+","[{""version"":""v1"",""created"":""Tue, 8 Mar 1994 19:10:15 GMT""}]","2010-04-07"
+"hep-th/9403055","Ezra Getzler","Ezra Getzler and J. D. S. Jones","Operads, homotopy algebra and iterated integrals for double loop spaces","70 pages",,,,"hep-th math.QA",,"  This paper provides some background to the theory of operads, used in the
+first author's papers on 2d topological field theory (hep-th/921204, CMP 159
+(1994), 265-285; hep-th/9305013). It is intended for specialists.
+","[{""version"":""v1"",""created"":""Tue, 8 Mar 1994 21:51:44 GMT""}]","2008-02-03"
+"hep-th/9403056","Alexander Harin","Igor V. Barashenkov (University of Cape Town), Alexander O. Harin
+  (University of Natal)","Nonrelativistic Chern-Simons theory for the Repulsive Bose Gas","4 pages, RevTeX","Phys.Rev.Lett. 72 (1994) 1575-1579","10.1103/PhysRevLett.72.1575",,"hep-th cond-mat",,"  We propose a new nonrelativistic Chern-Simons theory based on a simple
+modification of the standard Lagrangian. This admits asymptotically
+nonvanishing field configurations and is applicable to the description of
+systems of repulsive bosons. The new model supports topological vortices and
+has a self-dual limit, both in the pure Chern-Simons and in the mixed
+Chern-Simons-Maxwell cases. The analysis is based on a new formulation of the
+Chern-Simons theories as constrained Hamiltonian systems.
+","[{""version"":""v1"",""created"":""Wed, 9 Mar 1994 10:04:55 GMT""}]","2009-10-28"
+"hep-th/9403057","Akika Nakamichi","Tomoyuki Inui, Akika Nakamichi","Quantized Topological 2-form Gravity","10 pages, LaTeX, TIT/HEP-250/COSMO-43",,,,"hep-th",,"  We develop a perturbation theory of four-dimensional topological 2-form
+gravity without cosmological constant.
+  A 2-form and an $SU(2)$ connection 1-form are used as fundamental variables
+instead of metric.
+  There is no quantum correction from two-loop and higher orders in covariant
+gauge, in Landau gauge and in background covariant gauge.
+  We improve naive dimensional regularization and calculate an exact quantum
+correction at one-loop order.
+  We observe that the renormalizability depends on gauge choice in topological
+2-form gravity.
+  It is unrenormalizable in the covariant gauge and in the background covariant
+gauge.
+  On the other hand in the Landau gauge, we obtain finite but $SU(2)$
+non-covariant quantum corrections.
+  There may exist anomaly for the $SU(2)$ gauge symmetry.
+  (Talk given by A. Nakamichi at the Workshop on General Relativity and
+Gravitation held at Tokyo University, January 17-20,1994.)
+","[{""version"":""v1"",""created"":""Wed, 9 Mar 1994 12:35:11 GMT""}]","2007-05-23"
+"hep-th/9403069",,"N. Banerjee, R. Banerjee and S. Ghosh","Quantisation of second class systems in the Batalin-Tyutin formalism","26 pages, Latex file, e-mail shila@saha.ernet.in SINP-TNP/94-2","Annals Phys. 241 (1995) 237-257","10.1006/aphy.1995.1062",,"hep-th",,"  We review the Batalin-Tyutin approach of quantising second class systems
+which consists in enlarging the phase space to convert such systems into first
+class. The quantisation of first class systems, it may be mentioned, is already
+well founded. We show how the usual analysis of Batalin-Tyutin may be
+generalised, particularly if one is dealing with nonabelian theories. In order
+to gain a deeper insight into the formalism we have considered two specific
+examples of second class theories-- the massive Maxwell theory (Proca model)
+and its nonabelian extension. The first class constraints and the involutive
+Hamiltonian are explicitly constructed. The connection of our Hamiltonian
+approach with the usual Lagrangian formalism is elucidated. For the Proca model
+we reveal the importance of a boundary term which plays a significant role in
+establishing an exact identification of the extra fields in the Batalin-Tyutin
+approach with the St\""uckelberg scalar. Some comments are also made concerning
+the corresponding identification in the nonabelian example.
+","[{""version"":""v1"",""created"":""Wed, 9 Mar 1994 15:16:03 GMT""}]","2015-06-26"
+"nucl-th/9403007",,"Mihai Horoi, G\""unther Clausnitzer, B. Alex Brown and Ernie K.
+  Warburton","New calculations of the PNC Matrix Element for the $J^{\pi}T$
+  0$^{+}1,0^{-}1$ doublet in $^{14}$N","REVTEX, 28 pages",,"10.1103/PhysRevC.50.775",,"nucl-th",,"  A new calculation of the predominantly isoscalar PNC matrix element between
+the $J^{\pi}T$ $0^{+}1,0^{-}1$ (E$_{x} \approx$ 8.7 MeV) states in $^{14}$N has
+been carried out in a (0+1+2+3+4)$\hbar \omega$ model space with the
+Warburton-Brown interaction. The magnitude of the PNC matrix element of 0.22 to
+0.34 eV obtained with the DDH PNC interaction is substantially suppressed
+compared with previous calculations in smaller model spaces but shows agreement
+with the preliminary Seattle experimental data. The calculated sign is opposite
+to that obtained experimentally, and the implications of this are discussed.
+","[{""version"":""v1"",""created"":""Tue, 8 Mar 1994 18:43:51 GMT""}]","2016-08-14"
+"nucl-th/9403008",,"Mihai Horoi, B. Alex Brown and Aurel Sandulescu","Scaling Law in Cluster Decay","REVTEX, 9 pages, 2 Postscript (uuencoded) figures",,,,"nucl-th",,"  A recently proposed scaling law for the decay time of alpha particles is
+generalized for cluster decay. It is shown that for the decay of even-even
+parents, $logT_{1/2}$ depends linearly on the scaling variable
+S=(Z$_{c}$Z$_{d})^{0.6}/\sqrt{Q_{c}}$ and on the square root of the reduced
+mass of cluster and daughter.
+","[{""version"":""v1"",""created"":""Tue, 8 Mar 1994 19:06:32 GMT""}]","2009-09-25"
+"nucl-th/9403009",,"Michael R. Frank","Nonperturbative aspects of the quark-photon vertex","8 figures available on request by email, 25 pages, Revtex,
+  DOE/ER/40561-131-INT94-00-52","Phys.Rev.C51:987-998,1995","10.1103/PhysRevC.51.987",,"nucl-th",,"  The electromagnetic interaction with quarks is investigated through a
+relativistic, electromagnetic gauge-invariant treatment. Gluon dressing of the
+quark-photon vertex and the quark self-energy functions is described by the
+inhomogeneous Bethe-Salpeter equation in the ladder approximation and the
+Schwinger-Dyson equation in the rainbow approximation respectively. Results for
+the calculation of the quark-photon vertex are presented in both the time-like
+and space-like regions of photon momentum squared, however emphasis is placed
+on the space-like region relevant to electron scattering. The treatment
+presented here simultaneously addresses the role of dynamically generated
+$q\bar{q}$ vector bound states and the approach to asymptotic behavior. The
+resulting description is therefore applicable over the entire range of momentum
+transfers available in electron scattering experiments. Input parameters are
+limited to the model gluon two-point function, which is chosen to reflect
+confinement and asymptotic freedom, and are largely constrained by the obtained
+bound-state spectrum.
+","[{""version"":""v1"",""created"":""Tue, 8 Mar 1994 19:54:12 GMT""}]","2009-09-25"
+"patt-sol/9403001","Maria Cristina Depassier","R. D. Benguria and M. C. Depassier (Facultad de F\'isica, P.
+  Universidad Cat\'olica de Chile, Casilla 306, Santiago 22, Chile)","On the validity of the linear speed selection mechanism for fronts of
+  the nonlinear diffusion equation","9 pages, REVTEX","Phys. Rev. Lett., 73 (1994) 2272","10.1103/PhysRevLett.73.2272",,"patt-sol nlin.PS",,"  We consider the problem of the speed selection mechanism for the one
+dimensional nonlinear diffusion equation $u_t = u_{xx} + f(u)$. It has been
+rigorously shown by Aronson and Weinberger that for a wide class of functions
+$f$, sufficiently localized initial conditions evolve in time into a monotonic
+front which propagates with speed $c^*$ such that $2 \sqrt{f'(0)} \leq c^* < 2
+\sqrt{\sup(f(u)/u)}$. The lower value $c_L = 2 \sqrt{f'(0)}$ is that predicted
+by the linear marginal stability speed selection mechanism. We derive a new
+lower bound on the the speed of the selected front, this bound depends on $f$
+and thus enables us to assess the extent to which the linear marginal selection
+mechanism is valid.
+","[{""version"":""v1"",""created"":""Tue, 8 Mar 1994 18:38:00 GMT""}]","2016-08-14"

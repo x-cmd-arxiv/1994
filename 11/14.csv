@@ -1,0 +1,237 @@
+"chao-dyn/9411013","S. Y. Kim","Sang-Yoon Kim (Dept. of Phys., Kangwon Nat'l Univ., Chunchon
+  Kangwon-Do 200-701, Korea)","Extension of ``Renormalization of period doubling in symmetric
+  volume-preserving maps''","13 pages + 1 figure (available upon request), RevTex 3.0",,"10.1103/PhysRevE.50.4237","KWNU-SP-4","chao-dyn cond-mat nlin.CD",,"  We numerically reexamine the scaling behavior of period doublings in
+four-dimensional volume-preserving maps in order to resolve a discrepancy
+between numerical results on scaling of the coupling parameter and the
+approximate renormalization results reported by Mao and Greene [Phys. Rev. A
+{\bf 35}, 3911 (1987)]. In order to see the fine structure of period doublings,
+we extend the simple one-term scaling law to a two-term scaling law. Thus we
+find a new scaling factor associated with coupling and confirm the approximate
+renormalization results.
+","[{""version"":""v1"",""created"":""Mon, 14 Nov 1994 01:36:31 GMT""}]","2009-10-22"
+"chao-dyn/9411014","Tony Roberts","Z. MEI (University of Marburg), A.J. ROBERTS (University of Southern
+  Queensland)","Equations for Turbulent Flood Waves","11 pages of standard LaTeX, 32K, feedback welcome Keywords: long
+  water waves, k-epsilon turbulence model, centre manifold",,,,"chao-dyn nlin.CD",,"  Long waves in rivers, estuaries and floods are described by the St Venant and
+Boussinesq equations in classical fluid dynamics. Based on the widely used
+$k$-$\epsilon$ model for turbulence, we use the techniques of centre manifold
+theory to show how these classical models can be derived from a unified
+approach to low-dimensional modelling. The model may be refined to an arbitrary
+degree of accuracy and predicts interesting interactions between the mean flow
+and the mean turbulence.
+","[{""version"":""v1"",""created"":""Mon, 14 Nov 1994 09:50:40 GMT""}]","2008-02-03"
+"chao-dyn/9411015","Jean Bricmont","J.Bricmont (UCL, Physique Th\'eorique, B-1348, Louvain-la-Neuve,
+  Belgium) A.Kupiainen (Helsinki University, Department of Mathematics,
+  Helsinki 00014, Finland)","Renormalizing Partial Differential Equations","34 pages, Latex; bricmont@fyma.ucl.ac.be; ajkupiai@cc.helsinki.fi",,"10.1007/3-540-59190-7_23",,"chao-dyn nlin.CD",,"  In this review paper, we explain how to apply Renormalization Group ideas to
+the analysis of the long-time asymptotics of solutions of partial differential
+equations. We illustrate the method on several examples of nonlinear parabolic
+equations. We discuss many applications, including the stability of profiles
+and fronts in the Ginzburg-Landau equation, anomalous scaling laws in
+reaction-diffusion equations, and the shape of a solution near a blow-up point.
+","[{""version"":""v1"",""created"":""Mon, 14 Nov 1994 11:20:42 GMT""}]","2009-10-22"
+"cmp-lg/9411020","Gerrit M. Rentier Itk","Gerrit Rentier (Tilburg University)","Extraction in Dutch with Lexical Rules","Extension of KONVENS94 publication, 10 pages, PostScript",,,"ITK Research Report-no 53","cmp-lg cs.CL",,"  Unbounded dependencies are often modelled by ``traces'' (and ``gap
+threading'') in unification-based grammars. Pollard and Sag, however, suggest
+an analysis of extraction based on lexical rules, which excludes the notion of
+traces (P&S 1994, Chapter 9). In parsing, it suggests a trade of indeterminism
+for lexical ambiguity. This paper provides a short introduction to this
+approach to extraction with lexical rules, and illustrates the linguistic power
+of the approach by applying it to particularly idiosyncratic Dutch extraction
+data.
+","[{""version"":""v1"",""created"":""Mon, 14 Nov 1994 12:19:42 GMT""}]","2008-02-03"
+"cond-mat/9411049","Ganpathy Murthy","Nikos Berdenis and Ganpathy Murthy","Renormalization Group Approach to the Coulomb Pseudopotential for C_{60}","12 pages, latex, 7 figures available from murthy@buphy.bu.edu",,"10.1103/PhysRevB.52.3083",,"cond-mat",,"  A numerical renormalization group technique recently developed by one of us
+is used to analyse the Coulomb pseudopotential (${\mu^*}$) in ${{\rm C}_{60}}$
+for a variety of bare potentials. We find a large reduction in ${\mu^*}$ due to
+intraball screening alone, leading to an interesting non-monotonic dependence
+of ${\mu^*}$ on the bare interaction strength.
+  We find that ${\mu^*}$ is positive for physically reasonable bare parameters,
+but small enough to make the electron-phonon coupling a viable mechanism for
+superconductivity in alkali-doped fullerides. We end with some open problems.
+","[{""version"":""v1"",""created"":""Sun, 13 Nov 1994 16:27:31 GMT""}]","2009-10-22"
+"gr-qc/9411034","Neil Cornish","Neil J. Cornish and Janna J. Levin","Remarks about Static Back-Reaction on Black Hole Spacetimes","7 pages, LaTeX, one figure appended as a uuencoded and compressed
+  postscript file",,,"UTPT-94-29, CITA-94-47","gr-qc",,"  Recently, it has been claimed that the back reaction of vacuum polarization
+on a black hole spacetime naturally regularizes infinities in the black hole
+entropy. We examine the back reaction calculation and find no such
+short-distance cut-off,in contradiction with these recent claims. Moreover, the
+intuitive expectation that the perturbative calculation breaks down near the
+event horizon is confirmed. The new surface gravity diverges and the metric is
+degenerate at the stretched horizon.
+","[{""version"":""v1"",""created"":""Sun, 13 Nov 1994 23:12:14 GMT""}]","2007-05-23"
+"gr-qc/9411035","Haret Rosu","H.C. Rosu","Pedestrian notes on quantum mechanics","15pp, twocolumn","Metaphysical Review 3 (1 May 1997) 8-22",,,"gr-qc quant-ph",,"  I present an elementary essay on some issues related to nonrelativistic
+quantum mechanics, which is written in the spirit of extreme simplicity, making
+it an easy-to-read paper. Moreover, one can find a useful collection of ideas
+and opinions expressed by many well-known authors in this vast research field
+","[{""version"":""v1"",""created"":""Mon, 14 Nov 1994 04:04:00 GMT""},{""version"":""v2"",""created"":""Sat, 19 Nov 1994 01:33:00 GMT""},{""version"":""v3"",""created"":""Mon, 24 Apr 1995 03:30:00 GMT""},{""version"":""v4"",""created"":""Thu, 18 May 1995 03:50:00 GMT""},{""version"":""v5"",""created"":""Mon, 12 May 1997 22:26:04 GMT""}]","2008-02-03"
+"gr-qc/9411036","Vassilevich Dmitri","Dmitri V. Vassilevich","QED on Curved Background and on Manifolds with Boundaries: Unitarity
+  versus Covariance","29 pages, LaTEX, no figures","Phys.Rev. D52 (1995) 999-1010","10.1103/PhysRevD.52.999","ICTP preprint IC/94/359","gr-qc hep-th",,"  Some recent results show that the covariant path integral and the integral
+over physical degrees of freedom give contradicting results on curved
+background and on manifolds with boundaries. This looks like a conflict between
+unitarity and covariance. We argue that this effect is due to the use of
+non-covariant measure on the space of physical degrees of freedom. Starting
+with the reduced phase space path integral and using covariant measure
+throughout computations we recover standard path integral in the Lorentz gauge
+and the Moss and Poletti BRST-invariant boundary conditions. We also
+demonstrate by direct calculations that in the approach based on Gaussian path
+integral on the space of physical degrees of freedom some basic symmetries are
+broken.
+","[{""version"":""v1"",""created"":""Mon, 14 Nov 1994 15:40:30 GMT""}]","2009-10-22"
+"hep-lat/9411023","Robert Shrock","V. Matveev and R. Shrock","Complex-Temperature Singularities in the $d=2$ Ising Model. II.
+  Triangular Lattice","latex file, 25 pages of text plus figures appended to end of file.
+  (Further references have been included to important earlier works in this
+  area by A. J. Guttmann. )","J.Phys. A29 (1996) 803-823","10.1088/0305-4470/29/4/009","ITP-SB-94-53","hep-lat",,"  We investigate complex-temperature singularities in the Ising model on the
+triangular lattice. Extending an earlier analysis of the low-temperature series
+expansions for the (zero-field) susceptibility $\bar\chi$ by Guttmann
+\cite{g75} to include the use of differential approximants, we obtain further
+evidence in support of his conclusion that the exponent describing the
+divergence in $\chi$ at $u=u_e=-1/3$ (where $u = e^{-4K}$) is $\gamma_e'=5/4$
+and refine his estimate of the critical amplitude. We discuss the remarkable
+nature of this singularity, at which the spontaneous magnetisation diverges
+(with exponent $\beta_e=-1/8$) and show that it lies at the endpoint of a
+singular line segment constituting part of the natural boundaries of the free
+energy in the complex $u$ plane. Using exact results, we find that the specific
+heat has a divergent singularity at $u=-1/3$ with exponent $\alpha_e'=1$, so
+that the relation $\alpha_e'+2\beta_e+\gamma_e'=2$ is satisfied. We also study
+the singularity at $u=u_s=-1$, where $M$ vanishes (with $\beta_s=3/8$) and $C$
+diverges logarithmically (with $\alpha_s' = \alpha_s = 0$).
+","[{""version"":""v1"",""created"":""Mon, 14 Nov 1994 02:51:38 GMT""},{""version"":""v2"",""created"":""Tue, 22 Nov 1994 16:13:30 GMT""}]","2009-10-22"
+"hep-ph/9411282",,"Andrzej Czarnecki, Marek Jezabek and Johann H. Kuhn","Radiative corrections to $b\to c\tau\bat\nu_\tau$","8 pages, latex, no figures","Phys.Lett.B346:335-341,1995","10.1016/0370-2693(94)01681-2","TTP 94-26","hep-ph",,"  Analytical calculation is presented of the QCD radiative corrections to the
+rate of the process $b\to c\tau\bar\nu_\tau$ and to the $\tau$ lepton
+longitudinal polarization in $\tau\bar\nu_\tau$ rest frame. The results are
+given in the form of one dimensional infrared finite integrals over the
+invariant mass of the leptons. We argue that this form may be optimal for
+phenomelogical applications due to a possible breakdown of semilocal
+hadron-parton duality in decays of heavy flavours.
+","[{""version"":""v1"",""created"":""Sun, 13 Nov 1994 23:01:00 GMT""}]","2011-01-25"
+"hep-ph/9411283","Arjun Berera","Arjun Berera","Wave Function Properties in a High Energy Process","5 pages, latex, no figures, To appear in Proceedings of the workshop
+  'Theory of Hadrons and Light-Front QCD,' Poland, August 1994",,,,"hep-ph",,"  A model example is given of how properties of the hadronic light-cone wave
+function are revealed in a particular high energy process. The meson wave
+function is derived in scalar quark QCD. We apply it to compute the form of the
+cross section for lossless diffractive jet-production, an upcoming possiblity
+at HERA.
+","[{""version"":""v1"",""created"":""Mon, 14 Nov 1994 03:07:16 GMT""}]","2007-05-23"
+"hep-ph/9411284","Jean-Bruno Erismann","Pierre Chiappetta","Latest Developments on the Bess Model","17 pages,LaTeX",,,"CPT-94/P.3075","hep-ph",,"  The idea of a strongly interacting sector as responsible for the electroweak
+symmetry breaking is tested through an effective lagrangian description, called
+the BESS model, constructed on the standing point of custodial symmetry and
+gauge invariance, without specifing any dynamical scheme.
+","[{""version"":""v1"",""created"":""Mon, 14 Nov 1994 08:20:55 GMT""}]","2007-05-23"
+"hep-ph/9411285","Johan Bijnens","Johan Bijnens, Joaquim Prades and Eduardo de Rafael","Light Quark Masses from QCD","17 pages, LaTeX, 5 postscript figures included, uses
+  cite.sty(included) and epsf.sty","Phys.Lett.B348:226-238,1995","10.1016/0370-2693(95)00105-T","CPT-94/PE.3097, NORDITA - 94/62 N,P","hep-ph",,"  We study the value of the light quark masses combination $m_u+m_d$ in QCD
+using both Finite Energy Sum Rules and Laplace Sum Rules. We have performed a
+detailed analysis of both the perturbative QCD and the hadronic parametrization
+inputs needed in these Sum Rules. As main result, we obtain $m_u\left(1~{\rm
+GeV}^2\right) + m_d \left(1~{\rm GeV}^2\right) = \left(12\pm2.5\right)~{\rm
+MeV}$ for the running $\overline{MS}$ masses.
+","[{""version"":""v1"",""created"":""Mon, 14 Nov 1994 10:17:58 GMT""}]","2008-11-26"
+"hep-ph/9411286",,"F. Buccella, M. Lusignoli, G. Miele, A. Pugliese and P. Santorelli","Nonleptonic weak decays of charmed mesons","24 pages, plain TeX, uses harvmac.tex and tables.tex","Phys.Rev.D51:3478-3486,1995","10.1103/PhysRevD.51.3478","ROMA Preprint n. 1070-1994, NAPOLI DSF-T-56/94","hep-ph",,"  A previous analysis of two-body Cabibbo allowed nonleptonic decays of $D^0$
+mesons and of Cabibbo allowed and first-forbidden decays of $D^+$ and $D_s^+$
+has been adjourned using more recent experimental data and extended to the
+Cabibbo forbidden decays of $D^0$. Annihilation and W-exchange contributions as
+well as final state interaction effects (assumed to be dominated by nearby
+resonances) have been included and are in fact crucial to obtain a reasonable
+agreement with the experimental data, which show large flavour SU(3)
+violations. New fitting parameters are necessary to describe rescattering
+effects for Cabibbo forbidden $D^0$ decays, given the lack of experimental
+informations on isoscalar resonances. We keep their number to a minimum - three
+- using phenomenologically based considerations. We also discuss CP violating
+asymmetries.
+","[{""version"":""v1"",""created"":""Mon, 14 Nov 1994 10:50:57 GMT""}]","2008-11-26"
+"hep-ph/9411287","Veronique Bernard","V. Bernard, N. Kaiser, Ulf-G. Mei{\ss}ner","Neutral pion photoproduction off nucleons revisited","27 pp, plain TeX file, 9 figures (available via fax or hard copy from
+  the authors)","Z.Phys. C70 (1996) 483-498",,"CRN 94-62 and TK 94 18","hep-ph nucl-th",,"  We investigate threshold pion photoproduction in the framework of heavy
+baryon chiral perturbation theory. We give the expansion of the electric dipole
+amplitude $E_{0+}$ to three orders in $\mu$, the ratio of the pion to nucleon
+mass, and show that it is slowly converging. We argue that this observable is
+not a good testing ground for the chiral dynamics of QCD. In contrast, we
+exhibit new and fastly converging low--energy theorems in the P--waves which
+should be used to constrain the data analysis. We also discuss the importance
+of polarization observables to accurately pin down certain multipoles and give
+predictions for the reaction $\gamma n \to \pi^0 n$.
+","[{""version"":""v1"",""created"":""Mon, 14 Nov 1994 15:05:58 GMT""}]","2009-09-25"
+"hep-ph/9411288",,"F. J. Botella and Joao P. Silva","Jarlskog-like invariants for theories with scalars and fermions","12 pages, Latex, no figures","Phys.Rev.D51:3870-3875,1995","10.1103/PhysRevD.51.3870","FTUV/94-68 and IFIC/94-65","hep-ph",,"  Within the framework of theories where both scalars and fermions are present,
+we develop a systematic prescription for the construction of CP-violating
+quantities that are invariant under basis transformations of those matter
+fields. In theories with Spontaneous Symmetry Breaking, the analysis involves
+the vevs' transformation properties under a scalar basis change, with a
+considerable simplification of the study of CP violation in the scalar sector.
+These techniques are then applied in detail to the two Higgs-doublet model with
+quarks. It is shown that there are new invariants involving scalar-fermion
+interactions, besides those already derived in previous analyses for the
+fermion-gauge and scalar-gauge sectors.
+","[{""version"":""v1"",""created"":""Mon, 14 Nov 1994 14:11:12 GMT""}]","2010-11-01"
+"hep-ph/9411289",,"J. Bernab\'eu, G.A. Gonz\'alez-Sprinberg, M.Tung and J. Vidal","The tau weak-magnetic dipole moment","16 pages, Latex, 2 figures","Nucl.Phys.B436:474-486,1995","10.1016/0550-3213(94)00525-J","FTUV/94-43","hep-ph",,"  We calculate the prediction for the anomalous weak-magnetic form factor of
+the tau lepton at $q^2=M_Z^2$ within the Standard Model. With all particles
+on-shell, this is a electroweak gauge invariant quantity. Its value is
+$a_\tau^w (M_Z^2)= - \;(2.10 + 0.61\, i) \times 10^{-6}$. We show that the
+transverse and normal components of the single-tau polarization of tau pairs
+produced at $e^+e^-$ unpolarized collisions are sensitive to the real and
+absorptive parts of the anomalous weak-magnetic dipole moment of the tau. The
+sensitivity one can achieve at LEP in the measurement of this dipole moment is
+discussed.
+","[{""version"":""v1"",""created"":""Mon, 14 Nov 1994 14:30:28 GMT""},{""version"":""v2"",""created"":""Tue, 15 Nov 1994 08:46:53 GMT""}]","2016-08-14"
+"hep-th/9411088","A. Sagnotti","M. Martellini, A. Sagnotti and M. Zeni","Shock Waves and the Vacuum Structure of Gauge Theories","7 pages, latex, no figures",,,"IFUM 471/FT;ROM2F-94/43","hep-th cond-mat hep-lat",,"  In Yang-Mills theory massless point sources lead naturally to shock-wave
+configurations. Their magnetic counterparts endow the vacuum of the
+four-dimensional compact abelian model with a Coulomb-gas behaviour whose
+physical implications are briefly discussed. (Contribution to ``Quark
+Confinement and the Hadron Spectrum'', Como 20-24 June 1994. Revised version.)
+","[{""version"":""v1"",""created"":""Sun, 13 Nov 1994 16:34:53 GMT""},{""version"":""v2"",""created"":""Fri, 9 Dec 1994 17:39:33 GMT""}]","2008-02-03"
+"hep-th/9411090","M. Kuchiev","M.Yu.Kuchiev (School of Physics, University of New South Wales. On
+  leave from A.F.Ioffe Physical-Technical Institute)","Polarization of Instantons and Gravity","3 pages","Europhys.Lett.28:539-544,1994","10.1209/0295-5075/28/8/001",,"hep-th gr-qc",,"  Gravity can arise in a conventional non-Abelian gauge theory in which a
+specific phenomenon takes place. Suppose there is a condensation of polarized
+instantons and antiinstantons in the vacuum state. Then the excitations of the
+gauge field in the classical approximation are described through the variables
+of Riemann geometry satisfying the Einstein equations of general relativity.
+There are no dimensional coupling constants in the theory.
+","[{""version"":""v1"",""created"":""Mon, 14 Nov 1994 01:26:32 GMT""}]","2010-11-01"
+"hep-th/9411091",,"S. James Gates, Jr. and Lubna Rana","Manifest (4,0) Supersymmetry, Sigma Models and The ADHM Instaton
+  Construction","13 pages, Latex","Phys. Lett. B345 (1995) 233-241","10.1016/0370-2693(94)01653-T","UMDEPP 95-060","hep-th",,"  Utilizing (4,0) superfields, we discuss aspects of supersymmetric sigma
+models and the ADHM construction of instantons a' la Witten.
+","[{""version"":""v1"",""created"":""Mon, 14 Nov 1994 02:40:02 GMT""}]","2012-08-27"
+"hep-th/9411092",,"S. Y. Choi, J. S. Shim, and H. S. Song","Factorization and polarization in linearized gravity","45 pages, figures are included (uses pictex), RevTex","Phys.Rev. D51 (1995) 2751-2769","10.1103/PhysRevD.51.2751","KEK-TH-415, HYUPT-94/10, SNUTP 94-03","hep-th",,"  We investigate all the four-body graviton interaction processes:
+$gX\rightarrow \gamma X$, $gX\rightarrow gX$, and $gg\rightarrow gg$ with $X$
+as an elementary particle of spin less than two in the context of linearized
+gravity except the spin-3/2 case. We show explicitly that gravitational gauge
+invariance and Lorentz invariance cause every four-body graviton scattering
+amplitude to be factorized. We explore the implications of this factorization
+property by investigating polarization effects through the covariant density
+matrix formalism in each four-body graviton scattering process.
+","[{""version"":""v1"",""created"":""Mon, 14 Nov 1994 06:19:29 GMT""}]","2009-10-28"
+"hep-th/9411093","Eric Bergshoeff","E. Bergshoeff and M. Vasiliev","The Calogero Model and the Virasoro Symmetry","22 pages, Latex","Int.J.Mod.Phys. A10 (1995) 3477-3496","10.1142/S0217751X95001662","UG-10/94, FIAN/TD/17/94","hep-th",,"  We construct new realizations of the Virasoro algebra inspired by the
+Calogero model. The Virasoro algebra we find acts as a kind of
+spectrum-generating algebra of the Calogero model. We furthermore present the
+superextension of these results and introduce a class of higher-spin extensions
+of the Virasoro algebra which are of the $W_\infty$ - type.
+","[{""version"":""v1"",""created"":""Mon, 14 Nov 1994 10:12:22 GMT""}]","2015-06-26"
+"hep-th/9411094","Annette Holtkamp","Hermann Hessling","On the Local Equilibrium Condition","5 pages, latex",,,"DESY 94-208","hep-th quant-ph",,"  A physical system is in local equilibrium if it cannot be distinguished from
+a global equilibrium by ``infinitesimally localized measurements''. This should
+be a natural characterization of local equilibrium, but the problem is to give
+a precise meaning to the qualitative phrase ``infinitesimally localized
+measurements''. A solution is suggested in form of a Local Equilibrium
+Condition, which can be applied to linear relativistic quantum field theories
+but not directly to selfinteracting quantum fields. The concept of local
+temperature resulting from LEC is compared to an old approach to local
+temperature based on the principle of maximal entropy. It is shown that the
+principle of maximal entropy does not always lead to physical states if it is
+applied to relativistic quantum field theories.
+","[{""version"":""v1"",""created"":""Mon, 14 Nov 1994 12:38:03 GMT""}]","2007-05-23"
+"hep-th/9411095","Gabriel Cardoso","Gabriel Lopes Cardoso and Dieter L\""ust","On the Relation of Four-Dimensional N=2,4 -- Supersymmetric String
+  Backgrounds to Integrable Models","10 pages,latex (references added)","Phys.Lett.B345:220-226,1995","10.1016/0370-2693(94)01636-Q","HUB-IEP-94/23","hep-th",,"  In this letter we discuss the relation of four-dimensional, $N=2$
+supersymmetric string backgrounds to integrable models. In particular we show
+that non-K\""ahlerian gravitational backgrounds with one $U(1)$ isometry plus
+non-trivial antisymmetric tensor and dilaton fields arise as the solutions of
+the Liouville equation or, for the case of vanishing central charge deficit, as
+the solutions of the continual Toda equation. When performing an Abelian
+duality transformation, a particular class of solutions of the continual Toda
+equation leads to the well-known gravitational Eguchi-Hanson instanton
+background with self-dual curvature tensor.
+","[{""version"":""v1"",""created"":""Mon, 14 Nov 1994 13:10:25 GMT""},{""version"":""v2"",""created"":""Wed, 16 Nov 1994 15:08:33 GMT""}]","2016-08-14"
+"hep-th/9411097","Jeff Harvey","Jeffrey A. Harvey","Current Directions in String Theory and Abstract Supersymmetry","14 pages, latex, world_sci.sty, no figures, minor typos corrected",,,"EFI-94-58","hep-th hep-ph",,"  I discuss some current thoughts on how low-energy measurements and
+consistency constrain theories at high energies with emphasis on string theory.
+I also discuss some recent work on the dynamics of supersymmetric gauge
+theories.
+","[{""version"":""v1"",""created"":""Mon, 14 Nov 1994 15:00:56 GMT""},{""version"":""v2"",""created"":""Tue, 29 Nov 1994 20:47:07 GMT""}]","2008-02-03"
+"mtrl-th/9411003","Bernd Kohler","B. Kohler, P. Ruggerone, S. Wilke, M. Scheffler","Frustrated H-Induced Instability of Mo(110)","4 pages, 2 figures, submitted to PRL",,"10.1103/PhysRevLett.74.1387","FHI-94-11","mtrl-th cond-mat.mtrl-sci",,"  Using helium atom scattering Hulpke and L""udecke recently observed a giant
+phonon anomaly for the hydrogen covered W(110) and Mo(110) surfaces. An
+explanation which is able to account for this and other experiments is still
+lacking. Below we present density-functional theory calculations of the atomic
+and electronic structure of the clean and hydrogen-covered Mo(110) surfaces.
+For the full adsorbate monolayer the calculations provide evidence for a strong
+Fermi surface nesting instability. This explains the observed anomalies and
+resolves the apparent inconsistencies of different experiments.
+","[{""version"":""v1"",""created"":""Mon, 14 Nov 1994 14:14:58 GMT""}]","2009-10-28"

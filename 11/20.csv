@@ -1,0 +1,78 @@
+"acc-phys/9411002",,"Patrick L. Nash (University of Texas at San Antonio)","Order $\hbar$ Corrections to the Classical Dynamics of a Particle with
+  Intrinsic Spin Moving in a Constant Magnetic Field",,,,,"acc-phys physics.acc-ph",,"  $O(\hbar)$ effects that modify the classical orbit of a charged particle are
+described for the case of a classical spin-1/2 particle moving in a constant
+magnetic field, using a manifestly covariant formalism reported previously. It
+is found that the coupling between the momentum and spin gives rise to a shift
+in the cyclotron frequency, which is explicitly calculated. In addition the
+orbit is found to exhibit $O(\hbar)$ oscillations along the axis of the uniform
+static magnetic field whenever the gyromagnetic ratio $g$ of the particle is
+not 2. This oscillation is found to occur at a frequency $\propto$ $\frac{g}{2}
+- 1$, and is an observable source of electric dipole radiation.
+","[{""version"":""v1"",""created"":""Sat, 19 Nov 1994 21:03:56 GMT""}]","2008-02-03"
+"cond-mat/9411082","Maxim Raykin","Maxim Raykin","Gauge symmetry breaking, collective modes, and boson superconductivity
+  in the t-J model","37 pages, uuencoded postscript file with included printing
+  instructions of the paper, published in Phys. Rev. B, v. 51, 3856 (1995).
+  Compare to previous version, essential changes are made in Sec. VII",,"10.1103/PhysRevB.51.3856",,"cond-mat",,"  A theory of the t-J model in the presence of an external electromagnetic
+field is presented. The 1/N expansion for this model in the slave-fermion
+representation is developed, and it is shown that all the general properties of
+the theory are satisfied in every order of the 1/N expansion separately. A
+convenient procedure of the gauge fixing is suggested. It is shown that
+superconductivity may exist in this model even in the absence of the electron
+pairing. It is argued that experimental predictions of the theory might agree
+with the observed properties of the copper oxides.
+","[{""version"":""v1"",""created"":""Sun, 20 Nov 1994 03:53:13 GMT""},{""version"":""v2"",""created"":""Mon, 21 Nov 1994 07:21:28 GMT""},{""version"":""v3"",""created"":""Mon, 27 Feb 1995 01:08:36 GMT""}]","2009-10-22"
+"gr-qc/9411051","Haret Rosu","H.C. Rosu","Hybridizing the skyrmion with an anti-de-Sitter bag","20 pp, companion paper is gr-qc/9406017","Nuovo Cimento B 108 (April 1993) 313-329","10.1007/BF02887491",,"gr-qc hep-ph",,"  I discuss a phenomenological model of the nucleon in which a small anti-de
+Sitter bag is placed into the Skyrmion configuration. Such a bag has a timelike
+boundary and allows naturally the Cheshire Cat Principle. Very important in
+this model is the membrane of the bag, the 3-dimensional time-space manifold
+S^{1}\times S^{2}, in which topological techniques will come into play
+","[{""version"":""v1"",""created"":""Sun, 20 Nov 1994 01:51:00 GMT""},{""version"":""v2"",""created"":""Tue, 20 Jan 1998 20:29:01 GMT""}]","2009-10-22"
+"gr-qc/9411052",,"I.B. Khriplovich","Superluminal Velocity of Photons in a Gravitational Background","5 pages, LaTeX","Phys.Lett. B346 (1995) 251-254","10.1016/0370-2693(94)01679-7","BINP 94-88","gr-qc",,"  The influence of radiative corrections on the photon propagation in a
+gravitational background is investigated without the low-frequency
+approximation $\omega \ll m$. The conclusion is made in this way that the
+velocity of light can exceed unity.
+","[{""version"":""v1"",""created"":""Sun, 20 Nov 1994 09:27:25 GMT""}]","2009-10-22"
+"hep-lat/9411034",,"Jan Ambjorn, Gudmar Thorleifsson and Mark Wexler","New critical phenomena in 2d quantum gravity","22 pages, uuencoded compressed ps-file. Use csh file.uu to get
+  ps-file","Nucl.Phys. B439 (1995) 187-204","10.1016/0550-3213(95)00014-J","NBI-HE-94-48","hep-lat gr-qc hep-th",,"  We study $q=10$ and $q=200$ state Potts models on dynamical triangulated
+lattices and demonstrate that these models exhibit continuous phase
+transitions, contrary to the first order transition present on regular
+lattices. For $q=10$ the transition seems to be of 2nd order, while it seems to
+be of 3rd order for $q=200$. For $q=200$ the phase transition also induces a
+transition between typical fractal structures of the piecewise linear surfaces
+corresponding to the triangulations. The typical surface changes from having a
+tree-like structure to a fractal structure characterizing pure gravity when the
+temperature drops below the critical temperature. An investigation of the
+alignment of spin clusters shows that they are strongly correlated to the
+underlying fractal structure of the triangulated surfaces.
+","[{""version"":""v1"",""created"":""Sun, 20 Nov 1994 14:04:48 GMT""}]","2016-08-31"
+"hep-th/9411146","Sathya","S.Guruswamy and P.Vitale","Correlation Functions of a Conformal Field Theory in Three Dimensions","15 pages, Latex","Mod.Phys.Lett. A11 (1996) 1047-1059","10.1142/S0217732396001089","UR-1395; ER-40685-843","hep-th cond-mat",,"  We derive explicit forms of the two--point correlation functions of the
+$O(N)$ non-linear sigma model at the critical point, in the large $N$ limit, on
+various three dimensional manifolds of constant curvature. The two--point
+correlation function, $G(x, y)$, is the only $n$-point correlation function
+which survives in this limit. We analyze the short distance and long distance
+behaviour of $G(x, y)$. It is shown that $G(x, y)$ decays exponentially with
+the Riemannian distance on the spaces $R^2 \times S^1,~S^1 \times S^1 \times R,
+~S^2 \times R,~H^2 \times R$. The decay on $R^3$ is of course a power law. We
+show that the scale for the correlation length is given by the geometry of the
+space and therefore the long distance behaviour of the critical correlation
+function is not necessarily a power law even though the manifold is of infinite
+extent in all directions; this is the case of the hyperbolic space where the
+radius of curvature plays the role of a scale parameter. We also verify that
+the scalar field in this theory is a primary field with weight $\delta=-{1
+\over 2}$; we illustrate this using the example of the manifold $S^2 \times R$
+whose metric is conformally equivalent to that of $R^3-\{0\}$ up to a
+reparametrization.
+","[{""version"":""v1"",""created"":""Sun, 20 Nov 1994 00:50:59 GMT""}]","2015-06-26"
+"hep-th/9411147",,"R. M. Kashaev","Quantum Dilogarithm as a 6j-Symbol","12 pages, TeX; references added","Mod.Phys.Lett. A9 (1994) 3757-3768","10.1142/S0217732394003610","POMI-94-9","hep-th math.QA",,"  The cyclic quantum dilogarithm is interpreted as a cyclic 6j-symbol of the
+Weyl algebra, considered as a Borel subalgebra $BU_q(sl(2))$. Using modified
+6j-symbols, an invariant of triangulated links in triangulated 3-manifolds is
+constructed. Apparently, it is an ambient isotopy invariant of links.
+","[{""version"":""v1"",""created"":""Sun, 20 Nov 1994 03:31:38 GMT""},{""version"":""v2"",""created"":""Mon, 19 Dec 1994 05:59:22 GMT""}]","2009-10-28"
+"hep-th/9411148","Paul Demkin","Paul Demkin","Some properties of the linearized model of the (super)$p$-brane","18 pages, LaTeX, UUITP 11/94","Phys.Scripta 53:133-138,1996","10.1088/0031-8949/53/2/002",,"hep-th",,"  Some general properties of the relativistic $p$-dimensional surface imbedded
+into $D$-dimensional spacetime and its reduction to the sim\-plest case of the
+quadratic Lagrangian (the linearized model) are considered. The solutions of
+the equations of motion of the linearized model for the $p$-brane with
+arbitrary topology and massless eigenstates, as well as with critical dimension
+after quantization are presented. Some generalizations for the supermembrane
+are discussed.
+","[{""version"":""v1"",""created"":""Sun, 20 Nov 1994 15:25:10 GMT""}]","2011-04-15"

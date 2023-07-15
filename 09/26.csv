@@ -1,0 +1,200 @@
+"astro-ph/9409064","Dan Kiselman","Dan Kiselman & Mats Carlsson","Non-Lte Effects on be and B Abundance Determinations in Cool Stars","10p, uuencoded compressed postscript, 4 figures (and text) available
+  with anonymous ftp from hugin.astro.su.se directory: pub/solar/elba, for the
+  proceedings of ESO/EIPC Workshop on the light element abundances, Elba 1994,
+  NORDITA-94/45 A",,,,"astro-ph",,"  We discuss the nature of non-LTE effects affecting abundance analysis of cool
+stars. The departures from LTE of importance for the B I lines in solar-type
+stars are described and some new results are presented. Boron abundances
+derived under the LTE assumption have significant systematic errors, especially
+for metal-poor stars. For beryllium, current results suggest that departures
+from LTE will not affect abundance analysis significantly.
+","[{""version"":""v1"",""created"":""Mon, 26 Sep 1994 13:55:35 GMT""}]","2007-05-23"
+"cond-mat/9409109","Nobuki Maeda","K. Ishikawa, N. Maeda, and K. Tadaki","Is Hall Conductance in Hall Bar Geometry a Topological Invariant?","13 pages, 2 figures uuencoded, phyzzx, EPHOU-94-005",,,,"cond-mat",,"  A deep connection between the Hall conductance in realistic situation and a
+topological invariant is pointed out based on von-Neumann lattice
+representation in which Landau level electrons have minimum spatial extensions.
+We show that the Hall conductance has no finite size correction in quantum Hall
+regime, but a coefficient of induced Chern-Simons term in QED$_3$ has a small
+finite size correction, although both of them are similar topological
+invariant.
+","[{""version"":""v1"",""created"":""Mon, 26 Sep 1994 04:34:01 GMT""}]","2007-05-23"
+"cond-mat/9409110","Yosifumi Morita","Y. Morita, Y. Hatsugai and M. Kohmoto","Universal Correlations in the random matrices and 1D particles with long
+  range interactions in a confinement potential","(second revision: authors added)",,"10.1103/PhysRevB.52.4716",,"cond-mat hep-th",,"  We study the correlations between eigenvalues of the large random matrices by
+a renormalization group approach. The results strongly support the universality
+of the correlations proposed by Br\'ezin and Zee. Then we apply the results to
+the ground state of the 1D particles with long range interactions in a
+confinement potential. We obtain the exact ground state. We also show the
+existence of a transition similar to a phase separation. Before and after the
+transition, we obtain the density-density correlation explicitly. The
+correlation shows nontrivial universal behavior.
+","[{""version"":""v1"",""created"":""Mon, 26 Sep 1994 11:35:44 GMT""},{""version"":""v2"",""created"":""Tue, 27 Sep 1994 09:32:57 GMT""}]","2009-10-22"
+"funct-an/9409003","Denis Juriev","D.V.Juriev","Classical and quantum dynamics of noncanonically coupled oscillators and
+  Lie superalgebras","11 pages, amstex (revised: small remarks added)",,,,"funct-an chao-dyn math.OA nlin.CD nlin.SI solv-int",,"  The classical and quantum dynamics of noncanonically coupled os- cillators is
+investigated in its relation to Lie superalgebras. It is shown that the quantum
+dynamics admits a hidden (super)hamiltonian formulation and, hence, preserves
+the initial operator relations.
+","[{""version"":""v1"",""created"":""Mon, 26 Sep 1994 13:55:04 GMT""},{""version"":""v2"",""created"":""Sat, 1 Oct 1994 09:20:44 GMT""},{""version"":""v3"",""created"":""Wed, 5 Oct 1994 11:30:11 GMT""}]","2008-02-03"
+"hep-lat/9409019","Gerrit Schierholz","G. Schierholz","A Solution to the Strong CP Problem","3 pages, talk presented at the 27th International Conference on High
+  Energy Physics, Glasgow, 20 - 27 July 1994",,,,"hep-lat",,"  One may argue that QCD solves the strong CP problem by itself, without having
+to introduce new symmetries and particles. To test this idea, a lattice
+simulation is performed. The problem is investigated in the CP$^3$ model first.
+It is found that the model has a first order phase transition in $\theta$ from
+a confining phase at small $\theta$ to a deconfining phase at large $\theta$,
+and that the critical value of $\theta$ decreases towards zero as $\beta$ is
+taken to infinity. This suggests that $\theta$ is tuned to zero in the
+continuum limit. Preliminary studies of the SU(2) Yang-Mills theory in four
+dimensions show a phase transition in $\theta$ as well, so that it is quite
+likely that the strong CP problem in QCD is solved along the same line.
+","[{""version"":""v1"",""created"":""Mon, 26 Sep 1994 13:00:28 GMT""}]","2007-05-23"
+"hep-ph/9409408","Hai-Yang Cheng","Hai-Yang Cheng and B. Tseng","Extraction of $a_1$ and $a_2$ from $B\to \psi K(K^*),~ D(D^*)\pi(\rho)$
+  Decays","14 pages, revised version","Phys.Rev. D51 (1995) 6259-6266","10.1103/PhysRevD.51.6259","IP-ASTP-21-94","hep-ph",,"  Based on the factorization approach, we show that the CLEO data for the ratio
+$\Gamma(B\to\psi K^*)/\Gamma(B\to \psi K)$ and the CDF measurement of the
+fraction of longitudinal polarization in $B\to\psi K^*$ can be accounted for by
+the heavy-flavor-symmetry approach for heavy-light form factors provided that
+the form factor $F_0$ behaves as a constant, while the $q^2$ dependence is of
+the monopole form for $F_1,~ A_0,~A_1$, and of the dipole behavior for $A_2$
+and $V$. This $q^2$ extrapolation for form factors is further supported by
+$B\to K^*\gamma$ data and by a recent QCD-sum-rule analysis. We then apply this
+method to $B\to D(D^*)\pi(\rho)$ decays to extract the parameters $a_1$ and
+$a_2$. It is found that $a_1(B\to D^{(*)}\pi(\rho))=1.01\pm 0.06$ and $a_2(B\to
+D^{(*)}\pi(\rho))=0.23\pm 0.06\,$. Our result $a_2/a_1=0.22\pm 0.06$ thus
+significantly improves the previous analysis that leads to $a_2/a_1=0.23\pm
+0.11$. We argue that, contrary to what anticipated from the leading $1/N_c$
+expansion, the sign of $a_2(B\to\psi\K)$ should be positive and
+$a_2(B\to\psi\K)~{\large ^>_\sim}~ a_2(B\to D^{(*)}\pi(\rho))$.
+","[{""version"":""v1"",""created"":""Mon, 26 Sep 1994 15:54:21 GMT""},{""version"":""v2"",""created"":""Wed, 30 Nov 1994 06:41:10 GMT""}]","2016-09-01"
+"hep-ph/9409409","P. A. Henning","P.A.Henning and Ch.Hoelbling","Bose_einstein Correlations of Unstable Particles","8 pages, GSI-Preprint 1 figure appendend as uucode",,,,"hep-ph",,"  Within a field theoretical formalism suited to treat inhomogeneous hot
+quantum systems, we derive the two-particle correlation function for particles
+having a spectral width gamma in the region of their emission. We find, that
+this correlation function measures the radius R0 of the thermal source only in
+case gamma*R0 > 1.
+","[{""version"":""v1"",""created"":""Mon, 26 Sep 1994 15:54:39 GMT""}]","2009-09-25"
+"hep-ph/9409410",,"AD Martin, WJ Stirling and RG Roberts","Parton Distributions for Low Q^2","University of Durham preprint DTP/94/78 Rutherford Appleton
+  Laboratory preprint RAL-94-104 11 pages and 9 figures available from authors","Phys.Rev. D51 (1995) 4756-4762","10.1103/PhysRevD.51.4756",,"hep-ph",,"  We extend the MRS(A) set of parton distributions, which provides an
+up-to-date description of the structure of the proton probed by hard
+interactions, into the region of $Q^2$ below $5\ {\rm GeV}^2$. After
+physically-motivated modifications, we obtain a smooth description of the data
+on the structure function $F_2(x,Q^2)$ all the way from $Q^2 = 10^{-1}$ to
+$10^3\ {\rm GeV}^2$.
+","[{""version"":""v1"",""created"":""Mon, 26 Sep 1994 09:27:31 GMT""}]","2009-10-28"
+"hep-ph/9409413","Toshihiro Kouno","T.Inagaki, T.Kouno and T.Muta","Phase Structure of Four-Fermion Theories at Finite Temperature and
+  Chemical Potential in Arbitrary Dimensions","32 pages, uses LaTeX, here.sty(attached), eepic.sty, HUPD-9402 (some
+  misprints corrected)","Int.J.Mod.Phys. A10 (1995) 2241-2268","10.1142/S0217751X95001091",,"hep-ph hep-th",,"  The phase structure of four-fermion theories is thoroughly investigated with
+varying temperature and chemical potential for arbitrary space-time dimensions
+$(2 \leq D < 4)$ by using the 1/N expansion method. It is shown that the chiral
+symmetry is restored in the theory under consideration for sufficiently high
+temperature and/or chemical potential. The critical line dividing the symmetric
+and broken phase is given explicitly. It is found that for space-time dimension
+$2 \leq D < 3$ both the first-order and second-order phase transition occur
+depending on the value of temperature and chemical potential while for $3 \leq
+D < 4$ only the second-order phase transition exists.
+","[{""version"":""v1"",""created"":""Mon, 26 Sep 1994 14:47:46 GMT""},{""version"":""v2"",""created"":""Thu, 13 Oct 1994 11:22:31 GMT""}]","2009-10-28"
+"hep-ph/9409414","N. Tracas","G. K. Leontaris and N.D. Tracas","Low Energy Thresholds and the Scalar Mass Spectrum in Minimal
+  Supersymmetry","(CERN-TH.7411, Latex file, 12p, 1fig. not included)","Phys.Lett. B342 (1995) 163-170","10.1016/0370-2693(94)01402-X",,"hep-ph",,"  We discuss low energy threshold effects and calculate the sparticle masses in
+the context of the Minimal Supersymmetric Standard Model. We pay particular
+attention to the top squark and the Higgs mass parameters, and calculate the
+top Yukawa corrections, taking into account the successive decoupling of each
+particle at its threshold. We discuss the phenomenological implications in the
+context of the radiative symmetry breaking scenario.
+","[{""version"":""v1"",""created"":""Mon, 26 Sep 1994 14:40:02 GMT""}]","2009-10-28"
+"hep-ph/9409415",,"D.Tadi\'c and S.\v{Z}ganec","Covariant and Heavy Quark Symmetric Quark Models","34 pages (2 figures not included but avaliable upon request), LATEX,
+  (to be published in Phys.Rev.D)","Phys.Rev.D50:5853-5864,1994","10.1103/PhysRevD.50.5853","ZTF-PMF/94","hep-ph",,"  There exist relativistic quark models (potential or MIT-bag) which satisfy
+the heavy quark symmetry (HQS) relations among meson decay constants and form
+factors. Covariant construction of the momentum eigenstates, developed here,
+can correct for spurious center-of-mass motion contributions.Proton form factor
+and M1 transitions in quarkonia are calculated. Explicit expression for the
+Isgur-Wise function is found and model determined deviations from HQS are
+studied. All results depend on the model parameters only. No additional ad hoc
+assumptions are needed.
+","[{""version"":""v1"",""created"":""Mon, 26 Sep 1994 15:05:23 GMT""}]","2014-11-17"
+"hep-th/9409149",,"Daniel I. Fivel","Proof of the Impossibility of Non-Contextual Hidden Variables in All
+  Hilbert Space Dimensions","Latex, 6pages, 12.5K",,,,"hep-th",,"  It is shown that the algebraic structure of finite Heisenberg groups
+associated with the tensor product of two Hilbert spaces leads to a simple
+demonstration valid in all Hilbert space dimensions of the impossibility of
+non-contextual hidden variables.
+","[{""version"":""v1"",""created"":""Sun, 25 Sep 1994 20:11:24 GMT""}]","2007-05-23"
+"hep-th/9409150",,"Daniel I. Fivel","The prime factorization property of entangled quantum states","7 pages, 15.5K Latex",,,,"hep-th",,"  Completely entangled quantum states are shown to factorize into tensor
+products of entangled states whose dimensions are powers of prime numbers. The
+entangled states of each prime-power dimension transform among themselves under
+a finite Heisenberg group. We are thus led to examine processes in which
+factors are exchanged between entangled states and so consider canonical
+ensembles in which these processes occur. It is shown that the Riemann zeta
+function is the appropriate partition function and that the Riemann hypothesis
+makes a prediction about the high temperature contribution of modes of large
+dimension.
+","[{""version"":""v1"",""created"":""Mon, 26 Sep 1994 03:47:56 GMT""}]","2007-05-23"
+"hep-th/9409151","Stephen-wei Chung","S. Chaudhuri, S.-W. Chung, G. Hockney and J. Lykken","String Models for Locally Supersymmetric Grand Unification","4 pages",,,,"hep-th hep-ph",,"  Phenomenologically viable string vacua may require incorporating Kac-Moody
+algebras at level $\geq 2$. We exploit the free fermionic formulation to
+construct N=(0,2) world-sheet supersymmetric string models with specific
+phenomenological input: N=1 spacetime supersymmetry, three generations of
+chiral fermions in gauge groups $SO(10)$ or $SU(5)$, adjoint Higgses, and a
+single Yukawa coupling of a fundamental Higgs to the third generation. In this
+talk, we will show models of gauge group $SO(10)$ and of $SU(5)$ without any
+gauge singlet moduli, and show some novel features appearing in the connection
+of these two models. The accompanying, and rather non-trivial, discrete chiral
+sub-algebras can determine hierarchies in the fermion mass matrix. Our approach
+to string phenomenology opens up the possibility of {\it concrete} explorations
+of a wide range of proposals both for dynamical supersymmetry breaking and for
+the dynamics of the dilaton and other stringy moduli. (Talk presented at DPF
+94, Albuquerque, New Mexico)
+","[{""version"":""v1"",""created"":""Mon, 26 Sep 1994 03:19:55 GMT""}]","2007-05-23"
+"hep-th/9409152",,"T.Horiguchi, K.Maeda and M.Sakmaoto","Analysis of the Wheeler-DeWitt Equation beyond Planck Scale and
+  Dimensional Reduction","9 pages, latex file, KOBE-TH-94-04","Phys.Lett.B344:105-109,1995","10.1016/0370-2693(94)01501-3",,"hep-th gr-qc",,"  We solve the Wheeler-DeWitt equation for {\it four}-dimensional Einstein
+gravity as an expansion in powers of the Planck mass by means of a heat kernel
+regularization. Our results suggest that in the universe with a very small
+radius or with a very large curvature beyond a Planck scale expectation values
+of operators are reduced to calculations in a path integral representation of
+{\it three}-dimensional Einstein gravity.
+","[{""version"":""v1"",""created"":""Mon, 26 Sep 1994 08:47:08 GMT""}]","2010-11-01"
+"hep-th/9409153","Atsushi Nakayashiki","Atsushi Nakayashiki","Fusion of the $q$-Vertex Operators and its Application to Solvable
+  Vertex Models","35 pages","Commun.Math.Phys. 177 (1996) 27","10.1007/BF02102429",,"hep-th nlin.SI solv-int",,"  We diagonalize the transfer matrix of the inhomogeneous vertex models of the
+6-vertex type in the anti-ferroelectric regime intoducing new types of q-vertex
+operators. The special cases of those models were used to diagonalize the s-d
+exchange model\cite{W,A,FW1}. New vertex operators are constructed from the
+level one vertex operators by the fusion procedure and have the description by
+bosons. In order to clarify the particle structure we estabish new isomorphisms
+of crystals. The results are very simple and figure out representation
+theoretically the ground state degenerations.
+","[{""version"":""v1"",""created"":""Mon, 26 Sep 1994 09:02:30 GMT""}]","2009-10-28"
+"hep-th/9409154","Dudas","E. Dudas","Nambu mass hierarchies in low energy string models","3 pages, LATEX, 1 figure (appended in uuencoded form)",,,,"hep-th",,"  This paper explores a recent idea of Nambu to generate hierarchies among
+Yukawa couplings in the context of effective supergravity and superstrings
+models. The Yukawa couplings are homogeneous functions of the moduli and a
+geometrical constraint between them with a crucial role in the Nambu mechanism
+is found in a class of models of no-scale type. The Yukawas are dynamical
+variables at low energy to be determined by a minimization process. (Based on
+the talk given at ICHEP94, Glasgow, july 1994)
+","[{""version"":""v1"",""created"":""Mon, 26 Sep 1994 12:21:29 GMT""},{""version"":""v2"",""created"":""Wed, 28 Sep 1994 18:31:29 GMT""}]","2009-09-25"
+"hep-th/9409155","Denis Uglov","D.Uglov","Finite-difference representations of the degenerate affine Hecke algebra","13p Latex",,"10.1016/0375-9601(95)00143-Q",,"hep-th",,"  The representations of the degenerate affine Hecke algebra in which the
+analogues of the Dunkl operators are given by finite-difference operators are
+introduced. The non-selfadjoint lattice analogues of the spin
+Calogero-Sutherland hamiltonians are analysed by Bethe-Ansatz. The $
+sl(m)$-Yangian representations arising from the finite-difference
+representations of the degenerate affine Hecke algebra are shown to be related
+to the Yangian representation of the 1-d Hubbard Model.
+","[{""version"":""v1"",""created"":""Mon, 26 Sep 1994 14:48:39 GMT""}]","2009-10-28"
+"hep-th/9409156","Clive Wells","C.J. Fewster and C.G. Wells","Unitarity of Quantum Theory and Closed Time-Like Curves","13 pages, LaTeX. Final revised paper to be published in Phys Rev D.
+  Some changes are made to expand our discussion of Anderson's Proposal for
+  restoring unitarity","Phys.Rev.D52:5773-5782,1995","10.1103/PhysRevD.52.5773","DAMTP-R94/35","hep-th gr-qc",,"  Interacting quantum fields on spacetimes containing regions of closed
+timelike curves (CTCs) are subject to a non-unitary evolution $X$. Recently, a
+prescription has been proposed, which restores unitarity of the evolution by
+modifying the inner product on the final Hilbert space. We give a rigorous
+description of this proposal and note an operational problem which arises when
+one considers the composition of two or more non-unitary evolutions. We propose
+an alternative method by which unitarity of the evolution may be regained, by
+extending $X$ to a unitary evolution on a larger (possibly indefinite) inner
+product space. The proposal removes the ambiguity noted by Jacobson in
+assigning expectation values to observables localised in regions spacelike
+separated from the CTC region. We comment on the physical significance of the
+possible indefiniteness of the inner product introduced in our proposal.
+","[{""version"":""v1"",""created"":""Mon, 26 Sep 1994 15:16:57 GMT""},{""version"":""v2"",""created"":""Wed, 8 Mar 1995 23:20:37 GMT""},{""version"":""v3"",""created"":""Sat, 9 Sep 1995 18:23:12 GMT""}]","2008-11-26"
+"nucl-th/9409020",,"V.R. Manfredi, L. Salasnich","The Onset of Chaos with a Quadrupole--Quadrupole Interaction","14 pages, 5 figures (available upon request to the authors), LaTex,
+  DFPD/93/TH/73, to be published in Nuovo Cimento A","NuovoCim.A108:449-456,1995","10.1007/BF02813602",,"nucl-th",,"  The transition from order to chaos in atomic nuclei has been studied
+analytically and numerically using a quadrupole--quadrupole residual
+interaction. This interaction leads to chaotic behaviour, but the critical
+energy $E_C\simeq 12.6$ MeV, corresponding to the onset of chaos, is higher
+than that of the experimental one.
+","[{""version"":""v1"",""created"":""Mon, 26 Sep 1994 10:46:00 GMT""}]","2009-09-25"
+"nucl-th/9409021","Oleg Kartavtsev","V.B.Belyaev, O.I.Kartavtsev, V.I.Kochkin and E.A.Kolganova","Binding energies and nonradiative decay rates of $H\! ed\mu $-molecular
+  ions","10 pages, RevTeX",,"10.1103/PhysRevA.52.1765",,"nucl-th",,"  The method of hyperspherical ""surface"" functions has been applied to the
+calculation of eigenvalues and eigenfunctions of muonic molecular ions
+$^{3,4}\! H\! ed\mu $. Binding energies and nonradiative decay rates for the
+states of the total angular momentum $L=0,~1,~2$ have been obtained.
+","[{""version"":""v1"",""created"":""Mon, 26 Sep 1994 12:01:46 GMT""}]","2009-10-28"

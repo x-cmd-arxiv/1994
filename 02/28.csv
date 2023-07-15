@@ -1,0 +1,87 @@
+"astro-ph/9402069","Shaun Cole","Cedric Lacey and Shaun Cole","Merger rates in hierarchical models of galaxy formation. II: Comparison
+  with N-body simulations","Available here as self unpacking postscript or as postscript file
+  /pub/preprints/lacey_cole.ps by anonymous ftp from dust0.dur.ac.uk","Mon.Not.Roy.Astron.Soc. 271 (1994) 676","10.1093/mnras/271.3.676",,"astro-ph",,"  We have made a detailed comparison of the results of large N-body simulations
+with the analytical description of the merging histories of dark matter halos
+presented in Lacey & Cole 1993, which is based on an extension of the Press-
+Schechter method (Bond etal 1991,Bower 1991). We find the analytical
+predictions for the halo mass function, merger rates and formation times to be
+remarkably accurate. The analytical model is however expected to apply for
+arbitrary Omega and general power spectra. Dark matter halos were identified in
+the simulations using two different methods. For halos selected at mean
+overdensities 100-200, the analytical mass function was found to provide a good
+fit to the simulations with a collapse threshold close to that predicted by the
+spherical collapse model, with a typical error of <30% over a range of 1000 in
+mass, which is the full dynamic range of our N-body simulations. This was
+insensitive to the type of filtering used. Over a range of 100 - 1000 in mass,
+there was also good agreement with the analytical predictions for merger rates,
+including their dependence on the masses of the two halos involved and the time
+interval being considered, and for formation times, including the dependence on
+halo mass and formation epoch. The analytical Press-Schechter mass function and
+its extension to halo lifetimes and merger rates thus provide a very useful
+description of the growth of dark matter halos through hierarchical clustering,
+and should providea valuable tool in studies of the formation and evolution of
+galaxies and galaxy clusters.
+","[{""version"":""v1"",""created"":""Mon, 28 Feb 1994 09:19:30 GMT""},{""version"":""v2"",""created"":""Tue, 24 May 1994 09:58:10 GMT""}]","2015-06-24"
+"astro-ph/9402070","Matthias Steinmetz","Ewald Mueller & Matthias Steinmetz","Simulating Self-gravitating Hydrodynamic Flows","15 pages, compressed uu-encoded postscript file (232kB), to appear in
+  Computer Physics Communications, special issue Computational Hydrodynamics in
+  Astrophysics","Comput.Phys.Commun. 89 (1995) 45-58","10.1016/0010-4655(94)00185-5",,"astro-ph",,"  An efficient algorithm for solving Poisson's equation in two and three
+spatial dimensions is discussed. The algorithm, which is described in detail,
+is based on the integral form of Poisson's equation and utilizes spherical
+coordinates and an expansion into spherical harmonics. The solver can be
+applied to and works well for all problems for which the use of spherical
+coordinates is appropriate. We also briefly discuss the implementation of the
+algorithm into hydrodynamic codes which are based on a conservative
+finite--difference scheme.
+","[{""version"":""v1"",""created"":""Mon, 28 Feb 1994 10:38:07 GMT""}]","2009-10-22"
+"cond-mat/9402111",,"Erio Tosatti and Nicola Manini","Anomalous low-energy electron attachment in C_{60}","8 pages (+2 uu-encoded ps figures), LATEX(revtex), report-number:
+  SISSA 28/94/CM/SS-MB","Chem. Phys. Lett. 223, 61 (1994)","10.1016/0009-2614(94)00412-9",,"cond-mat",,"  We propose that thermal electron attachment to C$_{60}$ should occur
+preferentially in the p-wave channel, following an analysis of the vibron
+excitation spectrum of C$_{60}^-$. A very simple model based on this idea is
+shown to account very well for recent attachment data. The unexplained
+activation energy of $\approx$ 0.26 eV found experimentally is attributed to
+the p-wave centrifugal barrier.
+","[{""version"":""v1"",""created"":""Mon, 28 Feb 1994 13:35:47 GMT""}]","2015-06-25"
+"gr-qc/9402045","Peter Boschung","P. Boschung, O. Brodbeck, F. Moser, N. Straumann and M. Volkov","Instability of Gravitating Sphalerons","replaced mainly due to LaTex problems', 11p, Latex, ZU-TH 7-94","Phys.Rev. D50 (1994) 3842-3846","10.1103/PhysRevD.50.3842",,"gr-qc hep-th",,"  We prove the instability of the gravitating regular sphaleron solutions of
+the $SU(2)$ Einstein-Yang-Mills-Higgs system with a Higgs doublet, by studying
+the frequency spectrum of a class of radial perturbations. With the help of a
+variational principle we show that there exist always unstable modes. Our
+method has the advantage that no detailed knowledge of the equilibrium solution
+is required. It does, however, not directly apply to black holes.
+","[{""version"":""v1"",""created"":""Mon, 28 Feb 1994 15:34:03 GMT""},{""version"":""v2"",""created"":""Wed, 2 Mar 1994 10:52:21 GMT""}]","2009-10-22"
+"hep-lat/9402019",,"B. Alles, M. Campostrini, L. Del Debbio, A. Di Giacomo, H.
+  Panagopoulos and E. Vicari","The spin content of the proton in quenched QCD","REVTEX, 6 pages, 1 PS figure attached. Pisa preprint IFUP-TH-14/94","Phys.Lett. B336 (1994) 248-250","10.1016/0370-2693(94)00924-4",,"hep-lat",,"  We present preliminary results on the proton spin structure function at zero
+momentum, in the quenched approximation. Our calculation makes use of a
+nonperturbative means of determining the multiplicative renormalization of the
+topological charge density.
+","[{""version"":""v1"",""created"":""Mon, 28 Feb 1994 11:37:08 GMT""}]","2009-10-22"
+"hep-th/9402149","Okai Tadashi","Tadashi OKAI","Global structure and thermodynamic property of the 4-dimensional twisted
+  Kerr solution","22 pages, UT-667","Prog.Theor.Phys.92:47-66,1994","10.1143/PTP.92.47",,"hep-th",,"  Rotating stringy black hole solutions with non-vanishing dilaton $\phi$,
+antisymmetric tensor $B_{\mu\nu}$, and $U(1)$ gauge field $A_{\mu}$ are
+investigated. Both Boyer-Lindquist-like and Kerr-Schild-like coordinate are
+constructed. The latter is utilised to construct the analytically extended
+spacetime. The global structure of the resulting extended spacetime is almost
+identical to that of the Kerr. In carrying out the analytic extension, the
+radial coordinate should be suitably chosen so that we can avoid singularity
+caused by the twisting. The thermodynamic property of the stringy black hole is
+examined through the injection of test bodies into the black hole. It is shown
+that one cannot change a black hole configuration into a naked singularity by
+way of throwing test bodies into the black hole. The global $O(2,3)$ symmetry
+and the preservation of the asymptotic flatness are discussed. When we impose
+stationarity, axisymmetry, and asymptotic flatness, there is no other twisting
+than the one pointed out by A.Sen\cite{sen}. All the other elements of $O(2,3)$
+either break the asymptotic flatness, or cause only coordinate transformations
+and gives no physical change.
+","[{""version"":""v1"",""created"":""Mon, 28 Feb 1994 04:52:32 GMT""}]","2010-11-01"
+"hep-th/9402150","Shapiro Ilya","I.L.Shapiro","Asymptotically finite models and the screening of the cosmological
+  constant by quantum effects","7 pages","Phys.Lett. B329 (1994) 181-184","10.1016/0370-2693(94)90757-9",,"hep-th",,"  In the framework of the recently proposed asymptotically finite gauge models
+the cosmological constant is essentially weakened by quantum effects. The next
+(and more general) claim is that the coupling between quantum fields may
+suppress their contributions to the induced cosmological constant.
+","[{""version"":""v1"",""created"":""Mon, 28 Feb 1994 08:17:52 GMT""}]","2009-10-28"
+"hep-th/9402151",,"S. Bellucci, V. Gribanov, S. Krivonos and A. Pashnev","Nonlinear Realizations of the $W_3^{(2)}$ Algebra","LaTeX, 10p., Preprint LNF-94/013 (P)","Phys.Lett.A191:216-222,1994","10.1016/0375-9601(94)90129-5",,"hep-th",,"  In this letter we consider the nonlinear realizations of the classical
+Polyakov's algebra $W_3^{(2)}$. The coset space method and the covariant
+reduction procedure allow us to deduce the Boussinesq equation with
+interchanged space and evolution coordinates. By adding one more space
+coordinate and introducing two copies of the $W_3^{(2)}$ algebra, the same
+method yields the $sl(3,R)$ Toda lattice equations.
+","[{""version"":""v1"",""created"":""Mon, 28 Feb 1994 13:19:15 GMT""}]","2019-08-17"

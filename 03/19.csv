@@ -1,0 +1,220 @@
+"comp-gas/9403004","Yepez","Jeffrey Yepez (US Air Force, Phillips Laboratory)","A Lattice-Gas with Long-Range Interactions Coupled to a Heat Bath","16 pages, epsf.sty used to include 7 postscript images, to appear in
+  Lawniczak, A. and R. Kapral Editiors, Pattern Formation and Lattice-gas
+  Automata, American Mathematical Society, 1994",,,,"comp-gas nlin.CG",,"  Introduced is a lattice-gas with long-range 2-body interactions. An effective
+inter-particle force is mediated by momentum exchanges. There exists the
+possibility of having both attractive and repulsive interactions using finite
+impact parameter collisions. There also exists an interesting possibility of
+coupling these long-range interactions to a heat bath. A fixed temperature heat
+bath induces a permanent net attractive interparticle potential, but at the
+expense of reversibility. Thus the long-range dynamics is a kind of a Monte
+Carlo Kawasaki updating scheme. The model has a $P\rho T$ equation of state.
+Presented are analytical and numerical results for the a lattice-gas fluid
+governed by a nonideal equation of state. The model's complexity is not much
+beyond that of the FHP lattice-gas. It is suitable for massively parallel
+processing and may be used to study critical phenomena in large systems.
+","[{""version"":""v1"",""created"":""Fri, 18 Mar 1994 19:32:59 GMT""}]","2008-02-03"
+"comp-gas/9403005","Yepez","Jeffrey Yepez (US Air Force, Phillips Laboratory), Guy P. Seeley
+  (Radex Corporation), and Norman Margolus (MIT Laboratory for Computer
+  Science)","Lattice-Gas Automata Fluids on Parallel Supercomputers","21 pages, revtex.sty used to generate Computers in Physics
+  Compuscript, epsf.sty used to include 10 postscript images, submitted to
+  Computers in Physics Jan 94. Postscript figures appended at the bottom in
+  tar-compress-uuencode form",,,,"comp-gas nlin.CG",,"  A condensed history and theoretical development of lattice-gas automata in
+the Boltzmann limit is presented. This is provided as background to set up the
+context for understanding the implementation of the lattice-gas method on two
+parallel supercomputers: the MIT cellular automata machine CAM-8 and the
+Connection Machine CM-5. The macroscopic limit of two-dimensional fluids is
+tested by simulating the Rayleigh-B\'enard convective instability,
+Kelvin-Helmholtz shear instability, and the Von Karman vortex shedding
+instability. Performance of the two machines in terms of both site update rate
+and maximum problem size are comparable. The CAM-8, being a low-cost desktop
+machine, demonstrates the potential of special-purpose digital hardware.
+","[{""version"":""v1"",""created"":""Sat, 19 Mar 1994 01:56:13 GMT""}]","2008-02-03"
+"cond-mat/9403071","Steve Teitel","M. Franz, and S. Teitel (University of Rochester)","Vortex lattce melting in 2D superconductors and Josephson arrays","12 pages, 4 figures (available on request from
+  stte@pas.rochester.edu), REVTEX [we revise our conclusion on the order of the
+  melting transition from second to first order - new figure 4 added]","Phys. Rev. Lett. 73, 480 (1994)","10.1103/PhysRevLett.73.480",,"cond-mat",,"  Monte Carlo simulations of 2D vortex lattice melting in a thin
+superconducting film (or alternatively an array of Josephson junctions) are
+performed in the London limit. Finite size scaling analyses are used to make a
+detailed test of the dislocation mediated melting theory of KTNHY. We find that
+the melting transition is weakly first order, with a jump in the shear modulus
+very close to that predicted by the KTNHY theory. No hexatic liquid phase is
+found.
+","[{""version"":""v1"",""created"":""Fri, 18 Mar 1994 19:50:43 GMT""},{""version"":""v2"",""created"":""Tue, 5 Apr 1994 20:20:35 GMT""},{""version"":""v3"",""created"":""Thu, 12 May 1994 21:03:52 GMT""}]","2009-10-22"
+"cond-mat/9403072",,"Q.Niu","Quantized Density Response in Insulators","14 pages, plain TeX",,"10.1103/PhysRevB.49.13554",,"cond-mat",,"  The response of particle density to a dilation of a periodic potential in an
+insulator, with or without a fixed background potential or a magnetic field, is
+shown to be quantized. A similar phenomenon occurs in a quantum Hall system,
+where the derivative of the electron density with respect to the magnetic field
+is quantized in units of $e/h$, the inverse flux quantum. A number of other
+interesting results may be unified under the notion of quantized density
+response, including the quantization of adiabatic particle transport, the gap
+labeling theorem and its generalization in the presence of a magnetic field.
+","[{""version"":""v1"",""created"":""Fri, 18 Mar 1994 23:36:10 GMT""}]","2009-10-22"
+"gr-qc/9403036",,"I. G. Avramidi","Covariant methods for calculating the low-energy effective action in
+  quantum field theory and quantum gravity","48 pages, plain TeX, University of Greifswald, EMA-MAT-1994-2",,,,"gr-qc hep-th",,"  We continue the development of the effective covariant methods for
+calculating the heat kernel and the one-loop effective action in quantum field
+theory and quantum gravity. The status of the low-energy approximation in
+quantum gauge theories and quantum gravity is discussed in detail on the basis
+of analyzing the local Schwinger - De Witt expansion. It is argued that the
+low-energy limit, when defined in a covariant way, should be related to
+background fields with covariantly constant curvature, gauge field strength and
+potential. Some new approaches for calculating the low-energy heat kernel
+assuming a covariantly constant background are proposed. The one-loop
+low-energy effective action in Yang-Mills theory in flat space with arbitrary
+compact simple gauge group and arbitrary matter on a covariantly constant
+background is calculated. The stability problem of the chromomagnetic
+(Savvidy-type) vacuum is analyzed. It is shown, that this type of vacuum
+structure can be stable only in the case when more than one background
+chromomagnetic fields are present and the values of these fields differ not
+greatly from each other.This is possible only in space-times of dimension not
+less than five $d\geq 5$.
+","[{""version"":""v1"",""created"":""Fri, 18 Mar 1994 18:31:18 GMT""}]","2007-05-23"
+"gr-qc/9403037",,"P.F. Gonzalez-Diaz","Radiation Field on Superspace","13, IMAFF-RC-01-94#",,,,"gr-qc",,"  We study the dynamics of multiwormhole configurations within the framework of
+the Euclidean Polyakov approach to string theory, incorporating a modification
+to the Hamiltonian which makes it impossible to interpret the Coleman Alpha
+parameters of the effective interactions as a quantum field on superspace,
+reducible to an infinite tower of fields on space-time. We obtain a Planckian
+probability measure for the Alphas that allows $\frac{1}{2}\alpha^{2}$ to be
+interpreted as the energy of the quanta of a radiation field on superspace
+whose values may still fix the coupling constants.
+","[{""version"":""v1"",""created"":""Fri, 18 Mar 1994 17:11:05 GMT""}]","2007-05-23"
+"gr-qc/9403038","Sherry Robinson","Abhay Ashtekar","Overview and Outlook","33 pages, plain TEX, CGPG-94/1-1",,"10.1007/3-540-58339-4_24",,"gr-qc",,"  This report is based on the talk given by the author in the concluding
+session of the workshop on Canonical Methods in Classical and Quantum General
+Relativity, held a Bad-Honef, Germany, in September 93. It contains an
+assessment of the canonical approach in general, an overview of recent
+developments within the canonical approach based on connections and loops, and
+some suggestions for future work.
+","[{""version"":""v1"",""created"":""Fri, 18 Mar 1994 20:59:19 GMT""}]","2009-10-22"
+"gr-qc/9403039","Geoffrey Hayward","Geoff Hayward","Quasilocal energy conditions","19 pages LaTeX, report number Alberta Thy 11-94","Phys.Rev. D52 (1995) 2001-2006","10.1103/PhysRevD.52.2001",,"gr-qc",,"  The classical value of the Hamiltonian for a system with timelike boundary
+has been interpreted as a quasilocal energy. This quasilocal energy is not
+positive definite. However, we derive a `quasilocal dominant energy condition'
+which is the natural consequence of the local dominant energy condition. We
+discuss some implications of this quasilocal energy condition. In particular,
+we find that it implies a `quasilocal weak energy condition'.
+","[{""version"":""v1"",""created"":""Fri, 18 Mar 1994 23:03:46 GMT""}]","2009-10-22"
+"gr-qc/9403040",,"D.C. Salisbury and L. C. Shepley","A Connection Approach to Numerical Relativity","17 pages, LaTex","Class.Quant.Grav.11:2789-2806,1994","10.1088/0264-9381/11/11/019",,"gr-qc",,"  We discuss a general formalism for numerically evolving initial data in
+general relativity in which the (complex) Ashtekar connection and the
+Newman-Penrose scalars are taken as the dynamical variables. In the generic
+case three gauge constraints and twelve reality conditions must be solved. The
+analysis is applied to a Petrov type \{1111\} planar spacetime where we find a
+spatially constant volume element to be an appropriate coordinate gauge choice.
+","[{""version"":""v1"",""created"":""Sat, 19 Mar 1994 00:35:28 GMT""}]","2010-04-06"
+"hep-lat/9403023","Helmut Kroger","A.M. Chaara, H. Kr\""oger, L. Marleau, K.J.M. Moriarty and J. Potvin","Scattering of Glueballs and Mesons in Compact $QED$ in $2+1$ Dimensions","figures not included (hard copy only), LAVAL-PHY-94-05,
+  PARKS-PHY-94-03","Phys.Lett. B336 (1994) 567-572","10.1016/0370-2693(94)90574-6",,"hep-lat",,"  We study glueball and meson scattering in compact $QED_{2+1}$ gauge theory in
+a Hamiltonian formulation and on a momentum lattice. We compute ground state
+energy and mass, and introduce a compact lattice momentum operator for the
+computation of dispersion relations. Using a non-perturbative time-dependent
+method we compute scattering cross sections for glueballs and mesons. We
+compare our results with strong coupling perturbation theory.
+","[{""version"":""v1"",""created"":""Fri, 18 Mar 1994 18:48:41 GMT""}]","2009-10-22"
+"hep-ph/9403310","Marcelo Gleiser","Marcelo Gleiser","Dynamics of Weak First Order Phase Transitions","11 pages, 4 figures in uuencoded compressed file (see instructions in
+  main text), RevTeX, DART-HEP-94/01","Phys.Rev.Lett. 73 (1994) 3495-3498","10.1103/PhysRevLett.73.3495",,"hep-ph cond-mat hep-lat",,"  The dynamics of weak vs. strong first order phase transitions is investigated
+numerically for 2+1 dimensional scalar field models. It is argued that the
+change from a weak to a strong transition is itself a (second order) phase
+transition, with the order parameter being the equilibrium fractional
+population difference between the two phases at the critical temperature, and
+the control parameter being the coefficient of the cubic coupling in the
+free-energy density. The critical point is identified, and a power law
+controlling the relaxation dynamics at this point is obtained. Possible
+applications are briefly discussed.
+","[{""version"":""v1"",""created"":""Fri, 18 Mar 1994 17:08:21 GMT""}]","2009-10-28"
+"hep-ph/9403311","Smirnov Alexei","Alexei Yu. Smirnov and Zhijian Tao","Neutrinos with Zee-Mass Matrix in Vacuum and Matter","25 pages (3 figures available upon request), LaTeX, IC/94/42","Nucl.Phys. B426 (1994) 415-433","10.1016/0550-3213(94)90318-2",,"hep-ph",,"  Neutrino mass matrix generated by the Zee (radiative) mechanism has zero (in
+general, small) diagonal elements and a natural hierarchy of the nondiagonal
+elements. It can be considered as an alternative (with strong predictive power)
+to the matrices generated by the see-saw mechanism. The propagation in medium
+of the neutrinos with the Zee-mass matrix is studied. The flavor neutrino
+transitions are described analytically. In the physically interesting cases the
+probabilities of transitions as functions of neutrino energy can be represented
+as two-neutrino probabilities modulated by the effect of vacuum oscillations
+related to the small mass splitting. Possible applications of the results to
+the solar, supernova, atmospheric and relic neutrinos are discussed. A set of
+the predictions is found which could allow to identify the Zee-mass matrix and
+therefore the corresponding mechanism of mass generation.
+","[{""version"":""v1"",""created"":""Fri, 18 Mar 1994 17:44:43 GMT""}]","2009-10-28"
+"hep-th/9403109","El Gradechi Amine","Amine M. El Gradechi and Luis M. Nieto","Supercoherent States, Super K\""ahler Geometry and Geometric Quantization","53 pages, AMS-LaTeX (or LaTeX+AMSfonts)","Commun.Math.Phys. 175 (1996) 521-564","10.1007/BF02099508","CRM-1876","hep-th alg-geom math.AG",,"  Generalized coherent states provide a means of connecting square integrable
+representations of a semi-simple Lie group with the symplectic geometry of some
+of its homogeneous spaces. In the first part of the present work this point of
+view is extended to the supersymmetric context, through the study of the
+OSp(2/2) coherent states. These are explicitly constructed starting from the
+known abstract typical and atypical representations of osp(2/2). Their
+underlying geometries turn out to be those of supersymplectic OSp(2/2)
+homogeneous spaces. Moment maps identifying the latter with coadjoint orbits of
+OSp(2/2) are exhibited via Berezin's symbols. When considered within
+Rothstein's general paradigm, these results lead to a natural general
+definition of a super K\""ahler supermanifold, the supergeometry of which is
+determined in terms of the usual geometry of holomorphic Hermitian vector
+bundles over K\""ahler manifolds. In particular, the supergeometry of the above
+orbits is interpreted in terms of the geometry of Einstein-Hermitian vector
+bundles. In the second part, an extension of the full geometric quantization
+procedure is applied to the same coadjoint orbits. Thanks to the super K\""ahler
+character of the latter, this procedure leads to explicit super unitary
+irreducible representations of OSp(2/2) in super Hilbert spaces of $L^2$
+superholomorphic sections of prequantum bundles of the Kostant type. This work
+lays the foundations of a program aimed at classifying Lie supergroups'
+coadjoint orbits and their associated irreducible representations, ultimately
+leading to harmonic superanalysis. For this purpose a set of consistent
+conventions is exhibited.
+","[{""version"":""v1"",""created"":""Fri, 18 Mar 1994 16:44:38 GMT""}]","2015-06-26"
+"hep-th/9403110",,"Daniel Arnaudon","On Automorphisms and Universal R-Matrices at Roots of Unity","11 pages, minor TeXnical revision to allow automatic TeXing","Lett.Math.Phys. 33 (1995) 39-48","10.1007/BF00750810","ENSLAPP-A-461/94","hep-th math.QA",,"  Invertible universal R-matrices of quantum Lie algebras do not exist at roots
+of unity. There exist however quotients for which intertwiners of tensor
+products of representations always exist, i.e. R-matrices exist in the
+representations. One of these quotients, which is finite dimensional, has a
+universal R-matrix. In this paper, we answer the following question: on which
+condition are the different quotients of U_q(sl(2)) (Hopf)-equivalent? In the
+case when they are equivalent, the universal R-matrix of one can be transformed
+into a universal R-matrix of the other. We prove that this happens only when
+q^4=1, and we explicitly give the expressions for the automorphisms and for the
+transformed universal R-matrices in this case.
+","[{""version"":""v1"",""created"":""Fri, 18 Mar 1994 18:13:26 GMT""}]","2009-10-28"
+"hep-th/9403111","Sen-Ben Liao","Sen-Ben Liao and Janos Polonyi","Renormalization Group and Universality","32pp in plain tex; revised version to appear in PRD","Phys.Rev. D51 (1995) 4474-4493","10.1103/PhysRevD.51.4474","DUKE-TH-93-64, LPT-94-3","hep-th",,"  It is argued that universality is severely limited for models with multiple
+fixed points. As a demonstration the renormalization group equations are
+presented for the potential and the wave function renormalization constants in
+the $O(N)$ scalar field theory. Our equations are superior compared with the
+usual approach which retains only the contributions that are non-vanishing in
+the ultraviolet regime. We find an indication for the existence of relevant
+operators at the infrared fixed point, contrary to common expectations. This
+result makes the sufficiency of using only renormalizable coupling constants in
+parametrizing the long distance phenomena questionable.
+","[{""version"":""v1"",""created"":""Fri, 18 Mar 1994 20:47:32 GMT""},{""version"":""v2"",""created"":""Sun, 20 Nov 1994 09:50:52 GMT""},{""version"":""v3"",""created"":""Fri, 3 Feb 1995 03:17:04 GMT""}]","2009-10-28"
+"hep-th/9403112","Jose Mourao","Donald Marolf and Jose M. Mourao","On the support of the Ashtekar-Lewandowski measure","22 pages, Tex, Preprint CGPG-94/3-1","Commun.Math.Phys. 170 (1995) 583-606","10.1007/BF02099150",,"hep-th gr-qc",,"  We show that the Ashtekar-Isham extension of the classical configuration
+space of Yang-Mills theories (i.e. the moduli space of connections) is
+(topologically and measure-theoretically) the projective limit of a family of
+finite dimensional spaces associated with arbitrary finite lattices. These
+results are then used to prove that the classical configuration space is
+contained in a zero measure subset of this extension with respect to the
+diffeomorphism invariant Ashtekar-Lewandowski measure.
+  Much as in scalar field theory, this implies that states in the quantum
+theory associated with this measure can be realized as functions on the
+``extended"" configuration space.
+","[{""version"":""v1"",""created"":""Fri, 18 Mar 1994 21:09:26 GMT""}]","2009-10-28"
+"hep-th/9403113",,"M. Cadoni and S. Mignemi","Duality of Lorentzian and Euclidean black holes in two-dimensional
+  string-generated models","10 pages plain Tex, 4 figures avalaible upon request from authors,
+  INFNCA-TH-94-4","Mod.Phys.Lett.A10:367-378,1995","10.1142/S0217732395000405",,"hep-th",,"  We discuss the properties of lorentzian and euclidean black hole solutions of
+a generalized 2-dim dilaton-gravity action containing a modulus field, which
+arises from the compactification of heterotic string models. The duality
+symmetries of these solutions are also investigated.
+","[{""version"":""v1"",""created"":""Sat, 19 Mar 1994 02:15:00 GMT""}]","2010-11-01"
+"hep-th/9403114","Branislav Jurco","B. Jurco, P. Stovicek","Coherent States for Quantum Compact Groups","25 pages","Commun.Math.Phys.182:221-251,1996","10.1007/BF02506391","CERN-TH.7201/94","hep-th math.QA",,"  Coherent states are introduced and their properties are discussed for all
+simple quantum compact groups. The multiplicative form of the canonical element
+for the quantum double is used to introduce the holomorphic coordinates on a
+general quantum dressing orbit and interpret the coherent state as a
+holomorphic function on this orbit with values in the carrier Hilbert space of
+an irreducible representation of the corresponding quantized enveloping
+algebra. Using Gauss decomposition, the commutation relations for the
+holomorphic coordinates on the dressing orbit are derived explicitly and given
+in a compact R--matrix formulation (generalizing this way the $q$--deformed
+Grassmann and flag manifolds). The antiholomorphic realization of the
+irreducible representations of a compact quantum group (the analogue of the
+Borel--Weil construction) are described using the concept of coherent state.
+The relation between representation theory and non--commutative differential
+geometry is suggested.}
+","[{""version"":""v1"",""created"":""Sat, 19 Mar 1994 10:19:13 GMT""}]","2010-11-01"
+"patt-sol/9403002","X. B. Lin","Xiao-Biao Lin (Department of Mathematics, North Carolina State
+  University, Raleigh, North Carolina)","Asymptotic expansion for layer solutions of a singularly perturbed
+  reaction-diffusion system","50 pages in AMSLatex",,,,"patt-sol chao-dyn nlin.CD nlin.PS",,"  For a singularly perturbed system of reaction--diffusion equations, assuming
+that the 0th order solutions in regular and singular regions are all stable, we
+construct matched asymptotic expansions for formal solutions to any desired
+order in $\epsilon$. The formal solution shows that there is an invariant
+manifold of wave-front-like solutions that attracts other nearby solutions.
+With an additional assumption on the sign of the wave speed, the
+wave-front-like solutions converge slowly to stable stationary solutions on
+that manifold.
+","[{""version"":""v1"",""created"":""Fri, 18 Mar 1994 16:00:57 GMT""}]","2008-02-03"

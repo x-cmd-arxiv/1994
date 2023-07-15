@@ -1,0 +1,191 @@
+"astro-ph/9404033","Renyue Cen","Renyue Cen (Princeton University Observatory, Princeton, NJ USA)","Internal Velocity and Mass Distributions in Clusters of Galaxies for a
+  Variety of Cosmogonic Models","29p plaintex submitted to The Astrophysical Journal on Jan 7, 1994","Astrophys.J. 437 (1994) 12","10.1086/174971",,"astro-ph",,"  The mass and velocity distributions in the outskirts ($0.5-3.0h^{-1}$Mpc) of
+clusters of galaxies are examined for a suite of cosmogonic models utilizing
+large-scale Particle-Mesh (PM) simulations ($500^3$ cells, $250^3$ particles
+and box size of $100h^{-1}$Mpc, giving a nominal resolution of $0.2h^{-1}$Mpc
+with the true resolution about $0.5h^{-1}$Mpc). Through a series of model
+computations, designed to isolate the different effects, we find that both
+$\Omega_0$ and $P_k$ ($\lambda\le 16h^{-1}$Mpc) are important to the mass and
+velocity distributions in clusters of galaxies. More details in the full
+abstract.
+","[{""version"":""v1"",""created"":""Fri, 15 Apr 1994 18:58:20 GMT""}]","2009-10-22"
+"astro-ph/9404034","Eric Jensen","Eric L.N. Jensen, Robert D. Mathieu, and Gary A. Fuller","A Connection between Submillimeter Continuum Flux and Separation in
+  Young Binaries","12 pages, uuencoded compressed postscript with figures; Wisconsin
+  Astrophysics 526; to appear in ApJ Letters",,"10.1086/187405",,"astro-ph",,"  We have made sensitive 800-micron continuum observations of low-mass,
+pre-main sequence (PMS) binary stars with projected separations less than 25 AU
+in Taurus-Auriga to study disks in the young binary environment. We did not
+detect any of the observed binaries, with typical 3-sigma upper limits of about
+30 mJy. Combining our observations with previous 1300-micron observations of
+PMS Taurus binaries by Beckwith et al. (1990) and others, we find that the
+submillimeter fluxes from binaries with projected separations between 1 AU and
+50 AU are significantly lower than fluxes from binaries with projected
+separations > 50 AU. The submillimeter fluxes from the wider binaries are
+consistent with those of PMS single stars. This may indicate lower disk surface
+densities and masses in the close binaries. Alternatively, dynamical clearing
+of gaps by close binaries is marginally sufficient to lower their submillimeter
+fluxes to the observed levels, even without reduction of surface densities
+elsewhere in the disks.
+","[{""version"":""v1"",""created"":""Fri, 15 Apr 1994 18:29:06 GMT""}]","2009-10-22"
+"chao-dyn/9404001","Arjendu K. Pattanayak","Arjendu K. Pattanayak and William C. Schieve (Prigogine Center,
+  University of Texas at Austin, Austin, TX)","Semiquantal dynamics of fluctuations: Ostensible quantum chaos","9 pages, TeX, 2 figures (not attached; hard copies available
+  immediately on request). To appear in Physical Review Letters",,"10.1103/PhysRevLett.72.2855",,"chao-dyn nlin.CD",,"  The time-dependent variational principle using generalized Gaussian trial
+functions yields a finite dimensional approximation to the full quantum
+dynamics and is used in many disciplines. It is shown how these 'semi-quantum'
+dynamics may be derived via the Ehrenfest theorem and recast as an extended
+classical gradient system with the fluctuation variables coupled to the average
+variables. An extended potential is constructed for a one-dimensional system.
+The semiquantal behavior is shown to be chaotic even though the system has
+regular classical behavior and the quantum behavior had been assumed regular.
+","[{""version"":""v1"",""created"":""Fri, 15 Apr 1994 19:14:34 GMT""}]","2009-10-22"
+"cond-mat/9404046","Andrew Rutenberg","A.D. Rutenberg and A.J. Bray","Phase Ordering Kinetics of One-Dimensional Non-Conserved Scalar Systems","19 pages, RevTex 3.0, 8 FIGURES UPON REQUEST, 15494","Phys. Rev. E vol. 50, p. 1900 (1994)","10.1103/PhysRevE.50.1900",,"cond-mat",,"  We consider the phase-ordering kinetics of one-dimensional scalar systems.
+For attractive long-range ($r^{-(1+\sigma)}$) interactions with $\sigma>0$,
+``Energy-Scaling'' arguments predict a growth-law of the average domain size $L
+\sim t^{1/(1+\sigma)}$ for all $\sigma >0$. Numerical results for $\sigma=0.5$,
+$1.0$, and $1.5$ demonstrate both scaling and the predicted growth laws. For
+purely short-range interactions, an approach of Nagai and Kawasaki is
+asymptotically exact. For this case, the equal-time correlations scale, but the
+time-derivative correlations break scaling. The short-range solution also
+applies to systems with long-range interactions when $\sigma \rightarrow
+\infty$, and in that limit the amplitude of the growth law is exactly
+calculated.
+","[{""version"":""v1"",""created"":""Fri, 15 Apr 1994 17:18:46 GMT""}]","2009-10-22"
+"cond-mat/9404047","Tinka Gammel","J. Tinka Gammel","Comment on Tuning of the CDW in MX Chains","1 page, 1 figure (appended), submitted to Phys. Rev. Lett., in RevTex
+  3.0, LA-UR 93-4099",,,,"cond-mat",,"  In M. Alouani et al., Phys. Rev. Lett. 71, 1415 (1993), the authors performed
+local-density-approximation (LDA) calculations and fit to the two-band model
+[J.T. Gammel et al., Phys. Rev. B 45, 6408 (1992)] we proposed for
+halogen-bridged transition-metal linear-chain compounds ($M$$X$ chains). Based
+on that fit, the authors argue a hard-core repulsive term must be added to the
+lattice potential in our model. However, the authors fit only to the variation
+in total energy as a function of percent dimerization for a fixed $M$$M$
+distance and did not fit the variation in total energy with $M$$M$ distance.
+Thus the fit was incorrectly calculated, the LDA total energy surface is {\it
+not} reproduced by the parameters listed in this paper, and the conclusion as
+to the importance of anharmonic corrections must be reexamined. In
+contradiction to their conclusion based on this erroneous fit, I show here that
+the harmonic approximation (linear $M$$X$ springs to model the lattice energy)
+is in fact very good, and a small quartic correction yields quantitative
+agreement with the LDA total energy, though to this order more realistic
+electron-phonon interactions should be included in the model, as discussed in
+I. Batistic et al., Phys. Rev. B 48, 6065 (1993). 1992 PACS: 71.38.+i,
+71.25.Tn, 71.20.Hk
+","[{""version"":""v1"",""created"":""Fri, 15 Apr 1994 19:52:02 GMT""}]","2007-05-23"
+"cond-mat/9404048","Kikuo Harigaya ""Harry-chan""","Kikuo Harigaya (Fundamental Physics Section, Electrotechnical
+  Laboratory, Umezono 1-1-4, Tsukuba 305, Japan)","Optical Absorption in Higher Fullerenes: Effects of Symmetry Reduction","9 pages, 3 figures; Received March 18, 1994; JJAP(Letter)","Jpn. J. Appl. Phys. 33 (1994) L786-L788","10.1143/JJAP.33.L786",,"cond-mat chem-ph",,"  Optical absorption spectra of higher fullerenes (C70 and C76) as well as of
+C60 are calculated by a tight binding model with a long range Coulomb
+interaction. A reasonable parameter set gives calculated spectra which are in
+overall agreement with the experiments of of C60 and C76 in solutions. The
+variations of the spectral shape are discussed relating with the symmetry
+reduction going from C60 and C70 to C76: the optical gap decreases and the
+spectra have more small structures in the dependences on the excitation energy.
+Keywords: optical absorption, fullerene, C60, C70, C76, CI calculation, theory
+","[{""version"":""v1"",""created"":""Sat, 16 Apr 1994 10:34:58 GMT""}]","2007-05-23"
+"gr-qc/9404031",,"E. Malec and N. \'O Murchadha (Physics Department, University College,
+  Cork, Ireland and Uniwersytet Jagiello\'nski, Instytut Fizyki, 30-059
+  Krak\'ow, Poland)","Optical scalars in spherical spacetimes",,"Phys.Rev.D50:6033-6036,1994","10.1103/PhysRevD.50.R6033",,"gr-qc",,"  Consider a spherically symmetric spacelike slice through a spherically
+symmetric spacetime. One can derive a universal bound for the optical scalars
+on any such slice. The only requirement is that the matter sources satisfy the
+dominant energy condition and that the slice be asymptotically flat and regular
+at the origin. This bound can be used to derive new conditions for the
+formation of apparent horizons. The bounds hold even when the matter has a
+distribution on a shell or blows up at the origin so as to give a conical
+singularity.
+","[{""version"":""v1"",""created"":""Fri, 15 Apr 1994 16:53:05 GMT""}]","2009-12-30"
+"hep-ph/9404273","Hoi-Kwong Lo","Hoi-Kwong LO","Scattering from Electroweak Strings","Replaced with revised version ""Tex with phyzzx, 18 pages,
+  CALT-68-1921 Non-trivial changes made: discussion on axion strings corrected.
+  Overlap with a recently revised version of hep-ph/9311202 noted","Phys.Rev. D51 (1995) 802-809","10.1103/PhysRevD.51.802",,"hep-ph hep-th",,"  The scattering of a charged fermion from an electroweak string is studied.
+Owing to an amplification of the wave function at the core radius, the cross
+sections for helicity flip processes can be largely enhanced. For $0 <\sin^2
+\theta_w < 1/2 $ (where $\theta_w$ is the Weinberg angle), $\omega \sim k \sim
+m_e$ and $kR \ll 1$, we show that the helicity flip differential cross section
+for electrons is of the order $m_e^{-1}$ and is independent of angle. We
+compare our results with those obtained in calculations of rates for baryon
+number violating processes in the core of a cosmic string. In that case, while
+the enhancement is a general phenomenon, its actual magnitude is extremely
+sensitive to the fractional flux carried by the string core. Apart from showing
+the existence of a similar enhancement effect for non-topological strings, our
+results indicate that in some models the magnitude of enhancement can be
+rendered much less sensitive to the value of the parameters in the theories.
+Scattering of particles off semi-local strings and axion strings are also
+considered.
+","[{""version"":""v1"",""created"":""Fri, 15 Apr 1994 23:21:29 GMT""},{""version"":""v2"",""created"":""Tue, 26 Apr 1994 23:26:30 GMT""}]","2009-10-28"
+"hep-ph/9404274","Michael P. Mattis","Nicholas Dorey, James Hughes and Michael Mattis","Skyrmion Quantization and the Decay of the Delta","This TeX file inputs the macropackage harvmac.tex . Choose the ``b''
+  (big) option or equations will overrun!","Phys.Rev. D50 (1994) 5816-5833","10.1103/PhysRevD.50.5816",,"hep-ph nucl-th",,"  We present the complete solution to the so-called ``Yukawa problem'' of the
+Skyrme model. This refers to the perceived difficulty of reproducing---purely
+from soliton physics---the usual pseudovector pion-nucleon coupling, echoed by
+pion coupling to the higher spin/isospin baryons $(I=J=3/2 , 5/2 , \cdots ,
+N_c/2 )$ in a manner fixed by large-$N_c$ group theory. The solution involves
+surprisingly elegant interplay between the classical and quantum properties of
+a new configuration, the ``new improved skyrmion''. This is the near-hedgehog
+obtained by minimizing the usual skyrmion mass functional augmented by an
+all-important isorotational kinetic term. The numerics are pleasing: a $\Delta$
+decay width within a few MeV of its measured value, and furthermore, the
+higher-spin baryons $(I=J \ge 5/2 )$ with widths so large ($\Gamma > 800 MeV$)
+that these undesirable large-$N_c$ artifacts effectively drop out of the
+spectrum, and pose no phenomenological problem. Beyond these specific results,
+we ground the Skyrme model in the Feynman Path Integral, and set up a
+transparent collective coordinate formalism that makes maximal use of the
+$1/N_c$ expansion. This approach elucidates the connection between skyrmions on
+the one hand, and Feynman diagrams in an effective field theory on the other.
+","[{""version"":""v1"",""created"":""Sat, 16 Apr 1994 03:48:15 GMT""},{""version"":""v2"",""created"":""Wed, 12 Oct 1994 19:57:37 GMT""}]","2009-10-28"
+"hep-ph/9404275","Marcello Lissia","Suzhou HUANG and Marcello LISSIA","Exact Sum Rules at Finite Temperature and Chemical Potential and Their
+  Application to QCD","8 pages, no figures, uses RevTeX 3.0. No major changes. Typos fixed
+  and text sharpened. To appear in Phys. Lett. B. Postscript file available at
+  ftp://risc0.ca.infn.it/pub/private/lissia/infnca-th-94-1.ps","Phys.Lett.B348:571-576,1995","10.1016/0370-2693(95)00157-G","CTP#2298 and INFNCA-TH-94-1","hep-ph hep-lat nucl-th",,"  Within the framework of the operator product expansion (OPE) and the
+renormalization group equation (RGE), we show that the temperature and chemical
+potential dependence of the zeroth moment of a spectral function (SF) is
+completely determined by the one-loop structure of an asymptotically free
+theory. This exact result constrains the shape of SF's, and implies a highly
+non-trivial functional form for the SF near second order, or weak first order,
+phase transitions. Phenomenological parameterizations of the SF, often used in
+applications such as the analysis of lattice QCD data or QCD sum rule
+calculations at finite temperature and baryon density, must satisfy these
+constraints.
+","[{""version"":""v1"",""created"":""Sat, 16 Apr 1994 14:00:52 GMT""},{""version"":""v2"",""created"":""Sat, 11 Feb 1995 14:06:44 GMT""}]","2011-01-04"
+"hep-th/9404096","Andrei Matytsin","Andrei Matytsin and Alexander A. Migdal","Edge Singularity in ``Induced QCD""","23 pages, preprint PUPT-1460","Int.J.Mod.Phys. A10 (1995) 421-441","10.1142/S0217751X95000188",,"hep-th",,"  The behaviour of the master field in ``induced QCD"" near the edge of its
+support is studied. An extended scaling domain, where the shape of the master
+field is a universal function, is found. This function is determined explicitly
+for the case of dimensions, close to one, and the $D-1$-expansion is
+constructed. The problem of the meson spectrum corresponding to this solution
+is analyzed. As a byproduct of these calculations, a new, explicit equation for
+the meson spectrum in ``induced QCD"" with a general potential is derived.
+","[{""version"":""v1"",""created"":""Fri, 15 Apr 1994 19:13:40 GMT""}]","2015-06-26"
+"hep-th/9404097","Zhiqing","Z. Zhu and D. G. Caldi","Reality of Complex Affine Toda Solitons","LaTeX, 15 pages, UBTH-0494","J.Math.Phys.36:6862-6871,1995","10.1063/1.531194",,"hep-th",,"  There are infinitely many topological solitons in any given complex affine
+Toda theories and most of them have complex energy density. When we require the
+energy density of the solitons to be real, we find that the reality condition
+is related to a simple ``pairing condition.'' Unfortunately, rather few soliton
+solutions in these theories survive the reality constraint, especially if one
+also demands positivity. The resulting implications for the physical
+applicability of these theories are briefly discussed.
+","[{""version"":""v1"",""created"":""Fri, 15 Apr 1994 19:26:57 GMT""}]","2008-11-26"
+"hep-th/9404098",,"E. Ivanov and A. Sutulin","Sigma Models in (4,4) Harmonic Superspace","33 p, BONN-TH-94-02","Nucl.Phys. B432 (1994) 246-280; Erratum-ibid. B483 (1997) 531","10.1016/0550-3213(94)90602-5",,"hep-th",,"  We define basics of $(4,4)\;\; 2D$ harmonic superspace with two independent
+sets of $SU(2)$ harmonic variables and apply it to construct new superfield
+actions of $(4,4)$ supersymmetric two-dimensional sigma models with torsion and
+mutually commuting left and right complex structures, as well as of their
+massive deformations. We show that the generic off-shell sigma model action is
+the general action of constrained analytic superfields $q^{(1,1)}$ representing
+twisted $N=4$ multiplets in $(4,4)$ harmonic superspace. The massive term of
+$q^{(1,1)}$ is shown to be unique; it generates a scalar potential the form of
+which is determined by the metric on the target bosonic manifold. We discuss in
+detail $(4,4)$ supersymmetric group manifold $SU(2)\times U(1)$ WZNW sigma
+model and its Liouville deformation. A deep analogy of the relevant
+superconformally invariant analytic superfield action to that of the improved
+tensor $N=2\;\;4D$ multiplet is found. We define $(4,4)$ duality transformation
+and find new off-shell dual representations of the previously constructed
+actions via {\it unconstrained} analytic $(4,4)$ superfields. The dual
+representation suggests some hints of how to describe $(4,4)$ models with
+non-commuting complex structures in the harmonic superspace.
+","[{""version"":""v1"",""created"":""Fri, 15 Apr 1994 22:30:05 GMT""}]","2009-10-28"
+"hep-th/9404099","Daniel Gottesman","Daniel Gottesman","Traversable Wormholes and Black Hole Complementarity","4 pages, CALT-68-1931","Phys.Rev. D51 (1995) 4600-4602","10.1103/PhysRevD.51.4600",,"hep-th",,"  Black hole complementarity is incompatible with the existence of traversable
+wormholes. In fact, traversable wormholes cause problems for any theory where
+information comes out in the Hawking radiation.
+","[{""version"":""v1"",""created"":""Fri, 15 Apr 1994 21:39:41 GMT""}]","2009-10-28"
+"hep-th/9404100","D. V. Ahluwalia, Lanl","Dharam V. Ahluwalia","Incompatibility of Self-Charge Conjugation with Helicity Eigenstates and
+  Gauge Interactions","23 pages (Revtex 3.0) LA-UR-94-1252",,,,"hep-th hep-ph",,"  In this essay, an {\it ab initio} study of the self/anti-self charge
+conjugate $(1/2,\,0)\oplus(0,\,1/2)$ representation space is presented.
+Incompatibility of self/anti-self charge conjugation with helicity eigenstates
+and gauge interactions is demonstrated. Parity violation is seen as an
+intrinsic part of the self/anti-self charge conjugate construct. From a
+phenomenological point of view, an essential part of the theory is the
+Bargmann-Wightman-Wigner-type boson, where a boson and its antiboson carry
+opposite relative intrinsic parity.
+","[{""version"":""v1"",""created"":""Sat, 16 Apr 1994 01:39:50 GMT""}]","2007-05-23"

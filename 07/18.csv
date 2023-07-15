@@ -1,0 +1,202 @@
+"alg-geom/9407010","Richard Hain","Richard Hain and Jun Yang","Real Grassmann Polylogarithms and Chern Classes","42 pages, amslatex",,,,"alg-geom math.AG",,"  In this paper we define real grassmann polylogarithms, which are real single
+valued analogues of the grassmann polylogarithms (or higher logarithms) defined
+by Hain and MacPherson. We prove the existence of all such real grassmann
+polylogs, at least generically. We also prove that the canonical choice of such
+an m-polylogarithm represents the Beilinson Chern class on the rank m part of
+the algebraic K-theory of the generic point of every complex algebraic variety.
+One part of each such grassmann m-polylogarithm is a real, single-valued
+function defined generically on the grassmannian of m planes in C^{2m}. We
+prove that this function represents the Borel regulator (up to a factor of 2)
+on K_{2m-1} of all number fields.
+","[{""version"":""v1"",""created"":""Mon, 18 Jul 1994 15:00:10 GMT""}]","2008-02-03"
+"astro-ph/9407054",,"M.Bruni, S. Matarrese and O. Pantano","A Local View of the Observable Universe","9 pages, uuencoded postscript file including figures, DFPD 94/A/44","Phys.Rev.Lett. 74 (1995) 1916-1919","10.1103/PhysRevLett.74.1916",,"astro-ph",,"  We present results on the non-linear dynamics of inhomogeneous cosmological
+models with irrotational dust and a positive cosmological constant,
+considering, in particular, a wide class with vanishing magnetic Weyl tensor.
+For those patches of the universe that do not recollapse to a singularity we
+find a unique attractor, representing a de Sitter vacuum phase. For the
+(re-)collapsing regions we find a family of (Kasner) attractors, so that
+generically these regions fall in spindle-like singularities. These results
+give substantial support to the idea that the universe can be very
+inhomogeneous on ultra-large, super-horizon scales, whit observers living in
+those (almost) isotropic regions that emerge from an inflationary phase.
+","[{""version"":""v1"",""created"":""Mon, 18 Jul 1994 15:53:11 GMT""}]","2009-10-22"
+"chao-dyn/9407005","Gregory J. Chaitin","G.J. Chaitin (IBM Research Division)","The Limits of Mathematics---Alternative Version","255 pages, LaTeX, ignore numerous Overfull hbox too wide errors",,,,"chao-dyn nlin.CD",,"  This is an alternative version of the course notes in chao-dyn/9407003. The
+previous version is based on measuring the size of lisp s-expressions. This
+version is based on measuring the size of what I call lisp m-expressions, which
+are lisp s-expressions with most parentheses omitted. This formulation of
+algorithmic information theory is harder to understand than the one that was
+presented in chao-dyn/9407003, but the constants obtained in all theorems are
+now less than half the size that they were before. It is not clear to me which
+version of algorithmic information theory is to be preferred.
+","[{""version"":""v1"",""created"":""Sun, 17 Jul 1994 20:58:16 GMT""}]","2008-02-03"
+"cond-mat/9407075","Sergio de Queiroz","S. L. A. de Queiroz and R. B. Stinchcombe","Transfer-matrix scaling from disorder-averaged correlation lengths for
+  diluted Ising systems","RevTeX 3, 11 pages +5 figures, uuencoded, to appear in Phys. Rev. B
+  (1994), PUC/RJ preprint",,"10.1103/PhysRevB.50.9976",,"cond-mat",,"  A transfer matrix scaling technique is developed for randomly diluted
+systems, and applied to the site-diluted Ising model on a square lattice in two
+dimensions. For each allowed disorder configuration between two adjacent
+columns, the contribution of the respective transfer matrix to the decay of
+correlations is considered only as far as the ratio of its two largest
+eigenvalues, allowing an economical calculation of a configuration-averaged
+correlation length. Standard phenomenological-renormalisation procedures are
+then used to analyse aspects of the phase boundary which are difficult to
+assess accurately by alternative methods. For magnetic site concentration $p$
+close to $p_c$, the extent of exponential behaviour of the $T_c \times p$ curve
+is clearly seen for over two decades of variation of $p - p_c$. Close to the
+pure-system limit, the exactly-known reduced slope is reproduced to a very good
+approximation, though with non-monotonic convergence. The averaged correlation
+lengths are inserted into the exponent-amplitude relationship predicted by
+conformal invariance to hold at criticality. The resulting exponent $\eta$
+remains near the pure value (1/4) for all intermediate concentrations until it
+crosses over to the percolation value at the threshold.
+","[{""version"":""v1"",""created"":""Mon, 18 Jul 1994 14:04:06 GMT""}]","2009-10-22"
+"dg-ga/9407006","Alexander Reznikov","Alexander Reznikov","All regulators of flat bundles are torsion","to appear in Annals of Math",,,,"dg-ga math.DG",,"  I prove the Bloch conjecture:all secondary characteristic classes of flat
+bundles over complex projective varietes are torsion, except the first.
+","[{""version"":""v1"",""created"":""Mon, 18 Jul 1994 08:06:22 GMT""}]","2008-02-03"
+"hep-ph/9407312","W. S. Hou","Wei-Shu Hou, Ern-Bin Tsai, Chao-Qiang Geng and Paul Turcotte","Possibility of $m_t < M_W + m_b$ for SUSY-type of Two Higgs Doublet
+  Model","11 pages + 3 Figures (not included), ReVTeX, NTUTH-94-15 and
+  NHCU-HEP-94-16","Prog.Theor.Phys.94:1089-1096,1995","10.1143/PTP.94.1089",,"hep-ph",,"  Allowing for realistic uncertainties in input parameters, we demonstrate that
+the present CLEO limit of $5.4\times 10^{-4}$ for inclusive $b\to s\gamma$
+decay does not yet fully exclude the $t\to bH^+$ decay possibility in
+supersymmetric type of two Higgs doublet models. Combined with direct search
+for $t\to bH^+$ via $H^+\to \tau^+\nu$ at the Tevatron, we conclude that
+$\tan\beta \sim 1$ is the ``allowed"" window for $m_{H^+} < m_t < M_W$. The
+possibility becomes excluded, however, {\it if} the CLEO limit is pushed below
+$4\times 10^{-4}$.
+","[{""version"":""v1"",""created"":""Mon, 18 Jul 1994 11:12:09 GMT""}]","2009-09-25"
+"hep-ph/9407313","Scott Chapman","Scott Chapman","A New Dimensionally Reduced Effective Action for QCD at High Temperature","11 pages, TPR-94-8","Phys.Rev.D50:5308-5313,1994","10.1103/PhysRevD.50.5308",,"hep-ph",,"  New terms are derived for the three-dimensional effective action of the
+static modes of pure gauge SU(N) at high temperature. In previous works,
+effective vertices have been obtained by evaluating diagrams involving 2, 3 or
+4 external static gluons with one internal nonstatic loop. I take a somewhat
+different approach by making a covariant derivative expansion of the one loop
+effective action for the static modes, keeping all terms involving up to six
+covariant derivatives. The resulting effective action is manifestly invariant
+under spatially dependent gauge transformations and contains new 5- and 6-point
+effective vertices.
+","[{""version"":""v1"",""created"":""Mon, 18 Jul 1994 08:55:59 GMT""}]","2010-11-01"
+"hep-ph/9407314","Jes Madsen","Jes Madsen","Shell model versus liquid drop model for strangelets","9 pages, REVTeX, Phys.Rev.D (1 September 1994, in press). 3
+  postscript figures attached","Phys.Rev. D50 (1994) 3328-3331","10.1103/PhysRevD.50.3328",,"hep-ph nucl-th",,"  An ansatz for the curvature contribution to the density of states for massive
+quarks in a bag is given and shown to reproduce exact mode-filling
+calculations. A mass-formula for spherical lumps of 3-flavor quark matter is
+derived self-consistently from an asymptotic expansion within the MIT bag
+model, taking into account bulk, surface, and curvature contributions. Shell
+model calculations are performed for a variety of strange quark masses and bag
+constants, and the results shown to match nicely with the asymptotic expansion.
+","[{""version"":""v1"",""created"":""Mon, 18 Jul 1994 12:08:21 GMT""}]","2009-10-28"
+"hep-ph/9407315","Joachim Keppler","J. Keppler and H.M. Hofmann (University of Erlangen, Germany)","Convolution Model for the Structure Functions of the Nucleon","email: keppler@faupt31.physik.uni-erlangen.de, 21 pages LATEX, 12
+  figures added in PostScript format (should be stripped off before latexing),
+  KH-TP3-ER-94-02",,,,"hep-ph nucl-th",,"  We start from an MIT-bag model calculation which provides information about
+the constituent quark distributions in the nucleon. The constituent quarks,
+however, are themselves considered as complex objects whose partonic
+substructure is resolved in deep inelastic scattering. This gives rise to
+structure functions of the constituent quarks which, in the unpolarized case,
+are fitted to data at a fixed scale employing three model parameters. Using
+$Q^{2}$--evolution equations the data are also well described at other scales.
+For the spin\-dependent struc\-ture func\-tions $g_{1}^{p,n}$ we additionally
+have to introduce polar\-izat\-ion functions for valence and sea quarks which
+are determined by exploiting the $x$--dependence of the available proton data
+only. A negatively polarized sea in the range $x\geq 0.01$ is suggested. We are
+then capable of predicting the shape of the neutron structure function
+$g_{1}^{n}$ which turns out to be in good agreement with experiment. Finally we
+present an estimate for the trans\-versely polarized structure function
+$g_{2}$, offering the possibility of extrac\-ting the twist--3 con\-tri\-bution
+and rating its importance.
+","[{""version"":""v1"",""created"":""Mon, 18 Jul 1994 10:30:52 GMT""}]","2009-09-25"
+"hep-th/9407101","Janna Levin","Janna Levin","Kinetic Inflation in Stringy and Other Cosmologies","26 pages, LaTeX, CITA-94-25","Phys.Rev.D51:1536-1545,1995","10.1103/PhysRevD.51.1536",,"hep-th astro-ph gr-qc",,"  An inflationary epoch driven by the kinetic energy density in a dynamical
+Planck mass is studied. In the conformally related Einstein frame it is easiest
+to see the demands of successful inflation cannot be satisfied by kinetic
+inflation alone. Viewed in the original Jordan-Brans-Dicke frame, the obstacle
+is manifest as a kind of graceful exit problem and/or a kind of flatness
+problem. These arguments indicate the weakness of only the simplest
+formulation. {}From them can be gleaned directions toward successful kinetic
+inflation.
+","[{""version"":""v1"",""created"":""Sun, 17 Jul 1994 17:09:07 GMT""}]","2010-11-01"
+"hep-th/9407102","Michael Murray","N.S. Manton and M.K. Murray","Symmetric Monopoles","36 pages",,,"DAMTP 94-57","hep-th dg-ga math.DG",,"  We discuss the spectral curves and rational maps associated with $SU(2)$
+Bogomolny monopoles of arbitrary charge $k$. We describe the effect on the
+rational maps of inverting monopoles in the plane with respect to which the
+rational maps are defined, and discuss the monopoles invariant under such
+inversion. We define the strongly centred monopoles, and show they form a
+geodesic submanifold of the $k$-monopole moduli space. The space of strongly
+centred $k$-monopoles invariant under the cyclic group of rotations about a
+fixed axis, $C_k$, is shown to consist of several surfaces of revolution,
+generalizing the two surfaces obtained by Atiyah and Hitchin in the 2-monopole
+case. Geodesics on these surfaces give a novel type of $k$-monopole scattering.
+We present a number of curves in $TP_1$ which we conjecture are the spectral
+curves of monopoles with the symmetries of a regular solid. These conjectures
+are based on analogies with Skyrmions.
+","[{""version"":""v1"",""created"":""Mon, 18 Jul 1994 01:19:25 GMT""}]","2008-02-03"
+"hep-th/9407103",,"Jens Hoppe","Canonical 3+1 Description of Relativistic Membranes","9 pages, Plain TeX, YITP/K-1079 unreadable character codes are
+  corrected",,,,"hep-th",,"  $M$-dimensional extended objects $\Sigma$ can be described by projecting a
+Diff $\Sigma$ invariant Hamiltonian of time-independent Hamiltonian density
+{\cal H} onto the Diff $\Sigma$- singlet sector, which after Hamiltonian
+reduction, using {\cal H} itself for one of the gauge-fixing conditions,
+results in a non-local description that may enable one to extend the non-local
+symmetries for strings to higher dimensions and make contact with gravity at an
+early stage.
+","[{""version"":""v1"",""created"":""Mon, 18 Jul 1994 01:48:00 GMT""},{""version"":""v2"",""created"":""Wed, 20 Jul 1994 03:03:48 GMT""}]","2008-02-03"
+"hep-th/9407104",,"A. Mikovic","Hawking Radiation and Back-Reaction in a Unitary Theory of 2D Quantum
+  Gravity","10 pgs, LaTex file, SISSA preprint 98/94/EP","Phys.Lett.B355:85-91,1995","10.1016/0370-2693(95)00636-Y",,"hep-th gr-qc",,"  We investigate the semiclassical limit and quantum corrections to the metric
+in a unitary quantum gravity formulation of the CGHS 2d dilaton gravity model.
+A new method for calculating the back-reaction effects has been introduced, as
+an expansion of the effective metric in powers of the matter energy-momentum
+tensor. In the semiclassical limit the quantum corrections can be neglected,
+and we show that physical states exists which contain the Hawking radiation.
+The first order back-reaction effect is entirely due to the Hawking radiation.
+It causes the black-hole mass to monotonically decrease, and it makes it
+unbounded from bellow as the horizon is approched. The second order quantum
+corrections have been estimated. Since the matter is propagating freely in this
+unitary theory, we expect that the higher order corrections will stabilize the
+mass, and the black hole will completely evaporate leaving a nearly flat space.
+","[{""version"":""v1"",""created"":""Mon, 18 Jul 1994 08:43:40 GMT""}]","2009-01-16"
+"hep-th/9407105","Username","A. Brandhuber, O. Moritsch, M.W. de Oliveira, O. Piguet and M. Schweda","A Renormalized Supersymmetry in the Topological Yang-Mills Field Theory","18 pages, report REF. TUW 94-10 and UGVA-DPT 1994/07-858","Nucl.Phys. B431 (1994) 173-190","10.1016/0550-3213(94)90102-3",,"hep-th",,"  We reconsider the algebraic BRS renormalization of Witten's topological
+Yang-Mills field theory by making use of a vector supersymmetry Ward identity
+which improves the finiteness properties of the model. The vector
+supersymmetric structure is a common feature of several topological theories.
+The most general local counterterm is determined and is shown to be a trivial
+BRS-coboundary.
+","[{""version"":""v1"",""created"":""Mon, 18 Jul 1994 12:58:12 GMT""}]","2009-10-28"
+"hep-th/9407106","Ken Intriligator","Ken Intriligator","``Integrating in'' and exact superpotentials in 4d","10 pages, RU-94-57","Phys.Lett.B336:409-414,1994","10.1016/0370-2693(94)90552-5",,"hep-th",,"  We discuss integrating out matter fields and integrating in matter fields in
+four dimensional supersymmetric gauge theories. Highly nontrivial exact
+superpotentials can be easily obtained by starting from a known theory and
+integrating in matter.
+","[{""version"":""v1"",""created"":""Mon, 18 Jul 1994 13:20:36 GMT""}]","2011-07-19"
+"hep-th/9407107",,"Cyril FURTLEHNER and St\'ephane OUVRY (Division de Physique
+  Th\'eorique, IPN, Orsay Fr-91406)","Calogero Models for Distinguishable Particles","11 pages",,"10.1142/S0217984995000450",,"hep-th",,"  Motivated by topological bidimensional quantum models for distinguishable
+particles, and by Haldane's definition of mutual statistics for different
+species of particles, we propose a new class of one-dimensional $1/r_{ij}^2$
+Calogero model with coupling constants $g_{ij}$ depending on the labels of the
+particles. We solve the groundstate problem, and show how to build some classes
+of excited states.
+","[{""version"":""v1"",""created"":""Mon, 18 Jul 1994 14:19:34 GMT""}]","2015-06-26"
+"hep-th/9407112",,"H. Aratyn, E. Nissimov, S. Pacheva and A.H. Zimerman","Reduction of Toda Lattice Hierarchy to Generalized KdV Hierarchies and
+  Two-Matrix Model","31 pgs., LaTeX, BGU-94 / 16 / June- PH, UICHEP-TH/94-7 (extended
+  version, new paragraphs and references added)","Int.J.Mod.Phys. A10 (1995) 2537-2578","10.1142/S0217751X95001212",,"hep-th nlin.SI solv-int",,"  Toda lattice hierarchy and the associated matrix formulation of the
+$2M$-boson KP hierarchies provide a framework for the Drinfeld-Sokolov
+reduction scheme realized through Hamiltonian action within the second KP
+Poisson bracket. By working with free currents, which abelianize the second KP
+Hamiltonian structure, we are able to obtain an unified formalism for the
+reduced $SL(M+1,M-k)$-KdV hierarchies interpolating between the ordinary KP and
+KdV hierarchies. The corresponding Lax operators are given as superdeterminants
+of graded $SL (M+1,M-k)$ matrices in the diagonal gauge and we describe their
+bracket structure and field content. In particular, we provide explicit
+free-field representations of the associated $W(M,M-k)$ Poisson bracket
+algebras generalizing the familiar nonlinear $W_{M+1}$-algebra. Discrete
+B\""{a}cklund transformations for $SL(M+1,M-k)$-KdV are generated naturally from
+lattice translations in the underlying Toda-like hierarchy. As an application
+we demonstrate the equivalence of the two-matrix string model to the $SL
+(M+1,1)$-KdV hierarchy.
+","[{""version"":""v1"",""created"":""Mon, 18 Jul 1994 12:30:16 GMT""},{""version"":""v2"",""created"":""Thu, 1 Sep 1994 16:21:55 GMT""}]","2009-10-28"
+"hep-th/9407130",,"Mihai Visinescu","Generalized Runge-Lenz Vector in Taub-Nut Spinning Space","9 pages","Phys.Lett.B339:28-34,1994","10.1016/0370-2693(94)91128-2","IFA-FT-397-1994","hep-th gr-qc",,"  The generalized Killing equations and the symmetries of Taub-NUT spinning
+space are investigated. For spinless particles the Runge-Lenz vector defines a
+constant of motion directly, whereas for spinning particles it now requires a
+non-trivial contribution from spin. The generalized Runge-Lenz vector for
+spinning Taub-NUT space is completely evaluated.
+","[{""version"":""v1"",""created"":""Mon, 18 Jul 1994 12:15:00 GMT""}]","2011-07-19"
+"nucl-th/9407026",,"M. Baldo, G. F. Burgio and A. Rapisarda","Dynamics of Fragment Formation in the Nuclear Spinodal Region","33 pages (16 figures not included but available upon request).
+  RevTEX, Phys. Rev. C submitted, CT-Univ. preprint No.94/04","Phys.Rev.C51:198-211,1995","10.1103/PhysRevC.51.198",,"nucl-th",,"  The Vlasov-Nordheim equation is solved numerically on a lattice for nuclear
+matter in two dimensions. We discuss the reliability of the model at normal
+density and then study the response of the system to small perturbations. We
+find deterministic chaos inside the spinodal zone where fragment formation
+occurs. We discuss in detail the dynamical features of this phenomenon in order
+to clarify the mechanisms leading to nuclear disassembly in heavy--ion
+collisions.
+","[{""version"":""v1"",""created"":""Mon, 18 Jul 1994 12:01:00 GMT""}]","2009-09-25"

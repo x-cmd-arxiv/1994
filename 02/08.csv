@@ -1,0 +1,393 @@
+"alg-geom/9402005",,"Giorgio Ottaviani and G\""unther Trautmann","The Tangent Space at a Special Symplectic Instanton Bundle on $P_{2n+1}$","13 pages, LaTex (Reason for resubmission: correction of a Tex
+  misprint in the title page)",,,,"alg-geom math.AG",,"  Mathematical instanton bundles on $ P_3$ have their analogues in rank--$2n$
+instanton bundles on odd dimensional projective spaces $ P_{2n+1}$. The
+families of special instanton bundles on these spaces generalize the special
+'tHooft bundles on $ P_3$. We prove that for a special symplectic instanton
+bundle $ E$ on $ P_{2n+1}$ with $c_2=k$ $h^1End( E) = 4(3n-1) k +
+(2n-5)(2n-1)$. Therefore the dimension of the moduli space of instanton bundles
+grows linearly in $k$. The main difference with the well known case of $ P_3$
+is that $h^2End( E)$ is nonzero, in fact we prove that it grows quadratically
+in $k$. Special symplectic instanton bundles turn out to be singular points of
+the moduli space. Such bundles $ E$ are $SL(2)$--invariant and the result is
+obtained regarding the cohomology groups of $ E$ as $SL(2)$--representations.
+","[{""version"":""v1"",""created"":""Mon, 7 Feb 1994 18:53:00 GMT""},{""version"":""v2"",""created"":""Wed, 9 Feb 1994 14:48:00 GMT""}]","2016-08-14"
+"astro-ph/9402017","Nick Kaiser","G.G. Fahlman, Nick Kaiser, Gordon Squires and David Woods","Dark Matter in ms1224 from Distortion of Background Galaxies","8 pages (no figures), latex, CITA/94/4, postscript file with figures
+  available by anonymous ftp in /cita/nick/ms1224/ at ftp.cita.utoronto.ca","Astrophys.J. 437 (1994) 56-62","10.1086/174974",,"astro-ph hep-ph",,"  We explore the dark matter distribution in ms1224.7+2007 using the
+gravitational distortion of the images of faint background galaxies. Projected
+mass image reconstruction reveals a highly significant concentration coincident
+with the X-ray and optical location. The concentration is seen repeatably in
+reconstructions from independent subsamples and the azimuthally averaged
+tangential shear pattern is also clearly seen in the data. The projected mass
+within a $2.76'$ radius aperture is $\simeq 3.5 \times 10^{14} h^{-1}
+M_{\sun}$. This is $\simeq 3$ times larger than that predicted if mass traces
+light with $M/L = 275 h$ as derived from virial analysis. It is very hard to
+attribute the discrepancy to a statistical fluctuation, and a further
+indication of a significant difference between the mass and the light comes
+from a second mass concentration which is again seen in independent subsamples
+but which is not seen at all in the cluster light. We find a mass per galaxy
+visible to $I = 22$ of $\simeq 8 \times 10^{12}h^{-1}M_{\sun}$ which, if
+representative of the universe, implies a density parameter $\Omega \sim 2$. We
+find a null detection of any net shear from large-scale structure with a
+precision of 0.9\% per component. This is much smaller than the possible
+detection in a recent comparable study, and the precision here is comparable to
+to the minimum level of rms shear fluctuations implied by observed large-scale
+structure.
+","[{""version"":""v1"",""created"":""Tue, 8 Feb 1994 00:53:34 GMT""}]","2009-10-22"
+"astro-ph/9402018","Dale Frail","D. A. Frail, P. J. Diamond, J. M. Cordes and H. J. Van Langevelde","Anisotropic Scattering of OH/IR Stars Towards the Galactic Center","ApJ(Let) submitted. 17 pages, 2 figures and 1 table in a uuencoded
+  tar file. Hardcopies available from dfrail@nrao.edu",,"10.1086/187360",,"astro-ph",,"  We have made angular broadening measurements in the satellite line of the OH
+molecule at 1612 MHz of 8 OH/IR stars located near the Galactic Center with the
+Very Large Array. Early observations with the Very Long Baseline Array had
+revealed a region of pronounced scattering approximately centered on SgrA*.
+These new observations show that the compact line emission from these stars is
+scattered by an amount that is two to three times larger than had been
+previously seen. Additionally, we measure non-circular scattering disks for
+these objects, evidence that the electron density variations are distributed
+anisotropically. The present data suggest that the enhanced turbulence is
+located near the Galactic Center. However, we cannot completely rule out that
+the scattering is caused by an unrelated region along the line of sight.
+","[{""version"":""v1"",""created"":""Tue, 8 Feb 1994 03:30:36 GMT""}]","2009-10-22"
+"astro-ph/9402019","Hans J. Haubold","H.J.Haubold and A.M.Mathai","Computational aspects of the gravitational instability problem for a
+  multicomponent cosmological medium","20 pages in LaTeX, McGill University preprint","Astrophys.Space Sci. 214 (1994) 139-149","10.1007/BF00982331",,"astro-ph",,"  The paper presents results for deriving closed-form analytic solutions of the
+non-relativistic linear perturbation equations, which govern the evolution of
+inhomogeneities in a homogeneous spatially flat multicomponent cosmological
+model. Mathematical methods to derive computable forms of the perturbations are
+outlined.
+","[{""version"":""v1"",""created"":""Tue, 8 Feb 1994 07:22:08 GMT""}]","2009-10-22"
+"astro-ph/9402020",,"W.J. Anderson, H.J. Haubold, and A.M. Mathai","Astrophysical thermonuclear functions","17 pages in LaTeX, 8 figures available on request from
+  haubold@ekpvs2.dnet.tuwien.ac.at","Astrophysics and Space Science 214(1994)49-70","10.1007/BF00982324","McGill University preprint 94-01","astro-ph",,"  As theoretical knowledge and experimental verification of nuclear cross
+sections increases it becomes possible to refine analytic representations for
+nuclear reaction rates. In this paper mathematical/statistical techniques for
+deriving closed-form representations of thermonuclear functions are summarized
+and numerical results for them are given.The purpose of the paper is also to
+compare numerical results for approximate and closed-form representations of
+thermonuclear functions.
+","[{""version"":""v1"",""created"":""Tue, 8 Feb 1994 07:48:11 GMT""}]","2009-10-22"
+"astro-ph/9402021",,"Andrew R Liddle and Michael S Turner","Second-Order Reconstruction of the Inflationary Potential","22 pages, LaTeX plus two uuencoded postscript figures, revised
+  version incorporates a new section on the philosophical and practical
+  strategy of reconstruction, SUSSEX-AST 94/2-1","Phys.Rev.D50:758,1994; Erratum-ibid.D54:2980,1996;
+  Phys.Rev.D54:2980,1996","10.1103/PhysRevD.50.758 10.1103/PhysRevD.54.2980",,"astro-ph hep-ph",,"  To first order in the deviation from scale invariance the inflationary
+potential and its first two derivatives can be expressed in terms of the
+spectral indices of the scalar and tensor perturbations, $n$ and $n_T$, and
+their contributions to the variance of the quadrupole CBR temperature
+anisotropy, $S$ and $T$. In addition, there is a ``consistency relation''
+between these quantities: $n_T= -{1\over 7}{T\over S}$. We discuss the overall
+strategy of perturbative reconstruction and derive the second-order expressions
+for the inflationary potential and its first two derivatives and the
+first-order expression for its third derivative, all in terms of $n$, $n_T$,
+$S$, $T$, and $dn/d\ln k$. We also obtain the second-order consistency
+relation, $n_T =-{1\over 7}{T\over S}[1+0.11{T\over S} + 0.15 (n-1)]$. As an
+example we consider the exponential potential, the only known case where exact
+analytic solutions for the perturbation spectra exist. We reconstruct the
+potential via Taylor expansion (with coefficients calculated at both first and
+second order), and introduce the Pad\'{e} approximant as a greatly improved
+alternative.
+","[{""version"":""v1"",""created"":""Tue, 8 Feb 1994 15:17:00 GMT""},{""version"":""v2"",""created"":""Thu, 31 Mar 1994 15:18:00 GMT""}]","2014-10-13"
+"cond-mat/9402033","Michael C. Martin","Michael C. Martin, Xiaoqun Du, John Kwon, and L. Mihaly (Department of
+  Physics, SUNY at Stony Brook.)","Observation and Assignment of Silent and Higher Order Vibrations in the
+  Infrared Transmission of C60 Crystals","REVTEX v3.0 in LaTeX. 12 pages. 8 Figures by request. c60long","Phys. Rev. B 50, 173 (1994)","10.1103/PhysRevB.50.173",,"cond-mat",,"  We report the measurement of infrared transmission of large C60 single
+crystals. The spectra exhibit a very rich structure with over 180 vibrational
+absorptions visible in the 100 - 4000 cm-1 range. Many silent modes are
+observed to have become weakly IR-active. We also observe a large number of
+higher order combination modes. The temperature (77K - 300K) and pressure (0 -
+25KBar) dependencies of these modes were measured and are presented. Careful
+analysis of the IR spectra in conjunction with Raman scattering data showing
+second order modes and neutron scattering data, allow the selection of the 46
+vibrational modes C60. We are able to fit *all* of the first and second order
+data seen in the present IR spectra and the previously published Raman data
+(~300 lines total), using these 46 modes and their group theory allowed second
+order combinations.
+","[{""version"":""v1"",""created"":""Mon, 7 Feb 1994 20:10:02 GMT""}]","2009-10-22"
+"cond-mat/9402034","Dmitri Khveshchenko","D.V.Khveshchenko and P.B.Wiegmann","Raman Scattering and Anomalous Current Algebra: Observation of Chiral
+  Bound State in Mott Insulators","18 pages, TeX, C Version 3.0","Phys. Rev. Lett. 53, 500 (1994)","10.1103/PhysRevLett.73.500",,"cond-mat",,"  Recent experiments on inelastic light scattering in a number of insulating
+cuprates [1] revealed a new excitation appearing in the case of crossed
+polarizations just below the optical absorption threshold. This observation
+suggests that there exists a local exciton-like state with an odd parity with
+respect to a spatial reflection. We present the theory of high energy large
+shift Raman scattering in Mott insulators and interpret the experiment [1] as
+an evidence of a chiral bound state of a hole and a doubly occupied site with a
+topological magnetic excitation. A formation of these composites is a crucial
+feature of various topological mechanisms of superconductivity. We show that
+inelastic light scattering provides an instrument for direct measurements of a
+local chirality and anomalous terms in the electronic current algebra.
+","[{""version"":""v1"",""created"":""Mon, 7 Feb 1994 21:09:07 GMT""},{""version"":""v2"",""created"":""Wed, 9 Feb 1994 22:53:07 GMT""}]","2009-10-22"
+"cond-mat/9402035","Erik Sorensen","E. Sorensen and I Affleck (UBC)","Equal Time Correlations in Haldane Gap Antiferromagnets","32 pages, uufiles encoded REVTEX 3.0, 19 postscript figures included,
+  UBCTP-93-026",,"10.1103/PhysRevB.49.15771",,"cond-mat",,"  The $S=1$ antiferromagnetic Heisenberg chain both with and without single ion
+anisotropy is studied. Using the recently proposed density matrix
+renormalization group technique we calculate the energy gaps as well as several
+different correlation functions. The two gaps, $\Delta_{||}, \Delta_\perp$,
+along with associated correlation lengths and velocities are determined. The
+numerical results are shown to be in good agreement with theoretical
+predictions derived from the nonlinear sigma model and a free boson model. We
+also study the $S=1/2$ excitations that occur at the ends of open chains; in
+particular we study the behavior associated with open boundary conditions,
+using a model of $S=1/2$ spins coupled to the free bosons.
+","[{""version"":""v1"",""created"":""Tue, 8 Feb 1994 00:47:00 GMT""}]","2012-07-07"
+"cond-mat/9402036","Chertkov Misha","Michael Chertkov and Igor Kolokolov","Long-time dynamics of the infinite-temperature Heisenberg magnet","11 pages, RevTex 3.0, to be published in PRB Feb. 1994",,"10.1103/PhysRevB.49.3592",,"cond-mat",,"  Infinite-temperature long-time dynamics of Heisenberg model
+${\bf\hat{H}}=-\frac{1}{2}\sum_{i,j}J_{ij} \hat{\vec{S}}_{i}\hat{\vec{S}}_{j}$
+is investigated. It is shown that the quantum spin pair-correlator is equal to
+the correlator of classically evaluated vector field averaged over the initial
+conditions with respect to the gaussian measure. In the continious limit case
+the scaling estimations allow one to find one-point correlator that turns out
+to be $C(\vec{r}=0;t)\propto const \times t^{-6/7}$. All results are obtained
+by straightforward procedure without any assumptions of the phenomenological
+character.
+","[{""version"":""v1"",""created"":""Tue, 8 Feb 1994 13:28:12 GMT""}]","2009-10-22"
+"cond-mat/9402037",,"E.V.Podivilov","Method of effective potential for quantum Heisenberg ferromagnet theory","9 pages, Latex",,,,"cond-mat",,"  Self - consistent temperature dependence of the average magnetization in
+quantum Heisenberg ferromagnet is obtained as a first approximation of
+perturbation theory on an inverse radius by application of the functional
+method for quantum ferromagnet. The experimental data are compared with the
+theoretical results for {\bf EuO} ferromagnet. A quantitative agreement is
+observed between theoretical and experimental results outside interval near
+Curie temperature. The theory is of critical behavior in the vicinity of Curie
+temperature $T_c$. Theoretical $T_c$ value itself is agreed with the
+experimental one with an accuracy of several percents.
+","[{""version"":""v1"",""created"":""Tue, 8 Feb 1994 14:08:41 GMT""}]","2007-05-23"
+"cond-mat/9402038",,"Giuseppe Santoro and Michele Fabrizio","Disordered Flat Phase in a Solid on Solid Model of Fcc(110) Surfaces and
+  Dimer States in Quantum Spin-1/2 Chains","20 pages (10 Figures available upon request), REVTEX, SISSA PREPRINT
+  1/94/CM/SS",,"10.1103/PhysRevB.49.13886",,"cond-mat",,"  We present a restricted solid on solid hamiltonian for fcc (110) surfaces. It
+is the simplest generalization of the exactly solvable BCSOS model which is
+able to describe a $(2\times 1)$ missing-row reconstructed surface. We study
+this model by mapping it onto a quantum spin-1/2 chain of the Heisenberg type,
+with second and third neighbor $S^z_iS^z_j$ couplings. The ground state phase
+diagram of the spin-chain model is studied by exact diagonalization of finite
+chains up to $N=28$ sites, as well as through analytical techniques. We find
+four phases in the phase diagram: two ordered phases in which the spins have a
+N\'eel-type of long range order (an unreconstructed and a missing-row
+reconstructed phase, in the surface language), a spin liquid phase
+(representing a rough surface), and an intermediate dimer phase which breaks
+translational invariance and has a doubly degenerate ground state,
+corresponding to a disordered flat surface. The transition from the $(2\times
+1)$ reconstructed phase to the disordered flat phase belongs to the $2D$ Ising
+universality class. A critical (preroughening) line with varying exponents
+separates the unreconstructed phase from the disordered flat phase. The
+possible experimental signatures of the disordered flat phase are discussed.
+","[{""version"":""v1"",""created"":""Tue, 8 Feb 1994 14:43:58 GMT""}]","2009-10-22"
+"gr-qc/9402016","Piotr Bizon","Piotr Bizo\'n","Gravitating Solitons and Hairy Black Holes","29 pages, latex, preprint UWThPh-1994-5","Acta Phys.Polon. B25 (1994) 877-898",,,"gr-qc hep-th",,"  A brief review of recent research on soliton and black hole solutions of
+Einstein's equations with nonlinear field sources is presented and some open
+questions are pointed out.
+","[{""version"":""v1"",""created"":""Tue, 8 Feb 1994 10:53:53 GMT""}]","2016-08-14"
+"gr-qc/9402017","Kouji Nakamura","Y.Oshiro, K.Nakamura and A.Tomimatsu","Critical Behavior of Black Hole Formation in a Scalar Wave Collapse","DPNU-94-04 (multicol.sty was added.)","Prog.Theor.Phys.91:1265-1270,1994","10.1143/PTP.91.1265",,"gr-qc",,"  We present a self-similar model of spherically symmetric collapse of a
+massless scalar field with a parameter $p$. The black hole formation is
+explicitly shown to occur only in the strong-field implosion of $p >1$. The
+field evolution in the critical limit $ p \rightarrow 1 $ is compared with
+numerical results found by Choptuik.
+","[{""version"":""v1"",""created"":""Tue, 8 Feb 1994 11:35:39 GMT""},{""version"":""v2"",""created"":""Thu, 10 Feb 1994 13:46:28 GMT""},{""version"":""v3"",""created"":""Mon, 14 Feb 1994 10:29:56 GMT""}]","2010-11-19"
+"hep-ph/9402236","Christian Weiss","Yu. L. Kalinovsky and C. Weiss","Heavy--light mesons in a bilocal effective theory","(34 p., standard LaTeX, 7 PostScript figures appended)
+  UNITUE-THEP-17/93","Z.Phys. C63 (1994) 275-290","10.1007/BF01411021",,"hep-ph",,"  Heavy--light mesons are described in an effective quark theory with a
+two--body vector--type interaction. The bilocal interaction is taken to be
+instantaneous in the rest frame of the bound state, but formulated covariantly
+through the use of a boost vector. The chiral symmetry of the light flavor is
+broken spontaneously at mean field level. The framework for our discussion of
+bound states is the effective bilocal meson action obtained by bosonization of
+the quark theory. Mesons are described by 3--dimensional wave functions
+satisfying Salpeter equations, which exhibit both Goldstone solutions in the
+chiral limit and heavy--quark symmetry for $m_Q\rightarrow\infty$. We present
+numerical solutions for pseudoscalar $D$-- and $B$--mesons. Heavy--light meson
+spectra and decay constants are seen to be sensitive to the description of
+chiral symmetry breaking (dynamically generated vs.\ constant quark mass).
+","[{""version"":""v1"",""created"":""Mon, 7 Feb 1994 18:27:56 GMT""}]","2009-10-28"
+"hep-ph/9402237","Thomas","Scott Thomas","Electromagnetic Contributions to the Schiff Moment","7 pages, 1 figure (not included), Tex file, requires phyzzx, preprint
+  SCIPP 93/45","Phys.Rev. D51 (1995) 3955-3957","10.1103/PhysRevD.51.3955",,"hep-ph",,"  The Schiff moment, $\smij$, is a parity and time reversal violating
+fermion-fermion coupling. The nucleus-electron Schiff moment generically gives
+the most important contribution to the electric dipole moments of atoms and
+molecules with zero net intrinsic electronic spin and nuclear spin ${1 \over
+2}$. Here, the electromagnetic contribution to the Schiff moment, $\emij$, is
+considered. For a nucleon, the leading chirally violating contribution to this
+interaction is calculable in the chiral limit in terms of the parity and time
+reversal violating pion-nucleon coupling. For the Schiff moment of heavy
+nuclei, this chiral contribution is somewhat smaller than the finite size
+effect discussed previously in the literature.
+","[{""version"":""v1"",""created"":""Mon, 7 Feb 1994 19:52:48 GMT""}]","2009-10-28"
+"hep-ph/9402238",,"T.E. Clark, B. Haeri, S.T. Love, M.A. Walker, W.T.A ter Veldhuis","Mass Bounds in the Standard Model","12 pages, PURD-TH-94-01","Phys.Rev. D50 (1994) 606-609","10.1103/PhysRevD.50.606",,"hep-ph",,"  Nonperturbative triviality and vacuum stability mass bounds are obtained for
+the Higgs scalar and top quark degrees of freedom in the standard electroweak
+model using Wilson renormalization group techniques. Particular attention is
+given to the effect of the generalized top Yukawa coupling on the scalar mass
+upper bound.
+","[{""version"":""v1"",""created"":""Mon, 7 Feb 1994 20:49:34 GMT""}]","2019-08-17"
+"hep-ph/9402239",,"R. Foot and Tran Anh Tuan","Explicit Electroweak symmetry breaking?","10, McGill/93-31",,,,"hep-ph",,"  We hypothesise that all electroweak symmetry breaking terms such as fermion
+masses and the W and Z gauge boson masses arise radiatively from just one
+explicit symmetry breaking term in the Lagrangian. Our hypothesis is motivated
+by the lack of experimental support and the lack of predictivity of the
+standard symmetry breaking scenario. We construct a simple model which
+illustrates our ideas. We also discuss the possible importance of scale
+invariance.
+","[{""version"":""v1"",""created"":""Mon, 7 Feb 1994 22:57:24 GMT""}]","2009-09-25"
+"hep-ph/9402240",,"R. Foot","Electric charge quantization without anomalies?","10 McGill/93-32","Phys.Rev. D49 (1994) 3617-3621","10.1103/PhysRevD.49.3617",,"hep-ph",,"  In gauge theories like the standard model, the electric charges of the
+fermions can be heavily constrained from the classical structure of the theory
+and from the cancellation of anomalies. We argue that the anomaly conditions
+are not quite as well motivated as the classical constraints, since it is
+possible that new fermions could exist which cancel potential anomalies. For
+this reason we examine the classically allowed electric charges of the known
+fermions and we point out that the electric charge of the tau neutrino is
+classically allowed to be non-zero. The experimental bound on the electric
+charge of the tau neutrino is many orders of magnitude weaker than for any
+other known neutrino. We discuss possible modifications of the minimal standard
+model such that electric charge is quantized classically.
+","[{""version"":""v1"",""created"":""Mon, 7 Feb 1994 22:58:08 GMT""}]","2009-10-28"
+"hep-ph/9402241",,"R. Foot","Neutrino oscillations and the exact parity model","14, McGill/93-46","Mod.Phys.Lett. A9 (1994) 169-180","10.1142/S0217732394000186",,"hep-ph",,"  We re-examine neutrino oscillations in exact parity models. Previously it was
+shown in a specific model that large neutrino mixing angles result. We show
+here that this is a general result of neutrino mixing in exact parity models
+provided that the neutrino mass matrix is real. In this case, the effects of
+neutrino mixing in exact parity models is such that the probability of a given
+weak eigenstate remaining in that eigenstate averages to {\it less} than a half
+when averaged over many oscillations. This result is interesting in view of the
+accumulating evidence for a significant deficit in the number of solar
+neutrinos. It may also be of relevance to the atmospheric neutrino anomaly.
+","[{""version"":""v1"",""created"":""Mon, 7 Feb 1994 22:59:50 GMT""}]","2015-06-25"
+"hep-ph/9402242",,"R. Foot","A note on Koide's lepton mass relation","4, McGill/94-9",,,,"hep-ph",,"  Koide has pointed out that the mass relation $m_e + m_{\mu} + m_{\tau} = {2
+\over 3}(\sqrt{m_e} + \sqrt{m_{\mu}} + \sqrt{m_{\tau}})^2 $ is consistent with
+the most recent measurements of the tau lepton mass. We point out that this
+relation has a geometric interpretation.
+","[{""version"":""v1"",""created"":""Mon, 7 Feb 1994 23:00:26 GMT""}]","2007-05-23"
+"hep-ph/9402243",,"Robert Foot, Hoang Ngoc Long, and Tuan A.Tran","$\mbox{SU}(3)_L \otimes \mbox{U}(1)_N$ and $\mbox{SU}(4)_L \otimes
+  \mbox{U}(1)_N$ gauge models with right-handed neutrinos","8, McGill/94-10","Phys.Rev.D50:34-38,1994","10.1103/PhysRevD.50.R34",,"hep-ph",,"  Pisano and Pleitez have introduced an interesting $\mbox{SU}(3)_C \otimes
+\mbox{SU}(3)_L \otimes \mbox{U}(1)_N$ gauge model which has the property that
+gauge anomaly cancellation requires the number of generations to be a multiple
+of 3. We consider generalizing that model to incorporate right-handed
+neutrinos. We find that there exists a non-trivial generalization of the
+Pisano-Pleitez model with right-handed neutrinos which is actually simpler than
+the original model in that symmetry breaking can be achieved with just three
+$\mbox{SU}(3)_L$ triplets (rather than 3 $\mbox{SU}(3)_L$ triplets and a
+sextet). We also consider a gauge model based on $\mbox{SU}(3)_C\otimes
+\mbox{SU}(4)_L \otimes \mbox{U}(1)_N$ symmetry. Both of these new models also
+have the feature that the anomalies cancel only when the number of generations
+is divisible by 3.
+","[{""version"":""v1"",""created"":""Mon, 7 Feb 1994 23:01:02 GMT""}]","2008-11-26"
+"hep-ph/9402244",,"R. Foot","A parity invariant $SU(3)_c \otimes SU(3)_L \otimes U(1)$ model","6, McGill/94-11","Mod.Phys.Lett. A10 (1995) 159-164","10.1142/S021773239500017X",,"hep-ph",,"  We examine a $SU(3)_c \otimes SU(3)_{L}\otimes U(1)$ gauge model which has a
+parity symmetric Lagrangian. The parity symmetry has the novel feature that it
+interchanges the gluons with the $SU(3)_L$ gauge bosons (which contain the
+ordinary $SU(2)_L$ weak gauge bosons). We show that the model reduces to the
+standard model at low energies and also predicts new physics in the form of
+exotic fermions.
+","[{""version"":""v1"",""created"":""Mon, 7 Feb 1994 23:01:48 GMT""}]","2015-06-25"
+"hep-ph/9402245","Ngee-Pong Chang","Ngee Pong Chang","Chiral Current at High Temperatures","10 pages, LaTeX, CCNY-HEP-94-5. Earlier submission had an email bug
+  in transmission","Phys.Rev.D50:5403-5408,1994","10.1103/PhysRevD.50.5403",,"hep-ph",,"  The BP-FTW effective action is a good laboratory to study the nature of
+chiral symmetry at high $T$. It is invariant under a new Noether charge,
+$\Qbeta$. By explicit quantization, performed to order $\Tprime$ we show that
+the thermal vacuum is annihilated by $\Qbeta$, so that the new chiral symmetry
+is not broken spontaneously at high $T$. This high $T$ Noether charge is,
+however, different from the usual zero temperature chirality, $\Q$. Our
+quantization also shows that the thermal vacuum is not annihilated by $\Q$, so
+that the old chiral symmetry remains broken at high $T$. The thermal vacuum is
+thus every bit as `structured' and `complex' as the Nambu-Jona-Lasinio vacuum
+at zero temperature. We exhibit the relation between the normal mode expansion
+for $\Qbeta$ versus the usual expansion for $\Q$. In an appendix, we point out
+the analyticity properties of the fermion propagator in real time formalism,
+and verify the canonical nature of the thermal Green function.
+","[{""version"":""v1"",""created"":""Mon, 7 Feb 1994 16:56:01 GMT""},{""version"":""v2"",""created"":""Tue, 8 Feb 1994 17:54:43 GMT""}]","2016-09-01"
+"hep-ph/9402246","Gonzalo Parente Bermudez","A.V. Kotikov, G. Parente and O.A. Sampayo","Light Gluinos and the Longitudinal Structure Function","Latex 8 pages, 4 figures available on request, preprint UCI-TR/94-3","Phys.Lett. B328 (1994) 374-378","10.1016/0370-2693(94)91493-1",,"hep-ph",,"  The leading effect of light gluinos on the deep inelastic longitudinal
+structure function is calculated. We present the explicit analitic expression
+for the Wilson coefficient. After convolution with quark, gluon and gluino
+distributions we found that the size of the contribution is of order a few
+percent of the total $F_L$. Some phenomenological implications for HERA and
+LEP/LHC are given.
+","[{""version"":""v1"",""created"":""Tue, 8 Feb 1994 00:37:00 GMT""}]","2009-10-28"
+"hep-ph/9402247","Ewan Davidson Stewart","Misao Sasaki, Ewan D. Stewart and Takahiro Tanaka","General Solutions for Tunneling of Scalar Fields with Quartic Potentials
+  in de Sitter Space","(Contours in Figure 1 corrected, two-dimensional fitting coefficient
+  corrected, references added.), 16 pages, KUNS 1245","Phys.Rev.D50:941-946,1994","10.1103/PhysRevD.50.941",,"hep-ph gr-qc",,"  The tunneling rates for scalar fields with quartic potentials in de Sitter
+space in the limit of no gravitational back reaction are calculated numerically
+and the results are fitted by analytic formulae.
+","[{""version"":""v1"",""created"":""Tue, 8 Feb 1994 05:47:09 GMT""},{""version"":""v2"",""created"":""Mon, 6 Jun 1994 02:27:15 GMT""}]","2009-10-09"
+"hep-ph/9402248",,"Barry R. Holstein and A.M. Nathan","Dispersion Relations and the Nucleon Polarizability","(UMHEP-404, 18 pg. Latex, figures available upon request from
+  holstein@phast.umass.edu)","Phys.Rev.D49:6101-6108,1994","10.1103/PhysRevD.49.6101",,"hep-ph nucl-th",,"  Recent experimental results on the proton and neutron polarizabilities are
+examined from the point of view of backward dispersion relations. Results are
+found to be in reasonable agreement with the measured values. A rigorous
+relationship between the nucleon and pion polarizabilities is derived and shown
+to be in excellent agreement with several models.
+","[{""version"":""v1"",""created"":""Tue, 8 Feb 1994 15:58:34 GMT""}]","2011-07-19"
+"hep-th/9402036",,"Yoav Peleg","Avoidance of Classical Singularities in Quantized Gravitational Dust
+  Systems","11p LaTex, BRX-TH-354",,,,"hep-th gr-qc",,"  We use the canonical quantization of spherically symetric dust universes, and
+calculate the expectation value of the quantized metric, $<\Psi|\hat{g}|\Psi>$.
+Though the classical solutions are singular, and the wave functions have no
+zero support on singular geometries, the expectation values are everywhere
+regular. For a quasi-classical (coherent) state, the metric expectation value
+describes a universe (or star) that collapses to a minimum radius, the Planck
+radius, and re-expands again.
+","[{""version"":""v1"",""created"":""Mon, 7 Feb 1994 16:06:00 GMT""}]","2007-05-23"
+"hep-th/9402037","Shahn Majid","A. Kempf and Shahn Majid","Algebraic {$q$}-Integration and Fourier Theory on Quantum and Braided
+  Spaces","50 pages. Minor changes, added 3 references","J.Math.Phys. 35 (1994) 6802-6837","10.1063/1.530644","damtp/94-7","hep-th math.QA",,"  We introduce an algebraic theory of integration on quantum planes and other
+braided spaces. In the one dimensional case we obtain a novel picture of the
+Jackson $q$-integral as indefinite integration on the braided group of
+functions in one variable $x$. Here $x$ is treated with braid statistics $q$
+rather than the usual bosonic or Grassmann ones. We show that the definite
+integral $\int x$ can also be evaluated algebraically as multiples of the
+integral of a $q$-Gaussian, with $x$ remaining as a bosonic scaling variable
+associated with the $q$-deformation. Further composing our algebraic
+integration with a representation then leads to ordinary numbers for the
+integral. We also use our integration to develop a full theory of $q$-Fourier
+transformation $F$. We use the braided addition $\Delta x=x\otimes 1+1\otimes
+x$ and braided-antipode $S$ to define a convolution product, and prove a
+convolution theorem. We prove also that $F^2=S$. We prove the analogous results
+on any braided group, including integration and Fourier transformation on
+quantum planes associated to general R-matrices, including $q$-Euclidean and
+$q$-Minkowski spaces.
+","[{""version"":""v1"",""created"":""Mon, 7 Feb 1994 21:13:14 GMT""},{""version"":""v2"",""created"":""Fri, 3 Jun 1994 20:17:15 GMT""}]","2009-10-28"
+"hep-th/9402038","Q.-Han Park","Q-Han Park","Deformed Coset Models From Gauged WZW Actions","11 pages","Phys.Lett. B328 (1994) 329-336","10.1016/0370-2693(94)91487-7",,"hep-th",,"  A general Lagrangian formulation of integrably deformed G/H-coset models is
+given. We consider the G/H-coset model in terms of the gauged
+Wess-Zumino-Witten action and obtain an integrable deformation by adding a
+potential energy term $Tr(gTg^{-1}\Tb )$, where algebra elements $T, \Tb $
+belong to the center of the algebra {\bf h} associated with the subgroup H. We
+show that the classical equation of motion of the deformed coset model can be
+identified with the integrability condition of certain linear equations which
+makes the use of the inverse scattering method possible. Using the linear
+equation, we give a systematic way to construct infinitely many conserved
+currents as well as soliton solutions. In the case of the parafermionic
+SU(2)/U(1)-coset model, we derive $n$-solitons and conserved currents
+explicitly.
+","[{""version"":""v1"",""created"":""Tue, 8 Feb 1994 07:36:30 GMT""},{""version"":""v2"",""created"":""Mon, 21 Feb 1994 04:17:17 GMT""}]","2009-10-28"
+"hep-th/9402039","Werner Nahm","Werner Nahm","Quasi-rational fusion products","10 pages (plain TeX)","Int.J.Mod.Phys.B8:3693-3702,1994","10.1142/S0217979294001597",,"hep-th",,"  Fusion is defined for arbitrary lowest weight representations of
+$W$-algebras, without assuming rationality. Explicit algorithms are given. A
+category of quasirational representations is defined and shown to be stable
+under fusion. Conjecturally, it may coincide with the category of
+representations of finite quantum dimensions.
+","[{""version"":""v1"",""created"":""Tue, 8 Feb 1994 08:29:21 GMT""}]","2011-07-18"
+"hep-th/9402040","Stoyan Toshev","Pierre Minnaert and Stoyan Toshev","Racah Sum Rule and Biedenharn-Elliott Identity for the Super-Rotation
+  $6-j$ symbols","9 pages. Two misprints corrected","J.Math.Phys. 35 (1994) 5057-5064","10.1063/1.530831","LPTB-94-01","hep-th math.QA",,"  It is shown that the well known Racah sum rule and Biedenharn-Elliott
+identity satisfied by the recoupling coefficients or by the $6-j$ symbols of
+the usual rotation $SO(3)$ algebra can be extended to the corresponding
+features of the super-rotation $osp(1|2)$ superalgebra. The structure of the
+sum rules is completely similar in both cases, the only difference concerns the
+signs which are more involved in the super-rotation case.
+","[{""version"":""v1"",""created"":""Tue, 8 Feb 1994 10:45:07 GMT""},{""version"":""v2"",""created"":""Wed, 9 Feb 1994 15:31:06 GMT""},{""version"":""v3"",""created"":""Thu, 10 Feb 1994 08:46:42 GMT""},{""version"":""v4"",""created"":""Wed, 9 Mar 1994 09:13:12 GMT""}]","2009-10-28"
+"hep-th/9402041","Antti Niemi","T. Karki and A. J. Niemi","On the Duistermaat-Heckman Integration Formula And Integrable Models","18 pages. Talk presented by A. Niemi at XXVIIth International
+  Symposium on the Theory of Elementary Particles Wendisch-Rietz (Germany)
+  September 7-11, 1993",,,"UU-ITP 02/94, HU-TFT-94-08","hep-th math.QA nlin.SI solv-int",,"  In this article we review the Duistermaat-Heckman integration formula and the
+ensuing equivariant cohomology structure, in the finite dimensional case. In
+particular, we discuss the connection between equivariant cohomology and
+classical integrability. We also explain how the integration formula is
+derived, and explore some possible new directions that could eventually yield
+novel integration formulas for nontrivial integrable models.
+","[{""version"":""v1"",""created"":""Tue, 8 Feb 1994 13:59:05 GMT""}]","2008-02-03"
+"hep-th/9402042",,"Fiorenzo Bastianelli, Nobuyoshi Ohta and Jens Lyng Petersen","Toward the Universal Theory of Strings","Latex file, 8 pages, NBI-HET-94-08. The preprint number is changed
+  and one reference is added","Phys.Lett. B327 (1994) 35-39","10.1016/0370-2693(94)91524-5",,"hep-th",,"  We show that the $N=2$ superstrings may be viewed as a special class of the
+$N=4$ superstrings and demonstrate their equivalence. This allows us to realize
+all known string theories based on linear algebras and with $N<4$
+supersymmetries as special choices of the vacua in the $N=4$ superstring.
+","[{""version"":""v1"",""created"":""Tue, 8 Feb 1994 15:23:13 GMT""},{""version"":""v2"",""created"":""Mon, 14 Feb 1994 09:41:44 GMT""}]","2009-10-28"
+"hep-th/9402043","Igor G. Korepanov","I. G. Korepanov","A Dynamical System Connected with Inhomogeneous 6-Vertex Model","21 pages","Zapiski Nauchn. Semin. POMI (S-Petersburg) 215 (1994) 178-196",,,"hep-th nlin.SI solv-int",,"  A completely integrable dynamical system in discrete time is studied by means
+of algebraic geometry. The system is associated with factorization of a linear
+operator acting in a direct sum of three linear spaces into a product of three
+operators, each acting nontrivially only in a direct sum of two spaces, and the
+following reversing of the order of factors. There exists a reduction of the
+system interpreted as a classical field theory in 2+1-dimensional space-time,
+the integrals of motion coinciding, in essence, with the statistical sum of an
+inhomogeneous 6-vertex free-fermion model on the 2-dimensional kagome lattice
+(here the statistical sum is a function of two parameters). Thus, a connection
+with the ``local'', or ``generalized'', quantum Yang--Baxter equation is
+revealed.
+","[{""version"":""v1"",""created"":""Tue, 8 Feb 1994 14:50:53 GMT""}]","2008-02-03"
+"math/9402205",,"Alvaro Arias, Jeff Farmer","On the structure of tensor products of l_p spaces",,,,"Banach Archive 2/8/94","math.FA",,"  We examine some structural properties of (injective and projective) tensor
+products of $\ell_p$-spaces (projections, complemented subspaces, reflexivity,
+isomorphisms, etc.). We combine these results with combinatorial arguments to
+address the question of primarity for these spaces and their duals.
+  Our main results are: \medbreak \item{(1)} If $1<p<\infty$, then
+$B(\ell_p)\approx B(L_p)$ ($B(X)$ consists of the bounded linear operators on
+$X$). \medbreak \item{(2)} If ${1\over p_i}+{1\over p_j}\leq1$ for every $i\neq
+j$, or if all of the $p_i$'s are equal, then $\ell_{p_1}\hat{\otimes}\cdots
+\hat{\otimes}\ell_{p_N}$ is primary. \medbreak \item{(3)} $\ell_p$ embeds into
+$\ell_{p_1}\hat{\otimes}\cdots \hat{\otimes}\ell_{p_N}$ if and only if there
+exists $A\subset \{1,2,\cdots,n\}$ such that ${1\over p}=\min\{\sum_{i\in
+A}{1\over p_i},1\}$. \medbreak \item{(4)} If $1\leq p<\infty$ and $m\geq1$,
+then the space of homogeneous analytic polynomials ${\cal P}_m(\ell_p)$ and the
+symmetric tensor product of $m$ copies of $\ell_p$ are primary.
+","[{""version"":""v1"",""created"":""Tue, 8 Feb 1994 00:00:00 GMT""}]","2016-09-06"

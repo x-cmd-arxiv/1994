@@ -1,0 +1,200 @@
+"astro-ph/9408020","Ermanno Borra","E.F. Borra","Are BL Lacertae Objects Beamed QSO Remnants?","20pages + 2 figures, uuencoded-compressed-Postscript, EFB0894",,,,"astro-ph",,"  This paper considers the hypothesis that BL Lacertae objects (BLLs) are the
+beamed remnants of Quasi Stellar Objects. The hypothesis explains why BLLs do
+not undergo the strong evolution seen in other active galactic nuclei since it
+naturally predicts that the space density of BLLs should increase with cosmic
+time, as shown by recent observations. Numerical models reproduce, with
+reasonable parameters, the known redshift and magnitude counts of BL Lac
+objects. It is assumed that radio-quiet as well as radio-loud quasars are
+capable of generating jets but that jets are snuffed in young radio-quiet
+objects and only emerge in aged ones. I argue that the observations allow this
+assumption.
+","[{""version"":""v1"",""created"":""Fri, 5 Aug 1994 18:02:42 GMT""}]","2007-05-23"
+"cond-mat/9408023",,"M. Reigrotzki, H. Tsunetsugu, and T.M. Rice","Strong Coupling Expansions for Antiferromagnetic Heisenberg S=1/2
+  Ladders","10 physical pages, uuencoded compressed PostScript file including 12
+  figures, ETH-TH/9422",,"10.1088/0953-8984/6/43/021",,"cond-mat",,"  The properties of antiferromagnetic Heisenberg $S=\frac{1}{2}$ ladders with
+2, 3, and 4 chains are expanded in the ratio of the intra- and interchain
+coupling constants. A simple mapping procedure is introduced to relate the 4
+and 2-chain ladders which holds down to moderate values of the expansion
+parameters. A second order calculation of the spin gap to the lowest triplet
+excitation in the 2- and 4-chain ladders is found to be quite accurate even at
+the isotropic point where the couplings are equal. Similar expansions and
+mapping procedures are presented for the 3-chain ladders which are in the same
+universality class as single chains.
+","[{""version"":""v1"",""created"":""Fri, 5 Aug 1994 18:27:00 GMT""}]","2009-10-22"
+"cond-mat/9408024",,"Hirokazu Tsunetsugu, Matthias Troyer, and T. M. Rice","Singlet Stripe Phases in the planar t-J Model","5 pages, uuencoded compressed PostScript file including 5 figures,
+  ETH-TH/9423","Phys. Rev. B 51, 016456 (1995)","10.1103/PhysRevB.51.16456",,"cond-mat",,"  The energies of singlet stripe phases in which a plane is broken up into spin
+liquid ladders by lines of holes, is examined. If the holes were static then
+patterns containing spin liquids with a finite spin gap are favored. The case
+of dynamic holes is treated by assembling t-J ladders oriented perpendicular to
+the stripes. For a wide region around $J/t \approx 1$ the hole-hole
+correlations in a single ladder are found to be predominantly charge density
+wave type but an attraction between hole pairs on adjacent ladders leads to a
+stripe phase. A quantum mechanical melting of the hole lines at smaller $J/t$
+values leads to a Bose condensate of hole pairs, i.e. a superconducting phase.
+","[{""version"":""v1"",""created"":""Fri, 5 Aug 1994 18:27:00 GMT""}]","2007-05-23"
+"cond-mat/9408025","Frank","Frank Gaitan","Microscopic Analysis of the Non-Dissipative Force on a Line Vortex in a
+  Superconductor: Berry's Phase, Momentum Flows and the Magnus Force","40 pages, RevTex, UBCTP-94-007",,"10.1103/PhysRevB.51.9061",,"cond-mat",,"  A microscopic analysis of the non-dissipative force ${\bf F}_{nd}$ acting on
+a line vortex in a type-II superconductor at $T=0$ is given. We first examine
+the Berry phase induced in the true superconducting ground state by movement of
+the vortex and show how this induces a Wess-Zumino term in the hydrodynamic
+action $S_{hyd}$ of the superconducting condensate. Appropriate variation of
+$S_{hyd}$ gives ${\bf F}_{nd}$ and variation of the Wess-Zumino term is seen to
+contribute the Magnus (lift) force of classical hydrodynamics to ${\bf F}_
+{nd}$. This first calculation confirms and strengthens earlier work by Ao and
+Thouless which was based on an ansatz for the many-body ground state. We also
+determine ${\bf F}_{nd}$ through a microscopic derivation of the continuity
+equation for the condensate linear momentum. This equation yields the
+acceleration equation for the superflow and shows that the vortex acts as a
+sink for the condensate linear momentum. The rate at which momentum is lost to
+the vortex determines ${\bf F}_{nd}$ and the result obtained agrees with the
+Berry phase calculation. The Magnus force contribution to ${\bf F}_{nd}$ is
+seen to be a consequence of the vortex topology. Preliminary remarks are made
+regarding finite temperature extensions, with emphasis on its relevance to the
+sign anomaly occurring in Hall effect experiments done in the flux flow regime.
+","[{""version"":""v1"",""created"":""Fri, 5 Aug 1994 16:26:00 GMT""}]","2009-10-22"
+"cond-mat/9408026","Marco Vekic","M. Vekic, J.W. Cannon, D.J. Scalapino, R.T. Scalettar, and R.L. Sugar","Competition Between Antiferromagnetic Order and Spin-Liquid Behavior in
+  the Two-Dimensional Periodic Anderson Model at Half-Filling","Revtex 3.0, 10 pages + 5 figures, UCSBTH-94-28",,"10.1103/PhysRevLett.74.2367",,"cond-mat",,"  We study the two-dimensional periodic Anderson model at half-filling using
+quantum Monte Carlo (QMC) techniques. The ground state undergoes a magnetic
+order-disorder transition as a function of the effective exchange coupling
+between the conduction and localized bands. Low-lying spin and charge
+excitations are determined using the maximum entropy method to analytically
+continue the QMC data. At finite temperature we find a competition between the
+Kondo effect and antiferromagnetic order which develops in the localized band
+through Ruderman-Kittel-Kasuya-Yosida interactions.
+","[{""version"":""v1"",""created"":""Fri, 5 Aug 1994 18:37:26 GMT""}]","2009-10-22"
+"cond-mat/9408027",,"S.V. Pokrovsky and V.L.Pokrovsky","Plasma Resonance in Layered Normal Metals and Superconductors","34 pages including 12 figures in uuencoded.file. A revised version.
+  Several formulas and a number of misprints are corrected. A problem with
+  printing of figures is fixed",,"10.1007/BF00732262",,"cond-mat",,"  A microscopic theory of the plasma resonance in layered metals is presented.
+It is shown that electron-impurity scattering can suppress the plasma resonance
+in the normal state and sharpen it in the superconducting state. Analytic
+properties of the conductivity for the electronic transport perpendicular to
+the layers are investigated. The dissipative part of the electromagnetic
+response in c-direction has been found to depend on frequency in a highly
+non-trivial manner. This sort of behavior cannot be incorporated in the widely
+used phenomenological Gorter-Kazimir model.
+","[{""version"":""v1"",""created"":""Fri, 5 Aug 1994 23:58:10 GMT""},{""version"":""v2"",""created"":""Tue, 16 Aug 1994 00:32:54 GMT""}]","2009-10-22"
+"hep-lat/9408008","Ray Renken","Ray L. Renken, Simon M. Catterall, and John B. Kogut","Non-Perturbative Renormalization Group Flows in Two-Dimensional Quantum
+  Gravity","17 pages","Phys.Lett. B345 (1995) 422-428","10.1016/0370-2693(94)01602-9",,"hep-lat",,"  Recently a block spin renormalization group approach was proposed for the
+dynamical triangulation formulation of two-dimensional quantum gravity. We use
+this approach to examine non-perturbatively a particular class of higher
+derivative actions for pure gravity.
+","[{""version"":""v1"",""created"":""Fri, 5 Aug 1994 22:37:58 GMT""}]","2009-10-22"
+"hep-ph/9408244","Ernest Ma","T. V. Duong and Ernest Ma","Scalar Mass Bounds in Two Supersymmetric Extended Electroweak Gauge
+  Models","9 pages (6 figures not included), UCRHEP-T128 (July 1994)","J.Phys.G21:159-166,1995","10.1088/0954-3899/21/2/003",,"hep-ph",,"  In two recently proposed supersymmetric extended electroweak gauge models,
+the reduced Higgs sector at the 100-GeV energy scale consists of only two
+doublets, but they have quartic scalar couplings different from those of the
+minimal supersymmetric standard model. In the SU(2) X SU(2) X U(1) model, there
+is an absolute upper bound of about 145 GeV on the mass of the lightest neutral
+scalar boson. In the SU(3) X U(1) model, there is only a parameter-dependent
+upper bound which formally goes to infinity in a particular limit
+","[{""version"":""v1"",""created"":""Fri, 5 Aug 1994 17:14:04 GMT""}]","2011-07-19"
+"hep-ph/9408245","Anne Billups","A.H. Nueller","Unitarity and the BFKL Pomeron","25 pages,report CU-TP-640","Nucl.Phys. B437 (1995) 107-126","10.1016/0550-3213(94)00480-3",,"hep-ph",,"  {\narrower\smallskip High Energy onium-onium scattering is calculated as a
+function of impact parameter in the one and two pomeron exchange approximation.
+Difficulties with using the multiple scattering series to unitarize single
+pomeron exchange at high energy are noted. An operator formalsim which sums all
+numbers of pomeron exchange is given. A toy model which has a similar operator
+structure at high energy as QCD is presented and the S-matrix is evaluated.
+Estimates of the energies and impact parameters at which blackness occurs in
+onium-onium scattering are given. It is emphased that the problem of unitarity
+in high energy onium-onium scattering can be solved in a purely perturbative
+context, with a non-running coupling if the onium is heavy enough.\smallskip}
+","[{""version"":""v1"",""created"":""Fri, 5 Aug 1994 18:15:41 GMT""}]","2009-10-28"
+"hep-ph/9408246","Jon Engel","V. Dimitrov, J. Engel, and S. Pittel","Scatttering of Weakly Interacting Massive Particles from Ge73","8 pages in RevTeX 3 plus 2 uuencoded figures, submitted to Phys. Rev.
+  D","Phys.Rev.D51:291-295,1995","10.1103/PhysRevD.51.291",,"hep-ph nucl-th",,"  We use a ""hybrid"" method, mixing variationally-determined triaxial nuclear
+Slater determinants, to calculate the response of Ge73 to hypothetical
+dark-matter particles such as neutralinos. The method is a hybrid in that
+rotational invariance is approximately restored prior to variation and then
+fully restored before the mixing of intrinsic states. We discuss such features
+of Ge73 as shape coexistence and triaxiality, and their effects on
+spin-dependent neutralino cross sections. Our calculations yield a satisfactory
+quadrupole moment and an accurate magnetic moment in this very complicated
+nucleus, suggesting that the spin structure and thus the axial--vector response
+to dark matter particles is modeled well.
+","[{""version"":""v1"",""created"":""Fri, 5 Aug 1994 20:43:03 GMT""}]","2010-01-06"
+"hep-ph/9408247","Andrei Linde","V.V.Kopenkin, A.K.Managadze, I.V.Rakobolskaya, T.M.Roganova","Alignment in Gamma-Hadron Families of Cosmic Rays","15 pages, 2 tables, 6 figures (not included), Stanford University
+  preprint SU-ITP-94-25","Phys. Rev. D 52, 2766 (1995)","10.1103/PhysRevD.52.2766",,"hep-ph hep-th nucl-th",,"  Alignment of main fluxes of energy in a target plane is found in families of
+cosmic ray particles detected in deep lead X-ray chambers. The fraction of
+events with alignment is unexpectedly large for families with high energy and
+large number of hadrons. This can be considered as evidence for the existence
+of coplanar scattering of secondary particles in interaction of particles with
+superhigh energy, $E_0 > 10^{16}$ eV. Data analysis suggests that production of
+most aligned groups occurs low above the chamber and is characterized by a
+coplanar scattering and quasiscaling spectrum of secondaries in the
+fragmentation region. The most elaborated hypothesis for explanation of
+alignment is related to the quark-gluon string rupture. However, the problem of
+theoretical interpretation of our results still remains open.
+","[{""version"":""v1"",""created"":""Sat, 6 Aug 1994 00:22:54 GMT""}]","2016-08-24"
+"hep-th/9408034",,"O. A. Soloviev","Solutions of the Master Virasoro Equations as Conformal Points of
+  Perturbed WZNW Model","LaTex file, 11 pages, QMW 94-24",,,,"hep-th",,"  It is shown that the master equation of the affine-Virasoro construction on
+the unitary affine algebra naturally emerges in the fusion algebra of the
+nonunitary level $k$ WZNW model. Operators corresponding to solutions of the
+master equation are suitable for performing one-parametrical renormalizable
+perturbation around the given conformal nonunitary WZNW model. In the large
+$|k|$ limit, the infrared fixed point of the renormalization group beta
+function is found. There are as many infrared conformal points as
+$\frac{1}{2}N(N+1)$, where $N$ is the total number of solutions of the master
+equation.
+","[{""version"":""v1"",""created"":""Fri, 5 Aug 1994 17:07:06 GMT""}]","2007-05-23"
+"hep-th/9408035",,"L. Bonora, Q.P. Liu and C.S. Xiong","The integrable hierarchy constructed from a pair of KdV-type hierarchies
+  and its associated $W$ algebra","26p, latex, BONN--TH-94-17, SISSA-ISAS-118/94/EP, AS-ITP-94-43,
+  revised version with additions","Commun.Math.Phys. 175 (1996) 177-202","10.1007/BF02101629",,"hep-th",,"  For any two arbitrary positive integers `$n$' and `$m$', using the $m$--th
+KdV hierarchy and the $(n+m)$--th KdV hierarchy as building blocks, we are able
+to construct another integrable hierarchy (referred to as the $(n,m)$--th KdV
+hierarchy). The $W$--algebra associated to the \shs\, of the $(n,m)$--th KdV
+hierarchy (called $W(n,m)$ algebra) is isomorphic via a Miura map to the direct
+sum of $W_m$--algebra, $W_{n+m}$--algebra and an additional $U(1)$ current
+algebra. In turn, from the latter, we can always construct a representation of
+$W_\infty$--algebra.
+","[{""version"":""v1"",""created"":""Fri, 5 Aug 1994 17:37:41 GMT""},{""version"":""v2"",""created"":""Mon, 8 Aug 1994 15:26:04 GMT""},{""version"":""v3"",""created"":""Tue, 13 Sep 1994 15:53:13 GMT""}]","2009-10-28"
+"hep-th/9408036","Anna Ceresole","A. Ceresole, R. D'Auria and S. Ferrara","On the Geometry of Moduli Space of Vacua in N=2 Supersymmetric
+  Yang-Mills Theory","10 pgs (TeX with harvmac), POLFIS-TH.07/94, CERN-TH.7384/94","Phys.Lett. B339 (1994) 71-76","10.1016/0370-2693(94)91134-7",,"hep-th",,"  We consider generic properties of the moduli space of vacua in $N=2$
+supersymmetric Yang--Mills theory recently studied by Seiberg and Witten. We
+find, on general grounds, Picard--Fuchs type of differential equations
+expressing the existence of a flat holomorphic connection, which for one
+parameter (i.e. for gauge group $G=SU(2)$), are second order equations. In the
+case of coupling to gravity (as in string theory), where also ``gravitational''
+electric and magnetic monopoles are present, the electric--magnetic S duality,
+due to quantum corrections, does not seem any longer to be related to
+$Sl(2,\mathbb{Z})$ as for $N=4$ supersymmetric theory.
+","[{""version"":""v1"",""created"":""Fri, 5 Aug 1994 20:18:56 GMT""}]","2017-09-07"
+"hep-th/9408037","Elizabeth Jurisich","Elizabeth Jurisich, James Lepowsky and R. L. Wilson","Realizations of the Monster Lie algebra","32 pages",,,,"hep-th math.QA",,"  We study aspects of the theory of generalized Kac-Moody Lie algebras (or
+Borcherds algebras) and their standard modules. It is shown how such an algebra
+with no mutually orthogonal imaginary simple roots, including Borcherds'
+Monster Lie algebra $\frak m$, can be naturally constructed from a certain
+Kac-Moody subalgebra and a module for it. We observe that certain generalized
+Verma (induced) modules for generalized Kac-Moody algebras are standard modules
+and hence irreducible. In particular, starting from the moonshine module for
+the Monster group $M$, we construct a certain $\{frak gl}_2$- and $M$-module,
+the tensor algebra over which carries a natural structure of irreducible module
+for $\frak m$, which is realized as an explicitly prescribed $M$-covariant Lie
+algebra of operators on this tensor algebra. The existence of large free
+subalgebras of $\frak m$ is further exploited to provide a simplification of
+Borcherds' proof of the Conway-Norton conjectures for the McKay-Thompson series
+of the moonshine module. The coefficients of these series are shown to satisfy
+natural recursion relations (replication formulas) equivalent to, but different
+from, those obtained by Borcherds.
+","[{""version"":""v1"",""created"":""Fri, 5 Aug 1994 19:52:06 GMT""}]","2008-02-03"
+"hep-th/9408038",,"R. Amorim and J. Barcelos-Neto","BFT Quantization of Chiral-Boson Theories","24 pages, IF-UFRJ-20/94","Phys.Rev. D53 (1996) 7129-7137","10.1103/PhysRevD.53.7129",,"hep-th",,"  We use the method due to Batalin, Fradkin and Tyutin (BFT) for the
+quantization of chiral boson theories. We consider the Floreanini-Jackiw (FJ)
+formulation as well as others with linear constraints.
+","[{""version"":""v1"",""created"":""Fri, 5 Aug 1994 19:59:07 GMT""}]","2009-10-28"
+"hep-th/9408039",,"E. Keski-Vakkuri, G. Lifschytz, S.D. Mathur and M.E. Ortiz","Breakdown of the semiclassical approximation at the black hole horizon","Latex, 31 pages + 5 uuencoded figures","Phys.Rev.D51:1764-1780,1995","10.1103/PhysRevD.51.1764",,"hep-th gr-qc",,"  The definition of matter states on spacelike hypersurfaces of a 1+1
+dimensional black hole spacetime is considered. The effect of small quantum
+fluctuations of the mass of the black hole due to the quantum nature of the
+infalling matter is taken into account. It is then shown that the usual
+approximation of treating the gravitational field as a classical background on
+which matter is quantized, breaks down near the black hole horizon.
+Specifically, on any hypersurface that captures both infalling matter near the
+horizon and Hawking radiation, quantum fluctuations in the background geometry
+become important, and a semiclassical calculation is inconsistent. An estimate
+of the size of correlations between the matter and gravity states shows that
+they are so strong that a fluctuation in the black hole mass of order
+exp[-M/M_{Planck}] produces a macroscopic change in the matter state.
+","[{""version"":""v1"",""created"":""Fri, 5 Aug 1994 22:17:06 GMT""},{""version"":""v2"",""created"":""Sat, 6 Aug 1994 22:16:33 GMT""}]","2010-11-01"
+"hep-th/9408040","Arkady Tseytlin","G.T. Horowitz and A.A. Tseytlin","Extremal black holes as exact string solutions","13 pages, harvmac, Imperial/TP/93-94/51, UCSBTH-94-24 (references
+  added)","Phys.Rev.Lett.73:3351-3354,1994","10.1103/PhysRevLett.73.3351",,"hep-th gr-qc",,"  We show that the leading order solution describing an extremal electrically
+charged black hole in string theory is, in fact, an exact solution to all
+orders in $\a'$ when interpreted in a Kaluza-Klein fashion. This follows from
+the observation that it can be obtained via dimensional reduction from a five
+dimensional background which is proved to be an exact string solution.
+","[{""version"":""v1"",""created"":""Sat, 6 Aug 1994 07:32:13 GMT""},{""version"":""v2"",""created"":""Wed, 17 Aug 1994 07:16:13 GMT""}]","2009-09-17"

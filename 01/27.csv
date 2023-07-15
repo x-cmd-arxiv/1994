@@ -1,0 +1,235 @@
+"comp-gas/9401001","Xiaowen Shan","Xiaowen Shan (CNLS, LANL) and Hudong Chen (Dartmouth College)","Simulation of non-ideal gases and liquid-gas phase transitions by
+  lattice Boltzmann equation","24 pages, compressed and uuencoded PS file, Figures included",,"10.1103/PhysRevE.49.2941",,"comp-gas nlin.CG",,"  We describe in detail a recently proposed lattice-Boltzmann model for
+simulating flows with multiple phases and components. In particular, the focus
+is on the modeling of one-component fluid systems which obey non-ideal gas
+equations of state and can undergo a liquid-gas type phase transition. The
+model is shown to be momentum-conserving. From the microscopic mechanical
+stability condition, the densities in bulk liquid and gas phases are obtained
+as functions of a temperature-like parameter. Comparisons with the
+thermodynamic theory of phase transition show that the LBE model can be made to
+correspond exactly to an isothermal process. The density profile in the
+liquid-gas interface is also obtained as function of the temperature-like
+parameter and is shown to be isotropic. The surface tension, which can be
+changed independently, is calculated. The analytical conclusions are verified
+by numerical simulations. (To appear in Phys. Rev. E)
+","[{""version"":""v1"",""created"":""Wed, 26 Jan 1994 18:35:48 GMT""}]","2009-10-22"
+"cond-mat/9401059","Zhang Guang Ming","G. M. Zhang, Z. B. Su, and L. Yu","Asymptotically exact solution of the multi-channel resonant-level model","11 pages, one postscript (attached), to appear in Phys. Rev. B",,"10.1103/PhysRevB.49.7759",,"cond-mat",,"  An asymptotically exact partition function of the multi-channel
+resonant-level model is obtained through Tomonaga-Luttinger bosonization. A
+Fermi-liquid vs non-Fermi-liquid transition, resulting from a competition
+between the Kondo and X-ray edge physics, is elucidated explicitly via the
+renormalization group theory. In the strong-coupling limit, the model is
+renormalized to the Toulouse limit.
+","[{""version"":""v1"",""created"":""Wed, 26 Jan 1994 17:57:51 GMT""}]","2009-10-22"
+"cond-mat/9401060","Jose Riera","Jose A. Riera and Elbio Dagotto","Optical conductivity of the Hubbard model at finite temperature","12 pages, 3 figures appended, Revtex version 2.0, preprint",,"10.1103/PhysRevB.50.452",,"cond-mat",,"  The optical conductivity, $\sigma(\omega)$, of the two dimensional one-band
+Hubbard model is calculated at finite temperature using exact diagonalization
+techniques on finite clusters. The in-plane d.c. resistivity, $\rho_{ab}$, is
+also evaluated. We find that at large U/t and temperature T, $\rho_{ab}$ is
+approximately linear with temperature, in reasonable agreement with experiments
+on high-T$_c$ superconductors. Moreover, we note that $\sigma(\omega)$ displays
+charge excitations, a mid-infrared (MIR) band and a Drude peak, also as
+observed experimentally. The combination of the Drude peak and the MIR
+oscillator strengths leads to a conductivity that decays slower than
+$1/\omega^2$ at energies smaller than the insulator gap near half-filling.
+","[{""version"":""v1"",""created"":""Wed, 26 Jan 1994 18:55:21 GMT""}]","2009-10-22"
+"cond-mat/9401061","Hao Li","Hao Li, Thomas C. Halsey, and Alexander Lobkovsky (The James Franck
+  Institute and Department of Physics, University of Chicago)","Singular Shape of a Fluid Drop in an Electric or Magnetic Field","10 pages, Plain TeX, 3 postscript figures available on request via
+  email",,"10.1209/0295-5075/27/8/004",,"cond-mat",,"  Beyond a threshold, electric or magnetic fields cause a dielectric or
+ferromagnetic fluid drop respectively to develop conical tips. We analyze the
+appearance of the conical tips and the associated shape transition of the drop
+using a local force balance as well as a global energy argument. We find that a
+conical interface is possible only when the dielectric constant (or
+permeability) of the fluid exceeds a critical value $\epsilon_c=17.59$. For a
+fluid with $\epsilon>\epsilon_c$, a conical interface is possible at two
+angles, one stable and one unstable. We calculate the critical field required
+to sustain a drop with stable conical tips. Such a drop is energetically
+favored at sufficiently high field. Our results also apply to the formation of
+conical dimples when a pool of fluid is placed in a normal field.
+","[{""version"":""v1"",""created"":""Wed, 26 Jan 1994 20:46:52 GMT""}]","2009-10-22"
+"cond-mat/9401062","Lech Borkowski","L.S. Borkowski and P.J. Hirschfeld","Low Temperature Properties of Anisotropic Superconductors with Kondo
+  Impurities","21 pages, RevTeX 3.0, 12 figures available upon request, UF preprint",,"10.1007/BF00752405",,"cond-mat",,"  We present a self-consistent theory of superconductors in the presence of
+Kondo impurities, using large-$N$ slave-boson methods to treat the impurity
+dynamics. The technique is tested on the s-wave case and shown to give good
+results compared to other methods for $T_K > T_c$. We calculate low temperature
+thermodynamic and transport properties for various superconducting states,
+including isotropic s-wave and representative anisotropic model states with
+line and point nodes on the Fermi surface.
+","[{""version"":""v1"",""created"":""Wed, 26 Jan 1994 21:13:36 GMT""},{""version"":""v2"",""created"":""Thu, 27 Jan 1994 21:42:26 GMT""}]","2009-10-22"
+"cond-mat/9401063","Peter Rehberg","Werner Kerler and Peter Rehberg","Cluster mechanisms in the fully frustrated Ising model","17 pages (latex), 14 figures (sorry, not included); to appear in
+  Physical Review B",,"10.1103/PhysRevB.49.9688",,"cond-mat hep-lat",,"  The cluster algorithm in the fully frustrated Ising model on the square
+lattice is essentially different from the ones used in other systems. Thus its
+better understanding is particularly important for finding new lines of
+development. Therefore we investigate it in detail. In our simulations of high
+statistics more appropriate choices of the probability for freezing bonds and
+of that for flipping spins are seen to lead to better results. In an analysis
+of the topological properties we derive a set of rules for possible cluster
+configurations and give a classification by pairs of winding numbers.
+","[{""version"":""v1"",""created"":""Thu, 27 Jan 1994 13:50:27 GMT""}]","2009-10-22"
+"gr-qc/9401032","Hans Kastrup","H.A. Kastrup and T. Thiemann","Spherically Symmetric Gravity as a Completely Integrable System","20.p., Latex, PITHA 93-35","Nucl.Phys.B425:665-686,1994","10.1016/0550-3213(94)90293-3",,"gr-qc hep-th",,"  It is shown - in Ashtekar's canonical framework of General Relativity - that
+spherically symmetric (Schwarzschild) gravity in 4 dimensional space-time
+constitutes a finite dimensional completely integrable system. Canonically
+conjugate observables for asymptotically flat space-times are masses as action
+variables and - surprisingly - time variables as angle variables, each of which
+is associated with an asymptotic ""end"" of the Cauchy surfaces. The emergence of
+the time observable is a consequence of the Hamiltonian formulation and its
+subtleties concerning the slicing of space and time and is not in contradiction
+to Birkhoff's theorem. The results are of interest as to the concept of time in
+General Relativity. They can be formulated within the ADM formalism, too.
+Quantization of the system and the associated Schr\""odinger equation depend on
+the allowed spectrum of the masses.
+","[{""version"":""v1"",""created"":""Thu, 27 Jan 1994 13:23:28 GMT""}]","2010-11-01"
+"hep-lat/9401032","The Boss and Band","V.Azcoiti, G. Di Carlo, A. Galante, A.F. Grillo and V. Laliena","The Schwinger Model on the lattice in the Microcanonical Fermionic
+  Average approach","TeX file, 7 pages + 3 figures in Postscript","Phys.Rev. D50 (1994) 6994-6997","10.1103/PhysRevD.50.6994","INFN-LNF preprint 94/009(P)","hep-lat",,"  The Microcanonical Fermionic Average method has been used so far in the
+context of lattice models with phase transitions at finite coupling. To test
+its applicability to Asymptotically Free theories, we have implemented it in
+QED$_2$, \it i.e.\rm the Schwinger Model. We exploit the possibility, intrinsic
+to this method, of studying the whole $\beta, m$ plane at negligible computer
+cost, to follow constant physics trajectories and measure the $m \to 0$ limit
+of the chiral condensate. We recover the continuum result within 3 decimal
+places.
+","[{""version"":""v1"",""created"":""Thu, 27 Jan 1994 08:10:05 GMT""}]","2009-10-22"
+"hep-lat/9401033",,"She-Sheng Xue and Giuliano Preparata","The Mass Ratio Between Neutrinos and Charged Leptons","8 pages + 3 figures","Nuovo Cim.A110:135-142,1997","10.1007/BF03185552","MITH 93/16","hep-lat hep-ph",,"  In the framework of the recently proposed electroweak theory on a Planck
+lattice, we are able to solve approximately the lattice Dyson equation for the
+fermion self-energy functions and show that the large difference of charged
+lepton and neutrino masses is caused by their very different gauge couplings.
+The predicted mass ratio ($10^{-5}\sim 10^{-6}$) between neutrinos and charged
+lepton is compatible with present experiments.
+","[{""version"":""v1"",""created"":""Thu, 27 Jan 1994 15:29:08 GMT""}]","2022-03-02"
+"hep-ph/9401337","Q. Shafi","G. Dvali and Q. Shafi","Gauge Hierarchy in ${\bf SU(3)_c \times SU(3)_L \times SU(3)_R}$ and Low
+  Energy Implication","LaTEX file, 16 pages, (Bartol Preprint BA-93-47)","Phys.Lett.B326:258-263,1994","10.1016/0370-2693(94)91319-6",,"hep-ph",,"  We explore the gauge hierarchy problem within the framework of supersymmetric
+$SU(3)_c \times SU(3)_L \times SU(3)_R$ with a minimal set of higgs
+supermultiplets. Imposition of a suitable discrete (alternatively $R$) symmetry
+`prevents' the electroweak higgs doublets from becoming superheavy through
+renormalizable couplings. A full resolution of the problem requires
+consideration of the non-renormalizable couplings which play an essential role.
+Other key differences from the minimal supersymmetric $SU(5)$ model include the
+fact that the proton is stable and that an effective $5 + \bar{5}$
+supermultiplet appears around the $TeV$ mass scale.
+","[{""version"":""v1"",""created"":""Wed, 26 Jan 1994 20:45:36 GMT""}]","2011-05-12"
+"hep-ph/9401338","Alexandre Rozanov","V.A. Novikov, L.B. Okun, A.N. Rozanov, M.I. Vysotsky and V.P. Yurov","The Values of $m_t$ and $\bar{\alpha_s}$ Derived from the
+  Non-Observation of Electroweak Radiative Corrections at LEP: Global Fit","LaTex, 15 pages (including 3 figures as EPS files at the end)","Phys.Lett. B331 (1994) 433-440","10.1016/0370-2693(94)91076-6","preprint CERN-TH.7137/94","hep-ph",,"  A set of equations representing the $W/Z$ mass ratio and various observables
+of $Z$ decays in terms of $\bar\alpha \equiv\alpha (m_Z)$, $G_{\mu}$, $m_Z$,
+$m_t$, $m_H$, $\bar\alpha_{s} \equiv\alpha_{s} (m_Z)$, $m_b$ and $m_\tau$ (all
+other fermion masses being neglected) are compared with the latest data of the
+four LEP detectors, which at the level of one standard deviation coincide with
+their Born values. Our global fit gives: $m_t = 161^{+ 15 +16}_{-16 -22}
+\bar\alpha_{s} = 0.119 \pm 0.006 \pm 0.002$, where the central values
+correspond to $m_H = 300$ GeV, the first errors are statistical and the second
+ones represent shifts of the central values corresponding to $m_H = 1000$
+GeV($+$) and 60 GeV($-$). The predicted mass of the top is smaller than in the
+recent fits by 4 GeV. The {\it predicted} values of $m_W/m_Z$ and the LEP
+observables, based on the fitted values of $m_t$ and $\bar{\alpha}_s$, show a
+weak dependence on $m_H$ and differ by several {\it predicted} standard
+deviations from the corresponding Born values. The uncertainties of the
+predicted values and their deviations from the corresponding Born values
+determine the experimental accuracy required to observe electroweak radiative
+corrections.
+","[{""version"":""v1"",""created"":""Wed, 26 Jan 1994 22:35:42 GMT""},{""version"":""v2"",""created"":""Thu, 27 Jan 1994 20:33:05 GMT""}]","2009-10-28"
+"hep-ph/9401339","Kiselev","V.V. Kiselev","Scaling law for the $\Upsilon(4S) \to B \bar B$ and $\psi(3770) \to D
+  \bar D$ decay constants from effective sum rules","14 pages, 1 Fig., Standard LATEX","Mod.Phys.Lett.A10:2113-2124,1995","10.1142/S021773239500226X","IHEP 94-3 (Protvino1994)","hep-ph",,"  Sum rules for exclusive production of heavy meson pairs in $e^+e^-$
+annihilation are used to evaluate the $\Upsilon(4S) \to B \bar B$ and
+$\psi(3770) \to D \bar D$ decay widths. Infinitely heavy quark limit is
+discussed, so that scaling law for the quarkonium-meson coupling constant is
+derived. A value of the $B\bar B$ pair contribution into the leptonic constant
+$f_{\Upsilon(4S)}$ is estimated.
+","[{""version"":""v1"",""created"":""Thu, 27 Jan 1994 07:19:23 GMT""}]","2011-07-19"
+"hep-ph/9401340",,"Zenr\=o Hioki","Non-trivial Test of Electroweak Quantum Effects","7 pages","Phys.Lett. B340 (1994) 181-184","10.1016/0370-2693(94)01357-8","TOKUSHIMA 94-01","hep-ph",,"  Based on recent $W$-mass measurements, the electroweak theory is tested at
+non-trivial quantum correction level, i.e., beyond the Born approximation with
+$\alpha(M_Z)$ instead of $\alpha$. We can conclude that some non-Born type
+corrections must exist at more than 92 % confidence level, and the
+non-decoupling top-quark corrections are required at 97 % confidence level.
+","[{""version"":""v1"",""created"":""Thu, 27 Jan 1994 08:46:11 GMT""},{""version"":""v2"",""created"":""Mon, 31 Jan 1994 03:12:17 GMT""}]","2009-10-28"
+"hep-ph/9401341",,"Abdellatif Abada","The Isospin Independent Spin-Orbit Force in the Extended Skyrme Model","7 pages of plain Latex and 1 figure (available from the author),
+  preprint LPN 94-01",,,,"hep-ph",,"  By using the product ansatz as an approximation for the two-baryon system we
+investigate the isoscalar nucleon-nucleon spin-orbit potential in an extended
+Skyrme model including both fourth- and sixth-order terms. As it is the case
+for the Skyrme model, we still obtain the wrong sign for this interaction.
+Nevertheless, concerning the order of magnitude, the extended Skyrme model
+provides a better agreement with phenomenological potentials, as compared to
+the standard one.
+","[{""version"":""v1"",""created"":""Wed, 26 Jan 1994 21:47:02 GMT""},{""version"":""v2"",""created"":""Wed, 16 Feb 1994 10:23:44 GMT""}]","2009-09-25"
+"hep-ph/9401344",,"A. Mishra and H. Mishra, P.K. Panda and S.P. Misra","Gluon Condensates, Quark Matter Equation of State and Quark Stars","26 Pages, 6 Figure page, RevTex, IP/BBSR/94-1","Z.Phys. C63 (1994) 681-688","10.1007/BF01557635",,"hep-ph nucl-th",,"  We consider here quark matter equation of state including strange quarks and
+taking into account a nontrivial vacuum structure for QCD with gluon
+condensates. The parameters of condendsate function are determined from
+minimisation of the thermodynamic potential. The scale parameter of the gluon
+condensates is fixed from the SVZ parameter in the context of QCD sum rules at
+zero temperature and zero baryon density. The equation of state for strange
+matter at zero temperature as derived is used to study quark star structure
+using Tolman Oppenheimer Volkoff equations. Stable solutions for quark stars
+are obtained with a large Chandrasekhar limit as 3.2 $M_\odot$ and radii around
+17 kms.
+","[{""version"":""v1"",""created"":""Wed, 26 Jan 1994 21:28:16 GMT""}]","2009-10-28"
+"hep-th/9401122",,"Kyung-Hyun Cho and Chaiho Rim","Abelian Chern-Simons field theory and anyon equation on a cylinder","20pages, REVTEX","J.Korean Phys.Soc. 27 (1994) 461-468",,"SNUTP-94-10","hep-th",,"  We present the anyon equation on a cylinder and in an infinite potential wall
+from the abelian Chern-Simons theory coupled to non-relativistic matter field
+by obtaining the effective hamiltonian through the canonical transformation
+method used for the theory on a plane and on a torus. We also give the periodic
+property of the theory on the cylinder.
+","[{""version"":""v1"",""created"":""Wed, 26 Jan 1994 21:02:48 GMT""}]","2007-05-23"
+"hep-th/9401126","Paul F. Mende","Paul F. Mende","High Energy String Collisions in a Compact Space","14 pages (phyzzx), Brown HET-929","Phys.Lett. B326 (1994) 216-222","10.1016/0370-2693(94)91313-7",,"hep-th",,"  When high energy strings scatter at fixed angle, their amplitudes
+characteristically fall off exponentially with energy, ${\cal A} \sim \exp(-s
+\times const.)$. We show that in a compact space this suppression disappears
+for certain kinematic configurations. Amplitudes are power-law behaved and
+therefore greatly enhanced. In spacetime this corresponds to fixed-angle
+scattering, with fixed transfer in the compact dimensions. On the worldsheet
+this process is described by a stationary configuration of effective charges
+and vortices with vanishing total energy. It is worldsheet duality---and not
+spacetime duality---that plays a role.
+","[{""version"":""v1"",""created"":""Wed, 26 Jan 1994 20:11:09 GMT""}]","2009-10-28"
+"hep-th/9401130","Piunikhine Serquei","Sergey Piunikhin","Quantum and Floer cohomology have the same ring structure","62 pages",,,"MIT-MATH 94-01","hep-th math.AG",,"  The action of the total cohomology $H^*(M)$ of the almost Kahler manifold $M$
+on its Floer cohomology, int roduced originally by Floer, gives a new ring
+structure on $H^*(M)$. We prove that the total cohomology space $H^* (M)$,
+provided with this new ring structure, is isomorphic to the quantum cohomology
+ring. As a special case, we prove the the formula for the Floer cohomology ring
+of the complex grassmanians conjectured by Vafa and Witten.
+","[{""version"":""v1"",""created"":""Wed, 26 Jan 1994 17:38:44 GMT""},{""version"":""v2"",""created"":""Sat, 5 Feb 1994 19:22:55 GMT""},{""version"":""v3"",""created"":""Wed, 25 May 1994 15:14:38 GMT""}]","2008-02-03"
+"hep-th/9401131","Simon Frederick Ross","S.F. Ross","Pair production of black holes in a $U(1) \otimes U(1)$ theory","17 pages, REVTeX, DAMTP/R-94/3. Revised to take account of referee's
+  suggestions. Several typos corrected","Phys.Rev.D49:6599-6605,1994","10.1103/PhysRevD.49.6599",,"hep-th gr-qc",,"  Charged dilaton black hole solutions have recently been found for an action
+with two $U(1)$ gauge fields and a dilaton field. I investigate new exact
+solutions of this theory analogous to the C-metric and Ernst solutions of
+classical general relativity. The parameters in the latter solution may be
+restricted so that it has a smooth Euclidean section with topology $S^2 \times
+S^2 - \{pt\}$, which gives an instanton describing pair production of the
+charged dilaton black holes. These instantons generalise those found recently
+by Dowker {\it et al}.
+","[{""version"":""v1"",""created"":""Wed, 26 Jan 1994 18:05:00 GMT""},{""version"":""v2"",""created"":""Mon, 21 Mar 1994 12:02:09 GMT""}]","2014-11-18"
+"hep-th/9401133","Julie Blum","Julie D. Blum","Supersymmetric Quantum Mechanics of Monopoles in N=4 Yang-Mills Theory","11 pages, requires harvmac.tex, EFI-94-04","Phys.Lett.B333:92-97,1994","10.1016/0370-2693(94)91012-X",,"hep-th",,"  A supersymmetric collective coordinate expansion of the monopole solution of
+$N=4$ Yang-Mills theory is performed resulting in an $N=4$ supersymmetric
+quantum mechanics on the moduli space of monopole solutions.
+","[{""version"":""v1"",""created"":""Wed, 26 Jan 1994 22:00:19 GMT""}]","2009-08-18"
+"hep-th/9401134","Miao Li","Miao Li and Chung-I Tan","High energy scattering in 2+1 QCD","20 pages, references added","Phys. Rev. D 50, 1140 (1994)","10.1103/PhysRevD.50.1140",,"hep-th hep-ph",,"  High energy scattering in 2+1 QCD is studied using the recent approach of
+Verlinde and Verlinde. We calculate the color singlet part of the quark-quark
+scattering exactly within this approach, and discuss some physical implication
+of this result. We also demonstrate, by two independent methods, that
+reggeization fails for the color singlet channel. We briefly comment on the
+problem in 3+1 QCD.
+","[{""version"":""v1"",""created"":""Wed, 26 Jan 1994 22:15:16 GMT""},{""version"":""v2"",""created"":""Sun, 6 Feb 1994 02:34:20 GMT""}]","2013-11-13"
+"hep-th/9401135","Ulf Danielsson","Ulf H. Danielsson","Two-Dimensional String Theory, Topological Field Theories and the
+  Deformed Matrix Model","20 pages, Latex CERN-TH.7155. Minor typos corrected","Nucl.Phys. B425 (1994) 261-276","10.1016/0550-3213(94)90180-5",,"hep-th",,"  In this paper the $c=1$ string theory is studied from the point of view of
+topological field theories. Calculations are done for arbitrary genus. A change
+in the prescription is proposed, which reproduces the results of the $1/x^2$
+deformed matrix model. It is proposed that the deformed matrix model is related
+to a D-series Landau-Ginzburg superpotential.
+","[{""version"":""v1"",""created"":""Thu, 27 Jan 1994 15:14:19 GMT""},{""version"":""v2"",""created"":""Sun, 6 Feb 1994 15:33:36 GMT""}]","2009-10-28"
+"hep-th/9401136",,"N.A.Papadopoulos, J.Plass, F.Scheck","Models of Electroweak Interactions in Non-Commutative Geometry: A
+  Comparison","9p, MZ-TH/93-26","Phys.Lett. B324 (1994) 380-386","10.1016/0370-2693(94)90210-0",,"hep-th",,"  Alain Connes' construction of the standard model is based on a generalized
+Dirac-Yukawa operator and the K-cycle $(\HD ,D)$, with $\HD$ a fermionic
+Hilbert space. If this construction is reformulated at the level of the
+differential algebra then a direct comparison with the alternative approach by
+the Marseille-Mainz group becomes possible. We do this for the case of the toy
+model based on the structure group $U(1)\times U(1)$ and for the $SU(2)\times
+U(1)$ of electroweak interactions. Connes' results are recovered without the
+somewhat disturbing $\gamma_{5}$-factors in the fermion mass terms and Yukawa
+couplings. We discuss both constructions in the same framework and, in
+particular, pinpoint the origin of the difference in the Higgs potential
+obtained by them.
+","[{""version"":""v1"",""created"":""Thu, 27 Jan 1994 14:18:56 GMT""}]","2009-10-28"
+"hep-th/9401137",,"J. Ambjorn, B. Durhuus and T. Jonsson","A Solvable 2D Quantum Gravity Model with $\GAMMA >0$","Latex, 9 pages, NBI-HE-94-02","Mod.Phys.Lett. A9 (1994) 1221-1228","10.1142/S0217732394001040",,"hep-th",,"  We consider a model of discretized 2d gravity interacting with Ising spins
+where phase boundaries are restricted to have minimal length and show
+analytically that the critical exponent $\gamma= 1/3$ at the spin transition
+point. The model captures the numerically observed behavior of standard
+multiple Ising spins coupled to 2d gravity.
+","[{""version"":""v1"",""created"":""Thu, 27 Jan 1994 14:27:45 GMT""}]","2015-06-26"
+"hep-th/9401138",,"Ashok Das","A New Class of Supersymmetric Theories","9 pages",,"10.1142/9789812831408_0009","UR-1339, ER40685-788","hep-th hep-ph",,"  We construct a class of quantum mechanical theories which are invariant under
+fermionic transformations similar to supersymmetry transformations. The
+generators of the transformations in this case, however, satisfy a BRST-like
+algebra.
+","[{""version"":""v1"",""created"":""Thu, 27 Jan 1994 15:55:23 GMT""}]","2016-11-03"

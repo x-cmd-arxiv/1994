@@ -1,0 +1,225 @@
+"alg-geom/9408002","Luca Barbieri-Viale","Luca Barbieri-Viale","${\cal H}$-cohomologies versus algebraic cycles","51 pages, LaTeX 2.09","Math. Nachr. 184 (1997), 5-57",,,"alg-geom math.AG",,"  Global intersection theories for smooth algebraic varieties via products in
+{\it appropriate}\, Poincar\'e duality theories are obtained. We assume given a
+(twisted) cohomology theory $H^*$ having a cup product structure and we let
+consider the ${\cal H}$-cohomology functor $X\leadsto H^{\#}_{Zar}(X,{\cal
+H}^*)$ where ${\cal H}^*$ is the Zariski sheaf associated to $H^*$. We show
+that the ${\cal H}$-cohomology rings generalize the classical ``intersection
+rings'' obtained via rational or algebraic equivalences. Several basic
+properties e.g.\, Gysin maps, projection formula and projective bundle
+decomposition, of ${\cal H}$-cohomology are obtained. We therefore obtain, for
+$X$ smooth, Chern classes $c_{p,i} : K_i(X) \to H^{p-i}(X,{\cal H}^p)$ from the
+Quillen $K$-theory to ${\cal H}$-cohomologies according with Gillet and
+Grothendieck. We finally obtain the ``blow-up formula'' $$H^p(X',{\cal H}^q)
+\cong H^p(X,{\cal H}^q)\oplus \bigoplus_{i=0}^{c-2} H^{p-1-i}(Z,{\cal
+H}^{q-1-i})$$ where $X'$ is the blow-up of $X$ smooth, along a closed smooth
+subset $Z$ of pure codimension $c$. Singular cohomology of associated analityc
+space, \'etale cohomology, de Rham and Deligne-Beilinson cohomologies are
+examples for this setting.
+","[{""version"":""v1"",""created"":""Mon, 8 Aug 1994 14:29:25 GMT""}]","2008-02-03"
+"astro-ph/9408023","Lawrence M. Krauss","Lawrence M. Krauss and Peter J. Kernan","Big Bang Nucleosynthesis Constraints and Light Element Abundance
+  Estimates","latex, 17 pages plus 1 fig (appended as separate uuencoded file)
+  (UPDATED A FINAL TIME TO INCLUDE NEW DERIVED LIMIT ON HE AND ADDITIONAL
+  REFERENCES)","Phys.Lett. B347 (1995) 347-353","10.1016/0370-2693(95)00082-V","CWRU-P9-94","astro-ph hep-ph",,"  To elucidate the significance of the effect of systematic uncertainties in
+light element abundance estimates on cosmological bounds derivable from Big
+Bang Nucleosynthesis (BBN) we present tables giving bounds on $\Omega_{baryon}$
+and $N_{\nu}$ as one changes the limits on primordial \he and $^7$Li. This
+allows us to derive new relations between these estimates and constraints on
+$\Omega_{baryon}$ and $N_{\nu}$. For example, only if the helium mass fraction,
+$Y_p \ge .245$ does $^7$Li (or D) presently play a role in placing an upper
+limit on the baryon density, and only if $Y_p \ge .250$ does $^4$He cease to
+play a role in bounding $\etaten$. All the elements combine together tend to
+give a stringent upper bound of $0.16$ on $\Omega_{baryon}$. We also find that
+$Y_p$ must exceed .239 for consistency between theory and observation if
+D+$^3$He/H is less than $ 10^{-4}$. Updated nuclear reaction rates, an updated
+neutron half life, Monte Carlo techniques, and correlations between the
+predicted abundances are incorporated in our analysis. We also discuss the
+handling of systematic uncertainties in the context of statistical analyses of
+BBN predictions.
+","[{""version"":""v1"",""created"":""Sun, 7 Aug 1994 20:47:06 GMT""},{""version"":""v2"",""created"":""Mon, 12 Sep 1994 00:33:45 GMT""},{""version"":""v3"",""created"":""Mon, 19 Sep 1994 14:42:52 GMT""}]","2009-10-22"
+"astro-ph/9408024","David Earn","David JD Earn","Symplectic Integration without Roundoff Error","9 pages, postscript with figures included (260 kb), also available
+  directly from earn@astro.huji.ac.il","Ergodic Concepts in Stellar Dynamics, VG Gurzadyan & D Pfenniger
+  (eds.), Lecture Notes in Physics 430, Springer-Verlag, Heidelberg, 1994, pp
+  122-130","10.1007/BFb0058098",,"astro-ph chao-dyn comp-gas nlin.CD nlin.CG nlin.SI solv-int",,"  Most numerical integration algorithms are not designed specifically for
+Hamiltonian systems and do not respect their characteristic properties, which
+include the preservation of phase space volume with time. This can lead to
+spurious damping or excitation. Methods that do preserve all the Hamiltonian
+properties, i.e., for which the time-forward map is symplectic, are called
+symplectic integration algorithms or SIAs. Although such integrators are
+symplectic in theory, they are not symplectic if implemented using
+finite-precision arithmetic. This paper explains how to eliminate this problem
+by using ``Lattice SIAs'' and shows that these methods yield significant
+advantages when the computational error is dominated by roundoff. Using a
+lattice SIA is equivalent to evolving the exact solution of a problem with a
+Hamiltonian that is slightly different from the original. Lattice methods are
+useful for studies of the long-term evolution of Hamiltonian dynamical systems.
+","[{""version"":""v1"",""created"":""Mon, 8 Aug 1994 11:53:26 GMT""}]","2015-06-24"
+"astro-ph/9408025",,"R. Brada and M. Milgrom","Finite Disks with Power-Law Potentials","13 pages, Written in LATEX, using aaspp.sty",,"10.1086/175583",,"astro-ph",,"  We describe a family of circular, and elliptical, finite disks with a disk
+potential that is a power of the radius. These are all flattened ellipsoids,
+obtained by squashing finite spheres with a power-law density distribution, and
+cutoff at some radius Ro. First we discuss circular disks whose circular
+rotation speed v is proportional to r^alpha, with any alpha> -1/2. The
+surface-density of the disks is expressed in terms of hypergeometric functions
+of 1-(Ro/r)^2.
+  We give closed expressions for the full 3-D potentials in terms of
+hypergeometric functions of two variables. We express the potential and
+acceleration in the plane at r>Ro, and along the rotation axis, in terms of
+simple hypergeometric functions. All the multipoles of the disk are given. We
+then generalize to non-axisymmetric disks. The potential in the midplane is
+given in terms of the hypergeometric function of two variables. For integer
+values of 2 alpha the above quantities are given in more elementary terms. All
+these results follow straightforwardly from formulae we derive for the general,
+cutoff, power-law, triaxial ellipsoid.
+","[{""version"":""v1"",""created"":""Mon, 8 Aug 1994 13:18:36 GMT""}]","2009-10-22"
+"astro-ph/9408026","Andrzej Udalski","A. Udalski, M. Szymanski, J. Kaluzny, M. Kubiak, M. Mateo, W.
+  Krzeminski, and B.Paczynski","The Optical Gravitational Lensing Experiment. the Early Warning System","7 pages, 2 Figures; plain TeX. PostScript figures are available via
+  anonymous ftp from sirius.astrouw.edu.pl (148.81.8.1) directory
+  /ogle/ews/fig?.ps",,,,"astro-ph",,"  The discoveries of 17 microlensing event candidates have been reported over
+the last year by three teams conducting unprecedented mass photometric searches
+in the direction of the Galactic bulge and the Magellanic Clouds. These include
+10 events found by the OGLE collaboration, 5 by the MACHO team and 2 by the
+EROS team. All searches have the main goal to detect dark matter in our Galaxy.
+The detection of 17 event candidates proves that the microlensing is a powerful
+tool in the search for dark matter, and it may be used for reliable mass
+determination when the geometry of the event is known. Here we present the
+first microlensing event, OGLE~\#11, discovered in real time, using the newly
+implemented ""Early Warning System"". We describe our system which makes it
+possible to monitor and study in great details any very rare phenomena, not
+only lensing events, with a broad array of instruments almost immediately after
+they have changed their brightness.
+","[{""version"":""v1"",""created"":""Mon, 8 Aug 1994 14:12:58 GMT""}]","2009-09-25"
+"cond-mat/9408028","Kikuo Harigaya","Kikuo Harigaya and Shuji Abe (Fundamental Physics Section,
+  Electrotechnical Laboratory, Japan)","Optical response of C$_{60}$ and C$_{70}$ fullerenes:","Proceedings paper of ICSM94","Synthetic Metals 70 (1995) 1415-1416","10.1016/0379-6779(94)02902-B",,"cond-mat",,"  Molecular exciton effects in the neutral and maximally doped C$_{60}$
+(C$_{70}$) are considered using a tight binding model with long-range Coulomb
+interactions and bond disorder. By comparing calculated and observed optical
+spectra, we conclude that relevant Coulomb parameters for the doped cases are
+about half of those of the neutral systems. The broadening of absorption peaks
+is well simulated by the bond disorder model.
+","[{""version"":""v1"",""created"":""Mon, 8 Aug 1994 14:28:44 GMT""}]","2007-05-23"
+"cond-mat/9408030","Yi Wan","Yi Wan, Philip Phillips and Qiming Li (Loomis Laboratory of Physics,
+  University of Illinois at Urbana-Champaign)","Suppression of the Kondo Effect in Quantum Dots by Even-Odd Asymmetry","11 pages, RevTex, two postscript figures available",,"10.1103/PhysRevB.51.14782",,"cond-mat",,"  We analyze here a model for single-electron charging in semiconductor quantum
+dots that includes the standard Anderson on-site repulsion (U) as well as the
+spin-exchange ($J_d$) that is inherently present among the electrons occupying
+the various quantum levels of the dot. We show explicitly that for
+ferromagnetic coupling ($J_d>0$), an s-d exchange for an S=1 Kondo problem is
+recovered. In contrast, for the antiferromagnetic case, $J_d<0$, we find that
+the Kondo effect is present only if there are an odd number of electrons on the
+dot. In addition, we find that spin-exchange produces a second period in the
+conductance that is consistent with experimental measurements.
+","[{""version"":""v1"",""created"":""Mon, 8 Aug 1994 15:17:36 GMT""}]","2009-10-22"
+"hep-lat/9408009","J. Engels","J. Engels, F. Karsch and K. Redlich","Scaling Properties of the Energy Density in SU(2) Lattice Gauge Theory","15 pages + 9 figures, BI-TP 94/30","Nucl.Phys. B435 (1995) 295-310","10.1016/0550-3213(94)00491-V",,"hep-lat",,"  The lattice data for the energy density of $SU(2)$ gauge theory are
+calculated with \nop~derivatives of the coupling constants. These derivatives
+are obtained from two sources : i) a parametrization of the \nop~beta function
+in accord with the measured critical temperature and $\Delta\beta-$values and
+ii) a \nop~calculation of the presssure. We then perform a detailed finite size
+scaling analysis of the energy density near $T_c$. It is shown that at the
+critical temperature the energy density is scaling as a function of $VT^3$ with
+the corresponding $3d$ Ising model critical exponents. The value of
+$\epsilon(T_c)/T^4_c$ in the continuum limit is estimated to be 0.256(23). In
+the high temperature regime the energy density is approaching its weak coupling
+limit from below, at $T/T_c \approx 2$ it has reached only about $70\%$ of the
+limit.
+","[{""version"":""v1"",""created"":""Mon, 8 Aug 1994 12:59:25 GMT""}]","2009-10-22"
+"hep-ph/9408249","Jean Cleymans","N. Bili\'c, J. Cleymans, I. Dadi\'c and D. Hislop","Gluon Decay as a Mechanism for Strangeness Production in a Quark-Gluon
+  Plasma","10 pages, LATeX, 4 figures available as postscript files from the
+  authors. report University of Cape Town UCT-TP 213/94","Phys.Rev.C52:401-407,1995","10.1103/PhysRevC.52.401",,"hep-ph",,"  A calculation of thermal gluon decay shows that this process contributes
+significantly to strangeness production in a quark-gluon plasma. Our analysis
+does not support recent claims that this is the dominant process. In our
+calculations we take into account the resummed form of the transverse and
+longitudinal parts of the gluon propagator following the Braaten-Pisarski
+method. Our results are subject to the uncertainty concerning the estimate of
+the damping rate entering the effective gluon propagator.
+","[{""version"":""v1"",""created"":""Mon, 8 Aug 1994 12:21:58 GMT""}]","2009-09-25"
+"hep-ph/9408250","Debajyoti Choudhury","Debajyoti Choudhury","Leptoquark Search at $e^+ e^-$ Colliders","12 pages (LaTeX), 4 figures (uuencoded postscript file submitted
+  through `figures option'), MPI preprint MPI-PhT/94-50","Phys.Lett. B346 (1995) 291-296","10.1016/0370-2693(95)00018-G",,"hep-ph",,"  We investigate the possibility of detecting a scalar leptoquark, coupling to
+the electron and the top, at a linear collider. For coupling strength equalling
+the weak coupling constant, the present mass bounds are of the order of 300
+GeV. We demonstrate that at the NLC, one could detect such particles if their
+mass were less than a few TeV's.
+","[{""version"":""v1"",""created"":""Mon, 8 Aug 1994 13:37:08 GMT""}]","2009-10-28"
+"hep-ph/9408251",,"F. Hautmann","Next-to-Leading Corrections at Small X from Quark Evolution","8 pages (+ 3 figures not included, available from the author), Latex,
+  Cavendish-HEP-94/08",,,,"hep-ph",,"  Deep inelastic processes at small x are discussed in the framework of
+perturbative QCD at high energy. New results are presented on the quark
+anomalous dimensions beyond the leading logarithmic approximation, and their
+relevance to the structure functions being measured at HERA is pointed out.
+  *Talk given at the XXIX Rencontres de Moriond, 19-26 March 1994, Meribel,
+  France, to appear in the Proceedings.
+","[{""version"":""v1"",""created"":""Mon, 8 Aug 1994 13:39:25 GMT""}]","2009-09-25"
+"hep-th/9408041",,"L.D. Faddeev","Current-Like Variables in Massive and Massless Integrable Models",,,,,"hep-th",,"  Lectures delivered at the International School of Physics ""Enrico Fermi"",
+held in Villa Monastero, Varenna, Italy, 94.
+","[{""version"":""v1"",""created"":""Sun, 7 Aug 1994 23:57:11 GMT""}]","2007-05-23"
+"hep-th/9408042","Jean-Loup Gervais","Jean-Loup Gervais, Mikhail V. Saveliev","Lotka--Volterra Type Equations and their Explicit Integration","3 pages LATEX file","Lett.Math.Phys. 34 (1995) 177-180","10.1007/BF00739096",,"hep-th",,"  In the present note we give an explicit integration of some
+two--dimensionalised Lotka--Volterra type equations associated with simple Lie
+algebras, other than the familiar $A_n$ case, possessing a representation
+without branching. This allows us, in particular, to treat the first
+fundamental representations of $A_r$, $B_r$, $C_r$, and $G_2$ on the same
+footing.
+","[{""version"":""v1"",""created"":""Mon, 8 Aug 1994 11:40:08 GMT""}]","2009-10-28"
+"hep-th/9408043","Bimonte Giuseppe","G.Bimonte and G.Lozano","Finite Fermion Density Effects on the Electroweak String","10 pages, IC/94/224","Phys.Lett. B348 (1995) 457-461","10.1016/0370-2693(95)00211-3",,"hep-th hep-ph",,"  We consider an Electroweak string in the background of a uniform distribution
+of cold fermionic matter. As a consequence of the fermion number
+non-conservation in the Weinberg-Salam model, the string produces a long-range
+magnetic field.
+","[{""version"":""v1"",""created"":""Mon, 8 Aug 1994 12:37:30 GMT""}]","2009-10-28"
+"hep-th/9408044",,"J. Barcelos-Neto and M.B.D. Silva","Symplectic Quantization for Reducible Systems","12 pages, IF-UFRJ-22/94","Int.J.Mod.Phys. A10 (1995) 3759-3764","10.1142/S0217751X95001765",,"hep-th",,"  We study an extension of the symplectic formalism in order to quantize
+reducible systems. We show that a procedure like {\it ghost-of-ghost} of the
+BFV method can be applied in terms of Lagrange multipliers. We use the
+developed formalism to quantize the antisymmetric Abelian gauge fields.
+","[{""version"":""v1"",""created"":""Mon, 8 Aug 1994 13:15:19 GMT""}]","2015-06-26"
+"hep-th/9408045",,"J. Barcelos-Neto and T.G. Dargam","Constrained Analysis of Topologically Massive Gravity","15 pages, IF-UFRJ-21/94","Z.Phys. C67 (1995) 701-706","10.1007/BF01553998",,"hep-th",,"  We quantize the Einstein gravity in the formalism of weak gravitational
+fields by using the constrained Hamiltonian method. Special emphasis is given
+to the 2+1 spacetime dimensional case where a (topological) Chern-Simons term
+is added to the Lagrangian.
+","[{""version"":""v1"",""created"":""Mon, 8 Aug 1994 13:16:12 GMT""}]","2009-10-28"
+"hep-th/9408046",,"B.Rusakov and S.Yankielowicz","Large N Phase Transitions and Multi-Critical Behaviour in Generalized 2D
+  QCD","CERN-TH.7390/94 and TAUP-2191-94, 6pp, LaTeX","Phys.Lett. B339 (1994) 258-262","10.1016/0370-2693(94)90641-6",,"hep-th",,"  Using matrix model techniques we investigate the large N limit of generalized
+2D Yang-Mills theory. The model has a very rich phase structure. It exhibits
+multi-critical behavior and reveals a third order phase transitions at all
+genera besides {\it torus}. This is to be contrasted with ordinary 2D
+Yang-Mills which, at large N, exhibits phase transition only for spherical
+topology.
+","[{""version"":""v1"",""created"":""Mon, 8 Aug 1994 15:24:28 GMT""}]","2009-10-28"
+"hep-th/9408048","Noureddine Mohammedi","N. Mohammedi","N=2 Current Algebras for Non-Semi-Simple Groups","10 pages, BONN-HE-94-09","Phys.Lett.B337:279-284,1994","10.1016/0370-2693(94)90976-8",,"hep-th",,"  We examine the problem of constructing N=2 superconformal algebras out of N=1
+non-semi-simple affine Lie algebras. These N=2 superconformal theories share
+the property that the super Virasoro central charge depends only on the
+dimension of the Lie algebra. We find, in particular, a construction having a
+central charge c=9. This provides a possible internal space for string
+compactification and where mirror symmetry might be explored.
+","[{""version"":""v1"",""created"":""Mon, 8 Aug 1994 15:54:04 GMT""}]","2010-11-01"
+"math/9408216","Philip Boyland","Philip Boyland","Dual billiards, twist maps, and impact oscillators",,,,"Stony Brook IMS 1994/13","math.DS",,"  In this paper techniques of twist map theory are applied to the annulus maps
+arising from dual billiards on a strictly convex closed curve G in the plane.
+It is shown that there do not exist invariant circles near G when there is a
+point on G where the radius of curvature vanishes or is discontinuous. In
+addition, when the radius of curvature is not $C^1$ there are examples with
+orbits that converge to a point of G. If the derivative of the radius of
+curvature is bounded, such orbits cannot exist. The final section of the paper
+concerns an impact oscillator whose dynamics are the same as a dual billiards
+map. The appendix is a remark on the connection of the inverse problems for
+invariant circles in billiards and dual billiards.
+","[{""version"":""v1"",""created"":""Mon, 8 Aug 1994 00:00:00 GMT""}]","2009-09-25"
+"nucl-th/9408009","Kai Hencken","Kai Hencken, Dirk Trautmann, and Gerhard Baur","Higher Order Processes in Electromagnetic Production of Electron
+  Positron Pairs in Relativistic Heavy Ion Collisions","29 pages RevTeX and 12 uuencoded figures (compressed postscript)","Phys.Rev. A51 (1995) 998-1014","10.1103/PhysRevA.51.998",,"nucl-th",,"  We study higher-order effects in the electromagnetic production of
+electron-positron pairs in relativistic heavy ion collisions. Treating the
+field of the heavy ions as an external field and neglecting the interaction
+among electrons and positrons, we show that the $N$-pair creation amplitude is
+the antisymmetrised product of $N$ one-pair creation amplitudes and the vacuum
+amplitude. Neglecting contributions coming from exchange terms, we show that
+the total probability for $N$ pairs is approximately a Poisson distribution. We
+investigate further the structure of the reduced one-pair amplitude,
+concentrating especially on multiple-particle corrections. We calculate the
+first of these corrections in second order Magnus theory based on our previous
+result in second-order Born approximation for impact parameter $b$ zero.
+Explicit calculations show that the total probability is increased up to 10 \%
+by this correction for realistic collider parameters. The calculations can also
+be used to confirm the use of the Poisson distribution for the total
+probability.
+","[{""version"":""v1"",""created"":""Mon, 8 Aug 1994 09:49:54 GMT""}]","2009-10-28"
+"nucl-th/9408010","Sabine Jeschonnek","A. Bianconi, S. Jeschonnek, N.N.Nikolaev, B.G.Zakharov","Simple classification of final state interaction effects in
+  $^4He(e,e'p)$ scattering","11 pages, KFA-IKP(TH)-1994-29","Phys.Lett. B338 (1994) 123-129","10.1016/0370-2693(94)91354-4",,"nucl-th",,"  The radius of interaction between the struck proton and spectator nucleons is
+close to the radius of short-distance two-nucleon correlations in nuclear
+matter, which makes final state interaction(FSI) an important background to
+production of protons with large missing momentum. We present a simple
+classification of the dominant FSI effects in $^4He(e,e'p)$ scattering and
+identify parts of the phase space dominated by FSI. At large missing momentum,
+FSI leads to a striking angular anisotropy of the missing momentum
+distribution, which has a prominent peak in transverse kinematics and smaller,
+forward-backward asymmetric, peaks in parallel kinematics.
+","[{""version"":""v1"",""created"":""Mon, 8 Aug 1994 11:59:30 GMT""}]","2009-10-28"

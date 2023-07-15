@@ -1,0 +1,349 @@
+"astro-ph/9405009","David Band","D. L. Band, L. A. Ford, J. L. Matteson, M. Briggs, W. Paciesas, G.
+  Pendleton, R. Preece, D. Palmer, B. Teegarden, and B. Schaefer","BATSE Gamma-Ray Burst Line Search: II. Bayesian Consistency Methodology","accepted by Ap.J., 24 pages, LaTeX with AAS macros, request 4 figures
+  from dband@ucsd.edu",,"10.1086/174759",,"astro-ph",,"  We describe a Bayesian methodology to evaluate the consistency between the
+reported Ginga and BATSE detections of absorption features in gamma ray burst
+spectra. Currently no features have been detected by BATSE, but this
+methodology will still be applicable if and when such features are discovered.
+The Bayesian methodology permits the comparison of hypotheses regarding the two
+detectors' observations, and makes explicit the subjective aspects of our
+analysis (e.g., the quantification of our confidence in detector performance).
+We also present non-Bayesian consistency statistics. Based on preliminary
+calculations of line detectability we find that both the Bayesian and
+non-Bayesian techniques show that the BATSE and Ginga observations are
+consistent given our understanding of these detectors.
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 21:08:47 GMT""}]","2009-10-22"
+"astro-ph/9405010",,"Arnon Dar, Jaques Goldberg and Michael Rudzsky","Baryonic Dark Matter and Big-Bang Nucleosynthesis","12pages",,,,"astro-ph",,"  The enclosed paper was submitted for publication in Ap.J Lett. in February
+1992. It has been rejected on the grounds that it predicts primordial Deuterium
+abundance which is contradicted by observations and because it disagreed with
+published analysis and conclusions of previous authors. However, in a recent
+article in NATURE (14 April 1994) Vol. 368 pp. 599-603, Songalia, Cowie, Hogan
+and Rugers describe a recent measurement (November 1993) with the Keck 10-m
+Telescope, of the Deuterium abundance in a high redshift cloud between us and a
+distant quasar. They find D/H\approx 1.9-2.5 x10^{-4} in good agreement with
+our prediction D/H=(2.1+\- 0.35)x10^{-4}, which is larger by an order of
+magnitude than believed before. Songalia et al. found that the baryon density
+inferred from Big Bang Nucleosynthesis is ""consistent with the amount of
+presently observed luminous matter comprising all the baryons in the Universe""
+while we found the same. We post here our unpublished 1991 paper, which was
+reported in international conferences and was distributed only as a preprint,
+mainly because of its physics and its sad moral: If you submit for publication
+a correct paper with important results that contradict the ""party line"" it has
+only slim chances to be accepted for publication.
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 22:37:43 GMT""}]","2007-05-23"
+"astro-ph/9405011",,"Paolo Catelan and Robert J. Scherrer","Velocity Differences as a Probe of Non--Gaussian Density Fields","18 pages, LATEX style, SISSA-37-94-A, OSU-TA-4-94",,"10.1086/175666",,"astro-ph",,"  We examine the multi--point velocity field for non--Gaussian models as a
+probe of non--Gaussian behavior. The two--point velocity correlation is not a
+useful indicator of a non--Gaussian density field, since it depends only on the
+power spectrum, even for non--Gaussian models. However, we show that the
+distribution of velocity differences $\bfv_1 - \bfv_2$, where $\bfv_1$ and
+$\bfv_2$ are measured at the points $\bfr_1$ and $\bfr_2$, respectively, is a
+good probe of non--Gaussian behavior, in that $p(\bfv_1 - \bfv_2)$ tends to be
+non--Gaussian whenever the density field is non--Gaussian. As an example, we
+examine the behavior of $p(\bfv_1 - \bfv_2)$ for non--Gaussian seed models, in
+which the density field is the convolution of a distribution of points with a
+set of density profiles. We apply these results to the global texture model.
+","[{""version"":""v1"",""created"":""Wed, 4 May 1994 10:09:57 GMT""}]","2009-10-22"
+"cmp-lg/9405008","Richard Sproat","Richard Sproat (AT&T Bell Laboratories), Chilin Shih (AT&T Bell
+  Laboratories), William Gale (AT&T Bell Laboratories), and Nancy Chang
+  (Harvard University)","A Stochastic Finite-State Word-Segmentation Algorithm for Chinese","To appear in Proceedings of ACL-94","in Proceedings of ACL 94",,,"cmp-lg cs.CL",,"  We present a stochastic finite-state model for segmenting Chinese text into
+dictionary entries and productively derived words, and providing pronunciations
+for these words; the method incorporates a class-based model in its treatment
+of personal names. We also evaluate the system's performance, taking into
+account the fact that people often do not agree on a single segmentation.
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 16:00:06 GMT""},{""version"":""v2"",""created"":""Thu, 5 May 1994 20:00:28 GMT""}]","2008-02-03"
+"cmp-lg/9405010",,"Andrew Kehler (Harvard University)","Common Topics and Coherent Situations: Interpreting Ellipsis in the
+  Context of Discourse Inference","To be presented at ACL-94. 13 pages, LaTeX source, accompanying
+  PostScript figures, requires psfig and lingmacros. Comments are welcome","ACL-94, Las Cruces, New Mexico",,,"cmp-lg cs.CL",,"  It is claimed that a variety of facts concerning ellipsis, event reference,
+and interclausal coherence can be explained by two features of the linguistic
+form in question: (1) whether the form leaves behind an empty constituent in
+the syntax, and (2) whether the form is anaphoric in the semantics. It is
+proposed that these features interact with one of two types of discourse
+inference, namely {\it Common Topic} inference and {\it Coherent Situation}
+inference. The differing ways in which these types of inference utilize
+syntactic and semantic representations predicts phenomena for which it is
+otherwise difficult to account.
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 18:22:50 GMT""}]","2008-02-03"
+"cond-mat/9405005","Lian Zheng","Lian Zheng, and H.A. Fertig","Electron-Electron Interactions and the Hall-Insulator","11 pages, RevTeX3.0",,"10.1103/PhysRevB.50.4984",,"cond-mat",,"  Using the Kubo formula, we show explicitly that a non-interacting electron
+system can not behave like a Hall-insulator, {\it ie.,} a DC resistivity matrix
+$\rho_{xx}\rightarrow\infty$ and $\rho_{xy}=$finite in the zero temperature
+limit, as has been observed recently in experiment. For a strongly interacting
+electron system in a magnetic field, we illustrate, by constructing a specific
+form of correlations between mobile and localized electrons, that the Hall
+resistivity can approximately equal to its classical value. A Hall-insulator is
+realized in this model when the density of mobile electrons becomes vanishingly
+small. It is shown that in non-interacting electron systems, the
+zero-temperature frequency-dependent conductacnce generally does not give the
+DC conductance.
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 16:51:02 GMT""}]","2009-10-22"
+"cond-mat/9405006","Iwan Jensen","Iwan Jensen","Critical Exponents for Branching Annihilating Random Walks with an Even
+  Number of Offspring","18 pages (+16 Fig.), LaTeX",,"10.1103/PhysRevE.50.3623",,"cond-mat",,"  Recently, Takayasu and Tretyakov [Phys. Rev. Lett. {\bf 68}, 3060 (1992)],
+studied branching annihilating random walks (BAW) with $n=1$-5 offspring. These
+models exhibit a continuous phase transition to an absorbing state. For odd $n$
+the models belong to the universality class of directed percolation. For even
+$n$ the particle number is conserved modulo 2 and the critical behavior is not
+compatible with directed percolation. In this article I study the BAW with
+$n=4$ using time-dependent simulations and finite-size scaling obtaining
+precise estimates for various critical exponents. The results are consistent
+with the conjecture: $\beta/\nuh = {1/2}$, $\nuv/\nuh = {7/4}$, $\gamma = 0$,
+$\delta = {2/7}$, $\eta = 0$, $z = {8/7}$, and $\delta_{h} = {9/2}$.
+","[{""version"":""v1"",""created"":""Wed, 4 May 1994 07:13:08 GMT""}]","2009-10-22"
+"cond-mat/9405007","Silvio Franz","S. Franz, G. Parisi, M.A. Virasoro","Interfaces and Lower Critical Dimension in a Spin Glass Model","14 pages, LaTeX, NORDITA preprint 94/21",,"10.1051/jp1:1994213",,"cond-mat",,"  In this paper we try to estimate the lower critical dimension for replica
+symmetry breaking in spin glasses through the calculation of the additional
+free-energy required to create a domain wall between two different phases. This
+mechanism alone would say that replica symmetry would be restored at the lower
+critical dimension $D_c =2.5$.
+","[{""version"":""v1"",""created"":""Wed, 4 May 1994 13:24:54 GMT""}]","2009-10-22"
+"cond-mat/9405008",,"S. Clar, B. Drossel, and F. Schwabl","Scaling laws and simulation results for the self--organized critical
+  forest--fire model","12 pages, postscript uuencoded, figures included, to appear in Phys.
+  Rev. E",,"10.1103/PhysRevE.50.1009",,"cond-mat",,"  We discuss the properties of a self--organized critical forest--fire model
+which has been introduced recently. We derive scaling laws and define critical
+exponents. The values of these critical exponents are determined by computer
+simulations in 1 to 8 dimensions. The simulations suggest a critical dimension
+$d_c=6$ above which the critical exponents assume their mean--field values.
+Changing the lattice symmetry and allowing trees to be immune against fire, we
+show that the critical exponents are universal.
+","[{""version"":""v1"",""created"":""Wed, 4 May 1994 12:46:57 GMT""}]","2009-10-22"
+"gr-qc/9405006",,"B.A.C.C. Bassett, P.K.S. Dunsby and G.F.R. Ellis","Shrinking and the True Power Spectrum at Decoupling","21 pages, Latex, postscript figures available on request, revised and
+  enlarged to include a discussion of the doppler peaks",,,"UCT preprint-94/4","gr-qc astro-ph",,"  In this paper we examine the change in the estimated spatial power spectra at
+decoupling due to the effects of our clumpy universe which modify observational
+distances. We find that scales at decoupling can be significantly underestmated
+in our approximation of neglecting the shear of the ray bundle. We compare our
+results with other work on lensing and speculate on the implications for
+structure formation. In particular we examine a proposal to use the position of
+the first Doppler peak to determine $\Omega$, and find that shrinking will
+modify the esimated curvature, so that it must be included to obtain an
+accurate estimate of $\Omega$. Finally we consider future applications and
+improvements of our results.
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 16:32:41 GMT""},{""version"":""v2"",""created"":""Tue, 18 Oct 1994 13:04:32 GMT""},{""version"":""v3"",""created"":""Wed, 19 Oct 1994 20:06:06 GMT""}]","2009-09-25"
+"gr-qc/9405007",,"J.D. Brown, J. Creighton and R.B. Mann","Temperature, Energy, and Heat Capacity of Asymptotically Anti-De Sitter
+  Black Holes","(21 pages, Plain TeX)","Phys.Rev. D50 (1994) 6394-6403","10.1103/PhysRevD.50.6394",,"gr-qc hep-th",,"  We investigate the thermodynamical properties of black holes in (3+1) and
+(2+1) dimensional Einstein gravity with a negative cosmological constant. In
+each case, the thermodynamic internal energy is computed for a finite spatial
+region that contains the black hole. The temperature at the boundary of this
+region is defined by differentiating the energy with respect to entropy, and is
+equal to the product of the surface gravity (divided by~$2\pi$) and the Tolman
+redshift factor for temperature in a stationary gravitational field. We also
+compute the thermodynamic surface pressure and, in the case of the (2+1) black
+hole, show that the chemical potential conjugate to angular momentum is equal
+to the proper angular velocity of the black hole with respect to observers who
+are at rest in the stationary time slices. In (3+1) dimensions, a calculation
+of the heat capacity reveals the existence of a thermodynamically stable black
+hole solution and a negative heat capacity instanton. This result holds in the
+limit that the spatial boundary tends to infinity only if the comological
+constant is negative; if the cosmological constant vanishes, the stable black
+hole solution is lost. In (2+1) dimensions, a calculation of the heat capacity
+reveals the existence of a thermodynamically stable black hole solution, but no
+negative heat capacity instanton.
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 16:07:14 GMT""}]","2009-10-22"
+"hep-lat/9405003","Don Weingarten","F. Butler, H. Chen, J. Sexton, A. Vaccarino and D. Weingarten","Hadron Masses from the Valence Approximation to Lattice QCD","108 pages of Latex, including 50 PostScript figures, tarred,
+  compressed and uuencoded. IBM-HET-94-3. (The first version of this posting
+  exceeded the size limit. I squeezed the second version in by dropping out the
+  figues. This version gets the figures in but has to be run through Latex and
+  dvips.)","Nucl.Phys. B430 (1994) 179-228","10.1016/0550-3213(94)90654-8",,"hep-lat",,"  We evaluate pseudoscalar, vector, spin 1/2 and spin 3/2 baryon masses
+predicted by lattice QCD with Wilson quarks in the valence (quenched)
+approximation for a range of different values of lattice spacing, lattice
+volume and quark mass. Extrapolating these results to physical quark mass, then
+to zero lattice spacing and infinite volume we obtain values for eight mass
+ratios. We also determine the zero lattice spacing, infinite volume limit of an
+alternate set of five quantities found without extrapolation in quark mass.
+Both sets of predictions differ from the corresponding observed values by
+amounts consistent with the predicted quantities' statistical uncertainties.
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 23:06:26 GMT""},{""version"":""v2"",""created"":""Wed, 4 May 1994 19:12:08 GMT""}]","2009-10-22"
+"hep-ph/9405214","Martin B. Einhorn","C. Arzt, M.B. Einhorn, and J. Wudka","Patterns of Deviation from the Standard Model","37 pages, UM-TH-94-15. Four figures and one table are embedded in
+  text. This file requires as inputs epsf.tex and the IAS version of
+  phyzzx.tex. The complete manuscript is available as a postscript file via
+  anonymous FTP to williams.physics.lsa.umich.edu. It is called deviation.ps in
+  the /pub subdirectory. (Modified to add a table and to make minor
+  corrections.)","Nucl.Phys. B433 (1995) 41-66","10.1016/0550-3213(94)00336-D",,"hep-ph",,"  Effective Lagrangians can be used to parametrize the effects of physics
+beyond the standard model. Assuming the complete theory is a gauge theory, we
+determine which effective operators may be generated at tree level, and which
+are only generated at loop level. The latter are be suppressed by factors of
+$1/ 16\pi^2$ and will therefore be quite difficult to detect. In particular,
+all operators changing the Standard-Model structure of the triple-gauge-vector
+couplings fall into this category. We also point out that in certain cases,
+dimension-eight operators may be more important than dimension-six operators.
+We discuss both the linear and non-linear representation of the Higgs sector.
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 17:36:05 GMT""},{""version"":""v2"",""created"":""Thu, 5 May 1994 14:40:24 GMT""},{""version"":""v3"",""created"":""Fri, 13 May 1994 21:41:55 GMT""},{""version"":""v4"",""created"":""Tue, 17 May 1994 10:55:06 GMT""},{""version"":""v5"",""created"":""Wed, 18 May 1994 22:44:51 GMT""}]","2009-10-28"
+"hep-ph/9405215",,"S. Davidson, K. Kainulainen and K.A. Olive","Protecting the Baryon Asymmetry with Thermal Masses","11pp., plain tex, UMN-TH-1248/94, CfPA-TH-94-19","Phys.Lett.B335:339-344,1994","10.1016/0370-2693(94)90361-1",,"hep-ph",,"  We consider the evolution of baryon number $B$ in the early universe under
+the influence of rapid sphaleron interactions and show that $B$ will remain
+nonzero at all times even in the case of $B-L = 0$. This result arises due to
+thermal Yukawa interactions that cause nonidentical dispersion relations
+(thermal masses) for different lepton families. We point out the relevance of
+our result to the Affleck-Dine type baryogenesis.
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 17:44:44 GMT""}]","2009-09-15"
+"hep-ph/9405216","Tom Gould","Thomas M. Gould and I.Z Rothstein","Bounding the Tau Neutrino Magnetic Moment from Single Photon Searches at
+  LEP","5 pgs. LaTeX, one reference fixed in revised version,
+  JHU-TIPAC-940004, UM-TH-94-16","Phys.Lett.B333:545-547,1994","10.1016/0370-2693(94)90181-3",,"hep-ph",,"  We show that single photon searches at LEP constrain the tau neutrino
+magnetic moment to be less than ${\cal O}(10^{-6})~\mu_B$. This bound is
+competitive with low energy ($s\simeq (30~GeV)^2$) single photon searches.
+","[{""version"":""v1"",""created"":""Wed, 4 May 1994 03:18:42 GMT""},{""version"":""v2"",""created"":""Thu, 5 May 1994 02:46:54 GMT""}]","2008-11-26"
+"hep-ph/9405217","Evan Reidell","L. Randall and N. Rius","Using Heavy Quark Fragmentation into Heavy Hadrons to Determine QCD
+  Parameters and Test Heavy Quark Symmetry","26 pages in LaTeX, with 9 PostScript figures included (using epsf
+  macros). MIT-CTP-2257","Nucl.Phys.B441:167-196,1995","10.1016/0550-3213(95)00101-W",,"hep-ph",,"  We present a detailed analysis of the use of heavy quark fragmentation into
+heavy hadrons for testing the heavy quark effective theory through comparison
+of the measured fragmentation parameters of the $c$ and $b$ quarks. Our
+analysis is entirely model independent. We interpret the known perturbative
+evolution in a way useful for exploiting heavy quark symmetry at low energy. We
+first show consistency with perturbative QCD scaling for measurements done
+solely with $c$ quarks. We then apply the perturbative analysis and the heavy
+quark expansion to relate measurements from ARGUS and LEP. We place bounds on a
+nonperturbative quark mass suppressed parameter, and compare the values for the
+$b$ and $c$ quarks. We find consistency with the heavy quark expansion but
+fairly sizable QCD uncertainties. We also suggest that one might reduce the
+systematic uncertainty in the result by not extrapolating to low $z$.
+","[{""version"":""v1"",""created"":""Wed, 4 May 1994 11:26:32 GMT""}]","2009-09-25"
+"hep-ph/9405218",,"Stanley J. Brodsky and Hung Jung Lu","Commensurate Scale Relations in Quantum Chromodynamics","35 pages (RevTeX), one PostScript figure included at the end.
+  SLAC-PUB-6481, UMD Preprint #94-135","Phys.Rev.D51:3652-3668,1995","10.1103/PhysRevD.51.3652",,"hep-ph",,"  We use the BLM method to show that perturbatively-calculable observables in
+QCD can be related to each other without renormalization scale or scheme
+ambiguity. We define and study the commensurate scale relations. We show that
+the commensurate scales satisfy the renormalization group transitivity rule
+which ensures that predictions in PQCD are independent of the choice of an
+intermediate renormalization scheme. We generalize the BLM procedure to higher
+order. The application of this procedure to relate known physical observables
+in QCD gives surprisingly simple results. In particular, the annihilation ratio
+$R_{e^+e^-}$ and the Bjorken sum rule for polarized electroproduction are
+related through simple coefficients, which reinforces the idea of a hidden
+symmetry between these two observables.
+","[{""version"":""v1"",""created"":""Wed, 4 May 1994 07:01:00 GMT""}]","2009-09-25"
+"hep-ph/9405220","Patrick Peter","X. Martin and P. Peter","Dynamical Stability of Witten Rings","11 pages, LaTeX-ReVTeX (v.3), 2 figures available upon request, DAMTP
+  R-94/19","Phys.Rev. D51 (1995) 4092-4098","10.1103/PhysRevD.51.4092",,"hep-ph",,"  The dynamical stability of cosmic rings, or vortons, is investigated for the
+particular equation of state given by the Witten bosonic model. It is found
+that there exists a finite range of the state parameter for which the vorton
+states are actually stable against dynamical perturbations. Inclusion of the
+electromagnetic self action into the equation of state slightly shrinks the
+stability region but otherwise yields no qualitative difference. If the Witten
+bosonic model represents a good approximation for more realistic string models,
+then the cosmological vorton excess problem can only be solved by assuming
+either that strings are formed at low energy scales or that some quantum
+instability may develop at a sufficient rate.
+","[{""version"":""v1"",""created"":""Wed, 4 May 1994 12:51:00 GMT""}]","2009-10-28"
+"hep-ph/9405221",,"L. M. A. Bettencourt and T. W. B. Kibble","Non Intercommuting Configurations in the Collisions of Type-I $U(1)$
+  Cosmic Strings","12 pages,REVTEX, Imperial/TP/93-94/34","Phys.Lett. B332 (1994) 297-304","10.1016/0370-2693(94)91257-2",,"hep-ph",,"  It is shown that for small relative angle and kinetic energy two type I
+$U(1)$ strings can form bound states upon collision instead of the more
+familiar intercommuting configuration. The velocity below which this may happen
+is estimated as function of the ratio of the coupling constants in the theory,
+crossing angle and initial kinetic energy.
+","[{""version"":""v1"",""created"":""Wed, 4 May 1994 14:24:01 GMT""}]","2009-10-28"
+"hep-ph/9405222",,"L. M. A. Bettencourt and R. J. Rivers","Interactions between $U(1)$ Cosmic Strings: An Analytical Study","31 pages,REVTEX, Imperial/TP/93-94/33","Phys.Rev. D51 (1995) 1842-1853","10.1103/PhysRevD.51.1842",,"hep-ph",,"  We derive analytic expressions for the interaction energy between two general
+$U(1)$ cosmic strings as the function of their relative orientation and the
+ratio of the coupling constants in the model. The results are relevant to the
+statistic description of strings away from critical coupling and shed some
+light on the mechanisms involved in string formation and the evolution of
+string networks.
+","[{""version"":""v1"",""created"":""Wed, 4 May 1994 14:29:50 GMT""}]","2009-10-28"
+"hep-ph/9405223",,"Alon E. Faraggi and Edi Halyo","Hierarchical Supersymmetry Breaking in Superstring Derived
+  Standard--like Models","IASSNS-HEP-94/17, 31 pages, phyzzx","Int.J.Mod.Phys.A11:2357-2378,1996","10.1142/S0217751X96001188",,"hep-ph hep-th",,"  We examine the problem of supersymmetry breaking in realistic superstring
+standard--like models which are constructed in the free fermionic formulation.
+We impose a supersymmetric vacuum at the Planck scale by requiring vanishing F
+and D constraints at the cubic level of the superpotential. We then study
+possible scenarios for supersymmetry breaking by examining the role of
+nonrenormalizable terms and hidden sector gaugino and matter condensates. We
+argue that in some scenarios hierarchical supersymmetry breaking in the
+observable sector is possible.
+","[{""version"":""v1"",""created"":""Wed, 4 May 1994 15:54:31 GMT""}]","2011-07-19"
+"hep-th/9405016",,"O. A. Soloviev","Perturbed Gauged WZNW Models","LaTex file, 20 pages, Preprint QMW 94-9. This is a version to apper
+  in Nucl. Phys. B","Nucl.Phys. B431 (1994) 206-222","10.1016/0550-3213(94)90104-X",,"hep-th",,"  We discuss a new type of unitary perturbations around conformal theories
+inspired by the $\sigma$-model perturbation of the nonunitary WZNW model. We
+show that the nonunitary level $k$ WZNW model perturbed by its sigma model term
+goes to the unitary level $-k$ WZNW model. When plugged into the gauged WZNW
+model the given perturbation results in the perturbed gauged WZNW model which
+no longer describes a coset construction. We consider the BRST invariant
+generalization of the sigma model perturbation around the gauged WZNW model. In
+this way we obtain perturbed coset constructions. In the case of the
+$SU_{m-2}(2)\times SU_1(2)/SU_{m-1}(2)$ coset, the BRST invariant sigma model
+perturbation is identical to Zamolodchikov's $\Phi_{(3,1)}$ perturbation of the
+minimal conformal series. The existence of general geometry flows is clarified.
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 17:24:22 GMT""},{""version"":""v2"",""created"":""Wed, 19 Oct 1994 18:32:20 GMT""}]","2009-10-28"
+"hep-th/9405017",,"S. J. Gates Jr. and O. A. Soloviev","Superspace Supervortices","UMDPP 94-074, QMW 93-35, 14 pages","Phys.Lett. B339 (1994) 232-240","10.1016/0370-2693(94)90637-8",,"hep-th",,"  We present the theory describing supersymmetrical vortices in the curved
+superspace of the (1,0) supergravity. The action is defined as a (1,0) locally
+supersymmetric $SU(2)/U(1)$ coset perturbed by the cosmological constant-like
+term. The perturbation is such that it preserves the integrability of the coset
+model. Because of supersymmetry the perturbed theory is an exact quantum system
+provided a proper dilaton is taken into account. The exact value of the dilaton
+is determined in the supersymmetric case by the quasi-classical background of
+the bosonic coset.
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 17:20:10 GMT""}]","2009-10-28"
+"hep-th/9405018","S. Pakuliak","S. Pakuliak and A. Perelomov","Relation Between Hyperelliptic Integrals","DFTUZ/94/07, LaTeX, 8 p. (misprints are corrected and two refferences
+  on the related papers are added)","Mod.Phys.Lett. A9 (1994) 1791-1798","10.1142/S0217732394001647",,"hep-th",,"  A simple property of the integrals over the hyperelliptic surfaces of
+arbitrary genus is observed. Namely, the derivatives of these integrals with
+respect to the branching points are given by the linear combination of the same
+integrals. We check that this property is responsible for the solution to the
+level zero Knizhnik-Zamolodchikov equation given in terms of hyperelliptic
+integrals.
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 19:59:46 GMT""},{""version"":""v2"",""created"":""Fri, 20 May 1994 12:43:19 GMT""}]","2009-10-28"
+"hep-th/9405019","Yu-kui-Zhou","Yu-kui Zhou and Paul A. Pearce","Fusion of \ade Lattice Models","41 pages","Int.J.Mod.Phys. B8 (1994) 3531-3577","10.1142/S0217979294001500",,"hep-th",,"  Fusion hierarchies of \ade face models are constructed. The fused critical
+$D$, $E$ and elliptic $D$ models yield new solutions of the Yang-Baxter
+equations with bond variables on the edges of faces in addition to the spin
+variables on the corners. It is shown directly that the row transfer matrices
+of the fused models satisfy special functional equations. Intertwiners between
+the fused \ade models are constructed by fusing the cells that intertwine the
+elementary face weights. As an example, we calculate explicitly the fused
+$2\times 2$ face weights of the 3-state Potts model associated with the $D_4$
+diagram as well as the fused intertwiner cells for the $A_5$--$D_4$
+intertwiner. Remarkably, this $2\times 2$ fusion yields the face weights of
+both the Ising model and 3-state CSOS models.
+","[{""version"":""v1"",""created"":""Wed, 4 May 1994 02:25:54 GMT""}]","2015-06-26"
+"hep-th/9405020",,"D.K.Park","Path integral treatment of two- and three-dimensional delta-function
+  potentials and application to spin-1/2 Aharonov-Bohm problem","21 pages Latex","J. Math. Phys. 36 1995 5453","10.1063/1.531271",,"hep-th",,"  Delta-function potentials in two- and three-dimensional quantum mechanics are
+analyzed by the incorporation of the self-adjoint extension method to the path
+integral formalism. The energy-dependent Green functions for free particle plus
+delta-function potential systems are explicitly calculated. Also the
+energy-dependent Green function for the spin-1/2 Aharonov-Bohm problem is
+evaluated. It is found that the only one special value of the self-adjoint
+extension parameter gives a well-defined and non-trivial time-dependent
+propagator. This special value corresponds to the viewpoint of the spin-1/2
+Aharonov-Bohm problem when the delta-function is treated as a limit of the
+infinitesimal radius.
+","[{""version"":""v1"",""created"":""Wed, 4 May 1994 01:57:33 GMT""}]","2009-10-28"
+"hep-th/9405023","Hector DE Vega","H.J. de Vega and A. Gonz\'alez--Ruiz","The Highest Weight Property for the $SU_{q}(n)$ Invariant Spin Chains","9 pages, Latex, LPTHE-PAR 94/13. (Two references added)","Phys.Lett. B332 (1994) 123-128","10.1016/0370-2693(94)90868-0",,"hep-th nlin.SI solv-int",,"  The $SU_{q}(n)$ generators are obtained as large spectral parameter limit of
+the Yang-Baxter operators in the integrable $SU_{q}(n)$ invariant vertex model.
+The commutation relations, including Serre relations, are obtained as limits of
+the Yang-Baxter equations. The recently found eigenvectors of the $SU_{q}(n)$
+invariant spin chains are shown to be Highest Weight vectors of the
+corresponding quantum group.
+","[{""version"":""v1"",""created"":""Wed, 4 May 1994 12:15:35 GMT""},{""version"":""v2"",""created"":""Sat, 21 May 1994 16:10:01 GMT""},{""version"":""v3"",""created"":""Tue, 9 Aug 1994 13:29:22 GMT""}]","2009-10-28"
+"hep-th/9405024","Tomasz Taylor","I. Antoniadis, E. Gava, K.S. Narain and T.R. Taylor","Effective Mu-Term in Superstring Theory","28 pages (LaTeX, 2 figures attached as uuencoded ps files), NUB-3084
+  - IC/94/72 - CPTH-A282.0194, to appear in Nuclear Physics B (revised version
+  contains modifications due to the presence of extra massless states at some
+  special points of the moduli space in orbifold models)","Nucl.Phys.B432:187-204,1994","10.1016/0550-3213(94)90599-1",,"hep-th hep-ph",,"  In four-dimensional compactifications of the heterotic superstring theory the
+K\""ahler potential has a form which generically induces a superpotential mass
+term for Higgs particles once supersymmetry is broken at low energies. This
+``$\mu$-term'' is analyzed in a model-independent way at the tree level and in
+the one-loop approximation, and explicit expressions are obtained for orbifold
+compactifications. Additional contributions which arise in the case of
+supersymmetry breaking induced by gaugino condensation are also discussed.
+","[{""version"":""v1"",""created"":""Wed, 4 May 1994 14:12:20 GMT""},{""version"":""v2"",""created"":""Fri, 20 May 1994 15:35:59 GMT""},{""version"":""v3"",""created"":""Tue, 11 Oct 1994 15:16:00 GMT""}]","2010-11-01"
+"hep-th/9405025","Steffen Mallwitz","Steffen Mallwitz","On SW-minimal models and N=1 supersymmetric Quantum Toda-field theories","26 pages (Plain TeX), BONN-TH-94-04","Int.J.Mod.Phys. A10 (1995) 977-1004","10.1142/S0217751X95000486",,"hep-th",,"  We construct free field representations of the $SW$-algebras SW(3/2,2) and
+SW(3/2,3/2,2) by using the corresponding Toda-Field-Theories. In constructing
+the series of minimal models using covariant vertex operators, we find a
+necessary restriction on the Cartan matrix of the Super-Lie-Algebra, also for
+the general case. Within this framework, this restriction claims that there be
+a minimum of one non-vanishing element on the diagonal of the Cartan matrix,
+which is without parallel in bosonic conformal field theory. As a consequence
+only two series of SSLA's yield minimal models, namely Osp(2n|2n-1) and
+Osp(2n|2n+1). Subsequently some general aspects of degenerate representations
+of SW-algebras, notably the fusion rules, are investigated. As an application
+we discuss minimal models of SW(3/2,2), which were constructed with independent
+methods, in this framework. Covariant formulation is used throughout this
+paper.
+","[{""version"":""v1"",""created"":""Wed, 4 May 1994 13:47:44 GMT""}]","2015-06-26"
+"nucl-th/9405003",,"L. Frankfurt, E. Piasetsky, M. Sargsyan, M. Strikman","Probing Short Range Nucleon Correlations in High Energy Hard
+  Quasielastic pd Reactions","18 pages (LaTex) + 10 postscript figs (available on request)","Phys.Rev.C51:890-900,1995","10.1103/PhysRevC.51.890",,"nucl-th",,"  We show that the strong dependence of the amplitude for $NN$ hard scattering
+on the collision energy can be used to magnify the effects of short range
+nucleon correlations in quasielastic $pd$ scattering. Under specific
+kinematical conditions the effect of initial and final state interactions can
+be accounted for by rescaling the cross section calculated within the plane
+wave impulse approximation. The feasibility to investigate the role of
+relativistic effects in the deuteron wave function is demonstrated by comparing
+the predictions of different formalisms. Binding effects due to short range
+correlations in deuteron are discussed as well.
+","[{""version"":""v1"",""created"":""Tue, 3 May 1994 20:23:08 GMT""}]","2009-09-25"
+"nucl-th/9405004",,"G. Colo`, N. Van Giai, P.F. Bortignon, R.A. Broglia","Escape and Spreading Properties of Charge-Exchange Resonances in Bi 208","26 pages including references, figure captions and tables. Figures
+  are available upon request at COLO@IPNVAX.IN2P3.FR (decnet 32858::COLO).
+  Preprint code: IPNO/TH 94-22","Phys.Rev.C50:1496-1508,1994","10.1103/PhysRevC.50.1496",,"nucl-th",,"  The properties of charge-exchange excitations of ${}^ {208}$Pb with $\Delta L
+= 0$, i.e., the isobaric analog and Gamow-Teller resonances, are studied within
+a self-consistent model making use of an effective force of the Skyrme type.
+The well-known isobaric analog case is used to assess the reliability of the
+model. The calculated properties of the Gamow-Teller resonance are compared
+with recent experimental measurements with the aim of better understanding the
+microscopic structure of this mode.
+","[{""version"":""v1"",""created"":""Wed, 4 May 1994 13:36:47 GMT""}]","2009-09-25"

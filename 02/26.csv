@@ -1,0 +1,171 @@
+"cond-mat/9402107",,"I.V.Kolokolov (INFN, Sez.di Milano and Budker Institute of Nuclear
+  Physics, Novosibirsk Russia)","The spatial statistical properties of wave functions in a disordered
+  finite one-dimensional sample","LaTEX, 7 pages, Preprint IFUM-456/FT, Milano, Jan.1994",,"10.1209/0295-5075/28/3/007",,"cond-mat",,"  For a given wave function one can define a quantity $\mu_E$ having a meaning
+of its inverse spatial size. The Laplace transform of the distribution function
+$P(\mu_E)$ is calculated analytically for a 1D disordered sample with a finite
+length $L$.
+","[{""version"":""v1"",""created"":""Fri, 25 Feb 1994 16:04:39 GMT""}]","2015-06-25"
+"cond-mat/9402108",,"C.L. Kane, M.P.A. Fisher and J. Polchinski","Randomness at the Edge: Theory of Quantum Hall transport at filling
+  $\nu=2/3$","12 pages 1 postscript figure appended, REVTEX 3.0",,"10.1103/PhysRevLett.72.4129",,"cond-mat",,"  Current Luttinger liquid edge state theories for filling $\nu=2/3$ predict a
+non-universal Hall conductance, in disagreement with experiment. Upon inclusion
+of random edge tunnelling we find a phase transition into a new
+disordered-dominated edge phase. An exact solution of the random model in this
+phase gives a quantized Hall conductance of 2/3 and a neutral mode propagating
+upstream. The presence of the neutral mode changes the predicted temperature
+dependence for tunnelling through a point contact from $T^{2/\nu -2}$ to $T^2$.
+","[{""version"":""v1"",""created"":""Fri, 25 Feb 1994 19:58:12 GMT""}]","2009-10-22"
+"cond-mat/9402110","Jose Guilherme Moreira","A. T. Bernardes and J. G. Moreira","Model for Fracture in Fibrous Materials","13 pages (RevTex) and 5 figures (.ps)",,"10.1103/PhysRevB.49.15035",,"cond-mat",,"  A fiber bundle model in $(1+1)$-dimensions for the breaking of fibrous
+composite matrix is introduced. The model consists of $N$ parallel fibers fixed
+in two plates. When one of the plates is pulled in the direction parallel to
+the fibers, these can be broken with a probability that depends on their
+elastic energy. The mechanism of rupture is simulated by the breaking of
+neighbouring fibers that can generate random cracks spreading up through the
+system. Due to the simplicity of the model we have virtually no computational
+limitation. The model is sensitive to external conditions as temperature and
+traction time-rate. The energy {\it vs.} temperature behaviour, the diagrams of
+stress {\it vs.} strain and the histograms of the frequency {\it vs.} size of
+cracks are obtained. (to appear in Phys. Rev. B)
+","[{""version"":""v1"",""created"":""Fri, 25 Feb 1994 19:35:52 GMT""}]","2009-10-22"
+"gr-qc/9402044","Tonatiuh Matos","Tonatiuh Matos and Jerzy Plebanski","Axisymmetric Stationary Solutions as Harmonic Maps","17 TeX pages, one table,( CINVESTAV- preprint 12/93)",,"10.1007/BF02108050",,"gr-qc",,"  We present a method for generating exact solutions of Einstein equations in
+vacuum using harmonic maps, when the spacetime possesses two commutating
+Killing vectors. This method consists in writing the axisymmetric stationry
+Einstein equations in vacuum as a harmonic map which belongs to the group
+SL(2,R), and decomposing it in its harmonic ""submaps"". This method provides a
+natural classification of the solutions in classes (Weil's class, Lewis' class
+etc).
+","[{""version"":""v1"",""created"":""Sat, 26 Feb 1994 00:34:32 GMT""}]","2009-10-22"
+"hep-lat/9402018","Rajan Gupta","Rajan Gupta and Jeffrey Mandula","Matrix Elements of the Singlet Axial Current in the Proton","Self-contained PS file containing 19 pages. Final published version
+  of the paper","Phys.Rev. D50 (1994) 6931-6938","10.1103/PhysRevD.50.6931","LAUR-94-440","hep-lat hep-ph",,"  We present a method to estimate the matrix element of the singlet axial
+current within a polarized proton state using lattice QCD. The method relies on
+using the Adler-Bell-Jackiw anomaly and gives the desired result in the chiral
+limit. We show that this method fails in the quenched approximation. For heavy
+quarks one does not expect much difference between simulations including
+dynamical quarks and those done in the quenched approximation. For that reason
+we explore numerical methods on an existing set of quenched configurations. The
+data obtained in this exploratory study show a poor statistical signal.
+","[{""version"":""v1"",""created"":""Fri, 25 Feb 1994 22:13:39 GMT""},{""version"":""v2"",""created"":""Sun, 15 Jan 1995 19:27:19 GMT""}]","2009-10-22"
+"hep-ph/9402353","Lawrence M. Krauss","Marc Kamionkowski, Lawrence M. Krauss, and M. Ted Ressell","Implications of Recent Nucleon Spin Structure Measurements for
+  Neutralino Dark Matter Detection","7 pages, TeX, Harvmac required, CWRU-P3-94, IASSNS-HEP-94/14,
+  UCRL-JC-116940, revised to include updated data and analysis",,,,"hep-ph astro-ph nucl-th",,"  Predicted rates for direct and indirect detection of dark-matter neutralinos
+depend in general on the spin content of the nucleon. Neutralinos that are
+predominantly $B$-ino are the likeliest candidates for detection via
+spin-dependent interactions. Uncertainties in the measured spin content of the
+nucleon may lead to dramatic uncertainties in the rates for detection of
+$B$-inos by scattering off of nuclei with unpaired neutrons. Rates for
+spin-dependent scattering of $B$-inos off of nuclei with unpaired protons are
+far more robust, as are rates for capture of $B$-inos in the Sun.
+","[{""version"":""v1"",""created"":""Fri, 25 Feb 1994 18:24:19 GMT""},{""version"":""v2"",""created"":""Wed, 22 Jun 1994 16:39:23 GMT""}]","2008-02-03"
+"hep-ph/9402354","Zpli","Leonard S. Kisslinger and Zhenping Li","The Isospin Splittings of Heavy-Light Quark Systems","9 pages and 1 postscript figure file can be obtained from the author",,,,"hep-ph",,"  The mass splittings of the pseudoscalar and vector D and B light-heavy quark
+systems have been calculated using the method of QCD sum rules.
+Electromagnetic, quark mass, and nonperturbative QCD effects are all included.
+The results are in good agreement with experiment. A measurement of isospin
+splitting for the vector B mesons would give valuable information about quark
+mass splittings.
+","[{""version"":""v1"",""created"":""Fri, 25 Feb 1994 19:49:22 GMT""}]","2009-09-25"
+"hep-ph/9402355",,"Sandip Pakvasa","Solar and atmospheric neutrinos","14 pages,UH-511-782-94",,,,"hep-ph",,"  Possible explanations of solar neutrino and atmospheric neutrino anomalies
+are summarized and future tests discussed.
+","[{""version"":""v1"",""created"":""Fri, 25 Feb 1994 20:45:13 GMT""}]","2007-05-23"
+"hep-ph/9402356",,"Alakabha Datta, Sandip Pakvasa and Utpal Sarkar","Corrections to mass scale predictions in SO(10) GUT with higher
+  dimensional operators","18 pages with three figures available on
+  request(datta@uhhepg.bitnet),UH-511-780-94","Phys.Rev.D50:2192-2198,1994","10.1103/PhysRevD.50.2192",,"hep-ph",,"  We calculate the two loop contribution to the predictions of the mass scales
+in an SO(10) grand unified theory. We consider the modified unification scale
+boundary conditions due to the non-renormalizable higher dimensional terms
+arising from quantum gravity or spontaneous compactification of extra
+dimensions in Kaluza-Klein type theory. We find the range of these couplings
+which allows left-right symmetry to survive till very low energy (as low as
+$\sim$ TeV) and still be compatible with the latest values of $\sin^2 \theta_W$
+and $\alpha_s$ derived from LEP. We consider both the situation when the
+left-right parity is broken and conserved.We consider both supersymmetric and
+non-supersymmertic versions of the SO(10) theory.Taking the D-conserved
+non-susy case as an example we calculate the effects of moderate threshold
+uncertainties at the heavy scale, due to the unknown higgs masses,on the
+gravity induced couplings.
+","[{""version"":""v1"",""created"":""Fri, 25 Feb 1994 20:52:58 GMT""}]","2019-08-17"
+"hep-ph/9402357",,"Taichiro KUGO and Joe SATO","Dynamical Symmetry Breaking in an E_6 GUT Model","29 pages (no figures), phyzzx and tables.tex KUNS-1251","Prog.Theor.Phys. 91 (1994) 1217-1238","10.1143/ptp/91.6.1217",,"hep-ph",,"  Dynamical symmetry breaking is studied in an E_6 GUT model of a single
+generation of fermions with strong 4-fermi interactions. The effective
+potential is analyzed analytically by the help of Michel's conjecture and the
+result is confirmed numerically. We find that the E_6 symmetry is spontaneously
+broken either to F_4 or to Sp(8) or G_2 or SU(3), depending on which of the
+4-fermi coupling constants G_27 and G_351 in the 27/351 channels is stronger.
+The possibilities for obtaining other type of breaking patterns are also
+discussed.
+","[{""version"":""v1"",""created"":""Sat, 26 Feb 1994 10:52:09 GMT""}]","2017-02-01"
+"hep-ph/9402358","Per Osland","Arild Skjold and Per Osland","Signals of $CP$ violation in Higgs decay","11 pages (5 figures in Postscript appended as uuencoded
+  tar-compressed file), LATEX (full postscript version available by anonymous
+  ftp at node VSFYS1.FI.UIB.NO in subdirectory OSLAND, file BERGEN94-06.PS),
+  Bergen Scientific/Technical Report No. 1994-06","Phys.Lett.B329:305-311,1994","10.1016/0370-2693(94)90777-3",,"hep-ph",,"  We consider an extension of the Standard Model where some Higgs particle is
+not an eigenstate of $CP$, and discuss the possibility of extracting signals of
+the resulting $CP$ violation. In the case of Higgs decay to four fermions we
+study correlations among momenta of the final-state fermions. We discuss
+observables which may demonstrate presence of $CP$ violation and identify a
+phase shift $\delta$, which is a measure of the strength of $CP$ violation in
+the Higgs-vector-vector coupling, and which can be measured directly in the
+decay distribution. In addition to these angular correlations, we consider
+correlations between energy differences. The former correlations include some
+recently reported results, whereas the latter ones appear to provide a much
+better probe for revealing $CP$ violation.
+","[{""version"":""v1"",""created"":""Sat, 26 Feb 1994 11:14:39 GMT""}]","2010-11-01"
+"hep-th/9402144","Andre Leclair","D. Bernard and A. Leclair","Differential Equations for Sine-Gordon Correlation Functions at the Free
+  Fermion Point","28 pages. In this corrected version, more general solutions to the
+  differential equations, which are required for correlators of inequivalent
+  fields, are included. erratum hep-th/9703055 describes the substantial
+  changes from original version","Nucl.Phys.B426:534-558,1994; Erratum-ibid.B498:619-621,1997","10.1016/0550-3213(94)90020-5",,"hep-th",,"  We demonstrate that for the sine-Gordon theory at the free fermion point, the
+2-point correlation functions of the fields $\exp (i\al \Phi )$ for $0< \al <
+1$ can be parameterized in terms of a solution to a sinh-Gordon-like equation.
+This result is derived by summing over intermediate multiparticle states and
+using the form factors to express this as a Fredholm determinant. The proof of
+the differential equations relies on a $\Zmath_2$ graded multiplication law
+satisfied by the integral operators of the Fredholm determinant. Using this
+methodology, we give a new proof of the differential equations which govern the
+spin and disorder field correlators in the Ising model.
+","[{""version"":""v1"",""created"":""Fri, 25 Feb 1994 16:32:53 GMT""},{""version"":""v2"",""created"":""Thu, 6 Mar 1997 22:10:40 GMT""}]","2008-11-26"
+"hep-th/9402145","Benjamin Enriquez","B. Enriquez","Quantum principal commutative subalgebra in the nilpotent part of
+  $U_q\widehat{s\ell}_2$ and lattice KdV variables",,"Commun.Math.Phys. 170 (1995) 197-206","10.1007/BF02099445",,"hep-th",,"  We propose a quantum lattice version of Feigin and E. Frenkel's
+constructions, identifying the KdV differential polynomials with functions on a
+homogeneous space under the nilpotent part of $\widehat{s\ell}_2$. We construct
+an action of the nilpotent part $U_q\widehat n_+$ of $U_q\widehat{s\ell}_2$ on
+their lattice counterparts, and embed the lattice variables in a $U_q\widehat
+n_+$-module, coinduced from a quantum version of the principal commutative
+subalgebra, which is defined using the identification of $U_q\widehat n_+$ with
+its coordinate algebra.
+","[{""version"":""v1"",""created"":""Fri, 25 Feb 1994 17:07:05 GMT""}]","2009-10-28"
+"hep-th/9402146",,"N. R. F. Braga and H. Montani","Chiral Bosons as solutions of the BV master equation 2D chiral gauge
+  theories","11 pages, TEX dialet, IF/UFRJ-94-6","Mod.Phys.Lett.A10:1365-1374,1995","10.1142/S0217732395001484",,"hep-th",,"  We construct the chiral Wess-Zumino term as a solution for the
+Batalin-Vilkovisky master equation for anomalous two-dimensional gauge
+theories, working in an extended field-antifield space, where the gauge group
+elements are introduced as additional degrees of freedom.
+  We analyze the Abelian and the non-Abelian cases, calculating in both cases
+the BRST generator in order to show the physical equivalence between this
+chiral solution for the master equation and the usual (non-chiral) one.
+","[{""version"":""v1"",""created"":""Fri, 25 Feb 1994 17:56:33 GMT""}]","2008-11-26"
+"hep-th/9402147","Yu. I. Manin","M. Kontsevich, Yu. Manin","Gromov-Witten classes, quantum cohomology, and enumerative geometry","44 p, amstex","Commun.Math.Phys. 164 (1994) 525-562","10.1007/BF02101490","MPI/94-21","hep-th alg-geom math.AG",,"  The paper is devoted to the mathematical aspects of topological quantum field
+theory and its applications to enumerative problems of algebraic geometry. In
+particular, it contains an axiomatic treatment of Gromov-Witten classes, and a
+discussion of their properties for Fano varieties. Cohomological Field Theories
+are defined, and it is proved that tree level theories are determined by their
+correlation functions. Applications to counting rational curves on del Pezzo
+surfaces and projective spaces are given.
+","[{""version"":""v1"",""created"":""Sat, 26 Feb 1994 11:37:53 GMT""},{""version"":""v2"",""created"":""Wed, 13 Apr 1994 16:32:55 GMT""}]","2009-10-28"
+"nucl-th/9402029","Ray Nix","J. Rayford Nix","Quantum Size Effects in Classical Hadrodynamics","6 pages, LA-UR-94-453",,,,"nucl-th",,"  We discuss future directions in the development of classical hadrodynamics
+for extended nucleons, corresponding to nucleons of finite size interacting
+with massive meson fields. This new theory provides a natural covariant
+microscopic approach to relativistic nucleus-nucleus collisions that includes
+automatically spacetime nonlocality and retardation, nonequilibrium phenomena,
+interactions among all nucleons, and particle production. The present version
+of our theory includes only the neutral scalar ($\sigma$) and neutral vector
+($\omega$) meson fields. In the future, additional isovector pseudoscalar
+($\pi^+$,~$\pi^-$,~$\pi^0$), isovector vector ($\rho^+$,~$\rho^-$,~$\rho^0$),
+and neutral pseudoscalar ($\eta$) meson fields should be incorporated. Quantum
+size effects should be included in the equations of motion by use of the
+spreading function of Moniz and Sharp, which generates an effective nucleon
+mass density smeared out over a Compton wavelength. However, unlike the
+situation in electrodynamics, the Compton wavelength of the nucleon is small
+compared to its radius, so that effects due to the intrinsic size of the
+nucleon dominate.
+","[{""version"":""v1"",""created"":""Fri, 25 Feb 1994 17:17:39 GMT""},{""version"":""v2"",""created"":""Mon, 28 Feb 1994 16:11:39 GMT""}]","2008-02-03"
+"nucl-th/9402030","Stefan Lenz","Stefan Lenz","Stochastic Methods for Quantum Scattering","4pages",,,,"nucl-th",,"  Quantum scattering at zero energy is studied with stochastic methods. A path
+integral representation for the scattering cross section is developed. It is
+demonstrated that Monte Carlo simulation can be used to compare effective
+potentials which are frequently used in multiple scattering with the exact
+result.
+","[{""version"":""v1"",""created"":""Fri, 25 Feb 1994 20:42:54 GMT""}]","2007-05-23"

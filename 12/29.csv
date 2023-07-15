@@ -1,0 +1,163 @@
+"astro-ph/9412095",,"J. W. Moffat","Galaxy Dynamics Predictions in the Nonsymmetric Gravitational Theory","10 pages, plain TeX macro included","Phys.Lett. B378 (1996) 59-67","10.1016/0370-2693(96)00366-8","UTPT-94-39","astro-ph",,"  In the weak field approximation, the nonsymmetric gravitational theory has,
+in addition to the Newtonian gravitational potential, a Yukawa potential
+produced by the exchange of a spin $1^+$ boson between fermions. If the range
+$r_0$ is of order $30$ kpc, then the potential due to the interaction of known
+neutrinos in the halos of galaxies can explain the flat rotation curves of
+galaxies. The results are based on a physical linear approximation to the NGT
+field equations and they are consistent with equivalence principle
+observations, other solar system gravitational experiments and the binary
+pulsar data.
+","[{""version"":""v1"",""created"":""Wed, 28 Dec 1994 19:32:10 GMT""}]","2015-06-24"
+"cond-mat/9412118","Sascha Gogolin","M. Fabrizio, Alexander O. Gogolin, and Ph. Nozi\`eres","Anderson-Yuval approach to the multichannel Kondo problem","23 pages, ReVTeX, 4 figures av. on request",,"10.1103/PhysRevB.51.16088",,"cond-mat",,"  We analyze the structure of the perturbation expansion of the general
+multichannel Kondo model with channel anisotropic exchange couplings and in the
+presence of an external magnetic field, generalizing to this case the
+Anderson-Yuval technique. For two channels, we are able to map the Kondo model
+onto a generalized resonant level model. Limiting cases in which the equivalent
+resonant level model is solvable are identified. The solution correctly
+captures the properties of the two channel Kondo model, and also allows an
+analytic description of the cross-over from the non Fermi liquid to the Fermi
+liquid behavior caused by the channel anisotropy.
+","[{""version"":""v1"",""created"":""Wed, 28 Dec 1994 17:27:54 GMT""}]","2009-10-22"
+"cond-mat/9412119","Randall Kamien","David R. Nelson and Randall D. Kamien","Polymer Braids and Iterated Moire Maps","Plain TeX, 7 Figures, some included. To Appear in the Proceedings of
+  the Wiener 1994 Centennial Symposium edited by D. Jerison, I.M. Singer and
+  D.W. Strock. Modification: remaining figures (as well as all the figures) are
+  available at ftp://ftp.sns.ias.edu/pub/kamien/","""The Legacy of Norbert Wiener..."" (AMS, Providence, RI, 1997)",,"IASSNS-HEP-94/33","cond-mat",,"  Crystalline order in dense packings of long polymers with a definite
+handedness is difficult to reconcile with the tendency of these chiral objects
+to twist and braid about each other. If the chirality is weak, the state of
+lowest energy is a triangular lattice of rigid rods. When the chirality is
+strong, however, screw dislocations proliferate, leading to either a tilt grain
+boundary phase or a new ""moire state"" with twisted bond order. In the latter
+case, polymer trajectories in the plane perpendicular to their average
+direction are described by iterated moir\'e maps of remarkable complexity,
+reminiscent of dynamical systems.
+","[{""version"":""v1"",""created"":""Thu, 29 Dec 1994 00:23:21 GMT""},{""version"":""v2"",""created"":""Thu, 29 Dec 1994 19:16:28 GMT""}]","2008-02-03"
+"hep-ph/9412380","Gambino","G. Degrassi, S. Fanchiotti, F. Feruglio, P.Gambino, A.Vicini","Two-loop electroweak top corrections: are they under control?","13 pages, LaTeX using equations, doublespace, cite macros. Hard
+  copies of the paper including one figure are available from
+  degrassi@mvxpd5.pd.infn.it","Phys.Lett. B350 (1995) 75-84","10.1016/0370-2693(95)00268-P","DFPD 94/TH/60 and NYU-TH-94/11/03","hep-ph",,"  The assumption that two-loop top corrections are well approximated by the
+$O(G_mu^2 mt^4)$ contribution is investigated. It is shown that in the case of
+the ratio neutral-to-charged current amplitudes at zero momentum transfer the
+$O(G_mu^2 mt^2 M_Z^2)$ terms are numerically comparable to the $m_t^4$
+contribution for realistic values of the top mass. An estimate of the
+theoretical error due to unknown two-loop top effect is presented for a few
+observables of LEP interest.
+","[{""version"":""v1"",""created"":""Wed, 28 Dec 1994 16:22:02 GMT""}]","2009-10-28"
+"hep-ph/9412381","Jon Pumplin","Jon Pumplin (Michigan State University)","Two Gluon Exchange Model Predictions for Double Pomeron Jet Production","Version to appear in Phys. Rev. D, 17 pages, LaTeX, 3 figures as
+  separate uuencoded ps file","Phys.Rev. D52 (1995) 1477-1485","10.1103/PhysRevD.52.1477","MSUHEP-41222","hep-ph",,"  I extend the two gluon exchange picture of elastic scattering, known as the
+Low-Nussinov or Subtractive Quark Model, to predict cross sections for double
+pomeron exchange processes. In particular, I calculate p p-bar to p p-bar q
+q-bar where the q q-bar partons appear as jets separated from the final p and
+p-bar by large gaps in rapidity. The predicted cross section is large enough
+that this process should be observable at the Fermilab Tevatron and at the
+Large Hadron Collider. It can be distinguished from the background of ordinary
+jet production by the absence of particles produced in the gap regions.
+","[{""version"":""v1"",""created"":""Wed, 28 Dec 1994 18:23:11 GMT""},{""version"":""v2"",""created"":""Thu, 29 Dec 1994 14:15:32 GMT""},{""version"":""v3"",""created"":""Tue, 23 May 1995 15:20:04 GMT""}]","2009-10-28"
+"hep-ph/9412382",,"A. Arhrib, M. Capdequi-Peyranere and A. Djouadi","QCD corrections to scalar quark pair production in e+e- annihilation","one typo corrected (2d paragraph of setion 5) and a better set of
+  figures has been included as an uuencoded compressed tar postscript file","Phys.Rev. D52 (1995) 1404-1417","10.1103/PhysRevD.52.1404","PM 94/31 and UdeM-GPP-94-13","hep-ph",,"  We calculate the QCD radiative corrections to the production of
+supersymmetric scalar partners of quarks in e+e- annihilation. We include both
+the standard gluonic corrections and the genuine supersymmetric QCD corrections
+due to quark--gluino loops, and allow for mixing between left-- and
+right--handed scalar quarks which leads to the possibility that the two final
+state particles have different masses. The corrections are found to be much
+larger than the ones affecting the production of spin 1/2 particles.
+","[{""version"":""v1"",""created"":""Wed, 28 Dec 1994 19:44:19 GMT""},{""version"":""v2"",""created"":""Mon, 9 Jan 1995 22:46:25 GMT""}]","2009-10-28"
+"hep-ph/9412383",,"Huazhong Zhang","Selection Rule for Generation Numbers and Gauge Anomalies for
+  Unification Groups","LaTeX 65k bytes, in press","J.Group Theor.Phys.3:89-105,1995",,"JSUHEP-OCT-94-01","hep-ph",,"  The possibilities of global (non-perturbative) gauge anomalies for a class of
+gauge groups are investigated. Intimately connected to branching rules and
+topological aspect of gauge groups, the results are applied to the study of
+unification gauge groups such as SO(10), SU(5), $E_6$, $E_8$ etc. Especially,
+we discuss extensively about the selection rule for generation numbers
+$N_f+N_{mf}=even\ge 4$ in SO(10) and supersymmetric SO(10) unification theories
+as originally proposed by the author$^1$, where $N_f$ and $N_{mf}$ denote the
+generation numbers for ordinary fermions and mirror fermions respectively. This
+is due to the global gauge anomalies from some subgroups of SO(10) in a
+fundamental spinor representation such that the ill-defined 'large' gauge
+transformations in the subgroup cannot be unwrapped in SO(10) in the quantum
+theory as we noted$^1$. A similar result related to left-right symmetric models
+is also given.
+","[{""version"":""v1"",""created"":""Thu, 29 Dec 1994 05:33:09 GMT""}]","2014-11-17"
+"hep-ph/9412384","Jacek Wosiek","Wolfgang Ochs (Max-Planck-Institute fur Physik, Munich) and Jacek
+  Wosiek (Jagellonian University, Cracow)","Angular structure of QCD jets","99 pages, LATEX, figures and appendices uufiled and appened","Z.Phys. C68 (1995) 269-296","10.1007/BF01566674","MPI-PhT/94-94; TPJU-26/94","hep-ph",,"  We derive the angular correlation functions between an arbitary number of
+partons inside a quark or gluon jet emerging from a high energy hard collision.
+As an application results for the correlation in the relative angle between two
+partons as well as the multiplicity moments of any order for partons in a
+sidewise angular region are calculated. At asymptotic energies the
+distributions of rescaled angular variables approach a scaling limit of a new
+type with two redundant quantities. All observables reveal the power behaviour
+characteristic to the fully developed selfsimilar cascade in appropriate
+regions of phase space. We present analytical results from the double
+logarithmic approximation as well as Monte Carlo results.
+","[{""version"":""v1"",""created"":""Thu, 29 Dec 1994 13:48:09 GMT""}]","2009-10-28"
+"hep-th/9412225","Yongsung Yoon","Younghoon Park and Yongsung Yoon","Dynamical Supersymmetry of a Vortex System with $1/r^{2}$ Potential","revtex 3.0, 13 pages, no figure",,,,"hep-th",,"  The Pauli Hamiltonian for a spin $\frac{1}{2}$ charged particle interacting
+with a point magnetic vortex and $1/r^{2}$ potential exhibits a dynamical
+supersymmetry $Osp(1,1)$ on the plane except at the origin. Using this
+symmetry, the spectrum and the wave functions have been obtained. And, the
+dynamical supersymmetry could be imported to the case when an external harmonic
+potential is added.
+","[{""version"":""v1"",""created"":""Thu, 29 Dec 1994 13:28:54 GMT""}]","2007-05-23"
+"hep-th/9412228","Stuart Samuel","Joaquim Gomis, Jordi Paris and Stuart Samuel","Antibracket, Antifields and Gauge-Theory Quantization","191 pages in three files which must be put together, in Latex, to
+  appear in Physics Reports","Phys.Rept. 259 (1995) 1-145","10.1016/0370-1573(94)00112-G","CCNY-HEP-94/03 KUL-TF-94/12 UB-ECM-PF 94/15 UTTG-11-94","hep-th",,"  The antibracket formalism for gauge theories, at both the classical and
+quantum level, is reviewed. Gauge transformations and the associated gauge
+structure are analyzed in detail. The basic concepts involved in the
+antibracket formalism are elucidated. Gauge-fixing, quantum effects, and
+anomalies within the field-antifield formalism are developed. The concepts,
+issues and constructions are illustrated using eight gauge-theory models.
+","[{""version"":""v1"",""created"":""Wed, 28 Dec 1994 20:37:54 GMT""}]","2009-10-28"
+"hep-th/9412229","Sergei Lukyanov","V. Bazhanov, S. Lukyanov, A. Zamolodchikov","Integrable Structure of Conformal Field Theory, Quantum KdV Theory and
+  Thermodynamic Bethe Ansatz","24 pages","Commun.Math.Phys.177:381-398,1996","10.1007/BF02101898","CLNS 94/1316, RU-94-98","hep-th",,"  We construct the quantum versions of the monodromy matrices of KdV theory.
+The traces of these quantum monodromy matrices, which will be called as ``${\bf
+T}$-operators'', act in highest weight Virasoro modules. The ${\bf
+T}$-operators depend on the spectral parameter $\lambda$ and their expansion
+around $\lambda = \infty$ generates an infinite set of commuting Hamiltonians
+of the quantum KdV system. The ${\bf T}$-operators can be viewed as the
+continuous field theory versions of the commuting transfer-matrices of
+integrable lattice theory. In particular, we show that for the values
+$c=1-3{{(2n+1)^2}\over {2n+3}} , n=1,2,3,... $of the Virasoro central charge
+the eigenvalues of the ${\bf T}$-operators satisfy a closed system of
+functional equations sufficient for determining the spectrum. For the
+ground-state eigenvalue these functional equations are equivalent to those of
+massless Thermodynamic Bethe Ansatz for the minimal conformal field theory
+${\cal M}_{2,2n+3}$; in general they provide a way to generalize the technique
+of Thermodynamic Bethe Ansatz to the excited states. We discuss a
+generalization of our approach to the cases of massive field theories obtained
+by perturbing these Conformal Field Theories with the operator $\Phi_{1,3}$.
+The relation of these ${\bf T}$-operators to the boundary states is also
+briefly described.
+","[{""version"":""v1"",""created"":""Wed, 28 Dec 1994 23:19:42 GMT""}]","2011-02-11"
+"hep-th/9412230","7353","E. Brezin, S. Hikami and A.Zee","Universal correlations for deterministic plus random Hamiltonians","26P, (+5 figures not included)",,"10.1103/PhysRevE.51.5442","LPTENS-94-35,NSF-ITP-94-135,UT-KOMABA-94-21","hep-th cond-mat",,"  We consider the (smoothed) average correlation between the density of energy
+levels of a disordered system, in which the Hamiltonian is equal to the sum of
+a deterministic H0 and of a random potential $\varphi$. Remarkably, this
+correlation function may be explicitly determined in the limit of large
+matrices, for any unperturbed H0 and for a class of probability distribution
+P$(\varphi)$ of the random potential. We find a compact representation of the
+correlation function. From this representation one obtains readily the short
+distance behavior, which has been conjectured in various contexts to be
+universal. Indeed we find that it is totally independent of both H0 and
+P($\varphi$).
+","[{""version"":""v1"",""created"":""Thu, 29 Dec 1994 09:25:16 GMT""}]","2009-10-28"
+"hep-th/9412231",,"Wolfram Boenkost","Vertex--Operatoren, Darstellungen der Virasoro--Algebra und konforme
+  Quantenfeldtheorie","118 pages (german) latex",,,,"hep-th",,"  In this work we describe the mathematical foundations used in the
+construction of primary fields of minimal models of conformal field theory. The
+work contains two parts: In the first part we give a description of Verma and
+Fock modules for the Virasoro algebra and develop their imbedding patterns.
+This part is a simplification of the work of Feigin and Fuks (we correct a
+mistake in their patterns in the case III_+), Rocha-Charidi and some new ideas
+which yield a simplification of the original papers. In the second part we
+define (free) vertex operators as unbounded Hilbert space operators, acting on
+Fock spaces, which are Virasoro modules. We prove several properties of these
+operators: under appropriate conditions vertex operators are densely defined,
+not closable operators. Radially ordered products of vertex operators exists on
+a dense subset. We prove commutation relations between vertex operators and
+elements of the Virasoro algebra. Next we define, following the (non rigouros)
+work of G. Felder, integrated vertex operators and prove that these operators
+resemble the properties of the not integrated vertex operators. Special
+integrated vertex operators can be identified with conformal fields and a
+Virasoro invariant subspace of Fock space can be identified with the physical
+Hilbert space for the conformal theory.
+","[{""version"":""v1"",""created"":""Thu, 29 Dec 1994 11:31:20 GMT""}]","2007-05-23"
+"hep-th/9412233",,"A.A. Slavnov","Generalized Pauli-Villars regularization for undoubled lattice fermions","10 pages LATEX file","Phys.Lett. B348 (1995) 553-559","10.1016/0370-2693(95)00202-V","SMI-9-94","hep-th",,"  A manifestly gauge invariant formulation of chiral theories with fermions on
+the lattice is developed. It combines SLAC lattice derivative \cite{DWY},
+\cite{ACS}, \cite{S} and generalized Pauli-Villars regularization \cite{FS}.
+The theory is free of fermion doubling, requires only local gauge invariant
+counterterms and produces correct results when applied to exactly solvable two
+dimensional models.
+","[{""version"":""v1"",""created"":""Thu, 29 Dec 1994 08:13:48 GMT""}]","2009-10-28"

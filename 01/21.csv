@@ -1,0 +1,304 @@
+"alg-geom/9401004",,"Tadeusz Krasin\'nski","Matrix identities connected with the jacobian conjecture","9 pages, AmS TeX Version 2.0",,,,"alg-geom math.AG",,"  We give necessary and sufficient conditions, in the form of matrix
+identities, for a polynomial f in C[X,Y] to be a component of a polynomial
+automorphism of C^2 and to be a component of a Keller polynomial mapping of
+C^2, respectively ((f,g) is a Keller polynomial mapping iff Jac(f,g) = 1).
+","[{""version"":""v1"",""created"":""Fri, 21 Jan 1994 10:18:19 GMT""}]","2008-02-03"
+"astro-ph/9401036","Dale Frail","S. R. Kulkarni, D. A. Frail, N. E. Kassim, T. Murakami and G. Vasisht","The Radio Nebula of the Soft Gamma Ray Repeater SGR 1806-20","7 pages, PostScript. Figure available on request from dfrail@nrao.edu",,"10.1038/368129a0",,"astro-ph",,"  Earlier we had suggested that G10.0-0.3, a non-thermal nebula, most likely an
+old supernova remnant (SNR), was associated with the soft gamma repeater (SGR)
+SGR 1806-20. Here we present new radio images obtained at the Very Large Array
+(VLA) of the non-thermal radio nebula G10.0-0.3. The nebula is a plerion with a
+hierarchy of nested amorphous components culminating in a peak. The recent
+dramatic detection of an X-ray point source coincident with the radio peak and
+a hard X-ray burst localized to G10.0-0.3 confirms the SNR-SGR association. We
+propose that the SGR is an isolated pulsar with both a steady and impulsive
+relativistic particle wind and these two together power the nebula. We note
+that both this SGR and SGR 0526-66 are offset from the centers of their SNRs
+which requires high space motion of the pulsar. We suggest that some natal
+mechanism produces high velocity and induces SGR activity.
+","[{""version"":""v1"",""created"":""Fri, 21 Jan 1994 05:21:38 GMT""}]","2009-10-22"
+"astro-ph/9401037","Il Greco","M. Plionis and S. Borgani","Lick Galaxy Correlation Function Revised","4 pages. Postscript (Figure on request). Submitted to MNRAS",,,,"astro-ph",,"  We re-estimate the angular 2-point galaxy correlation function from the Lick
+galaxy catalogue. We argue that the large-scale gradients observed in the Lick
+catalogue are dominated by real clustering and therefore they should not be
+subtracted prior to the estimation of the 2-p correlation function. We find
+that if no such correction is introduced the galaxy correlations are perfectly
+consistent with the those found in the APM survey. Thus, the long standing
+discrepancy between the Lick and APM angular correlations is lifted.
+","[{""version"":""v1"",""created"":""Fri, 21 Jan 1994 14:38:54 GMT""}]","2007-05-23"
+"chao-dyn/9401007","Ga'bor Vattay","G\'abor Vattay (Niels Bohr Institute, Blegdamsvej 17, DK-2100
+  Copenhagen O, Denmark), Andreas Wirzba (Institut f\""ur Kernphysik, Technische
+  Hochschule Darmstadt, Schlo{\ss}gartenstr. 9, D-64289 Darmstadt, Germany),
+  and Per E. Rosenqvist (Niels Bohr Institute, Blegdamsvej 17, DK-2100
+  Copenhagen O, Denmark)","Periodic Orbit Theory of Diffraction","4 pages, latex/REVTEX, 2 PS figures","Phys. Rev. Lett. 73, 2304 (1994)","10.1103/PhysRevLett.73.2304",,"chao-dyn cond-mat nlin.CD",,"  An extension of the Gutzwiller trace formula is given that includes
+diffraction effects due to hard wall scatterers or other singularities. The new
+trace formula involves periodic orbits which have arcs on the surface of
+singularity and which correspond to creping waves. A new family of resonances
+in the two disk scattering system can be well described which is completely
+missing if only the traditional periodic orbits are used.
+","[{""version"":""v1"",""created"":""Fri, 21 Jan 1994 15:43:47 GMT""},{""version"":""v2"",""created"":""Mon, 5 Sep 1994 11:42:36 GMT""}]","2016-08-14"
+"cond-mat/9401042","Alexander V. Balatsky","A.V. Balatsky","Impurities and Conductivity in a D-wave Superconductor","6 pages , Revtex 3, Los Alamos Preprint LA-UR-94-96",,,,"cond-mat",,"  Impurity scattering in the unitary limit produces low energy quasiparticles
+with anisotropic spectrum in a two-dimensional $d$-wave superconductor. We
+describe a new {\em quasi-one-dimensional } limit of the quasiparticle
+scattering, which might occur in a superconductor with short coherence length
+and with {\em finite} impurity potential range. The dc conductivity in a
+$d$-wave superconductor is predicted to be proportional to the normal state
+scattering rate and is impurity-{\em dependent}. We show that {\em
+quasi-one-dimensional } regime might occur in high-$T_c$ superconductors with
+Zn impurities at low temp\ eratures $T\lesssim 10$~K
+","[{""version"":""v1"",""created"":""Thu, 20 Jan 1994 17:16:00 GMT""}]","2007-05-23"
+"cond-mat/9401043","Chris Lanczycki","S. DasSarma, C.J. Lanczycki, S.V. Ghaisas and J.M. Kim (Dept. of
+  Physics, Univ. of Maryland)","Defect Formation and Crossover Behavior in the Dynamic Scaling
+  Properties of Molecular Beam Epitaxy","20 pages (+4 figures - not included), Latex 2.95, PP-1133",,,,"cond-mat",,"  Stochastic simulation results, appropriate for Molecular Beam Epitaxy,
+involving ballistic deposition and thermally activated Arrhenius diffusion of
+adatoms are presented for one- and two-dimensional substrates, allowing for
+overhangs and bulk vacancies. The asymptotic Kardar-Parisi- Zhang universality
+is found to be triggered by a sudden nucleation of large-scale defect formation
+in the growing film that shows a distinct dependence on dimensionality. The
+pre-nucleation transient behavior, which may be of experimental relevance due
+to the low defect content, is associated with standard solid-on-solid
+universality classes.
+","[{""version"":""v1"",""created"":""Thu, 20 Jan 1994 18:15:16 GMT""}]","2007-05-23"
+"gr-qc/9401023","J. Rizos","J.Rizos and K. Tamvakis","On the existence of singularity-free solutions in quartic gravity","9 pages, LATEX, uses epsf.tex macro, (1 figure included in
+  uuencode+compress EPSF form), IOA-296","Phys.Lett. B326 (1994) 57-61","10.1016/0370-2693(94)91192-4",,"gr-qc hep-th",,"  We study a general field theory of a scalar field coupled to gravitation
+through a quadratic Gauss-Bonnet term $\xi({\phi})$$R_{GB}^2$. We show that,
+under mild assumptions about the function $\xi(\phi)$, the classical solutions
+in a spatially flat FRW background include singularity - free solutions.
+","[{""version"":""v1"",""created"":""Thu, 20 Jan 1994 16:46:38 GMT""}]","2009-10-22"
+"hep-lat/9401025","Urs M. Heller","U.M. Heller, Khalil M. Bitar, R.G. Edwards and A.D. Kennedy","The heavy quark potential in QCD with 2 flavors of dynamical quarks","8 pages with 3 figures. uuencoded postscript file. FSU-SCRI-94-09","Phys.Lett.B335:71-76,1994","10.1016/0370-2693(94)91560-1",,"hep-lat",,"  We compute the heavy quark potential on configurations generated by the
+HEMCGC collaboration with dynamical staggered fermions at $6/g^2 = 5.6$ and
+with dynamical Wilson fermions at $6/g^2 = 5.3$. The computations are done on
+$16^3 \times 32$ lattices, corresponding to physical sizes of about 1.6 and 2.3
+fm, respectively. Up to the distances probed no sign of string breaking is
+detectable. We also compute the recently proposed scale $r_0$ defined by $r_0^2
+F(r_0) = 1.65$.
+","[{""version"":""v1"",""created"":""Thu, 20 Jan 1994 19:26:29 GMT""}]","2010-11-01"
+"hep-ph/9401294","Adrian Signer","Zoltan Kunszt, Adrian Signer and Zoltan Trocsanyi","Singular terms of helicity amplitudes at one-loop in QCD and the soft
+  limit of the cross sections of multi-parton processes","Latex,13 pages, ETH-TH/94-3","Nucl.Phys. B420 (1994) 550-564","10.1016/0550-3213(94)90077-9",,"hep-ph",,"  We describe a general method that enables us to obtain all the singular terms
+of helicity amplitudes of n-parton processes at one loop. The algorithm uses
+helicity amplitudes at tree level and simple color algebra.
+  We illustrate the method by calculating the singular part of the one loop
+helicity amplitudes of all $ 2\to 3$ parton subprocesses. The results are used
+to derive the soft gluon limit of the cross sections of all $2\to 4$ parton
+scattering subprocesses which provide a useful initial condition for the
+angular ordering approximation to coherent multiple soft gluon emission,
+incorporated in existing Monte Carlo simulation programs.
+","[{""version"":""v1"",""created"":""Thu, 20 Jan 1994 16:18:52 GMT""}]","2009-10-28"
+"hep-ph/9401296",,"H.J. Lu","Rapidity Gap in Jet Events at Lep200","24 pages, (18 Figures, not included, available by anonymous ftp)
+  RevTeX, U. of MD PP #94-073","Nucl.Phys. B427 (1994) 455-474",,,"hep-ph",,"  We analyze various perturbative mechanisms for the production of jet events
+containing rapidity gaps in $e^+e^-$ annihilation at LEP200 energies. We found
+that the processes $e^+e^- \to \gamma^* \gamma^*, \gamma^* Z, Z Z, WW \to 4~
+jets$ generate gap events at an observable rate. We point out that LEP200
+offers a unique opportunity for the study of gap events due to a smaller
+background of ``fake-gaps"".
+","[{""version"":""v1"",""created"":""Thu, 20 Jan 1994 19:44:24 GMT""}]","2009-09-25"
+"hep-ph/9401297","Stefano Moretti","Stefano Moretti","Intermediate mass Higgs bosons at TeV $e\gamma$ colliders in the ${\cal
+  {MSSM}}$","24 pages and 9 figures (figs.1-4 included, figs.5-9 will be sent on
+  request), LaTex file (uses Feynman.tex), Turin Univ. preprint DFTT 79/93
+  (Some control sequences undefined in previous version have been added)","Phys.Rev.D50:2016-2030,1994","10.1103/PhysRevD.50.2016",,"hep-ph",,"  We study the cross sections for the production of intermediate mass Higgs
+bosons via the reactions $e^-\gamma\rightarrow \nu_eW^-\Phi^0$,
+$e^-\gamma\rightarrow \nu_eH^-\Phi^0$, $e^-\gamma\rightarrow e^-Z^0\Phi^0$ and
+$e^-\gamma\rightarrow e^-H^+H^-$ in the Minimal Supersymmetric Standard Model
+(with $\Phi^0=H^0,h^0$ and, where possible, $A^0$) at TeV energies, taking into
+account $b$--tagging capabilities. We find that the rates for
+$e^-\gamma\rightarrow \nu_eW^-\Phi^0$ are large enough to permit the discovery
+of at least one between $h^0$ and $H^0$ over the whole intermediate mass range
+of $M_{A^0}$, at all $\tan\beta$, using the $(jj)(b\bar b)$ final state. The
+${\cal {CP}}$-odd neutral $A^0$ and the charged $H^\pm$'s can be detected via
+the processes $e^-\gamma\rightarrow \nu_eH^-A^0$, with $A^0\rightarrow b\bar
+b$, and $e^-\gamma\rightarrow e^-H^+H^-$, resorting to the leptonic decay
+$H^\pm\rightarrow \nu_\tau\tau^+(\bar\nu_\tau\tau^-)$, but only for
+$M_{A^0}\approx60$ GeV. Finally, we present explicit formulae for the helicity
+amplitudes of these processes.
+","[{""version"":""v1"",""created"":""Thu, 20 Jan 1994 20:27:12 GMT""},{""version"":""v2"",""created"":""Mon, 24 Jan 1994 18:24:13 GMT""}]","2014-11-17"
+"hep-ph/9401298",,"I. Bigi, B. Blok, M. Shifman, N. Uraltsev, A. Vainshtein","Non-Leptonic Decays of Beauty Hadrons -- from Phenomenology to Theory","26 pages + 2 PS figures attached. To appear in the second edition of
+  the book `B Decays', S.Stone (ed.), World Scientific (Replaces the wrong
+  LaTeX input with apologies for inconvenience)",,,"CERN-TH.7132/94; TPI-MINN-94/1-T, UMN-TH-1234/94, UND-HEP-94-BIG01,
+  TECHNION-PH-94-1","hep-ph",,"  `Anyone who keeps the ability to see beauty never grows old' Franz Kafka.
+  In the last few years considerable progress has been achieved in our
+understanding of the decays of heavy flavour hadrons. One can now calculate
+inclusive transition rates in QCD proper through an expansion in inverse powers
+of the heavy flavour quark mass without recourse to phenomenological
+assumptions. The non-perturbative contributions are treated systematically in
+this way; they are found to produce corrections of order a few percent in
+beauty decays, i.e. typically somewhat smaller than the perturbative
+corrections. One finds, among other things: (a) The lifetime of $B^-$ mesons is
+predicted to be longer than that of $B^0$ mesons by several percent. (b) The
+QCD prediction for the semileptonic branching ratio of $B$ mesons appears to
+exceed present experimental values. We discuss the implications of this
+discrepancy. The phenomenological engineering that has been developed for the
+description of {\em exclusive} two-body modes of $B$ mesons has reached a
+mature stage and awaits more precise and detailed experimental tests. First
+steps towards a genuine QCD treatment of these modes are being made.
+","[{""version"":""v1"",""created"":""Thu, 20 Jan 1994 21:35:19 GMT""},{""version"":""v2"",""created"":""Fri, 21 Jan 1994 23:43:56 GMT""}]","2009-09-25"
+"hep-ph/9401299","Lisa Randall","G. Bonvicini and L. Randall","Optimized Variables of the Study of $\Lambda_b$ Polarization","10 pages (LaTeX), 2 figures, MIT-CTP-2270, CERN-PPE/94-07","Phys.Rev.Lett.73:392-395,1994","10.1103/PhysRevLett.73.392",,"hep-ph",,"  The value of the $b$-baryon polarization can be extracted from inclusive data
+at LEP with better than 10\% precision based on current statistics. We present
+a new variable by which to measure the polarization, which is the ratio of the
+average electron energy to the average neutrino energy. This variable is both
+sensitive to polarization and insensitive to fragmentation uncertainties.
+","[{""version"":""v1"",""created"":""Thu, 20 Jan 1994 23:10:18 GMT""}]","2009-09-15"
+"hep-ph/9401300","Henning Heiselberg","H.Heiselberg","Transport Properties of Quark and Gluon Plasmas","12 pages, report LBL-34911",,,,"hep-ph",,"  The kinetic properties of relativistic quark-gluon and electron-photon
+plasmas are described in the weak coupling limit. The troublesome Rutherford
+divergence at small scattering angles is screened by Debye screening for the
+longitudinal or electric part of the interactions. The transverse or magnetic
+part of the interactions is effectively screened by Landau damping of the
+virtual photons and gluons transferred in the QED and QCD interactions
+respectively. Including screening a number of transport coefficients for QCD
+and QED plasmas can be calculated to leading order in the interaction strength,
+including rates of momentum and thermal relaxation, electrical conductivity,
+viscosities, flavor and spin diffusion of both high temperature and degenerate
+plasmas. Damping of quarks and gluons as well as color diffusion in quark-gluon
+plasmas is, however, shown not to be sufficiently screened and the rates
+depends on an infrared cut-off of order the ``magnetic mass"", $m_{\rm mag}\sim
+g^2 T$.
+","[{""version"":""v1"",""created"":""Fri, 21 Jan 1994 01:25:11 GMT""}]","2007-05-23"
+"hep-ph/9401301","Peter Cho","Peter Cho and Mark B. Wise","Comment on $D_s^* \to D_s \pi^0$ Decay","7 pages with 2 figures not included but available upon request,
+  CALT-68-1914","Phys.Rev. D49 (1994) 6228-6231","10.1103/PhysRevD.49.6228",,"hep-ph",,"  We calculate the rate for $D_s^* \rightarrow D_s \pi^0$ decay using Chiral
+Perturbation Theory. This isospin violating process results from $\pi^0$ -
+$\eta$ mixing, and its amplitude is proportional to $(m_d -
+m_u)/\bigl(m_s-(m_u+m_d)/2 \bigr)$. Experimental information on the branching
+ratio for $D_s^* \rightarrow D_s \pi^0$ can provide insight into the pattern of
+$SU(3)$ violation in radiative $D^*$ decays.
+","[{""version"":""v1"",""created"":""Fri, 21 Jan 1994 01:32:45 GMT""}]","2009-10-28"
+"hep-ph/9401302","Harold W. Fearing","T. E. Rudy, H. W. Fearing and S. Scherer","The off-shell electromagnetic form factors of pions and kaons in chiral
+  perturbation theory","TRIUMF preprint TRI-PP-94-4, 25 pages in LaTeX + 10 figures
+  (uufile'd, compressed PostScript file appended at end, hardcopy available
+  from authors)","Phys.Rev.C50:447-459,1994","10.1103/PhysRevC.50.447",,"hep-ph nucl-th",,"  The off-shell electromagnetic vertex of a (pseudo-) scalar particle contains,
+in general, two form factors F and G which depend, in addition to the squared
+momentum transfer, on the invariant masses associated with the initial and
+final legs of the vertex. Chiral perturbation theory to one loop is used to
+calculate the off-shell form factors of pions and kaons. The formalism of
+Gasser and Leutwyler, which was previously used to calculate the on-shell limit
+of the form factor F, is extended to accommodate the most general form for
+off-shell Green's functions in the pseudoscalar meson sector. We find that
+chiral symmetry predicts that the form factors F of the charged pions and kaons
+go off-shell in the same way, i.e., the off-shell slope at the real photon
+point is given by the same new phenomenological constant $\beta_1$.
+Furthermore, it is shown that at order $p^4$ the form factor F of the $K^0$
+does not show any off-shell dependence. The form factors G are all related to
+the form factors F in the correct fashion as required by the Ward-Takahashi
+identity. Numerical results for different off-shell kinematics are presented.
+","[{""version"":""v1"",""created"":""Fri, 21 Jan 1994 06:36:17 GMT""}]","2009-09-25"
+"hep-ph/9401303","Paul F. Mende","Benjamin Grinstein and Paul F. Mende","Form Factors in the Heavy Quark and Chiral Limit: Pole dominance in
+  $\bar B\to \pi e \bar\nu_e$","24 pages (harvmac, epsf), 6 figures (packed w/ uufiles), SSCL-549,
+  Brown HET-930","Nucl.Phys. B425 (1994) 451-470","10.1016/0550-3213(94)90283-6",,"hep-ph",,"  It is shown that the form factors in the semileptonic decay of ground state
+heavy mesons to light pseudoscalar mesons are dominated by the vector meson
+pole at all momentum transfers. First, the general approaches to modeling form
+factors in terms of quark model, pole dominance, or hybrid shapes are reviewed.
+It is then shown that in the combined limits of heavy quarks, chiral symmetry,
+and large~$\Nc$ the form factor is precisely pole-dominated. It is also shown
+that in a two-dimensional QCD model pole-dominance occurs for any heavy quark
+mass. Corrections to this limit are discussed and, to illustrate the nature of
+the approximations, an explicit exact calculation of the approach to the limit
+in a two-dimensional model is given.
+","[{""version"":""v1"",""created"":""Fri, 21 Jan 1994 08:25:34 GMT""},{""version"":""v2"",""created"":""Sun, 23 Jan 1994 05:26:13 GMT""}]","2009-10-28"
+"hep-ph/9401304","Mary Hall Reno","M. H. Reno","Relative distributions of W's and Z's at low transverse momenta","13 pages in revtex, 5 postscript figures available upon request,
+  UIOWA-94-01","Phys.Rev.D49:4326-4330,1994","10.1103/PhysRevD.49.R4326",,"hep-ph",,"  Despite large uncertainties in the $W^\pm$ and $Z^0$ transverse momentum
+($q_T$) distributions for $q_T\lsim 10$ GeV, the ratio of the distributions
+varys little. The uncertainty in the ratio of $W$ to $Z$ $q_T$ distributions is
+on the order of a few percent, independent of the details of the
+nonperturbative parameterization.
+","[{""version"":""v1"",""created"":""Fri, 21 Jan 1994 15:52:46 GMT""}]","2009-12-30"
+"hep-ph/9401308","Daniel Boyanovsky","D. Boyanovsky, H. J. de Vega and R. Holman","Can Disordered Chiral Condensates Form? A Dynamical Perspective","21 pages LATEX, 12 figures available upon request via regular mail,
+  PITT-94-01","Phys.Rev. D51 (1995) 734-747","10.1103/PhysRevD.51.734",,"hep-ph",,"  We address the issue of whether a region of disordered chiral condensate
+  (DCC), in which the chiral condensate has components along the pion
+directions, can form. We consider a system going through the chiral phase
+transition either via a quench, or via relaxation of the high temperature phase
+to the low temperature one within a given time scale (of order $\sim 1
+\rm{fm/c}$).
+  We use a density matrix based formalism that takes both thermal and quantum
+fluctuations into account non-perturbatively to argue that if the $O(4)$ linear
+sigma model is the correct way to model the situation in QCD, then it is very
+unlikely at least in the Hartree approximation, that a large ($> 10\ \rm{fm}$)
+DCC region will form. Typical sizes of such regions are $\sim 1 -2 \ \rm{fm}$
+and the density of pions in such regions is at most of order $\sim 0.2 /
+\rm{fm}^3$. We end with some speculations on how large DCC regions may be
+formed.
+","[{""version"":""v1"",""created"":""Fri, 21 Jan 1994 15:33:00 GMT""}]","2009-10-28"
+"hep-th/9401096",,"Yoshiyuki Watabiki","Construction of Non-critical String Field Theory by Transfer Matrix
+  Formalism in Dynamical Triangulation","64 pages","Nucl.Phys. B441 (1995) 119-166","10.1016/0550-3213(95)00010-P","INS-Rep.-1017","hep-th",,"  We propose a new method which analyzes the dynamical triangulation from the
+viewpoint of the non-critical string field theory. By using the transfer matrix
+formalism, we construct the non-critical string field theory (including $c>1$
+cases) at the discrete level. For pure quantum gravity, we succeed in taking
+the continuum limit and obtain the $c=0$ non-critical string field theory at
+the continuous level. We also study about the universality of the non-critical
+string field theory.
+","[{""version"":""v1"",""created"":""Thu, 20 Jan 1994 17:36:56 GMT""}]","2009-10-28"
+"hep-th/9401102","Mukherji Sudipta","Sumit R. Das and Sudipta Mukherji","Black Hole Formation and Space-Time Fluctuations in Two Dimensional
+  Dilaton Gravity and Complementarity","(Some typographical errors corrected and some equations added to
+  clarify the nature of the singularity in the in the semiclassical solution),
+  30 pagers, TIFR/TH/94-01, IC/94/16","Phys.Rev.D50:930-940,1994","10.1103/PhysRevD.50.930",,"hep-th",,"  We study black hole formation in a model of two dimensional dilaton gravity
+and 24 massless scalar fields with a boundary. We find the most general
+boundary condition consistent with perfect reflection of matter and the
+constraints. We show that in the semiclassical approximation and for the
+generic value of the parameter which characterizes the boundary conditions, the
+boundary starts receeding to infinity at the speed of light whenever the total
+energy of the incoming matter flux exceeds a certain critical value. This is
+also the critical energy which marks the onset of black hole formation. We then
+compute the quantum fluctuations of the boundary and of the rescaled scalar
+curvature and show that as soon as the incoming energy exceeds this critical
+value, an asymptotic observer using normal time resolutions will always measure
+large fluctuations of space-time near the horizon, even though the freely
+falling observer does not. This is an aspect of black hole complementarity
+relating directly the quantum gravity effects.
+","[{""version"":""v1"",""created"":""Thu, 20 Jan 1994 18:18:51 GMT""},{""version"":""v2"",""created"":""Sun, 15 May 1994 14:36:11 GMT""}]","2010-11-01"
+"hep-th/9401103","Vladimir Sadov","Alexander Astashkevich, V. Sadov","Quantum cohomology of partial flag manifolds","33 pages","Commun.Math.Phys. 170 (1995) 503-528","10.1007/BF02099147","HUTP-93/A040","hep-th math.AG",,"  We compute the quantum cohomology rings of the partial flag manifolds
+F_{n_1\cdots n_k}=U(n)/(U(n_1)\times \cdots \times U(n_k)). The inductive
+computation uses the idea of Givental and Kim. Also we define a notion of the
+vertical quantum cohomology ring of the algebraic bundle. For the flag bundle
+F_{n_1\cdots n_k}(E) associated with the vector bundle E this ring is found.
+","[{""version"":""v1"",""created"":""Thu, 20 Jan 1994 23:18:52 GMT""},{""version"":""v2"",""created"":""Fri, 21 Jan 1994 22:44:42 GMT""}]","2009-10-28"
+"hep-th/9401104",,"L. Girardello and A. Zaffaroni","Exact renormalization group equation and decoupling in quantum field
+  theory","Latex file, 19 pages","Nucl.Phys. B424 (1994) 219-238","10.1016/0550-3213(94)90095-7","IFUM/432/FT, SISSA/14/94/EP","hep-th",,"  New proves of decoupling of massive fields in several quantum field theories
+are derived in the effective Lagrangian approach based on Wilson
+renormalization group. In the most interesting case of gauge theories with
+spontaneous symmetry breaking, the approach, combined with the quantum action
+principle, leads to a rather simple proof to all orders.
+","[{""version"":""v1"",""created"":""Fri, 21 Jan 1994 10:07:02 GMT""}]","2009-10-28"
+"hep-th/9401105","Cliff Burgess","C.P. Burgess and F. Quevedo","Bosonization as Duality","plain TeX, 21 pages","Nucl.Phys. B421 (1994) 373-390","10.1016/0550-3213(94)90332-8","McGill-93/45, NEIP-93-010","hep-th cond-mat hep-ph",,"  We show that bosonization in two dimensions can be derived as a special case
+of the duality transformations that have recently been used to good effect in
+string theory. This allows the construction of the bosonic counterpart of any
+fermionic theory simply by `following your nose' using the standard duality
+transformation rules. We work through the bosonization of the Dirac fermion,
+the massive and massless Thirring models, and a fermion on a cylindrical
+spacetime as illustrative examples.
+","[{""version"":""v1"",""created"":""Fri, 21 Jan 1994 13:27:10 GMT""}]","2009-10-28"
+"hep-th/9401106","j Kubo","Jisuke Kubo","An analysis on the convergence of equal-time commutators and the closure
+  of the BRST algebra in Yang-Mills theories","35 pages","Nucl.Phys. B427 (1994) 398-424","10.1016/0550-3213(94)90282-8","MPI-PhT/94-01 and KANAZAWA-94-01","hep-th",,"  In renormalizable theories, we define equal-time commutators (ETC'S) in terms
+of the equal-time limit and investigate its convergence in perturbation theory.
+We find that the equal-time limit vanishes for amplitudes with the effective
+dimension $d_{\em eff} \leq -2$ and is finite for those with $d_{\em eff} =-1$
+but without nontrivial discontinuity. Otherwise we expect divergent equal-time
+limits. We also find that, if the ETC's involved in verifying an Jacobi
+identity exist, the identity is satisfied.
+  Under these circumstances, we show in the Yang-Mills theory that the ETC of
+the $0$ component of the BRST current with each other vanishes to all orders in
+perturbation theory if the theory is free from the chiral anomaly, from which
+we conclude that $[\, Q\,,\,Q\,]=0$, where $Q$ is the BRST charge. For the case
+that the chiral anomaly is not canceled, we use various broken Ward identities
+to show that $[\, Q\,,\,Q\,]$ is finite and $[\,Q\,,\,[\, Q\,,\,Q]\,]$ vanishes
+at the one-loop level and that they start to diverge at the two-loop level
+unless there is some unexpected cancellation mechanism that improves the degree
+of convergence.
+","[{""version"":""v1"",""created"":""Fri, 21 Jan 1994 15:21:38 GMT""}]","2009-10-28"
+"hep-th/9401107","Konstantin L. Zarembo","K.Zarembo","Loop Equations as a Generalized Virasoro Constraints","7 pages, LaTex (3 LaTex figures), SMI-94-1","Phys.Lett. B327 (1994) 90-94","10.1016/0370-2693(94)91534-2",,"hep-th",,"  The loop equations in the $U(N)$ lattice gauge theory are represented in the
+form of constraints imposed on a generating functional for the Wilson loop
+correlators. These constraints form a closed algebra with respect to
+commutation. This algebra generalizes the Virasoro one, which is known to
+appear in one-matrix models in the same way. The realization of this algebra in
+terms of the infinitesimal changes of generators of the loop space is given.
+The representations on the tensor fields on the loop space, generalizing the
+integer spin conformal fields, are constructed. The structure constants of the
+algebra under consideration being independent of the coupling constants, almost
+all the results are valid in the continuum.
+","[{""version"":""v1"",""created"":""Fri, 21 Jan 1994 14:30:25 GMT""}]","2009-10-28"
+"math/9401208",,"A. I. Aptekarev, Valeri\u{\i} A. Kaliaguine, Walter Van Assche","Criterion for the resolvent set of nonsymmetric tridiagonal operators",,,,"OP-SF 21 Jan 1994","math.CA",,"  We study nonsymmetric tridiagonal operators acting in the Hilbert space
+$\ell^2$ and describe the spectrum and the resolvent set of such operators in
+terms of a continued fraction related to the resolvent. In this way we
+establish a connection between Pad\'e approximants and spectral properties of
+nonsymmetric tridiagonal operators.
+","[{""version"":""v1"",""created"":""Fri, 21 Jan 1994 00:00:00 GMT""}]","2009-09-25"
+"math/9401209",,"Walter Van Assche","Weak convergence of orthogonal polynomials",,,,"OP-SF 21 Jan 1994","math.CA",,"  The weak convergence of orthogonal polynomials is given under conditions on
+the asymptotic behaviour of the coefficients in the three-term recurrence
+relation. The results generalize known results and are applied to several
+systems of orthogonal polynomials, including orthogonal polynomials on a finite
+set of points.
+","[{""version"":""v1"",""created"":""Fri, 21 Jan 1994 00:00:00 GMT""}]","2016-09-06"

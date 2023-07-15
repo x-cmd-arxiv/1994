@@ -1,0 +1,88 @@
+"alg-geom/9410016","Richard Wentworth","K. Matsuki and R. Wentworth","Mumford-Thaddeus Principle on the Moduli Space of Vector Bundles on an
+  Algebraic Surface","61 pages, amstex",,,,"alg-geom math.AG",,"  We study the behavior of the Gieseker space of semistable torsion-free
+sheaves of rank r and fixed c_1, c_2 on a non-singular projective surface as
+the polarization varies. It is shown that the ample cone admits a locally
+finite chamber structure, and that passing a wall adjacent to a pair of
+chambers has the effect of modifying the moduli space by a (finite) sequence of
+flips of the type studied by Thaddeus. The key steps are a modification of
+Simpson's method and the introduction of a ""rationally twisted"" moduli space.
+The result is more general but less explicit than the recent work of
+Ellingsrud-Goettsche (alg-geom/9410005) and Friedman-Qin (alg-geom/9410007).
+","[{""version"":""v1"",""created"":""Sat, 15 Oct 1994 22:40:01 GMT""}]","2008-02-03"
+"chem-ph/9410001","Chi Mak","C.H. Mak (Department of Chemistry, University of Southern California,
+  Los Angeles, California, USA) and Reinhold Egger (Fakultat fur Physik,
+  Universitat Freiburg, Hermann-Herder-Str. 3, D-79104 Freiburg, Germany)","On the Mechanism of the Primary Charge Separation in Bacterial
+  Photosynthesis","Submitted to: Chem. Phys. Lett. (October 4, 1994)",,"10.1016/0009-2614(95)00368-1",,"chem-ph physics.chem-ph",,"  We present a detailed analysis of the mechanism of the primary charge
+separation process in bacterial photosynthesis using real-time path integrals.
+Direct computer simulations as well as an approximate analytical theory have
+been employed to map out the dynamics of the charge separation process in many
+regions of the parameter space relevant to bacterial photosynthesis. Two
+distinct parameter regions, one characteristic of sequential transfer and the
+other characteristic of superexchange, have been found to yield charge
+separation dynamics in agreement with experiments. Nonadiabatic theory provides
+accurate rate estimates for low-lying and very high-lying bacteriochlorophyll
+state energies, but it breaks down in between these two regimes.
+","[{""version"":""v1"",""created"":""Sun, 16 Oct 1994 05:58:24 GMT""}]","2009-10-22"
+"chem-ph/9410002","Chi Mak","Yang Wang and C.H. Mak (Department of Chemistry, University of
+  Southern California, Los Angeles, CA)","Transferable Tight-Binding Potential for Hydrocarbons","Submitted to: Chem. Phys. Lett (October 7, 1994). 7 pages. Preprint
+  No.: 9410002",,,,"chem-ph physics.chem-ph",,"  A transferable tight-binding potential has been constructed for heteroatomic
+systems containing carbon and hydrogen. The electronic degree of freedom is
+treated explicitly in this potential using a small set of transferable
+parameters which has been fitted to small hydrocarbons and radicals.
+Transferability to other higher hydrocarbons were tested by comparison with ab
+initio calculations and experimental data. The potential can correctly
+reproduce changes in the electronic configuration as a function of the local
+bonding geometry around each carbon atom. This type of potential is well suited
+for computer simulations of covalently bonded systems in both gas-phase and
+condensed-phase systems.
+","[{""version"":""v1"",""created"":""Sun, 16 Oct 1994 06:46:29 GMT""}]","2008-02-03"
+"dg-ga/9410006","Alexander Reznikov","Alexander Reznikov","Geometry of Cyclic Quotients, I: Knotted Totally Geodesic Submanifolds
+  in Positively Curved Spheres","6 pages, plane TEX",,,,"dg-ga math.DG",,"  We prove that there exists a metric of positive curvature in a three-sphere
+which admits a given torus knot as a closed geodesic.We also sketch a
+construction of a metric in a four sphere, very likely of positive curvature,
+which admits a totally geodesic projective plane with Euler number four.
+Surpisingly, the technique borrows a lot from the Mostow-Siu-Gromov-Thurston
+constuction of exotic negatively curved manifolds.
+","[{""version"":""v1"",""created"":""Sun, 16 Oct 1994 13:37:47 GMT""}]","2008-02-03"
+"hep-ph/9410296",,"Vakhtang Kartvelishvili and Murman Margvelashvili (High Energy Physics
+  Institute, Tbilisi State University, GE-380086, Tbilisi, Georgia)","Estimating Condensates from the Difference of Tau Branching Fractions","5 pages, TSU-HEPI 94-04, May 1994","Phys.Lett. B348 (1995) 615-618","10.1016/0370-2693(95)00189-R",,"hep-ph",,"  The difference of tau partial decay widths into even and odd number of pions
+may be considered as another important constraint on the hadronic spectral
+function, in addition to four classic sum rules of current algebra. Within
+certain reasonable assumptions its value may be used to test the factorization
+hypothesis and estimate the contribution of dimension 6 condensates into the
+tau hadronic decay width.
+","[{""version"":""v1"",""created"":""Sun, 16 Oct 1994 10:56:01 GMT""}]","2009-10-28"
+"hep-th/9410107","Sardanashvily Gennadi","G.Sardanashvily","True Functional Integrals in Algebraic Quantum Field Theory","16 pp., compuscript in LaTeX",,,,"hep-th",,"  The familiar generating functionals in QFT fail to be true measures since the
+Lebesgue measure in infinite-dimensional spaces is not defined in general. The
+problem lies in constructing representations of topological $^*$-algebras of
+quantum fields which are not normed. We restrict our consideration only to
+chronological forms on quantum field algebras. In this case, since
+chronological forms of boson fields are symmetric, the algebra of quantum
+fields can be replaced with the commutative tenzor algebra of the corresponding
+infinite-dimensional nuclear space $\Phi$. This is the enveloping algebra of
+the abelian Lie group of translations in $\Phi$. The generating functions of
+unitary representations of this group play the role of Euclidean generating
+functionals in algebraic QFT. They are the Fourier transforms of measures in
+the dual $\Phi'$ to the space $\Phi$. By analogy with the case of boson fields,
+the corresponding anticommutative algebra of fermion fields is defined to be
+the algebra of functions taking their values into an infinite Grassman algebra.
+","[{""version"":""v1"",""created"":""Sun, 16 Oct 1994 00:36:31 GMT""}]","2007-05-23"
+"hep-th/9410108","Alexander A. Voronov","Takashi Kimura (University of North Carolina) and Alexander A. Voronov
+  (University of Pennsylvania)","The Cohomology of Algebras over Moduli Spaces","29 pages, including figures (A few inaccuracies corrected, the
+  reference list expanded)",,,,"hep-th math.QA",,"  The purpose of this paper is to introduce the cohomology of various algebras
+over an operad of moduli spaces including the cohomology of conformal field
+theories (CFT's) and vertex operator algebras (VOA's). This cohomology theory
+produces a number of invariants of CFT's and VOA's, one of which is the space
+of their infinitesimal deformations.
+","[{""version"":""v1"",""created"":""Sat, 15 Oct 1994 22:43:43 GMT""},{""version"":""v2"",""created"":""Mon, 7 Nov 1994 19:56:51 GMT""}]","2008-02-03"
+"hep-th/9410109","Alexei Semikhatov","A M Semikhatov","Inverting the Hamiltonian Reduction in String Theory","Talk presented at the 28th International Symposium on the Theory of
+  Elementary Particles, Wendisch-Rietz, September 1994",,,,"hep-th",,"  It is well known that many interesting realisations of string theories can be
+obtained via hamiltonian reduction from WZW models. I want to point out that
+string theories do in certain cases also provide the recipe to reconstruct the
+ambient space of the hamiltonian reduction, including Kac--Moody currents and
+the associated ghosts. The procedure of reconstructing the Kac--Moody currents
+is closely related to properties of matter+gravity multiplets in noncritical
+string theories. In application to KPZ gravity and its N=1 supersymmetric
+extension, the `inverted hamiltonian reduction' constructions serve to
+establish relation with the DDK-type formalism for matter + gravity.
+","[{""version"":""v1"",""created"":""Sun, 16 Oct 1994 10:27:59 GMT""}]","2007-05-23"

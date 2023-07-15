@@ -1,0 +1,238 @@
+"astro-ph/9409060",,"S. Cristiani and F. La Franca","The Homogeneous Bright Quasar Survey and the Quasar Evolution in the
+  Optical, X and Radio Bands","6 pages + 3 postscript figures appended LaTex To appear in the
+  proceedings of the 35th Herstmonceux Conference ``Wide Field Spectroscopy and
+  the Distant Universe'', Cambridge, Jul 94 KEYPD-2-94-SEP-23",,,,"astro-ph",,"  The present status of the ESO key-programme ``A Homogeneous Bright QSO
+Survey'' is described together with the first results concerning the QSO counts
+and the optical luminosity function. The related analysis of the evolution of
+the radio and X-ray selected QSOs is presented.
+","[{""version"":""v1"",""created"":""Fri, 23 Sep 1994 18:03:00 GMT""}]","2007-05-23"
+"astro-ph/9409061","Chuck Steidel","C. Steidel (MIT) and M. Dickinson (STScI)","Galaxy Evolution from QSO Absorption--Selected Samples","from 35th Herstmonceaux Conference, ""Wide Field Spectroscopy and the
+  Distant Universe"", 13 pages, compressed, uuencoded postscript, CSR-94-23",,,,"astro-ph",,"  We present results of surveys for high redshift field galaxies selected by
+their having produced detectable absorption in the spectra of background QSOs.
+Such surveys, in essence selected by gas cross-section rather than by flux
+density, are almost completely independent of the conventional
+magnitude--limited redshift survey, and allow one to follow objects of normal
+luminosity well beyond $z\sim 1$, the redshift at which many of the standard
+techniques break down. We summarize the principal results for our completed
+survey at $z \le 1$, and give the preliminary results of a second survey
+designed to extend the sample to $z=1.6$. A general conclusion is that normal
+field galaxies exhibit strikingly little evolution in their space density,
+luminosity, and optical/IR colors to redshifts as high as $z\sim 1.5$. We
+discuss both the techniques involved and the implications of the results.
+","[{""version"":""v1"",""created"":""Fri, 23 Sep 1994 16:53:40 GMT""}]","2007-05-23"
+"astro-ph/9409062","Enrique Gaztanaga","E. Gaztanaga & C.M. Baugh","Hierarchical correlations in models of galaxy clustering","4 pages with figures, uuencoded compressed postscrip, MNRAS Short
+  Comm. in press. Final version with minor changes","Mon.Not.Roy.Astron.Soc. 273 (1995) L1","10.1093/mnras/273.1.L1","OUAST/94/41","astro-ph",,"  We present a comparison of the predictions of perturbation theory for the
+hierarchical J-order correlation amplitudes $S_J=\xibar_J/\xibar_2^{J-1}$,
+$J=3-10$, with the results of large numerical simulations of gravitational
+clustering. We consider two different initial power spectra of density
+fluctuations, one being flatter than the other. The clustering amplitudes $S_J$
+measured in these models are different at all scales. In each case, the
+perturbation theory predictions give an excellent agreement with the
+simulations on scales for which the variance is approximately linear, i.e. for
+scales on which $\xibar_2 \simlt 1$. For cells of radius $R \simgt 30 \Mpc$,
+the sampling variance arising from the finite size of our simulations dominates
+the results. We also find that $S_J$ are roughly independent of time, $\Omega$,
+or $\lambda$, as expected. On comparing with the observations, one can use
+these results to discriminate between models for structure formation.
+","[{""version"":""v1"",""created"":""Fri, 23 Sep 1994 17:58:17 GMT""},{""version"":""v2"",""created"":""Thu, 1 Dec 1994 19:18:22 GMT""}]","2016-06-08"
+"astro-ph/9409063","Peter Schneider","Peter Schneider","Cluster lens reconstruction using only observed local data","16 pages, compressed uu-encoded postscript file (799kB), 6 figures
+  included, submitted to Astronomy & Astrophysics, MPA 832",,,,"astro-ph",,"  The reconstruction of the density profile in clusters of galaxies from the
+distortion of the images of faint background galaxies is reconsidered. The
+inversion formula of Kaiser \& Squires is known to provide a quantitative way
+to perform this reconstruction; however, the practical application of this
+formula faces two problems of principle (besides problems related to the
+analysis of the observational data): (1) the shear distribution of a lens
+cannot be inferred from the distortion of images, but only a combination of
+shear and surface mass density can be observed. (2) The inversion formula is
+exact only if one assumes observational data on the whole lens plane, whereas
+in reality, the size of the data field is limited by the size of the CCD. We
+have considered a possible solution to the first problem in a previous paper.
+Here we consider the second problem. It is shown that the application of the
+inversion formula to a finite data field induces systemmatic boundary effects.
+An alternative inversion formula is derived, based on some recently published
+results by Kaiser. We demonstrate, using synthetic data, that this new
+inversion formula which does not require an extrapolation of the data beyond
+the observed region, yields results which are comparable with those from the
+Kaiser \& Squires inversion in their `noise levels', but lack the systemmatic
+boundary effects.
+","[{""version"":""v1"",""created"":""Sat, 24 Sep 1994 09:01:32 GMT""}]","2007-05-23"
+"cond-mat/9409106","Hoi Fung Chau","H. F. Chau (School of Natural Sciences, Institute for Advanced Study,
+  Olden Lane, Princeton, NJ 08540 and Department of Physics, University of
+  Illinios, 1110 W. Green Street, Urbana, IL 61801)","Inverse Avalanches On Abelian Sandpiles","5 pages with no figure IASSNS-HEP-94/77",,"10.1103/PhysRevE.50.4226",,"cond-mat",,"  A simple and computationally efficient way of finding inverse avalanches for
+Abelian sandpiles, called the inverse particle addition operator, is presented.
+In addition, the method is shown to be optimal in the sense that it requires
+the minimum amount of computation among methods of the same kind. The method is
+also conceptually nice because avalanche and inverse avalanche are placed in
+the same footing.
+","[{""version"":""v1"",""created"":""Fri, 23 Sep 1994 17:56:35 GMT""}]","2009-10-22"
+"cond-mat/9409108","Chuck Yeung","Chuck Yeung, Madan Rao and Rashmi Desai","Bounds on the decay of the auto-correlation in phase ordering dynamics","11 pages",,,,"cond-mat",,"  We obtain bounds on the decay exponent lambda of the autocorrelation function
+in phase ordering dynamics. For non-conserved order parameter, we recover the
+Fisher and Huse inequality, lambda > = d/2. If the order parameter is conserved
+we also find lambda >= d/2 if the initial time t1 = 0. However, for t1 in the
+scaling regime, we obtain lambda >= d/2 + 2 for d >= 2 and lambda >= 3/2 for
+d=1. For the one-dimensional scalar case, this, in conjunction with previous
+results, implies that lambda is different for t1 = 0 and t1 >> 1. In
+2-dimensions, our extensive numerical simulations for a conserved scalar order
+parameter show that lambda approx 3 for t1=0 and lambda approx 4 for t1 >> 1.
+These results contradict a recent conjecture that conservation of order
+parameter requires lambda = d. Quenches to and from the critical point are also
+discussed. (uuencoded PostScript file with figures appended at end).
+","[{""version"":""v1"",""created"":""Sat, 24 Sep 1994 01:14:14 GMT""}]","2007-05-23"
+"gr-qc/9409051","Dr. Scott C. Smith","Scott C. Smith, Joan M. Centrella, and Sean P. Clancy","A Three-Dimensional Hydrodynamics Code for Modeling Sources of
+  Gravitational Radiation","51 pages, LaTeX with AASTEX macros, 12 figures available - send fax
+  number or surface address to scott@eagle.drexel.edu. ApJ Supp. (in press)","ApJS 94 (1994) 789","10.1086/192090",,"gr-qc astro-ph",,"  We have developed a 3-D Eulerian hydrodynamics code to model sources of
+gravitational radiation. The code is written in cylindrical coordinates
+$(\varpi,z,\varphi)$ and has moving grids in the $\varpi$ and $z$-directions.
+We use Newtonian gravity and calculate the gravitational radiation in the
+quadrupole approximation. This code has been tested on a variety of problems to
+verify its accuracy and stability, and the results of these tests are reported
+here.
+","[{""version"":""v1"",""created"":""Fri, 23 Sep 1994 16:51:45 GMT""},{""version"":""v2"",""created"":""Mon, 26 Sep 1994 14:53:17 GMT""}]","2009-10-22"
+"hep-ex/9409004",,"D. Cinabro, et al. (CLEO Collab)","Measurement of the branching fraction for $\Upsilon (1S) \to \tau^+
+  \tau^-$","9 pages, RevTeX, two Postscript figures available upon request, CLNS
+  94/1297, CLEO 94-20 (submitted to Physics Letters B)","Phys.Lett.B340:129-134,1994","10.1016/0370-2693(94)91309-9",,"hep-ex",,"  We have studied the leptonic decay of the $\Upsilon (1S)$ resonance into tau
+pairs using the CLEO II detector. A clean sample of tau pair events is
+identified via events containing two charged particles where exactly one of the
+particles is an identified electron. We find $B(\Upsilon(1S) \to \tau^+ \tau^-)
+= (2.61~\pm~0.12~{+0.09\atop{-0.13}})%$. The result is consistent with
+expectations from lepton universality.
+","[{""version"":""v1"",""created"":""Fri, 23 Sep 1994 21:09:14 GMT""}]","2009-09-25"
+"hep-lat/9409018","Uwe-Jens Wiese","W. Bietenholz, E. Focht and U.-J. Wiese","Perfect Lattice Actions for the Gross-Neveu Model at large N","30 pages, MIT Preprint, CTP 2356","Nucl.Phys. B436 (1995) 385-413","10.1016/0550-3213(94)00516-H",,"hep-lat",,"  Fixed point actions for free and interacting staggered lattice fermions are
+constructed by iterating renormalization group transformations. At large N the
+fixed point action for the Gross-Neveu model is a perfect action in the sense
+of Hasenfratz and Niedermayer, i.e. cut-off effects are completely eliminated.
+In particular, the fermionic 1-particle energy spectrum of the lattice theory
+is identical with the one of the continuum even for arbitrarily small
+correlation lengths. The cut-off effects of the chiral condensate are
+eliminated using a perfect operator. (The paper is stored as a ps-file
+containing both the text and 5 figures.)
+","[{""version"":""v1"",""created"":""Fri, 23 Sep 1994 22:24:55 GMT""}]","2009-10-22"
+"hep-lat/9409020",,"E.V. Shuryak and J.J.M. Verbaarschot","Screening of the topological charge in a correlated instanton vacuum","22 pages + 5 postscript figures, SUNY-NTG/94-25. Corrected LATEX
+  error","Phys.Rev.D52:295-306,1995","10.1103/PhysRevD.52.295",,"hep-lat",,"  Screening of the topological charge due to he fermion-induced interactions is
+an important phenomenon, closely related with the resolution of the strong CP
+and U(1) problems. We study the mechanism of such screening in a 'correlated
+instanton vacuum', as opposed to the 'random' one. Both scalar and pseudoscalar
+gluonic correlators are analyzed by means of an observable that minimizes
+finite size effects. Screening of the topological charge is established. This
+allows us to calculate the $\eta'$ mass without having to invert the Dirac
+operator. We suggest that this method might be used in lattice QCD calculations
+as well. Our results for the screening of the topological charge are in
+agreement with the chiral Ward identities, and the scalar gluonic correlator
+satisfies a low energy theorem first derived by Novikov et al.
+\cite{Novikov-etal}. We also propose to evaluate the topological susceptibility
+in the Witten-Veneziano formula not in an infinite box in an world $without$
+fermions but in an infinitesimal box in a world $with$ fermions.
+","[{""version"":""v1"",""created"":""Fri, 23 Sep 1994 20:41:21 GMT""},{""version"":""v2"",""created"":""Mon, 26 Sep 1994 22:20:52 GMT""}]","2014-11-17"
+"hep-ph/9409397",,"P.Colangelo","Couplings of heavy mesons with soft pions in QCD","LaTex, 3 pages, requires the file espcrc2.sty, appended at the end.
+  Talk given at the workshop ""QCD-94"", Montpellier, France, July 7 -13, 1994.
+  BARI-TH/94-184","Nucl.Phys.Proc.Suppl. 39BC (1995) 399-401","10.1016/0920-5632(95)00109-M",,"hep-ph",,"  QCD sum rules are used to calculate the couplings of heavy-light quark
+pseudoscalar and vector mesons ($D, D^*$ and $B, B^*$) with soft pions, both
+for finite and infinitely heavy quark mass. The couplings are also computed in
+the framework of a QCD relativistic potential model; in this approach the
+relativistic corrections due to the light quark are relevant.
+","[{""version"":""v1"",""created"":""Fri, 23 Sep 1994 17:19:00 GMT""}]","2009-10-28"
+"hep-ph/9409399","David London","Ahmed Ali and David London","An Update of the CKM Matrix","talk given by A. Ali at the the 27th International Conference on High
+  Energy Physics (ICHEP), Glasgow, Scotland, July 1994; 4 pages, LaTeX (uses
+  epsf.tex), 1 figure (included as a uuencoded.ps file), CERN-TH.7408/94,
+  UdeM-GPP-TH-94-07",,,,"hep-ph",,"  We update the constraints on the parameters of the quark flavour mixing
+matrix $V_{CKM}$ in the standard model using the latest experimental and
+theoretical results as input. We present the 95$\%$ C.L. allowed region of the
+unitarity triangle and the corresponding ranges for the ratio $\vert
+V_{td}/V_{ts} \vert$ and for the quantities $\sin 2\alpha$, $\sin 2\beta$ and
+$\sin^2\gamma$, which characterize CP-violating rate asymmetries in $B$-decays.
+The SM prediction for the $\bs$-$\bsb$ mixing ratio $\xs$ is also presented.
+","[{""version"":""v1"",""created"":""Fri, 23 Sep 1994 19:47:58 GMT""}]","2007-05-23"
+"hep-ph/9409400",,"Brian Mason and Marc Sher","Solar Neutrino Oscillations in the Moon","30 pages, WM-94-114, latex, figures available by fax on request",,,,"hep-ph",,"  The first three quarters of this paper consists of a pedagogical review of
+neutrino oscillations, including vacuum oscillations, constant density matter
+oscillations and variable density matter oscillations. We then address the
+question of whether MSW solar neutrino oscillations in the moon could be
+observed during a solar eclipse. For the small angle MSW solution, the effect
+is unmeasureable; for the large angle solution, we find an enhancement in the
+rate which can be as large as a factor of two. Since the center of the Sun, as
+seen from a typical solar neutrino detector (through a transparent Earth) is
+covered for roughly three hours per decade, a world-wide event rate of a few
+solar neutrino events per hour might be sufficient to observe this effect. This
+work constituted the undergraduate senior thesis of Brian Mason, and has been
+submitted to the American Journal of Physics.
+","[{""version"":""v1"",""created"":""Fri, 23 Sep 1994 19:35:47 GMT""}]","2009-09-25"
+"hep-ph/9409403",,"Dean Lee","Mesons with a Light Quark-Antiquark Pair and the Bethe-Salpeter Equation","9 pages uuencoded, unix compressed Postscript, HUTP-94/A030",,,,"hep-ph",,"  The light quark-antiquark scattering Green's function is considered near a
+meson resonance peak. The Bethe-Salpeter equation is used to write formal
+expressions for the resonance width/mass ratio. Arguments are made concerning
+to what extent this ratio can be calculated perturbatively, and an upper bound
+is placed on the growth of this ratio as a function of radial excitation.
+Certain mesons and their radial excitations are considered, as well as the more
+general issue of classifying mesons in the quark model.
+","[{""version"":""v1"",""created"":""Sat, 24 Sep 1994 04:16:00 GMT""},{""version"":""v2"",""created"":""Sat, 24 Sep 1994 04:36:38 GMT""}]","2008-02-03"
+"hep-ph/9409411",,"A.P.Kobushkin and A.I.Syamtomov","Deuteron Electromagnetic Form Factors in the Transitional Region Between
+  Nucleon-Meson and Quark-Gluon Pictures","LaTeX, 9 pages+(ps-figures), ITP-94-30E","Phys.Atom.Nucl. 58 (1995) 1477-1482; Yad.Fiz. 58N9 (1995)
+  1565-1571",,,"hep-ph",,"  Experimental observables of the elastic eD-scattering in the region of
+intermediate energies are discussed. We offer the analysis of the available
+experimental data, which reproduces the results of the calculations with
+popular $NN$-potentials at low energies ($Q^2\ll 1(GeV/c)^2$), but, at the same
+time, provides the right asymptotic behavior of the deuteron e.m. form factors,
+following from the quark counting rules, at high energies ($Q^2\gg
+1(GeV/c)^2$). The numerical analysis developed allows to make certain
+estimations of the characteristic energy scale, at what the consideration of
+quark-gluon degrees of freedom in the deuteron becomes essential.
+","[{""version"":""v1"",""created"":""Sat, 24 Sep 1994 14:38:28 GMT""}]","2009-09-25"
+"hep-ph/9409412","Andre Sopczak","J. Rosiek, A. Sopczak","Present and future searches with e^+e^- colliders for the neutral Higgs
+  bosons of the Minimal Supersymmetric Standard Model -- the complete 1-loop
+  analysis","24 pages, compressed and uuencoded PostScript file, preprint
+  CERN-PPE/94-134, FTUV/94-38, submitted to Phys. Lett. B","Phys.Lett.B341:419-430,1995","10.1016/0370-2693(94)01387-R",,"hep-ph",,"  New mass regions unexcluded by direct searches are revealed by an analysis of
+experimental results from LEP1 using full 1-loop diagrammatic calculations of
+radiative corrections in the MSSM. Simulations of experimental signal
+efficiencies and background rejection factors, and full 1-loop calculations are
+combined to study the sensitivity for neutral Higgs bosons at LEP2 and the NLC.
+Compared with previous studies based on an Effective Potential Approach, we
+identify mass regions where the discovery potential depends on the MSSM
+parameters other than the top and stop masses. We propose our method of
+interpretation to be adopted by the four LEP experiments for better precision.
+The possibility of the experimental distinction between the Higgs boson in the
+MSM and the lightest Higgs boson in the MSSM is discussed for the NLC.
+","[{""version"":""v1"",""created"":""Sat, 24 Sep 1994 14:57:50 GMT""}]","2011-04-15"
+"hep-th/9409144","Nadja Kutz","C. Emmrich, N. Kutz","Doubly discrete Lagrangian systems related to the Hirota and Sine-Gordon
+  equation","7 pages, Sfb288 Preprint 139","Phys. Lett. A201:156-160,1995","10.1016/0375-9601(95)00233-S",,"hep-th",,"  We extend the action for evolution equations of KdV and MKdV type which was
+derived in [Capel/Nijhoff] to the case of not periodic, but only equivariant
+phase space variables, introduced in [Faddeev/Volkov]. The difference of these
+variables may be interpreted as reduced phase space variables via a
+Marsden-Weinstein reduction where the monodromies play the role of the momentum
+map. As an example we obtain the doubly discrete sine-Gordon equation and the
+Hirota equation and the corresponding symplectic structures.
+","[{""version"":""v1"",""created"":""Fri, 23 Sep 1994 16:39:04 GMT""}]","2009-10-28"
+"hep-th/9409145","Paul A. Shah","P.A.Shah","Phase Transitions in a Vortex Gas","17 pages Latex, 4 figures (available by anonymous FTP from
+  club.amtp.cam.ac.uk in the directory pub/papers/vortex.phase.transitions),
+  DAMTP/HEP 94-86","Nucl.Phys. B438 (1995) 589-606","10.1016/0550-3213(94)00583-Z",,"hep-th cond-mat",,"  It has been shown recently that the motion of solitons at couplings around a
+critical coupling can be reduced to the dynamics of particles (the zeros of the
+Higgs field) on a curved manifold with potential. The curvature gives a
+velocity dependent force, and the magnitude of the potential is proportional to
+the distance from a critical coupling. In this paper we apply this
+approximation to determining the equation of state of a gas of vortices in the
+Abelian Higgs model. We derive a virial expansion using certain known integrals
+of the metric, and the second virial coefficient is calculated, determining the
+behaviour of the gas at low densities. A formula for determining higher order
+coefficients is given. At low densities and temperatures $T \gg \l$ the
+equation of state is of the Van der Waals form $(P+b\frac{N^{2}}{A^{2}})(A-aN)
+= NT$ with $a=4\pi$ and $b=-4.89\pi\l$ where $\l$ is a measure of the distance
+from critical coupling. It is found that there is no phase transition in a low
+density type-II gas, but there is a transition in the type-I case between a
+condensed and gaseous state. We conclude with a discussion of the relation of
+our results to vortex behaviour in superconductors.
+","[{""version"":""v1"",""created"":""Fri, 23 Sep 1994 19:35:34 GMT""}]","2009-10-28"
+"hep-th/9409146","Roger Brooks","R. Brooks","Moduli Space Cohomology and Wavefunctions in 3D Quantum Gravity","3 pages, CTP-2363, LaTeX",,,,"hep-th gr-qc",,"  Wavefunctionals of three dimensional quantum gravity are extracted from the
+3D field theoretic analogs of the four dimensional Donaldson polynomials. Our
+procedure is generalizable to four and other dimensions. This is a summary of a
+talk presented at the Seventh Marcel Grossmann Meeting on General Relativity,
+Stanford University, Stanford, CA, USA, July 24 - 30, 1994
+","[{""version"":""v1"",""created"":""Fri, 23 Sep 1994 20:30:25 GMT""}]","2007-05-23"
+"hep-th/9409147","Stamatis Vokos","Stamatis Vokos","Motion of Spin-1/2 Particles in External Gravitational and
+  Electromagnetic Fields","4 pages, LaTeX, UW/PT-94-10",,,,"hep-th",,"  (Talk presented at the 7th Marcel Grossmann Meeting on General Relativity,
+Stanford, CA, July 24-30, 1994) We study the semi-classical limit of the
+solution of the Dirac equation in a background electromagnetic/gravitational
+plane wave. We show that the exact solution corresponding to an asymptotically
+fixed incoming momentum satisfies constraints consistent with the classical
+notion of a spinning particle. In order to further analyze the motion of a
+spinning particle in this external inhomogeneous field one has to consider
+wave-packet superpositions of these exact solutions. We are currently
+investigating the existence of a classical theory of a phenomenological spin
+tensor which reproduces our quantum-mechanical results.
+","[{""version"":""v1"",""created"":""Fri, 23 Sep 1994 22:44:36 GMT""}]","2007-05-23"

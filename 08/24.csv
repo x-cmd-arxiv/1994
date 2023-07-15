@@ -1,0 +1,326 @@
+"alg-geom/9408006","Serge M. L'vovsky","S.L'vovsky","On Landsberg's criterion for complete intersections","4 pages, LaTeX 2.09",,,,"alg-geom math.AG",,"  In his preprint ``Differential-Geometric Characterizations of Complete
+Intersections'' (alg-geom/9407002), J.M.Landsberg introduces an elementary
+characterization of complete intersections. The proof of this criterion uses
+the method of moving frames. The aim of this note is to present an elementary
+proof of Landsberg's criterion that is valid over any ground field.
+","[{""version"":""v1"",""created"":""Wed, 24 Aug 1994 08:43:07 GMT""}]","2008-02-03"
+"astro-ph/9408079","Alexander Lazarian","A. Lazarian","Paramagnetic alignment of fractal grains","11 pages, PostScript, to appear in A&A",,,,"astro-ph",,"  Paramagnetic alignment of fractal suprathermally rotating grains is
+discussed. It is shown that if the concentration of H$_{2}$formation sites is
+low and resurfacing is active, fractal structure of grains enhances their
+alignment. Studying the influence of grain surface physics and chemistry on the
+alignment we found that there exist two critical values of grain sizes, and the
+alignment of smaller grains is expected to decrease as compared to the
+predictions of the Purcell's theory (1979). One of the critical sizes is due to
+intensified poisoning of active sites, while the other is a result of a finite
+value of the imaginary part of magnetic susceptibility in the limit of high
+angular velocities. On the contrary, if active sites completely cover grain
+surface, suprathermal rotation, and therefore efficient alignment, is possible
+only for a limited range of grain sizes.
+","[{""version"":""v1"",""created"":""Tue, 23 Aug 1994 19:37:56 GMT""}]","2007-05-23"
+"astro-ph/9408080","Karsten Jedamzik","K. Jedamzik","The Cloud-in-Cloud Problem in the Press-Schechter Formalism of
+  Hierarchical Structure Formation","13 pages, 4 figures (available upon request by mail or fax), plain
+  tex","Astrophys.J. 448 (1995) 1-17","10.1086/175936",,"astro-ph",,"  The formalism by Press and Schechter (PS) is often used to infer number
+densities of virialized objects of mass M (e.g. quasars, galaxies, clusters of
+galaxies, etc.) from a count of initially overdense regions in a Gaussian
+density perturbation field. We reanalyze the PS-formalism by explicitly
+counting underdense regions which are embedded within overdense regions, so
+called cloud-in-clouds. In contrast to the original PS-formalism, our revised
+analysis automatically accounts for all the cosmic material. We find that mass
+distribution functions for virialized objects are altered by the proper
+solution of the cloud-in-cloud problem. These altered distribution functions
+agree much better with distribution functions inferred form N-body simulations
+than the original PS-distribution functions.
+","[{""version"":""v1"",""created"":""Wed, 24 Aug 1994 00:50:06 GMT""}]","2009-10-22"
+"astro-ph/9408081","Karsten Jedamzik","K. Jedamzik and G.M. Fuller","Baryon Number Transport in a Cosmic QCD-Phase Transition","25 pages, 4 figures (available upon request by mail or fax), plain
+  tex, UCRL-JC-000000","Nucl.Phys. B441 (1995) 215-233","10.1016/0550-3213(95)00097-C",,"astro-ph",,"  We investigate the transport of baryon number across phase boundaries in a
+putative first order QCD-phase transition. Two independent phenomenological
+models are employed to estimate the baryon penetrability at the phase boundary:
+chromoelectric flux tube models; and an analogy to baryon-baryon coalescence in
+nuclear physics. Our analysis indicates that baryon transport across phase
+boundaries may be order of magnitude more efficient than other work has
+suggested. We discuss the substantial uncertainties involved in estimating
+baryon penetrability at phase boundaries.
+","[{""version"":""v1"",""created"":""Wed, 24 Aug 1994 00:57:20 GMT""}]","2009-10-22"
+"cmp-lg/9408012","Student","Hsin-Hsi Chen (National Taiwan University) and Yue-Shi Lee (National
+  Taiwan University)","Approximate N-Gram Markov Model for Natural Language Generation","to appear in proceedings of QUALICO-94, 6 pages, uuencoded compressed
+  Postscript file; extract with Unix uudecode and uncompress",,,,"cmp-lg cs.CL",,"  This paper proposes an Approximate n-gram Markov Model for bag generation.
+Directed word association pairs with distances are used to approximate
+(n-1)-gram and n-gram training tables. This model has parameters of word
+association model, and merits of both word association model and Markov Model.
+The training knowledge for bag generation can be also applied to lexical
+selection in machine translation design.
+","[{""version"":""v1"",""created"":""Wed, 24 Aug 1994 07:31:47 GMT""}]","2008-02-03"
+"cmp-lg/9408013","Hiyan Alshawi","Hiyan Alshawi (AT&T Bell Laboratories), David Carter (SRI
+  International, Cambridge)","Training and Scaling Preference Functions for Disambiguation","To appear in Computational Linguistics (probably volume 20, December
+  94). LaTeX, 21 pages",,,,"cmp-lg cs.CL",,"  We present an automatic method for weighting the contributions of preference
+functions used in disambiguation. Initial scaling factors are derived as the
+solution to a least-squares minimization problem, and improvements are then
+made by hill-climbing. The method is applied to disambiguating sentences in the
+ATIS (Air Travel Information System) corpus, and the performance of the
+resulting scaling factors is compared with hand-tuned factors. We then focus on
+one class of preference function, those based on semantic lexical collocations.
+Experimental results are presented showing that such functions vary
+considerably in selecting correct analyses. In particular we define a function
+that performs significantly better than ones based on mutual information and
+likelihood ratios of lexical associations.
+","[{""version"":""v1"",""created"":""Wed, 24 Aug 1994 00:11:32 GMT""}]","2008-02-03"
+"cmp-lg/9408014","Hiyan Alshawi","Hiyan Alshawi (AT&T Bell Laboratories)","Qualitative and Quantitative Models of Speech Translation","Appeared in proceedings of the ACL workshop ""The Balancing Act,
+  Combining Symbolic and Statistical Approaches to Language"", Las Cruces NM,
+  July 1994. LaTeX, 24 pages",,,,"cmp-lg cs.CL",,"  This paper compares a qualitative reasoning model of translation with a
+quantitative statistical model. We consider these models within the context of
+two hypothetical speech translation systems, starting with a logic-based design
+and pointing out which of its characteristics are best preserved or eliminated
+in moving to the second, quantitative design. The quantitative language and
+translation models are based on relations between lexical heads of phrases.
+Statistical parameters for structural dependency, lexical transfer, and linear
+order are used to select a set of implicit relations between words in a source
+utterance, a corresponding set of relations between target language words, and
+the most likely translation of the original utterance.
+","[{""version"":""v1"",""created"":""Wed, 24 Aug 1994 00:14:29 GMT""}]","2008-02-03"
+"cond-mat/9408069",,"B. Normand, H. Kohno and H. Fukuyama","Superconductive Phonon Anomalies in High-$T_c$ Cuprates","heavily revised version of previous paper, including systematic
+  treatment of effect of $t$ term, coupling constant derivation and calculation
+  of phonon linewidth broadening. Revised Figs. 3 and 4 still only available by
+  sending fax # to normand@tkyvax.phys.s.u-tokyo-ac.jp",,"10.1016/0022-3697(95)00212-X",,"cond-mat",,"  We consider the effects on phonon dynamics of spin-lattice coupling within
+the slave-boson mean-field treatment of the extended $t$-$J$ model. With no
+additional assumptions the theory is found to give a semi-quantitative account
+of the frequency and linewidth anomalies observed by Raman and neutron
+scattering for the 340$cm^{-1}$ $B_{1g}$ phonon mode in $YBa_2Cu_3O_7$ at the
+superconducting transition. We discuss the applicability of the model to phonon
+modes of different symmetries, and report a connection to spin-gap features
+observed in underdoped YBCO. The results suggest the possibility of a unified
+understanding of the anomalies in transport, magnetic and lattice properties.
+","[{""version"":""v1"",""created"":""Tue, 23 Aug 1994 17:05:31 GMT""},{""version"":""v2"",""created"":""Fri, 23 Dec 1994 17:20:50 GMT""}]","2009-10-22"
+"cond-mat/9408073","Jochen Rau","Jochen Rau","Ballistic Transport Through Chaotic Cavities: Can Parametric
+  Correlations and the Weak Localization Peak be Described by a Brownian Motion
+  Model?","5 pages revtex (twocolumn)","Phys. Rev. B 51 (1995) 7734","10.1103/PhysRevB.51.7734",,"cond-mat",,"  A Brownian motion model is devised on the manifold of S-matrices, and applied
+to the calculation of conductance-conductance correlations and of the weak
+localization peak. The model predicts that (i) the correlation function in $B$
+has the same shape and width as the weak localization peak; (ii) the functions
+behave as $\propto 1-{\cal O}(B^2)$, thus excluding a linear line shape; and
+(iii) their width increases as the square root of the number of channels in the
+leads. Some of these predictions agree with experiment and with other
+calculations only in the limit of small $B$ and a large number of channels.
+","[{""version"":""v1"",""created"":""Wed, 24 Aug 1994 00:44:12 GMT""}]","2009-04-30"
+"cond-mat/9408074","Zlatko Tesanovic","Zlatko Tesanovic and Igor F. Herbut","The High-Field Superconducting Transition induced by Correlated Disorder","12 pages, LaTEX, one figure on request, JHU-TIPAC-9413",,"10.1103/PhysRevB.50.10389",,"cond-mat",,"  The ""glassy"" superconducting transition at high magnetic fields can be
+induced by columnar disorder. A model is proposed in which the thermodynamics
+of Bose condensation of Cooper pairs into the lowest Landau-level eigenstate of
+the random potential can be solved exactly. The solution reflects a peculiar
+character of the high-field limit: for example, the effective dimensionality of
+the transition is shown to be a function of the magnetic field.
+","[{""version"":""v1"",""created"":""Wed, 24 Aug 1994 01:43:14 GMT""}]","2009-10-22"
+"cond-mat/9408075","Alexander Mirlin","Yan V.Fyodorov and Alexander D.Mirlin","Mesoscopic Fluctuations of Eigenfunctions and ""Level Velocity""
+  Distribution in Disordered Metals","REVTEX, 7 pages",,"10.1103/PhysRevB.51.13403",,"cond-mat",,"  We calculate the distribution of eigenfunction amplitudes and the variance of
+the ``inverse participation ratio'' (IPR) in disordered metallic samples. A
+relation is established between the distribution function of IPR and that of
+``level velocities'' -- parametric derivatives of energy levels with respect to
+a random perturbation.
+","[{""version"":""v1"",""created"":""Wed, 24 Aug 1994 10:25:53 GMT""},{""version"":""v2"",""created"":""Mon, 31 Oct 1994 18:42:36 GMT""}]","2009-10-22"
+"cond-mat/9408076","Loic Turban","C. Kaiser (1 and 2), L. Turban (2) ((1) F. U. Berlin, (2) Henri
+  Poincare University, Nancy)","Fractal Dimensions of Confined Clusters in Two-Dimensional Directed
+  Percolation","6 pages, Plain TeX file, epsf, 3 postscript-figures","J. Phys. A 27 (1994) L579","10.1088/0305-4470/27/16/003",,"cond-mat.stat-mech",,"  The fractal structure of directed percolation clusters, grown at the
+percolation threshold inside parabolic-like systems, is studied in two
+dimensions via Monte Carlo simulations. With a free surface at y=\pm Cx^k and a
+dynamical exponent z, the surface shape is a relevant perturbation when k<1/z
+and the fractal dimensions of the anisotropic clusters vary continuously with
+k. Analytic expressions for these variations are obtained using a blob picture
+approach.
+","[{""version"":""v1"",""created"":""Wed, 24 Aug 1994 12:58:02 GMT""},{""version"":""v2"",""created"":""Thu, 1 Sep 1994 14:08:34 GMT""},{""version"":""v3"",""created"":""Fri, 2 Sep 1994 08:42:52 GMT""},{""version"":""v4"",""created"":""Mon, 8 Sep 1997 13:15:36 GMT""}]","2009-10-22"
+"cond-mat/9408077","Loic Turban","L. Turban, P. E. Berche and B. Berche (Henri Poincare Universty,
+  Nancy)","Surface Magnetization of Aperiodic Ising Systems: a Comparative Study of
+  the Bond and Site Problems","19 pages, Plain TeX, IOP macros + epsf, 6 postscript figures, minor
+  corrections","J. Phys. A 27 (1994) 6349","10.1088/0305-4470/27/19/009",,"cond-mat.stat-mech",,"  We investigate the influence of aperiodic perturbations on the critical
+behaviour at a second order phase transition. The bond and site problems are
+compared for layered systems and aperiodic sequences generated through
+substitution. In the bond problem, the interactions between the layers are
+distributed according to an aperiodic sequence whereas in the site problem, the
+layers themselves follow the sequence. A relevance-irrelevance criterion
+introduced by Luck for the bond problem is extended to discuss the site
+problem. It involves a wandering exponent for pairs, which can be larger than
+the one considered before in the bond problem. The surface magnetization of the
+layered two-dimensional Ising model is obtained, in the extreme anisotropic
+limit, for the period-doubling and Thue-Morse sequences.
+","[{""version"":""v1"",""created"":""Wed, 24 Aug 1994 12:59:00 GMT""},{""version"":""v2"",""created"":""Fri, 5 Sep 1997 17:27:31 GMT""}]","2009-10-22"
+"cond-mat/9408078","Steve Erwin","S.C. Erwin, G.V. Krishna, and E.J. Mele","Three-dimensional electronic instabilities in polymerized solid A1C60","REVTeX 3.0, 10 pages, 4 figures available on request from
+  erwin@dave.nrl.navy.mil","Phys. Rev. B (Rapid Comm.) 51, 7345 (1995)","10.1103/PhysRevB.51.7345",,"cond-mat",,"  The low-temperature structure of A1C60 (A=K, Rb) is an ordered array of
+polymerized C60 chains, with magnetic properties that suggest a non-metallic
+ground state. We study the paramagnetic state of this phase using
+first-principles electronic-structure methods, and examine the magnetic
+fluctuations around this state using a model Hamiltonian. The electronic and
+magnetic properties of even this polymerized phase remain strongly three
+dimensional, and the magnetic fluctuations favor an unusual three-dimensional
+antiferromagnetically ordered structure with a semi-metallic electronic
+spectrum.
+","[{""version"":""v1"",""created"":""Wed, 24 Aug 1994 12:41:32 GMT""}]","2009-10-22"
+"cond-mat/9408079","Silvio Franz","Silvio Franz and John Hertz","Glassy Transition and Aging in a Model without Disorder","9 pages, 1 uuencoded figure, LaTex, preprint NORDITA 94/39",,"10.1103/PhysRevLett.74.2114",,"cond-mat",,"  We study the off-equilibrium relaxational dynamics of the Amit-Roginsky
+$\phi^3$ field theory, for which the mode coupling approximation is exact. We
+show that complex phenomena such as aging and ergodicity breaking are present
+at low temperature, similarly to what is found in long range spin glasses. This
+is a generalization of mode coupling theory of the structural glass transition
+to off-equilibrium situations.
+","[{""version"":""v1"",""created"":""Wed, 24 Aug 1994 12:45:38 GMT""}]","2009-10-22"
+"cond-mat/9408080","Gongwen Peng","Gongwen Peng and Hans J. Herrmann","Density waves and $1/f$ density fluctuations in granular flow","Latex (with ps files appended)",,"10.1103/PhysRevE.51.1745","preprint HLRZ 11/94","cond-mat comp-gas nlin.CG",,"  We simulate the granular flow in a narrow pipe with a lattice-gas automaton
+model. We find that the density in the system is characterized by two features.
+One is that spontaneous density waves propagate through the system with
+well-defined shapes and velocities. The other is that density waves are so
+distributed to make the power spectra of density fluctuations as $1/f^{\alpha}$
+noise. Three important parameters make these features observable and they are
+energy dissipation, average density and the rougness of the pipe walls.
+","[{""version"":""v1"",""created"":""Wed, 24 Aug 1994 14:00:32 GMT""}]","2009-10-22"
+"gr-qc/9408028","Ivan Avramidi","I. G. Avramidi","New Algebraic Methods for Calculating the Heat Kernel and Effective
+  Action in Quantum Gravity and Gauge Theories","22 pages, Plain TeX, University of Greifswald (August, 1994)","in: Heat Kernel Techniques and Quantum Gravity, Ed. S. A. Fulling,
+  Discourses in Mathematics and Its Applications, (College Station, Texas:
+  Department of Mathematics, Texas A&M University, 1995), pp. 115-140",,,"gr-qc hep-th",,"  An overview about recent progress in the calculation of the heat kernel and
+the one-loop effective action in quantum gravity and gauge theories is given.
+We analyse the general structure of the standard Schwinger-De Witt asymptotic
+expansion and discuss the applicability of that to the case of strongly curved
+manifolds and strong background fields. We argue that the low-energy limit in
+gauge theories and quantum gravity, when formulated in a covariant way, should
+be related to background fields with covariantly constant curvature, gauge
+field strength and potential term. It is shown that the condition of the
+covariant constancy of the background curvatures brings into existence some Lie
+algebra. The heat kernel operator for the Laplace operator is presented then as
+an average over the corresponding Lie group with some nontrivial Gaussian
+measure. Using this representation the heat kernel diagonal is obtained. The
+result is expressed purely in terms of curvature invariants and is explicitly
+covariant. Related topics concerning the structure of symmetric spaces and the
+calculation of the effective action are discussed.
+","[{""version"":""v1"",""created"":""Wed, 24 Aug 1994 14:31:47 GMT""}]","2007-05-23"
+"hep-ph/9408357",,"Bernice Durand and Tu Zhang","New solution for dynamical symmetry breaking with top and bottom quark
+  condensates","24pp, MAD/TH/94-2, RevTex",,,,"hep-ph",,"  Starting from a general $\rm SU_2\times U_1$ invariant interaction Lagrangian
+${\cal L}_{\rm int}$ with four-fermion interactions between top $t$ and bottom
+$b$ quarks and working in the bubble approximation, we get a single Higgs as a
+bound state of quark pairs by allowing both $\langle \bar tt\rangle$ and
+$\langle\bar bb\rangle$ to be nonzero and the $t$ and $b$ states to mix. We
+find relations between the three four-fermion couplings $g_t, g_b,$ and
+$g_{tb}$ and show the new result that they may all be finite, with $g\Lambda
+^2\gg1$, where $\Lambda$ is the cutoff. Thus the dimensionless couplings $g' =
+g\Lambda ^2$ correspond to strong interactions. Previous work with either one
+or more quark condensates found a fine-tuning condition giving $g\Lambda
+^2\sim$ O($1$). The Higgs mass $m_H$ is approximately the single-vev value
+$m_H\approx 2m_t$, and the quark mass ratio is $m_t/m_b\approx g_b/g_{tb}$.
+There is a new symmetry of ${\cal L}_{\rm int}$, corresponding to a flat
+direction in the space of composite states. Breaking this symmetry by turning
+on one small eigenvalue of the coupling matrix turns on the quark masses and
+introduces the massive Higgs state, so that $m_b,m_t,m_H\ll \Lambda$ is
+natural.
+","[{""version"":""v1"",""created"":""Tue, 23 Aug 1994 20:44:00 GMT""}]","2007-05-23"
+"hep-ph/9408358",,"J.Maalampi and M. Roos","Phenomenological Determination of the Beauty Meson Decay Parameter $f_B$
+  and the CP-Violating Angle $\delta$","9 pages + 1 figure available upon request, HU-TFT-94-30","Z.Phys.C67:603-606,1995","10.1007/BF01553985",,"hep-ph",,"  We fit the ${\cal CKM}$-matrix to all recent data with the following free
+parameters: three mixing angles, the CP-violating angle $\delta$ in the Maiani
+parametrisation, the top quark mass $m_t$, and the product $f_B{\cal
+B}_{\B}^{1/2}$, where $f_B$ is the $B$-meson decay parameter and ${\cal
+B}_{\B}$ is the bag parameter. Our fits span a contiguous region in the
+$(f_B{\cal B}_{\B}^{1/2},\ \cos\delta)$--plane, limited by $0.117\lsim f_B{\cal
+B}_{\B}^{1/2}/{\rm GeV}\lsim 0.231$ and --0.95 $\lsim$ $\cos\delta$ $\lsim$
+0.70. The parameters $f_B{\cal B}_{\B}^{1/2}$ and $\cos\delta$ are strongly
+positively correlated.
+","[{""version"":""v1"",""created"":""Wed, 24 Aug 1994 09:10:58 GMT""}]","2010-11-01"
+"hep-ph/9408359",,"Jonathan L. Feng and Matthew J. Strassler","Determination of Fundamental Supersymmetry Parameters from Chargino
+  Production at Lepii","52pp, Revtex, 30 figures available upon request, SLAC-PUB-6497,
+  RU-94-67 (text and figures available in ps form by anonymous ftp from
+  preprint.slac.stanford.edu, directory pub/preprints/hep-ph/9408)","Phys.Rev.D51:4661-4694,1995","10.1103/PhysRevD.51.4661",,"hep-ph",,"  If accessible at LEP II, chargino production is likely to be one of the few
+available supersymmetric signals for many years. We consider the prospects for
+the determination of fundamental supersymmetry parameters in such a scenario.
+The study is complicated by the dependence of observables on a large number of
+these parameters. We propose a straightforward procedure for disentangling
+these dependences and demonstrate its effectiveness by presenting a number of
+case studies at representative points in parameter space. Working in the
+context of the minimal supersymmetric standard model, we find that chargino
+production by itself is a fairly sensitive probe of the supersymmetry-breaking
+sector. For significant regions of parameter space, it is possible to test the
+gaugino mass unification hypothesis and to measure the gaugino contents of the
+charginos and neutralinos, thereby testing the predictions of grand unification
+and the viability of the lightest supersymmetric particle as a dark matter
+candidate. For much of the parameter space, it is also possible to set limits
+on the mass of the electron sneutrino, which provide a valuable guide for
+future particle searches.
+","[{""version"":""v1"",""created"":""Wed, 24 Aug 1994 10:44:00 GMT""}]","2009-12-30"
+"hep-ph/9408360","Carlo Gobbi","C.L. Schat, N.N. Scoccola and C. Gobbi","Lambda(1405) in the Bound State Soliton Model","15 pages (Latex), preprint TAN-FNT-94-09","Nucl.Phys. A585 (1995) 627-640","10.1016/0375-9474(94)00798-R",,"hep-ph",,"  The strong and electromagnetic properties of the Lambda(1405) hyperon are
+studied in the framework of the bound state soliton model. We explicitly
+evaluate the strong coupling constant g(Lambda^*-N-K), the Lambda^* magnetic
+moment, mean square radii and radiative decay amplitudes. The results are shown
+to be in general agreement with available empirical data. A comparison with
+results of other models is also presented.
+","[{""version"":""v1"",""created"":""Wed, 24 Aug 1994 13:36:44 GMT""}]","2009-10-28"
+"hep-th/9408123",,"S. Rouhani and A. Shariati","On Little Groups and Boosts of $\kappa$-deformed Poincare Group","11 pages, LaTeX",,,,"hep-th",,"  We show how Wigner's little group approach to the representation theory of
+Poincar\'e group may be generalized to the case of $\kappa$-deformed
+  Poincar\'e group. We also derive the deformed Lorentz transformations of
+energy and momentum. We find that if the $\kappa$-deformed Poincar\'e group is
+adopted as the fundamental symmetry of nature, it results in deviations from
+predictions of the Poincar\'e symmetry at large energies, which may be
+experimentally observable.
+","[{""version"":""v1"",""created"":""Tue, 23 Aug 1994 21:46:42 GMT""}]","2007-05-23"
+"hep-th/9408125","Anne Schilling","Anne Schilling and Peter van Nieuwenhuizen","Multiplicative BRST renormalization of the $SU(2)$ Higgs model","10 pages, ITP-SB-93-53 (Phys.Rev.D 50,967)","Phys.Rev. D50 (1994) 967-970","10.1103/PhysRevD.50.967",,"hep-th",,"  We reformulate the proof of the renormalization of a spontaneously broken
+gauge theory by multiplicatively renormalizing the vacuum expectation value of
+the Higgs field in the $SU(2)$~Higgs model.
+","[{""version"":""v1"",""created"":""Tue, 23 Aug 1994 16:37:00 GMT""},{""version"":""v2"",""created"":""Thu, 25 Aug 1994 14:33:00 GMT""},{""version"":""v3"",""created"":""Thu, 25 Aug 1994 15:46:00 GMT""}]","2009-10-28"
+"hep-th/9408126","Don Spector","Donald Spector","Supersymmetry, Vacuum Statistics, and the Fundamental Theorem of Algebra","18 pages, harvmac. The revisions provide a more detailed discussion
+  of the mathematical context of the results","Commun.Math.Phys. 177 (1996) 13-26","10.1007/BF02102428","HWS-94/15","hep-th",,"  I give an interpretation of the fundamental theorem of algebra based on
+supersymmetry and the Witten index. The argument gives a physical explanation
+of why a real polynomial of degree $n$ need not have $n$ real zeroes, while a
+complex polynomial of degree $n$ must have $n$ complex zeroes. This paper also
+addresses in a general and model-independent way the statistics of the
+perturbative ground states (the states which correspond to classical vacua) in
+supersymmetric theories with complex and with real superfields.
+","[{""version"":""v1"",""created"":""Tue, 23 Aug 1994 18:06:12 GMT""},{""version"":""v2"",""created"":""Wed, 19 Jul 1995 04:28:52 GMT""}]","2009-10-28"
+"hep-th/9408127","Silvio Paolo Sorella","Marcelo Carvalho, Luiz Claudio Queiroz Vilar and S.P. Sorella","Algebraic characterization of anomalies in chiral WW_{3} gravity","25 pages, report CBPF-NF-042/94","Int.J.Mod.Phys. A10 (1995) 3877-3900","10.1142/S0217751X95001819",,"hep-th",,"  The anomalies which occur in chiral WW_{3} gravity are characterized by
+solving the BRS consistency condition.
+","[{""version"":""v1"",""created"":""Tue, 23 Aug 1994 22:13:08 GMT""}]","2015-06-26"
+"hep-th/9408128","Alex Kovner","A. Kovner and B. Rosenstein","Fermionic Operators from Bosonic Fields in 3+1 Dimensions","8 pages, two figures available on request, LA-UR-94-2863","Phys.Lett. B342 (1995) 381-386","10.1016/0370-2693(94)01362-G",,"hep-th",,"  We present a construction of fermionic operators in 3+1 dimensions in terms
+of bosonic fields in the framework of $QED_4$. The basic bosonic variables are
+the electric fields $E_i$ and their conjugate momenta $A_i$. Our construction
+generalizes the analogous constuction of fermionic operators in 2+1 dimensions.
+Loosely speaking, a fermionic operator is represented as a product of an
+operator that creates a pointlike charge and an operator that creates an
+infinitesimal t'Hooft loop of half integer strength. We also show how the axial
+$U(1)$ transformations are realized in this construction.
+","[{""version"":""v1"",""created"":""Tue, 23 Aug 1994 21:13:15 GMT""}]","2009-10-28"
+"hep-th/9408129",,"Jan Ambjorn","Barriers in Quantum Gravity","standard latex, 10 pages. (one year old contribution to Trieste
+  workshop, but continued demand for preprints has motivated me to put it on
+  the bulletin board), NBI-HE-93-31",,"10.1142/9789814447072_0007",,"hep-th",,"  I discuss recent progress in our understanding of two barriers in quantum
+gravity: $c > 1$ in the case of 2d quantum gravity and $D > 2$ in the case of
+Euclidean Einstein-Hilbert gravity formulated in space-time dimensions $D >2$.
+","[{""version"":""v1"",""created"":""Tue, 23 Aug 1994 22:25:38 GMT""}]","2016-11-03"
+"hep-th/9408130","Wen-Jui HuangT","Wen-Jui Huang","Nonlocal Matrix Generalizations of N=2 Super Virasoro Algebra","14 pages (Plain TeX), NHCU-HEP-94-23","Mod.Phys.Lett.A9:3347-3358,1994","10.1142/S0217732394003178",,"hep-th",,"  We study the generalization of second Gelfand-Dickey bracket to the
+superdifferential operators with matrix-valued coefficients. The associated
+Miura transformation is derived. Using this bracket we work out a nonlocal and
+nonlinear N=2 superalgebra which contains the N=2 super Virasoro algebra as a
+subalgebra. The bosonic limit of this algebra is considered. We show that when
+the spin-1 fields in this bosonic algebra are set to zero the resulting Dirac
+bracket gives precisely the recently derived $V_{2,2}$ algebra.
+","[{""version"":""v1"",""created"":""Wed, 24 Aug 1994 05:22:05 GMT""}]","2011-07-19"
+"hep-th/9408131","Mikhail Lashkevich","M. Yu. Lashkevich","Equations for Correlation Functions of Eight-Vertex Model: Ferromagnetic
+  and Disordered Phases","16 pages, a new section inserted instead of Eq. (4.15)",,,,"hep-th",,"  The Kyoto group (Jimbo, Miwa, Nakayashikiet al.) showed that the partition
+function and correlation funtions of the eight-vertex model in
+antiferromagnetic phases can be calculated using simple analytical properties
+of the $R$-matrix. We extend these methods to ferromagnetic and disordered
+phases. We use Baxter's symmetries to obtain appropriate parametrizations of
+the $R$-matrix and to substantiate the validity of the analytical approach for
+these phases. These symmetries allow one to relate correlation functions in
+different phases.
+","[{""version"":""v1"",""created"":""Wed, 24 Aug 1994 09:56:45 GMT""},{""version"":""v2"",""created"":""Mon, 29 Aug 1994 07:00:47 GMT""}]","2008-02-03"
+"hep-th/9408132","Stefan Bornholdt","S. Bornholdt, N. Tetradis, and C. Wetterich","Coleman-Weinberg Phase Transition in Two-Scalar Models","14 pages, Oxford OUTP 94-14 P, Heidelberg HD-THEP-94-15","Phys.Lett.B348:89-99,1995","10.1016/0370-2693(95)00045-M",,"hep-th hep-ph",,"  We explore the Coleman-Weinberg phase transition in regions outside the
+validity of perturbation theory. For this purpose we study a Euclidean field
+theory with two scalars and discrete symmetry in four dimensions. The phase
+diagram is established by a numerical solution of a suitable truncation of
+exact non-perturbative flow equations. We find regions in parameter space where
+the phase transition (in dependence on the mass term) is of the second or the
+first order, separated by a triple point. Our quantitative results for the
+first order phase transition compare well to the standard perturbative
+Coleman-Weinberg calculation of the effective potential.
+","[{""version"":""v1"",""created"":""Wed, 24 Aug 1994 12:50:05 GMT""}]","2014-11-18"
+"math/9408209","B. M. Brown","B. Malcolm Brown, William Desmond Evans, Mourad E. H. Ismail","The Askey-Wilson polynomials and q-Sturm-Lioville problems",,,,"OP-SF 24 Aug 1994","math.CA",,"  We find the adjoint of the Askey-Wilson divided difference operator with
+respect to the inner procuct on L^2(-1,1,(1-x^2)^-1/2 dx) defined as a Cauchy
+principle value and show that the Askey-Wilson polynomials are solutions of a
+q-Sturm-Liouville problem. From these facts we deduce various properties of the
+polynomials in a simple and straightforward way. We also provide an operator
+theoretic description of the Askey-Wilson operator.
+","[{""version"":""v1"",""created"":""Wed, 24 Aug 1994 00:00:00 GMT""}]","2016-09-06"
+"nucl-th/9408024",,"S. Kuyucak and A.E. Stuchbery","Consistent description of magnetic dipole properties in transitional
+  nuclei","Revtex, 10 pages, 4 figures (available from authors upon request)","Phys.Lett. B348 (1995) 315-319","10.1016/0370-2693(95)00152-B",,"nucl-th",,"  It is shown that a consistent description of magnetic dipole properties in
+transitional nuclei can be obtained in the interacting boson model-2 by F-spin
+breaking mechanism, which is associated with differences between the proton and
+neutron deformations. In particular, the long standing anomalies observed in
+the $g$-factors of the Os-Pt isotopes are resolved by a proper inclusion of
+F-spin breaking.
+","[{""version"":""v1"",""created"":""Wed, 24 Aug 1994 03:19:08 GMT""}]","2009-10-28"

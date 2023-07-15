@@ -1,0 +1,198 @@
+"astro-ph/9409022","HongSheng Zhao","HongSheng Zhao (1), David N. Spergel (2), R. Michael Rich (1) ((1)
+  Columbia U., (2) Princeton U.)","Microlensing by the Galactic Bar","15 pages, 2 figures","Astrophys.J. 440 (1995) L13","10.1086/187749",,"astro-ph",,"  We compute the predicted optical depth and duration distribution of
+microlensing events towards Baade's window in a model composed of a Galactic
+disk and a bar. The bar model is a self-consistent dynamical model built out of
+individual orbits that has been populated to be consistent with the COBE maps
+of the Galaxy and kinematic observations of the Bulge. We find most of the
+lenses are at 6.25 kpc in BW. The microlensing optical depth of a 2E10 Msun bar
+plus a truncated disk is (2.2+-0.3)E-6, consistent with the very large optical
+depth (3.2+-1.2)E-6 found by Udalski et al. (1994). This prediction doubles
+that of axisymmetric models by Kiraga and Paczynski (1994) since the bar is
+elongated along the line-of-sight. The large Einstein radius and small
+transverse velocity dispersion also predict a longer event duration in the bar
+model than the KP model. The event rate and duration distribution also depend
+on the lower mass cutoff of the lens mass function. With a 0.1Msun cutoff, 5-7
+events of typical 20 days duration are expected for the OGLE experiment
+according to our model, while Udalski et al. observed 9 events with durations
+from 8-62 days. On the other hand, if most of the lenses are brown dwarfs, our
+model predicts too many short duration events; a KS test finds only 7%
+probability for the model with 0.01Msun cutoff to be consistent with current
+data.
+","[{""version"":""v1"",""created"":""Sun, 11 Sep 1994 19:04:56 GMT""},{""version"":""v2"",""created"":""Tue, 14 Dec 1999 15:18:29 GMT""}]","2009-10-22"
+"astro-ph/9409023",,"Mark A. O'Dell, Peter M. Panagi, Martin A. Hendry and Andrew
+  Collier-Cameron(University of Sussex, Brighton BN1 9QH)","New observational limits on dynamo saturation in young solar-type stars","Plain Latex version 3.1, 7 pages, Sussex-AST-94/9-1",,,,"astro-ph",,"  We present statistically robust observational evidence which imposes new
+limits on dynamo saturation in young solar-type stars. These are inferred from
+the increasing amplitude of the V-band optical flux with rotation, caused by
+the filling of the disc with surface spots in a non-axisymmetric pattern.
+Assuming spot coverage acts as a tracer of the total magnetic surface flux we
+find that the magnetic activity saturates at a level at least 6 -- 10 times
+greater than that inferred from chromospheric and transition line indicators.
+We suggest that these new limits imply a minimum rotation for saturation of the
+dynamo and that for high rotation rates starspot coverage acts as an
+alternative diagnostic for the stellar dynamo to the chromospheric and
+transition region line emission fluxes. The fact that the dynamo does not
+appear to saturate at the low rotation rates indicated by chromospheric
+indicators should assist evolutionary braking models that have to explain the
+sudden spin-down of young fast rotating G-dwarfs. ( + 3 figures, available on
+request) To appear in Astronomy and Astrophysics (A&A latex style file,
+laa.sty, included at beginning of file)
+","[{""version"":""v1"",""created"":""Mon, 12 Sep 1994 09:01:00 GMT""}]","2007-05-23"
+"cond-mat/9409043","Philip Phillips","Philip Phillips","Algebraic Scaling of the Kondo Temperature in a Luttinger Liquid","2 pages, RevTex",,,,"cond-mat",,"  I show here how the algebraic scaling of the Kondo temperature in a Luttinger
+liquid can be understood simply from the condition for the existence of the
+singlet (or triplet) bound state.
+","[{""version"":""v1"",""created"":""Mon, 12 Sep 1994 05:33:07 GMT""}]","2007-05-23"
+"cond-mat/9409044","Masao Ogata","Hidetoshi Fukuyama and Masao Ogata","Quasi-Particles in Two-Dimensional Hubbard Model: Splitting of Spectral
+  Weight","8 pages (LaTeX) 4 figures available upon request will be sent by air
+  mail. KomabaCM-preprint-O3",,"10.1143/JPSJ.63.3923",,"cond-mat",,"  It is shown that the energy $(\varepsilon)$ and momentum $(k)$ dependences of
+the electron self-energy function $ \Sigma (k, \varepsilon + i0) \equiv
+\Sigma^{R}(k, \varepsilon) $ are, $ {\rm Im} \Sigma^{R} (k, \varepsilon) =
+-a\varepsilon^{2}|\varepsilon - \xi_{k}|^{- \gamma (k)} $ where $a$ is some
+constant, $\xi_{k} = \varepsilon(k)-\mu, \varepsilon(k)$ being the band energy,
+and the critical exponent $ \gamma(k) $, which depends on the curvature of the
+Fermi surface at $ k $, satisfies, $ 0 \leq \gamma(k) \leq 1 $. This leads to a
+new type of electron liquid, which is the Fermi liquid in the limit of $
+\varepsilon, \xi_{k} \rightarrow 0 $ but for $ \xi_{k} \neq 0 $ has a split
+one-particle spectra as in the Tomonaga-Luttinger liquid.
+","[{""version"":""v1"",""created"":""Mon, 12 Sep 1994 09:17:43 GMT""}]","2009-10-22"
+"cond-mat/9409045","John Cardy","John Cardy","Proportion of Unaffected Sites in a Reaction-Diffusion Process","10 pages, (revised version with abstract included) OUTP-94-35S",,"10.1088/0305-4470/28/1/004",,"cond-mat",,"  We consider the probability $P(t)$ that a given site remains unvisited by any
+of a set of random walkers in $d$ dimensions undergoing the reaction $A+A\to0$
+when they meet. We find that asymptotically $P(t)\sim t^{-\theta}$ with a
+universal exponent $\theta=\ffrac12-O(\epsilon)$ for $d=2-\epsilon$, while, for
+$d>2$, $\theta$ is non-universal and depends on the reaction rate. The
+analysis, which uses field-theoretic renormalisation group methods, is also
+applied to the reaction $kA\to0$ with $k>2$. In this case, a stretched
+exponential behaviour is found for all $d\geq1$, except in the case $k=3$,
+$d=1$, where $P(t)\sim {\rm e}^{-\const (\ln t)^{3/2}}$.
+","[{""version"":""v1"",""created"":""Mon, 12 Sep 1994 14:02:42 GMT""},{""version"":""v2"",""created"":""Tue, 13 Sep 1994 08:48:00 GMT""}]","2009-10-22"
+"gr-qc/9409020",,"Oleg A. Fonarev","Exact Einstein-scalar field solutions for formation of black holes in a
+  cosmological setting","25 pages, 2 figures","Class.Quant.Grav.12:1739-1752,1995","10.1088/0264-9381/12/7/016",,"gr-qc astro-ph hep-th",,"  We consider self-interacting scalar fields coupled to gravity. Two classes of
+exact solutions to Einstein's equations are obtained: the first class
+corresponds to the minimal coupling, the second one to the conformal coupling.
+One of the solutions is shown to describe a formation of a black hole in a
+cosmological setting. Some properties of this solution are described. There are
+two kinds of event horizons: a black hole horizon and cosmological horizons.
+The cosmological horizons are not smooth. There is a mild curvature
+singularity, which affects extended bodies but allows geodesics to be extended.
+It is also shown that there is a critical value for a parameter on which the
+solution depends. Above the critical point, the black hole singularity is
+hidden within a global black hole event horizon. Below the critical point, the
+singularity appears to be naked. The relevance to cosmic censorship is
+discussed.
+","[{""version"":""v1"",""created"":""Sun, 11 Sep 1994 17:51:00 GMT""},{""version"":""v2"",""created"":""Sun, 11 Sep 1994 18:58:00 GMT""},{""version"":""v3"",""created"":""Sun, 11 Sep 1994 19:27:00 GMT""}]","2010-04-06"
+"gr-qc/9409021","Okuta Yasunari","Joseph Katz and Yasunari Okuta","What Cavities?","15pages(LaTeX) + 6pages(PS figures)","Class.Quant.Grav.12:2275-2286,1995","10.1088/0264-9381/12/9/014",,"gr-qc",,"  Most spherical thin shells, enclosing black body radiation satisfy the
+dominant energy condition if they have at least $\simeq 30\%$ of the total
+mass-energy. Containers with less mass energy, able to sustain high pressures,
+contain mostly unstable radiation. If they have negligible mass energy they are
+unable to sustain the pressures and the radiation is unstable to gravitational
+collapse. Containers with black holes and radiation in thermal equilibrium,
+considered in the literature, are often unrealistic.
+","[{""version"":""v1"",""created"":""Mon, 12 Sep 1994 12:52:10 GMT""}]","2010-04-06"
+"hep-ph/9409276","Lynne Orr","Lynne H. Orr and W.J. Stirling","Top Momentum and Extra Soft Jets","uuencoded postscript file containing 4 text pages with three embedded
+  figures (hard copy available from authors). Talk presented by L.H. Orr at
+  DPF'94, Albuquerque, NM, August 2-6, 1994",,,"UR-1378, DTP/94/70","hep-ph",,"  Top pairs produced at the Tevatron may be accompanied by extra jets due to
+radiation of soft gluons. Whether these jets should be included in top momentum
+reconstruction depends on the source of the gluons, which can be radiated off
+the initial partons, the final state $b$ quarks, or the intermediate top
+quarks. We compute soft gluon distributions and discuss their implications for
+top mass measurements.
+","[{""version"":""v1"",""created"":""Sun, 11 Sep 1994 19:25:32 GMT""}]","2007-05-23"
+"hep-ph/9409277",,"Tao Huang and Chuan-Wang Luo","Light Flavor Dependence of the Isgur-Wise Function","(Invited talk given by T.Huang at ICHEP '94, Glasgow, July 1994.),
+  Latex, 5 pages+2 figures, BIHEP-TH-94-35",,,,"hep-ph",,"  We present an investigation on the ligh flavor dependence of the Isgur-Wise
+function for $B_a\rightarrow D_a$ and $B_a\rightarrow D^{*}_a$ in the framework
+of QCD sum rules. It is found that the Isgur-Wise function for $B_s$ decay
+falls faster than that for $B_{u,d}$ decay , which is just contrary to the
+recent prediction of the heavy meson chiral perturbation theory. SU(3) symmetry
+breaking effects in the mass and the decay constant are also estimated.
+","[{""version"":""v1"",""created"":""Mon, 12 Sep 1994 03:25:56 GMT""}]","2009-09-25"
+"hep-ph/9409280","Dr. Peter A. Henning","P.A.Henning, R.Sollacher, H.Weigert","Fermion damping rate in a hot medium","29 pages, revtex, 8 figures; also available at
+  ftp://tpri6c.gsi.de/pub/phenning/h95spec/ or at
+  http://www.gsi.de/~phenning/tft.html. Major rewriting of original paper",,,"GSI-Preprint-94-56","hep-ph",,"  In principle every excitation acquires a finite lifetime in a hot system.
+This nonzero spectral width is calculated self-consistently for massive
+fermions coupled to massless scalar, vector and pseudoscalar bosons. It is
+shown that the self-consistent summation of the corresponding Fock diagram for
+fermions eliminates all infrared divergences although the bosons are not
+screened at all. Our solutions for the fermion damping rate are analytical in
+the coupling constant, but not analytical in the temperature parameter around
+T=0.
+","[{""version"":""v1"",""created"":""Mon, 12 Sep 1994 08:52:44 GMT""},{""version"":""v2"",""created"":""Fri, 15 Dec 1995 15:05:42 GMT""}]","2008-02-03"
+"hep-ph/9409282","Igor Musatov","I.V. Musatov, V.A. Nikolaev, E. Sorace, M. Tarlini and O.G. Tkachev","Additional Degrees of Freedom in Skyrmion Motion","10 pages, LaTeX, CEBAF-TH-94-12",,,,"hep-ph",,"  We consider the quantization of chiral solitons with baryon number $B>1$.
+Classical solitons are obtained within the framework of a variational approach.
+From the form of the soliton solution it can be seen that besides the group of
+symmetry describing transformations of the configuration as a whole there are
+additional symmetries corresponding to internal transformations. Taking into
+account the additional degrees of freedom leads to some sort of spin alignment
+for light nuclei and gives constraints on their spectra.
+","[{""version"":""v1"",""created"":""Mon, 12 Sep 1994 15:58:28 GMT""},{""version"":""v2"",""created"":""Tue, 29 Nov 1994 02:20:06 GMT""}]","2008-02-03"
+"hep-th/9409060","Andrei Linde","R. Kallosh and T. Ortin","Exact SU(2)*U(1) Stringy Black Holes","10 pages, SU-ITP-94-27 and QMW-PH-94-34 (version accepted for
+  publication in Phys. Rev., contains a discussion of (4.1) supersymmetry of
+  the black hole sigma model)","Phys.Rev.D50:7123-7127,1994","10.1103/PhysRevD.50.R7123",,"hep-th gr-qc",,"  Extreme magnetic dilaton black holes are promoted to exact solutions of
+heterotic string theory with unbroken supersymmetry. With account taken of
+alpha' corrections this is accomplished by supplementing the known solutions
+with SU(2) Yang-Mills vectors and scalars in addition to the already existing
+Abelian U(1) vector field. The solution has a simple analytic form and includes
+multi-black-holes. The issue of exactness of other black-hole-type solutions,
+including extreme dilaton electrically charged black holes and Taub-NUT
+solutions is discussed.
+","[{""version"":""v1"",""created"":""Sun, 11 Sep 1994 22:10:01 GMT""},{""version"":""v2"",""created"":""Tue, 8 Nov 1994 17:44:06 GMT""}]","2009-12-30"
+"hep-th/9409061","Clifford Johnson","Clifford V. Johnson","Heterotic Cosets","15 pages (plain Tex), IASSNS-HEP-94/66 (NOTE: This is the text of a
+  talk given at the Trieste Summer School and Workshop on High Energy Physics
+  and Cosmology, 11th-29th July 1994.) (Revised version has references
+  corrected and minor corrections to formulae.)",,,,"hep-th",,"  A description is given of how to construct $(0,2)$ supersymmetric conformal
+field theories as coset models. These models may be used as non--trivial
+backgrounds for Heterotic String Theory. They are realised as a combination of
+an anomalously gauged Wess--Zumino--Witten model, right--moving supersymmetric
+fermions, and left--moving current algebra fermions. Requiring the sum of the
+gauge anomalies from the bosonic and fermionic sectors to cancel yields the
+final model. Applications discussed include exact models of extremal
+four--dimensional charged black holes and Taub--NUT solutions of string theory.
+These coset models may also be used to construct important families of $(0,2)$
+supersymmetric Heterotic String compactifications. The Kazama--Suzuki models
+are the left--right symmetric special case of these models.
+","[{""version"":""v1"",""created"":""Sun, 11 Sep 1994 23:54:08 GMT""},{""version"":""v2"",""created"":""Sun, 18 Sep 1994 20:29:08 GMT""}]","2008-02-03"
+"hep-th/9409062","Clifford Johnson","Clifford V. Johnson","Heterotic Coset Models","15 pages. Plain Tex. (References added. Formulae and typo's
+  corrected. Now in form which will appear in Mod. Phys. Lett.)","Mod.Phys.Lett. A10 (1995) 549-560","10.1142/S0217732395000582","PUPT-1499","hep-th",,"  A description is given of how to construct (0,2) supersymmetric conformal
+field theories as coset models. These models may be used as non-trivial
+backgrounds for Heterotic String Theory. They are realised as a combination of
+an anomalously gauged Wess-Zumino-Witten model, right-moving supersymmetric
+fermions, and left-moving current algebra fermions. Requiring the sum of the
+gauge anomalies from the bosonic and fermionic sectors to cancel yields the
+final model. Applications discussed include exact models of extremal
+four-dimensional charged black holes and Taub-NUT solutions of string theory.
+These coset models may also be used to construct important families of (0,2)
+supersymmetric Heterotic String compactifications. The Kazama-Suzuki models are
+the left-right symmetric special case of these models.
+","[{""version"":""v1"",""created"":""Mon, 12 Sep 1994 00:05:21 GMT""},{""version"":""v2"",""created"":""Sun, 18 Sep 1994 20:30:15 GMT""},{""version"":""v3"",""created"":""Mon, 6 Mar 1995 00:31:29 GMT""}]","2009-10-28"
+"hep-th/9409063","Alexander A. Voronov","Murray Gerstenhaber and Alexander A. Voronov","Homotopy G-algebras and moduli space operad","12 pages, Preprint, Max-Planck-Institut in Bonn","Internat. Math. Research Notices (1995) 141-153",,,"hep-th dg-ga math.DG",,"  This paper reemphasizes the ubiquitous role of moduli spaces of algebraic
+curves in associative algebra and algebraic topology. The main results are: (1)
+the space of an operad with multiplication is a homotopy G- (i.e., homotopy
+graded Poisson) algebra; (2) the singular cochain complex is naturally an
+operad; (3) the operad of decorated moduli spaces acts naturally on the de Rham
+complex $\Omega^\bullet X$ of a K\""{a}hler manifold $X$, thereby yielding the
+most general type of homotopy G-algebra structure on $\Omega^\bullet X$. One of
+the reasons to put this operadic nonsense on the physics bulletin board is that
+we use a typical construction of supersymmetric sigma-model, the construction
+of Gromov-Witten invariants in Kontsevich's version.
+","[{""version"":""v1"",""created"":""Mon, 12 Sep 1994 14:53:11 GMT""}]","2008-02-03"
+"hep-th/9409064","Igor Klebanov","Igor R. Klebanov and Akikazu Hashimoto","Non-Perturbative Solution of Matrix Models Modified by Trace-Squared
+  Terms","26 pages, PUPT-1498","Nucl.Phys. B434 (1995) 264-282","10.1016/0550-3213(94)00518-J",,"hep-th",,"  We present a non-perturbative solution of large $N$ matrix models modified by
+terms of the form $ g(\Tr\Phi^4)^2$, which add microscopic wormholes to the
+random surface geometry. For $g<g_t$ the sum over surfaces is in the same
+universality class as the $g=0$ theory, and the string susceptibility exponent
+is reproduced by the conventional Liouville interaction $\sim e^{\alpha_+
+\phi}$. For $g=g_t$ we find a different universality class, and the string
+susceptibility exponent agrees for any genus with Liouville theory where the
+interaction term is dressed by the other branch, $e^{\alpha_- \phi}$. This
+allows us to define a double-scaling limit of the $g=g_t$ theory. We also
+consider matrix models modified by terms of the form $g O^2$, where $O$ is a
+scaling operator. A fine-tuning of $g$ produces a change in this operator's
+gravitational dimension which is, again, in accord with the change in the
+branch of the Liouville dressing.
+","[{""version"":""v1"",""created"":""Mon, 12 Sep 1994 15:48:11 GMT""}]","2009-10-28"
+"math/9409229",,"David R. Masson","The last of the hypergeometric continued fractions",,,,"OP-SF 12 Sep 1994","math.CA",,"  A contiguous relation for complementry pairs of very well poised balanced
+${}_{10}\phi_9$ basic hypergeometric functions is used to derive an explict
+expression for the associated continued fraction. This generalizes the
+continued fraction results associated with both Ramanujan's Entry 40 and
+Askey-Wilson polynomials which can be recovered as limits. Associated with our
+continued fraction results there are systems of biorthogonal rational functions
+that have yet to be derived.
+","[{""version"":""v1"",""created"":""Mon, 12 Sep 1994 00:00:00 GMT""}]","2016-09-06"

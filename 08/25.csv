@@ -1,0 +1,319 @@
+"alg-geom/9408007","Caryn Werner","Caryn Werner","A surface of general type with \( p_g =q =0, K^2 =1 \)","13 pages, AMS-LaTex version 1.1",,,,"alg-geom math.AG",,"  We construct a surface of general type with invariants \( \chi = K^2 = 1 \)
+and torsion group \( \Bbb{Z}/{2} \). We use a double plane construction by
+finding a plane curve with certain singularities, resolving these, and taking
+the double cover branched along the resulting smooth curve.
+","[{""version"":""v1"",""created"":""Wed, 24 Aug 1994 20:25:38 GMT""}]","2008-02-03"
+"astro-ph/9408082","Matthias Bartelmann","Matthias Bartelmann, Matthias Steinmetz, and Achim Weiss","Arc Statistics with Realistic Cluster Potentials. II. Influence of
+  Cluster Asymmetry and Substructure","(uuencoded compressed postscript including figures); 19 pages,
+  preprint MPA 826",,,,"astro-ph",,"  We construct a sample of numerical models for clusters of galaxies and employ
+these to investigate their capability of imaging background sources into long
+arcs. Emphasis is laid on the statistics of these arcs. We study cross sections
+for arc length and length-to-width ratio and optical depths for these arc
+properties, we examine the distribution of arc widths and curvature radii among
+long arcs, and we compare these results to predictions based on simplified
+(radially symmetric) cluster models. We find that the capability of the
+numerically modeled clusters to produce long arcs is larger by about two orders
+of magnitude than that of spherically symmetric cluster models with the same
+observable parameters (core radii and velocity dispersions), and that they are
+similarly efficient as singular isothermal spheres with the same
+velocity-dispersion distribution. The influence of source ellipticity is also
+investigated; we find that the optical depth for arcs with a length-to-width
+ratio $\ga10$ is significantly larger for elliptical than for circular sources.
+Given these results, we conclude that spherically symmetric lens models for
+galaxy clusters, adapted to the observable parameters of these clusters,
+grossly underestimate the frequency of long arcs. We attribute this difference
+between numerically constructed and simplified analytical lens models to the
+abundance and the extent of intrinsic asymmetry and to substructure in galaxy
+clusters.
+","[{""version"":""v1"",""created"":""Wed, 24 Aug 1994 20:28:50 GMT""}]","2007-05-23"
+"astro-ph/9408083","Per B. Lilje","H. Dahle, S.J. Maddox and Per B. Lilje","Deep Imaging of the Double Quasar 0957+561: New Constraints on H_0","(uuencoded and compressed postscipt including 3 figures); 14 pages",,"10.1086/187599",,"astro-ph",,"  We present new results from extremely deep, high-resolution images of the
+field around the double quasar QSO 0957+561. A possible gravitational arc
+system near the double quasar has recently been reported, which, if real, would
+set strong constraints on determinations of the Hubble constant from the time
+delay in the double quasar. We find that both the morphology and the colors of
+the claimed arc systems suggest that they are chance alignments of three and
+two different objects, and not gravitationally lensed arcs. Hence, the
+constraints on $H_0$-determinations from the arcs are not valid. Also, a small
+group of galaxies at $z=0.5$ near the line-of-sight which was required to have
+a very large mass in the physically interesting arc models, is most likely
+insignificant. From our deep images we are able to use weak lensing of faint
+background galaxies in the field to map the gravitational potential in the main
+cluster. This sets new constraints on determinations of $H_0$. We find that the
+Hubble constant is constrained to be less than 70km/(s Mpc), if the time delay
+between the two images of the QSO is equal to or larger than 1.1 years.
+","[{""version"":""v1"",""created"":""Thu, 25 Aug 1994 14:21:20 GMT""}]","2009-10-22"
+"chao-dyn/9408003",,"Detlef Lohse (The James Franck Institute, The University of Chicago,
+  Chicago, IL, USA)","Temperature spectra in shear flow and thermal convection","9 pages, 1 figure, 1 table","Phys. Lett. A 196, 70-75 (1994)","10.1016/0375-9601(94)91046-4","Preprint 1994-5, Chicago, revised version chao-dyn/9408003","chao-dyn nlin.CD",,"  We show that the $P_u(\om) \propto \om^{-7/3}$ shear velocity power spectrum
+gives rise to a $P_\Theta (\om ) \propto \om^{-4/3}$ power spectrum for a
+passively advected scalar, as measured in experiment [K. Sreenivasan, Proc. R.
+Soc. London A {\bf 434}, 165 (1991)]. Applying our argument to high Rayleigh
+number Rayleigh Benard flow, we can account for the measured scaling exponents
+equally well as the Bolgiano Obukhov theory (BO59). Yet, of the two
+explanations, only the shear approach might be able to explain why no classical
+scaling range is seen in between the shear (or BO59) range and the viscous
+subrange of the experimental temperature spectrum [I. Procaccia {\it et al.},
+Phys. Rev. A {\bf 44}, 8091 (1991)].
+","[{""version"":""v1"",""created"":""Thu, 25 Aug 1994 07:04:04 GMT""},{""version"":""v2"",""created"":""Fri, 21 Oct 1994 11:31:28 GMT""}]","2009-10-22"
+"cmp-lg/9408015","Walker","Marilyn A. Walker (Mitsubishi Electric Research Laboratories,
+  Cambridge, Mass.)","Experimentally Evaluating Communicative Strategies: The Effect of the
+  Task","8 pages, latex with psfig, lingmacros.sty, available at
+  ftp://atlantic.merl.com/pub/walker/aaai94.ps.Z","Proceedings of AAAI 94, Seattle",,,"cmp-lg cs.CL",,"  Effective problem solving among multiple agents requires a better
+understanding of the role of communication in collaboration. In this paper we
+show that there are communicative strategies that greatly improve the
+performance of resource-bounded agents, but that these strategies are highly
+sensitive to the task requirements, situation parameters and agents' resource
+limitations. We base our argument on two sources of evidence: (1) an analysis
+of a corpus of 55 problem solving dialogues, and (2) experimental simulations
+of collaborative problem solving dialogues in an experimental world,
+Design-World, where we parameterize task requirements, agents' resources and
+communicative strategies.
+","[{""version"":""v1"",""created"":""Wed, 24 Aug 1994 16:43:13 GMT""}]","2008-02-03"
+"cond-mat/9408081","Peter Hessling","J. P. Hessling, Yu. Galperin, M. Jonson, R. I. Shekhter, A.M. Zagoskin","Noise in a Quantum Point Contact due to a Fluctuating Impurity
+  Configuration","9 revtex",,"10.1088/0953-8984/7/36/013","APR 94-38","cond-mat",,"  We propose a theoretical model for the low-frequency noise observed in a
+quantum point contact (QPC) electrostatically defined in the 2D electron gas at
+a GaAs-AlGaAs interface. In such contacts electron scattering by soft impurity-
+or boundary potentials coherently splits an incoming wave function between
+different transverse modes. Interference between these modes have been
+suggested to explain observed non-linearities in the QPC-conductance. In this
+study we invoke the same mechanism and the time-dependent current due to soft
+dynamical impurity scattering in order to analyze the low-frequency
+(telegraph-like) noise which has been observed along with a nonlinear
+conductance. For the simplified case of a channel with two extended (current
+carrying) modes, a simple analytical formula for the noise intensity is
+derived. Generally we have found qualitative similarities between the noise and
+the square of the transconductance. Nevertheless, incidentally there may be
+situations when noise is suppressed but transconductance enhanced.
+","[{""version"":""v1"",""created"":""Wed, 24 Aug 1994 18:36:19 GMT""}]","2009-10-22"
+"cond-mat/9408082","Tom Devereaux","T. P. Devereaux, A. Virosztek and A. Zawadowski","Charge transfer fluctuation, $d-$wave superconductivity, and the
+  $B_{1g}$ Raman phonon in the Cuprates: A detailed analysis","Revtex, 21 pages + 4 postscript figures appended, tpd",,"10.1103/PhysRevB.51.505",,"cond-mat",,"  The Raman spectrum of the $B_{1g}$ phonon in the superconducting cuprate
+materials is investigated theoretically in detail in both the normal and
+superconducting phases, and is contrasted with that of the $A_{1g}$ phonon. A
+mechanism involving the charge transfer fluctuation between the two oxygen ions
+in the CuO$_2$ plane coupled to the crystal field perpendicular to the plane is
+discussed and the resulting electron-phonon coupling is evaluated. Depending on
+the symmetry of the phonon the weight of different parts of the Fermi surface
+in the coupling is different. This provides the opportunity to obtain
+information on the superconducting gap function at certain parts of the Fermi
+surface. The lineshape of the phonon is then analyzed in detail both in the
+normal and superconducting states. The Fano lineshape is calculated in the
+normal state and the change of the linewidth with temperature below T$_{c}$ is
+investigated for a $d_{x^{2}-y^{2}}$ pairing symmetry. Excellent agreement is
+obtained for the $B_{1g}$ phonon lineshape in YBa$_{2}$Cu$_{3}$O$_{7}$. These
+experiments, however, can not distinguish between $d_{x^{2}-y^{2}}$ and a
+highly anisotropic $s$-wave pairing.
+","[{""version"":""v1"",""created"":""Wed, 24 Aug 1994 21:36:05 GMT""}]","2009-10-22"
+"cond-mat/9408083","Murray. Batchelor","M.T. Batchelor, J. Suzuki and C.M. Yung","Exact Results for Hamiltonian Walks from the Solution of the Fully
+  Packed Loop Model on the Honeycomb Lattice","12 pages, RevTeX, 3 figures supplied on request, ANU preprint
+  MRR-050-94",,"10.1103/PhysRevLett.73.2646",,"cond-mat hep-th",,"  We derive the nested Bethe Ansatz solution of the fully packed O($n$) loop
+model on the honeycomb lattice. From this solution we derive the bulk free
+energy per site along with the central charge and geometric scaling dimensions
+describing the critical behaviour. In the $n=0$ limit we obtain the exact
+compact exponents $\gamma=1$ and $\nu=1/2$ for Hamiltonian walks, along with
+the exact value $\kappa^2 = 3 \sqrt 3 /4$ for the connective constant
+(entropy). Although having sets of scaling dimensions in common, our results
+indicate that Hamiltonian walks on the honeycomb and Manhattan lattices lie in
+different universality classes.
+","[{""version"":""v1"",""created"":""Thu, 25 Aug 1994 04:42:49 GMT""}]","2009-10-22"
+"gr-qc/9408029","Jim Rankin","J.E. Rankin","Quantum Behavior in Asymmetric, Weyl-Like Cartan Geometries","5 pages (RevTeX 3.0), talk given at MG7 Meeting, 24-29 July, 1994,
+  RCTP-9402 This revision clarifies the wording slightly to emphasize that the
+  model adopts the view of a classical, pure field theory as the basic picture
+  of the world",,,,"gr-qc",,"  This discussion examines recent developments in the theory of a Weyl-like,
+Cartan geometry with natural Schr\""odinger field behavior proposed previously.
+In that model, very nearly exactly a coupled Einstein-Maxwell- Schr\""odinger,
+classical field theory emerges from a gauge invariant, purely geometric action
+based solely on variations of the electromagnetic potentials and the metric. In
+spite of this, only slight differences appear between the resulting
+Schr\""odinger part, and the conventional theory of the Schr\""odinger field.
+Close examination of the differences reveals that most are general relativistic
+effects which are unobservable in flat spacetime, and which are estimated to
+interact significantly only via their gravitational fields, or on scales
+comparable with neutrino interaction cross sections. The only remaining
+difference is that the wavefunction obeying the conjugate wave equation is not
+always restricted to be exactly the complex conjugate of the primary
+wavefunction. Generalizations of the model lead naturally to spinlike
+phenomena, a possible new mechanism for a theory of rest mass, and spinor
+connections containing the form of an SU(2) potential.
+","[{""version"":""v1"",""created"":""Wed, 24 Aug 1994 22:58:17 GMT""},{""version"":""v2"",""created"":""Wed, 31 Aug 1994 21:40:39 GMT""}]","2008-02-03"
+"gr-qc/9408030",,"Marek Biesiada and Svend E. Rugh","Maupertuis principle, Wheeler's superspace and an invariant criterion
+  for local instability in general relativity","30 pages, LaTeX",,,"NCAC Preprint No. 273","gr-qc",,"  It is tempting to raise the issue of (metric) chaos in general relativity
+since the Einstein equations are a set of highly nonlinear equations which may
+exhibit dynamically very complicated solutions for the space-time metric.
+However, in general relativity it is not easy to construct indicators of chaos
+which are gauge-invariant. Therefore it is reasonable to start by investigating
+- at first - the possibility of a gauge-invariant description of local
+instability. In this paper we examine an approach which aims at describing the
+dynamics in purely geometrical terms. The dynamics is formulated as a geodesic
+flow through the Maupertuis principle and a criterion for local instability of
+the trajectories may be set up in terms of curvature invariants (e.g. the Ricci
+scalar) of the manifold on which geodesic flow is generated. We discuss the
+relation of such a criterion for local instability (negativity of the Ricci
+scalar) to a more standard criterion for local instability and we emphasize
+that no inferences can be made about global chaotic behavior from such local
+criteria.
+","[{""version"":""v1"",""created"":""Thu, 25 Aug 1994 12:57:04 GMT""}]","2009-09-25"
+"hep-lat/9408019","Martin Hasenbusch","Martin Hasenbusch","An Improved Estimator for the Correlation Function of 2D Nonlinear Sigma
+  Models","20 pages, LaTeX + 2 ps figures, CERN-TH.7375/94","Nucl.Phys.Proc.Suppl.42:764-766,1995","10.1016/0920-5632(95)00375-J",,"hep-lat",,"  I present a new improved estimator for the correlation function of 2D
+nonlinear sigma models. Numerical tests for the 2D XY model and the 2D
+O(3)-invariant vector model were performed. For small physical volume, i.e. a
+lattice size small compared to the to the bulk correlation length, a reduction
+of the statistical error of the finite system correlation length by a factor of
+up to 30 compared to the cluster-improved estimator was observed. This
+improvement allows for a very accurate determination of the running coupling
+proposed by M. L""uscher et al. for 2D O(N)-invariant vector models.
+","[{""version"":""v1"",""created"":""Thu, 25 Aug 1994 13:58:54 GMT""}]","2010-12-01"
+"hep-ph/9408361","Jan Czyzewski","J. Czyzewski","Single Spin Asymmetry of Vector Meson Production as a Probe of Asymmetry
+  of Parton Scattering","plain TeX, 6 pages (revised version, 2 corrected figures added in a
+  compressed uuencoded PostScript file), HEN-377 (1994)",,,,"hep-ph",,"  Azimuthal asymmetry of vector-meson production in single-transversely
+polarized proton-proton collisions ($p\up p$) is calculated in the string model
+of particle production. The asymmetry is generated only during fragmentation of
+a high-energy quark into hadrons. The obtained asymmetry of the $\rho^\pm$ is
+opposite in sign to that of $\pi^\pm$ mesons. On the other hand, an asymmetry
+appearing during parton scattering would contribute with the same sign to that
+of vector and pseudoscalar mesons. Thus, a combined measurement of both can be
+used to estimate the contribution to the asymmetry from parton scattering.
+","[{""version"":""v1"",""created"":""Wed, 24 Aug 1994 17:06:49 GMT""},{""version"":""v2"",""created"":""Wed, 14 Sep 1994 17:26:07 GMT""}]","2009-09-25"
+"hep-ph/9408362",,"Charles B. Chiu and Duane A. Dicus","Dips in Partial Wave Amplitudes from Final State Interactions","9 pages, CPP-93-21, 6 figures not included","Phys.Rev. D50 (1994) 6724-6729","10.1103/PhysRevD.50.6724",,"hep-ph",,"  We consider the dip-peak structures in the J=0 partial wave amplitudes for
+processes $\gamma\gamma\rightarrow W^+W^-~
+\mbox{and}~\gamma\gamma,gg\rightarrow t\overline{t}$ taking into account the
+corresponding Born term process and the rescattering process where the
+intermediate state is rescattered through the exchange of Higgs resonance state
+in the direct channel.
+","[{""version"":""v1"",""created"":""Wed, 24 Aug 1994 19:23:18 GMT""}]","2009-10-28"
+"hep-ph/9408363","Daniel de Florian","D.de Florian, L.N.Epele, H.Fanchiotti, C.A.Garcia Canal, R.Sassot","Polarised parton distributions","13 pages and 7 figures (not included, available upon request
+  DEFLO@venus.fisica.edu.ar)","Phys.Rev. D51 (1995) 37-43","10.1103/PhysRevD.51.37",,"hep-ph",,"  We analyze spin dependent parton distributions consistent with the most
+recent measurements of the spin dependent deep inelastic scattering structure
+functions and obtained in the framework of the spin dilution model. Predictions
+for the doubly polarised proton-proton Drell-Yan asymmetry, for the high
+$p_{T}$ photon production mechanism and $J/\Psi$ excitation are calculated
+using these distributions and are shown to be particularly adequate to unveil
+the polarisation of partons in the proton.
+","[{""version"":""v1"",""created"":""Wed, 24 Aug 1994 19:14:47 GMT""}]","2009-10-28"
+"hep-ph/9408364","Chi-Keung Chow","Chi-Keung Chow","New Universality of Baryon Isgur--Wise Form Factor in the Large $N_c$
+  limit","5 pages in REVTEX galley style, CALT-68-1946","Phys.Rev. D51 (1995) 1224-1227","10.1103/PhysRevD.51.1224",,"hep-ph",,"  New universality appears for the baryon Isgur--Wise form factor in the large
+$N_c$ limit. It is found that the semileptonic $\Lambda_b \rightarrow
+\Lambda_c$ and $\Sigma_b^{(*)} \rightarrow \Sigma^{(*)}_c$ decays are described
+by the same form factor, which can be calculated analytically. In the exact
+chiral $SU(3)$ limit, the same form factor is applicable to semileptonic
+$\Omega_b^{(*)} \rightarrow \Omega^{(*)}_c$ decays.
+","[{""version"":""v1"",""created"":""Thu, 25 Aug 1994 05:57:23 GMT""}]","2009-10-28"
+"hep-ph/9408365",,"S. Kirsch, T. Riemann","SMATASY - A program for the model independent description of the Z
+  resonance","25 pages (LaTeX), 5 figures, 1 table, see also
+  http://www-zeuthen.desy.de/~riemann/ or
+  http://hpl3sn02.cern.ch/homepages/gruenew/","Comput.Phys.Commun. 88 (1995) 89-108","10.1016/0010-4655(95)00016-9","DESY 94-125","hep-ph",,"  SMATASY is an interface for the ZFITTER package and may be used for the model
+independent description of the Z resonance at LEP 1 and SLC. It allows the
+determination of the Z mass and width and its resonance shape parameters r and
+j for cross-sections and their asymmetries. The r describes the peak height and
+j the interference of the Z resonance with photon exchange in each scattering
+channel and for $\sigma_T$, $\sigma_{FB}$, $\sigma_{lr}$, $\sigma_{pol}$ etc.
+separately. Alternatively, the helicity amplitudes for a given scattering
+channel may be determined. We compare our formalism with other model
+independent approaches. The model independent treatment of QED corrections in
+SMATASY is applicable also far away from the Z peak.
+","[{""version"":""v1"",""created"":""Thu, 25 Aug 1994 08:30:56 GMT""},{""version"":""v2"",""created"":""Fri, 5 Oct 2001 09:43:21 GMT""}]","2009-10-28"
+"hep-ph/9408366","Pieter Rijken","P.J. Rijken and W.L. van Neerven","Order $\alpha_s^{2}$ contributions to the Drell-Yan cross section at
+  fixed target energies","50 p., INLO-PUB-14/94","Phys.Rev. D51 (1995) 44-63","10.1103/PhysRevD.51.44",,"hep-ph",,"  {}From the literature one infers that the bulk of the order $\alpha_{s}$
+corrections to the Drell-Yan cross sections $d\sigma/dm$ and
+$m^{3}d^{2}\sigma/dmdx_{F}$ is constituted by the soft plus virtual gluon part
+of the coefficient function. In the case of $d\sigma/dm$ it can be shown that
+at fixed target energies the effect of the exact order $\alpha_{s}^{2}$
+corrected coefficient function is very well approximated by its soft plus
+virtual gluon part. Since the complete order $\alpha_{s}^{2}$ contribution to
+the coefficient function is missing we have to assume that the same
+approximation also holds for $m^{3}d^{2}\sigma/dmdx_{F}$. It appears that the
+discrepancy between the exact order $\alpha_{s}$ corrected cross section and
+the massive lepton pair data taken at fixed target experiments can be partially
+explained by including the order $\alpha_{s}^{2}$ soft plus virtual gluon part
+of the coefficient function.
+","[{""version"":""v1"",""created"":""Thu, 25 Aug 1994 10:53:17 GMT""}]","2009-10-28"
+"hep-th/9408133","Eric Zaslow","Eric Zaslow","Solitons and Helices: The Search for a Math-Physics Bridge","53 pages plain TeX (harvmac) + 3 uuencoded figures","Commun.Math.Phys. 175 (1996) 337-376","10.1007/BF02102412","HUTP-94/A027","hep-th alg-geom math.AG",,"  We present evidence for an undiscovered link between N=2 supersymmetric
+quantum field theories and the mathematical theory of helices of coherent
+sheaves. We give a thorough review for nonspecialists of both the mathematics
+and physics involved, and invite the reader to take up the search for this
+elusive connection.
+","[{""version"":""v1"",""created"":""Wed, 24 Aug 1994 22:17:09 GMT""}]","2009-10-28"
+"hep-th/9408134","Larus Thorlacius","D.A. Lowe and L. Thorlacius","Hot String Soup","13 pages, no figures, uses LaTex, some errors in equations have been
+  corrected, NSF-ITP-94-83, UCSBTH-94-30","Phys.Rev.D51:665-670,1995","10.1103/PhysRevD.51.665",,"hep-th",,"  Above the Hagedorn energy density closed fundamental strings form a long
+string phase. The dynamics of weakly interacting long strings is described by a
+simple Boltzmann equation which can be solved explicitly for equilibrium
+distributions. The average total number of long strings grows logarithmically
+with total energy in the microcanonical ensemble. This is consistent with
+calculations of the free single string density of states provided the
+thermodynamic limit is carefully defined. If the theory contains open strings
+the long string phase is suppressed.
+","[{""version"":""v1"",""created"":""Wed, 24 Aug 1994 23:08:56 GMT""},{""version"":""v2"",""created"":""Fri, 2 Sep 1994 23:57:00 GMT""}]","2010-11-01"
+"hep-th/9408135","Jsuzuki","Atsuo Kuniba and Junji Suzuki","Functional Relations and Analytic Bethe Ansatz for Twisted Quantum
+  Affine Algebras","14 pages. Plain Tex","J.Phys. A28 (1995) 711-722","10.1088/0305-4470/28/3/024",,"hep-th",,"  Functional relations are proposed for transfer matrices of solvable vertex
+models associated with the twisted quantum affine algebras
+$U_q(X^{(\kappa)}_n)$ where $X^{(\kappa)}_n = A^{(2)}_n, D^{(2)}_n, E^{(2)}_6$
+and $D^{(3)}_4$. Their solutions are obtained for $A^{(2)}_n$ and conjectured
+for $D^{(3)}_4$ in the dressed vacuum form in the analytic Bethe ansatz.
+","[{""version"":""v1"",""created"":""Thu, 25 Aug 1994 03:53:56 GMT""}]","2009-10-28"
+"hep-th/9408136","Ole Warnaar","Ole Warnaar and Paul A. Pearce","Exceptional structure of the dilute A$_3$ model: E$_8$ and E$_7$
+  Rogers--Ramanujan identities","9 pages, 1 postscript figure","J.Phys. A27 (1994) L891-L898","10.1088/0305-4470/27/23/005",,"hep-th nlin.SI solv-int",,"  The dilute A$_3$ lattice model in regime 2 is in the universality class of
+the Ising model in a magnetic field. Here we establish directly the existence
+of an E$_8$ structure in the dilute A$_3$ model in this regime by expressing
+the 1-dimensional configuration sums in terms of fermionic sums which
+explicitly involve the E$_8$ root system. In the thermodynamic limit, these
+polynomial identities yield a proof of the E$_8$ Rogers--Ramanujan identity
+recently conjectured by Kedem {\em et al}.
+  The polynomial identities also apply to regime 3, which is obtained by
+transforming the modular parameter by $q\to 1/q$. In this case we find an
+A$_1\times\mbox{E}_7$ structure and prove a Rogers--Ramanujan identity of
+A$_1\times\mbox{E}_7$ type. Finally, in the critical $q\to 1$ limit, we give
+some intriguing expressions for the number of $L$-step paths on the A$_3$
+Dynkin diagram with tadpoles in terms of the E$_8$ Cartan matrix. All our
+findings confirm the E$_8$ and E$_7$ structure of the dilute A$_3$ model found
+recently by means of the thermodynamic Bethe Ansatz.
+","[{""version"":""v1"",""created"":""Thu, 25 Aug 1994 02:43:37 GMT""}]","2016-09-06"
+"hep-th/9408137",,"K. Behrndt","Quantum Corrections for a Cosmological String Solution","talk presented at PASCOS 94, 11 Pages, 2 figures, Latex, epsf.tex,
+  SLAC--PUB--6640",,,,"hep-th gr-qc",,"  We investigate quantum corrections for a cosmological solution of the string
+effective action. Starting point is a classical solution containing an
+antisymmetric tensor field, a dilaton and a modulus field which has
+singularities in the scalar fields. As a first step we quantize the scalar
+fields near the singularity with the result that the singularities disappear
+and that in general non-perturbative quantum corrections form a potential in
+the scalar fields.
+","[{""version"":""v1"",""created"":""Thu, 25 Aug 1994 05:20:02 GMT""}]","2007-05-23"
+"math/9408206",,"Nigel J. Kalton","The existence of primitives for continuous functions in a quasi-Banach
+  space",,,,"Banach Archive 8/24/94","math.FA",,"  We show that if $X$ is a quasi-Banach space with trivial dual then every
+continuous function $f:[0,1]\to X$ has a primitive, answering a question of
+M.M. Popov.
+","[{""version"":""v1"",""created"":""Wed, 24 Aug 1994 16:42:52 GMT""}]","2008-02-03"
+"math/9408207",,"Peter G. Casazza, Nigel J. Kalton","Unconditional bases and unconditional finite-dimensional decompositions
+  in Banach spaces",,,,"Banach Archive 8/24/94","math.FA",,"  Let $X$ be a Banach space with an unconditional finite-dimensional Schauder
+decomposition $(E_n)$. We consider the general problem of characterizing
+conditions under which one can construct an unconditional basis for $X$ by
+forming an unconditional basis for each $E_n.$ For example, we show that if
+$\sup \dim E_n<\infty$ and $X$ has Gordon-Lewis local unconditional structure
+then $X$ has an unconditional basis of this type. We also give an example of a
+non-Hilbertian space $X$ with the property that whenever $Y$ is a closed
+subspace of $X$ with a UFDD $(E_n)$ such that $\sup\dim E_n<\infty$ then $Y$
+has an unconditional basis, showing that a recent result of Komorowski and
+Tomczak-Jaegermann cannot be improved.
+","[{""version"":""v1"",""created"":""Wed, 24 Aug 1994 16:50:43 GMT""}]","2009-09-25"
+"math/9408208",,"Denny H. Leung","Isomorphic classification of atomic weak L^p spaces",,,,"Banach Archive 8/24/94","math.FA",,"  Let $\msp$ be a measure space and let $1 < p < \infty$. The {\em weak
+$L^p$}\/ space $\wlp$ consists of all measurable functions $f$ such that
+  \[ \|f\| = \sup_{t>0}t^{\frac{1}{p}}f^*(t) < \infty,\]
+  where $f^*$ is the decreasing rearrangement of $|f|$. It is a Banach space
+under a norm which is equivalent to the expression above. In this paper, we
+pursue the problem of classifying weak $L^p$ spaces isomorphically when $\msp$
+is purely atomic. It is also shown that if $\msp$ is a countably generated
+$\sigma$-finite measure space, then $\wlp$ (if infinite dimensional) must be
+isomorphic to either $\ell^\infty$ or $\seq$.
+  The results of this article were presented at the conference in Columbia,
+Missouri in May, 1994.
+","[{""version"":""v1"",""created"":""Wed, 24 Aug 1994 16:50:43 GMT""}]","2009-09-25"
+"nucl-th/9408025","Elaine Remillard","W.M. Kloet and B. Loiseau","The $\pi \pi$ S-Wave in the 1 to 2 GeV Region from a $\pi \pi$,
+  $\bar{K}K$ and $\rho \rho$($\omega \omega$) Coupled Channel Model","11 pages (Revtex 3.0), 4 figs. avail. upon request, RU9469","Z.Phys. A353 (1995) 227-230","10.1007/BF01295901",,"nucl-th",,"  A simple $\pi \pi$, $\bar{K}K$, and $\rho \rho$($\omega \omega$) fully
+coupled channel model is proposed to predict the isoscalar S-wave phase shifts
+and inelasticities for $\pi \pi$ scattering in the 1.0 to 2.0 GeV region. The
+S-matrix is required to exhibit poles corresponding to the established
+isoscalar J$^{\pi}$ = 0$^+$ resonances f$_0$(975), f$_0$(1400), and
+f$_0$(1710). A dominant feature of the experimental $\pi \pi$ inelasticity is
+the clear opening of the $\bar{K}K$ channel near 1 GeV, and the opening of
+another channel in the 1.4 - 1.5 GeV region. The success of our model in
+predicting this observed dramatic energy dependence indicates that the effect
+of multi-pion channels is adequately described by the $\pi \pi$ coupling to the
+$\bar{K}K$ channel, the $\rho \rho$(4$\pi$) and $\omega \omega$(6$\pi$)
+channels.
+","[{""version"":""v1"",""created"":""Thu, 25 Aug 1994 15:50:17 GMT""}]","2015-06-26"

@@ -1,0 +1,251 @@
+"alg-geom/9403003","Klaus Altmann","Klaus Altmann","Toric Q-Gorenstein Singularities","17 pages, LaTeX, Preprint 9/93 Humboldt-Universitaet Berlin",,,,"alg-geom math.AG",,"  For an affine, toric Q-Gorenstein variety Y (given by a lattice polytope Q)
+the vector space T^1 of infinitesimal deformations is related to the
+complexified vector spaces of rational Minkowski summands of faces of Q.
+Moreover, assuming Y to be an isolated, at least 3-dimensional singularity, Y
+will be rigid unless it is even Gorenstein and dim Y=3 (dim Q=2). For this
+particular case, so-called toric deformations of Y correspond to Minkowski
+decompositions of Q into a sum of lattice polygons. Their Kodaira-Spencer-map
+can be interpreted in a very natural way. We regard the projective variety P(Y)
+defined by the lattice polygon Q. Data concerning the deformation theory of Y
+can be interpreted as data concerning the Picard group of P(Y). Finally, we
+provide some examples (the cones over the toric Del Pezzo surrfaces). There is
+one such variety yielding Spec C[e]/e^2 as the base space of the semi-universal
+deformation.
+","[{""version"":""v1"",""created"":""Wed, 2 Mar 1994 16:47:03 GMT""}]","2008-02-03"
+"alg-geom/9403004","Klaus Altmann","Klaus Altmann","The versal Deformation of an isolated toric Gorenstein Singularity","42 pages, LaTeX",,,,"alg-geom math.AG",,"  Given a lattice polytope Q in R^n, we define an affine scheme M(Q) that
+reflects the possibilities of splitting Q into a Minkowski sum. On the other
+hand, Q induces a toric Gorenstein singularity Y, and we construct a flat
+family over M(Q) with Y as special fiber. In case Y has an isolated singularity
+only, this family is versal. (This revised version contains the proof now.)
+","[{""version"":""v1"",""created"":""Wed, 2 Mar 1994 16:47:26 GMT""},{""version"":""v2"",""created"":""Tue, 17 May 1994 15:50:13 GMT""}]","2008-02-03"
+"astro-ph/9403005",,"Julian Borrill, Edmund J Copeland, Andrew R Liddle, Albert Stebbins
+  and Shoba Veeraraghavan","Texture-Induced Microwave Background Anisotropies","15 pages, standard LaTeX with 5 postscript figures available on
+  request, SUSSEX-AST 94/3-1","Phys.Rev. D50 (1994) 2469-2478","10.1103/PhysRevD.50.2469",,"astro-ph",,"  We use numerical simulations to calculate the cosmic microwave background
+anisotropy induced by the evolution of a global texture field, with special
+emphasis on individual textures. Both spherically symmetric and general
+configurations are analysed, and in the latter case we consider field
+configurations which exhibit unwinding events and also ones which do not. We
+compare the results given by evolving the field numerically under both the
+expanded core (XCORE) and non-linear sigma model (NLSM) approximations with the
+analytic predictions of the NLSM exact solution for a spherically symmetric
+self-similar (SSSS) unwinding. We find that the random unwinding configuration
+spots' typical peak height is 60--75\% and angular size typically only 10\% of
+those of the SSSS unwinding, and that random configurations without an
+unwinding event nonetheless may generate indistinguishable hot and cold spots.
+The influence of these results on analytic estimates of texture induced
+microwave anisotropies is examined, and comparison made with other numerical
+work.
+","[{""version"":""v1"",""created"":""Wed, 2 Mar 1994 16:35:00 GMT""}]","2009-10-22"
+"astro-ph/9403006",,"Julian Borrill","Numerical Methods in Cosmological Global Texture Simulations","LaTeX, IMPERIAL/TP/93-94/22","Phys.Rev.D50:3676-3683,1994","10.1103/PhysRevD.50.3676",,"astro-ph",,"  Numerical simulations of the evolution of a global topological defect field
+have two characteristic length scales --- one macrophysical, of order the field
+correlation length, and the other microphysical, of order the field width. The
+situation currently of most interest to particle cosmologists involves the
+behaviour of a GUT-scale defect field at the epoch of decoupling, where the
+ratio of these scales is typically of order $10^{50}$. Such a ratio is
+unrealisable in numerical work, and we consider the approximations which may be
+employed to deal with this. Focusing on the case of global texture we outline
+the implementation of the associated algorithms, and in particular note the
+subtleties involved in handling texture unwinding events. Comparing the results
+in each approach then establishes that, subject to certain constraints on the
+minimum grid resolution, the methods described are both robust and consistent
+with one another.
+","[{""version"":""v1"",""created"":""Thu, 3 Mar 1994 15:17:43 GMT""}]","2010-11-01"
+"cond-mat/9403009","Hyunwoo Lee","Hyunwoo Lee, A. Yu. Yakovetz, and L. S. Levitov","Universal Statistics of Transport in Disordered Conductors","11 pages, REVTEX3.0, MIT-CMT-HL9409","Phys. Rev. B 51, 4079 (1995)","10.1103/PhysRevB.51.4079",,"cond-mat",,"  In low temperature limit, we study electron counting statistics of a
+disordered conductor. We derive an expression for the distribution of charge
+transmitted over a finite time interval by using a result from the random
+matrix theory of quasi one dimensional disordered conductors. In the metallic
+regime, we find that the peak of the distribution is Gaussian and shows
+negligible sample to sample variations. We also find that the tails of the
+distribution are neither Gaussian nor Poisson and exhibit strong sample to
+sample variations.
+","[{""version"":""v1"",""created"":""Wed, 2 Mar 1994 20:56:37 GMT""},{""version"":""v2"",""created"":""Thu, 22 Sep 1994 20:12:57 GMT""}]","2008-04-12"
+"cond-mat/9403010","Henk Stoof","H.T.C. Stoof","Condensate Formation in a Bose Gas","22 PAGES AND 4 POSTSCRIPT FIGURES, REVTEX 3.0, INVITED TALK AT THE
+  INTERNATIONAL WORKSHOP ON BOSE-EINSTEIN CONDENSATION (TRENTO, 1993), ITF9402S",,,,"cond-mat",,"  Using magnetically trapped atomic hydrogen as an example, we investigate the
+prospects of achieving Bose-Einstein condensation in a dilute Bose gas. We show
+that, if the gas is quenched sufficiently far into the critical region of the
+phase transition, the typical time scale for the nucleation of the condensate
+density is short and of $O(\hbar/k_{B}T_{c})$. As a result we find that
+thermalizing elastic collisions act as a bottleneck for the formation of the
+condensate. In the case of doubly-polarized atomic hydrogen these occur much
+more frequently than the inelastic collisions leading to decay and we are lead
+to the conclusion that Bose-Einstein condensation can indeed be achieved within
+the lifetime of the gas.
+","[{""version"":""v1"",""created"":""Thu, 3 Mar 1994 07:59:00 GMT""}]","2007-05-23"
+"cond-mat/9403011","Michael Karbach","K.-H. M\""utter","Looking at the Haldane Conjecture from a Grouptheoretical Point of View","9 pages RevTex 3.0",,"10.1007/BF01313021",,"cond-mat",,"  Based on the Lieb-Schultz-Mattis construction we present a five parameter
+family of Spin-1 Hamiltonians with degenerate groundstate. Starting from the
+critical $SU(3)$ symmetric Hamiltonian, we look for those perturbations of the
+$SU(3)$ symmetry, which leave the groundstate degenerate. We also discuss the
+spin-3/2 $SU(4)$-case.
+","[{""version"":""v1"",""created"":""Thu, 3 Mar 1994 13:36:09 GMT""}]","2009-10-22"
+"cond-mat/9403012","Heinz-Olaf Mueller","Heinz-Olaf Muller, Andreas Hadicke, Wolfram Krech","Elastic Co--Tunneling in a 1D Quantum Hole Approach","8 pages, REVTeX v3.0","Phys. Lett. A 187, 337--40 (1994)","10.1016/0375-9601(94)90011-6",,"cond-mat",,"  The influence of the phases of tunneling matrix elements on the rate of the
+elastic co--tunneling at an ultrasmall normal--conducting double--junction is
+studied in a simple quantum--hole approach at zero temperature. The results are
+compared with experimental data.
+","[{""version"":""v1"",""created"":""Thu, 3 Mar 1994 14:58:29 GMT""}]","2009-10-22"
+"gr-qc/9403009","Jemal Guven","Jemal Guven","The isolation of gravitational instantons: Flat tori V flat R^4","15 pages, ICN-UNAM 94-10","Phys.Rev. D49 (1994) 5126-5130","10.1103/PhysRevD.49.5126",,"gr-qc",,"  The role of topology in the perturbative solution of the Euclidean Einstein
+equations about flat instantons is examined.
+","[{""version"":""v1"",""created"":""Wed, 2 Mar 1994 18:28:18 GMT""}]","2009-10-22"
+"gr-qc/9403010",,"Alexander Vilenkin","Approaches to Quantum Cosmology","38 pages","Phys.Rev.D50:2581-2594,1994","10.1103/PhysRevD.50.2581",,"gr-qc hep-th",,"  Different proposals for the wave function of the universe are analyzed, with
+an emphasis on various forms of the tunneling proposal. The issues discussed
+include the equivalence of the Lorentzian path integral and outgoing-wave
+proposals, the definitions of the outgoing waves and of superspace boundaries,
+topology change and the corresponding modification of the Wheeler-DeWitt
+equation. Also discussed are the ""generic"" boundary conditions and the third
+quantization approach.
+","[{""version"":""v1"",""created"":""Wed, 2 Mar 1994 20:35:00 GMT""}]","2010-04-06"
+"hep-lat/9403002","Matteo Beccaria","Matteo Beccaria and Giuseppe Curci","Numerical simulation of the Kardar-Parisi-Zhang equation","11 pages",,"10.1103/PhysRevE.50.4560","IFUP-TH 16/94","hep-lat",,"  We simulate the Kardar-Parisi-Zhang equation in 2+1 dimensions. The Hopf-Cole
+transformation is used in order to obtain a stable numerical scheme. The two
+relevant critical exponents are precisely measured. (2 PostScript figures
+available from the authors)
+","[{""version"":""v1"",""created"":""Thu, 3 Mar 1994 15:17:06 GMT""}]","2009-10-22"
+"hep-ph/9403214",,"D.A. Morris and A. Ringwald","Astrophysical Searches For Exotic Phenomena In Ultrahigh Energy
+  Neutrino-Nucleon Scattering","Invited talk presented by A. Ringwald at the 3rd NESTOR International
+  Conference, 19-21 October 1993, Pylos, Greece. 24 pages, LaTeX, 10 figures
+  appended as uu-encoded file. DESY 94-026, UCLA/94/TEP/9",,,,"hep-ph",,"  We investigate the potential of near-future neutrino telescopes like NESTOR
+for searches for exotic processes in ultrahigh energy neutrino-quark
+scattering. (NESTOR is the acronym for NEutrinos, from Supernovae and TeV
+sources, Ocean Range ... a water Cherenkov detector to be constructed in the
+Mediterranean off the coast of Greece). We consider signatures such as muon
+bundles and/or contained cascades from the nonperturbative production of
+multiple weak gauge bosons in the Standard Model, compositeness and leptoquark
+production.
+","[{""version"":""v1"",""created"":""Wed, 2 Mar 1994 22:17:00 GMT""}]","2007-05-23"
+"hep-ph/9403215","Robert Brandenberger","R. Brandenberger (Brown), A.-C. Davis (DAMTP, Cambridge) and M.
+  Trodden (Brown)","Cosmic Strings and Electroweak Baryogenesis","BROWN-HET-935 (February 1994), 17 pages, 1 figure (available as
+  postscript file from the authors), uses phyzzx","Phys.Lett.B335:123-130,1994","10.1016/0370-2693(94)91402-8",,"hep-ph astro-ph",,"  The electroweak symmetry is unbroken in the core of cosmic strings
+originating from a symmetry breaking at an energy higher than the electroweak
+scale $\eta_{EW}$. The dynamics of such strings may generate a baryon asymmetry
+below the electroweak symmetry breaking scale. This mechanism for electroweak
+baryogenesis is most efficient if the scale of string formation is only
+slightly higher than $\eta_{EW}$ \eg \ in theories of dynamical symmetry
+breaking) and if the strings are superconducting. The mechanism is also
+effective if the electroweak phase transition is second order.
+","[{""version"":""v1"",""created"":""Thu, 3 Mar 1994 03:49:19 GMT""}]","2010-11-01"
+"hep-ph/9403216","Jutta Kunz","Jutta Kunz and Yves Brihaye","Level Crossing Along Sphaleron Barriers","17 pages, latex, 10 figures in uuencoded postscript files. THU-94/03","Phys.Rev. D50 (1994) 1051-1059","10.1103/PhysRevD.50.1051",,"hep-ph",,"  In the electroweak sector of the standard model topologically inequivalent
+vacua are separated by finite energy barriers, whose height is given by the
+sphale\-ron. For large values of the Higgs mass there exist several sphaleron
+solutions and the barriers are no longer symmetric. We construct paths of
+classical configurations from one vacuum to a neighbouring one and solve the
+fermion equations in the background field configurations along such paths,
+choosing the fermions of a doublet degenerate in mass. As in the case of light
+Higgs masses we observe the level crossing phenomenon also for large Higgs
+masses.
+","[{""version"":""v1"",""created"":""Thu, 3 Mar 1994 10:36:24 GMT""}]","2009-10-28"
+"hep-ph/9403217",,"E. J. Chun, H. B. Kim and A. Lukas","Supersymmetric Singlet Majorons and Cosmology","14 pages, 2 figures, IC/94/40, SNUTP 94-15, TUM - TH - 164/94","Phys.Lett. B328 (1994) 346-353","10.1016/0370-2693(94)91489-3",,"hep-ph",,"  We examine cosmological constraints on the lepton number breaking scale in
+supersymmetric singlet majoron models. Special attention is drawn to the model
+dependence arising from the particular choice of a certain majoron extension
+and a cosmological scenario. We find that the bounds on the symmetry breaking
+scale can vary substantially. Large values of this scale can be allowed if the
+decoupling temperature of smajoron and majorino exceeds the reheating
+temperature of inflation. In the opposite case an upper bound depending on the
+majoron model can be obtained which, however, is unlikely to be much larger
+than $10^{10}$ GeV.
+","[{""version"":""v1"",""created"":""Thu, 3 Mar 1994 11:02:14 GMT""}]","2009-10-28"
+"hep-ph/9403218","Boucaud","V. N. Gribov","Orsay lectures on confinement (I)","23 pages in PostScript; figures are included (130kb). LPTHE Orsay
+  92/60",,,,"hep-ph",,"  This is the first lecture of a serie on a theory of confinement, devoted to
+the mechanism of supercharged nuclei as a model for particle binding.
+","[{""version"":""v1"",""created"":""Thu, 3 Mar 1994 11:27:25 GMT""}]","2007-05-23"
+"hep-ph/9403219",,"Z. Fodor and A. Hebecker","Finite Temperature Effective Potential to Order $g^4,\la^2$ and the
+  Electroweak Phase Transition","DESY-94-025, 18 pages, Latex, without figures. An easy way to obtain
+  a copy with figures: anonymous ftp to x4u2.desy.de and take the file
+  desy94-025.ps (postscrip file) or desy94-025.shar (uuencoded compressed file,
+  recover with the command 'sh') from directory /pub/preprints/desy/1994","Nucl.Phys. B432 (1994) 127-146","10.1016/0550-3213(94)90596-7",,"hep-ph hep-lat",,"  The standard model effective potential is calculated at finite temperature to
+order $g^4,\la^2$ and a complete zero temperature renormalization is performed.
+In comparison with lower order calculations the strength of the first order
+phase transition has increased dramatically. This effect can be traced back to
+infrared contributions from typical non-Abelian diagrams and to the infrared
+behaviour of the scalar sector close to the critical temperature. Several
+quantities, e.g. surface tension, latent heat and field expectation value are
+analyzed for an SU(2)-Higgs model and for the full standard model in detail. An
+explicit formula enabling further analytic or numerical study is presented.
+(DESY-94-025)
+","[{""version"":""v1"",""created"":""Thu, 3 Mar 1994 12:47:47 GMT""}]","2009-10-28"
+"hep-ph/9403220","George Triantaphyllou","George Triantaphyllou (University of Toronto)","A New Paradigm for the Fermion Generations","36 pages, LaTeX, minor typographical corrections and explanatory
+  remarks added, version published in Helvetica Physica Acta, 67, No. 6
+  (October 1994)","Helv.Phys.Acta 67 (1994) 660-682",,"UTPT-94-06","hep-ph",,"  A new mechanism is proposed to explain the appearance of the three known
+fermion generations in a natural way. The underlying idea is based on the
+discreteness of the spectrum of solutions of the gap equation appearing in
+models of dynamical chiral symmetry breaking. Within such a framework, the
+number of parameters needed to describe the experimentally observed fermion
+spectrum is drastically reduced. The phenomenological consequences of such a
+mechanism are carefully discussed, in order to explore its viability.
+","[{""version"":""v1"",""created"":""Thu, 3 Mar 1994 14:37:34 GMT""},{""version"":""v2"",""created"":""Thu, 10 Nov 1994 18:55:50 GMT""}]","2008-02-03"
+"hep-ph/9403221",,"Michael C. Birse","Does the effective Lagrangian for low-energy QCD scale?","7 pages (RevTeX), MC/TH 94/03","J.Phys.G20:1287-1292,1994","10.1088/0954-3899/20/8/019",,"hep-ph nucl-th",,"  QCD is not an approximately scale invariant theory. Hence a dilaton field is
+not expected to provide a good description of the low-energy dynamics
+associated with the gluon condensate. Even if such a field is introduced, it
+remains almost unchanged in hadronic matter at normal densities. This is
+because the large glueball mass together with the size of the phenomenological
+gluon condensate ensure that changes to that condensate are very small at such
+densities. Any changes in hadronic masses and decay constants in matter
+generated by that condensate will be much smaller that those produced directly
+by changes in the quark condensate. Hence masses and decay constants are not
+expected to display a universal scaling.
+","[{""version"":""v1"",""created"":""Thu, 3 Mar 1994 14:22:26 GMT""}]","2011-08-11"
+"hep-th/9403013","Leon Takhtajan","Leon Takhtajan","Liouville Theory: Ward Identities for Generating Functional and Modular
+  Geometry","8 pages, plain LaTex","Mod.Phys.Lett. A9 (1994) 2293-2300","10.1142/S021773239400215X",,"hep-th",,"  We continue the study of quantum Liouville theory through Polyakov's
+functional integral \cite{Pol1,Pol2}, started in \cite{T1}. We derive the
+perturbation expansion for Schwinger's generating functional for connected
+multi-point correlation functions involving stress-energy tensor, give the
+``dynamical'' proof of the Virasoro symmetry of the theory and compute the
+value of the central charge, confirming previous calculation in \cite{T1}. We
+show that conformal Ward identities for these correlation functions contain
+such basic facts from K\""{a}hler geometry of moduli spaces of Riemann surfaces,
+as relation between accessory parameters for the Fuchsian uniformization,
+Liouville action and Eichler integrals, K\""{a}hler potential for the
+Weil-Petersson metric, and local index theorem. These results affirm the
+fundamental role, that universal Ward identities for the generating functional
+play in Friedan-Shenker modular geometry \cite{FS}.
+","[{""version"":""v1"",""created"":""Wed, 2 Mar 1994 20:14:56 GMT""}]","2015-06-26"
+"hep-th/9403014",,"Hitoshi Nishino","Supersymmetry Breakings and Fermat's Last Theorem","12 pages (LATEX), UMDEPP 94--96 (Feb. 1994)","Mod.Phys.Lett. A10 (1995) 149-158","10.1142/S0217732395000168",,"hep-th",,"  A mechanism of supersymmetry breaking in two or four-dimensions is given, in
+which the breaking is related to the Fermat's last theorem. It is shown that
+supersymmetry is exact at some irrational number points in parameter space,
+while it is broken at all rational number points except for the origin.
+Accordingly, supersymmetry is exact {\it almost everywhere}, as well as broken
+{\it almost everywhere} on the real axis in the parameter space at the same
+time. This is the first explicit mechanism of supersymmetry breaking with an
+arbitrarily small change of parameters around any exact supersymmetric model,
+which is possibly useful for realistically small non-perturbative supersymmetry
+breakings in superstring model building. As a byproduct, we also give a
+convenient superpotential for supersymmetry breaking only for irrational number
+parameters. Our superpotential can be added as a ``hidden'' sector to other
+useful supersymmetric models.
+","[{""version"":""v1"",""created"":""Wed, 2 Mar 1994 21:49:19 GMT""}]","2015-06-26"
+"hep-th/9403015",,"Carlo Rovelli","On Quantum Mechanics","uuencoded PostScript file, 42 pages",,,,"hep-th gr-qc",,"  We reformulate the problem of the ""interpretation of quantum mechanics"" as
+the problem of DERIVING the quantum mechanical formalism from a set of simple
+physical postulates. We suggest that the common unease with taking quantum
+mechanics as a fundamental description of nature could derive from the use of
+an incorrect notion, as the unease with the Lorentz transformations before
+Einstein derived from the notion of observer independent time. Following an an
+analysis of the measurement process as seen by different observers, we propose
+a reformulation of quantum mechanics in terms of INFORMATION THEORY. We propose
+three different postulates out of which the formalism of the theory can be
+reconstructed; these are based on the notion of information about each other
+that systems contain. All systems are assumed to be equivalent: no
+observer-observed distinction, and information is interpreted as correlation.
+We then suggest that the incorrect notion that generates the unease with
+quantum mechanichs is the notion of OBSERVER INDEPENDENT state of a system.
+","[{""version"":""v1"",""created"":""Wed, 2 Mar 1994 23:01:35 GMT""}]","2007-05-23"
+"hep-th/9403018",,"V. Mukhanov, A. Wipf and A. Zelnikov","On 4D-Hawing Radiation from Effective Action","21 pages, LATEX file, preprint ETH-TH/94-08","Phys.Lett. B332 (1994) 283-291","10.1016/0370-2693(94)91255-6",,"hep-th",,"  We determine the $s$-waves contribution of a scalar field to the four
+dimensional effective action for arbitrary spherically symmetric external
+gravitational fields. The result is applied to $4d$-black holes and it is shown
+that the energy momentum tensor derived from the (nonlocal) effective action
+contains the Hawking radiation. The luminosity is close to the expected one in
+the $s$-channel. The energy momentum tensor may be used as starting point to
+study the backreaction problem.
+","[{""version"":""v1"",""created"":""Thu, 3 Mar 1994 14:17:00 GMT""}]","2009-10-28"
+"hep-th/9403019",,"J. C. Brunelli and Ashok Das","Tests of Integrability of the Supersymmetric Nonlinear Schrodinger
+  Equation","21 pages, UR-1344, ER-40685-793","J.Math.Phys. 36 (1995) 268-280","10.1063/1.531370",,"hep-th",,"  We apply various conventional tests of integrability to the supersymmetric
+nonlinear Schr\""odinger equation. We find that a matrix Lax pair exists and
+that the system has the Painlev\'e property only for a particular choice of the
+free parameters of the theory. We also show that the second Hamiltonian
+structure generalizes to superspace only for these values of the parameters. We
+are unable to construct a zero curvature formulation of the equations based on
+OSp(2$|$1). However, this attempt yields a nonsupersymmetric fermionic
+generalization of the nonlinear Schr\""odinger equation which appears to possess
+the Painlev\'e property.
+","[{""version"":""v1"",""created"":""Thu, 3 Mar 1994 15:58:36 GMT""}]","2009-10-28"
+"math/9403205",,"Paul F. X. M\""uller","The Banach space $H^1(X,d,\mu)$, II",,,,"Banach Archive 3/2/94","math.FA",,"  In this paper we give the isomorphic classification of atomic $H^1(X,d,\mu)$,
+where $(X,d,\mu)$ is a space of homogeneous type, hereby completing a line of
+investigation opened by the work of Bernard Maurey [Ma1], [Ma2], [Ma3] and
+continued by Lennard Carleson [C] and Przemyslaw Wojtaszczyk [Woj1], [Wpj2].
+","[{""version"":""v1"",""created"":""Wed, 2 Mar 1994 16:13:20 GMT""}]","2016-09-06"

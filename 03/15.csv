@@ -1,0 +1,297 @@
+"alg-geom/9403012","Alexander A. Borisov","A. Borisov","Minimal discrepancies of toric singularities","11 pages, Latex v2.09",,,,"alg-geom math.AG",,"  This is the major revision. The main purpose of this paper is to prove that
+minimal discrepancies of $n$-dimensional toric singularities can accumulate
+only from above and only to minimal discrepancies of toric singularities of
+dimension less than $n$. I also prove that some lower-dimensional minimal
+discrepancies do appear as such limit.
+","[{""version"":""v1"",""created"":""Tue, 15 Mar 1994 15:13:30 GMT""},{""version"":""v2"",""created"":""Fri, 15 Jul 1994 16:31:50 GMT""}]","2008-02-03"
+"astro-ph/9403031","Wayne Hu","Wayne Hu and Naoshi Sugiyama","Thermal History Constraints on the Isocurvature Baryon Model","18pgs, uuencoded tarred postscript, CfPA-TH-94-16, UTAP-178","Astrophys.J.436:456-466,1994","10.1086/174921",,"astro-ph",,"  We present a thorough and detailed investigation of baryon isocurvature
+models including realistic thermal histories, \ie, late or partial reionization
+of the universe and compact object formation after standard recombination.
+Constraints on these models are imposed from spectral distortion in the cosmic
+microwave background (CMB), number fluctuations in galaxy counts $\sigma_8$,
+and recent CMB anisotropy observations. Since the status of degree scale
+anisotropies is as yet unclear, the lack of spectral distortions is the most
+serious constraint on the spectral index of initial fluctuations: $-1.2 \simlt
+n \simlt -0.5$ in partially ionized models and $-1.2 \simlt n \simlt -0.9$ in
+compact object dominated universes in order to avoid significant bias in galaxy
+formation. Full ionization of the universe before $z = 300$ is also forbidden
+by this constraint. Intermediate scale CMB fluctuations which are significantly
+larger than standard CDM is a {\it robust} prediction of these models. Many
+models are consequently in conflict with the recent degree scale detections by
+Python, ARGO, and MSAM, \eg, compact object dominated models with $\Omega_0
+\simlt 0.2$. Moreover, {\it all} models will be ruled out if the low CMB
+fluctuations on degree scales as detected by the SP91 13 point scan are
+confirmed. On the other hand, most models fare well compared with the high
+Tenerife and MAX detections.
+","[{""version"":""v1"",""created"":""Mon, 14 Mar 1994 23:10:20 GMT""}]","2009-07-17"
+"chem-ph/9403006","Steve Rick","Steven W. Rick and B. J. Berne (Department of Chemistry and Center for
+  Biomolecular Simulation, Columbia University, New York, NY)","The Aqueous Solvation of Water: A Comparison of Continuum Methods with
+  Molecular Dynamics","J. of the American Chemical Society",,,,"chem-ph physics.chem-ph",,"  The calculation of the solvation properties of a single water molecule in
+liquid water is carried out in two ways. In the first, the water molecule is
+placed in a cavity and the solvent is treated as a dielectric continuum. This
+model is analyzed by numerically solving the Poisson equation using the DelPhi
+program. The resulting solvation properties depend sensitively on the shape and
+size of the cavity. In the second method, the solvent and solute molecules are
+treated explicitly in molecular dynamics simulations using Ewald boundary
+conditions. We find a 2 kcal/mole difference in solvation free energies
+predicted by these two methods when standard cavity radii are used. In
+addition, dielectric continuum theory assumes that the solvent reacts solely by
+realigning its electric moments linearly with the strength of the solute's
+electric field; the results of the molecular simulation show important
+non-linear effects. Non-linear solvent effects are generally of two types:
+dielectric saturation, due to solvent-solute hydrogen bonds, and
+electrostriction, a decrease in the solute cavity due to an increased
+electrostatic interaction. We find very good agreement between the two methods
+if the radii defining the solute cavity used in the continuum theory is
+decreased with the solute charges,
+","[{""version"":""v1"",""created"":""Tue, 15 Mar 1994 04:49:53 GMT""},{""version"":""v2"",""created"":""Tue, 15 Mar 1994 16:24:57 GMT""}]","2008-02-03"
+"cond-mat/9403051","Mark Srednicki","Mark Srednicki","Chaos and Quantum Thermalization","28 pages in Plain TeX plus 2 uuencoded PS figures (included); minor
+  corrections only, this version will be published in Phys. Rev. E;
+  UCSB-TH-94-10","Phys Rev E 50 (1994) 888","10.1103/PhysRevE.50.888",,"cond-mat astro-ph chao-dyn gr-qc hep-ph hep-th nlin.CD",,"  We show that a bounded, isolated quantum system of many particles in a
+specific initial state will approach thermal equilibrium if the energy
+eigenfunctions which are superposed to form that state obey {\it Berry's
+conjecture}. Berry's conjecture is expected to hold only if the corresponding
+classical system is chaotic, and essentially states that the energy
+eigenfunctions behave as if they were gaussian random variables. We review the
+existing evidence, and show that previously neglected effects substantially
+strengthen the case for Berry's conjecture. We study a rarefied hard-sphere gas
+as an explicit example of a many-body system which is known to be classically
+chaotic, and show that an energy eigenstate which obeys Berry's conjecture
+predicts a Maxwell--Boltzmann, Bose--Einstein, or Fermi--Dirac distribution for
+the momentum of each constituent particle, depending on whether the wave
+functions are taken to be nonsymmetric, completely symmetric, or completely
+antisymmetric functions of the positions of the particles. We call this
+phenomenon {\it eigenstate thermalization}. We show that a generic initial
+state will approach thermal equilibrium at least as fast as
+$O(\hbar/\Delta)t^{-1}$, where $\Delta$ is the uncertainty in the total energy
+of the gas. This result holds for an individual initial state; in contrast to
+the classical theory, no averaging over an ensemble of initial states is
+needed. We argue that these results constitute a new foundation for quantum
+statistical mechanics.
+","[{""version"":""v1"",""created"":""Mon, 14 Mar 1994 21:59:19 GMT""},{""version"":""v2"",""created"":""Fri, 29 Apr 1994 00:40:48 GMT""}]","2009-10-22"
+"cond-mat/9403052","Sergej Flach","S.Flach and G. Mutschke","Slow Relaxation and Phase Space Properties of a Conservative System with
+  Many Degrees of Freedom","14 pages, LaTeX, 10 Figures available upon request (SF), Phys. Rev.
+  E, accepted for publication",,"10.1103/PhysRevE.49.5018",,"cond-mat",,"  We study the one-dimensional discrete $\Phi^4$ model. We compare two
+equilibrium properties by use of molecular dynamics simulations: the Lyapunov
+spectrum and the time dependence of local correlation functions. Both
+properties imply the existence of a dynamical crossover of the system at the
+same temperature. This correlation holds for two rather different regimes of
+the system - the displacive and intermediate coupling regimes. Our results
+imply a deep connection between slowing down of relaxations and phase space
+properties of complex systems.
+","[{""version"":""v1"",""created"":""Mon, 14 Mar 1994 22:34:57 GMT""}]","2009-10-22"
+"cond-mat/9403053","Sergej Flach","S. Flach and C. R. Willis","Movability of Localized Excitations in Nonlinear Discrete Systems - a
+  Separatrix Problem","11 pages, LaTeX, 2 Figures, available upon request, accepted for
+  publication in Phys.Rev.Lett",,"10.1103/PhysRevLett.72.1777",,"cond-mat",,"  We analyze the effect of internal degrees of freedom on the movability
+properties of localized excitations on defect-free nonlinear Hamiltonian
+lattices by means of properties of a local phase space which is at least of
+dimension six. We formulate generic properties of a movability separatrix in
+this local phase space. We prove that due to the presence of internal degrees
+of freedom of the localized excitation it is generically impossible to define a
+Peierls-Nabarro potential in order to describe the motion of the excitations
+through the lattice. The results are verified analytically and numerically for
+Fermi-Pasta-Ulam chains.
+","[{""version"":""v1"",""created"":""Mon, 14 Mar 1994 23:05:38 GMT""}]","2009-10-22"
+"cond-mat/9403054",,"Kazumasa Miyake and Osamu Narikiyo","Aspect of Spin-Charge Separation due to Antiferromagentic Spin
+  Fluctuations in Technically Nested 2D Metals","10 pages, revtex ver.3.0, hard copies of 4 figures which will be sent
+  on request",,,,"cond-mat",,"  It is shown that the charge susceptibility in nearly half-filled
+two-dimensional (2D) metals, with technically nested Fermi surface, shows
+anomaly at the wavevector different from that for the spin susceptibility at
+low temperatures. Namely charge degrees of freedom behave there as if their
+``Fermi surface"" corresponded to that of ``holes"" created in the Mott
+insulator. Such anomaly is caused by the Aslamazov-Larkin type contribution of
+2D antiferromagnetic spin fluctuations. This phenomenon gives a possible clue
+to resolve the paradox of normal state properties of high-$T_{\rm c}$ cuprates
+{\it starting}\/ from the Fermi-liquid fixed point.
+","[{""version"":""v1"",""created"":""Tue, 15 Mar 1994 09:39:25 GMT""}]","2007-05-23"
+"cond-mat/9403055","Carlo Beenakker","C.W.J. Beenakker, B. Rejaei, and J.A. Melsen (Instituut-Lorentz,
+  Leiden, The Netherlands)","Scaling Theory of Conduction Through a Normal-Superconductor Microbridge","8 pages, REVTeX-3.0, 3 postscript figures appended as self-extracting
+  archive, INLO-PUB-940315","Phys.Rev.Lett. 72 (1994) 2470","10.1103/PhysRevLett.72.2470",,"cond-mat",,"  The length dependence is computed of the resistance of a disordered
+normal-metal wire attached to a superconductor. The scaling of the transmission
+eigenvalue distribution with length is obtained exactly in the metallic limit,
+by a transformation onto the isobaric flow of a two-dimensional ideal fluid.
+The resistance has a minimum for lengths near l/Gamma, with l the mean free
+path and Gamma the transmittance of the superconductor interface.
+","[{""version"":""v1"",""created"":""Tue, 15 Mar 1994 14:57:50 GMT""}]","2007-05-23"
+"hep-lat/9403016",,"L. Del Debbio, A. Di Giacomo and Yu. Simonov","Field-strength correlators in $SU(2)$ gauge theory","16 pages, IFUP-TH 11/94 (3 figures available as .ps files from the
+  authors)","Phys.Lett. B332 (1994) 111-117","10.1016/0370-2693(94)90866-4",,"hep-lat",,"  We measure field-strength and their correlators in presence of a static $q
+\bar q$ pair by numerical simulations. We give an interpretation of these data
+in terms of quadratic and quartic cumulants.
+","[{""version"":""v1"",""created"":""Tue, 15 Mar 1994 09:19:46 GMT""}]","2009-10-22"
+"hep-lat/9403017",,"S. Bilke, Z. Burda and J. Jurkiewicz","Simplicial Quantum Gravity on a Computer","24 pages, PostScript","Comput.Phys.Commun. 85 (1995) 278-292","10.1016/0010-4655(94)00083-E","NBI-HE-94/15","hep-lat",,"  We describe a method of Monte-Carlo simulations of simplicial quantum gravity
+coupled to matter fields. We concentrate mainly on the problem of implementing
+effectively the random, dynamical triangulation and building in a
+detailed-balance condition into the elementary transformations of the
+triangulation. We propose a method of auto-tuning the parameters needed to
+balance simulations of the canonical ensemble. This method allows us to prepare
+a whole set of jobs and therefore is very useful in systematic determining the
+phase diagram in two dimensional coupling space. It is of particular importance
+when the jobs are run on a parallel machine.
+","[{""version"":""v1"",""created"":""Tue, 15 Mar 1994 12:33:14 GMT""}]","2009-10-22"
+"hep-ph/9403287","Myron Bander","Myron Bander and H. R. Rubinstein","Neutrino Fluxes and Resonance Physics with Neutrino Telescopes","pages, UCI-TR 94-10","Phys.Rev. D51 (1995) 1410-1411","10.1103/PhysRevD.51.1410",,"hep-ph",,"  Expected atmospheric ${\bar \nu_e}$ fluxes will result in a significant
+number of resonantly produced low mass hadronic vector states, as the $\rho$,
+in large volume neutrino telescopes. The existence of sources of higher energy
+neutrinos will result in the production of higher mass states, as the $D_s^*$
+and the $({\bar t}b)_{J=1}$. We calculate the rates of production of these
+states and discuss their signals. Independent of theoretical flux
+determinations, the detection of these states will be a tool for experimentally
+determining these fluxes.
+","[{""version"":""v1"",""created"":""Tue, 15 Mar 1994 02:15:09 GMT""}]","2009-10-28"
+"hep-ph/9403288",,"Tadashi Kon, Tetsuro Kobayashi and Shoichi Kitamura","Signatures of Scalar Top with R-parity Breaking Coupling at HERA","11 pages (LaTeX), 6 figures not included (available on request) ;
+  ITP-SU-94/01","Phys.Lett. B333 (1994) 263-270","10.1016/0370-2693(94)91042-1",,"hep-ph",,"  In the framework of the minimal supersymmetric standard model with an
+R-parity breaking coupling of the scalar top quark (stop) we investigate
+production processes and decay properties of the stop at HERA energies. The
+model is characterized by a light stop possibly lighter than the other squarks.
+We show that the stop could be singly produced not only in the neutral current
+processes but also in associated processes whose final states contain some
+heavy flavor quarks, bottom and top quarks. These signatures would be useful to
+discriminate the stop from leptoquarks.
+","[{""version"":""v1"",""created"":""Tue, 15 Mar 1994 14:50:33 GMT""}]","2009-10-28"
+"hep-ph/9403289","Jutta Kunz","Burkhard Kleihaus and Jutta Kunz","Multisphalerons in the Weak Interactions","10 pages, latex, 8 figures in uuencoded postscript files. THU-94/04","Phys.Lett. B329 (1994) 61-67","10.1016/0370-2693(94)90517-7",,"hep-ph",,"  We construct multisphaleron solutions in the weak interactions. The
+multisphaleron solutions carry Chern-Simons charge $n/2$, where $n$ is an
+integer. The well-known sphaleron has $n=1$ and is spherically symmetric for
+vanishing mixing angle. In contrast the multisphalerons with $n>1$ are only
+axially symmetric, even for vanishing mixing angle. The greater $n$, the
+stronger the energy density deforms. While for small Higgs masses the energy of
+the multisphalerons is smaller than $n$ times the energy of the sphaleron, the
+energy of the multisphalerons is larger than $n$ times the energy of the
+sphaleron for large Higgs masses.
+","[{""version"":""v1"",""created"":""Tue, 15 Mar 1994 10:30:44 GMT""}]","2009-10-28"
+"hep-ph/9403290","Mariano Quiros","I. Antoniadis, K. Benakli and M. Quir\'os","Production of Kaluza-Klein States at Future Colliders","13 pages, LATEX, 4 postscript figures appended at the end,
+  CPTH-A293.0294 and IEM-FT-84/94","Phys.Lett. B331 (1994) 313-320","10.1016/0370-2693(94)91058-8",,"hep-ph hep-th",,"  Perturbative breaking of supersymmetry in four-dimensional string theories
+predict in general the existence of new large dimensions at the TeV scale. Such
+large dimensions lie in a domain of energies accessible to particle
+accelerators. Their main signature is the production of Kaluza-Klein
+excitations which can be detected at future colliders. We study this
+possibility for hadron colliders (TEVATRON, LHC) and $e^+ e^-$ colliders
+(LEP-200, NLC-500).
+","[{""version"":""v1"",""created"":""Tue, 15 Mar 1994 15:07:47 GMT""}]","2009-10-28"
+"hep-ph/9403292","Little Peter","J. Kwiecinski, A.D. Martin, P.J. Sutton and K. Golec-Biernat","QCD Predictions for the Transverse Energy Flow in Deep-Inelastic
+  Scattering in the Small x HERA Regime","16 pages, REVTEX 3.0, no figures. (Hardcopies of figures available on
+  request from Professor A.D. Martin, Department of Physics, University of
+  Durham, DH1 3LE, England.) Durham preprint : DTP/94/08","Phys.Rev.D50:217-225,1994","10.1103/PhysRevD.50.217",,"hep-ph",,"  The distribution of transverse energy, $E_T$, which accompanies
+deep-inelastic electron-proton scattering at small $x$, is predicted in the
+central region away from the current jet and proton remnants. We use BFKL
+dynamics, which arises from the summation of multiple gluon emissions at small
+$x$, to derive an analytic expression for the $E_T$ flow. One interesting
+feature is an $x^{-\epsilon}$ increase of the $E_T$ distribution with
+decreasing $x$, where $\epsilon = (3\alpha_s/\pi)2\log 2$. We perform a
+numerical study to examine the possibility of using characteristics of the
+$E_T$ distribution as a means of identifying BFKL dynamics at HERA.
+","[{""version"":""v1"",""created"":""Mon, 14 Mar 1994 16:54:30 GMT""}]","2009-09-25"
+"hep-th/9403074",,"M. Bonini, M. D'Attanasio and G. Marchesini","Axial anomalies in gauge theory by exact renormalization group method","11 pages + 1 appended EPS figure, LaTeX, UPRF 94-392","Phys.Lett. B329 (1994) 249-258","10.1016/0370-2693(94)90768-4",,"hep-th hep-ph",,"  The global chiral symmetry of a $SU(2)$ gauge theory is studied in the
+framework of renormalization group (RG). The theory is defined by the RG flow
+equations in the infrared cutoff $\L$ and the boundary conditions for the
+relevant couplings. The physical theory is obtained at $\L=0$. In our approach
+the symmetry is implemented by choosing the boundary conditions for the
+relevant couplings not at the ultraviolet point $\L=\L_0\to\infty$ but at the
+physical value $\L=0$. As an illustration, we compute the triangle axial
+anomalies.
+","[{""version"":""v1"",""created"":""Mon, 14 Mar 1994 16:43:53 GMT""}]","2009-10-28"
+"hep-th/9403075","V. B. Petkova","P. Furlan, A.Ch. Ganchev and V.B. Petkova","Singular Vectors of ${\cal W}$ Algebras via DS Reduction of $A_2^(1)$","plain TeX, 39 pages, INFN/AE-94/10. (revised version, to appear in
+  Nuclear Physics B; some extensions in section 6 and Note Added.)","Nucl.Phys. B431 (1994) 622-666","10.1016/0550-3213(94)90217-8",,"hep-th",,"  The BRST quantisation of the Drinfeld - Sokolov reduction applied to the case
+of $A^{(1)}_2\,$ is explored to construct in an unified and systematic way the
+general singular vectors in ${\cal W}_3$ and ${\cal W}_3^{(2)}$ Verma modules.
+The construction relies on the use of proper quantum analogues of the classical
+DS gauge fixing transformations. Furthermore the stability groups $\overline
+W^{(\eta)}\,$ of the highest weights of the ${\cal W}\,$ - Verma modules play
+an important role in the proof of the BRST equivalence of the
+Malikov-Feigin-Fuks singular vectors and the ${\cal W}$ algebra ones. The
+resulting singular vectors are essentially classified by the affine Weyl group
+$W\, $ modulo $\overline W^{(\eta)}\,$. This is a detailed presentation of the
+results announced in a recent paper of the authors (Phys. Lett. B318 (1993)
+85).
+","[{""version"":""v1"",""created"":""Mon, 14 Mar 1994 19:44:14 GMT""},{""version"":""v2"",""created"":""Sun, 20 Mar 1994 17:34:15 GMT""},{""version"":""v3"",""created"":""Sun, 25 Sep 1994 18:26:38 GMT""}]","2009-10-28"
+"hep-th/9403076","R. Shankar","R.Shankar, H.Mathur","Thomas Precession, Berry potential and the Meron","14pages","Phys.Rev.Lett. 73 (1994) 1565-1569","10.1103/PhysRevLett.73.1565",,"hep-th cond-mat",,"  We begin with a prior observation by one of us that Thomas precession in the
+nonrelativistic limit of the Dirac equation may be attributed to a nonabelian
+Berry vector potential. We ask what object produces the nonabelian potential in
+parameter space, in the same sense that the abelian vector potential arising in
+the adiabatic transport of a nondegenerate level is produced by a monopole,
+(centered at the point where the level becomes degenerate with another), as
+shown by Berry. We find that it is a {\em meron}, an object in four euclidean
+dimensions with instanton number ${1 \over 2}$, centered at the point where the
+doubly degenerate positive and negative energy levels of the Dirac equation
+become fourfold degenerate.
+","[{""version"":""v1"",""created"":""Mon, 14 Mar 1994 21:33:20 GMT""}]","2009-10-28"
+"hep-th/9403077","Shapiro Ilya","I.L.Shapiro","Hilbert - Einstein Action from Induced Gravity coupled with Scalar Field","7 pages","Mod.Phys.Lett. A9 (1994) 1985-1990","10.1142/S0217732394001842",,"hep-th cond-mat",,"  Quantum theory of conformal factor coupled with matter fields is
+investigated. The more simple case of the purely classical scalar matter is
+considered. It is calculated the conformal factor contribution to the effective
+potential of scalar field. Then the possibility of the first order phase
+transition is explored and the induced values of Newtonian and cosmological
+constants are calculated.
+","[{""version"":""v1"",""created"":""Tue, 15 Mar 1994 09:44:14 GMT""},{""version"":""v2"",""created"":""Wed, 16 Mar 1994 05:49:06 GMT""},{""version"":""v3"",""created"":""Tue, 22 Mar 1994 02:53:04 GMT""}]","2009-10-28"
+"hep-th/9403078","Hiroshi Nohara","Hiroshi Nohara","Strong Coupling Phase of Chiral Gross Neveu Model","10 pages",,,,"hep-th",,"  We perform the numerical simulation of the two dimensional chiral Gross Neveu
+model using the Kogut-Susskind(KS) fermion. In the case of SU(4), the
+Kosterlitz-Thouless phase transition happens at some critical value of the
+coupling constant. In the case of one flavour, there exists the strong coupling
+phase in which the correlation functions vanish and the general covariance is
+realized in the quantum field thoery through the dynamical process.
+","[{""version"":""v1"",""created"":""Tue, 15 Mar 1994 12:20:01 GMT""}]","2009-09-25"
+"hep-th/9403079",,"M. Matone","The Higgs model for anyons and Liouville action: Chaotic spectrum,
+  energy gap and exclusion principle","DFPD/93/TH/69, LaTex","Mod.Phys.Lett. A9 (1994) 1673-1680","10.1142/S0217732394001519",,"hep-th cond-mat",,"  Geodesic completness and self-adjointness imply that the Hamiltonian for
+anyons is the Laplacian with respect to the Weil-Petersson metric. This metric
+is complete on the Deligne-Mumford compactification of moduli (configuration)
+space. The structure of this compactification fixes the possible anyon
+configurations. This allows us to identify anyons with singularities (elliptic
+points with ramification $q^{-1}$) in the Poincar\'e metric implying that anyon
+spectrum is chaotic for $n\ge 3$. Furthermore, the bound on the holomorphic
+sectional curvature of moduli spaces implies a gap in the energy spectrum. For
+$q=0$ (punctures) anyons are infinitely separated in the Poincar\'e metric
+(hard-core). This indicates that the exclusion principle has a geometrical
+intepretation. Finally we give the differential equation satisfied by the
+generating function for volumes of the configuration space of anyons.
+","[{""version"":""v1"",""created"":""Tue, 15 Mar 1994 12:55:37 GMT""}]","2015-06-26"
+"hep-th/9403080","J. W. van de Leur","Johan van de Leur","KdV type hierarchies, the string equation and $W_{1+\infty}$ constraints","29 pages of amstex, Correction of some errors and 1 reference added","J.Geom.Phys. 17 (1995) 95-124","10.1016/0393-0440(94)00039-7",,"hep-th",,"  To every partition $n=n_1+n_2+\cdots+n_s$ one can associate a vertex operator
+realization of the Lie algebras $a_{\infty}$ and $\hat{gl}_n$. Using this
+construction we make reductions of the $s$--component KP hierarchy, reductions
+which are related to these partitions. In this way we obtain matrix KdV type
+equations. Now assuming that (1) $\tau$ is a $\tau$--function of the
+$[n_1,n_2,\ldots,n_s]$--th reduced KP hierarchy and (2) $\tau$ satisfies a
+`natural' string equation, we prove that $\tau$ also satisfies the vacuum
+constraints of the $W_{1+\infty}$ algebra.
+","[{""version"":""v1"",""created"":""Tue, 15 Mar 1994 13:03:32 GMT""},{""version"":""v2"",""created"":""Tue, 17 May 1994 12:40:01 GMT""}]","2009-10-28"
+"hep-th/9403081","Oleg Andreev","Oleg Andreev and Boris Feigin","On bosonization of 2d conformal field theories","29 pages, 13 figures, LaTex, HUB-IEP-94/3 (new references are addded)","Nucl.Phys.B433:685-711,1995","10.1016/0550-3213(94)00340-K",,"hep-th",,"  We show how bosonic (free field) representations for so-called degenerate
+conformal theories are built by singular vectors in Verma modules. Based on
+this construction, general expressions of conformal blocks are proposed. As an
+example we describe new modules for the $SL(2)$ Wess-Zumino -Witten model. They
+are, in fact, the simplest non-trivial modules in a full set of bosonized
+highest weight representations of $\hat {sl}_2$ algebra. The Verma and Wakimoto
+modules appear as boundary modules of this set. Our construction also yields a
+new kind of bosonization in 2d conformal field theories.
+","[{""version"":""v1"",""created"":""Tue, 15 Mar 1994 13:08:49 GMT""},{""version"":""v2"",""created"":""Mon, 21 Mar 1994 13:21:04 GMT""}]","2011-04-20"
+"hep-th/9403083","Michael Soloviev","M.A.Soloviev","Towards a Generalized Distribution Formalism for Gauge Quantum Fields","12 p., Department of Theoretical Physics, P.N.Lebedev Physical
+  Institute, Leninsky prosp. 53, Moscow 117924, Russia","Lett.Math.Phys.33:49-59,1995","10.1007/BF00750811",,"hep-th",,"  We prove that the distributions defined on the Gelfand-Shilov spaces, and
+hence more singular than hyperfunctions, retain the angular localizability
+property. Specifically, they have uniquely determined support cones. This
+result enables one to develop a distribution-theoretic techniques suitable for
+the consistent treatment of quantum fields with arbitrarily singular
+ultraviolet and infrared behavior. The proofs covering the most general case
+are based on the use of the theory of plurisubharmonic functions and
+Hormander's estimates.
+","[{""version"":""v1"",""created"":""Tue, 15 Mar 1994 15:58:58 GMT""}]","2010-11-01"
+"math/9403213",,"G. L\'opez, Francisco Marcell\'an, Walter Van Assche","Relative asymptotics for polynomials orthogonal with respect to a
+  discrete Sobolev inner product",,,,"OP-SF 15 Mar 1994","math.CA",,"  We investigate the asymptotic properties of orthogonal polynomials for a
+class of inner products including the discrete Sobolev inner products $\langle
+h,g \rangle = \int hg\, d\mu + \sum_{j=1}^m \sum_{i=0}^{N_j} M_{j,i}
+h^{(i)}(c_j) g^{(i)}(c_j)$, where $\mu$ is a certain type of complex measure on
+the real line, and $c_j$ are complex numbers in the complement of $\supp(\mu)$.
+The Sobolev orthogonal polynomials are compared with the orthogonal polynomials
+corresponding to the measure $\mu$.
+","[{""version"":""v1"",""created"":""Tue, 15 Mar 1994 00:00:00 GMT""}]","2016-09-06"
+"math/9403219","Shelah Office","Saharon Shelah","Cardinalities of topologies with small base",,"Ann. Pure Appl. Logic 68 (1994), 95--113",,"Shelah [Sh:454a]","math.LO math.GN",,"  Let T be the family of open subsets of a topological space (not necessarily
+Hausdorff or even T_0). We prove that if T has a base of cardinality <= mu,
+lambda <= mu < 2^lambda, lambda strong limit of cofinality aleph_0, then T has
+cardinality <= mu or >= 2^lambda. This is our main conclusion. First we prove
+it under some set theoretic assumption, which is clear when lambda = mu ; then
+we eliminate the assumption by a theorem on pcf from [Sh 460] motivated
+originally by this. Next we prove that the simplest examples are the basic
+ones; they occur in every example (for lambda = aleph_0 this fulfill a promise
+from [Sh 454]). The main result for the case lambda = aleph_0 was proved in [Sh
+454].
+","[{""version"":""v1"",""created"":""Tue, 15 Mar 1994 00:00:00 GMT""}]","2016-09-06"
+"math/9403220","Shelah Office","Paul C. Eklof, Saharon Shelah","A combinatorial principle equivalent to the existence of non-free
+  Whitehead groups",,"Contemp. Math. 171 (1994), 79--98",,"Shelah [EkSh:505]","math.LO math.RA",,"  As a consequence of identifying the principle described in the title, we
+prove that for any uncountable cardinal lambda, if there is a lambda-free
+Whitehead group of cardinality lambda which is not free, then there are many
+``nice'' Whitehead groups of cardinality lambda which are not free.
+","[{""version"":""v1"",""created"":""Tue, 15 Mar 1994 00:00:00 GMT""}]","2008-02-03"

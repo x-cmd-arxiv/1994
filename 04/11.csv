@@ -1,0 +1,261 @@
+"astro-ph/9404021",,"Sergio Campana (Osservatorio astronomico di Brera, Via Brera 28,
+  Milan, Italy)","Microlensing and Halo Mass in Form of Stars","TeX file; #8 pages; submitted to MNRAS pink pages.; E-mail:
+  campana@astmim.mi.astro.it",,,,"astro-ph",,"  Paczy\'nski (1986) suggested that ``dark"" objects in the halo of our Galaxy
+could enhance the luminosity of foreground stars, acting as gravitational
+microlenses. Such events has been recently reported by different
+collaborations. We assume that these microlensing events are produced by
+baryonic objects in the halo of our Galaxy. Rather than adopting a mean mass
+for the lensing objects we consider them distributed along a mass function
+similar to the disk one. Even if the number of microlensing events so far
+detected is not large, we show that it is possible to constrain the fraction of
+mass density in the halo of our Galaxy in form of stars. We estimate that this
+fraction varies between 0.1 and 0.8, if halo stars trace the total halo mass
+density; in the opposite case this range becomes narrower. If lensing objects
+have not been formed apart from the other halo stars, but in a more general
+context of star formation, neutron stars must also be present. We discuss these
+results in relation to galactic halo models for gamma-ray bursts.
+","[{""version"":""v1"",""created"":""Mon, 11 Apr 1994 13:30:00 GMT""}]","2007-05-23"
+"cond-mat/9404021","Michael Basler","M. Basler, W. Krech and K. Yu. Platov","Phase-Locking in Strongly Coupled Squid Cells","11 pages, LaTeX, report JENA-FKS-94-2",,"10.1016/0375-9601(94)90739-0",,"cond-mat",,"  Within the RSJ model we performed an analytical and numerical investigation
+of SQUID cells consisting of two Josephson junctions shunted by an extremely
+small inductance leading to strong coupling of the elements. Contrary to the
+well-known behavior of cells shunted by a high inductance voltage phases of the
+junctions are locked with very small phase difference for almost all values of
+external flux. Only for external flux in the vicinity of half a flux quantum
+phase difference rises rapidly to $\pi$.
+","[{""version"":""v1"",""created"":""Mon, 11 Apr 1994 05:55:39 GMT""}]","2009-10-22"
+"cond-mat/9404022","Thomas Hagenaars","T. J. Hagenaars, P. H. E. Tiesinga, J. E. van Himbergen and Jorge V.
+  Jos\'e","Nonlinear Viscous Vortex Motion in Two-Dimensional Josephson-Junction
+  Arrays","14 pages RevTex, 9 Postscript figures","Phys. Rev. B 50, 1143 (1994)","10.1103/PhysRevB.50.1143","THU-94/09","cond-mat",,"  When a vortex in a two-dimensional Josephson junction array is driven by a
+constant external current it may move as a particle in a viscous medium. Here
+we study the nature of this viscous motion. We model the junctions in a square
+array as resistively and capacitively shunted Josephson junctions and carry out
+numerical calculations of the current-voltage characteristics. We find that the
+current-voltage characteristics in the damped regime are well described by a
+model with a {\bf nonlinear} viscous force of the form $F_D=\eta(\dot y)\dot
+y={{A}\over {1+B\dot y}}\dot y$, where $\dot y$ is the vortex velocity,
+$\eta(\dot y)$ is the velocity dependent viscosity and $A$ and $B$ are
+constants for a fixed value of the Stewart-McCumber parameter. This result is
+found to apply also for triangular lattices in the overdamped regime. Further
+qualitative understanding of the nature of the nonlinear friction on the vortex
+motion is obtained from a graphic analysis of the microscopic vortex dynamics
+in the array. The consequences of having this type of nonlinear friction law
+are discussed and compared to previous theoretical and experimental studies.
+","[{""version"":""v1"",""created"":""Mon, 11 Apr 1994 08:26:39 GMT""}]","2016-08-14"
+"cond-mat/9404023","G. Baskaran","G. Baskaran","Failure of Fermi Liquid Theory in 2-D: A Signal from Perturbation Theory","Revtex Version 3.0, 11 pages",,,,"cond-mat",,"  We study the perturbative correction to the ground state energy eigenvalue of
+a 2-dimensional dilute fermi gas with weak short-range two body repulsion. From
+the structure of the energy shift we infer the presence of an induced two body
+long range repulsive interaction $ {\displaystyle {1\over{r^2}} }$ among the
+constituent electrons indicating a potential instability of the fermi liquid
+ground state.
+","[{""version"":""v1"",""created"":""Mon, 11 Apr 1994 08:18:26 GMT""}]","2007-05-23"
+"gr-qc/9404016","David Garfinkle","David Garfinkle and M.A. Melvin","Generating new magnetic universe solutions from old","17 pages","Phys.Rev. D50 (1994) 3859-3866","10.1103/PhysRevD.50.3859",,"gr-qc",,"  In this paper we apply the techniques which have been developed over the last
+few decades for generating nontrivially new solutions of the Einstein-Maxwell
+equations from seed solutions for simple spacetimes. The simple seed spacetime
+which we choose is the ""magnetic universe"" to which we apply the Ehlers
+transformation. Three interesting non-singular metrics are generated. Two of
+these may be described as ""rotating magnetic universes"" and the third as an
+""evolving magnetic universe."" Each is causally complete - in that all timelike
+and lightlike geodesics do not end in a finite time or affine parameter. We
+also give the electromagnetic field in each case. For the two rotating
+stationary cases we give the projection with respect to a stationary observer
+of the electromagnetic field into electric and magnetic components.
+","[{""version"":""v1"",""created"":""Sun, 10 Apr 1994 21:44:50 GMT""}]","2009-10-22"
+"gr-qc/9404017",,"James B. Hartle","Quasiclassical Realms in a Quantum Universe","8 pages, 2 figures, revtex4, figures now included, updated
+  terminology","Proceedings of the Lanczos International Centenary Conference, ed
+  by J.D Brown, M.T. Chu, D.C. Ellison and R.J. Plemmons, SIAM, Philadelphia,
+  1994",,,"gr-qc hep-th",,"  In this universe, governed fundamentally by quantum mechanical laws,
+characterized by indeterminism and distributed probabilities, classical
+deterministic laws are applicable over a wide range of time, place, and scale.
+We review the origin of these laws in the context of the quantum mechanics of
+closed systems, most generally, the universe as a whole. There probabilities
+are predicted for members of decoherent sets of alternative histories of the
+universe, ie ones for which the interference between pairs in the set is
+negligible as measured by a decoherence functional. An expansion of the
+decoherence functional in the separation between histories allows the form of
+the deterministic equations of motion to be derived for suitable coarse
+grainings of a class of non-relativistic systems, including ones with general
+non-linear interactions. More coarse graining is needed to achieve classical
+predictability than naive arguments based on the uncertainty principle would
+suggest. Coarse graining is needed for decoherence, and coarse graining beyond
+that for the inertia necessary to resist the noise that mechanisms of
+decoherence produce. Sets of histories governed largely by deterministic laws
+constitute the quasiclassical realm of everyday experience which is an emergent
+feature of the closed system's initial condition and Hamiltonian. We analyse
+the sensitivity of the existence of a quasiclassical realm to the particular
+form of the initial condition. We find that almost any initial condition will
+exhibit a quasiclassical realm of some sort, but only a small fraction of the
+total number of possible initial states could reproduce the everyday
+quasiclassical realm of our universe. (Talk given at the Lanczos Centenary
+Conference, North Carolina State University, December 15, 1993.)
+","[{""version"":""v1"",""created"":""Mon, 11 Apr 1994 10:38:00 GMT""},{""version"":""v2"",""created"":""Mon, 11 Apr 1994 12:55:00 GMT""},{""version"":""v3"",""created"":""Fri, 20 Aug 2004 20:34:34 GMT""},{""version"":""v4"",""created"":""Fri, 7 Sep 2007 22:26:51 GMT""}]","2008-02-03"
+"gr-qc/9404018",,"R. Aldrovandi, G. E. A. Matsas, S. F. Novaes, and D. Spehler","Fermion Helicity Flip in Weak Gravitational Fields","RevTeX 3.0, 8 pages, 3 figures (available upon request), Preprint
+  IFT-P.013/94","Phys.Rev. D50 (1994) 2645-2647","10.1103/PhysRevD.50.2645",,"gr-qc hep-ph",,"  The helicity flip of a spin-${\textstyle \frac{1}{2}}$ Dirac particle
+interacting gravitationally with a scalar field is analyzed in the context of
+linearized quantum gravity. It is shown that massive fermions may have their
+helicity flipped by gravity, in opposition to massless fermions which preserve
+their helicity.
+","[{""version"":""v1"",""created"":""Mon, 11 Apr 1994 14:59:00 GMT""}]","2009-10-22"
+"hep-lat/9404004",,"A.M.Green, C.Michael and M.E.Sainio","Four-Quark Binding Energies from SU(2) Lattice Monte Carlo","(32 pages Latex with Bib-sty included - 3 figures not included - sent
+  on request) Preprint HU-TFT-94-7 and LTH 330","Z.Phys.C67:291-302,1995","10.1007/BF01571291",,"hep-lat",,"  Energies of four-quark systems have been extracted in a static quenched SU(2)
+lattice Monte Carlo calculation for six different geometries, both planar and
+non-planar, with $\beta=2.4$ and lattice size $16^3\times 32$. In all cases, it
+is found that the binding energy is greatly enhanced when the four quarks can
+be partitioned in two ways with comparable energies. Also it is shown that the
+energies of the four-quark states cannot be understood simply in terms of
+two-quark potentials.
+","[{""version"":""v1"",""created"":""Mon, 11 Apr 1994 10:38:17 GMT""}]","2008-11-26"
+"hep-lat/9404005",,"B. G. Preparata and She-Sheng XUE","The Propagators of Gauge Bosons on a lattice","to appear in Phys. Lett. 10 pages (TeX) and 1 figure, MITH 93/11","Phys.Lett. B329 (1994) 87-92","10.1016/0370-2693(94)90521-5",,"hep-lat hep-ph",,"  We analyse the problem of the generation of mass in the gauge boson sector on
+the (Planck) lattice. We obtain a dynamical scenario quite similar to the
+popular Higgs-mechanism, with the important difference that no Higgs-type
+excitation is present in our theory. By fixing the mass of the $Z^\circ$-boson
+and the renormalized gauge couplings at their experimental values, we get for
+the top quark mass $m_t\simeq 149$GeV and for the $\rho$-parameter the very
+small value $\rho\sim 10^{-6}$.
+","[{""version"":""v1"",""created"":""Mon, 11 Apr 1994 13:34:38 GMT""}]","2009-10-22"
+"hep-ph/9404246",,"A. Barroso and Joao P. Silva","`Natural Masslessness Conservation' for neutrinos in two Higgs-doublet
+  models","(Latex file, 12 pages. Two figures available upon request).
+  CMU-preprint","Phys.Rev.D50:4581-4588,1994","10.1103/PhysRevD.50.4581",,"hep-ph",,"  We present a model which supplements the Standard Electroweak Model with
+three right-handed neutrinos and one extra scalar doublet which does not
+develop a vacuum expectation value. With the aid of a discrete symmetry the
+neutrinos are kept strictly massless. This model has several interesting
+features. It has unsuppressed lepton flavour violating processes, in particular
+$\mu \rightarrow e \gamma$, hinting at the possibility that these may soon be
+within experimental reach. The $Z$ and $W$ interactions become non-diagonal at
+one loop level. In particular, a non-trivial leptonic mixing matrix is seen to
+arise from the clash between the charged gauge boson and the charged scalar
+interactions.
+","[{""version"":""v1"",""created"":""Sun, 10 Apr 1994 16:51:45 GMT""}]","2011-07-19"
+"hep-ph/9404247","Alan Stange","A. Stange, W. Marciano and S. Willenbrock","Associated Production of Higgs and Weak Bosons, with H -> b\bar b, at
+  Hadron Colliders","(changed the analysis of ZH production and the figures for susy), 17
+  pages + 7 figures, ILL-(TH)-94-8, BNL-60340","Phys.Rev. D50 (1994) 4491-4498","10.1103/PhysRevD.50.4491",,"hep-ph",,"  We consider the search for the Higgs boson at a high-luminosity Fermilab
+Tevatron, an upgraded Tevatron of energy 3.5 TeV, and the CERN Large Hadron
+Collider, via $WH/ZH$ production followed by H -> bb~ and leptonic decay of the
+weak vector bosons. We show that each of these colliders can potentially
+observe the standard Higgs boson in the intermediate-mass range, 80 GeV <m_H <
+120 GeV. This mode complements the search for and the study of the
+intermediate-mass Higgs boson via H -> \gamma\gamma at the LHC. In addition, it
+can potentially be used to observe the lightest Higgs scalar of the minimal
+supersymmetric model in a region of parameter space not accessible to CERN LEP
+II or the LHC (using h -> \gamma\gamma,ZZ^*).
+","[{""version"":""v1"",""created"":""Sun, 10 Apr 1994 21:44:53 GMT""},{""version"":""v2"",""created"":""Thu, 30 Jun 1994 18:13:32 GMT""}]","2009-10-28"
+"hep-ph/9404248","Arkady Vainshtein","A.I. Vainshtein, V.I. Zakharov","Ultraviolet-Renormalon Reexamined","LaTex, 18 pages, 5 figures. Some numerical coefficients are corrected
+  once more","Phys.Rev.Lett. 73 (1994) 1207-1210; Erratum-ibid. 75 (1995) 3588","10.1103/PhysRevLett.75.3588","TPI-MINN-94/9-T, UMN-TH-1247/94, UM-TH-94-09","hep-ph hep-th",,"  We consider large-order perturbative expansions in QED and QCD. The
+coefficients of the expansions are known to be dominated by the so called
+ultraviolet (UV) renormalons which arise from inserting a chain of
+vacuum-polarization graphs into photonic (gluonic) lines. In large orders the
+contribution is associated with virtual momenta $k^2$ of order $Q^2e^n$ where
+$Q$ is external momentum, $e$ is the base of natural logs and $n$ is the order
+of perturbation theory considered. To evaluate the UV renormalon we develop
+formalism of operator product expansion (OPE) which utilizes the observation
+that $k^2\gg Q^2$. When applied to the simplest graphs the formalism reproduces
+the known results in a compact form. In more generality, the formalism reveals
+the fact that the class of the renormalon-type graphs is not well defined. In
+particular, graphs with extra vacuum-polarization chains are not suppressed.
+The reason is that while inclusion of extra chains lowers the power of $\ln
+k^2$ their contribution is enhanced by combinatorial factors.
+","[{""version"":""v1"",""created"":""Mon, 11 Apr 1994 02:18:59 GMT""},{""version"":""v2"",""created"":""Fri, 15 Apr 1994 05:42:25 GMT""},{""version"":""v3"",""created"":""Sat, 16 Apr 1994 23:54:04 GMT""},{""version"":""v4"",""created"":""Mon, 18 Sep 1995 03:48:56 GMT""},{""version"":""v5"",""created"":""Tue, 24 Oct 1995 04:46:53 GMT""}]","2019-08-15"
+"hep-ph/9404249","Sergi Tortosa. IFAE. Univ. Autonoma de Barcelona.","J.A. Grifols and S. Tortosa (IFAE Institut de Fisica d'Altes Energies
+  Grup de Fisica Teorica Universitat Autonoma de Barcelona Bellaterra,
+  Barcelona, Catalonia, Spain)","Residual long-range pseudoscalar forces between unpolarised macroscopic
+  bodies","7 pages, LaTeX document, UAB-FT-302 revised version","Phys.Lett.B328:98-102,1994","10.1016/0370-2693(94)90434-0",,"hep-ph",,"  In this paper we survey the effects of residual long-range forces associated
+to $\gamma_5$-spin dependent-couplings of fermions to massless bosons exerted
+by unpolarised bulk matter over macroscopic distances. We establish that such
+forces with behaviour proportional to $R^{-6}$ do indeed exist. They arise as a
+quantum mechanical effect due to simultaneous exchange of two quanta. We
+explore their presence in existing astronomical as well as laboratory data on
+non-newtonian components of the force between macroscopic bodies. Since no
+limits on their real existence could be found, we conclude that residual
+long-range pseudoscalar attractive and composition dependent forces between
+neutral unpolarised bulk matter extending over macroscopic distances are very
+efficiently shielded over a huge range of distances: from astronomical scales
+down to the micron scale.
+","[{""version"":""v1"",""created"":""Mon, 11 Apr 1994 09:59:58 GMT""}]","2010-11-01"
+"hep-ph/9404250","Juraj Bohacik","J. Bohacik and P. Presnajder","Heavy quark potential and the phase transitions in the continuum theory
+  at finite temperature","10 pages, RevTeX, 2 PostScript figures appended","Phys.Lett. B332 (1994) 366-372","10.1016/0370-2693(94)91266-1",,"hep-ph hep-lat",,"  Heavy quark potential in the continuum theory at finite temperature is
+calculated in different phases by using the Polyakov loop as the order
+parameter. We find the linearly rising potential in the confinement phase, the
+Debye screened potential in the deconfinement phase and the perturbative
+$r^{-2}$ dependence at very high temperatures. Within the approximation used in
+this paper we report an evidence of the first order phase transition
+accompanied by the $SU(2)$ symmetry restoration at very high temperatures in
+the static three dimensional theory.
+","[{""version"":""v1"",""created"":""Mon, 11 Apr 1994 09:16:18 GMT""}]","2009-10-28"
+"hep-ph/9404254","Paolo Nason","P. Nason and B.W. Webber","Fragmentation Function Method for Charge Asymmetry Measurements in
+  $\e^+e^-$ Collisions","11 pages, 4 figures, Latex, CERN-TH.7212/94","Phys.Lett. B332 (1994) 405-410","10.1016/0370-2693(94)91272-6",,"hep-ph",,"  We propose a method for measuring the hadron charge asymmetry in $\ee$
+collisions which is based upon the fragmentation function formalism, and is
+largely independent of modelling of fragmentation effects. Furthermore, in this
+method, QCD radiative corrections can be accounted for in a systematic way.
+","[{""version"":""v1"",""created"":""Mon, 11 Apr 1994 15:57:05 GMT""}]","2009-10-28"
+"hep-ph/9404255",,"A. Mishra, H. Mishra, Varun Sheel, S.P. Misra and P.K. Panda","Vacuum Structure in QCD with Quark and Gluon Condensates","20 Pages, 2 Figure pages, REVTEX, IP/BBSR/94-15","Int.J.Mod.Phys. E5 (1996) 93-106","10.1142/S0218301396000037",,"hep-ph nucl-th",,"  We consider here the vacuum structure in QCD with both quark and gluon
+condensates and a variational ansatz for the ground state. The method is
+nonperturbative using only equal time algebra for the field operators. We then
+find that a constrained energy minimisation of the Hamiltonian leads to a QCD
+vacuum with both quark and gluon condensates for $\alpha_s > \alpha_c=0.62$.
+Pion decay constant and the charge radius of the pion seem to fix the QCD
+coupling constant $\alpha_s$ as 1.28. The approach opens up possibilities of
+relating the mysterious vacuum structure with common place hadronic properties.
+","[{""version"":""v1"",""created"":""Mon, 11 Apr 1994 11:02:53 GMT""}]","2015-06-25"
+"hep-th/9404055","Dae Yup Song","Dae Yup Song","Large-$N$ nonlinear $\sigma$ models on $R^2\times S^1$","12 pages(LaTex)","Phys.Rev. D49 (1994) 6794-6798","10.1103/PhysRevD.49.6794","SCNU-TH-9","hep-th",,"  The large-$N$ nonlinear $O(N)$, $CP^{N-1}$ $\sigma$ models are studied on
+$R^2 \times S^1$. The $N$-components scalar fields of the models are supposed
+to acquire a phase $e^{i2\pi\delta}$ $(0\leq \delta <1)$, along the circulation
+of the circle, $S^1$. We evaluate the effective potentials to the leading order
+of the $1/N$ expansion. It is shown that, on $R^2\times S^1$ the $O(N)$ model
+has rich phase structure while the phase of $CP^{N-1}$ model is just that of
+the model at finite temperature.
+","[{""version"":""v1"",""created"":""Sun, 10 Apr 1994 21:59:48 GMT""}]","2009-10-28"
+"hep-th/9404056","Hiroaki Kanno","T.Eguchi (Univ. of Tokyo) and H.Kanno (Hiroshima Univ.)","Toda Lattice Hierarchy and the Topological Description of the c=1 String
+  Theory","11 pages, Latex file, UT-674","Phys.Lett. B331 (1994) 330-334","10.1016/0370-2693(94)91060-X",,"hep-th",,"  The Toda lattice hierarchy is discussed in connection with the topological
+description of the $c=1$ string theory compactified at the self-dual radius. It
+is shown that when special constraints are imposed on the Toda hierarchy, it
+reproduces known results of the $c=1$ string theory, in particular the
+$W_{1+\infty}$ relations among tachyon correlation functions. These constraints
+are the analogues of string equations in the topological minimal theories. We
+also point out that at $c=1$ the Landau-Ginzburg superpotential becomes simply
+a $U(1)$ current operator.
+","[{""version"":""v1"",""created"":""Mon, 11 Apr 1994 06:11:30 GMT""}]","2009-10-28"
+"hep-th/9404057","Michel Rausch","M. Rausch de Traubenberg","Clifford Algebras of Polynomials Generalized Grassmann Algebras and
+  q-Deformed Heisenberg Algebras","12 pages, CRN-94-17, PLAIN-TEX","Adv.Appl.CliffordAlg.4:131-144,1994",,,"hep-th",,"  Classification of finite dimensional representations of the q-deformed
+Heisenberg algebra $H_q(3)$ is made by the help of Clifford algebra of
+polynomials and generalized Grassmann algebra. Special attention is paid when
+$q$ is a primitive $n$ root of unity. As a further application we obtain finite
+dimensional representations of $ sl(2)_q$ using its embedding into $H_q(3)$.
+","[{""version"":""v1"",""created"":""Mon, 11 Apr 1994 08:42:17 GMT""}]","2008-11-26"
+"hep-th/9404058","Dr S. Dalley","S.Dalley","String Theory and Quantum Spin Chains","9 LaTeX pages + 1 figure appended, OUTP-9404P","Phys.Lett. B334 (1994) 61-66","10.1016/0370-2693(94)90591-6",,"hep-th",,"  The space-time light-cone Hamiltonian P^- of large-N matrix models for
+dynamical triangulations may be viewed as that of a quantum spin chain and
+analysed in a mean field approximation. As N -> infinity, the properties of the
+groundstate as a function of the bare worldsheet cosmological constant exhibit
+a parton phase and a critical string phase, separated by a transition with
+non-trivial scaling at which P- -> -infinity.
+","[{""version"":""v1"",""created"":""Mon, 11 Apr 1994 11:57:28 GMT""}]","2009-10-28"
+"hep-th/9404059","Juergen Fuchs","S. J. Fuchs, M.G. Schmidt, and C. Schweigert","On the Configuration Space of Gauge Theorie","22 pages [A4] in LaTeX, HD-THEP-94-11, NIKHEF-H/94-11","Nucl.Phys. B426 (1994) 107-128","10.1016/0550-3213(94)90128-7",,"hep-th hep-ph",,"  We investigate the structure of the configuration space of gauge theories and
+its description in terms of the set of absolute minima of certain Morse
+functions on the gauge orbits. The set of absolute minima that is obtained when
+the background connection is a pure gauge is shown to be isomorphic to the
+orbit space of the pointed gauge group. We also show that the stratum of
+irreducible orbits is geodesically convex, i.e. there are no geometrical
+obstructions to the classical motion within the main stratum. An explicit
+description of the singularities of the configuration space of SU(2) theories
+on a topologically simple space-time and on the lattice is obtained; in the
+continuum case we find that the singularities are conical and that the singular
+stratum is isomorphic to a Z_2 orbifold of the configuration space of
+electrodynamics.
+","[{""version"":""v1"",""created"":""Mon, 11 Apr 1994 12:46:09 GMT""}]","2009-10-28"
+"hep-th/9404065",,"G.M.T. Watts","Quantum Mass corrections for C_2^(1) Affine Toda theory solitons","LaTeX, 9 pages, DAMTP--94--27 (a few errors corrected; mass ratio
+  calculation revised)","Phys.Lett. B338 (1994) 40-46","10.1016/0370-2693(94)91341-2",,"hep-th",,"  We calculate the quantum mass corrections to the solitons in the C_2^(1)
+Affine Toda field theory. We find that the ratio of the masses of the two
+solitons is not constant.
+","[{""version"":""v1"",""created"":""Mon, 11 Apr 1994 15:21:29 GMT""},{""version"":""v2"",""created"":""Wed, 20 Apr 1994 13:31:39 GMT""}]","2009-10-28"
+"math/9404217","Erik Koelink","Erik Koelink, Ren\'e F. Swarttouw","A q-analogue of Graf's addition formula for the Hahn-Exton q-Bessel
+  function",,,,"OP-SF 11 Apr 1994","math.CA math.QA",,"  An addition and product formula for the Hahn-Exton $q$-Bessel function,
+previously obtained by use of a quantum group theoretic interpretation, are
+proved analytically. A (formal) limit transition to the Graf addition formula
+and corresponding product formula for the Bessel function is given.
+","[{""version"":""v1"",""created"":""Mon, 11 Apr 1994 00:00:00 GMT""}]","2008-02-03"
+"nucl-th/9404010",,"W. Balogh, R. Bieber, H. Oberhummer, T. Rauscher, K.-L. Kratz, P.
+  Mohr, G. Staudt, M.M. Sharma","Direct Capture at Low Energies","LaTeX, 8 pages, 2 figures available from the author",,,"IK-TUW 9403402","nucl-th",,"  The importance of direct capture for (n,$\gamma$)--reactions on
+intermediate-- and heavy--mass target nuclei occuring in the s-- and r--process
+is investigated. It is shown that the direct mechanism is non--negligible for
+magic and neutron rich target nuclei. For some double magic and neutron rich
+nuclei in the r--process direct capture is even the dominant reaction
+mechanism.
+","[{""version"":""v1"",""created"":""Mon, 11 Apr 1994 12:31:21 GMT""}]","2009-09-25"

@@ -1,0 +1,325 @@
+"adap-org/9401001","Chris Adami","C. Adami (Kellogg Radiation Laboratory, Caltech)","Self-organized Criticality in Living Systems","8 p., tar-compressed uuencoded postscript incl. figures, submitted to
+  Phys. Rev. Lett","Phys. Lett. A 203 (1995) 29-32","10.1016/0375-9601(95)00372-A","MAP-167","adap-org nlin.AO q-bio",,"  We suggest that ensembles of self-replicating entities such as biological
+systems naturally evolve into a self-organized critical state in which
+fluctuations, as well as waiting-times between phase transitions are
+distributed according to a 1/f power law. We demonstrate these concepts by
+analyzing a population of self-replicating strings (segments of computer-code)
+subject to mutation and survival of the fittest.
+","[{""version"":""v1"",""created"":""Thu, 27 Jan 1994 20:09:24 GMT""}]","2009-10-22"
+"adap-org/9401002","Chris Adami","Chris Adami (Kellogg Radiation Laboratory, Caltech)","Learning and Complexity in Genetic Auto-Adaptive Systems","27 p., tar-compressed uuencoded postscript incl. figures, subm. to
+  ""Complex Systems""","Physica D 80 (1995) 154-170","10.1016/0167-2789(95)90073-X","MAP-164","adap-org nlin.AO q-bio",,"  We describe and investigate the learning capablities displayed by a
+population of self-replicating segments of computer-code subject to random
+mutation: the tierra environment. We find that learning is achieved through
+phase transitions that adapt the population to whichever environment it
+encounters, with a learning rate characterized by the environmental variables.
+Our results suggest that most effective learning is achieved close to the edge
+of chaos.
+","[{""version"":""v1"",""created"":""Thu, 27 Jan 1994 20:09:00 GMT""}]","2015-06-24"
+"astro-ph/9401046",,"M.A. Nowak and S.A. Grossman","Can We Identify Lensed Gamma Ray Bursts?","28 pages, plain TeX (Figures Available as Post Script Files)",,"10.1086/174837",,"astro-ph",,"  A gravitationally lensed gamma-ray burst (GRB) would appear as multiple
+bursts with identical light curves, separated in time and differing only by the
+scaling of their amplitudes. However, noise may make them difficult to identify
+as lensed images. Furthermore, faint, intrinsically similar, yet distinct light
+curves may be falsely identified as lensing events. In this paper we develop
+two statistical tests to distinguish noisy burst light curves. We use Fourier
+analysis techniques to analyze the signals for both intrinsic variability and
+variability due to noise. We are able to determine the noise level, and we
+compare the bursts only at frequency channels that are signal dominated.
+Utilizing these methods, we are able to make quantitative statements about
+whether two bursts are distinct. We apply these statistics to scaled versions
+of two subbursts of GRB 910503--- subbursts previously investigated by
+Wambsganss (1993) using a different statistical test. We find that our methods
+are able to distinguish these bursts at slightly smaller amplitudes than those
+at which Wambsganss's method succeeds. We then apply our techniques to
+``candidate"" lensing events taken from the BATSE catalogue, and we find that
+nearly all of them, except for the very shortest ones (durations $\aproxlt 0.3
+~s$), are distinguishable. We therefore expect that a majority of bursts will
+be disinguishable from one another.
+","[{""version"":""v1"",""created"":""Thu, 27 Jan 1994 21:14:36 GMT""}]","2009-10-22"
+"astro-ph/9401047",,"S.A. Grossman and M.A. Nowak","The Statistics of Gamma Ray Burst Lensing","23 pages, plain TeX (revised to TeX easily), figures available by
+  anonymous ftp","Astrophys.J. 435 (1994) 548","10.1086/174836",,"astro-ph",,"  Possibly the only unambiguous verification that gamma-ray bursts (GRBs) are
+at cosmological distances would be the observation of multiple images of a
+gravitationally lensed burst. Each images would arrive at a different time, but
+exhibit identical light curves. We improve upon previous calculations of GRB
+lensing by using revised cosmological burst models based upon better knowledge
+of burst spectra, and we consider several sets of cosmological parameters. Only
+lensing by the known population of galaxies is considered, and we compute the
+lensing rate and amplification bias using three different lens models. Assuming
+that 800 bursts per year are above the detection threshold of the BATSE
+experiment on the Compton Gamma-Ray Observatory, we predict one lensing event
+every 1.5--25 years, with a median time delay between images of about 7 days.
+However, BATSE has an instrumental efficiency of about 12\% for detecting
+double bursts, decreasing the detection rate to fewer than one per century for
+some cosmological parameters. This inefficiency can be overcome partially if
+cases of quadruple imaging by elliptical potentials are common, but simulations
+show that lensing by elliptical potentials enhances the detection rate by only
+about 20\%. We conclude that it is unlikely that the BATSE experiment will
+detect a lensed burst, but that a future experiment, which is either much more
+sensitive or has a much more efficient duty cycle, could.
+","[{""version"":""v1"",""created"":""Thu, 27 Jan 1994 21:26:49 GMT""},{""version"":""v2"",""created"":""Fri, 28 Jan 1994 22:05:54 GMT""}]","2009-10-22"
+"astro-ph/9401048","Armen Kocharyan","V.G.Gurzadyan and A.A.Kocharyan","Scale-Invariant Spectrum of Cosmic Background Radiation as a Feature of
+  the Universe with Negative Curvature","6 pages, plain LaTeX, IC/93/419",,,,"astro-ph",,"  As was shown before (Gurzadyan and Kocharyan, 1992, 1993ab) the statistical
+properties (exponential mixing) of motion of CMB photon beams in Friedmann
+Universe with negative curvature can have definite observable consequences
+including the decrease of the CMB anisotropy amplitude after the last
+scattering, distortion of images on CMB sky maps. Here we consider one more
+consequence concerning the behaviour of temperature autocorrelation function
+C(\theta,\beta), where \theta is the modulation (separation) angle, and \beta
+the observing beam effective angle. We prove that in the Universe with negative
+curvature any spectrum of perturbations at last scattering epoch becomes a
+scale-invariant by present time. It is also predicted that the temperature
+autocorrelation function should increase while obtained from measurements with
+small beam sizes within some mixing beam angle.
+","[{""version"":""v1"",""created"":""Fri, 28 Jan 1994 09:18:47 GMT""},{""version"":""v2"",""created"":""Mon, 31 Jan 1994 03:30:16 GMT""}]","2008-02-03"
+"astro-ph/9401049","Wolfram Freudling","Wolfram Freudling, Luiz Nicolaci da Costa, Paulo S. Pellegrini","Testing the Peculiar Velocity Field predicted from Redshift Surveys","tar-compressed and uudecoded postscript files, 12 pages+8 figures","Mon.Not.Roy.Astron.Soc. 268 (1994) 943","10.1093/mnras/268.4.943",,"astro-ph",,"  The reconstruction of the peculiar velocity field from the 1.936~Jy iras
+selected sample of galaxies is compared to a similar reconstruction from an
+optically selected sample. A general method for combining different samples to
+reconstruct a self-consistent density and peculiar velocity field is presented.
+The method is applied to determine how sensitive the derived peculiar velocity
+field is to the characteristics of the sample used. The possibility that the
+iras galaxies do not trace the general galaxy population is explored adopting a
+simple model of linear biasing between the iras and optical samples. We find
+that the velocity fields derived from the two samples are consistent, within
+the estimated shot noise error, for the case of no relative bias. This result
+suggests that the predicted peculiar velocity field based on iras samples is
+not sensitive to the sampling properties of iras galaxies. Combined with
+previous suggestion of a relative biasing of iras galaxies on small scales
+(about 5 h^-1Mpc), this result suggests scale dependent biasing.
+","[{""version"":""v1"",""created"":""Fri, 28 Jan 1994 13:00:55 GMT""}]","2015-06-24"
+"cond-mat/9401064","Feo","F.V.Kusmartsev, J.F. Weisz, R. Kishore and Minoru Takahashi","Strong-Correlations Versus U-Center Pairing and Fractional Aharonov-Bohm
+  Effect","30 pages (Latex), 10 figures upon request, submitted to Phys. Rev",,"10.1103/PhysRevB.49.16234","ISSP N-2772 Tokyo University","cond-mat",,"  The influence of the interaction between electrons on the Aharonov-Bohm
+effect is investigated in the framework of the Hubbard model. The repulsion
+between electrons associated with strong correlation is compared with the case
+of attraction such as $U$-center pairing. The most interesting case, when two
+electrons are located on a ring, is investigated in detail using the Bethe
+ansatz method and by exact numerical diagonalization of the Hubbard
+hamiltonian. It is shown that the quasi half quantum flux periodicity occurs
+for any nonzero values of $U$. For large number of sites, or strong U, the
+quasi periodicity becomes an exact half quantum flux periodicity. However the
+character of the state created on the ring is different in both cases. In the
+case of $U$-center pairing the electrons are bound in pairs located on the same
+site. For strong correlations(large positive $ U$) the electrons tend to be far
+from each other as possible. We show by numerical solution of Bethe ansaz
+equations that for three electrons the flux periodicity of the ground state
+energy is equal to 1/3. The one third periodicity may occur even for small
+values of the ratio $U/t$, for the very dilute system. It is shown analytically
+using the Bethe ansaz equations for $N$ electrons, that for dilute systems with
+arbitrary value of the Hubbard repulsion $U$,
+","[{""version"":""v1"",""created"":""Thu, 27 Jan 1994 23:13:50 GMT""}]","2009-10-22"
+"cond-mat/9401065","Christoph Bruder","C. Bruder, Rosario Fazio, and Gerd Sch\""on","Proximity Effect and Charging in Mesoscopic Normal Metal -
+  Superconductor Junction Systems","7 Pages Revtex, 5 postscript figures appended (shell archive),
+  tfp-1994-1",,"10.1088/0031-8949/1994/T55/024",,"cond-mat",,"  Charging effects in mesoscopic junctions suppress the tunneling of electrons.
+In normal metal - superconductor systems they also suppress the proximity
+effect, thereby revealing the nature of the microscopic processes and of the
+ground state of the system. The effect can be made visible since the charging
+and proximity effect and hence the transport properties of the system can be
+modulated by gate voltages. If the superconducting electrode is isolated,
+electron number parity effect lead to an even-odd asymmetry in the proximity
+effect.
+","[{""version"":""v1"",""created"":""Thu, 27 Jan 1994 23:59:35 GMT""}]","2015-06-25"
+"cond-mat/9401066","Dmitri Khveshchenko","D.V.Khveshchenko","Ground state energy and quasiparticle gaps in $\nu={N\over{2N\pm 1}}$
+  FQHE states","15 pages, TeX, C Version 3.0, preprint ETH-TH/93-34",,"10.1103/PhysRevB.49.10514",,"cond-mat",,"  Applying the transformation of fermion operators to new fermion
+quasiparticles introduced by Halperin, Lee, and Read we estimate a scaling
+behavior of the ground state energy and quasiparticle gaps as a function of
+filling fraction for a ""principal sequence"" of FQHE $\nu={N\over{2N\pm 1}}$
+states converging towards the gapless state at half filling. The exponent
+describing the shape of the cusp $\delta E(\nu)\sim |\delta\nu|^{\eta}$ is
+found to be greater than one and to depend nontrivially on the interaction
+potential. The dependence of quasiparticle gaps agrees with the results of
+recent measurements by R.R.Du et al.
+","[{""version"":""v1"",""created"":""Fri, 28 Jan 1994 04:11:06 GMT""}]","2009-10-22"
+"funct-an/9401003","Denis Juriev","D. Juriev (Yur'ev; Mathematical Division, Research Institute for
+  System Studies [Information Technologies] of Russian Academy of Sciences,
+  Moscow)","Infinite-Dimensional Geometry of the Universal Deformation of the
+  Complex Disk","9 pages AMSTEX, to appear in RUSSIAN J. MATH. PHYS. V.2. N.1 (1994)",,,,"funct-an alg-geom hep-th math.AG math.OA",,"  The universal deformation of the complex disk is studied from the viewpoint
+of infinite-dimensional geometry. The structure of a subsymmetric space on the
+universal deformation is described. The foliation of the universal deformation
+by subsymmetry mirrors is shown to determine a real polarization.
+  The subject of the paper maybe of interest to specialists in algebraic
+geometry and representation theory as well as to researchers dealing with
+mathematical problems of modern quantum field theory.
+  Contents.
+  I. The infinite-dimensional geometry of the flag manifold of the
+Virasoro-Bott group (the base of the universal deformation of the complex
+disk).
+  II. The infinite-dimensional geometry of the skeleton of the flag manifold of
+the Virasoro-Bott group.
+  III. The infinite-dimensional geometry of the universal deformation of the
+complex disk.
+","[{""version"":""v1"",""created"":""Fri, 28 Jan 1994 11:13:38 GMT""}]","2016-08-31"
+"hep-ph/9401342","Hans Weber","H.J. Weber","Spin Force Dependence Of Nucleon Structure Functions","24 pages, Institute for Nuclear and Particle Physics, University of
+  Virginia INPP-93-5 Phys. Rev. D","Phys.Rev. D49 (1994) 3160-3168","10.1103/PhysRevD.49.3160",,"hep-ph",,"  Deep inelastic structure functions for the nucleon are obtained in a
+constituent quark model on the light cone. Parton model formulas are derived.
+The negative slope of $F_{2}^{n}/F_{2}^{p} requires attraction between scalar
+quark pairs. Color magnetism leads to a positive slope. 6 Figures are available
+from author. Typeset in REVTEX.
+","[{""version"":""v1"",""created"":""Thu, 27 Jan 1994 18:20:44 GMT""}]","2009-10-28"
+"hep-ph/9401343",,"P. Chiappetta, P.Colangelo, P. De Felice, G. Nardulli, G. Pasquariello","Higgs Search by Neural Networks at LHC","LaTex, 9 pages, 1 figure (Postscript file included), CPT-93/PE 2969,
+  BARI-TH/159-93","Phys.Lett. B322 (1994) 219-223","10.1016/0370-2693(94)91110-X",,"hep-ph",,"  We show that neural network classifiers can be used to discriminate Higgs
+production from background at LHC for $ 150< M_H<200$ GeV. The results compare
+favourably with ordinary multivariate analysis.
+","[{""version"":""v1"",""created"":""Thu, 27 Jan 1994 19:26:00 GMT""}]","2009-10-28"
+"hep-ph/9401345","Martin John Savage","Martin J. Savage","Magnetic Moment of the $\Lambda_c$, $\Xi_{c1}^+$ and $\Xi_{c1}^0$","10 pages, 1 uuencoded figure included, uses harvmac and epsf, CMU-HEP
+  94-06","Phys.Lett. B326 (1994) 303-306","10.1016/0370-2693(94)91326-9",,"hep-ph",,"  The magnetic moment of the $\Lambda_c$, $\Xi_{c1}^+$ and $\Xi_{c1}^0$ vanish
+when the charm quark mass is taken to infinity because the light degrees of
+freedom are in a spin zero configuration. The heavy quark spin-symmetry
+violating contribution from the light degrees of freedom starts at order
+$1/m_c$, the same order as the contribution from the heavy charm quark. We
+compute the leading long-distance contribution to the magnetic moments from the
+spin-symmetry breaking $\Sigma_c^*-\Sigma_c $ mass splitting in chiral
+perturbation theory. These are nonanalytic in the pion mass and arise from
+calculable one-loop graphs. Further, the difference between the magnetic
+moments of the charged charmed baryons is independent of the charm quark mass
+and of the subleading local counterterm.
+","[{""version"":""v1"",""created"":""Thu, 27 Jan 1994 21:14:38 GMT""}]","2009-10-28"
+"hep-ph/9401346",,"Thomas E. Clark and Tonnis A. ter Veldhuis","Strongly Interacting Longitudinal Gauge Bosons In Supersymmetric Models","46 pages, PURD-TH-93-14, VAND-TH-93-14","Nucl.Phys. B426 (1994) 385-414","10.1016/0550-3213(94)90317-4",,"hep-ph",,"  A non-linear sigma model effective lagrangian is analyzed for theories in
+which supersymmetry is softly broken at scales below the electroweak symmetry
+breaking scale. Besides the gauge and matter supermultiplets, the low energy
+theory contains only three Goldstone chiral multiplets. The higgsino, gaugino
+as well as the charged and neutral Higgs bosons have (light) phenomenologically
+acceptable masses, the values of which depend on the explicit soft
+supersymmetry breaking parameters. In addition, the longitudinal vector bosons
+become strongly interacting at high energies ($M_Z \ll E \ll 4\pi v$). The
+equivalence theorem is exploited in order to obtain their scattering
+amplitudes. Furthermore, supersymmetry results in enhanced longitudinal vector
+boson production of Higgs bosons.
+","[{""version"":""v1"",""created"":""Thu, 27 Jan 1994 19:17:10 GMT""},{""version"":""v2"",""created"":""Fri, 28 Jan 1994 13:40:55 GMT""}]","2009-10-28"
+"hep-ph/9401347",,"D. Atwood and A. Soni","Influence of Kaonic Resonances on the CP Violation in $B\to
+  K^*\gamma$Like Processes","42","Z.Phys.C64:241-254,1994","10.1007/BF01557395","SLAC-PUB-6425","hep-ph",,"  We consider CP violating effects in decays of the type $B\rightarrow
+k_i\gamma \rightarrow K\pi\gamma$, $K^*\pi\gamma$ and $K\rho\gamma$, where
+$k_i$ represents a strange meson resonance. We include in our calculations five
+of the low-lying resonances with quantum numbers ($J^P$) $1^-$, $1^+$ and
+$2^+$. At the quark level these decays are driven by the penguin graph as well
+as tree graphs. CP violation arises due to the difference in the CKM phase
+between these graphs. We model the final state interaction of the hadronic
+system using the low lying $k_i$ resonances. We find that radiative decays of B
+mesons give rise to four of the five kaonic resonances at about $1$ to $7 \%$
+of the inclusive $b \rightarrow s \gamma$ rate. We find that the probability of
+formation of the other three higher resonances is roughly the same as that of
+$K^*(892)$, which was recently seen at CLEO. In addition to the partial rate
+asymmetry which arises due to interference between resonances of the same
+quantum numbers, we show how interference between resonances of the same
+parity, and also between resonances of the opposite parity, result in two
+different types of energy asymmetries. CP differential asymmetries at the level
+of a few percent seem possible. We thus obtain CP violating distributions which
+may be observed in a sample of about $10^9$\relax $B^\pm$ mesons.
+","[{""version"":""v1"",""created"":""Thu, 27 Jan 1994 23:16:26 GMT""}]","2010-11-01"
+"hep-ph/9401348","Kiselev","V.V. Kiselev, A.K. Likhoded, M.V. Shevlyagin","Production of four heavy quarks and $B_c$-mesons at the $Z^0$-boson pole","Standard LATEX 16 pages, 10 Figs. (unavalibale)","Phys.Atom.Nucl.57:689-699,1994; Yad.Fiz.57:733-744,1994",,"IHEP 93-58 (Protvino1994)","hep-ph",,"  The cross-section for the production of $b{\bar b} c{\bar c}$ quarks in
+$e^+e^-$ annihilation, that proves to be at a level of $\sigma (e^+e^-
+\rightarrow b{\bar b} c{\bar c})/
+  \sigma (e^+e^- \rightarrow b{\bar b}) \sim 10^{-2}$ for ${\sqrt s}=M_Z$ is
+calculated within the frames of the QCD perturbation theory. The cross sections
+for the associated production of $1S$- and $2S$-wave states of $B_c$-meson in
+the reaction $e^+e^- \rightarrow B_c b{\bar c}$ were calculated in the
+nonrelativistic model of a heavy quarkonium. The fragmentation function of
+$b\to B_c^{(*)}$ is analysed in the scaling limit. The number of
+$\Lambda_{bc}$-hyperons to be expected at LEP is estimated on the basis of the
+assumption on quark-hadron duality.
+","[{""version"":""v1"",""created"":""Fri, 28 Jan 1994 07:15:48 GMT""}]","2011-01-27"
+"hep-ph/9401349","D. R. T. Jones","I. Jack, D. R. T. Jones and K. L. Roberts","Equivalence of Dimensional Reduction and Dimensional Regularisation","17 pages, LTH 329. Uses Harvmac","Z.Phys. C63 (1994) 151-160","10.1007/BF01577555",,"hep-ph",,"  For some years there has been uncertainty over whether regularisation by
+dimensional reduction (DRED) is viable for non-supersymmetric theories. We
+resolve this issue by showing that DRED is entirely equivalent to standard
+dimensional regularisation (DREG), to all orders in perturbation theory and for
+a general renormalisable theory. The two regularisation schemes are related by
+an analytic redefinition of the couplings, under which the $\b$-functions
+calculated using DRED transform into those computed in DREG. The $S$-matrix
+calculated using DRED is numerically equal to the DREG version, ensuring that
+both schemes give the same physics.
+","[{""version"":""v1"",""created"":""Fri, 28 Jan 1994 12:00:08 GMT""}]","2009-10-28"
+"hep-th/9401139","Amit Giveon","A. Giveon, M. Porrati and E. Rabinovici","Target Space Duality in String Theory","151 pages, 10 figures (not included), RI-1-94, NYU-TH.94/01/01","Phys.Rept.244:77-202,1994","10.1016/0370-1573(94)90070-1",,"hep-th",,"  A review article submitted to Physics Report: Target space duality and
+discrete symmetries in string theory are reviewed in different settings.
+","[{""version"":""v1"",""created"":""Thu, 27 Jan 1994 19:10:00 GMT""}]","2010-11-01"
+"hep-th/9401140",,"S. Emery and O. Piguet","Symmetries of the Chern-Simons Theory in the Axial Gauge, Manifold with
+  Boundary","8 pages LaTeX, report UGVA-DPT 1994/01-843","Helv.Phys.Acta 67 (1994) 22-29",,,"hep-th",,"  The field equations of the Chern-Simons theory quantized in the axial gauge
+are shown to be completely determined by supersymmetry Ward identities which
+express the invariance of the theory under the topological supersymmetry of
+Delduc, Gieres and Sorella together with the usual Slavnov identity without
+requiring any action principle.
+","[{""version"":""v1"",""created"":""Thu, 27 Jan 1994 22:59:00 GMT""}]","2007-05-23"
+"hep-th/9401141","Chrys Chryssomalakos","C. Chryssomalakos, Peter Schupp, Bruno Zumino","Induced extended calculus on the quantum plane","20 pages","Alg.Anal. 6 (1994) 252",,"LBL-35034, UCB-PTH-94/01","hep-th math.QA",,"  The non-commutative differential calculus on quantum groups can be extended
+by introducing, in analogy with the classical case, inner product operators and
+Lie derivatives. For the case of $\GL$ we show how this extended calculus
+induces by coaction a similar extended calculus, covariant under $\GL$, on the
+quantum plane. In this way, inner product operators and Lie derivatives can be
+introduced on the plane as well. The situation with other quantum groups and
+quantum spaces is briefly discussed. Explicit formulas are given for the two
+dimensional quantum plane.
+","[{""version"":""v1"",""created"":""Fri, 28 Jan 1994 00:50:20 GMT""}]","2008-02-03"
+"hep-th/9401142","Galina Stepanova","V.A.Kudryavtsev","Critical Composite Superconformal String","5 pages, LATEX, Preprint PNPI-1947, January 1994","Phys.Atom.Nucl. 57 (1994) 1461-1463; Yad.Fiz. 57 (1994) 1534-1536",,,"hep-th",,"  In the paper the nilpotent conditions of BRST operator for new superconformal
+string model were found. This string includes anticommutation $2-d$ fields
+additional to the standard Neveu-Schwarz superconformal set which carry quark
+quantum numbers. In this case the superconformal symmetry is realized by a
+non-linear way. In the superconformal composite string new constraints for 1
+and 1/2 conformal dimension should be added to the standard system of Virasoro
+superalgebra constraints for 2 and 3/2 conformal dimensions. The number $N$ of
+the constraints and numbers $D$ and $D'$ of bosonic and fermionic $2-d$ fields
+are connected by a simple relationship $D'/2+D-3N-15=0.$ Also perspectives of
+the critical composite superconformal string are discussed.
+","[{""version"":""v1"",""created"":""Fri, 28 Jan 1994 08:46:46 GMT""}]","2007-05-23"
+"hep-th/9401143","Kownacki","J.-P. Kownacki and A. Krzywicki","Grand-Canonical Ensemble of Random Surfaces with Four Species of Ising
+  Spins","LaTeX, 11 pages + 1 postscript figure appended, preprint LPTHE-Orsay
+  94/11","Phys.Rev. D50 (1994) 5329-5332","10.1103/PhysRevD.50.5329",,"hep-th",,"  The grand-canonical ensemble of dynamically triangulated surfaces coupled to
+four species of Ising spins (c=2) is simulated on a computer. The effective
+string susceptibility exponent for lattices with up to 1000 vertices is found
+to be $\gamma = - 0.195(58)$. A specific scenario for $c > 1$ models is
+conjectured.
+","[{""version"":""v1"",""created"":""Fri, 28 Jan 1994 10:38:52 GMT""}]","2009-10-28"
+"hep-th/9401144",,"Jacek Pawe{\l}czyk","An Effective Rigid String at $\theta=\pi$ for the 3D Gauge
+  Theories/Ising Model","7 pages, Latex","Mod.Phys.Lett. A9 (1994) 3229-3234","10.1142/S021773239400304X","IFT-18/93","hep-th",,"  An effective sigma model describing behavior of the 3d rigid string with a
+$\theta$-term at $\theta=\pi$ is proposed. It contains non-perturbative
+corrections resulting from summation over different genera of the 2d surfaces.
+The effective theory is the SU(2) WZW model coupled to the Nambu-Goto action.
+RG analysis shows the existence of a IR fixed point at which the normal to the
+surface has long range correlations. A similar model can describe critical
+behaviour of the 3d Y-M fields or the Ising model.
+","[{""version"":""v1"",""created"":""Fri, 28 Jan 1994 10:06:37 GMT""}]","2009-10-28"
+"hep-th/9401145","Andrzej Sitarz","Andrzej Sitarz","Gravity from Noncommutative Geometry","11 pages, LaTeX, TPJU 1/94","Class.Quant.Grav.11:2127-2134,1994","10.1088/0264-9381/11/8/017",,"hep-th gr-qc hep-ph",,"  We introduce the linear connection in the noncommutative geometry model of
+the product of continuous manifold and the discrete space of two points. We
+discuss its metric properties, define the metric connection and calculate the
+curvature. We define also the Ricci tensor and the scalar curvature. We find
+that the latter differs from the standard scalar curvature of the manifold by a
+term, which might be interpreted as the cosmological constant and apart from
+that we find no other dynamical fields in the model. Finally we discuss an
+example solution of flat linear connection, with the nontrivial scaling
+dependence of the metric tensor on the discrete variable. We interpret the
+obtained solution as confirmed by the Standard Model, with the scaling factor
+corresponding to the Weinberg angle.
+","[{""version"":""v1"",""created"":""Fri, 28 Jan 1994 10:45:32 GMT""}]","2010-04-06"
+"hep-th/9401146","Andrzej Sitarz","Andrzej Sitarz","Noncommutative differential geometry with higher order derivatives","10 pages","Lett.Math.Phys. 32 (1994) 357-364","10.1007/BF00761145","TPJU 2/94","hep-th math.OA",,"  We build a toy model of differential geometry on the real line, which
+includes derivatives of the second order. Such construction is possible only
+within the framework of noncommutative geometry. We introduce the metric and
+briefly discuss two simple physical models of scalar field theory and gauge
+theory in this geometry.
+","[{""version"":""v1"",""created"":""Fri, 28 Jan 1994 10:45:49 GMT""}]","2009-10-28"
+"hep-th/9401148",,"O.F. Dayi","BV and BFV Formulation of a Gauge Theory of Quadratic Lie Algebras in
+  2-d and a Construction of W3 Topological Gravity","12 pages, Plain Latex (latex twice)","Mod.Phys.Lett. A9 (1994) 2157-2165","10.1142/S021773239400201X",,"hep-th",,"  The recently proposed generalized field method for solving the master
+equation of Batalin and Vilkovisky is applied to a gauge theory of quadratic
+Lie algebras in 2-dimensions. The charge corresponding to BRST symmetry derived
+from this solution in terms of the phase space variables by using the Noether
+procedure, and the one found due to the BFV-method are compared and found to
+coincide. $W_3$ algebra, formulated in terms of a continuous variable is
+emploied in the mentioned gauge theory to construct a $W_3$ topological
+gravity. Moreover, its gauge fixing is briefly discussed.
+","[{""version"":""v1"",""created"":""Fri, 28 Jan 1994 14:29:23 GMT""}]","2015-06-26"
+"hep-th/9401149","Folkert Mueller-Hoissen","A. Dimakis and F. M""uller-Hoissen","Differential calculus and gauge theory on finite sets","24 pages, LaTeX, GOET-TP 33/93, to appear in J. Phys. A: Math. Gen","J.Phys. A27 (1994) 3159-3178","10.1088/0305-4470/27/9/028",,"hep-th",,"  We develop differential calculus and gauge theory on a finite set G. An
+elegant formulation is obtained when G is supplied with a group structure and
+in particular for a cyclic group. Connes' two-point model (which is an
+essential ingredient of his reformulation of the standard model of elementary
+particle physics) is recovered in our approach. Reductions of the universal
+differential calculus to `lower-dimensional' differential calculi are
+considered. The `complete reduction' leads to a differential calculus on a
+periodic lattice which is related to q-calculus.
+","[{""version"":""v1"",""created"":""Fri, 28 Jan 1994 15:47:25 GMT""}]","2009-10-28"
+"patt-sol/9401006","Hermann Riecke","Henar Herrero (Departamento de Fisica y Matematica Aplicada, Facultad
+  de Ciencias, Universidad de Navarra, 31080 Pamplona, Navarra, Spain) and
+  Hermann Riecke (Department of Engineering Sciences and Applied Mathematics,
+  Northwestern University, Evanston, IL 60208, USA)","Front Structures in a Real Ginzburg-Landau Equation Coupled to a Mean
+  Field","to appear in J. Bif. and Chaos, 7 pages (LaTeX) 1 figure","Int. J. Bif. and Chaos 4 (1994) 1343-1346","10.1142/S0218127494001039",,"patt-sol nlin.PS",,"  Localized traveling wave trains or pulses have been observed in various
+experiments in binary mixture convection. For strongly negative separation
+ratio, these pulse structures can be described as two interacting fronts of
+opposite orientation. An analytical study of the front solutions in a real
+Ginzburg-Landau equation coupled to a mean field is presented here as a first
+approach to the pulse solution. The additional mean field becomes important
+when the mass diffusion in the mixture is small as is the case in liquids.
+Within this framework it can lead to a hysteretic transition between slow and
+fast fronts when the Rayleigh number is changed.
+","[{""version"":""v1"",""created"":""Fri, 28 Jan 1994 15:52:52 GMT""}]","2016-12-21"

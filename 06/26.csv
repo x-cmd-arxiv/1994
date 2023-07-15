@@ -1,0 +1,63 @@
+"chao-dyn/9406010","Salman Habib","Salman Habib and Robert D. Ryne","Symplectic Calculation of Lyapunov Exponents","10 pages, uuencoded PostScript (figures included), LA-UR-94-2169",,"10.1103/PhysRevLett.74.70",,"chao-dyn gr-qc nlin.CD",,"  The Lyapunov exponents of a chaotic system quantify the exponential
+divergence of initially nearby trajectories. For Hamiltonian systems the
+exponents are related to the eigenvalues of a symplectic matrix. We make use of
+this fact to develop a new method for the calculation of Lyapunov exponents of
+such systems. Our approach avoids the renormalization and reorthogonalization
+of usual techniques. It is also easily extendible to damped systems. We apply
+our method to two examples of physical interest: a model system that describes
+the beam halo in charged particle beams and the driven van der Pol oscillator.
+","[{""version"":""v1"",""created"":""Sun, 26 Jun 1994 01:15:09 GMT""}]","2009-10-22"
+"chao-dyn/9406011","Salman Habib","Salman Habib, Henry E. Kandrup, and M. Elaine Mahon","Chaos and Noise in a Truncated Toda Potential","10 pages uuencoded PostScript (figures included), (A trivial
+  mathematical error leading to an erroneous conclusion is corrected)",,"10.1103/PhysRevE.53.5473","LA-UR-94-2124","chao-dyn astro-ph nlin.CD",,"  Results are reported from a numerical investigation of orbits in a truncated
+Toda potential which is perturbed by weak friction and noise. Two significant
+conclusions are shown to emerge: (1) Despite other nontrivial behaviour,
+configuration, velocity, and energy space moments associated with these
+perturbations exhibit a simple scaling in the amplitude of the friction and
+noise. (2) Even very weak friction and noise can induce an extrinsic diffusion
+through cantori on a time scale much shorter than that associated with
+intrinsic diffusion in the unperturbed system.
+","[{""version"":""v1"",""created"":""Sun, 26 Jun 1994 01:16:47 GMT""},{""version"":""v2"",""created"":""Fri, 8 Jul 1994 14:52:56 GMT""}]","2016-04-06"
+"hep-ph/9406394","Pankaj Jain","Pankaj Jain and John P. Ralston","Evidence for Gluon Energy Loss as the Mechanism for Heavy Quarkonium
+  Suppression in $pA$ Collisions","26 pages, 15 figures (not included, hard copy available upon
+  request), report # KANSAS 94-5-22",,,,"hep-ph nucl-th",,"  We study the energy and nuclear A dependence of the hadronic production of
+heavy quarkonia. We review theoretical ideas which have been put forward,
+seeking a consistent global picture reconciling the large effects in quarkonia
+with the small nuclear effects observed in continuum Drell Yan production. The
+data indicates that shadowing or leading twist modifications of parton
+distributions can be ruled out as explanations, leaving higher twist energy
+loss. {}From general principles the maximum allowed energy loss of partons
+traversing the nuclear medium can be related to the parton transverse momenta.
+We then show that the experimental data on nuclear suppression of charm- and
+bottom- onium for large $x_F$ is consistent with this effect: using the
+observed transverse momenta to bound the $x_F$ dependence in an almost model
+independent manner generates a relation that practically reproduces the data.
+Several prediction are discussed; the dependence on $x_F$ as $x_F\to 1$, and
+large and small $k_T^2$ cuts, can be used to discriminate between quark and
+gluon induced effects.
+","[{""version"":""v1"",""created"":""Sat, 25 Jun 1994 16:27:05 GMT""}]","2009-09-25"
+"hep-ph/9406395","Zhora Jikia","George Jikia","Four Weak Boson Production in Tev Photon--Photon Collisions and Heavy
+  Higgs Signal","(Talk given at the Workshop on gamma--gamma colliders, March 28-31,
+  1994, Lawrence Berkeley Laboratory), LaTeX, 9 pages, 6 figures (compressed +
+  uuencoded)","Nucl.Instrum.Meth.A355:84-88,1995","10.1016/0168-9002(94)01182-6",,"hep-ph",,"  We study the signals for a heavy Higgs boson in the processes
+$\gamma\gamma\to WWWW$, $\gamma\gamma\to WWZZ$ at the photon linear collider.
+The results are based on the first complete tree level calculation for these
+reactions. Using a forward ``spectator"" $W$ tag, central ``spectator"" $W$ veto
+to suppress backgrounds from transverse $W$, $Z$ production we show that the
+invariant mass spectrum of central $WW$, $ZZ$ pairs is sensitive to Higgs boson
+with a mass up to 1~TeV at a 2~TeV linear collider.
+","[{""version"":""v1"",""created"":""Sun, 26 Jun 1994 01:27:01 GMT""}]","2011-04-15"
+"hep-th/9406172","Ulrich Meyer","Ulrich Meyer","Quantum determinants","5 pages",,,"DAMTP/94-54","hep-th math.QA",,"  We show how to construct central and grouplike quantum determinants for FRT
+algebras A(R). As an application of the general construction we give a quantum
+determinant for the q-Lorentz group.
+","[{""version"":""v1"",""created"":""Sun, 26 Jun 1994 14:23:04 GMT""}]","2008-02-03"
+"nucl-th/9406030","Volker Koch","Volker Koch","K$^-$-proton scattering and the $\Lambda (1405)$ in dense matter","12 pages 5 figures, SUNY-NTG-94-27","Phys.Lett. B337 (1994) 7-13","10.1016/0370-2693(94)91434-6",,"nucl-th hep-ph",,"  The scattering of antikaons with nucleons is studied in the nuclear
+environment. Describing the $\lam$ as a $K^-$ proton bound state, we find, that
+due to the Pauli blocking of intermediate states, the mass of the $\Lambda
+(1405)$ is shifted upwards in energy, above the $K^-$ proton threshold and and
+its width is somewhat broadened. As a consequence the s-wave $K^-$--nucleon
+scattering length turns attractive at finite nucleon density ($\rho \geq 0.25
+\rho_0$) leading to a mean field potential for the $K^-$ of about $\sim -100 \,
+\rm MeV$ in nuclear matter at ground state density. Consequences for Heavy Ion
+collisions and possible experimental checks for the structure of the $\lam$ are
+discussed. (Figures will be sent on request)
+","[{""version"":""v1"",""created"":""Sat, 25 Jun 1994 18:33:57 GMT""}]","2009-10-28"

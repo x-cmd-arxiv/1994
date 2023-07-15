@@ -1,0 +1,403 @@
+"adap-org/9402001","Natalie Glance","Natalie S. Glance, Tad Hogg and Bernardo A. Huberman (Xerox Palo Alto
+  Research Centre, Palo Alto, CA)","Training and Turnover in Organizations","9 pages. Also available through anonymous ftp from parcftp.xerox.com
+  in the directory pub/dynamics as training.ps",,,,"adap-org chao-dyn nlin.AO nlin.CD",,"  We present a two-level model of organizational training and agent production.
+Managers decide whether or not to train based on both the costs of training
+compared to the benefits and on their expectations and observations of the
+number of other firms that also train. Managers also take into account the sum
+of their employees' contributions and the average tenure length within their
+organization. Employees decide whether or not to contribute to production based
+on their expectations as to how other employees will act. Trained workers learn
+over time and fold their increased productivity into their decision whether or
+not to contribute. We find that the dynamical behavior at the two levels is
+closely coupled: the evolution of the industry over time depends not only on
+the characteristics of training programs, learning curves, and cost-benefit
+analyses, but on the vagaries of chance as well. For example, in one case, the
+double dilemma can be resolved for the industry as a whole and productivity
+then increases steadily over time. In another, the organizational level dilemma
+may remain unresolved and workers may contribute at fluctuating levels. In this
+case the overall productivity stays low. We also find a correlation between
+high productivity and low turnover and show that a small increase in training
+rates can lead to explosive growth in productivity.
+","[{""version"":""v1"",""created"":""Tue, 8 Feb 1994 22:14:54 GMT""}]","2008-02-03"
+"alg-geom/9402006","Sorin Popescu","Wolfram Decker and Sorin Popescu","On surfaces in P^4 and 3-folds in P^5","24 pages, AMS-TeX 2.1",,,,"alg-geom math.AG",,"  This is a survey on the classification of smooth surfaces in P^4 and smooth
+3-folds in P^5. We recall the corresponding results arising from adjunction
+theory and explain how to construct examples via syzygies. We discuss some
+examples in detail and list all families of smooth non-general type surfaces in
+P^4 and 3-folds in P^5 known to us.
+","[{""version"":""v1"",""created"":""Tue, 8 Feb 1994 16:02:12 GMT""}]","2008-02-03"
+"alg-geom/9402007","Valery Alexeev","Valery Alexeev","Boundedness and $K^2$ for log surfaces","This version: a TeX fix only. The old TeX version did not work with
+  pdflatex, producing strange characters","Internat. J. Math. 5 (1994), no.6, 779-810",,,"alg-geom math.AG","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  Let $\epsilon, C$ be two positive real numbers, and $\mathcal C \subset
+\mathbb R$ be a DCC (descending chain condition) set. Let $(X, B = \sum b_j
+B_j)$ denote a projective surface with an $\mathbb R$-divisor. Then
+  (1) The class $\{X\}$ of surfaces for which there exists a divisor $B$ such
+that $(X,B)$ is $\epsilon$-log terminal and $-(K_X + B)$ is nef (excluding only
+those for which at the same time $K_X\equiv 0$, $B=0$, and $X$ has at worst Du
+Val singularities), is bounded.
+  (2) The set $\{(K_X + B)^2\}$ of squares for the semi log canonical pairs
+$(X, B)$ with ample $K_X + B$ and $b_j \in \mathcal C$, is a DCC set.
+  (3) The class $\{(X,B)\}$ of pairs such that $(X, B)$ is semi log canonical,
+$K_X + B$ is ample, $(K_X + B)^2 = C$ and $b_j \in \mathcal C$, is bounded.
+","[{""version"":""v1"",""created"":""Wed, 9 Feb 1994 00:58:27 GMT""},{""version"":""v2"",""created"":""Wed, 13 Apr 1994 15:38:19 GMT""},{""version"":""v3"",""created"":""Thu, 16 Feb 2017 21:24:14 GMT""}]","2017-02-20"
+"astro-ph/9402022","Vic Hughes","V. A. Hughes, R. J. Cohen, and S. Garrington","High Resolution Observations of Cepheus a","11 pages + 10 Figures (available by contacting
+  HUGHESV@QUCDN.QUEENSU.CA), PostScripT file, AST-9402-7",,"10.1093/mnras/272.2.469",,"astro-ph",,"  New high resolution 6 cm observations have been made on Cepheus A using
+MERLIN, and combined with new VLA observations at 3.7 cm. Angular resolution
+with the latter was 200 mas, and with MERLIN was 60 mas, except for isolated
+unresolved sources where 33 mas was achieved. Unresolved objects at 60 mas were
+observed in Sources 2, 3, and in particular 9 which also was not resolved at 33
+mas. There is no evidence for any other object as small as this with any
+significant flux density, although Source 8 was quiescent at the time. The
+upper limit to the size of Source 9 sets a minimum brightness temperature of
+4.3 $\times$ 10$^5$K, and adds credence to a previous suggestion that it is a
+gyrosynchrotron source. The compact objects of Sources 2 and 3 are thought to
+be produced by mass outflow from stars, which could be of spectral type B0 -
+B1, but this is uncertain. There is a discussion regarding the powerhouse for
+the molecular outflow. Sources 8 and 9, which are the highly time dependent
+objects, appear at the centre of the disruption of the high density gas, and
+their estimated high temperature of 10$^7$ - 10$^8$K indicates that they could
+produce high velocity winds. On the other hand, the OH masers surrounding
+Source 2(ii) show an outward velocity of about 10 km s${-1}$, which is small,
+but higher velocity winds could tunnel through adjacent spaces, and even be
+responsible for the 300 km s${-1}$ bullet of Source 7. An extrapolation of the
+orthogonals to the IR polarization vectors are not accurate enough to pinpoint
+the source of the IR radiation, but it is estimated that Sources 2(ii) and
+3(d)(ii) could
+","[{""version"":""v1"",""created"":""Tue, 8 Feb 1994 18:53:54 GMT""}]","2015-06-24"
+"astro-ph/9402023","Leandros Perivolaropoulos","Leandros Perivolaropoulos (Harvard-Smithsonian CfA), Richhild Moessner
+  (Brown U.) and Robert Brandenberger (Brown U.)","Signatures of Cosmic Strings on the Microwave Background","CfA-3797, to appear in the proceedings of the Capri MBR Workshop,
+  (Capri (Italy), September 20-24 1993), 8 pages + 5 figures (available upon
+  request). Use LaTeX",,,,"astro-ph",,"  ABSRACT: We review recent progress on testing the hypothesis of the existence
+of cosmic string perturbations in microwave background maps. Using an
+analytical model for the string network we show that the predicted amplitude
+and spectrum of MBR fluctuations are consistent with the COBE data for a
+reasonable value of the single free parameter of the string model (the mass per
+unit length of the string $\mu$). To {\it distinguish} the predictions of
+cosmic strings from those of Gaussian models it is necessary to apply specific
+{\it statistical tests} which are sensitive to non-random phases of the MBR
+temperature maps. We discuss two such statistical tests: First, the probability
+distribution and the moments of fluctuations ${{\delta T}\over T}$ and second
+the corresponding statistical quantities for the {\it gradient} of fluctuations
+along a fixed direction. We show that the second statistic can detect cosmic
+string specific signatures on MBR temperature maps with resolution of a few
+arcminutes or smaller.
+","[{""version"":""v1"",""created"":""Wed, 9 Feb 1994 02:54:45 GMT""}]","2009-09-25"
+"astro-ph/9402024","Leandros Perivolaropoulos","Leandros Perivolaropoulos (Harvard-Smithsonian CfA)","Spectral Analysis of Microwave Background Perturbations Induced by
+  Cosmic Strings","16 pages + 6 figures (available upon request). CfA-3796. Submitted to
+  the Astrophysical Journal. Use LaTeX","Astrophys.J.451:429-435,1995","10.1086/176231",,"astro-ph hep-ph",,"  Using a simple analytic model based on seed superposition we obtain the
+spectrum of microwave background perturbations induced by cosmic strings on all
+angular scales larger than about 2 armin. We assume standard recombination in
+an Einstein de Sitter universe with $h=1/2$ and study the fluctuation spectrum
+along a great circle in the sky.
+  Doppler and potential perturbations on the last scattering surface
+(Sachs-Wolfe effect) are shown to dominate over post-recombination
+perturbations on scales smaller than about 2 degrees. Using a filter function
+corresponding to the COBE experiment we obtain an effective power spectrum
+index $n_{eff}\simeq 1.35$ in good agreement with the recently announced second
+year COBE data showing $n_{eff}\simeq 1.5$. The only free parameter ($G\mu$) of
+the string model is fixed by normalizing on the COBE detection leading to
+$G\mu=1.6$. Other parameters (e.g. the {\it rms} string velocity) are fixed by
+comparing with string simulations. Using these parameter values we compare the
+{\it rms} temperature fluctuations $({{\Delta T}\over T})_{\it rms}$ predicted
+for ongoing experiments (Tenerife, SP91, MAX, OVRO etc) with detections and
+with the corresponding predictions of inflationary models.
+","[{""version"":""v1"",""created"":""Wed, 9 Feb 1994 02:55:30 GMT""}]","2011-05-10"
+"astro-ph/9402026","Domingos S. L. Soares","D.S.L. Soares","An Alternative View of Flat Rotation Curves. II. The Observations","12 pages, LaTeX, accepted by RevMexAA 01-94",,,,"astro-ph",,"  The rotation curves of 20 spiral galaxies are examined in the light of a toy
+model (Soares 1992) which has as the main feature the assignment of a high M/L
+ratio (=30; Ho=50 km/s/Mpc) to the visible matter. The observed rotation of all
+galaxies can be accommodated without the assumption of a dark halo.
+  Moreover, the suggestion is made that the fact that almost all available
+rotational velocity measurements are derived from emission lines emitted by
+galaxian gas (either neutral or ionized) makes them inappropriate as tracers of
+the galaxy gravitational potential. To account for that, the model introduces
+an effective potential meant to describe the hydrodynamics inside a gaseous
+disk. The general morphology of the curves (i.e., the presence of a plateau in
+V(r) X r) is interpreted in this framework as a consequence of the
+hydrodynamical characteristics of galaxian disks.
+  The Tully-Fisher relation is expressed in terms of model parameters and used
+as an additional constraint in the process of fitting the model to the observed
+rotation of the galaxies.
+","[{""version"":""v1"",""created"":""Wed, 9 Feb 1994 14:45:21 GMT""}]","2009-09-25"
+"cond-mat/9402039","Kikuo Harigaya","Kikuo Harigaya and Shuji Abe","Exciton and lattice-fluctuation effects in optical spectra of C60",,"Mol. Cryst. Liq. Cryst. 256 (1994) 825-830",,,"cond-mat",,"  A theory of optical excitations by using a tight binding model with
+long-range Coulomb interactions is developed. The model is applied to a C60
+molecule and a cluster, and is treated by the Hartree-Fock approximation
+followed by a configuration interaction method. Lattice fluctuations are taken
+into account by a bond disorder model. We first examine what strength of
+Coulomb interaction is appropriate to describe the electronic structures
+observed by photo-electron and optical absorption spectroscopy. Then, we
+demonstrate that the photo-excited states are mainly intramolecular (i.e.
+Frenkel) excitons with small charge-transfer components. We examine to what
+extent the dipole forbidden transitions of a single C60 molecule become
+dipole-allowed by lattice fluctuations or intermolecular interactions.
+","[{""version"":""v1"",""created"":""Tue, 8 Feb 1994 17:14:16 GMT""},{""version"":""v2"",""created"":""Tue, 17 Feb 1998 01:02:05 GMT""}]","2008-02-03"
+"cond-mat/9402040","Michael Stone","M. Stone and M.P.A. Fisher","Luttinger States at the Edge",,,"10.1142/S0217979294001020","NSF-ITP-94-15","cond-mat",,"  An effective wavefunction for the edge excitations in the Fractional quantum
+Hall effect can be found by dimensionally reducing the bulk wavefunction.
+Treated this way the Laughlin $\nu=1/(2n+1)$ wavefunction yields a Luttinger
+model ground state. We identify the edge-electron field with a Luttinger
+hyper-fermion operator, and the edge electron itself with a non-backscattering
+Bogoliubov quasi-particle. The edge-electron propagator may be calculated
+directly from the effective wavefunction using the properties of a
+one-dimensional one-component plasma, provided a prescription is adopted which
+is sensitive to the extra flux attached to the electrons.
+","[{""version"":""v1"",""created"":""Tue, 8 Feb 1994 23:18:00 GMT""}]","2015-06-25"
+"cond-mat/9402041","Henk Stoof","H.T.C. Stoof","Atomic Bose Gas with Negative Scattering Length","16 PAGES, REVTEX 3.0, ACCEPTED FOR PUBLICATION IN PHYS. REV. A",,"10.1103/PhysRevA.49.3824",,"cond-mat",,"  We derive the equation of state of a dilute atomic Bose gas with an
+interatomic interaction that has a negative scattering length and argue that
+two continuous phase transitions, occuring in the gas due to quantum degeneracy
+effects, are preempted by a first-order gas-liquid or gas-solid transition
+depending on the details of the interaction potential. We also discuss the
+consequences of this result for future experiments with magnetically trapped
+spin-polarized atomic gasses such as lithium and cesium.
+","[{""version"":""v1"",""created"":""Wed, 9 Feb 1994 08:36:46 GMT""}]","2009-10-22"
+"cond-mat/9402042","Hans Fogedby","Hans C. Fogedby","Langevin equations for continuous time L\'{e}vy flights","10 pages, Latex, IFA Report No. 94/10",,"10.1103/PhysRevE.50.1657",,"cond-mat",,"  We consider the combined effects of a power law L\'{e}vy step distribution
+characterized by the step index $f$ and a power law waiting time distribution
+characterized by the time index $g$ on the long time behavior of a random
+walker. The main point of our analysis is a formulation in terms of coupled
+Langevin equations which allows in a natural way for the inclusion of external
+force fields. In the anomalous case for $f<2$ and $g<1$ the dynamic exponent
+$z$ locks onto the ratio $f/g$. Drawing on recent results on L\'{e}vy flights
+in the presence of a random force field we also find that this result is {\em
+independent} of the presence of weak quenched disorder. For $d$ below the
+critical dimension $d_c=2f-2$ the disorder is {\em relevant}, corresponding to
+a non trivial fixed point for the force correlation function.
+","[{""version"":""v1"",""created"":""Wed, 9 Feb 1994 11:05:07 GMT""}]","2009-10-22"
+"cond-mat/9402043",,"O. Golinelli, Th. Jolicoeur and R. Lacaze","Finite-lattice extrapolations for a Haldane gap antiferromagnet","14 pages, RevTeX 3.0, followed by 2 PostScript figures, T94-007","Phys. Rev. B 50, 3037-3044 (1994)","10.1103/PhysRevB.50.3037",,"cond-mat",,"  We present results of exact diagonalizations of the isotropic
+antiferromagnetic S=1 Heisenberg chain by the Lanczos method, for finite rings
+of up to N=22 sites. The Haldane gap G(N) and the ground state energy per site
+e(N) converge, with increasing N, faster than a power law. By VBS and Shanks
+transformations, the extrapolated values are G=0.41049(2) and e=-1.401485(2).
+The spin-spin correlation function is well fit by exp(-r/xi)/sqrt(r) with
+xi=6.2.
+","[{""version"":""v1"",""created"":""Wed, 9 Feb 1994 12:19:00 GMT""}]","2009-10-22"
+"gr-qc/9402018","Seth Major","Seth Major and Lee Smolin","Cosmological Histories for the New Variables","14, CGPG-94/2-1","Phys.Rev. D51 (1995) 5475-5482","10.1103/PhysRevD.51.5475",,"gr-qc",,"  Histories and measures for quantum cosmology are investigated through a
+quantization of the Bianchi IX cosmology using path integral techniques. The
+result, derived in the context of Ashtekar variables, is compared with earlier
+work. A non-trivial correction to the measure is found, which may dominate the
+classical potential for universes on the Planck scale.
+","[{""version"":""v1"",""created"":""Tue, 8 Feb 1994 21:10:03 GMT""},{""version"":""v2"",""created"":""Wed, 9 Feb 1994 16:59:23 GMT""}]","2009-10-22"
+"gr-qc/9402019","Viqar Husain","Viqar Husain","Observables for spacetimes with two Killing field symmetries","23 pages (LateX-RevTeX), Alberta-Thy-55-93","Phys.Rev.D50:6207-6216,1994","10.1103/PhysRevD.50.6207",,"gr-qc hep-th",,"  The Einstein equations for spacetimes with two commuting spacelike Killing
+field symmetries are studied from a Hamiltonian point of view. The complexified
+Ashtekar canonical variables are used, and the symmetry reduction is performed
+directly in the Hamiltonian theory. The reduced system corresponds to the field
+equations of the SL(2,R) chiral model with additional constraints.
+  On the classical phase space, a method of obtaining an infinite number of
+constants of the motion, or observables, is given. The procedure involves
+writing the Hamiltonian evolution equations as a single `zero curvature'
+equation, and then employing techniques used in the study of two dimensional
+integrable models. Two infinite sets of observables are obtained explicitly as
+functionals of the phase space variables. One set carries sl(2,R) Lie algebra
+indices and forms an infinite dimensional Poisson algebra, while the other is
+formed from traces of SL(2,R) holonomies that commute with one another. The
+restriction of the (complex) observables to the Euclidean and Lorentzian
+sectors is discussed.
+  It is also shown that the sl(2,R) observables can be associated with a
+solution generating technique which is linked to that given by Geroch.
+","[{""version"":""v1"",""created"":""Wed, 9 Feb 1994 01:40:58 GMT""}]","2010-11-01"
+"hep-lat/9402003","Erhard Seiler","A.Patrascioiou and E.Seiler","Super-Instantons in Gauge Theories and Troubles with Perturbation Theory","9 pages, 1 figure available on request from the authors","Phys.Rev.Lett. 74 (1995) 1924-1927","10.1103/PhysRevLett.74.1924",,"hep-lat",,"  In gauge theories with continuous groups there exist classical solutions
+whose energy vanishes in the thermodynamic limit (in any dimension). The
+existence of these super-instantons is intimately related to the fact that even
+at short distances perturbation theory can fail to produce unique results. This
+problem arises only in non-Abelian models and only starting at O(1/beta^2).
+","[{""version"":""v1"",""created"":""Tue, 8 Feb 1994 18:19:56 GMT""}]","2009-10-22"
+"hep-lat/9402004",,"M. Martellini, M. Spreafico and K. Yoshida","A generalized model for two dimensional quantum gravity and dynamics of
+  random surfaces for d>1","n. 11; Phyzzx","Mod.Phys.Lett. A9 (1994) 2009-2018","10.1142/S0217732394001878","IFUM 458/FT","hep-lat hep-th",,"  The possible interpretations of a new continuum model for the two-dimensional
+quantum gravity for $d>1$ ($d$=matter central charge), obtained by carefully
+treating both diffeomorphism and Weyl symmetries, are discussed. In particular
+we note that an effective field theory is achieved in low energy (large area)
+expansion, that may represent smooth self-avoiding random surfaces embedded in
+a $d$-dimensional flat space-time for arbitrary $d$. Moreover the values of
+some critical exponents are computed, that are in agreement with some recent
+numerical results.
+","[{""version"":""v1"",""created"":""Wed, 9 Feb 1994 08:32:16 GMT""}]","2015-06-25"
+"hep-ph/9402249",,"T. D. Cohen and J. Milana","Model Independent Extraction of $|V_{\rm bc}|$ Without Heavy Quark
+  Symmetry","10 pages revtex3 manuscript. No figures, U. of MD PP #94--086. With
+  our apologies, some innocuous errors corrected and some references added that
+  had been brought to our attention","Phys.Rev.D50:21-25,1994","10.1103/PhysRevD.50.R21",,"hep-ph",,"  A new method to extract $|V_{\rm bc}|$ is proposed based on a sum--rule for
+semileptonic decays of the $B$ meson. The method relies on much weaker
+assumptions than previous approaches which are based on heavy--quark symmetry.
+This sum--rule only relies on the assumption that the virtual $c \overline{c}$
+pair content of the $B$ meson can be neglected. The extraction of the CKM
+matrix element also requires that the sum--rule saturates in the kinematically
+accessible region.
+","[{""version"":""v1"",""created"":""Tue, 8 Feb 1994 17:08:58 GMT""},{""version"":""v2"",""created"":""Wed, 16 Feb 1994 21:32:05 GMT""}]","2010-11-01"
+"hep-ph/9402250","Klaus Steininger","K. Steininger and W. Weise","Note on Strange Quarks in the Nucleon","12 pages, latex style. One figure, available from the author upon
+  request. University of Regensburg TPR-94-04","Phys.Lett. B329 (1994) 169-174","10.1016/0370-2693(94)90755-2",,"hep-ph",,"  Scalar matrix elements involving strange quarks are studied in several
+models. Apart from a critical reexamination of results obtained in the Nambu
+and Jona-Lasinio model we study a scenario, motivated by instanton physics,
+where spontaneous chiral symmetry breaking is induced by the flavor-mixing 't
+Hooft interaction only. We also investigate possible contributions of virtual
+kaon loops to the strangeness content of the nucleon.
+","[{""version"":""v1"",""created"":""Tue, 8 Feb 1994 18:30:21 GMT""},{""version"":""v2"",""created"":""Thu, 7 Apr 1994 17:30:34 GMT""}]","2009-10-28"
+"hep-ph/9402251","Anthony W. Ackley","A. W. Ackley, P. H. Frampton, B. Kayser, and C. N. Leung","Outcome from Spontaneous CP Violation for B Decays","REVTEX, 9 pages, IFP-486-UNC, NSF-PT-94-1, and UDHEP-01-94","Phys.Rev.D50:3560-3563,1994","10.1103/PhysRevD.50.3560",,"hep-ph",,"  In the aspon model solution of the strong $CP$ problem, there is a gauged
+$U(1)$ symmetry, spontaneously broken by the same vacuum expectation value
+which breaks $CP$, whose massive gauge boson provides an additional mechanism
+of weak $CP$ violation. We calculate the $CP$ asymmetries in $B$ decays for the
+aspon model and show that they are typically smaller than those predicted from
+the standard model. A linear relation between the $CP$ asymmetries of different
+decay processes is obtained.
+","[{""version"":""v1"",""created"":""Tue, 8 Feb 1994 20:09:58 GMT""}]","2008-11-26"
+"hep-ph/9402252","Michael Dine","Michael Dine","Electroweak Baryogenesis: A Status Report","10 pages, SCIPP 94/03. tex using latest version of phyzzx (2/94),
+  available from the archive","Nucl.Phys.Proc.Suppl.37A:127-136,1994","10.1016/0920-5632(94)90742-0",,"hep-ph",,"  There are many reasons to believe that there might be new sources of
+CP-violation beyond the phases of the KM matrix. One of these is the
+possibility of electroweak baryogenesis. We describe some recent developments
+in this subject and make some comments on the possibility that the minimal
+standard model might itself be the origin of the baryon asymmetry. To appear in
+the Proceedings of the Third KEK Topical Conference on CP Violation, its
+Implications to Particle Physics and Cosmology, 16--18 November, 1993.
+","[{""version"":""v1"",""created"":""Tue, 8 Feb 1994 21:43:40 GMT""},{""version"":""v2"",""created"":""Wed, 9 Feb 1994 19:15:42 GMT""}]","2015-06-25"
+"hep-ph/9402253",,"M. Carena, S. Pokorski, M. Olechowski and C.E.M. Wagner","Electroweak Symmetry Breaking and Bottom-Top Yukawa Unification","33 pages, 10 figures (not included) CERN-TH.7163/94","Nucl.Phys.B426:269-300,1994","10.1016/0550-3213(94)90313-1",,"hep-ph",,"  The condition of unification of gauge couplings in the minimal supersymmetric
+standard model provides successful predictions for the weak mixing angle as a
+function of the strong gauge coupling and the supersymmetric threshold scale.
+In addition, in some scenarios, e.g.\ in the minimal SO(10) model, the tau
+lepton and the bottom and top quark Yukawa couplings unify at the grand
+unification scale. The condition of Yukawa unification leads naturally to large
+values of $\tan\beta$, implying a proper top quark--bottom quark mass
+hierarchy. In this work, we investigate the feasibility of unification of the
+Yukawa couplings, in the framework of the minimal supersymmetric standard model
+with (assumed) universal mass parameters at the unification scale and with
+radiative breaking of the electroweak symmetry. We show that strong
+correlations between the parameters $\mu_0$ and $M_{1/2}$ appear within this
+scheme. These correlations have relevant implications for the sparticle
+spectrum, which presents several characteristic features. In addition, we show
+that due to large corrections to the running bottom quark mass induced through
+the supersymmetry breaking sector of the theory, the predicted top quark mass
+and $\tan\beta$ values are significantly lower than those previously estimated
+in the literature.
+","[{""version"":""v1"",""created"":""Wed, 9 Feb 1994 03:47:36 GMT""}]","2009-09-25"
+"hep-ph/9402254","Hitoshi Murayama","Yoshiharu Kawamura (Shinshu U.), Hitoshi Murayama (LBL) and Masahiro
+  Yamaguchi (Tohoku U.)","Probing Symmetry-Breaking Pattern Using Sfermion Masses","LaTeX file, 11 pages, 5 PostScript figures, appended in uuencoded
+  format. Tohoku University preprint TU-439, June 1993, final version accepted
+  for publication in Phys. Lett. B","Phys.Lett.B324:52-58,1994","10.1016/0370-2693(94)00107-3",,"hep-ph",,"  We study the mass spectrum of superparticles within supersymmetric grand
+unified models. For gaugino masses, it is pointed out that the GUT-relation in
+the $SU(5)$ model is applicable to a more general case where a grand-unified
+gauge group breaks down to the standard model gauge group by several steps. We
+also show that the mass spectrum of squarks and sleptons carries the
+information on the breaking pattern of the gauge symmetry. It is demonstrated
+in some $SO(10)$ models how the scalar mass spectrum distinguishes various
+$SO(10)$ breaking patterns from each other.
+","[{""version"":""v1"",""created"":""Wed, 9 Feb 1994 05:18:00 GMT""}]","2009-09-29"
+"hep-ph/9402255","Hitoshi Murayama","Hitoshi Murayama (LBL)","Looking up at the GUT/Planck World","LaTeX file, 14 pages, 5 encapsulated PostScript figures, appended in
+  uuencoded format, included into the document using Psfig. Contribution to
+  Proceedings of the ICEPP Symposium ``From LEP to the Planck World'', UT-ICEPP
+  93-12 Tohoku University preprint TU-451",,,,"hep-ph",,"  The importance of the mass spectroscopy of the superparticles is emphasized.
+It will be shown that the gauge coupling constants give us information on the
+GUT-scale mass spectrum once the superparticle masses are known. The gaugino
+masses will provide us a model-independent test of the grand unification
+irrespective of the symmetry breaking pattern. The sfermion masses carry the
+information on the intermediate symmetries, if present. Combining the mass
+spectrum, we will be able to distinguish among the GUT models, and hopefully
+supergravity models also.
+","[{""version"":""v1"",""created"":""Wed, 9 Feb 1994 05:18:25 GMT""}]","2009-09-25"
+"hep-th/9402044","Nathan Seiberg","Nathan Seiberg","Exact Results on the Space of Vacua of Four Dimensional SUSY Gauge
+  Theories","19 pages, RU-94-18","Phys.Rev.D49:6857-6863,1994","10.1103/PhysRevD.49.6857",,"hep-th hep-ph",,"  We consider four dimensional quantum field theories which have a continuous
+manifold of inequivalent exact ground states -- a moduli space of vacua.
+Classically, the singular points on the moduli space are associated with extra
+massless particles. Quantum mechanically these singularities can be smoothed
+out. Alternatively, new massless states appear there. These may be the
+elementary massless particles or new massless bound states.
+","[{""version"":""v1"",""created"":""Tue, 8 Feb 1994 19:34:40 GMT""}]","2009-09-15"
+"hep-th/9402045","Paul Fendley","P. Fendley and H. Saleur","Deriving Boundary S Matrices","13 pages, USC-94-001","Nucl.Phys. B428 (1994) 681-693","10.1016/0550-3213(94)90369-7",,"hep-th",,"  We show how to derive exact boundary $S$ matrices for integrable quantum
+field theories in 1+1 dimensions using lattice regularization. We do this
+calculation explicitly for the sine-Gordon model with fixed boundary conditions
+using the Bethe ansatz for an XXZ-type spin chain in a boundary magnetic field.
+Our results agree with recent conjectures of Ghoshal and Zamolodchikov, and
+indicate that the only solutions to the Bethe equations which contribute to the
+scaling limit are the standard strings.
+","[{""version"":""v1"",""created"":""Wed, 9 Feb 1994 02:40:42 GMT""}]","2009-10-28"
+"hep-th/9402046",,"Giovanni Landi, Nguyen Ai Viet, Kameshwar C.Wali","Gravity and Electromagnetism in Noncommutative Geometry","1 + 11 pages, Report # SU-4240-566, Few misprints have been corrected","Phys.Lett. B326 (1994) 45-50","10.1016/0370-2693(94)91190-8",,"hep-th gr-qc",,"  We present a unified description of gravity and electromagnetism in the
+framework of a $Z_2$ noncommutative differential calculus. It can be considered
+as a ``discrete version"" of Kaluza-Klein theory, where the fifth continuous
+dimension is replaced by two discrete points. We derive an action which
+coincides with the dimensionally reduced one of the ordinary Kaluza-Klein
+theory.
+","[{""version"":""v1"",""created"":""Tue, 8 Feb 1994 20:09:39 GMT""},{""version"":""v2"",""created"":""Sat, 26 Feb 1994 02:22:58 GMT""}]","2009-10-28"
+"hep-th/9402047","Okumura Yoshitaka","Yoshitaka Okumura","Gauge theory and Higgs mechanism based on differential geometry on
+  discrete space M4 * ZN","32 pages, CHU9401","Phys.Rev. D50 (1994) 1026-1039","10.1103/PhysRevD.50.1026",,"hep-th",,"  Weinberg-Salam theory and $SU(5)$ grand unified theory are reconstructed
+using the generalized differential calculus extended on the discrete space
+$M_4\times Z_{\mathop{}_{N}}$. Our starting point is the generalized gauge
+field expressed by $A(x,n)=\!\sum_{i}a^\dagger_{i}(x,n){\bf d}a_i(x,n),
+(n=1,2,\cdots N)$, where $a_i(x,n)$ is the square matrix valued function
+defined on $M_4\times Z_{\mathop{}_{N}}$ and ${\bf
+d}=d+\sum_{m=1}^{\mathop{}_{N}}d_{\chi_m}$ is generalized exterior derivative.
+We can construct the consistent algebra of $d_{\chi_m}$ which is exterior
+derivative with respect to $Z_{\mathop{}_{N}}$ and the spontaneous breakdown of
+gauge symmetry is coded in ${d_{\chi_m}}$. The unified picture of the gauge
+field and Higgs field as the generalized connection in non-commutative geometry
+is realized. Not only Yang-Mills-Higgs lagrangian but also Dirac lagrangian,
+invariant against the gauge transformation, are reproduced through the inner
+product between the differential forms. Three sheets ($Z_3)$ are necessary for
+Weinberg-Salam theory including strong interaction and $SU(5)$ Gut. Our
+formalism is applicable to more realistic model like $SO(10)$ unification
+model.
+","[{""version"":""v1"",""created"":""Wed, 9 Feb 1994 04:58:42 GMT""}]","2009-10-28"
+"hep-th/9402048","Okumura Yoshitaka","Yoshitaka Okumura","Standard Model in Differential Geometry on Discrete Space M4*Z3","27 pages, CHU9402","Prog.Theor.Phys. 92 (1994) 625-644","10.1143/PTP.92.625",,"hep-th",,"  Standard model is reconstructed using the generalized differential calculus
+extended on the discrete space $M_4\times Z_3$. $Z_3$ is necessary for the
+inclusion of strong interaction. Our starting point is the generalized gauge
+field expressed as $A(x,y)=\!\sum_{i}a^\dagger_{i}(x,y){\bf d}a_i(x,y),
+(y=0,\pm)$, where $a_i(x,y)$ is the square matrix valued function defined on
+$M_4\times Z_3$ and ${\bf d}=d+{\chi}$ is generalized exterior derivative. We
+can construct the consistent algebra of $d_{\chi}$ with the introduction of the
+symmetry breaking function $M(y)$ and the spontaneous breakdown of gauge
+symmetry is coded in ${d_{\chi}}$.
+  The gauge field $A_\mu(x,y)$ and Higgs field $\Phi(x,y)$ are written in terms
+of $a_i(x,y)$ and $M(y)$, which might suggest $a_i(x,y)$ to be more fundamental
+object. The unified picture of the gauge field and Higgs field as the
+generalized connection in non-commutative geometry is realized. Not only
+Yang-Mills-Higgs lagrangian but also Dirac lagrangian, invariant against the
+gauge transformation, are reproduced through the inner product between the
+differential forms. Two model constructions are presented, which are
+distinguished in the particle assignment of Higgs field $\Phi(x,y)$.
+","[{""version"":""v1"",""created"":""Wed, 9 Feb 1994 05:23:16 GMT""}]","2009-10-28"
+"hep-th/9402050","Jun Nishimura","Jun Nishimura, Shinya Tamura and Asato Tsuchiya","Scaling Dimensions of Manifestly Generally Covariant Operators in
+  Two-Dimensional Quantum Gravity","20 pages, UT-664, ICRR-Report-306-94-1, UT-Komaba/94-2,
+  (Interpretation of the results has been changed.)","Int.J.Mod.Phys. A10 (1995) 859-874","10.1142/S0217751X95000425",,"hep-th",,"  Using (2+$\epsilon$)-dimensional quantum gravity recently formulated by
+Kawai, Kitazawa and Ninomiya, we calculate the scaling dimensions of manifestly
+generally covariant operators in two-dimensional quantum gravity coupled to
+$(p,q)$ minimal conformal matter. Although the spectrum includes all the
+scaling dimensions of the scaling operators in the matrix model except the
+boundary operators, there are also many others which do not appear in the
+matrix model. We argue that the partial agreement of the scaling dimensions
+should be considered as accidental and that the operators considered give a new
+series of operators in two-dimensional quantum gravity.
+","[{""version"":""v1"",""created"":""Wed, 9 Feb 1994 11:32:44 GMT""},{""version"":""v2"",""created"":""Tue, 30 Aug 1994 03:44:30 GMT""}]","2009-10-28"
+"hep-th/9402051","Schwiebert","C. Schwiebert","Extended reflection equation algebras, the braid group on a handlebody
+  and associated link polynomials","26 pages, 10 figures","J.Math.Phys. 35 (1994) 5288-5305","10.1063/1.530751","RIMS 965","hep-th math.QA",,"  The correspondence of the braid group on a handlebody of arbitrary genus to
+the algebra of Yang-Baxter and extended reflection equation operators is shown.
+Representations of the infinite dimensional extended reflection equation
+algebra in terms of direct products of quantum algebra generators are derived,
+they lead to a representation of this braid group in terms of $R$-matrices.
+Restriction to the reflection equation operators only gives the coloured braid
+group. The reflection equation operators, describing the effect of handles
+attached to a 3-ball, satisfy characteristic equations which give rise to
+additional skein relations and thereby invariants of links on handlebodies. The
+origin of the skein relations is explained and they are derived from an
+adequately adapted handlebody version of the Jones polynomial. Relevance of
+these results to the construction of link polynomials on closed 3-manifolds via
+Heegard splitting and surgery is indicated.
+","[{""version"":""v1"",""created"":""Wed, 9 Feb 1994 12:12:21 GMT""}]","2009-10-28"
+"hep-th/9402052","Bergfinnur Durhuus","B. Durhuus","Multi-spin systems on a randomly triangulated surface","27 pages, KUMI/94/2 (4 figures obtainable upon request)","Nucl.Phys. B426 (1994) 203-222","10.1016/0550-3213(94)90132-5",,"hep-th",,"  We consider a class of spin systems on randomly triangulated surfaces as
+discrete approximations to conformal matter fields coupled to 2d gravity. On
+the basis of certain universality assumptions we argue that at critical points
+with diverging string susceptibility the model either exhibits mean field
+behaviour or it can effectively be described by a conformal matter system with
+central charge less than or equal to 1 coupled to 2d gravity. As a particular
+consequence we conclude in the unitary case that the string susceptibility
+exponent is limited to possible values of the form 1/n, n=2,3,4,..., where n=2
+corresponds to mean field behaviour.
+","[{""version"":""v1"",""created"":""Wed, 9 Feb 1994 13:30:05 GMT""}]","2009-10-28"
+"hep-th/9402053",,"H.J. de Vega, Luca Mezincescu and Rafael I. Nepomechie","Scalar Kinks","17 pages, no figures, plain TEX, LPTHE-PAR 94-04, UMTG-174","Int.J.Mod.Phys. B8 (1994) 3473-3485","10.1142/S0217979294001469",,"hep-th cond-mat",,"  We determine the excitations and $S$ matrix of an integrable isotropic
+antiferromagnetic quantum spin chain of alternating spin 1/2 and spin 1. There
+are two types of gapless one-particle excitations: the usual spin 1/2
+(``spinor'') kink, and a new spin 0 (``scalar'') kink. Remarkably, the
+scalar-spinor scattering is nontrivial, yet the spinor-spinor scattering is the
+same as if the scalar kinks were absent. Moreover, there is no scalar-scalar
+scattering.
+","[{""version"":""v1"",""created"":""Wed, 9 Feb 1994 15:14:57 GMT""}]","2015-06-26"
+"hep-th/9402059","Denis Dalmazi","D.Dalmazi and A.de Souza Dutra","Comment on ``Anyon in an External Eletromagnetic Field: Hamiltonian and
+  Lagrangian Formulations''","2 pages",,,,"hep-th",,"  We comment on a recent paper by Chaichian et al. (Phys.Rev.Lett.
+71(1993)3405).
+","[{""version"":""v1"",""created"":""Wed, 9 Feb 1994 10:03:28 GMT""}]","2007-05-23"
+"nucl-th/9402014","K. Kubodera","Hiroyuki Yabu, F. Myhrer, and K. Kubodera","Meson Condensation in Dense Matter Revisited","10pages, USC(NT)-94-1","Phys.Rev. D50 (1994) 3549-3552","10.1103/PhysRevD.50.3549",,"nucl-th",,"  The results for meson condensation in the literature vary markedly depending
+on whether one uses chiral perturbation theory or the current-algebra-plus-PCAC
+approach. To elucidate the origin of this discrepancy, we re-examine the role
+of the sigma-term in meson condensation. We find that the resolution of the
+existing discrepancy requires a knowledge of terms in the Lagrangian that are
+higher order in density than hitherto considered.
+","[{""version"":""v1"",""created"":""Tue, 8 Feb 1994 20:51:10 GMT""},{""version"":""v2"",""created"":""Wed, 9 Feb 1994 22:16:44 GMT""}]","2009-10-28"

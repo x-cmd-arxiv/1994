@@ -1,0 +1,306 @@
+"astro-ph/9406029","P. Monaco","Pierluigi Monaco","The Mass Function of Cosmic Structures with Non-Spherical Collapse","16 pages+5 figures, uuencoded postscript file, submitted to ApJ","Astrophys.J.447:23,1995","10.1086/175853",,"astro-ph",,"  Non-spherical dynamical approximations and models for the gravitational
+collapse are used to extend the well-known Press \& Schechter (PS) approach, in
+order to determine analytical expressions for the mass function of cosmic
+structures. The problem is rigorously set up by considering the intrinsic
+Lagrangian nature of the mass function. The Lagrangian equations of motion of a
+cold and irrotational fluid in single-stream regime show that the shear, which
+is non-locally determined by all the matter field, is the quantity which
+characterizes non-spherical perturbations. The Zel'dovich approximation, being
+a self-consistent first-order Lagrangian and local one, is used as a suitable
+guide to develop realistic estimates of the collapse time of a mass clump,
+starting from the local initial values of density and shear. Both
+Zel'dovich-based \an\ and models and the homogeneous ellipsoidal model predict
+that more large-mass objects are expected to form than the usual PS relation.
+In particular, the homogeneous ellipsoid model is consistent at large masses
+with a Press \& Schechter mass function with a lower value of the \dc\
+parameter, in the range 1.4$\div$1.6. This gives a dynamical explanation of why
+lower \dc\ values have been found to fit the results of several N-body
+simulations. When more small-scale structure is present, highly non-linear
+dynamical effects can effectively slow down the collapse rate of a
+perturbation, increasing the effective value of \dc. This may have interesting
+consequences on the abundance of large-mass high-redshift objects.
+","[{""version"":""v1"",""created"":""Thu, 9 Jun 1994 17:41:37 GMT""}]","2009-09-25"
+"astro-ph/9406030","Avi Loeb","Abraham Loeb and Shude Mao","Evidence from Gravitational Lensing for a Non-Thermal Pressure Support
+  in the Cluster of Galaxies A2218","12 pages, Postcript file",,"10.1086/187606",,"astro-ph",,"  The central mass distribution of clusters of galaxies can be inferred from
+gravitationally lensed arcs with known redshifts. For the Abell cluster 2218,
+this method yields a core mass which is larger by a factor of $2.5 \pm 0.5$
+than the value deduced from X-ray observations, under the assumptions that the
+gas is supported by thermal pressure and that the cluster is spherical. We show
+that a non-thermal pressure support is the most plausible explanation for this
+discrepancy. Such a pressure can be naturally provided by strong turbulence and
+equipartition magnetic fields ($\sim 50\mu$G) that are tangled on small spatial
+scales (<10 kpc). The turbulent and magnetic pressures do not affect the
+measured Sunyaev-Zel'dovich effect for this cluster. Intracluster magnetic
+fields with a comparable magnitude ($\sim 10^{1-2} \mu$G) have already been
+detected by Faraday rotation in other clusters. If generic, a small-scale
+equipartition magnetic field should affect the structure of cooling flows and
+must be included in X-ray determinations of cluster masses.
+","[{""version"":""v1"",""created"":""Thu, 9 Jun 1994 18:45:03 GMT""}]","2009-10-22"
+"cmp-lg/9406019","Monika Klar","Rolf Backofen, Gert Smolka","A Complete and Recursive Feature Theory","Short version appeared in the 1992 Annual Meeting of the Association
+  for Computational Linguistics",,,"RR-92-30","cmp-lg cs.CL",,"  Various feature descriptions are being employed in logic programming
+languages and constrained-based grammar formalisms. The common notational
+primitive of these descriptions are functional attributes called features. The
+descriptions considered in this paper are the possibly quantified first-order
+formulae obtained from a signature of binary and unary predicates called
+features and sorts, respectively. We establish a first-order theory FT by means
+of three axiom schemes, show its completeness, and construct three elementarily
+equivalent models. One of the models consists of so-called feature graphs, a
+data structure common in computational linguistics. The other two models
+consist of so-called feature trees, a record-like data structure generalizing
+the trees corresponding to first-order terms. Our completeness proof exhibits a
+terminating simplification system deciding validity and satisfiability of
+possibly quantified feature descriptions.
+","[{""version"":""v1"",""created"":""Fri, 10 Jun 1994 09:17:05 GMT""},{""version"":""v2"",""created"":""Mon, 13 Jun 1994 10:43:11 GMT""},{""version"":""v3"",""created"":""Fri, 17 Jun 1994 11:51:36 GMT""}]","2008-02-03"
+"cond-mat/9406047",,"I. Peschel, V. Rittenberg and U. Schultze","Spectra of Quantum Chains without the Yang-Baxter Equation","30 pages, LaTeX, preprint Bonn HE-94-09 (small LaTeX problems fixed)",,"10.1016/0550-3213(94)90163-5",,"cond-mat hep-th",,"  We study one-dimensional reaction-diffusion models described by master
+equations and their associated two-state quantum Hamiltonians. By choosing
+appropriate rates, the equations of motion decouple into certain subsets. We
+solve the first subset which has a close relation to the problem of lattice
+electrons in an electric field. In this way we obtain $L (L - 1) + 1$ energy
+levels of a quantum chain with $L$ sites. The corresponding Hamiltonian depends
+on 7 parameters and does not look integrable using conventional methods. As an
+application, we compute the dynamical critical exponent of a new type of
+kinetic Ising model.
+","[{""version"":""v1"",""created"":""Fri, 10 Jun 1994 11:24:51 GMT""},{""version"":""v2"",""created"":""Mon, 13 Jun 1994 16:41:33 GMT""}]","2009-10-22"
+"gr-qc/9406017","Haret Rosu","H.C. Rosu","S^1 \times S^2 as a bag membrane and its Einstein-Weyl geometry","9pp in latex, minor corrections","Nuovo Cim.A107:1543-1548,1994","10.1007/BF02780688",,"gr-qc",,"  In the hybrid skyrmion in which an Anti-de Sitter bag is imbedded into the
+skyrmion configuration a S^{1}\times S^{2} membrane is lying on the
+compactified spatial infinity of the bag [H. Rosu, Nuovo Cimento B 108, 313
+(1993)]. The connection between the quark degrees of freedom and the mesonic
+ones is made through the membrane, in a way that should still be clarified from
+the standpoint of general relativity and topology. The S^1 \times S^2 membrane
+as a 3-dimensional manifold is at the same time a Weyl-Einstein space. We make
+here an excursion through the mathematical body of knowledge in the
+differential geometry and topology of these spaces which is expected to be
+useful for hadronic membranes
+","[{""version"":""v1"",""created"":""Thu, 9 Jun 1994 17:38:00 GMT""},{""version"":""v2"",""created"":""Sun, 26 Oct 1997 02:13:03 GMT""}]","2011-07-19"
+"hep-ph/9406267","Felix Schlumpf","Felix Schlumpf","Charge form factors of pseudoscalar mesons","18 pages, ReVTeX, 6 figures included, SLAC-PUB-6483","Phys.Rev.D50:6895-6898,1994","10.1103/PhysRevD.50.6895",,"hep-ph",,"  The elastic charge form factors of the pion, kaon, D- and B-mesons are
+calculated within a relativistic constituent quark model formulated on the
+light-cone. Our parameter free predictions agree well with the available data.
+The results are approximately independent of the assumed form of the light-cone
+wave function, in particular they do not depend on the high momentum tail of
+the wave function for energies accessible to present experiments.
+","[{""version"":""v1"",""created"":""Thu, 9 Jun 1994 20:07:28 GMT""}]","2011-04-15"
+"hep-ph/9406268","Mikko Laine","M.Laine","The 2-Loop Effective Potential of the 3d SU(2)-Higgs Model in a General
+  Covariant Gauge","7 LaTeX-pages with 4 ps-figures appended at the end, preprint
+  HU-TFT-94-20","Phys.Lett.B335:173-178,1994","10.1016/0370-2693(94)91409-5",,"hep-ph",,"  To study the convergence of the loop expansion at the high-temperature
+electroweak phase transition, we calculate the 2-loop effective potential of
+the 3d SU(2)-Higgs model in a general covariant gauge. We find that the loop
+expansion definitely breaks down for large $\xi$, but converges rather well for
+smaller values, deep in the broken phase.
+","[{""version"":""v1"",""created"":""Thu, 9 Jun 1994 21:00:38 GMT""}]","2010-11-01"
+"hep-ph/9406269","Geoffrey B. West","A. Calogeracos, Norman Dombey, Geoffrey B. West","Deep Inelastic Electropion Production","23 pages, harvmac, 9 figures included, LA-UR-93-1153",,,,"hep-ph hep-ex nucl-th",,"  This paper is devoted to a study of possible scaling laws, and their
+logarithmic corrections, occurring in deep inelastic electropion production.
+Both the exclusive and semi-exclusive processes are considered. Scaling laws,
+originally motivated from PCAC and current algebra considerations are examined,
+first in the framework of the parton model and QCD peturbation theory and then
+from the more formal perspective of the operator product expansion and
+asymptotic freedom, (as expressed through the renormalization group). We
+emphasize that these processes allow scaling to be probed for the full
+amplitude rather than just its absorbtive part (as is the case in the
+conventional structure functions). Because of this it is not possible to give a
+formal derivation of scaling for deep inelastic electropion production
+processes even if one believes that they are unambiguously sensitive to the
+light cone behavior of the operator product. The origin of this is shown to be
+related to its behavior near $x\approx 0$. Investigations, both theoretical and
+experimental, of these processes is therefore strongly encouraged.
+","[{""version"":""v1"",""created"":""Thu, 9 Jun 1994 21:15:45 GMT""}]","2007-05-23"
+"hep-ph/9406270","Neil Turok","Salim Nasser and Neil Turok","Z Condensation and Standard Model Baryogenesis","4 pages, PUPT-94-1456. Revised version 6/10/94 (with minor
+  modifications to the Figures)",,,,"hep-ph astro-ph",,"  The standard model satisfies Sakharov's conditions for baryogenesis but the
+CP violation in the KM matrix appears too small to account for the observed
+asymmetry. In this letter we explore a mechanism through which CP violation can
+be greatly amplified.
+  First CP is {\it spontaneously} broken through dynamical effects on bubble
+walls, and the two CP conjugate phases grow through phase ordering. Direct
+competition between macroscopic regions of both phases then amplifies the
+microscopic CP violation to a point where one of the two phases predominates.
+This Letter is devoted to a demonstration that spontaneous CP violation may
+indeed occur on propagating bubble walls via the formation of a condensate of
+the longitudinal $Z$ boson.
+","[{""version"":""v1"",""created"":""Thu, 9 Jun 1994 23:16:40 GMT""},{""version"":""v2"",""created"":""Fri, 10 Jun 1994 19:30:53 GMT""}]","2008-02-03"
+"hep-ph/9406271","Shoji Hashimoto","Shoji Hashimoto, Jiro Kodaira, Yoshiaki Yasui and Ken Sasaki","The Background Field Method: Alternative Way of Deriving the Pinch
+  Technique's Results","32 pages in LaTeX including 8 figures using epsf.sty,
+  uuencoded-compressed-tar format","Phys.Rev. D50 (1994) 7066-7076","10.1103/PhysRevD.50.7066","HUPD-9408, YNU-HEPTh-94-104","hep-ph",,"  We show that the background field method (BFM) is a simple way of deriving
+the same gauge-invariant results which are obtained by the pinch technique
+(PT). For illustration we construct gauge-invariant self-energy and three-point
+vertices for gluons at one-loop level by BFM and demonstrate that we get the
+same results which were derived via PT. We also calculate the four-gluon vertex
+in BFM and show that this vertex obeys the same Ward identity that was found
+with PT.}
+","[{""version"":""v1"",""created"":""Fri, 10 Jun 1994 06:32:23 GMT""}]","2009-10-28"
+"hep-ph/9406272","Andrzej J. Buras","A.J. Buras","CP Violation: Present and Future","26 Pages, MPI-PhT/94-30, TUM-T31-64/94, Latex file, figures not
+  included",,,,"hep-ph",,"  We review the present status of CP violation in the standard model.
+Subsequently we make an excursion in the future in order to see what we could
+expect in this field in this and the next decade. We present various strategies
+for the determination of the CKM parameters and divide the decays into four
+classes with respect to theoretical uncertainties. We emphasize that the
+definitive tests of the Kobayashi-Maskawa picture of CP violation will come
+through a {\it simultaneous} study of CP asymmetries in $B_{d,s}^o$ decays, the
+rare decays $K^+ \to \pi^+\nu \bar\nu$ and $K_L \to \pi^o\nu\bar\nu$, and
+$x_d/x_s$. We illustrate how the measurements of the CP asymmetries in
+$B^0_{d,s}$-decays together with a measurement of $Br(K_L\to
+\pi^\circ\nu\bar\nu)$ or $Br(\kpnn)$ and the known value of $\mid V_{us}\mid $
+can determine {\it all} elements of the Cabibbo-Kobayashi-Maskawa matrix
+essentially without any hadronic uncertainties.
+","[{""version"":""v1"",""created"":""Fri, 10 Jun 1994 07:48:05 GMT""}]","2009-09-25"
+"hep-ph/9406273","Arnd Leike","D. Bardin, A. Leike, T. Riemann","Semi-Analytical Approach to Higgs Production at LEP 2","6 latex pages; 3 figures, feinman.sty and nuclphys.sty included as
+  uuencoded file, CERN-TH.703/94, LMU 08/94","Nucl.Phys.Proc.Suppl.37B:274-278,1994","10.1016/0920-5632(94)90684-X",,"hep-ph",,"  The cross-section for the reaction $e^+e^- \rightarrow b\bar{b}\mu^+\mu^-$ is
+calculated with a semi-analytical integration of the phase space. Compact
+formulae are obtained for the total cross section and for invariant mass
+distributions of the $\mu^+\mu^-$ and $b\bar{b}$ pairs. The background diagrams
+to $ZH$ production yield analytically cumbersome but numerically small
+contributions. The numerical results are compared with those from a Monte Carlo
+approach.
+","[{""version"":""v1"",""created"":""Fri, 10 Jun 1994 09:50:07 GMT""}]","2011-01-25"
+"hep-ph/9406274","Dirk Graudenz","Dirk Graudenz","One-Particle Inclusive Processes in Deeply Inelastic Lepton-Nucleon
+  Scattering","20 pages (LaTex) + 4 pages of figures appended in the end of the file
+  as a uuencoded postscript file, CERN-TH.7300/94","Nucl.Phys. B432 (1994) 351-376","10.1016/0550-3213(94)90606-8",,"hep-ph",,"  The one-particle inclusive cross section in deeply inelastic lepton--nucleon
+scattering, expressed in terms of parton densities and fragmentation functions
+being differential in the invariant mass of the observed hadron and of the
+incoming nucleon, diverges if this invariant mass vanishes. This divergence can
+be traced back to the kinematical configuration where the parent parton of the
+observed hadron is emitted collinearly from the incoming parton of the QCD
+subprocess. By using the concept of ``fracture functions'', which has recently
+been introduced by Trentadue and Veneziano, it is possible to absorb this
+divergence in these new distribution functions as long as the observed hadron
+is not soft. This procedure allows the determination of a finite one-particle
+inclusive cross section in next-to-leading order QCD perturbation theory. We
+give details of the calculation and the explicit form of the bare fracture
+functions in terms of the renormalized ones.
+","[{""version"":""v1"",""created"":""Fri, 10 Jun 1994 10:03:58 GMT""}]","2009-10-28"
+"hep-ph/9406275","Thomas Gasenzer","E.V. Prokhvatilov, H.W.L. Naus and H.--J. Pirner","Effective light front quantization of scalar field theories and
+  two-dimensional electrodynamics","15 pages; LaTeX; local no. HD-TVP-94-7","Phys.Rev. D51 (1995) 2933-2942","10.1103/PhysRevD.51.2933",,"hep-ph",,"  We introduce a new method to include condensates in the light-cone
+Hamiltonian. By using a Gaussian approximation to the ordinary vacuum in a
+theory close to the light front, we derive an effective Hamiltonian on the
+light cone, which has new terms reflecting the nontriviality of the vacuum. We
+demonstrate our method for scalar $\phi^4$-theory and the massive Schwinger
+model.
+","[{""version"":""v1"",""created"":""Fri, 10 Jun 1994 11:47:27 GMT""}]","2009-10-28"
+"hep-ph/9406276","Stephen Man Hoe Wong","S. Peign\'e and S.M.H. Wong","Non-Debye Screening in Finite Temperature QCD","LPTHE-Orsay 94/46.12 pages (latex), (Due to the appearance of more
+  recent related works, we changed our conclusion somewhat.)","Phys.Lett. B346 (1995) 322-328","10.1016/0370-2693(95)00020-L",,"hep-ph",,"  We study the non-abelian, gauge invariant, screening potential between two
+charges in a quark-gluon plasma. Using Braaten and Pisarski resummed
+perturbation theory in temporal axial gauge, we find a repulsive power screened
+potential which behaves as $\sim 1/r^6$ at large distance. This questions
+either the physical meaning of the Debye mass or the known pragmatic treatment
+of the temporal axial gauge propagator.
+","[{""version"":""v1"",""created"":""Fri, 10 Jun 1994 14:11:38 GMT""},{""version"":""v2"",""created"":""Mon, 13 Jun 1994 21:42:58 GMT""},{""version"":""v3"",""created"":""Tue, 14 Jun 1994 14:01:50 GMT""},{""version"":""v4"",""created"":""Mon, 21 Nov 1994 19:52:49 GMT""}]","2009-10-28"
+"hep-ph/9406277","Edmond Iancu","Edmond Iancu","QCD Transport Theory","8 pages LaTex, preprint Saclay T94/068, Invited talk given at the 5th
+  Conference on the Intersections of Particle and Nuclear Physics, May 31 --
+  June 6, 1994, St. Petersburg, Florida",,"10.1063/1.48433",,"hep-ph",,"  Because of the long range of the gauge interactions, the collective behaviour
+of quarks and gluons plays a decisive role in the transport processes.
+Collective effects, like Debye screening and Landau damping, remove the
+unphysical infrared divergences of the transport cross-sections and provide
+finite relaxation rates. I review here a theory of the plasma collective
+excitations that has been recently developed. It is based on kinetic equations
+derived from the general QCD Dyson-Schwinger equations, in the weak coupling
+limit. I present new, truly non-abelian, collective excitations, which
+correspond to nonlinear color oscillations of the QCD plasma.
+","[{""version"":""v1"",""created"":""Fri, 10 Jun 1994 12:29:37 GMT""}]","2009-10-28"
+"hep-ph/9406278","Steve Godfrey","Stephen Godfrey","Issues in Light Meson Spectroscopy: The Case for Meson Spectroscopy at
+  Cebaf","24 pages, uses worldsci.sty, figures available by fax after July 4
+  1994, OCIP/C 94-5",,,,"hep-ph nucl-th",,"  I review some outstanding issues in meson spectroscopy. The most important
+qualitative issue is whether hadrons with explicit gluonic degrees of freedom
+exist. To answer this question requires a much better understanding of
+conventional $q\bar{q}$ mesons. I therefore begin by examining the status of
+conventional meson spectroscopy and how the situation can be improved. The
+expected properties of gluonic excitations are discussed with particular
+emphasis on hybrids to give guidance to experimental searches. Multiquark
+systems are commented upon as they are likely to be important in the mass
+region under study and will have to be understood better. In the final section
+I discuss the opportunities that CEBAF can offer for the study of meson
+spectroscopy.
+","[{""version"":""v1"",""created"":""Fri, 10 Jun 1994 12:56:56 GMT""}]","2009-09-25"
+"hep-ph/9406279","Rey Soo Jong","Junegone CHAY and Soo-Jong REY","Instanton Contribution to $B \rightarrow X_{s} \gamma $ Decay","REVTEX, 15 pages + 3 postscript figures appended, SNUTP 94-54","Z.Phys. C68 (1995) 425-430","10.1007/BF01620716",,"hep-ph",,"  We study instanton effects on $B \rightarrow X_s\gamma$ decay using the heavy
+quark effective field theory and the operator product expansion. In the dilute
+gas approximation the effect is negligibly small. This is in contrast to the
+result of the instanton effect in inclusive semileptonic $b\rightarrow u$ decay
+but similar to the inclusive hadronic $\tau$ decay. We discuss the similarities
+and differences of the $B \rightarrow X_s\gamma$ decay compared to inclusive
+hadronic $\tau$ decay and semileptonic $B$ decay.
+","[{""version"":""v1"",""created"":""Fri, 10 Jun 1994 15:28:28 GMT""}]","2009-10-28"
+"hep-ph/9406280",,"Marco Aurelio Diaz","Constraints on Supergravity in the Light Gluino Scenario","14 pages (plain tex), 4 figures not included, VAND-TH-94-11.
+  Presented in the International Symposium ``Physics Doesn't Stop: Recent
+  Developments in Phenomenology'', University of Wisconsin, Madison WI, April
+  11-13, 1994",,,,"hep-ph",,"  Minimal $N=1$ supergravity with a radiatively broken electroweak symmetry
+group is studied in the light gluino scenario. Constraints from the
+$b\rightarrow s\gamma$ decay and from the masses of the light CP-even neutral
+Higgs $m_h$, the lightest chargino $m_{\chi^{\pm}_1}$, and the second lightest
+neutralino $m_{\chi^0_2}$ are analyzed. We consider models in which the
+relation $A=B+m_0$ holds. We plot the allowed region in the $\tan\beta-\mu$
+plane consistent with chargino/neutralino searches, and an upper bound on
+$\tan\beta$ given by 1.82 (1.85) for $\mu>0$ ($\mu<0$) is found. We analize the
+consistency of this upper bound with experimental constraints on the lightest
+Higgs mass. We find that a gluino with a mass of a few GeV is incompatible with
+this kind of models.
+","[{""version"":""v1"",""created"":""Fri, 10 Jun 1994 15:38:09 GMT""}]","2009-09-25"
+"hep-ph/9406281",,"R. Sekhar Chivukula, Michael J. Dugan, and Mitchell Golden","The Higgs Boson Width is Adjustable","16 pages, uses harvmac for tex and pictex (optional) for the figures.
+  BUHEP-94-10, HUTP-94/A014","Phys.Lett. B336 (1994) 62-69","10.1016/0370-2693(94)00950-3",,"hep-ph",,"  We show that it is possible to construct models in which the width of the
+Higgs boson is arbitrary - either smaller or larger than a standard model Higgs
+boson of the same mass. There are no new fields into which the Higgs boson
+decays. Instead, the coupling of the Higgs boson to the gauge bosons is
+adjusted. We construct and analyze weakly--coupled models with arbitrary--width
+Higgs bosons to investigate the phenomenology one might find in a strongly
+interacting model. In any such model new physics must enter at a mass scale
+which decreases as the Higgs boson width is adjusted away from its standard
+model value. In particular, if the Higgs boson is wider than the standard model
+Higgs boson, then interesting new physics must appear in the isospin--two
+channel.
+","[{""version"":""v1"",""created"":""Fri, 10 Jun 1994 15:39:33 GMT""}]","2009-10-28"
+"hep-th/9406055",,"S. Hosono, A. Klemm, S. Theisen and Shing-Tung Yau","Mirror Symmetry, Mirror Map and Applications to Complete Intersection
+  Calabi-Yau Spaces","50 pages","Nucl.Phys. B433 (1995) 501-554","10.1016/0550-3213(94)00440-P",,"hep-th math.QA",,"  We extend the discussion of mirror symmetry, Picard-Fuchs equations,
+instanton-corrected Yukawa couplings, and the topological one-loop partition
+function to the case of complete intersections with higher-dimensional moduli
+spaces. We will develop a new method of obtaining the instanton-corrected
+Yukawa couplings through a close study of the solutions of the Picard-Fuchs
+equations. This leads to closed formulas for the prepotential for the K\""ahler
+moduli fields induced from the ambient space for all complete intersections in
+non singular weighted projective spaces. As examples we treat part of the
+moduli space of the phenomenologically interesting three-generation models that
+are found in this class. We also apply our method to solve the simplest model
+in which a topology change was observed and discuss examples of complete
+intersections in singular ambient spaces.
+","[{""version"":""v1"",""created"":""Thu, 9 Jun 1994 18:13:45 GMT""},{""version"":""v2"",""created"":""Sun, 10 Jul 1994 16:23:49 GMT""}]","2009-10-28"
+"hep-th/9406057","Mark A. Robson","M. A. Robson","Geometric quantization on homogeneous spaces and the meaning of
+  `inequivalent' quantizations","8 pages","Phys.Lett. B335 (1994) 383-387","10.1016/0370-2693(94)90368-9","DAMTP 94-45","hep-th gr-qc math.QA",,"  Consideration of the geometric quantization of the phase space of a particle
+in an external Yang-Mills field allows the results of the Mackey-Isham
+quantization procedure for homogeneous configuration spaces to be
+reinterpreted. In particular, a clear physical interpretation of the
+`inequivalent' quantizations occurring in that procedure is given.
+","[{""version"":""v1"",""created"":""Thu, 9 Jun 1994 19:23:36 GMT""}]","2009-10-28"
+"hep-th/9406058","Bill Unruh","W. G. Unruh","Maintaining coherence in Quantum Computers","13 pages",,"10.1103/PhysRevA.51.992",,"hep-th gr-qc quant-ph",,"  The effect of the inevitable coupling to external degrees of freedom of a
+quantum computer are examined. It is found that for quantum calculations (in
+which the maintenance of coherence over a large number of states is important),
+not only must the coupling be small but the time taken in the quantum
+calculation must be less than the thermal time scale, $\hbar/k_B T$. For longer
+times the condition on the strength of the coupling to the external world
+becomes much more stringent.
+","[{""version"":""v1"",""created"":""Thu, 9 Jun 1994 21:42:00 GMT""}]","2009-10-28"
+"hep-th/9406059","Kastor","Renata Kallosh, David Kastor, Tomas Ortin and Tibor Torma","Supersymmetry and Stationary Solutions in Dilaton-Axion Gravity","23 pages (latex), SU-ITP-94-12, UMHEP-407, QMW-PH-94-12","Phys.Rev.D50:6374-6384,1994","10.1103/PhysRevD.50.6374",,"hep-th gr-qc",,"  New stationary solutions of $4$-dimensional dilaton-axion gravity are
+presented, which correspond to the charged Taub-NUT and Israel-Wilson-Perjes
+(IWP) solutions of Einstein-Maxwell theory. The charged axion-dilaton Taub-NUT
+solutions are shown to have a number of interesting properties: i) manifest
+$SL(2,R)$ symmetry, ii) an infinite throat in an extremal limit, iii) the
+throat limit coincides with an exact CFT construction.
+  The IWP solutions are shown to admit supersymmetric Killing spinors, when
+embedded in $d=4,N=4$ supergravity. This poses a problem for the interpretation
+of supersymmetric rotating solutions as physical ground states. In the context
+of $10$-dimensional geometry, we show that dimensionally lifted versions of the
+IWP solutions are dual to certain gravitational waves in string theory.
+","[{""version"":""v1"",""created"":""Fri, 10 Jun 1994 01:56:51 GMT""}]","2010-11-01"
+"hep-th/9406066","Palev","T. D. Palev","Algebraic structure of the Green's ansatz and its q-deformed analogue","plain TeX, Preprint INRNE-TH-94/4, 13 p","J.Phys. A27 (1994) 7373-7386","10.1088/0305-4470/27/22/013",,"hep-th",,"  The algebraic structure of the Green's ansatz is analyzed in such a way that
+its generalization to the case of q-deformed para-Bose and para-Fermi operators
+is becoming evident. To this end the underlying Lie (super)algebraic properties
+of the parastatistics are essentially used.
+","[{""version"":""v1"",""created"":""Fri, 10 Jun 1994 13:32:08 GMT""}]","2009-10-28"
+"nucl-th/9406012","Stefanel Radu","W.Dieter Heiss, Rashid G. Nazmitdinov and Stefanel Radu","Chaos in Axially Symmetric Potentials with Octupole Deformation","6 pages LaTex plus 4 figures available by contacting the authors
+  directly, published in PHYS.REV.LETT. 72(1994) 2351","Phys.Rev.Lett. 72 (1994) 2351-2354","10.1103/PhysRevLett.72.2351",,"nucl-th chem-ph",,"  Classical and quantum mechanical results are reported for the single particle
+motion in a harmonic oscillator potential which is characterized by a
+quadrupole deformation and an additional octupole deformation. The chaotic
+character of the motion is srongly dependent on the quadrupole deformation in
+that for a prolate deformation virtually no chaos is discernible while for the
+oblate case the motion shows strong chaos when the octupole term is turned on.
+","[{""version"":""v1"",""created"":""Fri, 10 Jun 1994 10:20:02 GMT""}]","2009-10-28"
+"nucl-th/9406013",,"T.R. Werner, J.A. Sheikh, W. Nazarewicz, M.R. Strayer, A.S. Umar, and
+  M. Misu","Shape Coexistence Around $^{44}_{16}$S$_{28}$: The Deformed N=28 Region","(12 REVTeX pages; 5 PostScript figures available upon request.)","Phys.Lett. B333 (1994) 303-309","10.1016/0370-2693(94)90146-5",,"nucl-th",,"  Masses, deformations, radii, and single-particle properties of the very
+neutron-rich Sulfur isotopes are investigated in the framework of the
+selfconsistent mean-field theory. The stability of the N=28 magic gap around
+$^{44}$S is discussed.
+","[{""version"":""v1"",""created"":""Fri, 10 Jun 1994 13:25:21 GMT""}]","2009-10-28"

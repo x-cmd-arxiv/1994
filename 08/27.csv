@@ -1,0 +1,154 @@
+"astro-ph/9408086","Karl Gebhardt","Karl Gebhardt and Philippe Fischer","Non-Parametric Dynamical Analysis of Globular Clusters: M15, 47~Tuc,
+  NGC~362, and NGC~3201",,,"10.1086/117267",,"astro-ph",,"  We use radial velocities of member stars and cluster surface brightness
+profiles to non-parametrically determine the mass density profiles and
+isotropic phase-space distribution functions $f(E)$ for the globular clusters
+M15 (NGC7078), 47~Tuc (NGC104), NGC~362, and NGC~3201. Assuming isotropy and
+using the velocity dispersion and surface brightness profiles, the Jeans
+equation uniquely determines the mass density profile. In the two
+centrally-concentrated clusters, M15 and 47~Tuc, we find that the mass-to-light
+ratios (M/L's) reach minima around 1\arcmin, and increase by more than a factor
+of four towards the cluster centers. For the two less centrally concentrated
+clusters, the M/L decreases monotonically all the way into the center. All four
+clusters exhibit an increase in the M/L's in their outer parts. If the
+variations in the M/L's are due to equipartition of energy between different
+mass stars, then we attribute the central increases to massive remnants and the
+outer increases to low-mass stars (m$<0.3$M$_\odot$). By applying the crude
+approximation of local thermodynamic equilibrium, we derive the present-day
+mass function for each cluster. In the central 2--3 parsecs, 0.7--1.5 M$_\odot$
+objects provide the bulk of the cluster mass. The paper is in a uuencoded
+compressed tar file (260kb).
+","[{""version"":""v1"",""created"":""Fri, 26 Aug 1994 21:03:35 GMT""}]","2009-10-22"
+"astro-ph/9408087",,"Xiang-Ping Wu and Jinlin Han","A search for the associations of distant radio-bright quasars with Abell
+  clusters: an effect of gravitational amplification bias ?","10 pages Latex style, 3 figures available on request from X.P. Wu
+  (wxp@bao01.bao.ac.cn), MNRAS in press","Mon.Not.Roy.Astron.Soc. 272 (1995) 705","10.1093/mnras/272.4.705",,"astro-ph",,"  The theory predicts that the effect of gravitational lensing by the matter
+associated with clusters of galaxies can magnify background sources, leading to
+an enhancement of source number density around foreground clusters of galaxies.
+We conduct a search for the associations of distant radio-bright quasars with
+Abell clusters using the 1-Jy and 2-Jy all-sky catalogs. Statistics turns to be
+very poor on the basis of the 1-Jy sample, which shows no correlations between
+the distant radio quasars with the foreground Abell clusters above $1\sigma$
+level. However, an apparent association ($>1\sigma$) of the 2-Jy radio sources
+with the foreground Abell clusters has been detected on scale of $\sim20$
+arcminutes. We point out that this enhancement is unlikely to be produced by
+the statistical gravitational lensing hypothesis utilizing the matter
+associated with a population of isolated clusters unless (1)their velocity
+dispersion is a few times larger than the presently adopted value and/or (2)the
+intrinsic counts of the radio-bright sources with flux have a steeper slope
+than the presently observed ones. This indicates that (1)the observed
+associations, if real, can be the integrated result of all the matter along the
+line of sight to the distant quasars, namely, the weak lensing effect of
+clusters of galaxies that trace large-scale structures of the universe, and/or
+(2)the number counts of the radio-bright sources have been seriously
+contaminated by lensing.
+","[{""version"":""v1"",""created"":""Sat, 27 Aug 1994 09:20:20 GMT""}]","2015-06-24"
+"comp-gas/9408001","Ramon Lopez","F. Zertuche (IIMAS, UNAM, Mexico), R. L\'opez-Pe\~na (ICN, UNAM,
+  Mexico) and H. Waelbroeck (ICN, UNAM, Mexico)","Recognition of Temporal Sequences of Patterns","18 pages in PlainTeX, with 5 figures available on request to the
+  authors. To appear in J. Phys. A: Math. Gen",,,,"comp-gas nlin.CG",,"  Using an asymmetric associative network with synchronous updating, it is
+possible to recall a sequence of patterns. To obtain a stable sequence
+generation with a large storage capacity, we introduce a threshold that
+eliminates the contribution of weakly correlated patterns. For this system we
+find a set of evolution equations for the overlaps of the states with the
+patterns to be recognized. We solve these equations in the limit of the
+stationary cycle, and obtain the critical value of the capacity as a function
+of the threshold and temperature. Finally, a numerical simulation is made,
+confirming the theoretical results.
+","[{""version"":""v1"",""created"":""Fri, 26 Aug 1994 22:16:48 GMT""}]","2008-02-03"
+"cond-mat/9408086","Thierry Martin","Daniel Loss and Thierry Martin","Wentzel-Bardeen singularity and phase diagram for interacting electrons
+  coupled to acoustic phonons in one dimension","4 pages, REVTex, 2 figures on request from thierry@goshawk.lanl.gov,
+  to appear in Phys Rev. B",,"10.1103/PhysRevB.50.12160",,"cond-mat",,"  Using a Luttinger liquid description, the correlation function exponents of
+various response functions are calculated. Their striking sensitivity to the
+non perturbative Wentzel-Bardeen singularity is discussed. For the Hubbard
+model coupled to phonons, the equivalent of a phase diagram is established. By
+increasing the filling factor towards half filling, the Wentzel-Bardeen
+singularity is rapidly approached. This suppresses antiferromagnetic
+fluctuations and drives the system in a metallic phase, and ultimately in the
+triplet superconducting regime.
+","[{""version"":""v1"",""created"":""Fri, 26 Aug 1994 22:33:40 GMT""}]","2009-10-22"
+"cond-mat/9408087","Thierry Martin","Thierry Martin and Daniel Loss","Phase Diagram for a Luttinger Liquid coupled to Phonons in one dimension","33 pages, REVTex, 6 figures upon request (thierry@goshawk.lanl.gov)",,"10.1142/S0217979295000185",,"cond-mat",,"  The Green function and the ordering correlation functions of a system of
+electrons coupled to acoustic phonons are calculated explicitly. The
+sensitivity of the correlation function exponents to the Wentzel-Bardeen
+singularity is discussed. A phase diagram is established for the Hubbard model
+coupled to phonons, using the integral equations of Lieb and Wu. By increasing
+the filling factor towards half filling, the Wentzel-Bardeen singularity can be
+reached for arbitrary phonon coupling. This suppresses antiferromagnetic
+fluctuations and drives the system in a metallic phase, and ultimately in the
+triplet superconducting regime.
+","[{""version"":""v1"",""created"":""Fri, 26 Aug 1994 22:36:13 GMT""}]","2015-06-25"
+"cond-mat/9408088","Thierry Martin","Thierry Martin","Wentzel-Bardeen singularity in coupled Luttinger liquids: transport
+  properties","9 pages, REVTex 3.0, 4 figures on request (thierry@goshawk.lanl.gov).
+  (paper submitted for the CNLS 94 conference ""Quantum Complexity in Mesoscopic
+  Systems"", Los Alamos)",,"10.1016/0167-2789(94)00262-O",,"cond-mat",,"  The recent progress on 1 D interacting electrons systems and their
+applications to study the transport properties of quasi one dimensional wires
+is reviewed. We focus on strongly correlated electrons coupled to low energy
+acoustic phonons in one dimension. The Wentzel--Bardeen singularity suppresses
+antiferromagnetic fluctuations and pushes the system toward the metallic phase
+via an intermediate, metallic phase. The implications of this phenomenon on the
+transport properties of an ideal wire as well as the properties of a wire with
+weak or strong scattering are analyzed in a perturbative renormalization group
+calculation. This allows to recover the three regimes predicted from the
+divergence criteria of the response functions.
+","[{""version"":""v1"",""created"":""Fri, 26 Aug 1994 22:51:07 GMT""}]","2015-06-25"
+"hep-lat/9408018","Christian B. Lang","H. Gausterer and C.B. Lang","Lee-Yang zeroes in the one flavour massive lattice Schwinger model","13 pages (2 figures), LaTeX + POSTSCRIPT (42 KB), preprint
+  UNIGRAZ-UTP-260894","Phys.Lett. B341 (1994) 46-52","10.1016/0370-2693(94)01258-X",,"hep-lat",,"  We study the partition function of the model formulated with Wilson fermions
+with only one species, both analytically and numerically. At strong coupling we
+construct the solution for lattice size up to $8\times 8$, a polynomial in the
+hopping parameter up to $O(\ka^{128})$. At $\be>0$ we evaluate the expectation
+value of the fermion determinant for complex values of $\ka$. From the Lee-Yang
+zeroes we find support for the existence of a line of phase transitions from
+$(\be=0, \ka\simeq 0.38)$ up to $(\be=\infty, \ka=1/4)$.
+","[{""version"":""v1"",""created"":""Fri, 26 Aug 1994 19:28:11 GMT""}]","2009-10-22"
+"hep-ph/9408379","Glennys R. Farrar","Glennys R. Farrar","Light Gluinos","11p + 1 fig (uufiled), latex, Invited Talk at Quarks94, Vladimir,
+  Russia, May 1994. RU-94-70. More minor fixes. First version submitted was
+  inadvertently an early draft. A few points were elaborated and citations
+  added in the final version",,,,"hep-ph",,"  Gluino and lightest neutralino masses are naturally less than a few GeV if
+dimension-3 susy-breaking operators are absent from the low energy theory. In
+this case gaugino masses come from loops and are calculable in terms of known
+particle masses and two mass parameters, $\mu$ and $\tilde{m}$. The
+phenomenology of such a scenario is discussed.
+","[{""version"":""v1"",""created"":""Fri, 26 Aug 1994 21:57:24 GMT""},{""version"":""v2"",""created"":""Mon, 29 Aug 1994 18:45:27 GMT""},{""version"":""v3"",""created"":""Tue, 30 Aug 1994 21:28:33 GMT""}]","2008-02-03"
+"hep-ph/9408380","Martin Beneke","M. Beneke","More on ambiguities in the pole mass","LaTeX, 10 pages, Figures appended as uu-encoded file, UM-TH-94-31","Phys.Lett. B344 (1995) 341-347","10.1016/0370-2693(94)01505-7",,"hep-ph",,"  The relation between the pole quark mass and the $\overline{MS}$-renormalized
+mass is governed by an infrared renormalon singularity, which leads to an
+ambiguity of order $\Lambda_{QCD}$ in the definition of the pole mass. We use
+the renormalization group and heavy quark effective theory to determine the
+exact nature of this singularity up to an overall normalization. In the abelian
+gauge theory, the normalization is computed partially to next-to-leading order
+in the flavour expansion.
+","[{""version"":""v1"",""created"":""Fri, 26 Aug 1994 21:58:21 GMT""}]","2009-10-28"
+"hep-th/9408147","Victor Pervushin","A. Khvedelidze, V. Pervushin","Zero Modes of Gauss' Constraint in Gaugeless Reduction of Yang - Mills
+  Theory","20 pages . LATEX . JINR Preprint E2- 94-332","Helv.Phys.Acta 67:610-625,1994",,,"hep-th",,"  The physical variables for pure Yang - Mills theory in four - dimensional
+Minkowskian space time are constructed without using a gauge fixing condition}
+by the explicit resolving of the non - Abelian Gauss constraint and by the
+Bogoliubov transformation that diagonalizes the kinetic term in reduced action
+(action on constraint shell). As a result, the reduced action is expressed in
+terms of gauge invariant field variables including an additional global (only
+time - dependent) one, describing zero mode dynamics of the Gauss constraint.
+This additional variable reflects the symmetry group of topologically
+nontrivial transformations remaining after the reduction. ( It gives also the
+characteristic of the Gribov ambiguity from the point of view of the gauge
+fixing method.) The perturbation theory in terms of quasiparticles with the new
+stable vacuum, which is defined through the zero mode configuration, is
+proposed. It is shown, that the averaging of Green's functions for
+quasiparticles over the global variable leads to the mechanism of color
+confinement.
+","[{""version"":""v1"",""created"":""Fri, 26 Aug 1994 18:39:58 GMT""}]","2011-07-19"
+"hep-th/9408148","Yutaka Hosotani","Yutaka Hosotani","Spontaneous Breakdown of the Lorentz Invariance in Three-Dimensional
+  Gauge Theories","plain TeX, 8 pages, UMN-TH-1308/94",,,,"hep-th",,"  In a class of renormalizable three-dimensional abelian gauge theory the
+Lorentz invariance is spontaneously broken by dynamical generation of a
+magnetic field $B$. The true ground state resembles that of the quantum Hall
+effect. An originally topologically massive photon becomes gapless, fulfilling
+the role of the Nambu-Goldstone boson associated with the spontaneous breaking
+of the Lorentz invariance. We give a simple explanation and a sufficient
+condition for the spontaneous breaking of the Lorentz invariance with the aid
+of the Nambu-Goldstone theorem. The decrease of the energy density by $B \not=
+0$ is understood mostly due to the shift in zero-point energy of photons. For
+PASCOS'94.
+","[{""version"":""v1"",""created"":""Fri, 26 Aug 1994 16:20:57 GMT""}]","2007-05-23"
+"hep-th/9408149",,"Mary K. Gaillard","Pauli-Villars Regularization of Supergravity Coupled to Chiral and
+  Yang-Mills Matter","11 pages, Typos in equations corrected","Phys.Lett. B342 (1995) 125-131","10.1016/0370-2693(94)01341-9","LBL-36051, UCB-PTH-94/23","hep-th",,"  It is shown that the one-loop quadratic divergences of standard supergravity
+can be regulated by the introduction of heavy Pauli-Villars fields belonging to
+chiral and abelian gauge multiplets. The resulting one-loop correction can be
+interpreted as a renormalization of the K\""ahler potential. Regularization of
+the dilaton couplings to the Yang-Mills sector requires special care, and may
+shed some light on chiral/linear multiplet duality of the dilaton
+supermultiplet.
+","[{""version"":""v1"",""created"":""Fri, 26 Aug 1994 22:34:09 GMT""},{""version"":""v2"",""created"":""Wed, 14 Dec 1994 22:32:07 GMT""}]","2009-10-28"

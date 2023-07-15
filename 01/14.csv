@@ -1,0 +1,360 @@
+"astro-ph/9401023","Li-Zhi Fang","A. Berera and L.Z.Fang","Stochastic fluctuations and structure formation in the Universe","14 pages, Latex, Phys.Rev.Lett. in press, From Dept of Physics,
+  University of Arizona","Phys.Rev.Lett. 72 (1994) 458-461","10.1103/PhysRevLett.72.458",,"astro-ph",,"  It is shown that the evolution of the density perturbations during certain
+eras of substantial entropy generation in the universe can be described in the
+scheme of the KPZ equation. Therefore, the influence on cosmological structure
+formation by stochastic forces arising from various dissipations can be studied
+through the universal characteristics of surface growth in $d=3+1$ dimensions.
+We identify eras of strong stochastic fluctuations and describe dynamically how
+these other dissipative sources of noise, besides initial (inflationary)
+quantum fluctuations, generate seeds of density perturbation with power law
+spectrum, including the Harrison-Zeldovich spectrum.
+","[{""version"":""v1"",""created"":""Fri, 14 Jan 1994 00:56:46 GMT""}]","2009-10-22"
+"astro-ph/9401024","Maggie Best","John N. Bahcall","The $^7$Be Solar Neutrino Line: A Reflection of the Central Temperature
+  Distribution of the Sun","58 pages, REVTEX file. For hardcopy of figures contact
+  BEST@SNS.IAS.EDU. Institute for Advanced Study number AST 93/40","Phys.Rev. D49 (1994) 3923-3945","10.1103/PhysRevD.49.3923",,"astro-ph",,"  A precise test of the theory of stellar evolution can be performed by
+measuring the average difference in energy between the neutrino line produced
+by ${\rm ^7Be}$ electron capture in the solar interior and the corresponding
+neutrino line produced in a terrestrial laboratory. This energy shift is
+calculated to be 1.29~keV (to an accuracy of a few percent) for the dominant
+ground-state to ground-state transition. The energy shift is approximately
+equal to the average temperature of the solar core, computed by integrating the
+temperature over the solar interior with a weighting factor equal to the
+locally-produced $^7$Be neutrino emission. The characteristic modulation of the
+${\rm ^7Be}$ line shape that would be caused by either vacuum neutrino
+oscillations or by matter-enhanced (MSW) neutrino oscillations is shown to be
+small. Other frequently-discussed weak interaction solutions to the solar
+neutrino problem are also not expected to change significantly the line
+profile. Therefore, a measurement of the energy shift is a measurement of the
+central temperature distribution of the sun.
+","[{""version"":""v1"",""created"":""Fri, 14 Jan 1994 15:35:48 GMT""}]","2009-10-22"
+"chao-dyn/9401004","Dimitris Kugiumtzis","Dimitris Kugiumtzis (Department of Informatics, University of Oslo,
+  Pb. 1080 Blindern, N-0316 Oslo, Norway), Bjoern Lillekjendlie (SINTEF-SI, Pb.
+  124, Blindern, N-0314 Oslo, Norway), Nils Christophersen (Department of
+  Informatics, University of Oslo, Pb. 1080 Blindern, N-0316 Oslo, Norway)","Chaotic time series Part I: Estimation of invariant properies in state
+  space","17 pages and 8 pages with figures all in uuencoded tar-compressed
+  postscript format. Sent to",,,,"chao-dyn comp-gas nlin.CD nlin.CG",,"  Certain deterministic non-linear systems may show chaotic behaviour. Time
+series derived from such systems seem stochastic when analyzed with linear
+techniques. However, uncovering the deterministic structure is important
+because it allows for construction of more realistic and better models and thus
+improved predictive capabilities. This paper describes key features of chaotic
+systems including strange attractors and Lyapunov exponents. The emphasis is on
+state space reconstruction techniques that are used to estimate these
+properties, given scalar observations. Data generated from equations known to
+display chaotic behaviour are used for illustration. A compilation of
+applications to real data from widely different fields is given. If chaos is
+found to be present, one may proceed to build non-linear models, which is the
+topic of the second paper in this series.
+","[{""version"":""v1"",""created"":""Fri, 14 Jan 1994 15:52:45 GMT""},{""version"":""v2"",""created"":""Fri, 21 Jan 1994 15:07:30 GMT""},{""version"":""v3"",""created"":""Sun, 23 Jan 1994 18:07:32 GMT""}]","2008-02-03"
+"cond-mat/9401030",,"S. A. Janowsky (U.Texas)","Asymptotic behavior of A + B --> inert for particles with a drift","LaTeX, 6pp including 3 figures in LaTeX picture mode","Phys. Rev. E 51, 1858-1860 (1995)","10.1103/PhysRevE.51.1858",,"cond-mat",,"  We consider the asymptotic behavior of the (one dimensional) two-species
+annihilation reaction A + B --> 0, where both species have a uniform drift in
+the same direction and like species have a hard core exclusion. Extensive
+numerical simulations show that starting with an initially random distribution
+of A's and B's at equal concentration the density decays like t^{-1/3} for long
+times. This process is thus in a different universality class from the cases
+without drift or with drift in different directions for the different species.
+","[{""version"":""v1"",""created"":""Thu, 13 Jan 1994 17:26:46 GMT""}]","2009-10-22"
+"hep-lat/9401013","Craig McNeile","Terrence Draper and Craig McNeile","Variational calculation of heavy-light meson properties","3pages, uuencode-compressed-tar Postscript file. (160 kbytes),
+  preprint number uk/93-05","Nucl.Phys.Proc.Suppl.34:453-455,1994","10.1016/0920-5632(94)90414-6",,"hep-lat",,"  We present a new method for the study of heavy-light mesons in the static
+approximation of lattice QCD which is optimally effective in isolating ground
+and excited states. With ``MOST'' (Maximal Operator Smearing Technique), the
+heavy quark is smeared at all possible positions relative to the light quark,
+subject to the constraint of cubic symmetry. With correlation functions
+constructed using this set as a variational basis, eigenstates of the transfer
+matrix are projected out at very small time separations, where statistical
+errors are small. We illustrate the utility of the method with preliminary
+results for the meson decay constant $f_{B}^{\rm stat}$, binding energies and
+wave functions of the lowest states. The method produces dynamically-improved
+interpolating fields which can be used for matrix element calculations.
+","[{""version"":""v1"",""created"":""Thu, 13 Jan 1994 21:49:01 GMT""}]","2008-11-26"
+"hep-lat/9401014","Stefano Capitani- La Sapienza- Roma","Stefano Capitani and Giancarlo Rossi","Deep Inelastic Scattering in Improved Lattice QCD. I. The first moment
+  of structure functions","59 pages, plain LaTeX + Feynman.tex (complete postscript file
+  available upon request to capitani@vxrm70.roma1.infn.it), Preprint Roma1
+  978-93 and ROM2F 93/38 (some numerical mistakes have been corrected in Sects.
+  2.2 and 8)","Nucl.Phys. B433 (1995) 351-389","10.1016/0550-3213(94)00428-H",,"hep-lat",,"  We present the complete 1-loop perturbative computation of the
+renormalization constants and mixing coefficients of the operators that measure
+the first moment of deep inelastic scattering structure functions, employing
+the nearest neighbor improved lattice QCD action. The interest of using this
+action in Monte Carlo simulations lies in the fact that all terms which in the
+continuum limit are effectively of order $a$ ($a$ being the lattice spacing)
+have been proven to be absent from on-shell hadronic lattice matrix elements.
+  Because of the complexity of the calculations, we have checked the analytical
+expression of all Feynman diagrams using Schoonschip. To this end we have
+developed a suitable code designed to automatically carry out all the necessary
+lattice algebraic manipulations, starting from the elementary building blocks
+of each diagram.
+  We have found discrepancies with some of the published numbers, but we are in
+agreement with the known results on the energy-momentum tensor.
+","[{""version"":""v1"",""created"":""Fri, 14 Jan 1994 15:51:21 GMT""},{""version"":""v2"",""created"":""Fri, 11 Feb 1994 13:45:24 GMT""},{""version"":""v3"",""created"":""Wed, 1 Jun 1994 13:48:23 GMT""},{""version"":""v4"",""created"":""Mon, 4 Jul 1994 10:02:56 GMT""}]","2009-10-22"
+"hep-ph/9401248","Mary Ann Rotondo","Kyungsik Kang","LEP Electroweak Physics","18 pages",,,"Brown-HET-931","hep-ph",,"  This is an overview of the electroweak physics achieved at LEP. After a brief
+review of the standard model and the calculation of the radiative corrections
+both in the MS and on-shell schemes, we introduce the Z decay parameters around
+the resonance energy and discuss the status of the standard model fits for
+them, along with some selected highlights of the measurements as well as new
+particle searches.
+","[{""version"":""v1"",""created"":""Thu, 13 Jan 1994 20:01:34 GMT""}]","2007-05-23"
+"hep-ph/9401249",,"J.P. Ma","Calculating Fragmentation Functions from Definitions","Preptint UM-P-94/01, 12 pages, 2 pages with Figures can be sent on
+  request. Using Plain Tex","Phys.Lett.B332:398-404,1994","10.1016/0370-2693(94)91271-8",,"hep-ph",,"  Fragmentation functions for hadrons composed of heavy quarks are calculated
+directly from the definitions given by Collins and Soper and are compared with
+those calculated in another way. A new fragmentaion function for a P-wave meson
+is also obtained and the singularity arising at the leading order is discussed.
+","[{""version"":""v1"",""created"":""Fri, 14 Jan 1994 00:43:46 GMT""}]","2010-11-01"
+"hep-ph/9401250","PostDoc Its","R. Foot, X.-G. He, H. Lew and R. R. Volkas","Model for a Light Z' Boson","20 pages + 5 pages of figures (appended as postscipt files), LaTeX,
+  OITS-532","Phys.Rev. D50 (1994) 4571-4580","10.1103/PhysRevD.50.4571",,"hep-ph",,"  A model of a light $Z'$ boson is constructed and phenomenological bounds are
+derived. This $Z'$ boson arises from a very simple extension to the Standard
+Model, and it is constrained to be light because the vacuum expectation values
+which generate its mass also break the electroweak gauge group. It is difficult
+to detect experimentally because it couples exclusively or primarily (depending
+on symmetry breaking details) to second and third generation leptons. However,
+if the $Z'$ boson is sufficiently light, then there exists the possibility of
+the two-body decay $\tau \rightarrow \mu Z'$ occuring. This will provide a
+striking signature to test the model.
+","[{""version"":""v1"",""created"":""Thu, 13 Jan 1994 23:55:02 GMT""}]","2009-10-28"
+"hep-ph/9401252",,"L. Br\""ucher, J. Franzkowski, D. Kreimer","A new Method for Computing One-Loop Integrals","12 pages Latex","Comput.Phys.Commun.85:153-165,1995","10.1016/0010-4655(94)00112-F","MZ-TH/93-14","hep-ph",,"  We present a new program package for calculating one-loop Feynman integrals,
+based on a new method avoiding Feynman parametrization and the contraction due
+to Passarino and Veltman. The package is calculating one-, two- and three-point
+functions both algebraically and numerically to all tensor cases. This program
+is written as a package for Maple. An additional Mathematica version is planned
+later.
+","[{""version"":""v1"",""created"":""Fri, 14 Jan 1994 08:25:46 GMT""}]","2011-04-20"
+"hep-ph/9401253",,"P. Q. Hung","A phenomenological Theory of Fermion Masses and Mixings","13 pages RevTeX, INPP-UVA-94-1","Mod.Phys.Lett.A9:1745-1754,1994","10.1142/S0217732394001593",,"hep-ph",,"  A phenomenological theory of fermion masses and mixings is constructed within
+the framework of a four- family symmetry. It is found that the most favored set
+of relevant CKM elements are $|V_{us}|\approx 0.222$, $|V_{cb}|\approx 0.044$,
+$|V_{ub}/V_{cb}|\approx 0.082$, $|V_{ud}|\approx 0.974$, $|V_{cs}|\approx
+0.9736$, $|V_{cd}|\approx 0.224$ with $\hat{B}_K \approx 0.8$. The top quark
+mass is predicted to be 258 GeV at 1 GeV with its physical mass approximately
+equal to 153 GeV. The Majorana scale associated with the fourth neutrino is
+bound from above to be 6.4 TeV.
+","[{""version"":""v1"",""created"":""Fri, 14 Jan 1994 09:34:42 GMT""}]","2010-11-01"
+"hep-ph/9401254","Andrea Vicere'","G. Cella, G. Curci, G. Ricciardi, A. Vicere'","The b -> s gamma decay revisited","11 pages RevTeX + 2 EPSF figures, report IFUP-TH 2/94, HUTP-93/A038.
+  PostScript file or hardcopy available from the authors upon request","Phys.Lett. B325 (1994) 227-234","10.1016/0370-2693(94)90096-5",,"hep-ph",,"  In this work we compute the leading logarithmic corrections to the b -> s
+gamma decay in a dimensional scheme which does not require any definition of
+the gamma5 matrix. The scheme does not exhibit unconsistencies and it is
+therefore a viable alternative to the t'Hooft Veltman scheme, particularly in
+view of the next-to-leading computation. We confirm the recent results of
+Ciuchini et al.
+","[{""version"":""v1"",""created"":""Fri, 14 Jan 1994 12:28:16 GMT""}]","2009-10-28"
+"hep-ph/9401255",,"C.H.Jin, W.F.Palmer, E.A.Paschos","A Parton Model for Inclusive Semileptonic B Meson Decays","9 pages, DO-TH 93/29, OHSTPY-HEP-T-93-011, September 1993","Phys.Lett.B329:364-368,1994","10.1016/0370-2693(94)90787-0",,"hep-ph",,"  The parton model for semileptonic B meson decays is studied with special
+attention to the decay distributions. We find that the spectra show dramatic
+variations when we introduce cuts on the hadronic energy or invariant mass of
+hadrons. Results for both $b\rightarrow u$ and $b\rightarrow c$ decays are
+presented. The detailed spectra may help to separate the two types of decays.
+","[{""version"":""v1"",""created"":""Fri, 14 Jan 1994 15:04:41 GMT""}]","2010-11-01"
+"hep-ph/9401256",,"C.E. Carlson and J.Milana","Systematics of Exclusive B-decays","32 pages","Phys.Rev.D49:5908-5920,1994","10.1103/PhysRevD.49.5908","U. of MD PP \#94-062 DOE/ER/40762-022 and WM-93-110","hep-ph",,"  Systematic analysis of the high recoil decay channels of the B-meson, two
+body mesonic decay channels in particular. For decays involving D-mesons, all
+experimentally observed rates are in reasonable accord with our calculations.
+Noticeable corrections to heavy quark symmetry are found, appearing most
+prominently when comparing D and D* decay modes. Calculated branching ratios
+involving the CKM matrix element V_{ub} are all below experimental upper
+bounds, but not markedly so. Calculated decay rates into charmonium lie a bit
+on the low side. Where color-suppressed diagrams contribute, they are found to
+be also suppressed dynamically and explicit calculation shows that the
+color-suppressed diagrams are ignorable in B to D pi decays.
+","[{""version"":""v1"",""created"":""Fri, 14 Jan 1994 15:39:00 GMT""}]","2010-11-01"
+"hep-th/9401056","Emili Elizalde","E. Elizalde, S.D. Odintsov and Yu.I. Shil'nov","Chiral Symmetry Breaking in the $d=3$ Nambu-Jona-Lasinio Model in Curved
+  Spacetime","7 pages, LaTeX file, 4 figures (appended as compressed postscript
+  file), Jan. 1994","Mod.Phys.Lett.A9:913-918,1994","10.1142/S0217732394000733",,"hep-th",,"  The phase structure of the $d=3$ Nambu-Jona-Lasinio model in curved spacetime
+is considered to leading order in the $1/N$--expansion and in the linear
+curvature approximation. The possibility of a curvature-induced first-order
+phase transition is investigated numerically. The dynamically generated
+fermionic mass is calculated for some values of the curvature.
+","[{""version"":""v1"",""created"":""Thu, 13 Jan 1994 17:19:33 GMT""}]","2009-09-25"
+"hep-th/9401057","Emili Elizalde","E. Elizalde and S.D. Odintsov","Renormalization-Group Improved Effective Potential for Interacting
+  Theories with Several Mass Scales in Curved Spacetime","18 pages, LaTeX file, UB-ECM-PF 93/22","Z.Phys.C64:699-708,1994","10.1007/BF01957780",,"hep-th",,"  The renormalization group (RG) is used in order to obtain the RG improved
+effective potential in curved spacetime. This potential is explicitly
+calculated for the Yukawa model and for scalar electrodynamics, i.e. theories
+with several (namely, more than one) mass scales, in a space of constant
+curvature. Using the $\lambda \varphi^4$-theory on a general curved spacetime
+as an example, we show how it is possible to find the RG improved effective
+Lagrangian in curved spacetime. As specific applications, we discuss the
+possibility of curvature induced phase transitions in the Yukawa model and the
+effective equations (back-reaction problem) for the $\lambda \varphi^4$-theory
+on a De Sitter background.
+","[{""version"":""v1"",""created"":""Thu, 13 Jan 1994 17:18:09 GMT""}]","2009-09-17"
+"hep-th/9401058",,"H. Aratyn, E. Nissimov and S. Pacheva","Hamiltonian Structures of the Multi-Boson KP Hierarchies, Abelianization
+  and Lattice Formulation","12 pgs, (changes in abstract, intro and outlook+1 ref added). LaTeX,
+  BGU-94 / 1 / January- PH, UICHEP-TH/94-2","Phys.Lett. B331 (1994) 82-92","10.1016/0370-2693(94)90946-6",,"hep-th",,"  We present a new form of the multi-boson reduction of KP hierarchy with Lax
+operator written in terms of boson fields abelianizing the second Hamiltonian
+structure. This extends the classical Miura transformation and the
+Kupershmidt-Wilson theorem from the (m)KdV to the KP case. A remarkable
+relationship is uncovered between the higher Hamiltonian structures and the
+corresponding Miura transformations of KP hierarchy, on one hand, and the
+discrete integrable models living on {\em refinements} of the original lattice
+connected with the underlying multi-matrix models, on the other hand. For the
+second KP Hamiltonian structure, worked out in details, this amounts to finding
+a series of representations of the nonlinear $\hWinf$ algebra in terms of
+arbitrary finite number of canonical pairs of free fields.
+","[{""version"":""v1"",""created"":""Thu, 13 Jan 1994 21:01:59 GMT""},{""version"":""v2"",""created"":""Tue, 19 Apr 1994 12:28:03 GMT""}]","2009-10-28"
+"hep-th/9401059",,"Jacobus Verbaarschot","The spectrum of the QCD Dirac operator and chiral random matrix theory:
+  the threefold way","7 pages, SUNY-NTG-94/1","Phys.Rev.Lett.72:2531-2533,1994","10.1103/PhysRevLett.72.2531",,"hep-th",,"  We argue that the spectrum of the QCD Dirac operator near zero virtuality can
+be described by random matrix theory. As in the case of classical random matrix
+ensembles of Dyson we have three distinct classes: the chiral orthogonal
+ensemble (chGOE), the chiral unitary ensemble (chGUE) and the chiral symplectic
+ensemble (chGSE). They correspond to gauge groups $SU(2)$ in the fundamental
+representation, $SU(N_c), N_c \ge 3$ in the fundamental representation, and
+gauge groups for all $N_c$ in the adjoint representation, respectively. The
+joint probability density reproduces Leutwyler-Smilga sum rules.
+","[{""version"":""v1"",""created"":""Thu, 13 Jan 1994 23:11:44 GMT""}]","2011-07-18"
+"hep-th/9401060",,"Lev Rozansky","Witten's Invariant of 3-Dimensional Manifolds: Loop Expansion and
+  Surgery Calculus","29 pages, ""\draft"" declaration has been removed",,,"UTTG-12-93","hep-th math.QA",,"  We review two different methods of calculating Witten's invariant: a
+stationary phase approximation and a surgery calculus. We give a detailed
+description of the 1-loop approximation formula for Witten's invariant and of
+the technics involved in deriving its exact value through a surgery
+construction of a manifold. Finally we compare the formulas produced by both
+methods for a 3-dimensional sphere S^3 and a lens space L(p,1).
+","[{""version"":""v1"",""created"":""Fri, 14 Jan 1994 01:38:34 GMT""},{""version"":""v2"",""created"":""Fri, 14 Jan 1994 21:53:42 GMT""}]","2008-02-03"
+"hep-th/9401061",,"Lev Rozansky","A Contribution of the Trivial Connection to Jones Polynomial and
+  Witten's Invariant of 3d Manifolds I","28 pages","Commun.Math.Phys. 175 (1996) 275-296","10.1007/BF02102409","UMTG-172-93, UTTG-30-93","hep-th math.QA",,"  We use the Chern-Simons quantum field theory in order to prove a recently
+conjectured limitation on the 1/K expansion of the Jones polynomial of a knot
+and its relation to the Alexander polynomial. This limitation allows us to
+derive a surgery formula for the loop corrections to the contribution of the
+trivial connection to Witten's invariant. The 2-loop part of this formula
+coincides with Walker's surgery formula for Casson-Walker invariant. This
+proves a conjecture that Casson-Walker invariant is a 2-loop correction to the
+trivial connection contribution to Witten's invariant of a rational homology
+sphere. A contribution of the trivial connection to Witten's invariant of a
+manifold with nontrivial rational homology is calculated for the case of
+Seifert manifolds.
+","[{""version"":""v1"",""created"":""Fri, 14 Jan 1994 01:39:04 GMT""}]","2009-10-28"
+"hep-th/9401062","Michael Douglas","Michael R. Douglas (Rutgers), Keke Li (IAS) and Matthias Staudacher
+  (ENS)","Generalized Two-Dimensional QCD","LPTENS-94/2, IASSNS-HEP-94/3, and RU-94-8. (harvmac with 4 figures,
+  23 pp.)","Nucl.Phys. B420 (1994) 118-140","10.1016/0550-3213(94)90377-8",,"hep-th",,"  We study two-dimensional gauge theories with fundamental fermions and a
+general first order gauge-field Lagrangian. For the case of U(1) we show how
+standard bosonization of the Schwinger model generalizes to give mesons
+interacting through a general Landau-Ginzburg potential. We then show how for a
+subclass of SU(N) theories, 't Hooft's solution of large N two-dimensional QCD
+can be generalized in a consistent and natural manner. We finally point out the
+possible relevance of studying these theories to the string formulation of
+two-dimensional QCD as well as to understanding QCD in higher dimensions.
+","[{""version"":""v1"",""created"":""Fri, 14 Jan 1994 02:05:30 GMT""}]","2009-10-28"
+"hep-th/9401063","931","T. Kashiwa, S. Sakoda, S. V. Zenkin","Ordering, symbols, and finite-dimensional approximations of path
+  integrals","20 pages (harvmac), KYUSHU-HET-12","Prog.Theor.Phys. 92 (1994) 669-686","10.1143/PTP.92.669",,"hep-th hep-lat",,"  We derive general form of finite-dimensional approximations of path integrals
+for both bosonic and fermionic canonical systems in terms of symbols of
+operators determined by operator ordering. We argue that for a system with a
+given quantum Hamiltonian such approximations are independent of the type of
+symbols up to terms of $O(\epsilon)$, where $\epsilon$ is infinitesimal time
+interval determining the accuracy of the approximations. A new class of such
+approximations is found for both c-number and Grassmannian dynamical variables.
+The actions determined by the approximations are non-local and have no
+classical continuum limit except the cases of $pq$- and $qp$-ordeeing. As an
+explicit example the fermionic oscillator is considered in detail.
+","[{""version"":""v1"",""created"":""Fri, 14 Jan 1994 04:23:44 GMT""}]","2009-10-28"
+"hep-th/9401064","Tatsuo Kobayashi","H.Kawabe, T.Kobayashi and N.Ohtsubo","Minimal String Model in $Z_4$, $Z_6$ and $Z_8$ Orbifold Constructions","18 pages, KANAZAWA-94-02, Latex file (Minor changes are made.)",,,,"hep-th",,"  We examine whether a minimal string model possessing the same massless
+spectra as the MSSM can be obtained from $Z_4$, $Z_6$ and $Z_8$ orbifold
+constructions. Using an anomaly cancellation condition of the target space
+duality symmetry, we derive allowable values of a level $k_1$ of U(1)$_Y$ for
+the minimal string model on the orbifolds through computer analyses. We
+investigate threshold corrections of the gauge coupling constants of SU(3),
+  SU(2) and U(1)$_Y$ and examine consistencies of the model with the LEP
+experiments. It is found that $Z_4$ and $Z_8$-II can not derive the minimal
+string model but $Z_6$-I, $Z_6$-II and $Z_8$-I are possible to derive it with
+$13/12
+  \leq k_1\leq 41/30$, $16/15\leq k_1\leq 17/12$ and $1\leq k_1\leq 41/21$
+respectively. The minimum values of the moduli on unrotated planes are
+estimated within the ranges of the levels.
+","[{""version"":""v1"",""created"":""Fri, 14 Jan 1994 04:50:21 GMT""},{""version"":""v2"",""created"":""Wed, 2 Mar 1994 01:13:30 GMT""}]","2008-02-03"
+"hep-th/9401065",,"C. Duval, P.A. Horvathy and L. Palla","Conformal symmetry of the coupled Chern-Simons and gauged nonlinear
+  Schr\""odinger equations","11 pages, Plain TEX","Phys.Lett.B325:39-44,1994","10.1016/0370-2693(94)90068-X",,"hep-th",,"  The non-relativistic conformal symmetry found by Jackiw and Pi for the
+coupled Chern-Simons and gauged nonlinear Schr\""odinger equations in the plane
+is derived in a non-relativistic Kaluza-Klein framework.
+","[{""version"":""v1"",""created"":""Fri, 14 Jan 1994 09:46:56 GMT""}]","2011-07-19"
+"hep-th/9401066",,"A Kundu and Orlando Ragnisco","A Simple Lattice Version of the Nonlinear Schrodinger Equation and its
+  Deformation with Exact Quantum Solution","14 pages (plain TEX)","J.Phys. A27 (1994) 6335-6348","10.1088/0305-4470/27/19/008",,"hep-th",,"  A lattice version of quantum nonlinear Schrodinger (NLS) equation is
+considered, which has significantly simple form and fullfils most of the
+criteria desirable for such lattice variants of field models. Unlike most of
+the known lattice NLS, the present model belongs to a class which does not
+exhibit the usual symmetry properties. However this lack of symmetry itself
+seems to be responsible for the remarkable simplification of the relevant
+objects in the theory, such as the Lax operator, the
+  Hamiltonian and other commuting conserved quantities as well as their
+spectrum.
+  The model allows exact quantum solution through algebraic Bethe ansatz and
+also a straightforward and natural generalisation to the vector case, giving
+thus a new exact lattice version of the vector NLS model. A deformation
+representing a new quantum integrable system involving Tamm-Dancoff like
+$q$-boson operators is constructed.
+","[{""version"":""v1"",""created"":""Fri, 14 Jan 1994 12:31:01 GMT""},{""version"":""v2"",""created"":""Tue, 8 Feb 1994 15:35:33 GMT""}]","2009-10-28"
+"hep-th/9401067","Denis Juriev","D. Juriev (Yur'ev; Mathematical Division, Research Institute for
+  System Studies of Russian Academy of Sciences, Moscow, Russia)","Visualizing 2D Quantum Field Theory: Geometry and Informatics of
+  Mobilevision","9 pages Amstex, revised version: typo- graphical errors are excluded",,,,"hep-th adap-org nlin.AO nlin.PS patt-sol",,"  This article is devoted to some interesting geometric and informatic
+interpretations of peculiarities of 2D quantum field theory, which become re-
+vealed after its visualization. Contents.
+  I. Geometry of Mobilevision:
+  1.1. Interpretational geometry and anomalous virtual realities;
+  1.2. Quantum projective field theory and Mobilevision;
+  1.3. Quantum conformal and q_R conformal field theories; quantum-field
+analogs of Euler-Arnold top;
+  1.4. Organizing MV cyberspace;
+  1.5. Non-Alexandrian geometry of Mobilevision.
+  II. Informatics of Mobilevision:
+  2.1. Information transmission via anomalous virtual realities: AVR-photodosy;
+  2.2. Information transmission via intentional anomalous virtual realities:
+IAVR-teleaesthesy.
+","[{""version"":""v1"",""created"":""Fri, 14 Jan 1994 14:34:25 GMT""},{""version"":""v2"",""created"":""Tue, 25 Jan 1994 16:39:32 GMT""},{""version"":""v3"",""created"":""Thu, 22 Sep 1994 13:36:35 GMT""},{""version"":""v4"",""created"":""Fri, 14 Oct 1994 08:20:10 GMT""}]","2008-02-03"
+"hep-th/9401068",,"J. S. Apps and J. S. Dowker","Diffeomorphisms of the Klein Bottle and Projective Plane","18 pages, LATEX",,,"MUTP/29/93","hep-th funct-an math.DG",,"  We calculate the Riemann curvature tensor and sectional curvature for the Lie
+group of volume-preserving diffeomorphisms of the Klein bottle and projective
+plane. In particular, we investigate the sign of the sectional curvature, and
+find a possible disagreement with a theorem of Lukatskii. We suggest an
+amendment to this theorem.
+","[{""version"":""v1"",""created"":""Fri, 14 Jan 1994 13:33:50 GMT""}]","2008-02-03"
+"hep-th/9401069","Igor Klebanov","T. Damour and A. M. Polyakov","The String Dilaton and a Least Coupling Principle","23 pages","Nucl.Phys.B423:532-558,1994","10.1016/0550-3213(94)90143-0",,"hep-th",,"  It is pointed out that string-loop modifications of the low-energy matter
+couplings of the dilaton may provide a mechanism for fixing the vacuum
+expectation value of a massless dilaton in a way which is naturally compatible
+with existing experimental data. Under a certain assumption of universality of
+the dilaton coupling functions , the cosmological evolution of the
+graviton-dilaton-matter system is shown to drive the dilaton towards values
+where it decouples from matter (``Least Coupling Principle""). Quantitative
+estimates are given of the residual strength, at the present cosmological
+epoch, of the coupling to matter of the dilaton. The existence of a weakly
+coupled massless dilaton entails a large spectrum of small, but non-zero,
+observable deviations from general relativity. In particular, our results
+provide a new motivation for trying to improve by several orders of magnitude
+the various experimental tests of Einstein's Equivalence Principle
+(universality of free fall, constancy of the constants,\dots).
+","[{""version"":""v1"",""created"":""Fri, 14 Jan 1994 15:24:00 GMT""}]","2011-05-05"
+"nucl-th/9401013",,"A. Mariano, F. Krmpoti\'c and A.F.R. de Toledo Piza","On the energy-shell contributions of the three-particle~-~ three-hole
+  excitations","12 pages text (LaTex) and 1 figure included, to be published in Phys.
+  Rev. C","Phys.Rev.C49:1949-1954,1994","10.1103/PhysRevC.49.1949",,"nucl-th",,"  The response functions for the extended second and third random phase
+approximation are compared. A second order perturbation calculation shows that
+the first-order amplitude for the direct $3p3h$ excitation from the ground
+state cancels with those that are engendered by the $1p1h$-$3p3h$ coupling. As
+a consequence nonvanishing $3p3h$ effects to the $1p1h$ response involve off
+energy shell renormalization only. On shell $3p3h$ processes are absent.
+","[{""version"":""v1"",""created"":""Fri, 14 Jan 1994 15:30:53 GMT""}]","2016-08-14"
+"solv-int/9401003","Dr ""P. A"" Clarkson","Peter A. Clarkson and Elizabeth L. Mansfield (Department of
+  Mathematics, University of Exeter, Exeter,U.K.)","On a Shallow Water Wave Equation","Tex file 21 pages, 15 figures available from author",,"10.1088/0951-7715/7/3/012","PAM #171, University of Colorado at Boulder","solv-int nlin.PS nlin.SI patt-sol",,"  In this paper we study a shallow water equation derivable using the
+Boussinesq approximation, which includes as two special cases, one equation
+discussed by Ablowitz et. al. [Stud. Appl. Math., 53 (1974) 249--315] and one
+by Hirota and Satsuma [J. Phys. Soc. Japan}, 40 (1976) 611--612]. A catalogue
+of classical and nonclassical symmetry reductions, and a Painleve analysis, are
+given. Of particular interest are families of solutions found containing a rich
+variety of qualitative behaviours. Indeed we exhibit and plot a wide variety of
+solutions all of which look like a two-soliton for t>0 but differ radically for
+t<0. These families arise as nonclassical symmetry reduction solutions and
+solutions found using the singular manifold method. This example shows that
+nonclassical symmetries and the singular manifold method do not, in general,
+yield the same solution set. We also obtain symmetry reductions of the shallow
+water equation solvable in terms of solutions of the first, third and fifth
+Painleve equations. We give evidence that the variety of solutions found which
+exhibit ``nonlinear superposition'' is not an artefact of the equation being
+linearisable since the equation is solvable by inverse scattering. These
+solutions have important implications with regard to the numerical analysis for
+the shallow water equation we study, which would not be able to distinguish the
+solutions in an initial value problem since an exponentially small change in
+the initial conditions can result in completely different qualitative
+behaviours.
+","[{""version"":""v1"",""created"":""Thu, 13 Jan 1994 16:13:33 GMT""}]","2009-10-28"
+"solv-int/9401004","Leon Jerome","Jerome Leon","Nonlinear integrable systems related to arbitrary space-time dependence
+  of the spectral transform","27 pages, Latex file, Submitted to Journ Math Phys",,"10.1063/1.530426","PM94/01 Phys. Math. MONTPELLIER","solv-int nlin.PS nlin.SI patt-sol",,"  We propose a general algebraic analytic scheme for the spectral transform of
+solutions of nonlinear evolution equations. This allows us to give the general
+integrable evolution corresponding to an arbitrary time and space dependence of
+the spectral transform (in general nonlinear and with non-analytic dispersion
+relations). The main theorem is that the compatibility conditions gives always
+a true nonlinear evolution because it can always be written as an identity
+between polynomials in the spectral variable $k$. This general result is then
+used to obtain first a method to generate a new class of solutions to the
+nonlinear Schroedinger equation, and second to construct the spectral transform
+theory for solving initial-boundary value problems for resonant wave-coupling
+processes (like self-induced transparency in two-level media, or stimulated
+Brillouin scattering of plasma waves or else stimulated Raman scattering in
+nonlinear optics etc...).
+","[{""version"":""v1"",""created"":""Fri, 14 Jan 1994 11:34:18 GMT""}]","2009-10-28"

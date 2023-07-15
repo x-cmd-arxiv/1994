@@ -1,0 +1,391 @@
+"astro-ph/9402048","Ian Smail","Ian Smail, Richard S. Ellis & Michael J. Fitchett","Gravitational Lensing of Distant Field Galaxies by Rich Clusters: I. --
+  Faint Galaxy Redshift Distributions","13 pages (no figures), LaTex (MN style), postscript figures available
+  via anonymous ftp in users/irs/figs/paper1.tar.gz on astro.caltech.edu,
+  PAL-IRS-2",,"10.1093/mnras/270.2.245",,"astro-ph",,"  {}From deep optical images of three clusters selected by virtue of their
+X-ray luminosity and/or optical richness (1455+22; $z=0.26$, 0016+16; $z=0.55$
+and 1603+43; $z=0.89$), we construct statistically-complete samples of faint
+field galaxies ($I \leq 25$) suitable for probing the effects of gravitational
+lensing. By selecting clusters across a wide redshift range we separate the
+effects of the mean redshift distribution of the faint field population well
+beyond spectroscopic limits and the distribution of dark matter in the lensing
+clusters. A significant lensing signature is seen in the two lower redshift
+clusters whose X-ray properties are well-constrained. Based on these and
+dynamical data, it is straightforward to rule out field redshift distributions
+for $I \leq 25$ which have a significant low redshift excess compared to the no
+evolution prediction, such as would be expected if the number counts at faint
+limits were dominated by low-$z$ dwarf systems. The degree to which we can
+constrain any high redshift tail to the no evolution redshift distribution
+depends on the distribution of dark matter in the most distant lensing cluster.
+In the second paper in this series, we use the lensing signal to reconstruct
+the full two-dimensional mass distribution in the clusters and, together with
+high resolution X-ray images, demonstrate that their structural properties are
+well-understood. The principal result is therefore the absence of a dominant
+low-$z$ dwarf population to $I \leq25$.
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 04:15:22 GMT""}]","2015-06-24"
+"astro-ph/9402049","Ian Smail","Ian Smail, Richard S. Ellis, Michael J. Fitchett & Alastair C. Edge","Gravitational Lensing of Distant Field Galaxies by Rich Clusters: II. --
+  Cluster Mass Distributions","13 pages (no figures), LaTex (MN style), postscript figures available
+  via anonymous ftp in users/irs/figs/paper2.tar.gz on astro.caltech.edu,
+  PAL-IRS-3",,"10.1093/mnras/273.2.277",,"astro-ph",,"  Using a non-parametric procedure developed by Kaiser \& Squires (1993), we
+analyse the statistical image distortions of faint field galaxies to $I\ls25.5$
+in two distant X-ray luminous clusters 1455+22 ($z_{cl}=0.26$) and 0016+16
+($z_{cl}=0.55$) to derive two dimensional projected mass distributions for the
+clusters. The mass maps of 1455+22 and 0016+16 are presented at effective
+resolutions of 135 kpc and 200 kpc respectively (for $H_o$=50 kms sec$^{-1}$
+Mpc$^{-1}$, $q_o=0.5$) with a mean signal to noise per resolution element of 17
+and 14. We compare our 2-D mass distributions on scales up to $\sim$1 Mpc with
+those defined by the spatial distribution of colour-selected cluster members
+and from deep high resolution X-ray images of the hot intracluster gas. Despite
+the different cluster morphologies, one being cD-dominated and the other not,
+in both cases the form of the mass distribution derived from the lensing signal
+is strikingly similar to that traced by both the cluster galaxies and the hot
+X-ray gas. We find some evidence for a greater central concentration of dark
+matter with respect to the galaxies. The overall similarity between the
+distribution of total mass and that defined by the baryonic components presents
+a significant new observational constraint on the nature of dark matter and the
+evolutionary history of rich clusters.
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 04:17:20 GMT""}]","2015-06-24"
+"astro-ph/9402050","Matthias Steinmetz","Matthias Steinmetz","The Formation of Galaxies: A Challenge for Supercomputers -- a Simple
+  Task for GRAPE ?","7 pages, compressed uu-encoded postscript file (116kB), contribution
+  to the exhibition on High Performance Computing and Networking (HPCN94),
+  Munich, April 18-20, 1994",,,,"astro-ph",,"  We present numerical simulations of galaxy formation, one of the most
+challenging problems in computational astrophysics. The key point in such
+simulations is the efficient solution of the N--body problem. If the gas of a
+galaxy is treated by means of smoothed particle hydrodynamics (SPH), the
+hydrodynamic equations can be reduced to a form similar to that of the N--body
+problem. A straightforward implementation requires a computational effort
+$\propto N^2$, making it prohibitively expensive to simulate systems larger
+than $10^5$ particles even on the largest available supercomputers. After a
+description of the physical and numerical problems, we shortly review the
+standard numerical methods to tackle these problems and discuss their
+advantages and drawbacks. We also present a completely different approach to
+perform such simulations using a workstation in combination with the special
+purpose hardware {\sc Grape}. After a discussion of the main features of {\sc
+Grape}, we present a simple implementation of a {\sc SPH}--N--body code on such
+a configuration. Comparing results and performance of these two approaches, we
+show, that with an investment of US \$ 50000, the problem can be solved up to 5
+times faster than on a {\sc Cray} YMP.
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 09:48:27 GMT""}]","2007-05-23"
+"astro-ph/9402051",,"Roberto Turolla, Luca Zampieri, Monica Colpi and Aldo Treves","Spherical Accretion onto Neutron Stars Revisited: Are Hot Solutions
+  Possible ?","11 pages (3 postscript files figures available on request), PlainTeX,
+  Ref. SISSA 21/94/A",,"10.1086/187333",,"astro-ph",,"  Stationary, spherical accretion onto an unmagnetized neutron star is here
+reconsidered on the wake of the seminal paper by Zel'dovich \& Shakura (1969).
+It is found that new ``hot'' solutions may exist for a wide range of
+luminosities. These solutions are characterized by a high temperature,
+$10^{9}\div 10^{11}$ K, and arise from a stationary equilibrium model where the
+dominant radiative mechanisms are multiple Compton scattering and
+bremsstrahlung emission. For low luminosities, $\mincir 10^{-2} \ L_{E}$, only
+the ``cold'' (\`a la Zel'dovich and Shakura) solution is present.
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 13:51:13 GMT""}]","2009-10-22"
+"astro-ph/9402052","Li-Zhi Fang","Zugan Deng, Xiaoyang Xia and Li-Zhi Fang","Typical Scales in the Spatial Distribution of QSOs","16 pages, 13 figures (available upon request), Latex, AZPH-TH/94-02,
+  to appear in Ap. J",,"10.1086/174503",,"astro-ph",,"  We present results of searching for the possible typical scales in the
+spatial distribution of QSOs. Our method is based on the second derivative of
+the two-point correlation function. This statistic is sensitive to the scale of
+the maximum in the spectrum $P(k)$ of the density perturbation in the universe.
+This maximum or bend scale can be detected as the wavelengths of the periodic
+component in the second derivative of the integral correlation function. For
+various QSO samples compiled from surveys of pencil-beam and bright QSOs, a
+typical scale of about 93 $\pm$ 10 h$^{-1}$Mpc for $q_0=0.5$ has been detected.
+This typical scale is in good agreement with that found in the spatial
+distributions of galaxies, clusters of galaxies, and CIV absorption systems of
+QSOs if $q_0$ is taken to be $\sim 0.2$. Therefore, it is likely a common or
+universal scale in the large scale structure traced by these objects. This
+result is consistent with the assumption that the typical scale comes from a
+characteristic scale in the spectrum of the density perturbation in the
+universe.
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 15:56:21 GMT""}]","2009-10-22"
+"cond-mat/9402077","Hans Werner Diehl Phy300","Theodore W. Burkhardt (Temple University) and H. W. Diehl (U. Essen)","Ordinary, extraordinary, and normal surface transitions:
+  extraordinary-normal equivalence and simple explanation of
+  $|T-T_c|^{2-\alpha}$ singularities","10 pages (RevTex 3.0) including one 1 figure, generated via a pictex
+  source file",,"10.1103/PhysRevB.50.3894",,"cond-mat",,"  With simple, exact arguments we show that the surface magnetization $m_1$ at
+the extraordinary and normal transitions and the surface energy density
+$\epsilon_1$ at the ordinary, extraordinary, and normal transitions of
+semi-infinite $d$-dimensional Ising systems have leading thermal singularities
+$B_\pm |t|^{2-\alpha}$, with the same critical exponent and amplitude ratio as
+the bulk free energy $f_b(t,0)$. The derivation is carried out in three steps:
+(i) By tracing out the surface spins, the semi-infinite Ising model with
+supercritical surface enhancement $g$ and vanishing surface magnetic field
+$h_1$ is mapped exactly onto a semi-infinite Ising model with subcritical
+surface enhancement, a nonzero surface field, and irrelevant additional surface
+interactions. This establishes the equivalence of the extraordinary ($h_1=0,
+g>0$) and normal ($h_1\neq 0, g<0$) transitions. (ii) The magnetization $m_1$
+at the interface of an infinite system with uniform temperature $t$ and a
+nonzero magnetic field $h$ in the half-space $z>0$ only is shown to be
+proportional to $f_b(t,0)-f_b(t,h)$. (iii) The energy density $\epsilon_1$ at
+the interface of an infinite system with temperatures $t_+$ and $t$ in the
+half-spaces $z>0$ and $z<0$ and no magnetic field is shown to be proportional
+to $f_b(t,0)-f_b(t_+,0)$.
+","[{""version"":""v1"",""created"":""Sun, 20 Feb 1994 19:27:03 GMT""}]","2009-10-22"
+"cond-mat/9402078",,"Norihiko Nishiguchi, Shin-ichiro Tamura, and Franco Nori","Phonon Transmission Rate, Fluctuations, and Localization in Random
+  Semiconductor Superlattices: Green's Function Approach","36 pages, Latex","Phys. Rev. B 48 (1993) 2515-2528","10.1103/PhysRevB.48.2515","UM-CM-93-27","cond-mat.mtrl-sci",,"  We analytically study phonon transmission and localization in random
+superlattices by using a Green's function approach. We derive expressions for
+the average transmission rate and localization length, or Lyapunov exponent, in
+terms of the superlattice structure factor. This is done by considering the
+backscattering of phonons, due to the complex mass density fluctuations, which
+incorporates all of the forward scattering processes. These analytical results
+are applied to two types of random superlattices and compared with numerical
+simulations based on the transfer matrix method. Our analytical results show
+excellent agreement with the numerical data. A universal relation for the
+transmission fluctuations versus the average transmission is derived
+explicitly, and independently confirmed by numerical simulations. The transient
+of the distribution of transmission to the log-normal distribution for the
+localized phonons is also studied.
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 03:13:14 GMT""}]","2009-10-22"
+"cond-mat/9402079",,"Norihiko Nishiguchi, Shin-ichiro Tamura, and Franco Nori","Phonon Universal Transmission Fluctuations and Localization in
+  Semiconductor Superlattices with a Controlled Degree of Order","16-pages, Revtex","Phys. Rev. B 48 (1993) 14426-14435","10.1103/PhysRevB.48.14426","UM-CM-93-29","cond-mat.mtrl-sci",,"  We study both analytically and numerically phonon transmission fluctuations
+and localization in partially ordered superlattices with correlations among
+neighboring layers. In order to generate a sequence of layers with a varying
+degree of order we employ a model proposed by Hendricks and Teller as well as
+partially ordered versions of deterministic aperiodic superlattices. By
+changing a parameter measuring the correlation among adjacent layers, the
+Hendricks- Teller superlattice exhibits a transition from periodic ordering,
+with alterna- ting layers, to the phase separated opposite limit; including
+many intermediate arrangements and the completely random case. In the partially
+ordered versions of deterministic superlattices, there is short-range order
+(among any $N$ conse- cutive layers) and long range disorder, as in the N-state
+Markov chains. The average and fluctuations in the transmission, the
+backscattering rate, and the localization length in these multilayered systems
+are calculated based on the superlattice structure factors we derive
+analytically. The standard deviation of the transmission versus the average
+transmission lies on a {\it universal\/} curve irrespective of the specific
+type of disorder of the SL. We illustrate these general results by applying
+them to several GaAs-AlAs superlattices for the proposed experimental
+observation of phonon universal transmission fluctuations.
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 03:16:56 GMT""}]","2009-10-22"
+"cond-mat/9402080",,"Britton Plourde, Franco Nori and Michael Bretz (Dept. of Physics, Un.
+  of Michigan, Ann Arbor)","Water Droplet Avalanches","12-pages, LaTeX","Phys. Rev. Lett. 71 (1993) 2749-2752","10.1103/PhysRevLett.71.2749","UM-CM-93-25","cond-mat.dis-nn adap-org nlin.AO",,"  We analyze the statistics of water droplet avalanches in a continuously
+driven system. Distributions are obtained for avalanche size, lifetime, and
+time between successive avalanches, along with power spectra and return maps.
+For low flow rates and different water viscosities, we observe a power-law
+scaling in the size and lifetime distributions of water droplet avalanches,
+indicating that a state with no characteristic time and length scales was
+reached. Higher flow rates resulted in an exponential behavior with
+characteristic scales.
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 03:32:23 GMT""}]","2016-08-31"
+"cond-mat/9402081",,"R. Richardson and Franco Nori (U. Michigan)","Transport and Boundary Scattering in Confined Geometries: Analytical
+  Results","35 pages, Latex","Phys. Rev. B 48 (1993) 15209-15217","10.1103/PhysRevB.48.15209","UM-CM-93-31","cond-mat.supr-con",,"  We utilize a geometric argument to determine the effects of boundary
+scattering on the carrier mean-free path in samples of various cross sections.
+Analytic expressions for samples with rectangular and circular cross sections
+are obtained. We also outline a method for incorporating these results into
+calculations of the thermal conductivity.
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 04:14:51 GMT""}]","2009-10-22"
+"cond-mat/9402082",,"R. A. Richardson and Franco Nori (U. Michigan)","Effective Carrier Mean-Free Path in Confined Geometries","12 pages, Latex","Appl. Phys. Lett. 63 (1993) 2076-2078","10.1063/1.110597","UM-CM-93-30","cond-mat.mtrl-sci cond-mat.supr-con",,"  The concept of exchange length is used to determine the effects of boundary
+scattering on transport in samples of circular and rectangular cross section.
+Analytical expressions are presented for an effective mean-free path for
+transport in the axial direction. The relationship to the phonon thermal
+conductivity is discussed. (This letter outlines the results presented in
+detail in the longer version, available as cond-mat/9402081)
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 04:39:26 GMT""}]","2009-10-22"
+"cond-mat/9402083","Marcio J. Martins","M.J.Martins","On the parafermionic scattering of an integrable Heisenberg model with
+  impurity","14 pages, UFSCARF-TH-94-4",,"10.1016/0550-3213(94)90025-6",,"cond-mat",,"  We have studied the massive parafermionic sector of an integrable spin-$s$
+chain with an impurity of spin-$s^{'}$ in presence of a magnetic field. The
+effect of the impurity is encoded in a computable parafermionic impurity
+scattering amplitude and its contribution to the finite size properties of the
+free energy is discussed. As an example we compute the non-integer degeneracy
+of the ground state. For the simplest model of $s=1$ and $s^{'}=1/2$, its
+interpretation in terms of conformally invariant boundary conditions is
+presented.
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 14:22:40 GMT""}]","2009-10-22"
+"cond-mat/9402084",,"I.V.Kolokolov Budker (Institute of Nuclear Physics, Novosibirsk
+  630090, Russia)","Functional integration method for 1D localization, multipoint
+  correlators and persistent current in mesoscopic ring at arbitrary magnetic
+  fields","19 pages, published in shorter form in JETP 76(1993),p.1099, assepted
+  in present form in Ann.of Phys.(NY)",,,,"cond-mat",,"  Starting from the Abrikosov-Ryzhkin formulation of the 1D random potential
+problem I find closed functional representations for various physical
+quantities. These functional integrals are calculated exactly without the use
+of any perturbative expansions. The expressions for the multipoint densities
+correlators are obtained. Then I evaluate the mean square dispersion of the
+size of localized wave functions. As a physical application of the method, I
+find the expectation value of the persistent current in mesoscopic ring with
+arbitrary magnetic flux $\Phi$. (For small $\Phi$ this problem has been solved
+by O.Dorokhov). The case when the random potential has finite correlation
+length is considered too.
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 12:47:00 GMT""}]","2007-05-23"
+"gr-qc/9402036",,"C. Kiefer and H. D. Zeh","Arrow of time in a recollapsing quantum universe","Many conceptual clarifications included","Phys.Rev. D51 (1995) 4145-4153","10.1103/PhysRevD.51.4145",,"gr-qc",,"  We show that the Wheeler-DeWitt equation with a consistent boundary condition
+is only compatible with an arrow of time that formally reverses in a
+recollapsing universe. Consistency of these opposite arrows is facilitated by
+quantum effects in the region of the classical turning point. Since
+gravitational time dilation diverges at horizons, collapsing matter must then
+start re-expanding ``anticausally"" (controlled by the reversed arrow) before
+horizons or singularities can form. We also discuss the meaning of the
+time-asymmetric expression used in the definition of ``consistent histories"".
+We finally emphasize that there is no mass inflation nor any information loss
+paradox in this scenario.
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 09:15:25 GMT""},{""version"":""v2"",""created"":""Thu, 1 Dec 1994 12:33:39 GMT""}]","2009-10-22"
+"gr-qc/9402037","Gerard 't Hooft","G. 't Hooft","Horizon Operator Approach to Black Hole Quantization","(presented at ""The Black Hole 25 Years After"", Santiago, Chile, 17-21
+  January 1994, TEX, 19 pages, 4 figures (postscript), THU-94/02",,,,"gr-qc",,"  The $S$-matrix Ansatz for the construction of a quantum theory of black holes
+is further exploited. We first note that treating the metric tensor $g_{\m\n}$
+as an operator rather than a background allows us to use a setting where
+information is not lost. But then we also observe that the 'trans-Planckian'
+particles (particles with kinetic energies beyond the Planck energy) need to be
+addressed. It is now postulated that they can be transformed into
+'cis-Planckian particles' (having energies less that the Planck energy). This
+requires the existence of a delicate algebra of operators defined at a black
+hole horizon. Operators describing ingoing particles are mapped onto operators
+describing outgoing ones, preserving their commutator algebra. At short
+distance, the transverse gravitational back reaction dictates a discrete
+lattice of data points, and at large distance the algebra must reproduce known
+interactions of the Standard Model of elementary particles. It is suggested
+that further elaboration of these ideas requiring complete agreement with
+general relativity and unitarity should lead to severe restrictions concerning
+the inter-particle interactions.
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 13:36:48 GMT""}]","2007-05-23"
+"hep-ph/9402324",,"N.N. Nikolaev, B.G. Zakharov and V.R. Zoller","The BFKL and GLDAP regimes for the perturbative QCD pomeron","34 pages, 6 figures by mail from kph154@zam001.zam.kaf-juelich.de","J.Exp.Theor.Phys. 78 (1994) 806-820; Zh.Eksp.Teor.Fiz. 105 (1994)
+  1498-1524",,"KFA-IKP(Th)-1994-2","hep-ph",,"  The $S$-matrix of diffractive scattering is diagonalized in terms of the
+colour dipole-dipole cross section. Recently, we have shown that the dipole
+cross section satisfies the generalized BFKL equation. In this paper we discuss
+the spectrum and solutions of our generalized BFKL equation with allowance for
+the finite gluon correlation radius $R_{c}$. The latter is introduced in the
+gauge invariant manner. We present estimates of the intercept of the pomeron
+and find the asymptotic form of the dipole cross section. We consider the
+difference between the BFKL and GLDAP evolutions and conclude that the GLDAP
+evolution remains a viable description of deep inelastic scattering well beyond
+the kinematical range of the HERA experiments. We suggest methods of measuring
+the pomeron intercept in the HERA experiments.
+","[{""version"":""v1"",""created"":""Sun, 20 Feb 1994 17:31:06 GMT""}]","2007-05-23"
+"hep-ph/9402325",,"L. Bergstrom and P. Ernstrom","QCD corrections to direct B -> J/Psi decays","13p, USITP-94-02","Phys.Lett.B328:153-161,1994","10.1016/0370-2693(94)90444-8",,"hep-ph",,"  We calculate next to leading order QCD corrections to the direct decays b ->
+J/Psi + X and b -> eta_c + X. The strong renormalization scale dependence is
+seen to persist also in this order and in fact the rate is driven to an
+unphysical negative value at the M_b scale. We show that this is a consequence
+of the strong suppression and scale dependence in the leading order term. Large
+cancellations take place between terms from three different orders in alpha_s.
+Lacking a third order calculation we are forced to throw away the leading order
+term and all but one of the next to leading order terms. The remaining ccbar
+gluon emission term could very well be the dominant one. Even if this is not
+the case, the picture of a rate at least as suppressed as in the leading
+logarithmic approximation survives.
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 08:38:21 GMT""},{""version"":""v2"",""created"":""Mon, 28 Feb 1994 07:48:48 GMT""}]","2010-11-01"
+"hep-ph/9402326",,"A. Czarnecki and M. Je\.zabek","Distributions of leptons in decays of polarised heavy quarks","Karlsruhe Univ. preprint TTP 93-40, 19 pages, 1 figure included as
+  the postscript file fig1.ps after the Latex file","Nucl.Phys.B427:3-21,1994","10.1016/0550-3213(94)90266-6",,"hep-ph",,"  Analytic formulae are given for QCD corrections to the lepton spectra in
+decays of polarised up and down type heavy quarks. These formulae are much
+simpler than the published ones for the corrections to the spectra of charged
+leptons originating from the decays of unpolarised quarks and polarised up type
+quarks. Distributions of leptons in semileptonic $\Lambda_c$ and $\Lambda_b$
+decays can be used as spin analysers for the corresponding heavy quarks. Thus
+our results can be applied to the decays of polarised charm and bottom quarks.
+For the charged leptons the corrections to the asymmetries are found to be
+small in charm decays whereas for bottom decays they exhibit a non-trivial
+dependence on the energy of the charged lepton. Short life-time enables
+polarisation studies for the top quark. Our results are directly applicable for
+processes involving polarised top quarks.
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 10:27:00 GMT""}]","2010-11-01"
+"hep-ph/9402327","Kiwoon Choi","Kiwoon Choi","Small Flavor Conserving CP Violation in Superstring Models","20 pages, SNUTP 94-02","Nucl.Phys.Proc.Suppl.37A:181-190,1994","10.1016/0920-5632(94)90748-X",,"hep-ph",,"  It is well known that supersymmetric models allow new sources for CP
+violation that arise from soft supersymmetry breaking terms. If unsuppressed,
+these new CP-violating phases would give too large a neutron electric dipole
+moment. We discuss a mechanism for suppressing SUSY phases in string-inspired
+supergravity models in which supersymmetry is assumed to be broken by the
+auxiliary components of the dilaton and moduli superfields. (To appear in the
+Proceeding of the Third KEK Topical Conference on CP Violation, its Implication
+to Particle Physics and Cosmology)
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 10:41:31 GMT""}]","2015-06-25"
+"hep-ph/9402328","Luc Marleau","B.Dion and L. Marleau","Skyrmion solutions by generalization of the Atiyah-Manton ansatz","12 pages, revtex v3, EP-CPTh.A280.0194 and LAVAL-PHY-12-93","Phys.Rev.D49:5526-5531,1994","10.1103/PhysRevD.49.5526",,"hep-ph",,"  We generalize the approach of Atiyah and Manton for generating Skyrmion
+configurations from instantons. The result is a series which parameters are
+found directly from the chiral angle equation. The series converge rapidly to
+the exact solution for a class of the Skyrme-like models (including the Skyrme
+model itself) but describe with less accuracy other types of models. We
+describe the procedure and discuss its advantages and limitations.
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 11:20:30 GMT""},{""version"":""v2"",""created"":""Wed, 2 Mar 1994 16:02:46 GMT""}]","2008-11-26"
+"hep-ph/9402329","Luc Marleau","L. Marleau","Uncertainties in testing QCD with the photon structure function","7 pages, revtex v3, LAVAL-PHY-12-94",,,,"hep-ph",,"  We review the different approaches used to treat the photon structure
+function. We suggest that despite some uncertainties it should remain sensitive
+to $\Lambda .$
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 11:23:17 GMT""},{""version"":""v2"",""created"":""Tue, 22 Feb 1994 09:14:50 GMT""}]","2008-02-03"
+"hep-ph/9402330",,"K Golec-Biernat","Gluons from logarithmic slopes of $F_{2}$ in the NLL approximation","5 pages+(3 figures append as PS file), INP Report 1666/PH (1994)","Phys.Lett.B328:495-498,1994","10.1016/0370-2693(94)91509-1",,"hep-ph",,"  We make a critical, next-to-leading order, study of the accuracy of the Prytz
+relation, which is frequently used to extract the gluon distribution at small
+$x$ from the logarithmic slopes of the structure function $F_{2}$. We find that
+the simple relation is not generally valid in the Hera regime, but show that it
+is a reasonable approximation for gluons which are sufficiently singular at
+small $x$.
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 13:20:00 GMT""}]","2009-09-25"
+"hep-ph/9402332","J. W. F. Valle","V.B.Semikoz and J.W.F. Valle","""Nucleosynthesis constraints on active-sterile neutrino conversions in
+  the early universe with random magnetic field""","16 pages latex file, macros pream1.tex and matex.tex plus 1 figure,
+  all appended at the end","Nucl.Phys.B425:651-664,1994; erratum-ibid.B485:545-547,1997","10.1016/0550-3213(94)90292-5",,"hep-ph",,"  We consider active-sterile neutrino conversions in the early universe hot
+plasma in the presence of a random magnetic field generated at the electroweak
+phase transition. Within a random field domain the magnetization asymmetry of
+the lepton antilepton plasma produced by a uniform constant magnetic field is
+huge in contrast to their small density asymmetry, leading to a drastic change
+in the active-sterile conversion rates. Assuming that the random field provides
+the seed for the galactic field one can estimate the restrictions from
+primordial nucleosynthesis. Requiring that the extra sterile \neu does not
+enter in equilibrium with the active ones before nucleosynthesis we find limits
+of the oscillation parameters which are stronger than in the isotropic case.
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 14:18:00 GMT""}]","2009-09-25"
+"hep-ph/9402333","J. W. F. Valle","A. Ioannissyan and J.W.F. Valle","SO(10) grand unification model for degenerate neutrino masses","13 pages, latex file with one figure available by fax and two macro
+  files matex.tex and pream1.tex appended at the END of the paper","Phys.Lett.B332:93-99,1994","10.1016/0370-2693(94)90864-8",,"hep-ph",,"  This version corrects the first one in eq.3.4 and table 1 where there was a
+bar missing in the 126 representation. All other equations and results are
+unchanged and correct. However, the criticism we had made in the earlier
+version to the work of Caldwell and Mohapatra was not correct and has been
+removed from the ""note added"" where it appeared. Moreover one new reference has
+been added to ref.13.
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 14:49:00 GMT""},{""version"":""v2"",""created"":""Mon, 21 Mar 1994 21:29:00 GMT""}]","2009-09-25"
+"hep-th/9402115","Andrei Linde","Andrei Linde and Dmitri Linde","Topological Defects as Seeds for Eternal Inflation","21 pages, 17 figures (not included), Stanford University preprint
+  SU--ITP--94--3","Phys.Rev.D50:2456-2468,1994","10.1103/PhysRevD.50.2456",,"hep-th astro-ph gr-qc hep-ph",,"  We investigate the global structure of inflationary universe both by
+analytical methods and by computer simulations of stochastic processes in the
+early Universe. We show that the global structure of the universe depends
+crucially on the mechanism of inflation. In the simplest models of chaotic
+inflation the Universe looks like a sea of thermalized phase surrounding
+permanently self-reproducing inflationary domains. In the theories where
+inflation occurs near a local extremum of the effective potential corresponding
+to a metastable state, the Universe looks like de Sitter space surrounding
+islands of thermalized phase. A similar picture appears even if the state $\phi
+= 0$ is unstable but the effective potential has a discrete symmetry $\phi \to
+=-\phi$. In this case the Universe becomes divided into domains containing
+different phases. These domains will be separated from each other by domain
+walls. However, unlike ordinary domain walls, these domain walls will inflate,
+and their thickness will exponentially grow. In the theories with continuous
+symmetries inflation generates exponentially expanding strings and monopoles
+surrounded by thermalized phase. Inflating topological defects will be stable,
+and they will unceasingly produce new inflating topological defects. This means
+that topological defects may play a role of indestructible seeds for eternal
+inflation.
+","[{""version"":""v1"",""created"":""Sun, 20 Feb 1994 16:47:42 GMT""}]","2009-09-29"
+"hep-th/9402116","Fis. Teorica. Valladolid.","A. Ballesteros, F.J. Herranz, M.A. del Olmo and M. Santander","Cayley-Klein Lie Algebras and their Quantum Universal Enveloping
+  Algebras","7 pages, AMS-TEX file, UVA/93-102","Non-Associative Algebras and its Applications. Mathematics and its
+  Applications, vol. 303. Ed: S. Gonzalez, (Springer: Dordrecht), 1994, pp.
+  17-23","10.1007/978-94-011-0990-1_4",,"hep-th",,"  The N-dimensional Cayley-Klein scheme allows the simultaneous description of
+$3^N$ geometries (symmetric orthogonal homogeneous spaces) by means of a set of
+Lie algebras depending on $N$ real parameters. We present here a quantum
+deformation of the Lie algebras generating the groups of motion of the two and
+three dimensional Cayley-Klein geometries. This deformation (Hopf algebra
+structure) is presented in a compact form by using a formalism developed for
+the case of (quasi) free Lie algebras. Their quasitriangularity (i.e., the most
+usual way to study the associativity of their dual objects, the quantum groups)
+is also discussed.
+","[{""version"":""v1"",""created"":""Sun, 20 Feb 1994 22:52:00 GMT""}]","2019-07-19"
+"hep-th/9402117","Kim Chanju","Chanju Kim","A Renormalization Group Flow Approach to Decoupling and Irrelevant
+  Operators","26 pages, LaTeX, 1 figure Revised version to appear in Annals of
+  Physics (Title was changed. Renormalization conditions on heavy fields were
+  changed to physical ones.)","Ann. Phys. 243 (1995) 117","10.1006/aphy.1995.1093","SNUTP-94-20","hep-th hep-ph",,"  Using Wilson-Polchinski renormalization group equations, we give a simple new
+proof of decoupling in a $\phi^4$-type scalar field theory involving two real
+scalar fields (one is heavy with mass $M$ and the other light). Then, to all
+orders in perturbation theory, it is shown that effects of virtual heavy
+particles up to the order $1/M^{2N_0}$ can be systematically incorporated into
+light-particle theory via effective local vertices of canonical dimension at
+most $4+2N_0$. The couplings for vertices of dimension $4+2N$ are of order
+$1/M^{2N}$ and are systematically calculable. All this is achieved through
+intuitive dimensional arguments without resorting to complicated graphical
+arguments or convergence theorems.
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 12:09:10 GMT""},{""version"":""v2"",""created"":""Tue, 22 Feb 1994 04:12:33 GMT""},{""version"":""v3"",""created"":""Tue, 21 Mar 1995 14:41:13 GMT""}]","2009-10-28"
+"hep-th/9402118",,"Fiorenzo Bastianelli and Nobuyoshi Ohta","The BRST Operator for the Large $N=4$ Superconformal Algebra","Latex file, 16 pages, NBI-HE-94-10","Phys.Rev. D50 (1994) 4051-4059","10.1103/PhysRevD.50.4051",,"hep-th",,"  We review the detailed structure of the large $N=4$ superconformal algebra,
+and construct its BRST operator which constitutes the main object for analyzing
+$N=4$ strings. We then derive the general condition for the nilpotency of the
+BRST operator and show that there exists a line of critical $N=4$ string
+theories.
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 14:04:56 GMT""},{""version"":""v2"",""created"":""Mon, 27 Jun 1994 02:24:18 GMT""}]","2009-10-28"
+"math/9402211",,"Alvaro Arias","Isomorphisms of operator algebras",,,,"Banach Archive 2/21/94","math.FA",,"  In this paper we prove that several operator algebras are completely
+isomorphic to each other; e.g., the $C^*_\lambda(F_k)$, $k\geq 2$, the
+$C^*$-algebras generated by the regular left representation $\lambda:F_k\to
+B(\ell_2(F_k))$, are completely isomorphic to each other.
+  We also study the ``non-commutative'' analytic spaces introduced by G.
+Popescu [Po], and give applications to Popescu's version of Von Neumann's
+inequality.
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 00:00:00 GMT""}]","2008-02-03"
+"nucl-th/9402023",,"E. B. Balbutsev, A.V. Unzhakova, M. V. Andres, F. Catara and E. G.
+  Lanza","Role of the Low-Lying Isoscalar Dipole Modes in the Polarization
+  Potential","Latex, 16 pages + 4 figures (available upon request:
+  LANZA@CT.INFN.IT)","Phys.Atom.Nucl. 58 (1995) 548-555; Yad.Fiz. 58N4 (1995) 604-611",,,"nucl-th",,"  An analysis of the real and imaginary part of the polarization potential in
+terms of the relative contributions of the single collective states for the $
+^{208}Pb + ^{208}Pb $ system has been done. The polarization potential has been
+calculated within the Feshbach formalism taking into account the collective
+states calculated with the Wigner function moments method. The contribution of
+the isoscalar giant dipole resonance states has been estimated being of the
+order of 10 - 20 \% of the total at relatively low incident energy.
+","[{""version"":""v1"",""created"":""Mon, 21 Feb 1994 11:55:00 GMT""}]","2009-09-25"

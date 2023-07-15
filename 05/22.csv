@@ -1,0 +1,113 @@
+"gr-qc/9405046","Roberto De Pietri dottVI","R. De Pietri, L. Lusanna & M. Pauri","Standard and Generalized Newtonian Gravities as ``Gauge'' Theories of
+  the Extended Galilei Group - I: The Standard Theory","51 pages , compress, uuencode LaTex file","Class.Quant.Grav.12:219-254,1995","10.1088/0264-9381/12/1/019",,"gr-qc",,"  Newton's standard theory of gravitation is reformulated as a {\it gauge}
+theory of the {\it extended} Galilei Group. The Action principle is obtained by
+matching the {\it gauge} technique and a suitable limiting procedure from the
+ADM-De Witt action of general relativity coupled to a relativistic mass-point.
+","[{""version"":""v1"",""created"":""Sun, 22 May 1994 13:27:08 GMT""}]","2010-04-06"
+"gr-qc/9405047","Roberto De Pietri dottVI","R. De Pietri, L. Lusanna & M. Pauri","Standard and Generalized Newtonian Gravities as ``Gauge'' Theories of
+  the Extended Galilei Group - II: Dynamical Three-Space Theories","29 pages , compress, uuencode LaTex file, gr-qc/95050xx","Class.Quant.Grav.12:255-272,1995","10.1088/0264-9381/12/1/020",,"gr-qc",,"  In a preceding paper we developed a reformulation of Newtonian gravitation as
+a {\it gauge} theory of the extended Galilei group. In the present one we
+derive two true generalizations of Newton's theory (a {\it ten-fields} and an
+{\it eleven-fields} theory), in terms of an explicit Lagrangian realization of
+the {\it absolute time} dynamics of a Riemannian three-space. They turn out to
+be {\it gauge invariant} theories of the extended Galilei group in the same
+sense in which general relativity is said to be a {\it gauge} theory of the
+Poincar\'e group. The {\it ten-fields} theory provides a dynamical realization
+of some of the so-called ``Newtonian space-time structures'' which have been
+geometrically classified by K\""{u}nzle and Kucha\v{r}. The {\it eleven-fields}
+theory involves a {\it dilaton-like} scalar potential in addition to Newton's
+potential and, like general relativity, has a three-metric with {\it two}
+dynamical degrees of freedom. It is interesting to find that, within the linear
+approximation, such degrees of freedom show {\it graviton-like} features: they
+satisfy a wave equation and propagate with a velocity related to the scalar
+Newtonian potential.
+","[{""version"":""v1"",""created"":""Sun, 22 May 1994 13:40:30 GMT""}]","2010-04-06"
+"hep-ph/9405350","Hector DE Vega","H.J. de Vega","Non-Equilibrium Quantum Field Evolution in FRW Cosmologies","14 pages, Latex, LPTHE 94-20",,,,"hep-ph astro-ph hep-th",,"  We derive the effective equations for the out of equilibrium time evolution
+of the order parameter and the fluctuations of a scalar field theory in
+spatially flat FRW cosmologies. After setting the problem in general we propose
+a non-perturbative, self-consistent Hartree approximation. The method consists
+of evolving an initial functional thermal density matrix in time and is
+suitable for studying phase transitions out of equilibrium. The renormalization
+aspects are studied in detail and we find that the counterterms depend on the
+initial state. We investigate the high temperature expansion and show that it
+breaks down at long times. The infinite time limit is computed for de Sitter
+spacetime. We obtain the time evolution of the initial Boltzmann distribution
+functions, and argue that in the Hartree approximation, the time evolved state
+is a ``squeezed'' state. We illustrate the departure from thermal equilibrium
+by studying the case of a free field in de Sitter and radiation dominated
+cosmologies. It is found that a suitably defined non-equilibrium entropy per
+mode increases linearly with comoving time in a de Sitter cosmology, whereas it
+is {\it not} a monotonically increasing function in the radiation dominated
+case. This work has been done in collaboration with D. Boyanovsky and R.
+Holman.
+","[{""version"":""v1"",""created"":""Sat, 21 May 1994 16:12:12 GMT""}]","2007-05-23"
+"hep-ph/9405351","Bin Shao","Bin Shao and R. D. Amado","Classical and Quantum Coherent State Description of Nucleon-Antinucleon
+  Annihilation at Rest in the Skyrme Model with Omega Mesons","15 pages (RevTex), 1 table, 13 figures (postscript files available
+  upon request from the authors), Univ. of Pennsylvania Preprint","Phys.Rev.C50:1787-1795,1994","10.1103/PhysRevC.50.1787",,"hep-ph nucl-th",,"  We model the $N\bar{N}$ system at rest as a baryon number zero lump in the
+Skyrme model including the $\omega$ field. We integrate the classical equations
+of motion from the highly non-perturbative annihilation region into the
+non-interacting radiation zone. Subsequent coherent state quantization of the
+radiation field gives a good description of the pion spectrum from annihilation
+at rest.
+","[{""version"":""v1"",""created"":""Sun, 22 May 1994 13:13:32 GMT""}]","2009-09-25"
+"hep-th/9405138","Gustav Delius","Anthony J. Bracken, Gustav W. Delius, Mark D. Gould, Yao-Zhong Zhang","Solutions to the Quantum Yang-Baxter Equation with Extra Non-Additive
+  Parameters","13 pages","J.Phys. A27 (1994) 6551-6562","10.1088/0305-4470/27/19/025","UQMATH-94-03, BI-TP-94/23","hep-th math.QA",,"  We present a systematic technique to construct solutions to the Yang-Baxter
+equation which depend not only on a spectral parameter but in addition on
+further continuous parameters. These extra parameters enter the Yang-Baxter
+equation in a similar way to the spectral parameter but in a non-additive form.
+We exploit the fact that quantum non-compact algebras such as $U_q(su(1,1))$
+and type-I quantum superalgebras such as $U_q(gl(1|1))$ and $U_q(gl(2|1))$ are
+known to admit non-trivial one-parameter families of infinite-dimensional and
+finite dimensional irreps, respectively, even for generic $q$. We develop a
+technique for constructing the corresponding spectral-dependent R-matrices. As
+examples we work out the the $R$-matrices for the three quantum algebras
+mentioned above in certain representations.
+","[{""version"":""v1"",""created"":""Sat, 21 May 1994 16:43:58 GMT""},{""version"":""v2"",""created"":""Sun, 22 May 1994 16:23:37 GMT""}]","2009-10-28"
+"hep-th/9405141",,"A.P. Balachandran, L. Chandar and B. Sathiapalan","Duality and the Fractional Quantum Hall Effect","46 pages, LATEX File. (Revised version with significant changes,
+  especially in Sections 3 and 4.)","Nucl.Phys. B443 (1995) 465-500","10.1016/0550-3213(95)00122-9","PSU/TH/144, SU-4240-578","hep-th cond-mat",,"  The edge states of a sample displaying the quantum Hall effect (QHE) can be
+described by a 1+1 dimensional (conformal) field theory of $d$ massless scalar
+fields taking values on a $d$-dimensional torus. It is known from the work of
+Naculich, Frohlich et al.\@ and others that the requirement of chirality of
+currents in this \underline{scalar} field theory implies the Schwinger anomaly
+in the presence of an electric field, the anomaly coefficient being related in
+a specific way to Hall conducvivity. The latter can take only certain
+restricted values with odd denominators if the theory admits fermionic states.
+We show that the duality symmetry under the $O(d,d;{\bf Z})$ group of the free
+theory transforms the Hall conductivity in a well-defined way and relates
+integer and fractional QHE's. This means, in particular, that the edge spectra
+for dually related Hall conductivities are identical, a prediction which may be
+experimentally testable. We also show that Haldane's hierarchy as well as
+certain of Jain's fractions can be reproduced from the Laughlin fractions using
+the duality transformations. We thus find a framework for a unified description
+of the QHE's occurring at different fractions. We also give a derivation of the
+wave functions for fractions in Haldane's hierarchy.
+","[{""version"":""v1"",""created"":""Sat, 21 May 1994 23:39:00 GMT""},{""version"":""v2"",""created"":""Sun, 22 May 1994 18:56:33 GMT""},{""version"":""v3"",""created"":""Tue, 24 May 1994 16:17:17 GMT""},{""version"":""v4"",""created"":""Wed, 16 Nov 1994 18:58:03 GMT""}]","2009-10-28"
+"hep-th/9405142","Bougourzi A. Hamid","A. Hamid Bougourzi and Luc Vinet","A Quantum Analogue of the Boson-Fermion Correspondence","23 pages, CRM-2181","Int. J. Mod. Phys. A10 (1995) 923-942","10.1142/S0217751X95000450",,"hep-th",,"  We review the classical boson-fermion correspondence in the context of the
+$\widehat{sl(2)}$ current algebra at level 2. This particular algebra is ideal
+to exhibit this correspondence because it can be realized either in terms of
+three real bosonic fields or in terms of one real and one complex fermionic
+fields. We also derive a fermionic realization of the quantum current algebra
+$U_q(\widehat{sl(2)})$ at level 2 and by comparing this realization with the
+existing bosonic one we extend the classical correspondence to the quantum
+case.
+","[{""version"":""v1"",""created"":""Sun, 22 May 1994 00:45:07 GMT""}]","2015-06-26"
+"hep-th/9405143",,"Dmitri V. Fursaev","Spectral Geometry and One-loop Divergences on Manifolds with Conical
+  Singularities","preprint DSF-13/94, 13 pages, latex file","Phys.Lett. B334 (1994) 53-60","10.1016/0370-2693(94)90590-8",,"hep-th",,"  Geometrical form of the one-loop divergences induced by conical singularities
+of background manifolds is studied. To this aim the heat kernel asymptotic
+expansion on spaces having the structure $C_{\alpha}\times \Sigma$ near
+singular surface $\Sigma$ is analysed. Surface corrections to standard second
+and third heat coefficients are obtained explicitly in terms of angle $\alpha$
+of a cone $C_{\alpha}$ and components of the Riemann tensor. These results are
+compared to ones to be already known for some particular cases. Physical
+aspects of the surface divergences are shortly discussed.
+","[{""version"":""v1"",""created"":""Sun, 22 May 1994 13:21:02 GMT""}]","2009-10-28"
+"hep-th/9405144",,"Nathan Berkovits and Nobuyoshi Ohta","Embeddings for Non-Critical Superstrings","8 pages latex, KCL-TH-94-6 and OU-HET 189","Phys.Lett. B334 (1994) 72-78","10.1016/0370-2693(94)90593-2",,"hep-th",,"  It was previously shown that at critical central charge, $N$-extended
+superstrings can be embedded in $(N+1)$-extended superstrings. In other words,
+$(N=0,c=26)\to (N=1,c=15)\to (N=2,c=6)\to (N=3,c=0) \to (N=4,c=0) $. In this
+paper, we show that similar embeddings are also possible for $N$-extended
+superstrings at non-critical central charge. For any $x$, the embedding is
+$(N=0,c=26+x) \to (N=1,c=15+x) \to (N=2,c=6+x) \to (N=3,c=x) \to (N=4,c=x)$. As
+was conjectured by Vafa, the $(N=2,c=9) \to (N=3,c=3)$ embedding can be used to
+prove that $N=0$ topological strings are special vaccua of N=1 topological
+strings.
+","[{""version"":""v1"",""created"":""Sun, 22 May 1994 14:24:00 GMT""}]","2009-10-28"

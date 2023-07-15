@@ -1,0 +1,210 @@
+"astro-ph/9412098","Tsvi Piran","Tsvi Piran","Gamma-Ray Bursts and Binary Neutron Star Mergers","13 pages, uuencoded ps files to apprear in IAU SYMPOSIUM 165 `COMPACT
+  STARS IN BINARIES' 15-19 August 1994, The Hague, Netherlands",,,,"astro-ph",,"  Neutron star binaries, such as the one observed in the famous binary pulsar
+PSR 1916+13, end their life in a catastrophic merge event (denoted here
+NS$^2$M). The merger releases $\approx 5 \cdot 10^{53}$ergs, mostly as
+neutrinos and gravitational radiation. A small fraction of this energy suffices
+to power $\gamma$-ray bursts (GRBs) at cosmological distances. Cosmological
+GRBs must pass, however, an optically thick fireball phase and the observed
+$\gamma$-rays emerge only at the end of this phase. Hence, it is difficult to
+determine the nature of the source from present observations (the agreement
+between the rates of GRBs and NS$^2$Ms being only an indirect evidence for this
+model). In the future a coinciding detection of a GRB and a gravitational
+radiation signal could confirm this model.
+","[{""version"":""v1"",""created"":""Sat, 31 Dec 1994 14:27:58 GMT""}]","2009-09-25"
+"cond-mat/9412122","M. C. W. van Rossum","M. C. W. van Rossum, Johannes F. de Boer, and Th. M. Nieuwenhuizen","Third Cumulant of the total Transmission of diffuse Waves","16 pages revtex, 8 separate postscript figures",,"10.1103/PhysRevE.52.2053","m2","cond-mat",,"  The probability distribution of the total transmission is studied for waves
+multiple scattered from a random, static configuration of scatterers. A
+theoretical study of the second and third cumulant of this distribution is
+presented. Within a diagrammatic approach a theory is developed which relates
+the third cumulant normalized to the average, $\langle \langle T_a^3 \rangle
+\rangle$, to the normalized second cumulant $\langle \langle T_a^2 \rangle
+\rangle$. For a broad Gaussian beam profile it is found that $\langle \langle
+T_a^3 \rangle \rangle= \frac{16}{5} \langle \langle T_a^2 \rangle \rangle^2 $.
+This is in good agreement with data of optical experiments.
+","[{""version"":""v1"",""created"":""Fri, 30 Dec 1994 18:59:53 GMT""}]","2009-10-22"
+"cond-mat/9412123","Bernd Diekmann","B. Diekmann, P. Borrmann, E.R. Hilf","Structures and Stabilities of H3+(H2)n Clusters (n=1-11)","9 pages, LaTeX, uses REVTEX, coloured postscript figures (also
+  printable in bw) available at
+  http://www.physik.uni-oldenburg.de/Docs/documents/UOL-THEO3-94-5/Figures.uu,
+  article (html-form) available at
+  http://www.physik.uni-oldenburg.de/Docs/documents/UOL-THEO3-94-5/cont.html",,,"UOL-THEO3-94-5","cond-mat",,"  Geometries and energies for H3+(H2)n clusters (n = 0, ..., 11) have been
+calculated using standard ""ab initio"" methods. Up to clusters with n = 6, four
+different Pople basis sets (DZ, TZ, TZP) have been used in the calculations.
+For larger cluster sizes, the calculations have been carried out with one basis
+set (DZ) using the HF/CISD method. We discuss here only the nice counterplay of
+polarisation effects between the central H3+ ion and the adsorbed H2 molecules,
+which naturally governs both the geometric structure and the energy of the
+clusters.
+","[{""version"":""v1"",""created"":""Sat, 31 Dec 1994 12:55:32 GMT""}]","2007-05-23"
+"dg-ga/9412007","Guido Haak","J. Dorfmeister, G. Haak","Meromorphic Potentials and Smooth CMC Surfaces","39 pages, LaTeX2e format, LaTeX 2.09 optional, 2 postscript figures
+  not included, they can be obtained via WWW. point your WWW client at:
+  http://poincare.math.ukans.edu/CMC.html This is a revision correcting several
+  misprints and TeX problems",,,"Report KITCS94-12-1 (University of Kansas)","dg-ga math.DG",,"  This work is based on the approach developed by J.~Dorfmeister, F.~Pedit and
+H.~Wu [GANG and KITCS preprint, Report KITCS94-4-1] to construct maps
+$\Phi:D\rightarrow R^3$, $D$ being the unit disk in $C$, whose images are
+surfaces of constant mean curvature. They start from certain meromorphic one
+forms, so called meromorphic potentials, which take values in a twisted loop
+algebra over $su(2)$. The authors give necessary and sufficient conditions on
+the meromorphic potential for the constructed map $\Phi$ to be an immersion.
+This revision corrects several misprints and minor TeX problems.
+","[{""version"":""v1"",""created"":""Sat, 31 Dec 1994 05:04:38 GMT""},{""version"":""v2"",""created"":""Wed, 13 Mar 1996 08:58:36 GMT""}]","2008-02-03"
+"hep-ex/9412018","Thomas J. Phillips","Thomas J. Phillips (Physics Department, Duke University Durham, NC,
+  USA)","A Technique for Directly Measuring the Gravitational Acceleration of
+  Antihydrogen","Written version of invited contribution to LEAP'94: Third Biennial
+  Conference on Low-Energy Antiproton Physics. Latex, requires macro epsfig
+  (included with figures), which uses epsf; 11 pages, 4 figures",,,,"hep-ex gr-qc",,"  The gravitational force on antimatter has never been directly measured. A
+method is suggested for measuring the acceleration of antimatter $(\bar g)$ by
+measuring the deflection of a beam of neutral antihydrogen atoms in the Earth's
+gravitational field. While a simple position measurement of the beam could be
+used, a more efficient measurement can be made using a transmission
+interferometer. A 1% measurement of $\bar g$ should be possible from a beam of
+about 100,000 atoms, with the ultimate accuracy being determined largely by the
+number of antihydrogen atoms that can be produced. A method is suggested for
+producing an antihydrogen beam appropriate for this experiment.
+","[{""version"":""v1"",""created"":""Fri, 30 Dec 1994 21:03:31 GMT""}]","2007-05-23"
+"hep-lat/9412113","Kevin Cahill","Kevin Cahill and Gary Herling","Noncompact Gauge-Invariant Simulations of U(1), SU(2), and SU(3)","For U(1), we switched from beta = 2 / g^2 to beta = 1 / g^2; 3 pages;
+  latex and espcrc2.sty; one figure generated by PiCTeX; our contribution to
+  Lattice '94","Nucl.Phys.Proc.Suppl. 42 (1995) 858-860","10.1016/0920-5632(95)00403-V",,"hep-lat",,"  We have applied a new gauge-invariant, noncompact, Monte Carlo method to
+simulate the $U(1)$, $SU(2)$, and $SU(3)$ gauge theories on $8^4$ and $12^4$
+lattices. The Creutz ratios of the Wilson loops agree with the exact results
+for $U(1)$ for $\beta \ge 0.5$ apart from a renormalization of the charge. The
+$SU(2)$ and $SU(3)$ Creutz ratios robustly display quark confinement at $\beta
+= 0.5$ and $\beta = 2$, respectively. At much weaker coupling, the $SU(2)$ and
+$SU(3)$ Creutz ratios agree with perturbation theory after a renormalization of
+the coupling constant. For $SU(3)$ the scaling window is near $ \beta = 2 $,
+and the relation between the string tension $\sigma $ and our lattice QCD
+parameter $ \Lambda_L $ is $\sqrt{\sigma} \approx 5 \Lambda_L$.
+","[{""version"":""v1"",""created"":""Sat, 31 Dec 1994 07:22:46 GMT""},{""version"":""v2"",""created"":""Tue, 14 Feb 1995 01:22:20 GMT""}]","2009-10-28"
+"hep-ph/9412390","W. S. Hou","Wei-Shu Hou and Gwo-Guang Wong","Perspective on Quark Mass and Mixing Relations","10 pages, ReVtex, no figures","Phys.Rev.D52:5269-5272,1995","10.1103/PhysRevD.52.5269","NTUTH-94-21","hep-ph",,"  Recent data indicate that $V_{ub}\cong \lambda^4 \cong (0.22)^4$, while $m_t$
+seems to be $174$ GeV. The relations $m_d/m_s\sim m_s/m_b \sim \delta \sim
+\lambda^2 \simeq \vert V_{cb}\vert$ and $m_u/m_c\sim m_c/m_t \sim \delta^2 \sim
+\lambda^4 \sim \vert V_{ub}\vert$ suggest that %a plausible clean separation of
+the %origin of the quark mixing matrix: the down type sector is responsible for
+$\vert V_{us}\vert$ and $\vert V_{cb}\vert$, while $V_{ub}$ comes from the up
+type sector. Five to six parameters might suffice to account for the ten quark
+mass and mixing parameters, resulting in specific power series representations
+for the mass matrices. In this picture, $\delta$ seems to be the more sensible
+expansion parameter, while $\lambda \cong \sqrt{m_d/m_s} \sim \sqrt{\delta}$ is
+tied empirically to $(M_d)_{11} = 0$.
+","[{""version"":""v1"",""created"":""Sat, 31 Dec 1994 01:09:16 GMT""}]","2010-11-01"
+"hep-ph/9412391",,"Danilo Villarroel and Rodrigo Rivera","Violation of the Energy Conservation Law in Lorentz-Dirac Equations for
+  More Than One Charge","Latex, 16 pages and 1 fig available from rivera@newton.fis.utfsm.cl",,,,"hep-ph",,"  An exact solution of Lorentz-Dirac equations where the energy conservation
+law is violated, is described herein for the case of two charges.
+","[{""version"":""v1"",""created"":""Fri, 30 Dec 1994 20:14:04 GMT""}]","2009-09-25"
+"hep-ph/9412392","Juerg Gasser","J. Gasser","The $\pi\pi$ scattering amplitude in chiral perturbation theory","6 pages, LaTex, uses epsf.tex and epsfig.sty; 2 uufiled figures
+  included. To be published in the second edition of the DA$\Phi$NE Physics
+  Handbook, eds. L. Maiani, G. Pancheri and N. Paver (to appear)",,,,"hep-ph",,"  We discuss $\pi\pi$ scattering in the framework of chiral perturbation
+theory. In particular, we recall the predictions made some time ago for the
+threshold parameters and for the phase shift difference
+$\delta_0^0-\delta_1^1$.
+","[{""version"":""v1"",""created"":""Fri, 30 Dec 1994 18:32:36 GMT""}]","2007-05-23"
+"hep-ph/9412393","PostDoc Its","N.G. Deshpande and Xiao-Gang He (University of Oregon)","CP asymmetry Relations Between $\bar B^0\rightarrow \pi\pi$ and $\bar
+  B^0\rightarrow \pi K$ Rates","9 pages, Revtex","Phys.Rev.Lett.75:1703-1706,1995","10.1103/PhysRevLett.75.1703","OITS-566","hep-ph",,"  We prove that CP violating rate difference $\Delta (\bar B^0 \rightarrow
+\pi^+\pi^-) = \Gamma (\bar B^0 \rightarrow \pi^+\pi^-) - \Gamma ( B^0
+\rightarrow \pi^-\pi^+)$ is related to $\Delta (\bar B^0 \rightarrow \pi^+ K^-)
+= \Gamma (\bar B^0 \rightarrow \pi^+K^-) - \Gamma (B^0 \rightarrow \pi^-K^+)$
+in the three generation Standard Model. Neglecting small annihilation diagrams,
+and in the SU(3) symmetry limit, we show $\Delta (\bar B^0 \rightarrow
+\pi^+\pi^-) = - \Delta (\bar B^0 \rightarrow \pi^+ K^-)$. The SU(3) breaking
+effects are estimated using factorization approximation, and yield $\Delta
+(\bar B^0\rightarrow \pi^+\pi^-) \approx -(f_\pi/f_K)^2\Delta (\bar B^0
+\rightarrow \pi^+K^-)$. Usefulness of this remarkable relation for determining
+phases in the CKM unitarity triangle is discussed.
+","[{""version"":""v1"",""created"":""Fri, 30 Dec 1994 18:43:03 GMT""}]","2008-11-26"
+"hep-ph/9412394",,"Wei-Min Zhang, Guey-Lin Lin and Chi-Yee Cheung","Heavy Quark Effective Theory on the Light Front","11 pages, revtex, no figures","Int.J.Mod.Phys. A11 (1996) 3297-3306","10.1142/S0217751X96001577","IP-ASTP-27-94, NHCU-HP-94-32","hep-ph",,"  The light-front heavy quark effective theory is derived to all orders in
+$1/m_Q$. In the limit $m_Q\rightarrow \infty$, the theory exhibits the familiar
+heavy quark spin-flavor symmetry. This new formalism permits a straightforward
+canonical quantization to all orders in $1/m_Q$; moreover, higher order terms
+have rather simple operator structures. The light-front heavy quark effective
+theory can serve as an useful framework for the study of non-perturbative QCD
+dynamics of heavy hadron bound states.
+","[{""version"":""v1"",""created"":""Sat, 31 Dec 1994 10:21:21 GMT""}]","2015-06-25"
+"hep-ph/9412395","Jacek Wosiek","J. Wosiek (Jagellonian University, Cracow)","Hyperintermittency ?","talk presented at the XXIV International Symposium on Multiparticle
+  Dynamics, Vietri sul mare (SA), Italy, September 1994; 5 pages, LATEX",,,"TPJU-33/94","hep-ph",,"  The analogy between the intermittency and scaling in statistical physics is
+extended to the case of more variables. It is shown that the inclusive
+densities predicted by the perturbative QCD obey generalized homogeneity
+principle which leads to many consequences in statistical physics. In
+particular the hyperscaling may be a prototype for the hyperintermittency in
+multiparticle production at high energies.
+","[{""version"":""v1"",""created"":""Sat, 31 Dec 1994 15:13:51 GMT""}]","2007-05-23"
+"hep-th/9412239","Prem Prakash Srivastava","Prem P. Srivastava","Light-Front Dynamics of Chern-Simons Systems","15 pages, Plain-tex",,,"ICTP Trieste preprint IC/94/305, IF-UERJ 017/94","hep-th",,"  Chern-Simons theory coupled to complex scalars is quantized on the light-
+front in the local light-cone gauge by constructing the self-consistent
+hamiltonian theory. It is shown that no inconsistency arises on using two local
+gauge-fixing conditions in the Dirac procedure. The light-front Hamiltonian
+turns out to be simple and the framework may be useful to construct
+renormalized field theory of particles with fractional statistics ({\it
+anyons}). The theory is shown to be relativistic and the extra term in the
+transformation of the matter field under space rotations, interpreted in
+previous works as anomaly, is argued to be gauge artefact.
+","[{""version"":""v1"",""created"":""Fri, 30 Dec 1994 19:30:38 GMT""}]","2007-05-23"
+"hep-th/9412240","Prem Prakash Srivastava","Prem P. Srivastava","Light-front Quantized Scalar Field Theory and Phase Transition","pages, Plain-tex. Expanded version of hep-th/9412205",,,"CBPF preprint NF- 074/93","hep-th",,"  The light-front Hamiltonian formulation for the scalar field theory contains
+a new ingredient in the form of a constraint equation. Renormalization of the
+two dimensional $\phi^{4}$ theory, described in the continuum, is discussed.
+The mass renormalization condition and the renormalized constraint equation
+contain all the information to describe the phase transition in the theory,
+which is found to be of the second order. We argue that the same result would
+also be obtained in the conventional equal-time formulation.
+","[{""version"":""v1"",""created"":""Fri, 30 Dec 1994 20:32:39 GMT""}]","2007-05-23"
+"hep-th/9412242","Olaf Lechtenfeld","Olaf Lechtenfeld","From N=2 Fermionic Strings to Superstrings?","15 pages, latex, no figures, macros included, 52 kb Talk at Symposium
+  in Wendisch-Rietz, 8/94",,,"ITP-UH-22/94","hep-th",,"  I review the covariant quantization of the critical $N{=}2$ fermionic string
+with and without a global ${\bf Z}_2$ twist. The BRST analysis yields massless
+bosonic and fermionic vertex operators in various ghost and picture number
+sectors, as well as picture-changers and their inverses, depending on the field
+basis chosen for bosonization. Two distinct GSO projections exist, one
+(untwisted) retaining merely the known bosonic scalar and its spectral-flow
+partner, the other (twisted) yielding two fermions and one boson, on the
+massless level. The absence of interactions in the latter case rules out
+standard spacetime supersymmetry. In the untwisted theory, the
+$U(1,1)$-invariant three-point and vanishing four-point functions are confirmed
+at tree level. I comment on the $N{=}2$ string field theory, the integration
+over moduli and the realization of spectral flow.
+","[{""version"":""v1"",""created"":""Sat, 31 Dec 1994 03:01:21 GMT""}]","2007-05-23"
+"hep-th/9412243",,"Vu B Ho","Spacetime Structures and Physical Theories","Since the electrogravitics reference list prepared by Robert
+  Stirniman (robert@wwa.com) mentioned my work hep-th/9412243, I would like to
+  replace it by this revised version with corrections and a more detailed
+  discussion. 8 pages, Latex",,,,"hep-th gr-qc",,"  General relativity is applied to the strong interaction; the nexus between
+the two being arrived at by constructing a line element having the Yukawa form,
+which is used to describe geometrically the classical dynamics of a particle
+moving under the influence of the short-range strong interaction. It is shown
+that, with reasonable assumptions, the theory of general relativity can be made
+compatible with quantum mechanics by using the general relativistic field
+equations to construct a Robertson-Walker metric for a quantum particle. The
+resulting line element of the particle can be transformed entirely to that of a
+Minkowski spacetime, and the spacetime dynamics of the particle described by a
+Minkowski observer takes the form of quantum mechanics. It is also discussed
+the physical aspects of the affine connection in general relativity and its
+relationship with the field strength of the electromagnetic field and strong
+interaction. A heuristic geometric formulation of the electromagnetic field as
+an independent spacetime structure is presented.
+","[{""version"":""v1"",""created"":""Sat, 31 Dec 1994 06:06:38 GMT""},{""version"":""v2"",""created"":""Tue, 5 Mar 1996 14:10:12 GMT""}]","2008-02-03"
+"quant-ph/9412011","Arvind","Arvind, B. Dutta, N. Mukunda and R. Simon","Two Mode Quantum Systems: Invariant Classification of Squeezing
+  Transformations and Squeezed States","Revtex 37 pages, Latex figures included","Phys. Rev. A 52, 1609 (1995)","10.1103/PhysRevA.52.1609",,"quant-ph",,"  A general analysis of squeezing transformations for two mode systems is given
+based on the four dimensional real symplectic group $Sp(4,\Re)\/$. Within the
+framework of the unitary metaplectic representation of this group, a
+distinction between compact photon number conserving and noncompact photon
+number nonconserving squeezing transformations is made. We exploit the
+$Sp(4,\Re)-SO(3,2)\/$ local isomorphism and the $U(2)\/$ invariant squeezing
+criterion to divide the set of all squeezing transformations into a two
+parameter family of distinct equivalence classes with representative elements
+chosen for each class. Familiar two mode squeezing transformations in the
+literature are recognized in our framework and seen to form a set of measure
+zero. Examples of squeezed coherent and thermal states are worked out. The need
+to extend the heterodyne detection scheme to encompass all of $U(2)\/$ is
+emphasized, and known experimental situations where all $U(2)\/$ elements can
+be reproduced are briefly described.
+","[{""version"":""v1"",""created"":""Sat, 31 Dec 1994 10:18:28 GMT""}]","2009-10-28"
+"solv-int/9501001","Adam Doliwa","Adam Doliwa (Institute of Theoretical Physics, Warsaw University),
+  Paolo Maria Santini (Dipartimento di Fisica, Universita di Catania and INFN
+  Sezione di Roma)","The Integrable Dynamics of Discrete and Continuous Curves","12 pages, LaTeX file, 4 ps figures",,,"Warsaw University IFT 22/94","solv-int nlin.SI",,"  We show that the following geometric properties of the motion of discrete and
+continuous curves select integrable dynamics: i) the motion of the curve takes
+place in the N dimensional sphere of radius R, ii) the curve does not stretch
+during the motion, iii) the equations of the dynamics do not depend explicitly
+on the radius of the sphere. Well known examples of integrable evolution
+equations, like the nonlinear Schroedinger and the sine-Gordon equations, as
+well as their discrete analogues, are derived in this general framework.
+","[{""version"":""v1"",""created"":""Fri, 30 Dec 1994 20:45:31 GMT""}]","2008-02-03"
+"supr-con/9412002","Dr. Juergen Roehler","J. R""ohler (U K""oln) and R. Cr""usemann (U Stuttgart)","Multiple Scattering Analysis of Cu-K EXAFS in Bi_2Sr_1.5Ca_1.5Cu_2O_8+d","9 pages plus 2 compressed & uuencoded ps figures, LATEX 2.09",,,,"supr-con cond-mat.supr-con",,"  We have analyzed the Cu K-EXAFS of Bi_2Sr_1.5Ca_1.5Cu_2O_8+d using a full
+multiple scattering analysis in a cluster with diameter d = 7.6 AA. The
+numerous quasi one-dimensional structural elements give rise to significant
+multiple scattering contributions in the EXAFS. We confirm the Sr/Ca ratio of
+the sample is 1:1, and one Ca atom is located close to a nominal Sr-site. At 40
+K the dimpling angle in the $\rm CuO_2-plane is found to be < 3.5 degrees.
+","[{""version"":""v1"",""created"":""Sat, 31 Dec 1994 10:54:49 GMT""}]","2008-02-03"

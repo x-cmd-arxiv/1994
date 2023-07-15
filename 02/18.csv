@@ -1,0 +1,374 @@
+"astro-ph/9402045","Wayne Hu","Wayne Hu, Douglas Scott, & Joseph Silk","Power Spectrum Constraints from Spectral Distortions in the Cosmic
+  Microwave Background","8pg, uuencoded-tarred (& hopefully more compatible!) postscript,
+  CfPA-TH-94-12","Astrophys.J. 430 (1994) L5-L8","10.1086/187424",,"astro-ph",,"  %The content of this replacement paper is identical to the original. %We have
+attempted to fix the postscript so that it will print out on %a larger number
+of printers. Using recent experimental limits on $\mu$ distortions from COBE
+FIRAS, and the large lever-arm spanning the damping of sub-Jeans scale
+fluctuations to the scale of the COBE DMR fluctuations, we set a constraint on
+the slope of the primordial power spectrum $n$. It is possible to analytically
+calculate the contribution over the full range of scales and redshifts,
+correctly taking into account fluctuation growth and damping as well as
+thermalization processes. We find that the 95\% upper limit is weakly dependent
+on cosmological parameters, e.g. $n<1.54 (h=0.5)$ and $n<1.56 (h=1.0)$ for
+$\Omega_0=1$ with marginally weaker constraints for $\Omega_0<1$ in a flat
+$\Omega_0 +\Omega_\Lambda=1$ universe.
+","[{""version"":""v1"",""created"":""Thu, 17 Feb 1994 20:41:41 GMT""},{""version"":""v2"",""created"":""Tue, 22 Feb 1994 02:40:44 GMT""}]","2009-10-22"
+"cond-mat/9402070","Allan MacDonald","A.H. MacDonald and Shou-Cheng Zhang","Collective excitations in double-layer quantum Hall systems","RevTeX, 21 pages",,"10.1103/PhysRevB.49.17208",,"cond-mat",,"  We study the collective excitation spectra of double-layer quantum-Hall
+systems using the single mode approximation. The double-layer in-phase density
+excitations are similar to those of a single-layer system. For out-of-phase
+density excitations, however, both inter-Landau-level and intra-Landau-level
+double-layer modes have finite dipole oscillator strengths. The oscillator
+strengths at long wavelengths for the latter transitions are shifted upward by
+interactions by identical amounts proportional to the interlayer Coulomb
+coupling. The intra-Landau-level out-of-phase mode has a gap when the ground
+state is incompressible except in the presence of spontaneous inter-layer
+coherence. We compare our results with predictions based on the
+Chern-Simons-Landau-Ginzburg theory for double-layer quantum Hall systems.
+","[{""version"":""v1"",""created"":""Thu, 17 Feb 1994 18:09:22 GMT""}]","2009-10-22"
+"cond-mat/9402071","Stefan Kettemann","Stefan Kettemann, Konstantin B. Efetov","Localization and dynamic persistent currents in long cylinders","revtex, 11 pages, mpifkf-01.94",,,,"cond-mat",,"  A dynamic response to a magnetic field in a long disordered cylinder is
+considered. We show that, although at high frequencies conduction is classical
+in all directions, the low frequency behavior corresponds to localization in
+the longitudinal direction and to a diamagnetic dynamic persistent current in
+the transversal one. The current density does not vanish even in the limit of
+the infinitely long cylinder.
+","[{""version"":""v1"",""created"":""Thu, 17 Feb 1994 21:10:33 GMT""}]","2007-05-23"
+"cond-mat/9402072","Rudolph A Romer","Rudolf A. R\""omer and Bill Sutherland","Exact Derivation of Luttinger Liquid Relation in a One-Dimensional
+  Two-Component Quantum System with Hyperbolic Interactions","10 REVTeX pages + 1 uuencoded figure, UoU-0010294",,"10.1016/0375-9601(94)90758-7",,"cond-mat",,"  We present an exact calculation of the Luttinger liquid relation for the
+one-dimensional, two-component SC model in the interaction strength range
+$-1<s<0$ by appropriately varying the limits of the integral Bethe Ansatz
+equations. The result is confirmed by numerical and conformal methods. By a
+related study of the transport properties of the SC model, we can give an exact
+formula for the susceptibility. Our method is applicable to a wide range of
+models such as, e.g., the Heisenberg-Ising chain.
+","[{""version"":""v1"",""created"":""Thu, 17 Feb 1994 22:10:35 GMT""}]","2016-08-14"
+"cond-mat/9402073","W. Osborn","W.R.Osborn and J.M.Yeomans","Wetting on Lines and Lattices of Cylinders","17 pages in total: 11 pages of Latex document and 6 pages of figures,
+  Latex Version 2.09, OUTP-93-40S",,"10.1103/PhysRevE.51.2053",,"cond-mat",,"  This paper discusses wetting and capillary condensation transitions on a line
+and a rectangular array of cylinders using an interface potential formalism.
+For a line of cylinders, there is a capillary condensation transition followed
+by complete wetting if the cylinders are sufficiently close together. Both
+transitions disappear as the cylinder separation is increased. The dependence
+of the wetting phase diagram of a rectangular array of cylinders is discussed
+as a function of the chemical potential, substrate--fluid interaction strength
+and surface tension.
+","[{""version"":""v1"",""created"":""Fri, 18 Feb 1994 13:17:13 GMT""}]","2009-10-22"
+"cond-mat/9402074","Nigel Goldenfeld","Lin-Yuan Chen, Nigel Goldenfeld and Y. Oono (Dept. of Physics,
+  University of Illinois at Urbana-Champaign)","Renormalization Group Theory And Variational Calculations For
+  Propagating Fronts","34 pages, plain tex with uiucmac.tex. Also available by anonymous ftp
+  to gijoe.mrl.uiuc.edu (128.174.119.153), file /pub/front_RG.tex (or .ps.Z)",,"10.1103/PhysRevE.49.4502",,"cond-mat chao-dyn nlin.CD",,"  We study the propagation of uniformly translating fronts into a linearly
+unstable state, both analytically and numerically. We introduce a perturbative
+renormalization group (RG) approach to compute the change in the propagation
+speed when the fronts are perturbed by structural modification of their
+governing equations. This approach is successful when the fronts are
+structurally stable, and allows us to select uniquely the (numerical)
+experimentally observable propagation speed. For convenience and completeness,
+the structural stability argument is also briefly described. We point out that
+the solvability condition widely used in studying dynamics of nonequilibrium
+systems is equivalent to the assumption of physical renormalizability. We also
+implement a variational principle, due to Hadeler and Rothe, which provides a
+very good upper bound and, in some cases, even exact results on the propagation
+speeds, and which identifies the transition from ` linear'- to `
+nonlinear-marginal-stability' as parameters in the governing equation are
+varied.
+","[{""version"":""v1"",""created"":""Fri, 18 Feb 1994 15:52:14 GMT""}]","2009-10-22"
+"gr-qc/9402033","Yuri Shtanov","Yuri V. Shtanov (Brown University) and Sergei A. Yushchenko
+  (Bogolyubov Institute, Kiev)","Conformally Invariant Cosmology Based on Riemann-Cartan Spacetime","Brown preprint BROWN-HET-937, 24 pages, bugs in latex fixed","Class.Quant.Grav.11:2455-2482,1994","10.1088/0264-9381/11/10/007",,"gr-qc hep-th","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  Conformally invariant GUT-like model including gravity based on Riemann -
+Cartan space-time $U_4$ is considered. Cosmological scenario that follows from
+the model is discussed and standard quantum gravitational formalism in the
+Arnowitt-Deser-Misner form is developed. General formalism is then illustrated
+on Bianchi-IX minisuperspace cosmological model. Wave functions of the universe
+in the de Sitter minisuperspace model with Vilenkin and Hartle-Hawking boundary
+conditions are considered and corresponding probability distributions for the
+scalar field values are calculated.
+","[{""version"":""v1"",""created"":""Thu, 17 Feb 1994 17:59:30 GMT""},{""version"":""v2"",""created"":""Fri, 25 Feb 1994 05:59:29 GMT""},{""version"":""v3"",""created"":""Sun, 19 Oct 2008 16:52:56 GMT""}]","2010-04-06"
+"gr-qc/9402034","Guillermo Mena","Guillermo A. Mena Marugan","Is the Exponential of the Chern-Simons Action a Normalizable Physical
+  State?","13 pages (LATEX), Preprint CGPG-94/2-2","Class.Quant.Grav.12:435-442,1995","10.1088/0264-9381/12/2/012",,"gr-qc",,"  We determine the wavefunction that corresponds to the exponential of the
+Chern-Simons action in a family of gravitational models provided with
+cosmological constant whose non-perturbative canonical quantization is
+completely known. We show that this wavefunction does not represent a proper
+quantum state, because it is not normalizable with respect to the unique inner
+product of Lorentzian gravity.
+","[{""version"":""v1"",""created"":""Thu, 17 Feb 1994 19:33:56 GMT""}]","2010-04-06"
+"hep-lat/9402013","Michael J. Creutz","Michael Creutz and Ivan Horvath","Surface states and chiral symmetry on the lattice","25 pages, BNL-60062","Phys.Rev. D50 (1994) 2297-2308","10.1103/PhysRevD.50.2297",,"hep-lat",,"  In a Hamiltonian formalism we study chiral symmetry for lattice Fermions
+formulated in terms of Shockley surface states bound to a wall in an extra
+spatial dimension. For hadronic physics this provides a natural scheme for
+taking quark masses to zero without requiring a precise tuning of parameters.
+We illustrate the chiral anomaly as a flow of states in this extra dimension.
+We discuss two alternatives for extending the picture to a chiral coupling of
+gauge fields to such Fermions; one with a small explicit breaking of gauge
+symmetry and one one with heavy mirror Fermions.
+","[{""version"":""v1"",""created"":""Thu, 17 Feb 1994 17:17:52 GMT""}]","2009-10-22"
+"hep-ph/9402310","Chi-Keung Chow","Chi-Keung Chow and Mark B. Wise","Excited $\Lambda_Q$ Baryons in the Large $N_c$ Limit","9 pages, use phyzzx, CALT-68-1919","Phys.Rev. D50 (1994) 2135-2138","10.1103/PhysRevD.50.2135",,"hep-ph",,"  The spectrum of excited $\Lambda_Q$-type heavy baryons is considered in the
+large $N_c$ limit. The universal form factors for $\Lambda_b$ semileptonic
+decay to excited charmed baryons are calculated in the large $N_c$ limit. We
+find that the Bjorken sum rule (for the slope of the Isgur--Wise function) and
+Voloshin sum rule (for the mass of the light degrees of freedom) are saturated
+by the first doublet of excited $\Lambda_Q$ states.
+","[{""version"":""v1"",""created"":""Thu, 17 Feb 1994 21:11:56 GMT""}]","2009-10-28"
+"hep-ph/9402311","Naoya Hata","Naoya Hata","Vacuum Oscillations and Future Solar Neutrino Experiments","(Revtex 3.0, 19 pages + 8 figures (uuencoded ps files attached), Easy
+  way: ps file of entire text with embedded figures available by anonymous ftp
+  at upenn5.hep.upenn.edu, get vacuum.uu in pub/hata/papers/, UPR-0605T)",,,,"hep-ph astro-ph",,"  Vacuum oscillations are considered for the combined solar neutrino
+observations, including the Kamiokande II spectrum data and incorporating
+theoretical uncertainties and their correlations. Despite the conceptual
+difficulty of the fine tuning between the neutrino parameters and the Sun-Earth
+distance, 2-flavor vacuum oscillations provide phenomenologically acceptable
+solutions. There are allowed regions at 99\% C.L. for $\Delta m^2 = (0.45 -
+1.2) \times 10^{-10} \; \mbox{eV}\,^2$ and $\sin^22\theta = 0.6 - 1$; the best
+fit solution is $\chi^2 / \mbox{d.f.} = 19.2 / 16$, which is acceptable at 16\%
+C.L. Oscillations for sterile neutrinos are, however, excluded by the averaged
+data at 99.4\% C.L. The vacuum oscillation solutions predict characteristic
+energy spectrum distortions and seasonal variations in Sudbury Neutrino
+Observatory, Super-Kamiokande, and BOREXINO. Those predictions are given in
+detail, emphasizing that the vacuum solutions are distinguishable from the MSW
+solutions.
+","[{""version"":""v1"",""created"":""Thu, 17 Feb 1994 22:05:06 GMT""}]","2007-05-23"
+"hep-ph/9402312","Dan Pirjol","D.Pirjol","Heavy Quark Distribution Functions from QCD","19 pages+1 figure LaTeX, MZ-TH/94-03",,,,"hep-ph",,"  The structure function of a heavy quark in a heavy hadron in
+electroproduction is calculated from QCD. Its deviation from the parton model
+prediction (a delta function) is shown to be governed by a shape function,
+similar to the one recently proposed by Neubert and Bigi {\em et al.} to
+describe the end-point behaviour of the lepton spectrum in semileptonic $B\to
+X_ue\bar\nu$ decays and the line shape in $B\to X_s\gamma$. Two new sum rules
+are derived which extend the Bjorken-Dunietz-Taron sum rule by including
+corrections suppressed by the inverse heavy quark mass.
+","[{""version"":""v1"",""created"":""Thu, 17 Feb 1994 22:09:52 GMT""}]","2009-09-25"
+"hep-ph/9402313","Gye Park","T. K. Kuo and Gye T. Park","Precision Electroweak Tests on the $Sp(6)_L \times U(1)_Y$ Model","14 pages+2 figures(not included), PURD-TH-93-13, to appear in Phys.
+  Rev. D(figures available upon request by regular mail)","Phys.Rev. D50 (1994) 3508-3512","10.1103/PhysRevD.50.3508",,"hep-ph",,"  We perform precision electroweak tests on the $Sp(6)_L \times U(1)_Y$ model.
+The purpose of the analysis is to delineate the model parameters such as the
+mixing angles of the extra gauge bosons present in this model. We find that the
+model is already constrained considerably by the present LEP data.
+","[{""version"":""v1"",""created"":""Fri, 18 Feb 1994 02:56:42 GMT""}]","2009-10-28"
+"hep-ph/9402314","Apostolos Pilaftsis","B.A. Kniehl and A. Pilaftsis","Quantum Effects on Higgs-Boson Production and Decay due to Majorana
+  Neutrinos","27 p. (10 figs. available upon request), LaTeX, ISSN 0418-9833, DESY
+  94-020, RAL/94-021","Nucl.Phys. B424 (1994) 18-38","10.1016/0550-3213(94)90086-8",,"hep-ph",,"  We analyze the phenomenological implications for new electroweak physics in
+the Higgs sector in the framework of SU(2)_L x U(1)_Y theories that naturally
+predict heavy Majorana neutrinos. We calculate the one-loop Majorana-neutrino
+contributions to the decay rates of the Higgs boson into pairs of quarks and
+intermediate bosons and to its production cross section via bremsstrahlung in
+e^+e^- collisions. It turns out that these are extremely small in three-
+generation models. On the other hand, the sizeable quantum corrections
+generated by a conventional fourth generation with a Dirac neutrino may be
+screened considerably in the presence of a Majorana degree of freedom.
+","[{""version"":""v1"",""created"":""Fri, 18 Feb 1994 08:41:14 GMT""}]","2009-10-28"
+"hep-ph/9402315","Peter Landshoff","P V Landshoff and J C Taylor","Photon Radiation in a Heat Bath","7 pages, plus 2 figures in pictex DAMTP 94/2","Nucl.Phys. B430 (1994) 683-694","10.1016/0550-3213(94)90165-1",,"hep-ph hep-th nucl-th",,"  We discuss the bremsstrahlung of photons into a heat bath, and calculate from
+first principles the energy radiated. Even to lowest order the spectrum of the
+radiation at low frequency is no more singular than at zero temperature. In
+addition to the obvious contributions, this spectrum includes terms associated
+with fluctuations. [Revised version has additional explanations]
+","[{""version"":""v1"",""created"":""Fri, 18 Feb 1994 10:26:22 GMT""},{""version"":""v2"",""created"":""Tue, 26 Apr 1994 10:48:17 GMT""}]","2009-10-28"
+"hep-ph/9402316","Svozil Karl, . D.","Karl Svozil","Quantum electrodynamics in the squeezed vacuum state: Feynman rules and
+  corrections to the electron mass and anomalous magnetic moment","4 p., latex-article style, TUW-preprint",,,,"hep-ph",,"  Due to the nonvanishing average photon population of the squeezed vacuum
+state, finite corrections to the scattering matrix are obtained. The lowest
+order contribution to the electron mass shift for a one mode squeezed vacuum
+state is given by $\delta m(\Omega ,s)/m=\alpha (2/\pi )(\Omega
+/m)^2\sinh^2(s)$, where $\Omega$ and $s$ stand for the mode frequency and the
+squeeze parameter and $\alpha$ for the fine structure constant, respectively.
+The correction to the anomalous magnetic moment of the electron is $\delta
+a_e(s)=-(4\alpha /\pi )\sinh^2(s)$.
+","[{""version"":""v1"",""created"":""Fri, 18 Feb 1994 10:32:21 GMT""}]","2007-05-23"
+"hep-ph/9402317",,"M.E. Pospelov","CP-odd effective gluonic Lagrangian in Kobayashi-Maskawa model","Latex, 12 pages, BUDKERINP 94-22","Phys.Lett.B328:441-449,1994","10.1016/0370-2693(94)91503-2",,"hep-ph",,"  Schwinger operator method is applied for studying CP-odd pure gluonic
+effective Lagrangian in the Standard Model at three-loop level. The induced
+$\theta$-term vanishes by the same reasons as EDMs of quark and W-boson to
+two-loop approximation. A simple way is found to demonstrate these
+cancellations. All other terms of the effective Lagrangian acquire
+non-vanishing contributions. The effective operator of dimension six, Weinberg
+operator, is calculated explicitly. The corresponding contribution to the EDM
+of neutron is much smaller than that comes from large distances.
+","[{""version"":""v1"",""created"":""Fri, 18 Feb 1994 11:04:33 GMT""}]","2010-11-01"
+"hep-ph/9402318",,"M. Knecht, B. Moussallam and J. Stern","The Reaction $\gamma\gamma\to\pi^0\pi^0$ in Generalized Chiral
+  Perturbation Theory","21 pages (plain latex)+1 fig (using feynman.tex)+ 6 figs (ps file
+  appended), IPNO/TH 94-08","Nucl.Phys. B429 (1994) 125-152","10.1016/S0550-3213(94)80044-8",,"hep-ph",,"  The cross section for $\gamma\gamma\to\pi^0\pi^0$ and the pion
+polarizabilities are computed, within generalized chiral perturbation theory,
+in the full one loop approximation, {\it i.e.} up to and including order
+$O({p^5})$. The result depends on the parameter ${\alpha}_{\pi\pi}$ defining
+the tree level $\pi - \pi$ scattering amplitude and on an additional low energy
+constant. The latter is shown to be related by an exact sum-rule to the $e^+
+e^-$ data. The parameter ${\alpha}_{\pi\pi}$ is related to the quark mass ratio
+$r = m_s /{\hat m}$ via the expansion of pseudoscalar meson masses. The
+generalized one loop $\gamma\gamma\to\pi^0\pi^0$ amplitude agrees with the
+experimental data in the threshold region provided $r= {m_s}/{\hat m}\lapprox
+10$. Higher order corrections are estimated comparing our calculation with the
+dispersive approach.
+","[{""version"":""v1"",""created"":""Fri, 18 Feb 1994 13:43:10 GMT""}]","2009-10-28"
+"hep-ph/9402323",,"Biswajoy Brahmachari, Manoj. K. Samal, Utpal Sarkar","Potential Minimization in Left-Right Symmetric Models","22 pages,PRL-TH-94/4, Latex file",,,,"hep-ph",,"  We study the Higgs potentials in the Left-Right symmetric model for various
+choices of Higgs fields. We give emphasis to the cases when the Higgs field
+$\xi=(2,2,15)$ is included to give the correct relations of quark masses and a
+singlet field $\eta$ which breaks the left-right parity. As special cases we
+also include $\xi^\prime=(2,2,15)$ and $\chi=(2,2,6)$ (which are interesting in
+the context of the three lepton decay mode of the proton) and field
+$\delta=(3,3,0)$ none of which acquire {\it vev}. We show that the linear
+couplings of these fields upon minimization put fine tuning conditions on the
+parameters of the model. We carry out the minimization of these potentials
+explicitly. In all the cases the relationship between the {\it vev$\;$}s of the
+left and right handed triplets $v_L$ and $v_R$ are given. The phenomenological
+consequences of this minimization regarding the neutrino masses are also
+studied.
+","[{""version"":""v1"",""created"":""Fri, 18 Feb 1994 15:04:33 GMT""}]","2007-05-23"
+"hep-th/9402102",,"J.M.Aroca and H. Fort","Loop Representation of the Partition Function of Lattice U(1) Gauge
+  Theory","7 pages, UAB-FT328/94",,,,"hep-th hep-lat",,"  We introduce in a natural and straigthforward way the $loop$ (Lagrangian)
+$representation$ for the partition function of pure compact lattice QED. The
+corresponding classical lattice loop action is proportional to the quadratic
+area of the loop world sheets. We discuss the parallelism between the $loop$
+formulation of this model in terms of world sheets of loops and the
+$topological$ representation of the Higgs (broken) phase for the non-compact
+lattice QED in terms of world sheets of Nielsen-Olesen strings.
+","[{""version"":""v1"",""created"":""Thu, 17 Feb 1994 16:31:31 GMT""}]","2007-05-23"
+"hep-th/9402103",,"J.M.Aroca and H. Fort","Matter Fields in the Loop Representation of the Partition Function","6 pages, UAB-FT329/94",,,,"hep-th",,"  We present the extension of the Lagrangian $loop$ representation in such a
+way to introduce matter fields. The partition function of lattice compact U(1)
+Gauge-Higgs model is expressed as a sum over closed as much as open surfaces.
+These surfaces correspond to world sheets of loop-like pure electric flux
+excitations and open electric flux tubes carrying matter fields at their ends.
+There is a duality transformation between this description in terms of loop
+world sheets and the $topological$ representation in terms of world sheets of
+Nielsen-Olesen strings both closed and open joining pairs of monopoles.
+","[{""version"":""v1"",""created"":""Thu, 17 Feb 1994 16:54:31 GMT""}]","2007-05-23"
+"hep-th/9402104","Louis Crane","Louis Crane","Possible Implications of the Quantum Theory of Gravity","5 pages, latex document",,,,"hep-th",,"  We consider the implications of some simple assumptions about the nature of
+the quantum theory of gravity which are plausible for a class of possible
+theories I have been attempting to construct. The simple assumptions turn out
+to have surprizingly wide implications of a type one might call philosophical.
+The paper is short and nontechnical. ( This builds on recent unpublished work
+of Lee Smolin, but comes to opposite conclusions).
+","[{""version"":""v1"",""created"":""Thu, 17 Feb 1994 18:18:26 GMT""}]","2007-05-23"
+"hep-th/9402105","Branko Urosevic","Branko Urosevic (Brown University)","Off-Shell Amplitudes in Two Dimensional String Field Theory","Brown preprint BROWN-HET-936, 11 pages (two figures available upon
+  request), uses phyzzx","Phys.Rev.D50:4075-4078,1994","10.1103/PhysRevD.50.4075",,"hep-th",,"  In this note we present an explicit procedure for the regularization of tree
+level amplitudes involving discrete states, using open string field theory. We
+show that there is a natural correspondence between the discrete states and
+off--shell states, later acting as a regularized version of the former. A
+general off-shell state corresponds to several physical states. In order to
+obtain the well--defined $S$ matrix elements one has to choose representatives
+close but not equal to the desired values of external momenta. The procedure
+renders finite all $4$-point amplitudes with an even number of (naively)
+divergent channels even after the regularization is removed. The rest of the
+amplitudes can be defined by means of such regularization.
+","[{""version"":""v1"",""created"":""Thu, 17 Feb 1994 20:45:24 GMT""}]","2011-07-19"
+"hep-th/9402106","Robert Rudd","Robert Rudd","Light-Cone Gauge Quantization of 2D Sigma Models","34 pages, 1 figure, PUPT-1338, RU-94-21","Nucl.Phys.B427:81-110,1994","10.1016/0550-3213(94)90270-4",,"hep-th",,"  This work describes the formulation of the manifestly ghost-free (spacetime)
+light-cone gauge for bosonic string theory with non-trivial spacetime metric,
+antisymmetric tensor, dilaton and tachyon fields. The action is a general
+two-dimensional sigma model, corresponding to a closed string theory with a
+second order action in the Polyakov picture. The spacetime fields must have a
+symmetry generated by a null, covariantly constant spacetime vector in order
+for the light-cone gauge to be accessible. Also, the theory must be Weyl
+invariant. The conditions for Weyl invariance are computed within the
+light-cone gauge, reproducing the usual beta functions. The calculation of the
+dilaton beta function and the critical dimension is somewhat novel in this
+ghost-free theory. Some exactly solvable light-cone theories are discussed.
+","[{""version"":""v1"",""created"":""Thu, 17 Feb 1994 22:40:23 GMT""}]","2008-11-26"
+"hep-th/9402107","Stefan Cordes","Stefan Cordes, Gregory Moore and Sanjaye Ramgoolam","Large N 2D Yang-Mills Theory and Topological String Theory","95 pages, 15 Postscript figures, uses harvmac (Please use the ""large""
+  print option.) Extensive revisions of the sections on topological field
+  theory. Added a compact synopsis of topological field theory. Minor typos
+  corrected. References added","Commun.Math.Phys. 185 (1997) 543-619","10.1007/s002200050102","YCTP-P23-93","hep-th alg-geom math.AG",,"  We describe a topological string theory which reproduces many aspects of the
+1/N expansion of SU(N) Yang-Mills theory in two spacetime dimensions in the
+zero coupling (A=0) limit. The string theory is a modified version of
+topological gravity coupled to a topological sigma model with spacetime as
+target. The derivation of the string theory relies on a new interpretation of
+Gross and Taylor's ``\Omega^{-1} points.'' We describe how inclusion of the
+area, coupling of chiral sectors, and Wilson loop expectation values can be
+incorporated in the topological string approach.
+","[{""version"":""v1"",""created"":""Fri, 18 Feb 1994 04:40:21 GMT""},{""version"":""v2"",""created"":""Fri, 26 Jan 1996 00:05:10 GMT""}]","2009-10-28"
+"hep-th/9402108",,"T. Fujiwara, Y. Igarashi, M. Koseki, R. Kuriki, and T. Tabei","New insight into BRST anomalies in superstring theory","29 pages, PHYZZX","Nucl.Phys. B425 (1994) 289-318","10.1016/0550-3213(94)90182-1",,"hep-th",,"  Based on the extended BRST formalism of Batalin, Fradkin and Vilkovisky, we
+perform a general algebraic analysis of the BRST anomalies in superstring
+theory of Neveu-Schwarz-Ramond. Consistency conditions on the BRST anomalies
+are completely solved. The genuine super-Virasoro anomaly is identified with
+the essentially unique solution to the consistency condition without any
+reference to a particular gauge for the 2D supergravity fields. In a
+configuration space where metric and gravitino fields are properly constructed,
+general form of the super-Weyl anomaly is obtained from the super-Virasoro
+anomaly as its descendant.
+  We give a novel local action of super-Liouville type, which plays a role of
+Wess-Zumino-Witten term shifting the super-Virasoro anomaly into the super-Weyl
+anomaly. These results reveal a hierarchial relationship in the BRST anoamlies.
+","[{""version"":""v1"",""created"":""Fri, 18 Feb 1994 08:43:58 GMT""}]","2009-10-28"
+"hep-th/9402109","Shamir Yigal","Yigal Shamir","Dynamical-Space Regular-Time Lattice and Induced Gravity","WIS-94/10-Feb-PH, LaTeX, 39 pages",,,,"hep-th astro-ph gr-qc hep-lat",,"  It is proposed that gravity may arise in the low energy limit of a model of
+matter fields defined on a special kind of a dynamical random lattice. Time is
+discretized into regular intervals, whereas the discretization of space is
+random and dynamical. A triangulation is associated to each distribution of the
+spacetime points using the flat metric of the embedding space. We introduce a
+diffeomorphism invariant, bilinear scalar action, but no ``pure gravity''
+action.
+  Evidence for the existence of a non-trivial continuum limit is provided by
+showing that the zero momentum scalar excitation has a finite energy in the
+limit of vanishing lattice spacing. Assuming the existence of localized low
+energy states which are described by a natural set of observables, we show that
+an effective curved metric will be induced dynamically. The components of the
+metric tensor are identified with quasi-local averages of certain microscopic
+properties of the quantum spacetime. The Planck scale is identified with the
+highest mass scale of the matter sector.
+","[{""version"":""v1"",""created"":""Fri, 18 Feb 1994 09:23:46 GMT""},{""version"":""v2"",""created"":""Mon, 4 Apr 1994 06:02:16 GMT""}]","2008-02-03"
+"hep-th/9402110","Grosche Christian","Christian Grosche","$\delta'$-Function Perturbations and Neumann Boundary-Conditions by Path
+  Integration","nine pages, plain Tex with AmSTeX macro-package",,"10.1088/0305-4470/28/3/007","DESY 94 - 019","hep-th",,"  $\delta'$-function perturbations and Neumann boundary conditions are
+incorporated into the path integral formalism. The starting point is the
+consideration of the path integral representation for the one dimensional Dirac
+particle together with a relativistic point interaction. The non-relativistic
+limit yields either a usual $\delta$-function or a $\delta'$-function
+perturbation; making their strengths infinitely repulsive one obtains
+Dirichlet, respectively Neumann boundary conditions in the path integral.
+","[{""version"":""v1"",""created"":""Fri, 18 Feb 1994 12:54:37 GMT""}]","2009-10-28"
+"hep-th/9402111","Vadim Kuznetsov","V.B.Kuznetsov and A.V.Tsiganov","Separation of variables for the quantum relativistic Toda lattices","13 pp., AMSTex, Report 94-07, Mathematical preprint series,
+  University of Amsterdam",,,,"hep-th",,"  We consider quantum analogs of the relativistic Toda lattices and give new
+$2\times 2$ $L$-operators for these models. Making use of the variable
+separation the spectral problem for the quantum integrals of motion is reduced
+to solving one-dimensional separation equations.
+","[{""version"":""v1"",""created"":""Fri, 18 Feb 1994 14:13:17 GMT""}]","2007-05-23"
+"math/9402210",,"Erik J. Balder, Maria Girardi, Vincent Jalby","From weak to strong types of $L_E^1$-convergence by the Bocce-criterion",,,,"Banach Archive 2/17/94","math.FA",,"  Necessary and sufficient oscillation conditions are given for a weakly
+convergent sequence (resp. relatively weakly compact set) in the
+Bochner-Lebesgue space $\l1$ to be norm convergent (resp. relatively norm
+compact), thus extending the known results for $\rl1$. Similarly, necessary and
+sufficient oscillation conditions are given to pass from weak to limited (and
+also to Pettis-norm) convergence in $\l1$. It is shown that tightness is a
+necessary and sufficient condition to pass from limited to strong convergence.
+Other implications between several modes of convergence in $\l1$ are also
+studied.
+","[{""version"":""v1"",""created"":""Thu, 17 Feb 1994 18:28:30 GMT""}]","2016-09-06"
+"nucl-th/9402022","Jon Engel","J. Engel, S. Pittel, and P. Vogel","Capture of Solar and Higher-Energy Neutrinos by Iodine 127","13 pages + 3 postscript figures (attached), in RevTex 3 , submitted
+  to Phys. Rev. C","Phys.Rev.C50:1702-1708,1994","10.1103/PhysRevC.50.1702",,"nucl-th",,"  We discuss and improve a recent treatment of the absorption of solar
+neutrinos by ${}^{127}$I, in connection with a proposed solar neutrino
+detector. With standard-solar-model fluxes and an in-medium value of -1.0 for
+the axial-vector coupling constant $g_A$, we obtain a ${}^8$B-neutrino cross
+section of 3.3$\times 10^{-42}$, about 50\% larger than in our previous work,
+and a ${}^7$Be cross section that is less certain but nevertheless also larger
+than before. We then apply the improved techniques to higher incoming energies
+that obtain at the LAMPF beam dump, where an experiment is underway to finalize
+a calibration of the ${}^{127}$I with electron neutrinos from muon decay. We
+find that forbidden operators, which play no role in solar-neutrino absorption,
+contribute nonnegligibly to the LAMPF cross section, and that the preliminary
+LAMPF mean value is significantly larger than our prediction.
+","[{""version"":""v1"",""created"":""Thu, 17 Feb 1994 18:01:33 GMT""}]","2009-09-25"
+"patt-sol/9402002","Harvey Shepard","Fred Cooper (LANL & UNH), John Dawson (UNH), and Harvey Shepard (UNH)","SUSY-Based Variational Method for the Anharmonic Oscillator","9 pages, LaTeX, 2 Figures (request), to be published in Physics
+  Letters A",,"10.1016/0375-9601(94)90051-5",,"patt-sol nlin.PS",,"  Using a newly suggested algorithm of Gozzi, Reuter, and Thacker for
+calculating the excited states of one dimensional systems, we determine
+approximately the eigenvalues and eigenfunctions of the anharmonic oscillator,
+described by the Hamiltonian $H= p^2/2 + g x^4$. We use ground state
+post-gaussian trial wave functions of the form $\Psi(x) =
+  N{\rm{exp}}[-b |x|^{2n}]$, where $n$ and $b$ are continuous variational
+parameters. This algorithm is based on the hierarchy of Hamiltonians related by
+supersymmetry (SUSY) and the factorization method. We find that our two
+parameter family of trial wave functions yields excellent energy eigenvalues
+and wave functions for the first few levels of the anharmonic oscillator.
+","[{""version"":""v1"",""created"":""Thu, 17 Feb 1994 22:24:19 GMT""}]","2009-10-28"
+"solv-int/9402002",,"Pol Vanhaecke (Universite de Lille)","Integrable systems and symmetric products of curves","28 pages, special macros included",,,,"solv-int nlin.SI",,"  We show how there is associated to each non-constant polynomial $F(x,y)$ a
+completely integrable system with polynomial invariants on $\Rd$ and on
+$\C{2d}$ for each $d\geq1$; in fact the invariants are not only in involution
+for one Poisson bracket, but for a large class of polynomial Poisson brackets,
+indexed by the family of polynomials in two variables. We show that the complex
+invariant manifolds are isomorphic to affine parts of $d$-fold symmetric
+products of a deformation of the algebraic curve $F(x,y)=0$, and derive the
+structure of the real invariant manifolds from it. We also exhibit Lax
+equations for the hyperelliptic case (i.e., when $F(x,y)$ is of the form
+$y^2+f(x)$) and we show that in this case the invariant manifolds are affine
+parts of distinguished (non-linear) subvarieties of the Jacobians of the
+curves. As an application the geometry of the H\'enon-Heiles hierarchy --- a
+family of superimposable integrable polynomial potentials on the plane --- is
+revealed and Lax equations for the hierarchy are given.
+","[{""version"":""v1"",""created"":""Fri, 18 Feb 1994 11:13:36 GMT""},{""version"":""v2"",""created"":""Tue, 22 Feb 1994 11:16:10 GMT""}]","2008-02-03"
+"solv-int/9402003",,"Peter Bueken (Katholieke Universiteit Leuven)","Multi-Hamiltonian formulation for a class of degenerate completely
+  integrable systems","25 pages, plain TeX, necessary macros included",,,,"solv-int nlin.SI",,"  Generalizing a construction of P. Vanhaecke, we introduce a large class of
+degenerate (i.e., associated to a degenerate Poisson bracket) completely
+integrable systems on (a dense subset of) the space $\R^{2d+n+1}$, called the
+generalized master systems. It turns out that certain generalized master
+systems (with different Poisson brackets and different Hamiltonians) determine
+the same Hamiltonian vector fields (and are therefore different descriptions of
+the same Hamiltonian system), and that the Poisson brackets of these systems
+are compatible. Consequently, our class of generalized master systems actually
+consists of a (smaller) class of completely integrable systems, and our
+construction yields a multi-Hamiltonian structure for these systems. As an
+application, we construct a multi-Hamiltonian structure for the so-called
+master systems introduced by D. Mumford.
+","[{""version"":""v1"",""created"":""Fri, 18 Feb 1994 12:28:56 GMT""}]","2008-02-03"

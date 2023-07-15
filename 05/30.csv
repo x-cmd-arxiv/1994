@@ -1,0 +1,262 @@
+"astro-ph/9405068","Bengt Edvardsson","Bengt Edvardsson, Bertil Pettersson, Maryam Kharrazi and Bengt
+  Westerlund","Abundance Analysis and Origin of the Zeta Sculptoris Open Cluster","12 pages, A&A Plain TeX, UAO-94-P90","Astron. Astrophys. 293 (1994) 75",,,"astro-ph",,"  We have determined chemical abundances and radial velocities for stars in the
+field of the zeta Sculptoris cluster. We find that the cluster metal deficiency
+previously found from UBV photometry is too high; the cluster overall
+metallicity, [Fe/H]=+0.24, is about 70% higher than the solar value. The
+chemical abundance pattern is unusual: the Ni/Fe ratio is significantly lower
+than typical for field stars with similar Fe and Ca abundances, and the cluster
+may also be deficient in the alpha element Si. For its age, the cluster is
+unusually far from the galactic disk, approximately 240 pc. The adopted
+heliocentric cluster radial velocity, +3.9 km/s, shows that it is close to its
+maximum distance from the galactic plane. We suggest that the zeta Sculptoris
+cluster was formed in the galactic disk 45 Myr ago by the interaction of a high
+velocity cloud with the interstellar medium, and that its formation may be
+connected with that of Gould's Belt. (Table3, postscript figures and text
+available by anonymous ftp from ""chiron.astro.uu.se"" in directory
+pub/articles/atmos/P90)
+","[{""version"":""v1"",""created"":""Mon, 30 May 1994 11:03:41 GMT""}]","2007-05-23"
+"cmp-lg/9405029","J. Mcmahon","John McMahon and F.J.Smith (Queen's University, Belfast)","Structural Tags, Annealing and Automatic Word Classification","14 Page Paper. PostScript File",,,,"cmp-lg cs.CL",,"  This paper describes an automatic word classification system which uses a
+locally optimal annealing algorithm and average class mutual information. A new
+word-class representation, the structural tag is introduced and its advantages
+for use in statistical language modelling are presented. A summary of some
+results with the one million word LOB corpus is given; the algorithm is also
+shown to discover the vowel-consonant distinction and displays an ability to
+cluster words syntactically in a Latin corpus. Finally, a comparison is made
+between the current classification system and several leading alternative
+systems, which shows that the current system performs respectably well.
+","[{""version"":""v1"",""created"":""Mon, 30 May 1994 14:22:00 GMT""}]","2008-02-03"
+"cmp-lg/9405030","Claire Grover","Claire Grover, Chris Brew, Suresh Manandhar, Marc Moens (HCRC Language
+  Technology Group, University of Edinburgh)","Priority Union and Generalization in Discourse Grammars","8 pages, Unix compressed and uuencoded Postscript file To appear in
+  ACL-94","In Proceedings of ACL-94",,,"cmp-lg cs.CL",,"  We describe an implementation in Carpenter's typed feature formalism, ALE, of
+a discourse grammar of the kind proposed by Scha, Polanyi, et al. We examine
+their method for resolving parallelism-dependent anaphora and show that there
+is a coherent feature-structural rendition of this type of grammar which uses
+the operations of priority union and generalization. We describe an
+augmentation of the ALE system to encompass these operations and we show that
+an appropriate choice of definition for priority union gives the desired
+multiple output for examples of VP-ellipsis which exhibit a strict/sloppy
+ambiguity.
+","[{""version"":""v1"",""created"":""Mon, 30 May 1994 13:24:38 GMT""}]","2008-02-03"
+"cmp-lg/9405031",,"Suresh Manandhar (HCRC Language Technology Group, The University of
+  Edinburgh, UK)","An Attributive Logic of Set Descriptions and Set Operations","8 pages, epsf.sty, leqno.sty, LaTeX, ACL'94",,,,"cmp-lg cs.CL",,"  This paper provides a model theoretic semantics to feature terms augmented
+with set descriptions. We provide constraints to specify HPSG style set
+descriptions, fixed cardinality set descriptions, set-membership constraints,
+restricted universal role quantifications, set union, intersection, subset and
+disjointness. A sound, complete and terminating consistency checking procedure
+is provided to determine the consistency of any given term in the logic. It is
+shown that determining consistency of terms is a NP-complete problem.
+","[{""version"":""v1"",""created"":""Mon, 30 May 1994 14:20:17 GMT""}]","2008-02-03"
+"comp-gas/9405007","Gary Doolen","Yue-Hong Qian","Abstracts for the June 27-29 Princeton Conference: Discrete Models for
+  Fluid Mechanics","30 pages, LaTeX file",,,,"comp-gas nlin.CG",,"  Submitted by the authors for the June 27-29 Princeton Conference. Questions
+should be directed to: qian@cfd.princeton.edu
+","[{""version"":""v1"",""created"":""Mon, 30 May 1994 05:16:17 GMT""}]","2008-02-03"
+"cond-mat/9405087","Pablo I. Tamborenea","P. I. Tamborenea and S. Das Sarma","Raman Scattering Spectra of Elementary Electronic Excitations in Coupled
+  Double-Quantum Well Structures","9 pages, RevTeX, 5 figures available upon request, PIT-SDS-008",,"10.1103/PhysRevB.49.16821",,"cond-mat",,"  Using the time-dependent-local-density-approximation (TDLDA) within a
+self-consistent linear response theory, we calculate the elementary excitation
+energies and the associated inelastic light-scattering spectra of a strongly
+coupled two-component plasma in a double-quantum well system with electron
+occupation of symmetric and antisymmetric subbands. We find, consistent with
+the results of a recent experimental Raman scattering study, that the
+intersubband spin density excitations tend to merge with the single particle
+excitations (i.e. the excitonic shift decreases monotonically) as the Fermi
+energy increases beyond the symmetric-antisymmetric energy gap
+$\bigtriangleup_{SAS}$. However, our TDLDA calculation does not show the abrupt
+suppresion of the excitonic shift seen experimentally at a finite value of the
+subband occupancy parameter $\eta \equiv \bigtriangleup_{\text{SAS}} /
+E_{\text{F}}$.
+","[{""version"":""v1"",""created"":""Sun, 29 May 1994 21:58:26 GMT""}]","2009-10-22"
+"gr-qc/9405070","Steve Carlip","S. Carlip and C. Teitelboim","Aspects of Black Hole Quantum Mechanics and Thermodynamics in 2+1
+  Dimensions","20 pages and 2 figures, LaTeX, IASSNS-HEP-94/34 and UCD-94-13","Phys.Rev. D51 (1995) 622-631","10.1103/PhysRevD.51.622",,"gr-qc hep-th",,"  We discuss the quantum mechanics and thermodynamics of the (2+1)-dimensional
+black hole, using both minisuperspace methods and exact results from
+Chern-Simons theory. In particular, we evaluate the first quantum correction to
+the black hole entropy. We show that the dynamical variables of the black hole
+arise from the possibility of a deficit angle at the (Euclidean) horizon, and
+briefly speculate as to how they may provide a basis for a statistical picture
+of black hole thermodynamics.
+","[{""version"":""v1"",""created"":""Mon, 30 May 1994 00:19:30 GMT""}]","2009-10-22"
+"gr-qc/9405071",,"Sean A. Hayward","Quasi-Localisation of Bondi-Sachs Energy Loss","13 pages","Class.Quant.Grav.11:3037-3048,1994","10.1088/0264-9381/11/12/017",,"gr-qc",,"  A formula is given for the variation of the Hawking energy along any
+one-parameter foliation of compact spatial 2-surfaces. A surface for which one
+null expansion is positive and the other negative has a preferred orientation,
+with a spatial or null normal direction being called outgoing or ingoing as the
+area increases or decreases respectively. A natural way to propagate such a
+surface through a hypersurface is to choose the foliation such that the null
+expansions are constant over each surface. For such uniformly expanding
+foliations, the Hawking energy is non-decreasing in any outgoing direction, and
+non-increasing in any ingoing direction, assuming the dominant energy
+condition. It follows that the Hawking energy is non-negative if the foliation
+is bounded at the inward end by either a point or a marginal surface, and in
+the latter case satisfies the Penrose-Gibbons isoperimetric inequality. The
+Bondi-Sachs energy may be expressed as a limit of the Hawking energy at
+conformal infinity, and the energy-variation formula reduces at conformal
+infinity to the Bondi-Sachs energy-loss formula.
+","[{""version"":""v1"",""created"":""Mon, 30 May 1994 08:17:43 GMT""}]","2010-04-06"
+"hep-ph/9405408","Liang-Xin Li","Liang-Xin Li and Bing-Lin Young","On the vacuum theta angle in Yang-Mills field theories","May/1994/ISU",,,,"hep-ph",,"  Recently, MIT group found a numerical solution to non-abelian gauge fields
+which is shown to contain non-integer topological number. Using this fact,
+V.V.Khoze has argued that the vacuum theta angle is zero. Here, we study this
+in a complimentary way--its physical respect. The key point is MIT solution has
+an infinite action. Using this, we prove the vacuum theta angle is zero at
+semiclassical level.
+","[{""version"":""v1"",""created"":""Mon, 30 May 1994 02:47:32 GMT""}]","2007-05-23"
+"hep-ph/9405409","Liang-Xin Li","Liang-Xin Li and Bing-Lin Young","Dual solutions of Yang-Mills field theories in Minkowski space","March/1994/ISU",,,,"hep-ph",,"  Using spherical ansatz, we construct dual equations for non-abelian gauge
+fields in Minkowski space. The analytically continued instanton is shown to
+satisfy the dual equations but assumes a more ansatz. It is not the solution of
+MIT second order differential equation. The symmetries of the solution function
+space are examined. The relevant physics is reviewed.
+","[{""version"":""v1"",""created"":""Mon, 30 May 1994 02:56:53 GMT""}]","2007-05-23"
+"hep-ph/9405411","Arnd Leike","Harald Fritzsch","Flavour Mixing and Fermion Mass Generation as a Result of Symmetry
+  Breaking","9 pages, report MPI-PHT/94-29",,,,"hep-ph",,"  It is shown that a simple breaking of the subnuclear democracy leads to a
+successful description of the mixing between the second and third family. In
+the lepton channel the $\nu _{\mu } - \nu_{\tau }$ oscillations are expected to
+be described by a mixing angle of $2.65^ {\circ }$ which might be observed soon
+in neutrino experiments.
+","[{""version"":""v1"",""created"":""Mon, 30 May 1994 07:18:36 GMT""}]","2007-05-23"
+"hep-ph/9405412","Carsten Grosse-Knetter","Carsten Grosse-Knetter (Universitaet Bielefeld)","The Equivalence Theorem for the Heavy-Higgs Standard Model and the
+  Gauged Nonlinear Sigma-Model","17 pages LaTeX, 6 figures as uuencoded eps-files","Z.Phys. C67 (1995) 261-270","10.1007/BF01571287","BI-TP 94/25","hep-ph hep-th",,"  The equivalence theorem states that the leading part of the amplitude for a
+process with external longitudinally polarized vector bosons is given by the
+amplitude in which the longitudinal vector bosons are replaced by the
+corresponding pseudo-Goldstone bosons. The validity of this theorem within the
+standard model with a heavy Higgs boson and within the gauged nonlinear
+sigma-model (in which the Higgs boson is absent) is shown. Furthermore it is
+examined to what extent also internal lines other than scalar lines can be
+neglected. A simple power-counting method is developed which determines the
+leading diagrams for a given process at an arbitrary loop order. This method is
+also applied to effective Lagrangians with additional nonstandard interaction
+terms of higher dimension (chiral Lagragians).
+","[{""version"":""v1"",""created"":""Mon, 30 May 1994 09:15:48 GMT""}]","2009-10-28"
+"hep-ph/9405415","Cvetic","G.Cvetic","Aspects of Standard Models with Two Higgs Doublets","talk presented at the XXIXth Rencontres de Moriond (Electroweak
+  Interactions and Unified Theories, Meribel, France, March 12-19, 1994), 8
+  pages, (6 figures available upon request), DO-TH-94-10",,,,"hep-ph",,"  We {works done in collaboration with C.S.Kim, Yonsei Univ., Seoul, Korea}
+present some properties of the SM with two Higgs doublets. Unlike the minimal
+SM, the Yukawa couplings (in the usual ``type II'' model) converge with the
+increasing energy to flavor democracy (FD), i.e.~to common values, in a
+specific flavor basis. This may represent a possible signal of some new,
+(almost) flavor-blind physics beyond the SM. When imposing the assumption of
+equality of the corresponding quark and leptonic Yukawa couplings at high
+transition energies, we can estimate the physical mass of the tau-neutrino as a
+function of $m_t$ and the VEV ratio. Furthermore, such an assumption would
+effectively rule out the existence of the 4th generation of fermions.
+  We {work done in collaboration with P.Overmann and E.A.Paschos, Dortmund
+Univ., Germany} also investigated the most general framework of the SM with two
+Higgs doublets such that no flavor-changing neutral currents (FCNC) occur at
+the tree level. Finite 1-loop-induced FCNC (and CP-violating) effects, when
+confronted with experimental con- straints from the physics of K and B mesons,
+provide us with constraints on the values of the dominant Yukawa couplings of
+the charged Higgs with the top quark. In the usual, more restrictive, ``type
+II'' model, this would imply certain constraints on the value of the VEV ratio.
+","[{""version"":""v1"",""created"":""Mon, 30 May 1994 12:35:59 GMT""}]","2009-09-25"
+"hep-ph/9405416","Cvetic","G.Cvetic and C.S.Kim","Quark-Lepton Flavor Democracy and the Non-Existence of the Fourth
+  Generation","12 pages, (4 figures available upon request), DO-TH-94-09, YUMS
+  94-10, SNUTP 94-35","Phys.Rev. D51 (1995) 201-206","10.1103/PhysRevD.51.201",,"hep-ph",,"  In the Standard Model with two Higgs doublets (type II), which has a
+consistent trend to a flavor gauge theory and its related flavor democracy in
+the quark and the leptonic sectors (unlike the minimal Standard Model) when the
+energy of the probes increases, we impose the mixed quark-lepton flavor
+democracy at high ``transition'' energy and assume the usual see-saw mechanism,
+and consequently find out that the existence of the fourth generation of
+fermions in this framework is practically ruled out.
+","[{""version"":""v1"",""created"":""Mon, 30 May 1994 12:34:47 GMT""}]","2009-10-28"
+"hep-ph/9405417",,"A.Bottino, N.Fornengo, G.Mignola and S.Scopel","Neutralinos as Dark Matter Candidates","(Invited talk presented by A.Bottino at the 6th International
+  Workshop on: ""Neutrino Telescopes"", Venice 1994), DFTT-21-94, 19 pages, 13
+  figures included, 3 uu-encoded compressed tarred ps-files (97.4 Kb + 257.8 Kb
+  + 316.7 Kb, the first containes the text, the others the figures)",,,,"hep-ph astro-ph",,"  We review some properties of the neutralino as a candidate for dark matter in
+the Universe. After presentation of evaluations for the neutralino relic
+abundance, possibilities for its direct and indirect detections are discussed,
+with emphasis for measurements at neutrino telescopes.
+","[{""version"":""v1"",""created"":""Mon, 30 May 1994 12:10:56 GMT""}]","2007-05-23"
+"hep-ph/9405418","Adrian Ghinculov","A. Ghinculov and J.J. van der Bij","Massive two--loop diagrams: The Higgs propagator","21 pages, Freiburg-THEP 94/05","Nucl.Phys. B436 (1995) 30-48","10.1016/0550-3213(94)00522-G",,"hep-ph",,"  Formulae are provided to express any two-loop scalar integral with arbitrary
+masses and arbitrary external momenta in terms of an integral of one fairly
+simple function or of its derivatives. Such integrals can be calculated
+numerically with high precision. Good agreement is found with known analytical
+expressions of specific two--loop diagrams. To prove the effectiveness of these
+techniques, the two--loop selfenergy of the Higgs boson to order $(g^{2}
+\frac{m_{H}^{2}}{m_{W}^{2}})^{2}$ is calculated, and the correctness of the
+result is checked by using the unitarity of the S matrix. This result allows
+one to disentangle the leading corrections to the shape of the Higgs resonance,
+and to derive a perturbative bound of $\sim$1.2 TeV on the mass of the Higgs
+boson.
+","[{""version"":""v1"",""created"":""Mon, 30 May 1994 13:28:41 GMT""}]","2009-10-28"
+"hep-ph/9405419","Wim deBoer","W. de Boer, R. Ehret and D. I. Kazakov","Is the stop mass below the top mass?","latex + 2 eps figs, 14 pages, IEKP-KA/94-07","Phys.Lett.B334:220-228,1994","10.1016/0370-2693(94)90615-7",,"hep-ph",,"  It is shown that a top mass of 174+/-17 GeV, as quoted recently by the CDF
+Collaboration, constrains the mixing angle between the Higgs doublets in the
+Minimal Supersymmmetric extension of the Standard Model (MSSM) to: 1.2<tan
+beta<5.5 at the 90% C.L.. The most probable value corresponds to tan beta =
+1.56; such a small value causes a large mixing in the stop sector and the
+lightest stop is likely to be below the top mass. In this case the stop
+production in pp_bar collisions would contribute to the top signature, thus
+providing a possible explanation for the large effective tt_bar cross section
+observed by CDF.
+","[{""version"":""v1"",""created"":""Mon, 30 May 1994 15:35:46 GMT""}]","2011-07-19"
+"hep-th/9405186","Suresh Govindarajan","Suresh Govindarajan","On the Geometry of W_n gravity","10 pages, LaTeX, TIFR/TH/94-17",,,,"hep-th",,"  We report work done with T. Jayaraman (hep-th/9405146) in this talk. In a
+recent paper, Hitchin introduced generalisations of the Teichmuller space of
+Riemann surfaces. We relate these spaces to the Teichmuller spaces of
+W-gravity. We show how this provides a covariant description of W-gravity and
+naturally leads to a Polyakov path integral prescription for W-strings. (Talk
+presented at the International Colloquium on Modern Quantum Field Theory II at
+the Tata Institute, Bombay during Jan. 5-11, 1994, to appear in the
+proceedings)
+","[{""version"":""v1"",""created"":""Mon, 30 May 1994 10:58:48 GMT""}]","2007-05-23"
+"hep-th/9405187","Andrei Linde","Lev Kofman, Andrei Linde, and Alexei Starobinsky","Reheating after Inflation","7 pages, 1 figure, LaTeX, UH-IfA-94/35; SU-ITP-94-13; YITP/U-94-15
+  (paper replaced by its version to be published in Phys. Rev. Lett.)","Phys.Rev.Lett.73:3195-3198,1994","10.1103/PhysRevLett.73.3195",,"hep-th astro-ph gr-qc hep-ph",,"  The theory of reheating of the Universe after inflation is developed. The
+transition from inflation to the hot Universe turns out to be strongly
+model-dependent and typically consists of several stages. Immediately after
+inflation the field $\phi$ begins rapidly rolling towards the minimum of its
+effective potential. Contrary to some earlier expectations, particle production
+during this stage does not lead to the appearance of an extra friction term
+$\Gamma\dot\phi$ in the equation of motion of the field $\phi$. Reheating
+becomes efficient only at the next stage, when the field $\phi$ rapidly
+oscillates near the minimum of its effective potential. We have found that
+typically in the beginning of this stage the classical inflaton field $\phi$
+very rapidly (explosively) decays into $\phi$-particles or into other bosons
+due to broad parametric resonance. This stage cannot be described by the
+standard elementary approach to reheating based on perturbation theory. The
+bosons produced at this stage, as well as some part of the classical field
+$\phi$ which survives the stage of explosive reheating, should further decay
+into other particles, which eventually become thermalized. The last stages of
+decay can be described in terms of perturbation theory. Complete reheating is
+possible only in those theories where a single massive $\phi$-particle can
+decay into other particles. This imposes strong constraints on the structure of
+inflationary models. On the other hand, this means that a scalar field can be a
+cold dark matter candidate even if it is strongly coupled to other fields.
+","[{""version"":""v1"",""created"":""Mon, 30 May 1994 07:16:24 GMT""},{""version"":""v2"",""created"":""Wed, 12 Oct 1994 02:18:47 GMT""}]","2009-09-29"
+"hep-th/9405188",,"S.Ferrara, C.Kounnas and F.Zwirner","Mass formulae and natural hierarchy in string effective supergravities","40 pages, no figures, CERN-TH.7192/94, LPTENS -94/12, UCLA/94/TEP13
+  (plain LATEX, to be run twice). Some trivial misprints and references have
+  been corrected","Nucl.Phys.B429:589-625,1994; ERRATUM-ibid.B433:255,1995","10.1016/0550-3213(94)90154-6",,"hep-th hep-ph",,"  We study some conditions for the hierarchy $m_{3/2} << M_P$ to occur
+naturally in a generic effective supergravity theory. Absence of fine-tuning
+and perturbative calculability require that the effective potential has a
+sliding gravitino mass and vanishing cosmological constant, up to ${\cal
+O}(m_{3/2}^4)$ corrections. In particular, cancellation of quadratically
+divergent contributions to the one-loop effective potential should take place,
+including the `hidden sector' of the theory. We show that these conditions can
+be met in the effective supergravities derived from four-dimensional
+superstrings, with supersymmetry broken either at the string tree level via
+compactification, or by non-perturbative effects such as gaugino condensation.
+A crucial role is played by some approximate scaling symmetries, which are
+remnants of discrete target-space dualities in the large moduli limit. We
+derive explicit formulae for the soft breaking terms arising from this class of
+`large hierarchy compatible' (LHC) supergravities.
+","[{""version"":""v1"",""created"":""Mon, 30 May 1994 10:03:00 GMT""},{""version"":""v2"",""created"":""Mon, 30 May 1994 10:23:00 GMT""},{""version"":""v3"",""created"":""Wed, 8 Jun 1994 20:02:00 GMT""}]","2014-11-18"
+"hep-th/9405189","Akira Fujii","Akira Fujii and Takeo Inami","Finite Size Effects and Conformal Symmetry of $O(N)$ Nonlinear $\sigma$
+  Model in Three Dimensions","12 pages uuencoded compressed PostScript file including 1 figure","Prog.Theor.Phys.Suppl.118:299-308,1995","10.1143/PTPS.118.299","YITP-K-1053","hep-th",,"  We study the $O(N)$ nonlinear $\sigma$ model on a three-dimensional compact
+space $S^1 \times S^2$ (of radii $L$ and $R$ respectively) by means of large
+$N$ expansion, focusing on the finite size effects and conformal symmetries of
+this model at the critical point. We evaluate the correlation length and the
+Casimir energy of this model and study their dependence on $L$ and $R$. We
+examine the modular transformation properties of the partition function, and
+study the dependence of the specific heat on the mass gap in view of possible
+extension of the $C-$theorem to three dimensions.
+","[{""version"":""v1"",""created"":""Mon, 30 May 1994 13:59:03 GMT""}]","2009-09-25"
+"hep-th/9405190","Tim Morris","Tim R. Morris","On Truncations of the Exact Renormalization Group","15 pages (with figures), Plain TeX, uses psfig, 5 postscript figures
+  appended as uuencoded compressed tar file, SHEP 93/94-23, CERN-TH.7281/94.
+  (Corrections of typos, and small additions to improve readability: version to
+  be published in Phys. Lett. B)","Phys.Lett. B334 (1994) 355-362","10.1016/0370-2693(94)90700-5",,"hep-th hep-lat hep-ph",,"  We investigate the Exact Renormalization Group (ERG) description of ($Z_2$
+invariant) one-component scalar field theory, in the approximation in which all
+momentum dependence is discarded in the effective vertices. In this context we
+show how one can perform a systematic search for non-perturbative continuum
+limits without making any assumption about the form of the lagrangian.
+Concentrating on the non-perturbative three dimensional Wilson fixed point, we
+then show that the sequence of truncations $n=2,3,\dots$, obtained by expanding
+about the field $\varphi=0$ and discarding all powers $\varphi^{2n+2}$ and
+higher, yields solutions that at first converge to the answer obtained without
+truncation, but then cease to further converge beyond a certain point. No
+completely reliable method exists to reject the many spurious solutions that
+are also found. These properties are explained in terms of the analytic
+behaviour of the untruncated solutions -- which we describe in some detail.
+","[{""version"":""v1"",""created"":""Mon, 30 May 1994 15:29:50 GMT""},{""version"":""v2"",""created"":""Wed, 13 Jul 1994 14:49:09 GMT""}]","2009-10-28"

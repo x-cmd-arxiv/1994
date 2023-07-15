@@ -1,0 +1,347 @@
+"adap-org/9410001","Denis Juriev","Denis V.Juriev (D.V.Yur'ev)","Belavkin-Kolokoltsov Watch-Dog Effects in Interactively Controlled
+  Stochastic Computer-Graphic Dynamical Systems. A Summary of Mathematical
+  Researches","15 pages amstex [printing errors corrected]. This is the enlarged
+  version of chao-dyn/9406013 supplied by Comments from hep-th/9401047 and
+  hep-th/9401067",,,,"adap-org dg-ga math.DG nlin.AO nlin.SI solv-int",,"  This paper contains a summary of mathematical researches of stochastic
+properties of the long time behavior of a continuously observed (and
+interactively controlled) quantum--field top. Applications to interactively
+controlled stochastic computer-graphic dynamical systems are also discussed.
+","[{""version"":""v1"",""created"":""Mon, 10 Oct 1994 15:56:19 GMT""},{""version"":""v2"",""created"":""Thu, 13 Oct 1994 09:06:20 GMT""},{""version"":""v3"",""created"":""Sat, 22 Oct 1994 11:10:00 GMT""}]","2008-02-03"
+"astro-ph/9410028","Haret Rosu","Haret C. Rosu","On strangelets in magnetosphere","4 LaTex pages","NuovoCim.B110:887-892,1995","10.1007/BF02820157","IFUG-22/1994","astro-ph",,"  A short discussion is provided on the hypothesis of strange quark dust of low
+specific charge in the terrestrial magnetosphere. We suggest by means of rough
+estimates the possible existence of a strangelet belt in the magnetosphere.
+","[{""version"":""v1"",""created"":""Mon, 10 Oct 1994 02:53:00 GMT""}]","2008-11-26"
+"cond-mat/9410025","Elliott Lieb","E.H. Lieb","The Flux-Phase of the Half-Filled Band","9 pages, EHL14/Aug/94","Phys. Rev. Lett., 73 (1994) 2158-2161","10.1103/PhysRevLett.73.2158",,"cond-mat",,"  The conjecture is verified that the optimum, energy minimizing magnetic flux
+for a half-filled band of electrons hopping on a planar, bipartite graph is
+$\pi$ per square plaquette. We require {\it only} that the graph has
+periodicity in one direction and the result includes the hexagonal lattice
+(with flux 0 per hexagon) as a special case. The theorem goes beyond previous
+conjectures in several ways: (1) It does not assume, a-priori, that all
+plaquettes have the same flux (as in Hofstadter's model); (2) A Hubbard type
+on-site interaction of any sign, as well as certain longer range interactions,
+can be included; (3) The conclusion holds for positive temperature as well as
+the ground state; (4) The results hold in $D \geq 2$ dimensions if there is
+periodicity in $D-1$ directions (e.g., the cubic lattice has the lowest energy
+if there is flux $\pi$ in each square face).
+","[{""version"":""v1"",""created"":""Sun, 9 Oct 1994 16:43:53 GMT""}]","2009-10-22"
+"cond-mat/9410027","Yasuko Munehisa","Tomo Munehisa and Yasuko Munehisa","A Hybrid Method for Global Updates in Monte Carlo Study","6 pages, LaTeX, two .ps figures appended, YAMANASHI-94-02",,"10.1143/ptp/93.1.251",,"cond-mat",,"  We propose a new algorithm which works effectively in global updates in Monte
+Carlo study. We apply it to the quantum spin chain with next-nearest-neighbor
+interactions. We observe that Monte Carlo results are in excellent agreement
+with numerically exact ones obtained by the transfer matrix method.
+","[{""version"":""v1"",""created"":""Mon, 10 Oct 1994 10:27:17 GMT""}]","2017-02-01"
+"cond-mat/9410028","Ulrich Nowak","U. Nowak and A. Hucht","Monte Carlo Simulation of Ising Models with Dipole Interaction","Latex, 10 pages; 3 postsript-figures, compressed tar-file, uuencoded,
+  report 101094","J. Appl. Phys. 76, 6341 (1994)","10.1063/1.358260",,"cond-mat",,"  Recently, a new memory effect was found in the metamagnetic domain structure
+of the diluted Ising antiferromagnet $Fe_x Mg_{1-x} Cl_2$ by domain imaging
+with Faraday contrast. Essential for this effect is the dipole interaction. We
+simulate the low temperature behavior of diluted Ising-antiferromagnets by a
+Monte Carlo simulation considering long range interaction. The metamagnetic
+domain structure occurring due to the dipole interaction is investigated by
+graphical representation. In the model considered the antiferromagnetic state
+is stable for an external magnetic field smaller than a lower boundary $B_{c1}$
+while for fields larger than an upper boundary $B_{c2}$ the system is in the
+saturated paramagnetic phase, where the spins are ferromagnetically polarized.
+For magnetic fields in between these two boundaries a mixed phase occurs
+consisting of ferromagnetic domains in an antiferromagnetic background. The
+position of these ferromagnetic domains is stored in the system: after a cycle
+in which the field is first removed and afterwards applied again the domains
+reappear at their original positions. The reason for this effect can be found
+in the frozen antiferromagnetic domain state which occurs after removing the
+field.
+","[{""version"":""v1"",""created"":""Mon, 10 Oct 1994 10:56:47 GMT""}]","2009-10-22"
+"cond-mat/9410030","Subrahmanyam Vemuru","V. Subrahmanyam (ICTP, P.O. Box 586, Triste 34100, Italy)","Effective chiral-spin Hamiltonian for odd-numbered coupled Heisenberg
+  chains","9 Pages, Latex, report ICTP-94-288",,"10.1103/PhysRevB.50.16109",,"cond-mat",,"  An $L \times \infty$ system of odd number of coupled Heisenberg spin chains
+is studied using a degenerate perturbation theory, where $L$ is the number of
+coupled chains. An effective chain Hamiltonian is derived explicitly in terms
+of two spin half degrees of freedom of a closed chain of $L$ sites, valid in
+the regime the inter-chain coupling is stronger than the intra-chain coupling.
+The spin gap has been calculated numerically using the effective Hamiltonian
+for $L=3,5,7,9$ for a finite chain up to ten sites. It is suggested that the
+ground state of the effective Hamiltonian is correlated, by examining
+variational states for the effective chiral-spin chain Hamiltonian.
+","[{""version"":""v1"",""created"":""Mon, 10 Oct 1994 14:17:31 GMT""}]","2009-10-22"
+"cond-mat/9410031",,"R. J. Radtke and K. Levin","Origin of Intrinsic Josephson Coupling in the Cuprates and Its Relation
+  to Order Parameter Symmetry: An Incoherent Hopping Model","28 pages, REVTEX, 5 compressed PostScript figures. Substantially
+  expanded and revised from the earlier version. To appear in Physica C",,"10.1016/0921-4534(95)00359-2","STCS preprint","cond-mat",,"  Experiments on the cuprate superconductors demonstrate that these materials
+may be viewed as a stack of Josephson junctions along the c-direction. In this
+paper, we present a model which describes this intrinsic Josephson coupling in
+terms of incoherent quasiparticle hopping along the c-axis arising from
+wave-function overlap, impurity-assisted hopping, and boson-assisted hopping.
+We use this model to compute the magnitude and temperature T dependence of the
+resulting Josephson critical current j_c (T) for s- and d-wave superconductors.
+Contrary to other approaches, d-wave pairing in this model is compatible with
+an intrinsic Josephson effect at all hole concentrations and leads to j_c (T)
+\propto T at low T. By parameterizing our theory with c-axis resistivity data
+from YBCO, we estimate j_c (T) for optimally doped and underdoped members of
+this family. Our estimates suggest that further experiments on this compound
+would be of great help in elucidating the validity of our model in general and
+the pairing symmetry in particular. We also discuss the implications of our
+model for LSCO and BSCCO.
+","[{""version"":""v1"",""created"":""Mon, 10 Oct 1994 15:40:55 GMT""},{""version"":""v2"",""created"":""Tue, 1 Aug 1995 21:05:53 GMT""}]","2009-10-22"
+"hep-ex/9410008",,"HENRYK PIEKARZ (Florida State University), D0 Collaboration","A Study of Events with Large Total Transverse Energy Produced in
+  Proton-Antiproton Collisions at sqrt{s} = 1.8 Tev","4",,,,"hep-ex",,"  Properties of events originating from proton--antiproton interactions in
+which the total transverse energy of the event exceeded 400 GeV are presented.
+Based on a data sample of 5.45 pb-1, the topology of these hard scattering
+events as well as preliminary results for the cross--section versus total
+transverse energy are presented and discussed.
+","[{""version"":""v1"",""created"":""Mon, 10 Oct 1994 15:24:29 GMT""}]","2007-05-23"
+"hep-lat/9410005","Iwan Jensen","I. G. Enting, A, J. Guttmann and I. Jensen","Low-Temperature Series Expansions for the Spin-1 Ising Model","24 pages (+7 uuencoded postscript figures), LaTeX","J.Phys.A27:6987-7006,1994","10.1088/0305-4470/27/21/014",,"hep-lat cond-mat",,"  The finite lattice method of series expansion has been used to extend
+low-temperature series for the partition function, order parameter and
+susceptibility of the spin-1 Ising model on the square lattice. A new formalism
+is described that uses two distinct transfer matrix approaches in order to
+significantly reduce computer memory requirements and which permits the
+derivation of the series to 79th order. Subsequent analysis of the series
+clearly confirms that the spin-1 model has the same dominant critical exponents
+as the spin-$\frac{1}{2}$ Ising model. Accurate estimates for both the critical
+temperature and non-physical singularities are obtained. In addition, evidence
+for a non-analytic confluent correction with exponent $\Delta_{1} = 1.1 \pm
+0.1$ is found.
+","[{""version"":""v1"",""created"":""Mon, 10 Oct 1994 04:56:53 GMT""}]","2011-07-19"
+"hep-ph/9410252",,"B.V.Geshkenbein, V.L.Morgunov","Hadronic contributions to the anomalous magnetic moment of the muon by
+  QCD model with infinite number of vector mesons","in LaTeX, 7 pages, ITEP preprint 70-94",,,,"hep-ph",,"  We computed the hadronic vacuum-polarization contributions to the muon
+anomalous magnetic moment $a_{\mu}(hadr.)$ by using the QCD model with infinite
+number of vector mesons [1,2]. The result is $a_{\mu}(hadr.) = 663(23) \times
+10^{-10}$. }
+","[{""version"":""v1"",""created"":""Mon, 10 Oct 1994 10:54:02 GMT""}]","2007-05-23"
+"hep-ph/9410253",,"Lincoln Wolfenstein and Yue-Liang Wu","CP Violation in the Decay $b\rightarrow s\gamma$ in the Two-Higgs
+  Doublet Model","RevTex, 9 pages, (To appear in Phys. Rev. Lett. 1994),
+  DOE-ER/40682-78, CMU-HEP94-24","Phys.Rev.Lett.73:2809-2812,1994","10.1103/PhysRevLett.73.2809",,"hep-ph",,"  In the most general two-Higgs doublet model with an approximate family
+symmetry and CP violation being originated solely from the relative phase of
+two vacuum expectation values, CP asymmetry in the decay $b\rightarrow s\gamma$
+may arise from the CP violation of the charged Higgs boson interactions with
+fermions. This asymmetry may be larger than in the standard model and can lie
+between $10^{-2}$ and $10^{-1}$. The decay rate of $b\rightarrow s\gamma$ is
+allowed to be smaller or larger than in the standard model
+","[{""version"":""v1"",""created"":""Mon, 10 Oct 1994 13:21:50 GMT""}]","2010-11-01"
+"hep-ph/9410254","Niels R. Walet","Niels R. Walet","The kinetic energy and and the geometric structure in the $B=2$ sector
+  of the Skyrme model: A study using the Atiyah-Manton Ansatz","FAU-T3-94/1, 42 pages. 21 postscript figures can be included in the
+  text using epsf.sty. Postscript file of complete manuscript avalailabe as
+  ftp://theorie3.physik.uni-erlangen.de/pub/publications/NRWAMSk.ps.gz","Nucl.Phys. A586 (1995) 649-681","10.1016/0375-9474(95)00029-Z",,"hep-ph nucl-th",,"  We study the construction of the collective-coordinate manifold in the baryon
+number two sector of the Skyrme model. To that end we use techniques of
+adiabatic large amplitude collective motion, which treat potential and kinetic
+energy on an equal footing. In this paper the starting point is the Ansatz
+proposed by Atiyah and Manton (Phys.~Lett.~{\bf 438B}, 222 (1989)), which
+allows a study of the dynamics using a finite and small number of variables.
+From these variables we choose a subset of collective ones. We then study the
+behavior of inertial parameters along parts of the collective manifold, and
+study the dynamical parts of the interaction.
+","[{""version"":""v1"",""created"":""Mon, 10 Oct 1994 13:54:40 GMT""}]","2009-10-28"
+"hep-ph/9410255","Stamenov Dimiter","D.B. Stamenov","Once More on the Radiative Corrections to the Nucleon Structure
+  Functions in QCD","11 pages, Latex, Preprint IC/94/302","Mod.Phys.Lett. A10 (1995) 2029-2040","10.1142/S0217732395002180",,"hep-ph",,"  A new representation of the next to leading QCD corrections to the nucleon
+structure functions is given in terms of parton distributions. All
+$~\alpha_{s}~$ corrections to the leading logarithmic approximation (LLA) are
+included. In contrast to the similar representations in the literature terms of
+order $~O(\alpha_{s}^{2})~$ do not attend in our expressions for the nucleon
+structure functions taken in the next to leading logarithmic approximation.
+This result is generelized for any order in $~\alpha_{s}~$ beyond the LLA.
+Terms of order $~O(\alpha^{n}_{s})~$ which belong only to the approximation in
+consideration are present in such a representation for the structure functions.
+","[{""version"":""v1"",""created"":""Mon, 10 Oct 1994 15:19:33 GMT""}]","2015-06-25"
+"hep-ph/9410256","Bernd J. Schroers","B.M.A.G. Piette, B.J. Schroers and W.J. Zakrzewski","Dynamics of Baby Skyrmions","28 pages (Latex), 9 figures available on request from BJS, DTP 94-25","Nucl.Phys. B439 (1995) 205-238","10.1016/0550-3213(95)00011-G",,"hep-ph hep-th",,"  Baby Skyrmions are topological solitons in a (2+1)-dimensional field theory
+which resembles the Skyrme model in important respects. We apply some of the
+techniques and approximations commonly used in discussions of the Skyrme model
+to the dynamics of baby Skyrmions and directly test them against numerical
+simulations. Specifically we study the effect of spin on the shape of a single
+baby Skyrmion, the dependence of the forces between two baby Skyrmions on the
+baby Skyrmions' relative orientation and the forces between two baby Skyrmions
+when one of them is spinning.
+","[{""version"":""v1"",""created"":""Mon, 10 Oct 1994 10:43:39 GMT""}]","2009-10-28"
+"hep-th/9410042","Chong Ming Yung","C. M. Yung and M. T. Batchelor","Integrable vertex and loop models on the square lattice with open
+  boundaries via reflection matrices","35 pages, LaTeX with PostScript figures; minor corrections, version
+  to appear in Nucl. Phys. B","Nucl.Phys.B435:430-462,1995","10.1016/0550-3213(94)00448-N","MRR042-94","hep-th",,"  The procedure for obtaining integrable vertex models via reflection matrices
+on the square lattice with open boundaries is reviewed and explicitly carried
+out for a number of two- and three-state vertex models. These models include
+the six-vertex model, the 15-vertex $A_2^{(1)}$ model and the 19-vertex models
+of Izergin-Korepin and Zamolodchikov-Fateev. In each case the eigenspectra is
+determined by application of either the algebraic or the analytic Bethe ansatz
+with inhomeogeneities. With suitable choices of reflection matrices, these
+vertex models can be associated with integrable loop models on the same
+lattice. In general, the required choices {\em do not} coincide with those
+which lead to quantum group-invariant spin chains. The exact solution of the
+integrable loop models -- including an $O(n)$ model on the square lattice with
+open boundaries -- is of relevance to the surface critical behaviour of
+two-dimensional polymers.
+","[{""version"":""v1"",""created"":""Mon, 10 Oct 1994 14:26:39 GMT""},{""version"":""v2"",""created"":""Mon, 10 Oct 1994 15:06:14 GMT""},{""version"":""v3"",""created"":""Fri, 18 Nov 1994 19:21:28 GMT""}]","2010-04-08"
+"hep-th/9410054","Andrei Matytsin","David J. Gross and Andrei Matytsin","Some Properties of Large $N$ Two Dimensional Yang--Mills Theory","48 pages, preprint PUPT-1503","Nucl.Phys. B437 (1995) 541-584","10.1016/0550-3213(94)00570-5",,"hep-th",,"  Large $N$ two-dimensional QCD on a cylinder and on a vertex manifold (a
+sphere with three holes) is investigated. The relation between the saddle-point
+description and the collective field theory of QCD$_2$ is established. Using
+this relation, it is shown that the Douglas--Kazakov phase transition on a
+cylinder is associated with the presence of a gap in the eigenvalue
+distributions for Wilson loops. An exact formula for the phase transition on
+disc with an arbitrary boundary holonomy is found. The role of instantons in
+inducing such transitions is discussed. The zero-area limit of the partition
+function on a vertex manifold is studied. It is found that this partition
+function vanishes unless the boundary conditions satisfy a certain selection
+rule which is an analogue of momentum conservation in field theory.
+","[{""version"":""v1"",""created"":""Sun, 9 Oct 1994 22:26:18 GMT""}]","2009-10-28"
+"hep-th/9410055","Victor Ginzburg","Victor Ginzburg","Resolution of Diagonals and Moduli Spaces","40 pages",,,,"hep-th math.AG math.DG",,"  In this paper differential operators on various moduli spaces (e.g. of
+holomorphic vector bundles) are described in a canonical way in terms of the
+geometry of a certain distinguished completion of an appropriate configuration
+space.
+","[{""version"":""v1"",""created"":""Sun, 9 Oct 1994 21:50:56 GMT""}]","2008-02-03"
+"hep-th/9410056","Gabriel Cardoso","Gabriel Lopes Cardoso, Dieter L\""ust and Burt A. Ovrut","Moduli Dependent Non-Holomorphic Contributions of Massive States to
+  Gravitational Couplings and $C^2$-Terms in $Z_N$-Orbifold Compactifications","38 pages, HUB-IEP-94/20, UPR-634T (references added)","Nucl.Phys.B436:65-99,1995","10.1016/0550-3213(94)00550-X",,"hep-th",,"  It is pointed out that massive states in D=4, N=1 supergravity-matter
+theories can, in general, at the 1-loop level contribute non-holomorphic terms
+to quadratic gravitational couplings. It is then shown in the context of
+$(2,2)$-symmetric $Z_N$-orbifold theories that, for constant moduli
+backgrounds, the inclusion of such contributions can result in the cancellation
+of naked $C^2$-terms. ${\cal R}^2$-terms can also arise but, being ghost free,
+need not cancel.
+","[{""version"":""v1"",""created"":""Mon, 10 Oct 1994 09:08:21 GMT""},{""version"":""v2"",""created"":""Tue, 18 Oct 1994 14:43:38 GMT""}]","2016-08-14"
+"hep-th/9410057","Professor","Taejin Lee and Hyunsoo Min","Bogomol'nyi equations for solitons in Maxwell-Chern-Simons gauge
+  theories with the magnetic moment interaction term","9 pages, Revtex, SNUTP-94/65","Phys.Rev. D50 (1994) 7738-7741","10.1103/PhysRevD.50.7738",,"hep-th",,"  Without assuming rotational invariance, we derive Bogomol'nyi equations for
+the solitons in the abelian Chern-Simons gauge theories with the anomalous
+magnetic moment interaction. We also evaluate the number of zero modes around a
+static soliton configuration.
+","[{""version"":""v1"",""created"":""Mon, 10 Oct 1994 08:30:50 GMT""}]","2009-10-28"
+"hep-th/9410058",,"M.Pitk\""anen","p-Adic description of Higgs mechanism I: p-Adic square root and p-adic
+  light cone","19 pages,latex. Revision: part of text is dropped as irrelevant for
+  the construction of p-adic field theory limit of TGD",,,,"hep-th",,"  This paper is the first one in the series devoted to the calculation of
+particle mass spectrum in Topological GeometroDynamics. TGD Universe is
+critical at quantum level and an attractive idea to realize criticality is via
+conformal invariance. Ordinary real numbers do not allow this but if one
+assumes that in long length scales p-adic topology replaces real topology as
+effective topology situation changes. The existence of square root in the
+vicinity of p-adic real axis implies 4-dimensional algebraic extension of
+p-adic numbers ($p>2$), which can be regarded as padic counterpart of light
+cone and consists of convergence-cubes of p-adic square root function. Later
+work has demonstrated that convergence cubes of square root function serve as
+natural quantization volumes in p-adic field theory limit of TGD.
+","[{""version"":""v1"",""created"":""Mon, 10 Oct 1994 12:40:30 GMT""},{""version"":""v2"",""created"":""Fri, 28 Oct 1994 08:56:05 GMT""},{""version"":""v3"",""created"":""Mon, 6 Feb 1995 16:33:31 GMT""}]","2008-02-03"
+"hep-th/9410059",,"M.Pitk\""anen","p-Adic desription of Higgs mechanism II: General Theory","64 pages,latex. Revision: correction in the definition of Kac Moody
+  Dirac operator",,,,"hep-th",,"  This paper belongs to the series devoted to the calculation of particle
+masses in p-adic conformal field theory limit of TGD. The concept of
+topological condensate generalizes the concept of 3-space. Various
+hierarchically ordered levels of the condensate obey effective p-adic topology
+and fractal considerations motivate the hypothesis that physically interesting
+values of p correspond to primes near prime powers of two, in particular
+Mersenne primes. This hypothesis relates succesfully the fundamental elementary
+par- ticle mass scales to Planck mass scale. The fundamental description of
+Higgs mechanism is in terms of p-adic thermodynamics for the Virasoro generator
+$L^0$ (mass squared). Massivation follows from the small thermal mixing of
+massless ground state with Planck mass excitations. The quantization of
+temperature at low temperature limit gives earlier length scale hypothesis as a
+prediction. In this paper the general theory of Higgs mechanism is described
+and calculation of elementary fermion and boson masses is left to the third
+paper of the series.
+","[{""version"":""v1"",""created"":""Mon, 10 Oct 1994 12:44:28 GMT""},{""version"":""v2"",""created"":""Fri, 28 Oct 1994 09:44:09 GMT""},{""version"":""v3"",""created"":""Mon, 6 Feb 1995 17:18:28 GMT""}]","2008-02-03"
+"hep-th/9410060",,"M.Pitk\""anen","p-Adic description of Higgs mechanism III: calculation of elementary
+  particle masses","51 pages,latex",,,,"hep-th",,"  This paper belongs to the series devoted to the calculation of particle
+masses in the framework of p-adic conformal field theory limit of Topological
+GeometroDynamics. In paper II the general formulation of p-adic Higgs mechanism
+was given. In this paper the calculation of the fermionic and bosonic masses is
+carried out. The calculation of the masses necessitates the evaluation of dege-
+neracies for states as a function of conformal weight in certain tensor product
+of Super Virasoro algebras. The masses are very sen- sitive to the degeneracy
+ratios: Planck mass results unless the ratio for the degeneracies for first
+excited states and massless states is an integer multiple of 2/3. For leptons,
+quarks and gauge bosons this miracle occurs. The main deviation from standard
+model is the prediction of light color excited leptons and quarks as well as
+colored boson exotics. Higgs particle is absent from spectrum as is also
+graviton: the latter is due to the basic approximation of p-adic TGD. Reason
+for replacement: the recently identified light colored boson exotics making
+theory asymptotically free in standard sense.
+","[{""version"":""v1"",""created"":""Mon, 10 Oct 1994 12:45:07 GMT""},{""version"":""v2"",""created"":""Fri, 28 Oct 1994 08:57:39 GMT""}]","2008-02-03"
+"hep-th/9410061",,"M.Pitk\""anen","p-Adic description of Higgs mechanism IV: elementary particle and hadron
+  masses","75 pages,latex. Revision: recent experimental results the prediction
+  of neutrino masses",,,,"hep-th",,"  This paper belongs to a series devoted to the calculation of particle masses
+in p-adic conformal field theory limit of TGD. In paper III elementary particle
+masses were calculated. In this paper the results are analyzed. One can
+reproduce lepton and gauge boson masses exactly by taking into account Coulomb
+self energy associated with the interior of 3-surface and a small mixing of
+boundary topologies of charged leptons. Hadronic mass formula in- volves
+boundary contributions of quarks calculated previously plus interior term
+consisting isospin-isopin, color magnetic spin-spin and color Coulombic terms.
+One must take also into account mixing of boundary topologies, the mixing for
+primary condensate levels (quark spends part of time at lower condensate level)
+and mixing of I=0,J=0 mesons. Topological mixing implies the nontriviality of
+CKM matrix. An open question is how uniquely rationality require- ment fixes
+CKM matrix. It is possible to reproduce CKM matrix sa- tisfying the empirical
+constraints. CP breaking is a number theo- retical necessity. The large mixing
+of u and c quarks solves the spin crisis of proton. The parameters associated
+with other O(p) contributions can be fixed by no Planck mass condition plus
+some empirical inputs. O(p^2) contributions are also discu- ssed and observed
+isospin splittings can be reproduced.
+","[{""version"":""v1"",""created"":""Mon, 10 Oct 1994 12:45:41 GMT""},{""version"":""v2"",""created"":""Fri, 28 Oct 1994 09:47:49 GMT""},{""version"":""v3"",""created"":""Thu, 15 Jun 1995 08:49:41 GMT""}]","2008-02-03"
+"hep-th/9410062",,"M.Pitk\""anen","p-Adic description of Higgs mechanism V: New Physics","37 pages,latex. Revision: correction of error in the calculation of
+  CKM matrix and reconsideration of top quark mass problem",,,,"hep-th",,"  TGD suggests the existence of two new branches of physics, namely M_{89}
+hadron physics and M_{127} leptohadron physics. Leptons and U type quarks are
+predicted to have light colored excitations. The anomalous production of e^+e^-
+pairs in heavy ion collisions sup- ports the existence of light leptomeson but
+there are objections against light exotics. a) Asymptotic freedom in the
+standard sense might be lost: the recently identified exotic color bosons
+however save the situation. b) Z^0 decay width seems to exclude light exotics.
+The solution of the problem relies on p-adic probability concept. The real
+counterpart (\sum_jP(ito j))_R for the sum of p-adic probabi- lities differs
+from the sum \sum_j P(i toj)_R for the real counter- parts of p-adic
+probabilities. Interpretation:(\sum_jP(i to j))_R is used, when only a common
+signature for final states is used. \sum_j(P(i to j)_R is used, when each final
+state is monitored separately. The total decay rate of $Z^0$ to unmonitored
+exotic leptons is sensitive to the value of \theta_W(eff) and vanishes for
+sin^2(\theta_W(eff))=0.2324 and sensible value of \alpha_s(L)! In TGD the
+observed top quark candidate most probably corresponds to u and d quarks of
+M_{89} hadron physics. The details of the identification and signatures of the
+new Physics are discussed.
+","[{""version"":""v1"",""created"":""Mon, 10 Oct 1994 12:46:15 GMT""},{""version"":""v2"",""created"":""Fri, 28 Oct 1994 09:50:48 GMT""},{""version"":""v3"",""created"":""Thu, 15 Jun 1995 08:50:33 GMT""}]","2008-02-03"
+"hep-th/9410063","Robert W. Carroll","Robert Carroll (Mathematics Dept., University of Illinois, Urbana, IL)","On dispersionless Hirota type equations","10 pages, latex (need only run once)",,,,"hep-th",,"  Dispersionless Hirota type equations are extracted from the dispersionless
+limit of the Fay differential identity due to Takasaki- Takebe. A few other
+results are sketched between inverse scattering, dKdV, and gravity.
+","[{""version"":""v1"",""created"":""Mon, 10 Oct 1994 13:54:35 GMT""}]","2007-05-23"
+"hep-th/9410064","Vadim Zeitlin","Vadim Zeitlin","QED$_{2+1}$ with Nonzero Fermion Density and Quantum Hall Effect","8 pages, LaTeX; FIAN/TD/94-09","Phys. Lett. B352 (1995) 422","10.1016/0370-2693(95)00488-7",,"hep-th cond-mat",,"  A general expression for the conductivity in the QED$_{2+1}$ with nonzero
+fermion density in the uniform magnetic field is derived. It is shown that the
+conductivity is entirely determined by the Chern-Simons coefficient:
+$\sigma_{ij}=\varepsilon_{ij}~{\cal C}$ and is a step-function of the chemical
+potential and the magnetic field.
+","[{""version"":""v1"",""created"":""Mon, 10 Oct 1994 13:58:51 GMT""}]","2009-10-28"
+"hep-th/9410065","Gerald Dunne","Gerald Dunne","Self-Dual Chern-Simons Theories","42 pages LaTeX",,"10.1007/978-3-540-44777-1",,"hep-th",,"  In these lectures I review classical aspects of the self-dual Chern-Simons
+systems which describe charged scalar fields in $2+1$ dimensions coupled to a
+gauge field whose dynamics is provided by a pure Chern-Simons Lagrangian. These
+self-dual models have one realization with nonrelativistic dynamics for the
+scalar fields, and another with relativistic dynamics for the scalars. In each
+model, the energy density may be minimized by a Bogomol'nyi bound which is
+saturated by solutions to a set of first-order self-duality equations. In the
+nonrelativistic case the self-dual potential is quartic, the system possesses a
+dynamical conformal symmetry, and the self-dual solutions are equivalent to the
+static zero energy solutions of the equations of motion. The nonrelativistic
+self-duality equations are integrable and all finite charge solutions may be
+found. In the relativistic case the self-dual potential is sixth order and the
+self-dual Lagrangian may be embedded in a model with an extended supersymmetry.
+The self-dual potential has a rich structure of degenerate classical minima,
+and the vacuum masses generated by the Chern-Simons Higgs mechanism reflect the
+self-dual nature of the potential.
+","[{""version"":""v1"",""created"":""Mon, 10 Oct 1994 13:58:52 GMT""}]","2015-06-26"
+"hep-th/9410072",,"Viqar Husain","The Affine symmetry of self-dual gravity","20 pages, RevTex, a few presentational changes - version to appear in
+  J. Math. Phys","J.Math.Phys. 36 (1995) 6897-6906","10.1063/1.531197","Alberta-Thy-26-94","hep-th gr-qc",,"  Self-dual gravity may be reformulated as the two dimensional principal chiral
+model with the group of area preserving diffeomorphisms as its gauge group.
+Using this formulation, it is shown that self-dual gravity contains an infinite
+dimensional hidden symmetry whose generators form the Affine (Kac-Moody)
+algebra associated with the Lie algebra of area preserving diffeomorphisms.
+This result provides an observable algebra and a solution generating technique
+for self-dual gravity.
+","[{""version"":""v1"",""created"":""Mon, 10 Oct 1994 09:35:42 GMT""},{""version"":""v2"",""created"":""Mon, 14 Aug 1995 17:17:28 GMT""}]","2009-10-28"
+"hep-th/9410105","Gautam Mandal","Avinash Dhar, Gautam Mandal and Spenta R. Wadia","Leading Large N Modification of QCD_2 on a Cylinder by Dynamical
+  Fermions","24 pages, TIFR-TH-94/36","Nucl.Phys. B436 (1995) 487-506","10.1016/0550-3213(94)00535-M",,"hep-th",,"  We consider 2-dimensional QCD on a cylinder, where space is a circle. We find
+the ground state of the system in case of massless quarks in a $1/N$ expansion.
+We find that coupling to fermions nontrivially modifies the large $N$ saddle
+point of the gauge theory due to the phenomenon of `decompactification' of
+eigenvalues of the gauge field. We calculate the vacuum energy and the vacuum
+expectation value of the Wilson loop operator both of which show a nontrivial
+dependence on the number of quarks flavours at the leading order in $1/N$.
+","[{""version"":""v1"",""created"":""Mon, 10 Oct 1994 15:34:16 GMT""}]","2016-09-06"
+"nucl-th/9410018","Wally Melnitchouk","W.Melnitchouk (U.Regensburg) and A.W.Thomas (U.Adelaide)","Pion Content of the Nucleon in Polarized Semi-Inclusive D.I.s","to appear in Proceedings of the Workshop on CEBAF at Higher Energies
+  (April 1994); 9 pages, 3 uuencoded figures, ADP-94-6/T148",,,,"nucl-th hep-ph",,"  An explicit pionic component of the nucleon may be identified by measuring
+polarized $\Delta^{++}$ fragments produced in deep-inelastic scattering off
+polarized protons. The pion-exchange model predicts highly correlated
+polarizations of the $\Delta^{++}$ and target proton, in marked contrast with
+the competing diquark fragmentation process.
+","[{""version"":""v1"",""created"":""Mon, 10 Oct 1994 10:13:20 GMT""}]","2007-05-23"
+"nucl-th/9410019",,"D. Van Neck, A.E.L. Dieperink and E. Moya de Guerra","The Spectral Function for Finite Nuclei in the Local Density
+  Approximation","21 pages + 9 figures available upon request, RevTex, preprint
+  KVI-1087","Phys.Rev.C51:1800-1808,1995","10.1103/PhysRevC.51.1800",,"nucl-th",,"  The spectral function for finite nuclei is computed within the framework of
+the Local Density Approximation, starting from nuclear matter spectral
+functions obtained with a realistic nucleon-nucleon interaction. The spectral
+function is decomposed into a single-particle part and a ''correlated'' part;
+the latter is treated in the local density approximation.
+  As an application momentum distributions, quasi-particle strengths and
+overlap functions for valence hole states, and the light-cone momentum
+distribution in finite nuclei are computed.
+","[{""version"":""v1"",""created"":""Mon, 10 Oct 1994 11:59:07 GMT""}]","2008-11-26"

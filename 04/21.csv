@@ -1,0 +1,342 @@
+"alg-geom/9404009","Gregory Sankaran","v.A. Gritsenko and G.K. Sankaran","Moduli of abelian surfaces with a $(1,p^2)$ polarisation","8 pages, plain TeX",,,,"alg-geom math.AG",,"  We show that the (compactified) moduli space of abelian surfaces with a
+polarisation of type $(1,p^2)$ is of general type for $p \ge 11$, improving a
+result of O'Grady.
+","[{""version"":""v1"",""created"":""Thu, 21 Apr 1994 11:55:00 GMT""}]","2008-02-03"
+"astro-ph/9404044","Thomas Buchert","T. Buchert, A.L. Melott, A.G. Weiss","Optimized Lagrangian Approximations for Modelling Large--Scale Structure
+  at Non--Linear Stages","submitted to ApJ.Letters, TeX, 9 pages; for the figures we refer to
+  the figures of paper astro-ph/9404018, to be obtained via anonymous ftp to:
+  ibm-3.mpa-garching.mpg.de ; directory: pub/aow . #BMW-Lett.#","Muecket et al. (eds) World Scientific (1995) 364-368",,,"astro-ph",,"  We report on a series of tests of Newtonian Lagrangian perturbation schemes
+using N--body simulations for various power--spectra with scale--independent
+indices in the range $-3$ to $+1$. The models have been evolved deeply into the
+non--linear regime of structure formation in order to probe the dynamical and
+statistical performance of the Lagrangian perturbation schemes (whose
+first--order solution contains as a subset the celebrated
+``Zel'dovich--approximation'' (hereafter ZA). These tests reveal properties of
+the approximations at stages beyond the obvious validity of perturbation
+theory. Recently, another series of tests of different analytical and
+semi--numerical approximations for large--scale structure was conducted with
+the result that ZA displays the best dynamical performance in comparison with
+the N--body simulations, if the initial data were smoothed before evolving the
+model, i.e., a truncated form of ZA (TZA). We show in this Letter that the
+excellent performance of TZA can be further improved by going to second order
+in the Lagrangian perturbation approach. The truncated second--order Lagrangian
+scheme provides a useful improvement over TZA especially for negative power
+indices, which suggests it will be very useful for modelling standard scenarios
+such as ``Cold--'', ``Hot--'' and ``Mixed--Dark--Matter''.
+","[{""version"":""v1"",""created"":""Wed, 20 Apr 1994 20:06:03 GMT""}]","2007-05-23"
+"astro-ph/9404049","Gillian Nave","I. G. Nave, S. Johansson, R. C. M. Learner, A. P. Thorne, J. W. Brault","A New Multiplet Table for Fe","13 pages, LaTeX AAS macros. ApJS (in press). 5 tables by FTP from
+  130.235.92.170 in pub/iron. LUND-GN-94-2",,,,"astro-ph",,"  We have recorded spectra of iron-neon and iron-argon hollow cathode lamps in
+the region 1700A -- 5um (59000 -- 2000cm-1), with Fourier transform (FT)
+spectrometers at the National Solar Observatory, Tucson, Arizona, U.S.A. and
+Imperial College, London, U.K., and with a high resolution grating spectrograph
+at the National Institute of Standards and Technology, Gaithersburg, U.S.A. The
+uncertainty of the strongest lines in the FT spectra is <0.002cm-1 (0.2mA at
+3000A; 8mA at 2um). Pressure and current-dependent shifts are <0.001cm-1 for
+transitions between low lying levels, increasing to 0.006 cm-1 for transitions
+between the most highly excited levels. We report 28 new energy levels of Fe I
+and revised values of another 818 levels. We have identified 9501 lines as due
+to 9759 transitions in Fe I, and these are presented in the form of a new
+multiplet table and finding list. This compares with the 5500 lines due to 467
+energy levels in the multiplet tables of Moore (1950, 1959). The biggest
+increase is in the near ultraviolet and near infra-red, and many of the new
+lines are present in the solar spectrum. Experimental log(gf) values are
+included where available. A further 125 unidentified lines due to Fe I are
+given.
+","[{""version"":""v1"",""created"":""Wed, 20 Apr 1994 17:54:46 GMT""}]","2007-05-23"
+"astro-ph/9404050","Gillian Nave","Johansson, G. Nave, M. Geller, A. J. Sauval, N. Grevesse, W. G.
+  Schoenfeld, E. S. Chang and C. B. Farmer","Analysis of the 3d6 4s(6D)4f-5g Supermultiplet of Fe I in Laboratory and
+  Solar Infrared Spectra","ApJ (in press). 14 pages. LaTeX AAS macros. 6 figures on request from
+  gill@ferrum.fysik.lu.se. LUND-GN-94-1",,"10.1086/174333",,"astro-ph",,"  The combined laboratory and solar analysis of the highly-excited
+subconfigurations 4f and 5g of Fe I has allowed us to classify 87 lines of the
+4f-5g supermultiplet in the spectral region 2545-2585 cm-1. The level structure
+of these JK-coupled configurations is predicted by semiempirical calculations
+and the quadrupolic approximation. Semiempirical gf-values have been calculated
+and are compared to gf values derived from the solar spectrum. The solar
+analysis has shown that these lines, which should be much less sensitive than
+lower excitation lines to departures from LTE and to temperature uncertainties,
+lead to a solar abundance of iron which is consistent with the meteoritic value
+(A_Fe = 7.51).
+","[{""version"":""v1"",""created"":""Wed, 20 Apr 1994 18:28:15 GMT""}]","2009-10-22"
+"cond-mat/9404065","Frithjof Anders","F.B. Anders and N. Grewe","Perturbational Approach to the Anderson Model: New Results from a
+  Post-Nca Treatment","9 pages + 4 postscript figures as uuencoded .gz code appended, LaTeX,
+  ( to appear in Europhysics Letters)","Europhys.Lett 26 (1994) 551","10.1209/0295-5075/26/7/013",,"cond-mat",,"  We present selected results from combined analytical and numerical studies of
+the Anderson-impurity model within the framework of infinite order perturbation
+theory with respect to the hybridization. Our approximation goes considerably
+beyond the well known non\-cross\-ing approximation (NCA): The re-summations
+include skeleton diagrams up to infinite order of the cross\-ing variety,
+including all $1/N^2$ contributions ($N =$ degeneracy of the magnetic state).
+We demonstrate, in a comparison with NCA theory, changes in the threshold
+behaviour of local propagators, a qualitative improvement of spectral
+properties and a clear progress in attaining local Fermi-liquid properties.
+Further applications of the post-NCA theory are pointed out.
+","[{""version"":""v1"",""created"":""Thu, 21 Apr 1994 07:40:11 GMT""}]","2009-10-22"
+"cond-mat/9404066","Kikuchi Macoto","Macoto Kikuchi, Nobuyasu Ito, and Yutaka Okabe (Department of Physics,
+  Osaka University Toyonaka 560, Japan)","Statistical Dependence and Related Topics","kikuchi@godzilla.kek.jp; LaTeX, 9 pages, 6 figures; to appear in
+  ""Computer Simulations in Condensed Matter Physics VII"", ed. D.P. Landau, K.K.
+  Mon and H.B. Sch\""uttler (Springer)",,,"OUCMT-94-2","cond-mat",,"  On the basis of the dynamical interpretation of Monte Carlo simulations, we
+discuss the relation of the equilibrium relaxation time, the susceptibility and
+the statistical error. We introduce a new quantity called {\it the statistical
+dependence time} $\tau_{dep}$, which gives the reduction factor for the
+statistical degree of freedom due to the dynamical correlations between the
+data. A new method is proposed for calculating equilibrium relaxation time
+using $\tau_{dep}$, the method which does not require knowledge of any
+time-displaced correlation function. We apply this method to the critical
+dynamics of Ising models in two and three dimensions, and estimate the
+dynamical critical exponent $z$ precisely. Systematic errors in response
+functions due to short simulations are also discussed from the viewpoint of the
+statistical dependence.
+","[{""version"":""v1"",""created"":""Thu, 21 Apr 1994 08:49:46 GMT""}]","2007-05-23"
+"cond-mat/9404067","Liang Chen","M. Azzouz, Liang Chen, and S. Moukouri","Calculation of the singlet-triplet gap of the antiferromagnetic
+  Heisenberg Model on the ladder","11pages,6 figures (upon request) Revtex 3.0, Report#CRPS-94-04",,"10.1103/PhysRevB.50.6233",,"cond-mat",,"  The ground state energy and the singlet-triplet energy gap of the
+antiferromagnetic Heisenberg model on a ladder is investigated using a mean
+field theory and the density matrix renormalization group. Spin wave theory
+shows that the corrections to the local magnetization are infinite. This
+indicates that no long range order occurs in this system. A flux-phase state is
+used to calculate the energy gap as a function of the transverse coupling,
+$J_\perp$, in the ladder. It is found that the gap is linear in $J_\perp$ for
+$J_\perp\gg 1$ and goes to zero for $J_\perp\to 0$. The mean field theory
+agrees well with the numerical results.
+","[{""version"":""v1"",""created"":""Thu, 21 Apr 1994 13:29:55 GMT""}]","2009-10-22"
+"hep-lat/9404011","Lev N. Shchur","Andrei L. Talapov and Lev N. Shchur","Critical region of the random bond Ising model","11 pages, 16 figures (674 KB) by request to authors:
+  talapov@pib1.physik.uni-bonn.de or shchur@cpd.landau.free.net, LITP-94/CP-03",,"10.1088/0953-8984/6/40/020",,"hep-lat cond-mat",,"  We describe results of the cluster algorithm Special Purpose Processor
+simulations of the 2D Ising model with impurity bonds. Use of large lattices,
+with the number of spins up to $10^6$, permitted to define critical region of
+temperatures, where both finite size corrections and corrections to scaling are
+small. High accuracy data unambiguously show increase of magnetization and
+magnetic susceptibility effective exponents $\beta$ and $\gamma$, caused by
+impurities. The $M$ and $\chi$ singularities became more sharp, while the
+specific heat singularity is smoothed. The specific heat is found to be in a
+good agreement with Dotsenko-Dotsenko theoretical predictions in the whole
+critical range of temperatures.
+","[{""version"":""v1"",""created"":""Wed, 20 Apr 1994 23:16:26 GMT""}]","2009-10-22"
+"hep-ph/9404307",,"S. Barshay and P. Heiliger","A Transient New Coherent Condition of Matter: The Signal for New Physics
+  in Hadronic Diffractive Scattering","25 pages, LaTeX (12 figures, not included). A complete postscript
+  file (except figures 1 and 11, which are available upon request) is available
+  via anonymous ftp at ttpux2.physik.uni-karlsruhe.de (129.13.102.139) as
+  /ttp94-03 /ttp94-03.ps, Local preprint# TTP94-03 (March 1994)","Z.Phys. C64 (1994) 675-682","10.1007/BF01957776",,"hep-ph",,"  We demonstrate the existence of an anomalous structure in the data on the
+diffractive elastic scattering of hadrons at high energies and small momentum
+transfer. We analyze five sets of experimental data on $p(\overline{p})-p $
+scattering from five different experiments with colliding beams, ranging from
+the first-- and second--generation experiments at $\sqrt{s} = 53 $ GeV to the
+most recent experiments at 546 GeV and at 1800 GeV. All of the data sets
+exhibit a localized anomalous structure in momentum transfer. We represent the
+anomalous behavior by a phenomenological formula. This is based upon the idea
+that a transient coherent condition of matter occurs in some of the
+intermediate inelastic states which give rise, via unitarity, to diffractive
+elastic scattering. The Fourier--Bessel transform into momentum--transfer space
+of a spatial oscillatory behavior of matter in the impact--parameter plane
+results in a small piece of the diffractive amplitude which exhibits a
+localized anomalous behavior near a definite value of $-t $. In addition, we
+emphasize possible signals coming directly from such a new condition of matter
+that may be present in current experiments on inelastic processes.
+","[{""version"":""v1"",""created"":""Wed, 20 Apr 1994 16:41:02 GMT""}]","2009-10-28"
+"hep-ph/9404308","Waikwok Kwong","Waikwok Kwong and S.P. Rosen","Semi-Empirical Bound on the Chlorinr-37 Solar Neutrino Experiment","Latex, 6 pages + 1 postscript figure (included). UTAPHY-HEP-9","Phys.Rev.Lett.73:369-372,1994","10.1103/PhysRevLett.73.369",,"hep-ph",,"  The Kamiokande measurement of energetic Boron-8 neutrinos from the sun is
+used to set a lower bound on the contribution of the same neutrinos to the
+signal in the \Chlorine\ experiment. Implications for Beryllium-7 neutrinos are
+discussed.
+","[{""version"":""v1"",""created"":""Wed, 20 Apr 1994 16:44:32 GMT""}]","2009-09-25"
+"hep-ph/9404309","Andres Schaale","A.A.Bel'kov, A.V.Lanyov, A.Schaale, S.Scherer","Chiral Meson Lagrangians from the QCD Based NJL Model Modified by
+  Nonlocal Effects",,,,,"hep-ph",,"  Starting from a QCD inspired bilocal quark interaction we obtain a local
+effective meson lagrangian. In contrast to previous local (NJL-like)
+approaches, we include nonlocal corrections related to the finite meson size
+which we characterize by a small parameter. After bosonization using the
+heat-kernel method we predict the structure coefficients of the
+Gasser-Leutwyler $p^4$-lagrangian up to first order in this parameter. The
+modifications for the $L_i$ coefficients are typically of the order 10-20\%,
+except for $L_5$, where we find a stronger nonlocal influence.
+","[{""version"":""v1"",""created"":""Wed, 20 Apr 1994 19:05:33 GMT""}]","2007-05-23"
+"hep-ph/9404310","Tom Browder","The CLEO collaboration","A Measurement of the Branching Fraction ${\cal B} \tau^+ \to h^- \pi^0
+  \nu_\tau$","9 pages (in REVTEX format) Preprint CLNS94-1281, CLEO 94-11","Phys.Rev.Lett.72:3762-3766,1994","10.1103/PhysRevLett.72.3762",,"hep-ph hep-ex",,"  Using data from the CLEO II detector at CESR, we measure ${\cal
+B}(\tau^\pm\rightarrow h^\pm\pi^0\nu_\tau)$ where $h^\pm$ refers to either
+$\pi^\pm$ or $K^\pm$. We use three different methods to measure this branching
+fraction. The combined result is ${\cal B}(\tau^\pm\rightarrow
+h^\pm\pi^0\nu_\tau) = 0.2587 \pm 0.0012 \pm 0.0042$, in good agreement with
+Standard Model predictions. This result, in combination with other precision
+measurements, reduces the significance of the one-prong problem in tau decays.
+A postscript version is available through World-Wide-Web in
+http://w4.lns.cornell.edu/public/CLNS/1994/
+","[{""version"":""v1"",""created"":""Wed, 20 Apr 1994 23:32:40 GMT""}]","2012-08-27"
+"hep-ph/9404311","Kim Jihn E.","Kiwoon Choi, Jihn E. Kim and Hans Peter Nilles","Cosmological Constant and Soft Terms in Supergravity","Latex file, 11 pages plus 1 figure (the figure not included), SNUTP
+  94--19","Phys.Rev.Lett. 73 (1994) 1758-1761","10.1103/PhysRevLett.73.1758",,"hep-ph hep-th",,"  Some of the soft SUSY breaking parameters in hidden sector supergravity model
+depend on the expectation value of the hidden sector scalar potential, $<V_h>$,
+whose tree level value is equal to the tree level cosmological constant. The
+current practice of calculating soft parameters assumes that $<V_h>=0$. Quantum
+correction to the cosmological constant can differ from the correction to
+$<V_h>$ by an amount of order $m^2_{3/2}M_{Pl}^2/8\pi$. This implies that, for
+the vanishing cosmological constant, the $<V_h>$--dependent parts of soft terms
+can be sizable, and hence the supergravity phenomenology should be accordingly
+modified.
+","[{""version"":""v1"",""created"":""Thu, 21 Apr 1994 02:18:56 GMT""}]","2009-10-28"
+"hep-ph/9404312","Yuri Makeenko","Yu. Makeenko","Exact Multiparticle Amplitudes at Threshold in Large-N Component phi^4
+  Theory","18 pp., Latex (6 Latex figures), NBI-HE-94-25","Phys. Rev. D 50, 4137 (1994)","10.1103/PhysRevD.50.4137",,"hep-ph hep-th",,"  I derive the set of recurrence relations between the amplitudes of
+multiparticle production at threshold in the standard large-N limit of the
+O(N)-symmetric phi^4$ theory which sums all relevant diagrams with arbitrary
+number of loops. I find an exact solution to the recurrence relations using the
+Gelfand--Dikii representation of the diagonal resolvent of the Schrodinger
+operator. The result coincides with the tree amplitudes while the effect of
+loops is the renormalization of the coupling constant and mass. The form of the
+solution is due to the fact that the exact amplitude of the process 2->n at n>2
+vanishes on mass shell when averaged over the O(N)-indices of incoming
+particles for dynamical reasons because of the cancellation between diagrams. I
+discuss some possible applications of large-N amplitudes, in particular, for
+the renormalon problem.
+","[{""version"":""v1"",""created"":""Thu, 21 Apr 1994 08:23:39 GMT""}]","2013-11-13"
+"hep-ph/9404313","Roberto Pittau","F.A.Berends, R.Kleiss and R.Pittau","All electroweak four fermion processes in electron-positron collisions","INLO-PUB-1/94,NIKHEF-H/94-08, LaTeX, uses axodraw.sty (appended to
+  end of TeX file), 45 pages","Nucl.Phys. B424 (1994) 308-342","10.1016/0550-3213(94)90297-6",,"hep-ph",,"  This paper studies the electroweak production of all possible four fermion
+states in e+ e- collisions. Since the methods employed to evaluate the complete
+matrix elements and phase space are very general, all four fermion final states
+in which the charged particles are detected can be considered. Also all kinds
+of experimental cuts can be imposed. With the help of the constructed event
+generator a large number of illustrative results is obtained, which show the
+relevance of backgrounds to a number of signals. For LEP 200 the W-pair signal
+and its background are discussed, for higher energies also Z-pair and single W
+and Z signals and backgrounds are presented.
+","[{""version"":""v1"",""created"":""Thu, 21 Apr 1994 10:19:23 GMT""}]","2009-10-28"
+"hep-ph/9404314",,"Thomas E. Browder (University of Hawaii at Manoa), Klaus Honscheid
+  (Ohio State University), Stephen Playfer (Syracuse University)","A Review of Hadronic and Rare B Decays","77 pages; CLNS 93/1261, UH-511-778-93, OHSTPY-HEP-E-93-018, HEPSY
+  93-10",,"10.1142/9789814503846_0004",,"hep-ph hep-ex",,"  We review recent experimental results on B meson decays. These include
+measurements of the inclusive production of charmed and non-charmed mesons and
+baryons, the reconstruction of a large number of exclusive hadronic final
+states with charmed mesons, the search for exclusive hadronic final states
+without charmed mesons, and the first observation of the decay B-> K* gamma
+which is described by an electromagnetic penguin diagram. The theoretical
+implications of these results will be considered. The figures can be obtained
+in postscript format EMAIL from kh@ohstpy.mps.ohio-state.edu.
+","[{""version"":""v1"",""created"":""Thu, 21 Apr 1994 14:04:37 GMT""}]","2016-11-03"
+"hep-ph/9404318","Sakane","A. Ni\'egawa","Is \lq\lq Heavy Quark Damping Rate Puzzle'' in Hot QCD Really the
+  Puzzle?","13pages, OCU-PHYS-154","Phys.Rev.Lett.73:2023-2026,1994","10.1103/PhysRevLett.73.2023",,"hep-ph",,"  Within the framework of perturbative resummation scheme of Pisarski and
+Braaten, the decay- or damping-rate of a moving heavy quark (muon) to leading
+order in weak coupling in hot QCD (QED) is examined. Although, as is well
+known, the conventionally-defined damping rate diverges logarithmically at the
+infrared limit, shown is that no such divergence appears in the physically
+measurable decay rate. The cancellation occurs between the contribution from
+the \lq\lq real'' decay diagram and the contribution from the diagrams with
+\lq\lq thermal radiative correction''.
+","[{""version"":""v1"",""created"":""Thu, 21 Apr 1994 09:41:30 GMT""}]","2014-11-17"
+"hep-ph/9404321","Johannes Bluemlein","Johannes Bl\""umlein, Edward Boos, and Alexander Pukhov","Leptoquark Pair Production at $ep$ Colliders","15 p., postscript encoded with uufiles; DESY 94--072","Mod.Phys.Lett. A9 (1994) 3007-3022","10.1142/S0217732394002847",,"hep-ph",,"  The pair production cross section for scalar and vector leptoquarks at $ep$
+colliders is calculated for the case of photon--gluon fusion. In a model
+independent analysis we consider the most general $C$ and $P$ conserving
+couplings of gluons and photons to both scalar and vector leptoquarks described
+by an effective low--energy Lagangian which obeys $U(1)_{em} \times SU(3)_c$
+invariance. Numerical predictions are given for the kinematical regime at HERA
+and LEP~$\otimes$~LHC.
+","[{""version"":""v1"",""created"":""Wed, 20 Apr 1994 17:06:35 GMT""}]","2015-06-25"
+"hep-th/9404125",,"Hitoshi Nishino","$~N=2$~ Superstring Theory Generates Supersymmetric Chern-Simons
+  Theories","LATEX 13 pages, UMDEPP 94-127","Mod.Phys.Lett. A9 (1994) 3255-3266","10.1142/S0217732394003075",,"hep-th",,"  Abstrct: We show that the action of self-dual supersymmetric Yang-Mills
+theory in four-dimensions, which describes the consistent massless background
+fields for $~N=2$~ superstring, generates the actions for $~N=1$~ and $~N=2$~
+supersymmetric non-Abelian Chern-Simons theories in three-dimensions after
+appropriate dimensional reductions. Since the latters play important roles for
+supersymmetric integrable models, this result indicates the fundamental
+significance of the $~N=2$~ superstring theory controlling (possibly all)
+supersymmetric integrable models in lower-dimensions.
+","[{""version"":""v1"",""created"":""Wed, 20 Apr 1994 16:28:26 GMT""}]","2015-06-26"
+"hep-th/9404126",,"A.Marshakov","String theory and classical integrable systems","lecture given at III Baltic Rim student seminar, Helsinki, September
+  1993} 33pp, latex",,"10.1007/3-540-58453-6_11",,"hep-th",,"  We discuss different formulations and approaches to string theory and $ 2d$
+quantum gravity. The generic idea to get a unique description of {\it many}
+different string vacua altogether is demonstrated on the examples in $ 2d$
+conformal, topological and matrix formulations. The last one naturally brings
+us to the appearance of classical integrable systems in string theory. Physical
+meaning of the appearing structures is discussed and some attempts to find
+directions of possible generalizations to ``higher-dimensional"" models are
+made. We also speculate on the possible appearence of quantum integrable
+structures in string theory.
+","[{""version"":""v1"",""created"":""Wed, 20 Apr 1994 18:03:26 GMT""}]","2009-10-28"
+"hep-th/9404127",,"J.L. Vazquez-Bello","The Quantum Mechanics of a ""Spinor-twin"" Type II Superparticle","8 pages. TeX-file",,,,"hep-th",,"  Ten dimensional supersymmetric Yang-Mills theory may be described, in the
+light-cone gauge, in terms of either a vector or spinor superfield satisfying
+certain projection conditions (type I or II). These have been presented in a $
+SO(9,1) $ form, and used to construct spinning superparticle theories in
+extended spaces. This letter presents the covariant quantisation of a
+""spinor-twin"" type II superparticle theory by using the standard techniques of
+Batalin and Vilkovisky. The quantum action defines a quadratic field theory,
+whose ghost-independent BRST cohomology class gives the spectrum of N=1 super
+Yang-Mills.
+","[{""version"":""v1"",""created"":""Wed, 20 Apr 1994 21:41:41 GMT""}]","2007-05-23"
+"hep-th/9404128","D'Hoker","Eric D'Hoker and D.H. Phong","Dispersion Relations in String Theory","17 pages, COLUMBIA-YITP-UCLA/93/TEP/45 (figures fixed up)","Theor.Math.Phys.98:306-316,1994; Teor.Mat.Fiz.98:442-455,1994","10.1007/BF01102207",,"hep-th",,"  We analyze the analytic continuation of the formally divergent one-loop
+amplitude for scattering of the graviton multiplet in the Type II Superstring.
+In particular we obtain explicit double and single dispersion relations,
+formulas for all the successive branch cuts extending out to plus infinity, as
+well as for the decay rate of a massive string state of arbitrary mass 2N into
+two string states of lower mass. We compare our results with the box diagram in
+a superposition of $\phi^3$-like field theories. The stringy effects are traced
+to a convergence problem in this superposition.
+","[{""version"":""v1"",""created"":""Thu, 21 Apr 1994 01:03:00 GMT""},{""version"":""v2"",""created"":""Tue, 26 Apr 1994 21:58:52 GMT""}]","2011-04-20"
+"hep-th/9404129",,"Aurelian Isar","Wigner distribution function and entropy of the damped harmonic
+  oscillator within the theory of open quantum systems","8 pages, Latex (Contribution to the Second Workshop on Harmonic
+  Oscillators, Cocoyoc, Mexico, March 23-25, 1994)",,,,"hep-th",,"  The harmonic oscillator with dissipation is studied within the framework of
+the Lindblad theory for open quantum systems. By using the Wang-Uhlenbeck
+method, the Fokker-Planck equation, obtained from the master equation for the
+density operator, is solved for the Wigner distribution function, subject to
+either the Gaussian type or the $\delta$-function type of initial conditions.
+The obtained Wigner functions are two-dimensional Gaussians with different
+widths. Then a closed expression for the density operator is extracted. The
+entropy of the system is subsequently calculated and its temporal behaviour
+shows that this quantity relaxes to its equilibrium value.
+","[{""version"":""v1"",""created"":""Thu, 21 Apr 1994 07:24:00 GMT""}]","2007-05-23"
+"hep-th/9404131","Shibaji Roy","Pablo M. Llatas and Shibaji Roy","On N=1 Superconformal Algebra in the Non-Critical Bosonic String Theory","12 pages, Plain tex, UG-2/94","Phys.Lett. B333 (1994) 347-352","10.1016/0370-2693(94)90153-8",,"hep-th",,"  In a recent work it has been shown that the bosonic strings could be embedded
+into a special class of $N=1$ fermionic strings. We argue that the
+superpartners of any physical state in the spectrum of this fermionic string is
+non-physical. So, there is no supersymmetry in the space of physical states and
+the embedding is, in this sense, ``trivial''. We here propose two different
+constructions as possible candidates of non-trivial embeddings of the
+non-critical bosonic strings into some special class of $N=1$ fermionic strings
+of which one is the non-critical NSR string. The BRST charge of the $N=1$
+fermionic strings in both cases decompose as $Q_{N=1} = Q_B + {\tilde Q}$,
+where $Q_B$ is the BRST charge of the bosonic string.
+","[{""version"":""v1"",""created"":""Thu, 21 Apr 1994 12:55:01 GMT""}]","2009-10-28"
+"hep-th/9404132","Noureddine Mohammedi","Noureddine Mohammedi","Wess-Zumino-Novikov-Witten Models Based on Lie Superalgebras","10 pages, Latexfile, BONN-TH-94-03","Phys.Lett. B331 (1994) 93-98","10.1016/0370-2693(94)90947-4",,"hep-th",,"  The affine current algebra for Lie superalgebras is examined. The bilinear
+invariant forms of the Lie superalgebra can be either degenerate or
+non-degenerate. We give the conditions for a Virasoro construction, in which
+the currents are primary fields of weight one, to exist. In certain cases, the
+Virasoro central charge is an integer equal to the super dimension of the group
+supermanifold. A Wess-Zumino-Novikov-Witten action based on these Lie
+superalgebras is also found.
+","[{""version"":""v1"",""created"":""Thu, 21 Apr 1994 15:16:03 GMT""}]","2009-10-28"
+"math/9404205","Jiri Witzany","Moti Gitik and Ji\v{r}\'i Witzany","Consistency Strength of the Axiom of Full Reflection at Large Cardinals",,,,"Logic E-prints April 21, 1994","math.LO",,"  The Axiom of Full Reflection at a measurable cardinal has been conjectured to
+be equiconsitent with the existence of a coherent sequence of measures with a
+repeat point. However we prove that the Axiom of Full Reflection at a
+measurable cardinal is surprisingly equiconsistent just with the existence of a
+measurable cardinal. We also generalize the result to larger cardinals as
+strong or supercompact. Hence we can conclude that the Axiom of Full Reflection
+at large cardinals weaker than measurable, e.g. as n-Mahlo, does push the
+consistency strength up, but does not push the consistency strength up at
+measurable or larger cardinals.
+","[{""version"":""v1"",""created"":""Thu, 21 Apr 1994 00:00:00 GMT""}]","2008-02-03"
+"math/9404213",,"Mikhail I. Ostrovskii","Subspaces containing biorthogonal functionals of bases of different
+  types",,"Teor. Funktsii, Funktsional. Anal. i Prilozhen. 57 (1992),
+  115-127; English transl.: J. Math. Sci., 77 (1995), no. 1, 3008-3016",,"Banach Archive 4/20/94","math.FA",,"  The paper is devoted to two particular cases of the following general
+problem. Let $\alpha$ and $\beta$ be two types of bases in Banach spaces. Let a
+Banach space $X$ has bases of both types and a subspace $M\subset X^*$ contains
+the sequence of biorthogonal functionals of some $\alpha$-basis in $X$. Does
+$M$ contain a sequence of biorthogonal functionals of some $\beta$-basis in
+$X$?
+  The following particular cases are considered:
+  $(\alpha, \beta)$=(Schauder bases, unconditional bases),
+  $(\alpha, \beta)$=(Nonlinear operational bases, linear operational bases).
+  The paper contains an investigation of some of the spaces constructed by
+S.Belle\-not in ``The $J$-sum of Banach spaces'', J. Funct. Anal. {\bf 48}
+(1982), 95--106. (These spaces are used in some examples.)
+","[{""version"":""v1"",""created"":""Wed, 20 Apr 1994 17:17:38 GMT""}]","2010-09-07"
+"patt-sol/9404004","Vadim R. Kudashev","Ramil' F.Bikbaev, Vadim R.Kudashev (Institute of Mathematics,
+  Chernyshevskii 112, Ufa, Russia)","Example of shock wave in unstaible medium: The focusing nonlinear
+  Schrodinger equation","4 pages, LaTEX, version 2.09, submitted to Phys. Lett. A",,"10.1016/0375-9601(94)90751-X",,"patt-sol nlin.PS",,"  Dissipationless shock waves in modulational unstable one-dimensional medium
+are investigated on the simplest example of integrable focusing nonlinear
+Schr\''odinger (NS) equation. Our approach is based on the construction of
+special exact solution of the Whitham-NS system, which ''partially saturates''
+the modulational instability.
+","[{""version"":""v1"",""created"":""Thu, 21 Apr 1994 06:57:10 GMT""}]","2009-10-28"
+"solv-int/9404004","Evgeny Doktorov","Evgeny V.Doktorov and Rafael A.Vlasov (Institute of Physics, 220072
+  Minsk, Belarus)","Spatial Solitons in Media with Delayed-Response Optical Nonlinearities","7 pages, to be published in Europhys. Lett",,"10.1209/0295-5075/26/7/002",,"solv-int nlin.PS nlin.SI patt-sol",,"  Near-soliton scanning light-beam propagation in media with both
+delayed-response Kerr-type and thermal nonlinearities is analyzed. The
+delayed-response part of the Kerr nonlinearity is shown to be competitive as
+compared to the thermal nonlinearity, and relevant contributions to a
+distortion of the soliton form and phase can be mutually compensated. This
+quasi-soliton beam propagation regime keeps properties of the incli- ned
+self-trapped channel.
+","[{""version"":""v1"",""created"":""Wed, 20 Apr 1994 18:15:34 GMT""}]","2009-10-28"
+"solv-int/9404005","Evgeny Doktorov","Evgeny V.Doktorov (Institute of Physics, 220072 Minsk, Belarus)","Non-Linear Evolution Equations with Non-Analytic Dispersion Relations in
+  2+1 Dimensions. Bilocal Approach","13 pages, to be published in J. Phys. A",,"10.1088/0305-4470/27/10/024",,"solv-int nlin.PS nlin.SI patt-sol",,"  A method is proposed of obtaining (2+1)-dimensional non- linear equations
+with non-analytic dispersion relations. Bilocal formalism is shown to make it
+possible to represent these equations in a form close to that for their
+counterparts in 1+1 dimensions.
+","[{""version"":""v1"",""created"":""Wed, 20 Apr 1994 18:14:18 GMT""}]","2009-10-28"

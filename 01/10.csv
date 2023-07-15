@@ -1,0 +1,127 @@
+"astro-ph/9401009",,"M. Milgrom","The virial theorem for action-governed theories","9 pages","Phys.Lett. A190 (1994) 17-21","10.1016/0375-9601(94)90359-X",,"astro-ph gr-qc",,"  We describe a simple derivation of virial relations (VR) for arbitrary
+action-governed systems. These follow directly from the action with no need to
+go via the equations of motion. When some of the degrees of freedom are of the
+same type a tensor virial theorem presents itself. Further generalizations are
+discussed.
+  Symmetries of the action may lead to identities involving the VR.
+  Beside pointing to a unified provenance of the VR, and affording general
+systematics of them, our method is a simple prescription for deriving such
+relations. It is particularly useful for treating high-derivative and non-local
+theories. We demonstarte the procedure with several examples.
+","[{""version"":""v1"",""created"":""Mon, 10 Jan 1994 14:47:41 GMT""}]","2009-10-22"
+"astro-ph/9401010","Ferrara Andrea","A. Ferrara & R.J. Dettmar","Radio Emitting Dust in the Free-Electron Layer of Spiral Galaxies:
+  Testing the Disk/Halo Interface","Plain TeX, ST-801",,"10.1086/174128",,"astro-ph",,"  We present a study of the radio emission from rotating, charged dust grains
+immersed in the ionized gas constituting the thick, H$\alpha$-emitting disk of
+many spiral galaxies. Using up-to-date optical constants, the charge on the
+grains exposed to the diffuse galactic UV flux has been calculated. An
+analytical approximation for the grain charge has been derived, which is then
+used to obtain the grain rotation frequency. Grains are found to have
+substantial radio emission peaked at a cutoff frequency in the range
+10-100~GHz, depending on the grain size distribution and on the efficiency of
+the radiative damping of the grain rotation. The dust radio emission is
+compared to the free-free emission from the ionized gas component; some
+constraints on the magnetic field strength in the observed dusty filaments are
+also discussed. The model can be used to test the disk-halo interface
+environment in spiral galaxies, to determine the amount and size distribution
+of dust in their ionized component, and to investigate the rotation mechanisms
+for the dust. Numerical estimates are given for experimental purposes.
+","[{""version"":""v1"",""created"":""Mon, 10 Jan 1994 15:41:45 GMT""}]","2009-10-22"
+"gr-qc/9401007","Hideo Kodama","Hideo Kodama, Hideki Ishihara and Yoshihisa Fujiwara","Does a domain wall emit gravitational waves? -- General-relativistic
+  perturbative treatment","26pages, LaTeX file with epsfs","Phys.Rev.D50:7292-7303,1994","10.1103/PhysRevD.50.7292","YITP/U-94-01","gr-qc",,"  The behavior of gravitational wave perturbations on a locally Minkowskian
+spacetime background containing a planar domain wall is investigated in the
+gauge-invariant general relativistic framework. It is shown that for this
+particular background the domain wall does not emit gravitational waves
+spontaneously by its free oscillation in the first order, although it scatters
+incidental gravitational waves.
+","[{""version"":""v1"",""created"":""Mon, 10 Jan 1994 09:09:03 GMT""}]","2010-11-01"
+"hep-lat/9401006","Stefan Boettcher","C. M. Bender, S. Boettcher, M. Moshe","Spherically-Symmetric Random Walks in Noninteger Dimension","40 pages, 4 figures, plain tex, tared and uuencoded, WU-HEP 94","J.Math.Phys. 35 (1994) 4941-4963","10.1063/1.530824",,"hep-lat",,"  A previous paper (hep-lat/9311011) proposed a new kind of random walk on a
+spherically-symmetric lattice in arbitrary noninteger dimension $D$. Such a
+lattice avoids the problems associated with a hypercubic lattice in noninteger
+dimension. This paper examines the nature of spherically-symmetric random walks
+in detail. We perform a large-time asymptotic analysis of these random walks
+and use the results to determine the Hausdorff dimension of the process. We
+obtain exact results in terms of Hurwitz functions (incomplete zeta functions)
+for the probability of a walker going from one region of the spherical lattice
+to another. Finally, we show that the probability that the paths of $K$
+independent random walkers will intersect vanishes in the continuum limit if
+$D> {{2K}\over{K-1}}$.
+","[{""version"":""v1"",""created"":""Sun, 9 Jan 1994 20:00:26 GMT""}]","2009-10-22"
+"hep-ph/9401226","Zoltan Ligeti","Adam F. Falk, Zoltan Ligeti, Matthias Neubert and Yosef Nir","Heavy Quark Expansion for the Inclusive Decay $\bar
+  B\to\tau\,\bar\nu\,X$","16pages harvmac","Phys.Lett.B326:145-153,1994","10.1016/0370-2693(94)91206-8","CERN-TH.7124/93, JHU-TIPAC-930031, UCSD/PTH 93-43, WIS-93/117/Dec-PH","hep-ph",,"  We calculate the differential decay rate for inclusive $\bar
+B\to\tau\,\bar\nu\,X$ transitions to order $1/m_b^2$ in the heavy quark
+expansion, for both polarized and unpolarized tau leptons. We show that using a
+systematic $1/m_b$ expansion significantly reduces the theoretical
+uncertainties in the calculation. We obtain for the total branching ratio ${\rm
+BR}(\bar B\to\tau\,\bar\nu\,X)=2.30\pm 0.25\%$, and for the tau polarization
+$A_{\rm pol}=-0.706\pm0.006$. {}From the experimental measurement of the
+branching ratio at LEP, we derive the upper bound $\lo\leq 0.8\gev^2$ for one
+of the parameters of the heavy quark effective theory.
+","[{""version"":""v1"",""created"":""Mon, 10 Jan 1994 11:49:05 GMT""}]","2011-01-27"
+"hep-th/9401030","Ronen Plesser","A. Hanany, Y. Oz, and M.R. Plesser","Topological Landau-Ginzburg Formulation and Integrable Structure of 2d
+  String Theory","28pp. LaTeX, IASSNS-HEP-94/1, TAUP-2130-93, WIS-93/123/Dec-PH. (Using
+  recent results of Takasaki and of Eguchi and Kanno we have found a proof of
+  the main conjecture in the paper. This is outlined in a note on p. 22)","Nucl.Phys.B425:150-172,1994","10.1016/0550-3213(94)90176-7",,"hep-th",,"  We construct a topological Landau-Ginzburg formulation of the two-dimensional
+string at the self-dual radius. The model is an analytic continuation of the
+$A_{k+1}$ minimal model to $k=-3$. We compute the superpotential and calculate
+tachyon correlators in the Landau-Ginzburg framework. The results are in
+complete agreement with matrix model calculations. We identify the momentum one
+tachyon as the puncture operator, non-negative momentum tachyons as primary
+fields, and negative momentum ones as descendants. The model thus has an
+infinite number of primary fields, and the topological metric vanishes on the
+small phase space when restricted to these. We find a parity invariant
+multi-contact algebra with irreducible contact terms of arbitrarily large
+number of fields. The formulation of this Landau-Ginzburg description in terms
+of period integrals coincides with the genus zero $W_{1+\infty}$ identities of
+two-dimensional string theory. We study the underlying Toda lattice integrable
+hierarchy in the Lax formulation and find that the Landau-Ginzburg
+superpotential coincides with a derivative of the Baker-Akhiezer wave function
+in the dispersionless limit. This establishes a connection between the
+topological and integrable structures. Guided by this connection we derive
+relations formally analogous to the string equation.
+","[{""version"":""v1"",""created"":""Mon, 10 Jan 1994 04:27:02 GMT""},{""version"":""v2"",""created"":""Mon, 24 Jan 1994 04:37:17 GMT""},{""version"":""v3"",""created"":""Tue, 28 Jun 1994 14:53:06 GMT""}]","2009-09-29"
+"hep-th/9401031","Armen Nersessian","D.R. Karakhanyan, R.P. Manvelyan, R.L. Mkrtchyan (Yerevan Physics
+  Institute)","Area-preserving structure of 2d-gravity","8 pages, LaTeX","Phys.Lett. B329 (1994) 185-188","10.1016/0370-2693(94)90758-7",,"hep-th",,"  The effective action for 2d-gravity with manifest area-preserving invariance
+is obtained in the flat and in the general gravitational background. The
+cocyclic properties of the last action are proved, and generalizations on
+higher dimensions are discussed.
+","[{""version"":""v1"",""created"":""Mon, 10 Jan 1994 12:21:26 GMT""}]","2009-10-28"
+"hep-th/9401032","Armen Nersessian","R.P. Manvelyan and R.L. Mkrtchyan (Yerevan Physics Institute)","Geometrical action for $w_\infty$ algebra as a reduced symplectic
+  Chern-Simons theory","6 pages, LaTeX","Phys.Lett. B327 (1994) 47-49","10.1016/0370-2693(94)91526-1",,"hep-th",,"  The geometric action on a certain orbit of the group of the area-preserving
+diffeomorphisms is considered, and it is shown, that it coincides with a
+special reduction of the three-dimensional Chern-Simons theory, under which
+group and space coordinates are identified.
+","[{""version"":""v1"",""created"":""Mon, 10 Jan 1994 12:22:16 GMT""}]","2009-10-28"
+"hep-th/9401033","Andre Roberge","Andre Roberge","Fermion Back-Reaction and the Sphaleron","11 pages, Revtex (2 figures available upon request), to appear in
+  Phys. Rev. D (Rapid Communication)","Phys.Rev.D49:1689-1692,1994","10.1103/PhysRevD.49.R1689",,"hep-th",,"  Using a simple model, a new sphaleron solution which incorporates finite
+fermionic density effects is obtained. The main result is that the height of
+the potential barrier (sphaleron energy) decreases as the fermion density
+increases. This suggests that the rate of sphaleron-induced transitions
+increases when the fermionic density increases. However the rate increase is
+not expected to change significantly the predictions from the standard
+sphaleron-induced baryogenesis scenarios.
+","[{""version"":""v1"",""created"":""Mon, 10 Jan 1994 13:53:54 GMT""}]","2009-12-30"
+"hep-th/9401035",,"A. Khvedelidze, V. Pervushin","Zero Modes of First Class Secondary Constraints in Gauge Theories","LATEX",,,"JINR Preprint E2-93-439","hep-th",,"  Zero modes of first class secondary constraints in the two-dimensional
+electrodynamics and the four-dimensional SU(2) Yang-Mills theory are considered
+by the method of reduced phase space quantization in the context of the problem
+of a stable vacuum. We compare the description of these modes in the Dirac
+extended method and reveal their connection with the topological structure of
+the gauge symmetry group. Within the framework of the ""reduced"" quantization we
+construct a new global realization of the homotopy group representation in the
+Yang-Mills theory, where the role of the stable vacuum with a finite action
+plays the Prasad-Sommerfield solution.
+","[{""version"":""v1"",""created"":""Mon, 10 Jan 1994 15:26:10 GMT""}]","2007-05-23"
+"hep-th/9401036",,"Mihai Visinescu","The Geodesic Motion in Taub-Nut Spinning Space","LATEX, 14 pages, IFA-FT-392-1993","Class.Quant.Grav.11:1867-1880,1994","10.1088/0264-9381/11/7/021",,"hep-th gr-qc",,"  The geodesic motion of pseudo-classical spinning particles in the Euclidean
+Taub-NUT space is analysed. The generalized Killing equations for spinning
+space are investigated and the constants of motion are derived in terms of the
+solutions of these equations. A simple exact solution, corresponding to
+trajectories lying on a cone, is given.
+","[{""version"":""v1"",""created"":""Mon, 10 Jan 1994 11:38:00 GMT""}]","2010-04-06"
+"hep-th/9401037",,"D. R. Grigore","Hamiltonian Mechanics in 1+2 Dimensions","LATEX, #15 pages, IFA-FT-392-1994, January",,,,"hep-th",,"  A complete list of all transitive symplectic manifolds of the Poincar\'e and
+Galilei group in 1+2 dimensions is given.
+","[{""version"":""v1"",""created"":""Mon, 10 Jan 1994 11:53:00 GMT""}]","2007-05-23"
+"patt-sol/9401003","Flora Pempinelli","Flora Pempinelli (Dipartimento di Fisica dell'Universita` e Sezione
+  INFN - 73100 LECCE - Italy)","Soliton solutions of the Hamiltonian DSI and DSIII equations",,,"10.1007/BF01017064",,"patt-sol nlin.PS nlin.SI solv-int",,"  By introducing generalized Backlund Transformations depending on arbitrary
+functions, wave and localized soliton solutions of the Davey- Stewartson
+equations are generated. Moreover explicit soliton solutions of the Hamiltonian
+DSI and DSIII equations are obtained.
+","[{""version"":""v1"",""created"":""Mon, 10 Jan 1994 09:15:22 GMT""}]","2009-10-28"

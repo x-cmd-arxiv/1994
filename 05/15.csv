@@ -1,0 +1,102 @@
+"alg-geom/9405007","Mikail Entov","Mikhail Entov","On the A-D-E classification of the simple singularities of functions","31 pages, Plain TeX",,,,"alg-geom math.AG",,"  We show how the classification of simple singularities of functions can be
+reduced directly, not using the normal forms, to the classification of
+irreducible Weyl groups. We also prove that the class of a singularity in its
+local algebra always belongs to the tangent cone to the stratum $\mu =const$ of
+the singularity. An interesting characterization of Coxeter elements among
+quasi-Coxeter elements of a Weyl group (of one of the types A-D-E) is found.
+","[{""version"":""v1"",""created"":""Sun, 15 May 1994 01:19:46 GMT""}]","2008-02-03"
+"astro-ph/9405034","Richard Easther","Richard Easther","Inflationary Perturbations and Exponential Potentials","11 pages + 1 figure, Latex, NZ-CAN-RE-94/1",,,,"astro-ph",,"  We consider the spectrum of primordial fluctuations produced by inflationary
+models where the inflaton potential is the sum of two exponential terms. A wide
+range of spectra result, with the only constraint being that the scalar
+spectrum must have more tilt than the tensor spectrum. This model can mimic the
+spectra of most inflationary models, as well as producing combinations of
+scalar and tensor perturbations not found in common varieties of slow-rolling
+inflation.
+","[{""version"":""v1"",""created"":""Sun, 15 May 1994 11:18:24 GMT""}]","2009-09-25"
+"astro-ph/9405035","Elisabete Dalpino","E.M. de Gouveia Dal Pino and W. Benz","Multiple Outflow Episodes from Protostars:3-D Models of Intermittent
+  Jets","accepted by ApJ, LaTex file, 33 pages; 7 Figures availableon request,
+  USP-IAG prep",,"10.1086/174811",,"astro-ph",,"  Short abstract: We present fully 3-D simulations of supersonic, radiatively
+cooling intermittent jets with intermediate and long variability periods (that
+is, periods of the order of or longer than, the dynamical time scale of the
+jet). Variations of intermediate period elucidate the formation and evolution
+of chains of internal regularly spaced radiative shocks, which in this work are
+identified with the observed emission knots of protostellar jets. Variations of
+long period elucidate the formation of multiple bow shock structures separated
+by long trails of diffuse gas, which resemble those observed in systems like
+HH111 and HH46/47. The time variability of the outflow is probably associated
+with observed irruptive events in the accretion process around the protostars.
+In our simulations, the outflow variations are produced by periodically turning
+on the outflow with a highly supersonic velocity and periodically turning off
+it to a low velocity regime. In the case of velocity variations of intermediate
+period, we find, as in previous work, that the shock structures form a train of
+regularly spaced emitting features which move away from the source with a
+velocity close to that of the outflow, have high radial motions, and produce
+low intensity spectra, as required by the observations. As they propagate
+downstream, the shocks widen and dissipate due to the expulsion of material
+sideways to the cocoon by the high pressure gradients of the postshock gas.
+This fading explains the most frequent occurence of knots closer to the driving
+source. In the case of the long period velocity variability, our simulations
+have produced a pair of bow-shock-like structures separated by a trail almost
+","[{""version"":""v1"",""created"":""Sun, 15 May 1994 12:43:43 GMT""}]","2009-10-22"
+"chao-dyn/9405008","Wolfram Just","Wolfram Just (Theoretische Festk\""orperphysik, Technische Hochschule
+  Darmstadt, Hochschulstra{\ss}e 8, D-64289 Darmstadt, Germany)","Globally Coupled Maps: Almost Analytical Treatment of Phase Transitions","26 pages, .dvi and postscript",,,,"chao-dyn nlin.CD",,"  Bifurcations in a system of coupled maps are investigated. Using symbolic
+dynamics it is proven that for coupled shift maps the well known
+space--time--mixing attractor becomes unstable at a critical coupling strength
+in favour of a synchronized state. For coupled non--hyperbolic maps analytical
+and numerical evidence is given that arbitrary small coupling changes the
+dynamical behaviour. The anomalous dependence of fluctuations on the system
+size is attributed to these bifurcations.
+","[{""version"":""v1"",""created"":""Sun, 15 May 1994 13:30:53 GMT""}]","2016-08-14"
+"chao-dyn/9405009","Wolfram Just","Wolfram Just (Theoretische Festk\""orperphysik, Technische Hochschule
+  Darmstadt, Hochschulstra{\ss}e 8, D-64289 Darmstadt, Germany)","Bifurcations in Globally Coupled Map Lattices","19 pages, .dvi and postscript",,"10.1007/BF02179397",,"chao-dyn nlin.CD",,"  The dynamics of globally coupled map lattices can be described in terms of a
+nonlinear Frobenius--Perron equation in the limit of large system size. This
+approach allows for an analytical computation of stationary states and their
+stability. The complete bifurcation behaviour of coupled tent maps near the
+chaotic band merging point is presented. Furthermore the time independent
+states of coupled logistic equations are analyzed. The bifurcation diagram of
+the uncoupled map carries over to the map lattice. The analytical results are
+supplemented with numerical simulations.
+","[{""version"":""v1"",""created"":""Sun, 15 May 1994 15:47:31 GMT""}]","2016-08-14"
+"cond-mat/9405043","Johann Talstra","J.C. Talstra and F.D.M. Haldane","Dynamical T=0 correlations of the S=1/2 1D Heisenberg Anti-Ferromagnet
+  with 1/r^2 exchange in a magnetic field","29 pages, REVTEX v3.0, including 6 PostScript figures",,"10.1103/PhysRevB.50.6889",,"cond-mat",,"  We present a new selection rule for matrix elements of local spin operators
+in the $S=1/2$ ``Haldane-Shastry'' model. Based on this rule we extend a recent
+exact calculation \cite{H93} of the ground-state dynamical spin correlation
+function $S^{ab}(n,t)$ = $\langle 0 | S^a(n,t)S^b(0,0)| 0 \rangle$ and its
+Fourier-transform $S^{ab}(Q,E)$ of this model to a finite magnetic field. In
+zero field, only {\it two-spinon} excitations contribute to the spectral
+function; in the (positively) partially-spin-polarized case, there are two
+types of elementary excitations: {\it spinons} ($\Delta S^z = \pm 1/2$) and
+{\it magnons} ($\Delta S^z = -1 $). The magnons are divided into left- or
+right-moving branches. The only classes of excited states contributing to the
+spectral functions are: (I) two spinons, (II) two spinons + one magnon, (IIIa)
+two spinons + two magnons (moving in opposite directions), (IIIb) one magnon.
+The contributions to the various correlations are: $S^{-+}$: (I); $S^{zz}$:
+(I)+(II); $S^{+-}$: (I)+(II)+(III). In the zero-field limit there are no
+magnons, while in the fully-polarized case, there are no spinons. We discuss
+the relation of the spectral functions to correlations of the
+Calogero-Sutherland model at coupling $\lambda = 2$.
+","[{""version"":""v1"",""created"":""Sat, 14 May 1994 19:55:59 GMT""}]","2009-10-22"
+"hep-ph/9405293",,"E.Kh. Akhmedov","Neutrino Magnetic Moments and the Solar Neutrino Problem","Talk given at the 6th International Symposium ""Neutrino Telescopes'',
+  Venice, February 22--24, 1994, LaTex, 11 pages, FTUV/94--26,
+  15A-40561-INT94-13",,,,"hep-ph",,"  Present status of the neutrino magnetic moment solutions of the solar
+neutrino problem is reviewed. In particular, we discuss a possibility of
+reconciling different degrees of suppression and time variation of the signal
+(or lack of such a variation) observed in different solar neutrino experiments.
+It is shown that the resonant spin--flavor precession of neutrinos due to the
+interaction of their transitions magnetic moments with solar magnetic field can
+account for all the available solar neutrino data. For not too small neutrino
+mixing angles ($\sin 2\theta_0 \aprge 0.2$) the combined effect of the resonant
+spin--flavor precession and neutrino oscillations can result in an observable
+flux of solar $\bar{\nu}_{e}$'s.
+","[{""version"":""v1"",""created"":""Sun, 15 May 1994 00:00:00 GMT""}]","2012-03-24"
+"hep-th/9405094","Andy Strominger","Andrew Strominger","Black Holes and Open Strings","15 pages, 2 uuencoded figures, WITHDRAWN PENDING REVISION",,,"UCSB-94-13","hep-th gr-qc",,"  This paper has been withdrawn pending revision.
+","[{""version"":""v1"",""created"":""Sun, 15 May 1994 03:38:44 GMT""},{""version"":""v2"",""created"":""Fri, 1 Jul 1994 17:55:58 GMT""}]","2008-02-03"
+"math/9405214","Shelah Office","Menachem Magidor, Saharon Shelah","Bext^2(G,T) can be nontrivial, even assuming GCH",,"Contemp. Math. 171 (1994), 287--294",,"Shelah [MgSh:514]","math.LO math.RA",,"  Using the consistency of some large cardinals we produce a model of Set
+Theory in which the generalized continuum hypothesis holds and for some
+torsion-free abelian group G of cardinality aleph_{omega +1} and for some
+torsion group T, Bext^2(G,T) not =0 .
+","[{""version"":""v1"",""created"":""Sun, 15 May 1994 00:00:00 GMT""}]","2009-09-25"
+"math/9405215","Shelah Office","Saka\'e Fuchino, Saharon Shelah, Lajos Soukup","On a theorem of Shapiro",,"Math. Japon. 40 (1994), 199--206",,"Shelah [FShS:543]","math.LO",,"  We show that a theorem of Leonid B. Shapiro which was proved under MA, is
+actually independent from ZFC. We also give a direct proof of the Boolean
+algebra version of the theorem under MA(Cohen).
+","[{""version"":""v1"",""created"":""Sun, 15 May 1994 00:00:00 GMT""}]","2008-02-03"

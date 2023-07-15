@@ -1,0 +1,239 @@
+"alg-geom/9409008","Yoshioka Kota","K\=ota Yoshioka","Chamber structure of polarizations and the moduli of stable sheaves on a
+  ruled surface","12 pages, amslatex",,,,"alg-geom math.AG",,"  In this paper we shall generalize the chamber structure of polarizations
+defined by Qin, and as an application we shall compute the Picard groups of
+moduli spaces of stable sheaves on a non-rational ruled surface.
+","[{""version"":""v1"",""created"":""Sat, 1 Oct 1994 05:51:24 GMT""}]","2016-08-14"
+"cond-mat/9409122","Maurizio Ferconi","M. Ferconi and G. Vignale","Current density functional theory of quantum dots in a magnetic field","11 pages in RevTeX3.0, 4 figures available by request to
+  physferc@mizzou1.missouri.edu",,"10.1103/PhysRevB.50.14722",,"cond-mat",,"  We present a study of ground state energies and densities of quantum dots in
+a magnetic field, which takes into account correlation effects through the
+Current-density functional theory (CDFT). The method is first tested against
+exact results for the energy and density of 2 and 3 electrons quantum dots, and
+it is found to yield an accuracy better than $ 3 \%. $ Then we extend the study
+to larger dots and compare the results with available experimental data. The
+orbital and spin angular momenta of the ground state, and the evolution of the
+density profile as a function of the magnetic field are calculated.
+Quantitative evidence of edge reconstruction at high magnetic field is
+presented.
+","[{""version"":""v1"",""created"":""Sat, 1 Oct 1994 04:31:45 GMT""}]","2009-10-22"
+"hep-ex/9409008",,"Douglas M. Norman (Texas A&M University), the DZero Collaboration","Search for First and Second Generation Leptoquarks at D\O","Talk presented at the '94 meeting of the Division of Particles and
+  Fields, 5 pages, LaTeX with one figure included via psfig.tex utility; uses
+  WORLDSCI.STY, FERMILAB-CONF-94-267-E. (This resubmission fixes a problem with
+  the figure postscript file that caused problems with latex.)",,,,"hep-ex",,"  A search for first and second generation leptoquarks has been done with the
+D\O \ detector at Fermilab's p\={p} collider with $\sqrt{s}=1.8$ TeV. 95\% C.L.
+mass limits for first generation scalar leptoquarks have been recently
+published. The number for the total integrated luminosity used in the first
+generation leptoquark analysis has changed (via a change in the total inelastic
+cross section) since the publication. The new limits are 130 GeV/c$^{2}$ and
+116 GeV/c$^{2}$ for a respective 100\% and 50\% decay branching ratio of the
+leptoquark to electron. The preliminary upper limit on the cross section from
+the search for second generation scalar leptoquarks has set limits on the mass
+of the second generation leptoquark of 97 GeV/c$^{2}$ for 100\% branching to
+muons and 80 GeV/c$^{2}$ for 50\% branching. In contrast with leptoquark
+detection thresholds at e$^{+}$e$^{-}$ and e-p machines, these limits are
+independent of the unknown coupling of the leptoquark to leptons and quarks.
+","[{""version"":""v1"",""created"":""Fri, 30 Sep 1994 23:41:45 GMT""},{""version"":""v2"",""created"":""Mon, 3 Oct 1994 20:49:33 GMT""}]","2009-09-25"
+"hep-ph/9409459","Marcus Graeter","M. Gr""ater and C. Wetterich","Kosterlitz-Thouless Phase Transition In The Two Dimensional Linear Sigma
+  Model","10 pages + 4 eps-figures, LaTeX","Phys.Rev.Lett. 75 (1995) 378-381","10.1103/PhysRevLett.75.378","HD-THEP-94-35","hep-ph cond-mat hep-th",,"  We investigate the O(N) symmetric linear $\sigma$-model in two dimensions by
+means of an exact nonperturbative evolution equation. The perturbative infrared
+divergences are absent in this formulation. We use a simple approximative
+solution of the flow equation which corresponds to a derivative expansion for
+the effective action. For N=2 this gives a good picture of the
+Kosterlitz-Thouless phase transition.
+","[{""version"":""v1"",""created"":""Fri, 30 Sep 1994 16:27:21 GMT""}]","2009-10-28"
+"hep-ph/9409460",,"Thomas G. Rizzo","Searching for Anomalous Weak Couplings of Heavy Flavors at the SLC and
+  LEP","21 pages, 14 figs(available on request), LaTex, SLAC-PUB-6672","Phys.Rev. D51 (1995) 3811-3819","10.1103/PhysRevD.51.3811",,"hep-ph",,"  The existence of anomalous electric($\tilde \kappa$) and/or
+magnetic($\kappa$) dipole moment couplings between the heavy flavor fermions
+($c,b,\tau$) and the $Z$ boson can cause significant shifts in the values of
+several electroweak observables currently being probed at both the SLC and LEP.
+Using the good agreement between existing data and the predictions of the
+Standard Model we obtain strict bounds on the possible strength of these new
+interactions for all of the heavy flavors. The decay $Z\rightarrow b\bar b$,
+however, provides some possible hint of new physics. The corresponding
+anomalous couplings of $\tau$'s to photons is briefly examined.
+","[{""version"":""v1"",""created"":""Fri, 30 Sep 1994 19:08:44 GMT""}]","2009-10-28"
+"hep-ph/9409461","Georg Raffelt","Georg G. Raffelt","Pulsar Bound on the Photon Electric Charge Reexamined","3 pages, LaTeX","Phys.Rev.D50:7729-7730,1994","10.1103/PhysRevD.50.7729",,"hep-ph",,"  If photons had a small electric charge $Q_\gamma$ their path in the galactic
+magnetic field would be curved, leading to a time delay between photons of
+different frequency from a distant source. Cocconi's previous application of
+this argument led to a limit which is too restrictive by a factor of about 200;
+the corrected bound is $Q_\gamma/e\lapprox10^{-29}$.
+","[{""version"":""v1"",""created"":""Fri, 30 Sep 1994 22:33:04 GMT""}]","2008-11-26"
+"hep-ph/9409462","Sharon Jensen","Stanley J. Brodsky (SLAC) and Hung Lung Lu (University of Maryland)","Commensurate Scale Relations: Precise Tests of Quantum Chromodynamics
+  without Scale or Scheme Ambiguity","14 pages, SLAC-PUB-6683, uses RevTeX 3.0",,,,"hep-ph",,"  We derive commensurate scale relations which relate perturbatively calculable
+QCD observables to each other, including the annihilation ratio, the heavy
+quark potential, tau decay, and radiative corrections to structure function sum
+rules. The ratio of scales $Q_A/Q_B$ is unique at leading order and guarantees
+that the observables A and B pass through new quark thresholds at the same
+physical scale. In higher orders a different renormalization scale $Q^{n*}$ is
+assigned for each order n in the perturbative series such that the coefficients
+of the series are identical to that of a conformally invariant theory. QCD can
+thus be tested in a new and precise way by checking that the effective charges
+of observables track both in their relative normalization and in their
+commensurate scale dependence. The commensurate scale relations which relate
+the radiative corrections to the annihilation ratio to the radiative
+corrections for the Bjorken and Gross-Llewellyn Smith sum rules provides the
+generalization of the Crewther relation to non-conformal gauge theory.
+","[{""version"":""v1"",""created"":""Sat, 1 Oct 1994 00:51:00 GMT""}]","2007-05-23"
+"hep-ph/9409463","Murray Moinester","Murray A. Moinester","Pion and Sigma Polarizabilities and Radiative Transitions","13 pages text (tex), Tel Aviv U. Preprint TAUP 2204-94, uses
+  Springer-Verlag TEX macro package lecproc.cmm (appended at end of tex file,
+  following \byebye), which requires extracting lecproc.cmm and putting this
+  file in your directory in addition to the tex file (mmcd.tex) before tex
+  processing. lecproc.cmm should be used following instructions and guidelines
+  available from Springer-Verlag. Submitted to the Proceedings of Workshop on
+  Chiral Dynamics, Massachusetts Institute of Technology, July 1994, Eds. A.
+  Bernstein, B. Holstein. Replaced Oct. 4 to add TAUP preprint number. Replaced
+  Oct. 12 to correct Pb target thickness from 1.3% interaction to 0.3%",,"10.1007/3-540-59279-2_72",,"hep-ph nucl-th",,"  Fermilab E781 plans measurements of gamma-Sigma and $\gamma$-pion
+interactions using a 600 GeV beam of Sigmas and pions, and a virtual photon
+target. Pion polarizabilities and radiative transitions will be measured in
+this experiment. The former can test a precise prediction of chiral symmetry;
+the latter for a_1(1260) ----> pi + gamma is important for understanding the
+polarizability. The experiment also measures polarizabilities and radiative
+transitions for Sigma hyperons. The polarizabilities can test predictions of
+baryon chiral perturbation theory. The radiative transitions to the
+Sigma*(1385) provide a measure of the magnetic moment of the s-quark. Previous
+experimental and theoretical results for gamma-pi and gamma-Sigma interactions
+are given. The E781 experiment is described.
+","[{""version"":""v1"",""created"":""Sat, 1 Oct 1994 11:47:36 GMT""},{""version"":""v2"",""created"":""Tue, 4 Oct 1994 14:47:20 GMT""},{""version"":""v3"",""created"":""Wed, 12 Oct 1994 17:12:04 GMT""}]","2009-10-28"
+"hep-th/9409196",,"M. Kibler and P. Labastie","Transformations Generalizing the Levi-Civita, Kustaanheimo-Stiefel, and
+  Fock Transformations","7 pages, Tex, LYCEN 8829",,,,"hep-th",,"  Preliminary results concerning non-quadratic (and non-bijective)
+transformations that exibit a degree of parentage with the well known
+Levi-Civita, Kustaanheimo-Stiefel, and Fock transformations are reported in
+this article. Some of the new transformations are applied to non-relativistic
+quantum dynamical systems in two dimensions.
+","[{""version"":""v1"",""created"":""Fri, 30 Sep 1994 17:59:17 GMT""}]","2007-05-23"
+"hep-th/9409197","Jean-Philippe Brunet","Carlos Castro (I.A.E.C 1407 Alegria,Austin, Texas USA)","Large Nonlinear $W_{\infty}$ Algebras from Nonlinear Integrable
+  Deformations of Self Dual Gravity","10, IAEC594 ( May, 1994. Revised, Sept. 94)","Phys. Lett. B353 (1995) 201","10.1016/0370-2693(95)00467-Y",,"hep-th",,"  A proposal for constructing a universal nonlinear ${\hat W}_{\infty}$ algebra
+is made as the symmetry algebra of a rotational Killing-symmetry reduction of
+the nonlinear perturbations of Moyal-Integrable deformations of $D=4$ Self Dual
+Gravity (IDSDG). This is attained upon the construction of a nonlinear bracket
+based on nonlinear gauge theories associated with infinite dimensional Lie
+algebras. A Quantization and supersymmetrization program can also be carried
+out. The relevance to the Kadomtsev-Petviashvili hierarchy, $2D$ dilaton
+gravity, quantum gravity and black hole physics is discussed in the concluding
+remarks.
+","[{""version"":""v1"",""created"":""Fri, 30 Sep 1994 20:15:22 GMT""}]","2009-10-28"
+"hep-th/9409198","Tien Kieu","Tien D Kieu","Chiral gauge theory in four dimensions","Latex, 9 pages; IASSNS-HEP-94/70, UM-P-94/96, and RCHEP-94/26",,,,"hep-th hep-ph",,"  A formulation of abelian and non-abelian chiral gauge theories is presented
+together with arguments for the unitarity and renormalisability in four
+dimensions. IASSNS-HEP-94/70, UM-P-94/96, and RCHEP-94/26.
+","[{""version"":""v1"",""created"":""Sat, 1 Oct 1994 08:08:12 GMT""}]","2007-05-23"
+"hep-th/9409199",,"Yu.M.Zinoviev","Dual versions of N=2 supergravity and spontaneous supersymmetry breaking","10 pages, LaTeX, IHEP preprint 94-99","Class.Quant.Grav.12:1355-1362,1995","10.1088/0264-9381/12/6/004",,"hep-th",,"  In this paper, using a model of N=2 supergravity - vector multiplets
+interaction with the scalar field geometry $SU(1,m)/SU(m)\otimes U(1)$ as an
+example, we show that even when the geometry is fixed one can have a whole
+family of the Lagrangians that differ by the vector field duality
+transformations. As a byproduct, for this geometry we have constructed a model
+of (m-1) vector multiplets interacting with the hidden sector admitting
+spontaneous supersymmetry breaking with two arbitrary scales and without a
+cosmological term.
+","[{""version"":""v1"",""created"":""Sat, 1 Oct 1994 13:33:30 GMT""}]","2010-04-06"
+"math/9410212","J. Brian Conrey","J. Brian Conrey, Eric Fransen, Robert Klein, Clayton Scott","Mean values of Dedekind sums",,,,"OSU Math 1994-6","math.NT",,"  For a positive integer k and an arbitrary integer h, the Dedekind sum s(h,k)
+was first studied by Dedekind because of the prominent role it plays in the
+transformation theory of the Dedekind eta-function, which is a modular form of
+weight 1/2 for the full modular group SL_2(Z). There is an extensive literature
+about the Dedekind sums. Rademacher [8] has written an introductory book on the
+subject.
+","[{""version"":""v1"",""created"":""Sat, 1 Oct 1994 00:00:00 GMT""}]","2016-09-06"
+"math/9410213","Michael A. Bean","Michael A. Bean","An isoperimetric inequality related to Thue's equation","4 pages","Bull. Amer. Math. Soc. (N.S.) 31 (1994) 204-207",,"Bulletin migration 11/99","math.NT math.MG",,"  This paper announces the discovery of an isoperimetric inequality for the
+area of plane regions defined by binary forms. This result has been applied
+subsequently in the enumeration of solutions to the Thue inequality and, given
+its fundamental nature, may find application in other areas as well.
+","[{""version"":""v1"",""created"":""Sat, 1 Oct 1994 00:00:00 GMT""}]","2009-09-25"
+"math/9410214",,"Chal Benson, Joe Jenkins, Ronald Lipsman, Gail Ratcliff","The moment map for a multiplicity free action","6 pages","Bull. Amer. Math. Soc. (N.S.) 31 (1994) 185-190",,"Bulletin migration 11/99","math.RT",,"  Let $K$ be a compact connected Lie group acting unitarily on a
+finite-dimensional complex vector space $V$. One calls this a {\em
+multiplicity-free} action whenever the $K$-isotypic components of $\C[V]$ are
+$K$-irreducible. We have shown that this is the case if and only if the moment
+map $\tau:V\rightarrow\k^*$ for the action is finite-to-one on $K$-orbits. This
+is equivalent to a result concerning \gp s associated with Heisenberg groups
+that is motivated by the Orbit Method. Further details of this work will be
+published elsewhere.
+","[{""version"":""v1"",""created"":""Sat, 1 Oct 1994 00:00:00 GMT""}]","2016-09-06"
+"math/9410215","Steven Boyer","Steven Boyer, Xingru Zhang","Exceptional surgery on knots","7 pages","Bull. Amer. Math. Soc. (N.S.) 31 (1994) 197-203",,"Bulletin migration 11/99","math.GT",,"  Let $M$ be an irreducible, compact, connected, orientable 3-manifold whose
+boundary is a torus. We show that if $M$ is hyperbolic, then it admits at most
+six finite/cyclic fillings of maximal distance 5. Further, the distance of a
+finite/cyclic filling to a cyclic filling is at most 2. If $M$ has a
+non-boundary-parallel, incompressible torus and is not a generalized 1-iterated
+torus knot complement, then there are at most three finite/cyclic fillings of
+maximal distance 1. Further, if $M$ has a non-boundary-parallel, incompressible
+torus and is not a generalized 1- or 2-iterated torus knot complement and if
+$M$ admits a cyclic filling of odd order, then $M$ does not admit any other
+finite/cyclic filling. Relations between finite/cyclic fillings and other
+exceptional fillings are also discussed.
+","[{""version"":""v1"",""created"":""Sat, 1 Oct 1994 00:00:00 GMT""}]","2016-09-06"
+"math/9410216",,"Bart de Smit, Robert Perlis","Zeta functions do not determine class numbers","3 pages","Bull. Amer. Math. Soc. (N.S.) 31 (1994) 213-215",,"Bulletin migration 11/99","math.NT",,"  We show that two number fields with the same zeta function, and even with
+isomorphic adele rings, do not necessarily have the same class number.
+","[{""version"":""v1"",""created"":""Sat, 1 Oct 1994 00:00:00 GMT""}]","2009-09-25"
+"math/9410217",,"Rafael del Rio, Svetlana Ya. Jitomirskaya, Nikolai G. Makarov, Barry
+  Simon","Singular continuous spectrum is generic","5 pages","Bull. Amer. Math. Soc. (N.S.) 31 (1994) 208-212",,"Bulletin migration 11/99","math.SP",,"  In a variety of contexts, we prove that singular continuous spectrum is
+generic in the sense that for certain natural complete metric spaces of
+operators, those with singular spectrum are a dense $G_\delta$.
+","[{""version"":""v1"",""created"":""Sat, 1 Oct 1994 00:00:00 GMT""}]","2008-02-03"
+"math/9410218",,"David Gabai","On the geometric and topological rigidity of hyperbolic 3-manifolds","5 pages","Bull. Amer. Math. Soc. (N.S.) 31 (1994) 228-232",,"Bulletin migration 11/99","math.GT",,"  A homotopy equivalence between a hyperbolic 3-manifold and a closed
+irreducible 3-manifold is homotopic to a homeomorphsim provided the hyperbolic
+manifold satisfies a purely geometric condition. There are no known examples of
+hyperbolic 3-manifolds which do not satisfy this condition.
+","[{""version"":""v1"",""created"":""Sat, 1 Oct 1994 00:00:00 GMT""}]","2016-09-06"
+"math/9410219",,"Martin A. Guest","Configuration spaces and the space of rational curves on a toric variety","6 pages","Bull. Amer. Math. Soc. (N.S.) 31 (1994) 191-196",,"Bulletin migration 11/99","math.AG",,"  The space of holomorphic maps from $S^2$ to a complex algebraic variety $X$,
+i.e. the space of parametrized rational curves on $X$, arises in several areas
+of geometry. It is a well known problem to determine an integer $n(D)$ such
+that the inclusion of this space in the corresponding space of continuous maps
+induces isomorphisms of homotopy groups up to dimension $n(D)$, where $D$
+denotes the homotopy class of the maps. The solution to this problem is known
+for an important but special class of varieties, the generalized flag
+manifolds: such an integer may be computed, and $n(D)\to\infty$ as
+$D\to\infty$. We consider the problem for another class of varieties, namely,
+toric varieties. For smooth toric varieties and certain singular ones, $n(D)$
+may be computed, and $n(D)\to\infty$ as $D\to\infty$. For other singular toric
+varieties, however, it turns out that $n(D)$ cannot always be made arbitrarily
+large by a suitable choice of $D$.
+","[{""version"":""v1"",""created"":""Sat, 1 Oct 1994 00:00:00 GMT""}]","2008-02-03"
+"math/9410220",,"Alexander A. Ivanov, Sergey V. Shpectorov","The flag-transitive tilde and Petersen-type geometries are all known","12 pages","Bull. Amer. Math. Soc. (N.S.) 31 (1994) 173-184",,"Bulletin migration 11/99","math.GR",,"  We announce the classification of two related classes of flag-transitive
+geometries. There is an infinite family of such geometries, related to the
+nonsplit extensions $3^{[{n\atop 2}]_{_2}}\cdot \SP_{2n}(2)$, and twelve
+sporadic examples coming from the simple groups $M_{22}$, $M_{23}$, $M_{24}$,
+$He$, $Co_1$, $Co_2$, $J_4$, $BM$, $M$ and the nonsplit extensions $3\cdot
+M_{22}$, $3^{23}\cdot Co_2$, and $3^{4371}\cdot BM$.
+","[{""version"":""v1"",""created"":""Sat, 1 Oct 1994 00:00:00 GMT""}]","2009-09-25"
+"math/9410221",,"Curtis T. McMullen","Frontiers in complex dynamics","18 pages. Abstract added in migration.","Bull. Amer. Math. Soc. (N.S.) 31 (1994) 155-172",,"Bulletin migration 11/99","math.DS math.CV",,"  Rational maps on the Riemann sphere occupy a distinguished niche in the
+general theory of smooth dynamical systems. First, rational maps are
+complex-analytic, so a broad spectrum of techniques can contribute to their
+study (quasiconformal mappings, potential theory, algebraic geometry, etc.).
+The rational maps of a given degree form a finite-dimensional manifold, so
+exploration of this {\em parameter space} is especially tractable. Finally,
+some of the conjectures once proposed for {\em smooth} dynamical systems (and
+now known to be false) seem to have a definite chance of holding in the arena
+of rational maps.
+  In this article we survey a small constellation of such conjectures centering
+around the density of {\em hyperbolic} rational maps --- those which are
+dynamically the best behaved. We discuss some of the evidence and logic
+underlying these conjectures, and sketch recent progress towards their
+resolution.
+","[{""version"":""v1"",""created"":""Sat, 1 Oct 1994 00:00:00 GMT""}]","2016-09-06"
+"math/9410222",,"Edward C. Waymire, Stanley C. Williams","A general decomposition theory for random cascades","7 pages","Bull. Amer. Math. Soc. (N.S.) 31 (1994) 216-222",,"Bulletin migration 11/99","math.PR",,"  This announcement describes a probabilistic approach to cascades which, in
+addition to providing an entirely probabilistic proof of the Kahane-Peyri\`ere
+theorem for independent cascades, readily applies to general dependent
+cascades. Moreover, this unifies various seemingly disparate cascade
+decompositions, including Kahane's T-martingale decomposition and dimension
+disintegration.
+","[{""version"":""v1"",""created"":""Sat, 1 Oct 1994 00:00:00 GMT""}]","2009-09-25"
+"math/9410224","Greg Kuperberg","Greg Kuperberg (U Chicago)","Symmetries of plane partitions and the permanent-determinant method",,"J. Combin. Theory Ser. A 68 (1994), no. 1, 115-151",,"Kuperberg migration 5/2002","math.CO",,"  In the paper [J. Combin. Theory Ser. A 43 (1986), 103--113], Stanley gives
+formulas for the number of plane partitions in each of ten symmetry classes.
+This paper together with results by Andrews [J. Combin. Theory Ser. A 66
+(1994), 28-39] and Stembridge [Adv. Math 111 (1995), 227-243] completes the
+project of proving all ten formulas.
+  We enumerate cyclically symmetric, self-complementary plane partitions. We
+first convert plane partitions to tilings of a hexagon in the plane by
+rhombuses, or equivalently to matchings in a certain planar graph. We can then
+use the permanent-determinant method or a variant, the Hafnian-Pfaffian method,
+to obtain the answer as the determinant or Pfaffian of a matrix in each of the
+ten cases. We row-reduce the resulting matrix in the case under consideration
+to prove the formula. A similar row-reduction process can be carried out in
+many of the other cases, and we analyze three other symmetry classes of plane
+partitions for comparison.
+","[{""version"":""v1"",""created"":""Sat, 1 Oct 1994 00:00:00 GMT""}]","2016-09-06"
+"nucl-th/9409026","Mirian Enriqueta Bracco","M. E. Bracco and M. C. Nemes","Nuclear Coherent versus Incoherent Effects in Peripheral RHI Collisions","LATEX, 20 pags, Submited to Nucl. Phys. C, NUCPHA 1769","Nucl.Phys. A582 (1995) 717-730","10.1016/0375-9474(94)00479-7",,"nucl-th",,"  We derive simple and physically transparent expressions for the contribution
+of the strong interaction to one nucleon removal processes in peripheral
+relativistic heavy ion collisions. The coherent contribution,i.e, the
+excitation of a giant dipole resonance via meson exchange is shown to be
+negligible as well as interference between coulomb and nuclear excitation.
+Incoherent nucleon knock out contribution is also derived suggesting the nature
+of the nuclear interaction in this class of processes. We also justify the
+simple formulae used to fit the data of the E814 Collaboration.
+","[{""version"":""v1"",""created"":""Fri, 30 Sep 1994 21:21:20 GMT""}]","2009-10-28"

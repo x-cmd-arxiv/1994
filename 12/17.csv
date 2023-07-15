@@ -1,0 +1,349 @@
+"astro-ph/9412059",,"R.J. Rivers and T.S.Evans","The Production of Strings and Monopoles at Phase Transitions","44 pages, LaTeX (figures included as LaTeX), available through
+  anonymous ftp from ftp://euclid.tp.ph.ic.ac.uk/papers/94-5_06.tex or at
+  http://euclid.tp.ph.ic.ac.uk/Papers/index.html",,,"Imperial/TP/94-95/6","astro-ph",,"  We shall show that the density of defects produced at a second-order phase
+transition is determined by the correlation length of the fields. This is true
+both for defects appearing in the Ginzburg regime and for defects produced at a
+quench, when the Ginzburg regime is irrelevant.
+  (Invited lectures given by R.J.R. to the Nato Advanced Study Institute and
+Euroconference on Formation and Interaction of Topological Defects, Isaac
+Newton Institute, Cambridge (UK), September, 1994.)
+","[{""version"":""v1"",""created"":""Fri, 16 Dec 1994 16:46:29 GMT""}]","2007-05-23"
+"astro-ph/9412060","Jeff Wilkes","Kenneth K. Young (Dept. of Physics, Univ. of Washington, Seattle, WA
+  98195 USA, for The DUMAND Collaboration)","DUMAND-II (Deep Underwater Muon and Neutrino Detector) PROGRESS Report","7 pp, figures available in separate file, requires file aip.sty
+  available in /macros; to be published in Proc. 5th Conf. on Intersections of
+  Particle and Nuclear Physics (AIP, New York)",,"10.1063/1.48588","UWSEA-94-06","astro-ph hep-ex",,"  The DUMAND-II detector will search for astronomical sources of high energy
+neutrinos. Successful deployment of the basic infrastructure, including the
+shore cable, the underwater junction box, and an environmental module was
+accomplished in December, 1993. One optical module string was also deployed and
+operated, logging data for about 10 hours. The underwater cable was connected
+to the shore station where we were able to successfully exercise system
+controls and log further environmental data. After this time, water leaking
+into the electronics control module for the deployed string disabled the string
+electrical system. The acquired data are consistent with the expected rate of
+downgoing muons, and our ability to reconstruct muons was demonstrated. The
+measured acoustical backgrounds are consistent with expectation, which should
+allow acoustical detection of nearby PeV particle cascades. The disabled string
+has been recovered and is undergoing repairs ashore. We have identified the
+source of the water leak and implemented additional testing and QC procedures
+to ensure no repetition in our next deployment. We will be ready to deploy
+three strings and begin continuous data taking in 1995.
+","[{""version"":""v1"",""created"":""Fri, 16 Dec 1994 18:48:49 GMT""}]","2009-10-22"
+"astro-ph/9412061","Thomas Buchert","T. Buchert","Robust Morphological Measures for Large-Scale Structure","8 pages, uuencoded compressed ps-file, 1 MByte","Muecket et al. (eds) World Scientific (1995) 156-161",,"Proc. 11th Potsdam Workshop, World Scientific, in press","astro-ph",,"  A complete family of statistical descriptors for the morphology of
+large--scale structure based on Minkowski--Functionals is presented. These
+robust and significant measures can be used to characterize the local and
+global morphology of spatial patterns formed by a coverage of point sets which
+represent galaxy samples. Basic properties of these measures are highlighted
+and their relation to the `genus statistics' is discussed. Test models like a
+Poissonian point process and samples generated from a Voronoi--model are put
+into perspective.
+","[{""version"":""v1"",""created"":""Sat, 17 Dec 1994 11:34:29 GMT""}]","2007-05-23"
+"astro-ph/9412062","Shaun Cole","Shaun Cole, Karl B. Fisher and David H. Weinberg","Constraints onOmega from the IRAS Redshift Surveys","uufiles postscript here or plain postscript at
+  ftp://dust0.dur.ac.uk/pub/preprints/cole_rsd.ps","Mon.Not.Roy.Astron.Soc. 275 (1995) 515","10.1093/mnras/275.2.515",,"astro-ph",,"  We measure the anisotropy of the redshift-space power spectrum in the 1.2-Jy
+and QDOT redshift surveys of IRAS-selected galaxies. On large scales, this
+anisotropy is caused by coherent peculiar motions, and gravitational
+instability theory predicts a distortion of the power spectrum that depends
+only on the ratio $\beta \equiv f(\Omega)/b \approx \Omega^{0.6}/b$, where
+Omega is the cosmological density parameter and $b$ is the bias parameter. On
+small scales, the distortion is dominated by the random velocity dispersion in
+non-linear structures. We fit the observed anisotropy with an analytic model
+that incorporates two parameters, beta, and a small-scale velocity dispersion
+sigma_v. Tests on N-body simulations show that this model recovers beta quite
+accurately on the scales accessible to the existing IRAS redshift surveys.
+  Applying our procedure to the 1.2-Jy and QDOT surveys, we find beta=0.52 +/-
+0.13 and beta=0.54 +/- 0.3, respectively. These results imply Omega
+approximately 0.35 if galaxies trace mass, or a bias factor of about 2 if
+Omega=1.
+","[{""version"":""v1"",""created"":""Sat, 17 Dec 1994 12:13:08 GMT""}]","2015-06-24"
+"chao-dyn/9412009","Patrick Crehan","P. Crehan","On the local Hamiltonian structure of vector fields","Standard LaTeX, 8 pages, no macros. Appeared in Mod. Phys. Lett. A,
+  Vol.9 No.15 (1994) 1399-1405",,"10.1142/S0217732394001222","KYOTO-MATH/94-03","chao-dyn nlin.CD nlin.SI solv-int",,"  We derive a canonical form for smooth vector fields on $\Re^{n+1}$. We use
+this to demonstrate the local multi-Hamiltonian nature of the corresponding
+flows. Associated with the canonical form is an inhomogenious linear PDE whose
+solutions provide conserved measures. These can be used to construct the local
+Hamiltonians.
+","[{""version"":""v1"",""created"":""Sat, 17 Dec 1994 07:19:17 GMT""}]","2009-10-22"
+"chao-dyn/9412010","Patrick Crehan","P. Crehan","When are vector fields Hamiltonian?","4 pages standard LaTeX. To appear in proceedings of International
+  Conference on Chaos and Dyamical Systems - Tokyo Metropolitain University
+  23rd-27th May 1994. To be published in Advanced Series in Dynamical Systems
+  of World Scientific",,,,"chao-dyn nlin.CD",,"  Dynamical systems can be quantised only if they are Hamiltonian. This prompts
+the question from which our talk gets its title. We show how the simple
+predator-prey equation and the damped harmonic oscillator can be considered to
+be Hamiltonian with respect to an infinite number of non-standard Poisson
+brackets. This raises some interesting questions about the nature of
+quantisation. Questions which are valid even for flows which possess a
+canonical structure.
+","[{""version"":""v1"",""created"":""Sat, 17 Dec 1994 08:36:03 GMT""}]","2008-02-03"
+"chao-dyn/9412011",,"T.H. Yang, C.S. Wang, J.C. Huang, Y.S. Gou","The Crucial Formula for Determination of the Occurrence of the
+  Non-Chaotic States in the rf-biased Nonlinear Oscillators","16 pages, including 1 .DVI file compressed by gzip and uuencode",,"10.1103/PhysRevE.51.5279",,"chao-dyn nlin.CD",,"  The crucial formulas to determine the non-chaotic states in the rf-biased
+nonlinear oscillators are derived from the numerical experiments. The nature of
+these formulas, which depends on symmetrical properties of the potential well,
+in terms of the driven-frequency as a function of the damping constant k is
+investigated. All these ones provide crucial guide posts to check which kinds
+of solutions (simple or complicated) can be tailored in the dissipative
+rf-biased nonlinear oscillators, respectively.
+","[{""version"":""v1"",""created"":""Sat, 17 Dec 1994 11:58:38 GMT""}]","2009-10-22"
+"cond-mat/9412083",,"S. Franz, M. Ney-Nifle","On chaos in mean field spin glasses","19 pages, Latex",,"10.1088/0305-4470/28/9/012",,"cond-mat",,"  We study the correlations between two equilibrium states of SK spin glasses
+at different temperatures or magnetic fields. The question, presiously
+investigated by Kondor and Kondor and V\'egs\""o, is approached here
+constraining two copies of the same system at different external parameters to
+have a fixed overlap. We find that imposing an overlap different from the
+minimal one implies an extensive cost in free energy. This confirms by a
+different method the Kondor's finding that equilibrium states corresponding to
+different values of the external parameters are completely uncorrelated. We
+also consider the Generalized Random Energy Model of Derrida as an example of
+system with strong correlations among states at different temperatures.
+","[{""version"":""v1"",""created"":""Fri, 16 Dec 1994 16:44:31 GMT""}]","2009-10-22"
+"cond-mat/9412084","Mark Jarrell","M. Jarrell, J. K. Freericks and Th. Pruschk","Optical conductivity of the infinite-dimensional Hubbard model","24 pages, revtex, including 5 figures compressed with uufiles",,"10.1103/PhysRevB.51.11704",,"cond-mat",,"  A Monte Carlo-maximum entropy calculation of the optical conductivity of the
+infinite-dimensional Hubbard model is presented. We show that the optical
+conductivity displays the anomalies found in the cuprate superconductors,
+including a Drude width which grows linearly with temperature, a Drude weight
+which grows linearly with doping, and a temperature and doping-dependent mid-IR
+peak. These anomalies arise as a consequence of the dynamical generation of a
+quasiparticle band at the Fermi energy as T -> 0, and are a generic property of
+the strongly correlated Hubbard model in all dimensions greater than one.
+","[{""version"":""v1"",""created"":""Fri, 16 Dec 1994 21:24:26 GMT""}]","2009-10-22"
+"cond-mat/9412085","Deepak Dhar","Agha Afsar Ali and Deepak Dhar","Breakdown of Simple Scaling in Abelian Sandpile Models in One Dimension","10 pages, revtex, figures included","Phys. Rev E51 (1995) R2705.","10.1103/PhysRevE.51.R2705","TIFR/TH/94-53","cond-mat",,"  We study the abelian sandpile model on decorated one dimensional chains. We
+determine the structure and the asymptotic form of distribution of
+avalanche-sizes in these models, and show that these differ qualitatively from
+the behavior on a simple linear chain. We find that the probability
+distribution of the total number of topplings $s$ on a finite system of size
+$L$ is not described by a simple finite size scaling form, but by a linear
+combination of two simple scaling forms $Prob_L(s) = 1/L f_1(s/L) + 1/L^2
+f_2(s/L^2)$, for large $L$, where $f_1$ and $f_2$ are some scaling functions of
+one argument.
+","[{""version"":""v1"",""created"":""Fri, 16 Dec 1994 18:46:42 GMT""}]","2016-08-31"
+"dg-ga/9412002","Sardanashvily Gennadi","G.Sardanashvily (Moscow State University)","Differential Geometry of Composite Fibred Manifolds","18 pp, LaTeX file",,,"TP\94\249","dg-ga math.DG",,"  In classical field theory, the composite fibred manifolds Y -> Z -> X
+provides the adequate mathematical formulation of gauge models with broken
+symmetries, e.g., the gauge gravitation theory. This work is devoted to
+connections on composite fibred manifolds. In particular, we get the horizontal
+splitting of the vertical tangent bundle of a composite fibred manifold,
+besides the familiar one of its tangent bundle. This splitting defines the
+modified covariant differential and implies the special fashion of Lagrangian
+densities of field models on composite manifolds. The spinor composite bundles
+are examined.
+","[{""version"":""v1"",""created"":""Sat, 17 Dec 1994 14:21:20 GMT""}]","2008-02-03"
+"gr-qc/9412046","Franz Schunck","Fjodor V.~Kusmartsev, Eckehard W.~Mielke, Yuri N.~Obukhov, and Franz
+  E.~Schunck","Classification of Inflationary Einstein--Scalar--Field--Models via
+  Catastrophe Theory","12 pages, REVTeX, no figures","Phys.Rev. D51 (1995) 924-927","10.1103/PhysRevD.51.924","Cologne-thp-1994-H6","gr-qc",,"  Various scenarios of the initial inflation of the universe are distinguished
+by the choice of a scalar field {\em potential} $U(\phi)$ which simulates a
+{\it temporarily} non--vanishing {\em cosmological term}. Our new method, which
+involves a reparametrization in terms of the Hubble expansion parameter $H$,
+provides a classification of allowed inflationary potentials and of the
+stability of the critical points. It is broad enough to embody all known {\it
+exact} solutions involving one scalar field as special cases. Inflation
+corresponds to the evolution of critical points of some catastrophe manifold.
+The coalescence of its nondegenerate critical points with the creation of a
+degenerate critical point corresponds the reheating phase of the universe. This
+is illustrated by several examples.
+","[{""version"":""v1"",""created"":""Fri, 16 Dec 1994 21:51:41 GMT""}]","2009-10-22"
+"gr-qc/9412047","Hajicek","P. Hajicek (Institute for Theoretical Physics, University of Berne)","Group quantization of parametrized systems I. Time levels","After discussions at Imperial College, a great improvement is
+  achieved. I particular, it is shown that many problems can be solved without
+  explicit knowledge of the perennials","J.Math.Phys. 36 (1995) 4612-4638","10.1063/1.530911","BUTP-94/21","gr-qc",,"  A method of quantizing parametrized systems is developed that is based on a
+kind of ``gauge invariant'' quantities---the so-called perennials (a perennial
+must also be an ``integral of motion''). The problem of time in its particular
+form (frozen time formalism, global problem of time, multiple choice problem)
+is met, as well as the related difficulty characteristic for this type of
+theory: the paucity of perennials. The present paper is an attempt to find some
+remedy in the ideas on ``forms of relativistic dynamics'' by Dirac. Some
+aspects of Dirac's theory are generalized to all finite-dimensional first-class
+parametrized systems. The generalization is based on replacing the Poicar\'{e}
+group and the algebra of its generators as used by Dirac by a canonical group
+of symmetries and by an algebra of elementary perennials. A number of insights
+is gained; the following are the main results. First, conditions are revealed
+under which the time evolution of the ordinary quantum mechanics, or a
+generalization of it, can be constructed. The construction uses a kind of gauge
+and time choice and it is described in detail. Second, the theory is structured
+so that the quantum mechanics resulting from different choices of gauge and
+time are compatible. Third, a practical way is presented of how a broad class
+of problems can be solved without the knowledge of explicit form of perennials.
+","[{""version"":""v1"",""created"":""Sat, 17 Dec 1994 14:56:01 GMT""},{""version"":""v2"",""created"":""Sat, 8 Apr 1995 13:04:52 GMT""}]","2009-10-22"
+"hep-lat/9412084","Wolfgang Bock","Wolfgang Bock and James E. Hetrick","Can baryogenesis occur on the lattice?","5 pp., contribution to the conference ""Trends in Astroparticle
+  Physics"", Stockholm, 2 ps figs. (uuencoded)","Nucl.Phys.Proc.Suppl. 43 (1995) 286-290","10.1016/0920-5632(95)00492-R","UCSD/PTH 94-28, AZPH-TH 94-32","hep-lat astro-ph",,"  We examine the question of how baryogenesis can occur in lattice models of
+the Standard Model where there is a global $U(1)$ symmetry which is accompanied
+by an exactly conserved fermion number. We demonstrate that fermion creation
+and annihilation can occur in these models {\em despite} this exact fermion
+number conservation, by explicitly computing the spectral flow of the
+hamiltonian in the two dimensional U(1) axial model with Wilson fermions. For
+comparison we also study the closely related Schwinger model where a similar
+mechanism gives rise to anomalous particle creation and annihilation.
+","[{""version"":""v1"",""created"":""Sat, 17 Dec 1994 00:34:57 GMT""}]","2009-10-28"
+"hep-ph/9412311",,"Loyal Durand, Bernd A. Kniehl, and Kurt Riesselmann","Two-loop ${\rm O}\left(G_F^2M_H^4\right)$ corrections to the fermionic
+  decay rates of the Higgs boson","24 pages, RevTeX file, 4 figures in a separate compressed uuencoded
+  Postscript file or available by mail on request. Fig. 1 not included see
+  Figs. 1, 2 in Phys. Rev. D 48, 1061 (1993)","Phys.Rev.D51:5007-5015,1995","10.1103/PhysRevD.51.5007","MPI/Ph/94-91, MAD/TH/94-1, TUM-HEP-200/94","hep-ph",,"  We calculate the dominant ${\rm O}\left(G_F^2M_H^4\right)$ two-loop
+electroweak corrections to the fermi\-onic decay widths of a heavy Higgs boson
+in the Standard Model. Use of the Goldstone-boson equivalence theorem reduces
+the problem to one involving only the physical Higgs boson $H$ and the
+Goldstone bosons $w^\pm$ and $z$ of the unbroken theory. The two-loop
+corrections are opposite in sign to the one-loop electroweak corrections,
+exceed the one-loop corrections in magnitude for $M_H>1114\ {\rm GeV}$, and
+increase in relative magnitude as $M_H^2$ for larger values of $M_H$. We
+conclude that the perturbation expansion in powers of $G_FM_H^2$ breaks down
+for $M_H\approx 1100\ {\rm GeV}$. We discuss briefly the QCD and the complete
+one-loop electroweak corrections to $H\rightarrow b\bar{b}, \,t\bar{t}$, and
+comment on the validity of the equivalence theorem. Finally we note how a very
+heavy Higgs boson could be described in a phenomenological manner.
+","[{""version"":""v1"",""created"":""Fri, 16 Dec 1994 20:09:07 GMT""}]","2011-01-27"
+"hep-ph/9412312",,"Chungsik Song, Su Houng Lee, and Che Ming Ko","Suppression of dilepton production in hot hadronic matter","12 pages (REVTeX), four figures","Phys.Rev.C52:476-479,1995","10.1103/PhysRevC.52.476","SNUTP-94-104","hep-ph",,"  The pion electromagnetic form factor at finite temperature is studied using
+an effective chiral lagrangian that includes explicitly vector mesons. We find
+that in the time-like region around the rho meson resonance it decreases with
+increasing temperature and leads to a suppression of dilepton production from
+pion-pion annihilation in a hot hadronic matter. Effects on dilepton production
+in high energy heavy ion collisions and its relevance to the phase transition
+in a hot hadronic matter are discussed.
+","[{""version"":""v1"",""created"":""Fri, 16 Dec 1994 22:25:47 GMT""}]","2009-09-25"
+"hep-ph/9412313",,"Mauro Anselmino","Spin effects in strong interactions at high energy","Rapporteur talk at the XI International Symposium on High Energy Spin
+  Physics, September 15-22, Bloomington, Indiana, to be published in the
+  Proceedings. Latex file, 9 pages, no figure","AIPConf.Proc.343:345-353,1995",,"DFTT 65/94","hep-ph",,"  Spin effects in strong interaction high energy processes are subtle phenomena
+which involve both short and long distance physics and test perturbative and
+non perturbative aspects of QCD. Moreover, depending on quantities like
+interferences between different amplitudes and relative phases, spin
+observables always test a theory at a fundamental quantum mechanical level; it
+is then no surprise that spin data are often difficult to accomodate within the
+existing models. A report is made on the main issues and contributions
+discussed in the parallel Session on the ``Strong interactions at high energy""
+in this Conference.
+","[{""version"":""v1"",""created"":""Sat, 17 Dec 1994 08:52:45 GMT""}]","2008-11-26"
+"hep-th/9412139",,"Jin Bai-Qi and Ma Zhong-Qi (Institute of High Energy Physics, Beijing,
+  P. R. of China)","$R$ Matrix for $U_{q}E_{7}$",,,,"BIHEP-TH-94-41","hep-th",,"  The quantum Clebsch-Gordan coefficients and the explicit form of the
+$\breve{R}_{q}$ matrix related with the minimal representation of the quantum
+enveloping algebra $U_{q}E_{7}$ are calculated in this paper.
+","[{""version"":""v1"",""created"":""Fri, 16 Dec 1994 21:02:58 GMT""}]","2007-05-23"
+"hep-th/9412142","Ladislav Hlavaty","L.Hlavaty","Algebraic Framework for Quantization of Nonultralocal Models","18 pages, Latex, one formula plus two citations added, several
+  misprints were corrected","J.Math.Phys. 36 (1995) 4882-4897","10.1063/1.530926","FJFI-KF-94/15","hep-th math.QA q-alg",,"  Extension of the braid relations to the multiple braided tensor product of
+algebras that can be used for quantization of nonultralocal models is
+presented. The Yang--Baxter--type consistency conditions as well as conditions
+for the existence of the multiple coproduct (monodromy matrix), which can be
+used for construction of the commuting subalgebra, are given. Homogeneous and
+local algebras are introduced, and simplification of the Yang--Baxter--type
+conditions for them is shown. The Yang--Baxter--type equations and multiple
+coproduct conditions for homogeneous and local of order 2 algebras are solved.
+","[{""version"":""v1"",""created"":""Fri, 16 Dec 1994 20:00:05 GMT""},{""version"":""v2"",""created"":""Tue, 10 Jan 1995 21:03:35 GMT""}]","2009-10-28"
+"hep-th/9412147","Paul Howe","G.G. Hartwell and P.S. Howe","(N,p,q) Harmonic Superspace","25 pages, latex file, improved. Minor text errors corrected","Int.J.Mod.Phys. A10 (1995) 3901-3920","10.1142/S0217751X95001820","KCL-TH-94-23","hep-th",,"  A family of harmonic superspaces associated with four-dimensional spacetime
+is described. Some applications to supersymmetric field theories, including
+supergravity, are given.
+","[{""version"":""v1"",""created"":""Fri, 16 Dec 1994 16:12:46 GMT""},{""version"":""v2"",""created"":""Thu, 19 Jan 1995 13:56:21 GMT""}]","2009-10-28"
+"hep-th/9412148","Claudio Emmrich","C. Emmrich and A. Weinstein","Geometry of the transport equation in multicomponent WKB approximations","16 pages, Latex","Commun.Math.Phys. 176 (1996) 701-712","10.1007/BF02099256",,"hep-th",,"  Although the WKB approximation for multicomponent systems has been
+intensively studied in the literature, its geometric and global aspects are
+much less well understood than in the scalar case. In this paper we give a
+completely geometric derivation of the transport equation, without using local
+sections and without assuming complete diagonalizability of the matrix valued
+principal symbol, or triviality of its eigenbundles. The term (called ``no-name
+term'' in some previous literature) appearing in the transport equation in
+addition to the covariant derivative with respect to a natural projected
+connection will be a tensor, independent of the choice of any sections. We give
+a geometric interpretation of this tensor, involving the contraction of the
+curvature of the eigenbundle and an analog of the second fundamental form with
+the Poisson tensor in phase space. In the non-degenerate case this term may be
+rewritten in an even simpler geometric form. Finally, we discuss obstructions
+to the existence of WKB states and give a geometric description of the
+quantization condition for WKB states for a non-degenerate eigenvalue-function.
+","[{""version"":""v1"",""created"":""Fri, 16 Dec 1994 18:15:57 GMT""}]","2015-06-26"
+"hep-th/9412149","H. Sato","S. Kanemura and H.-T. Sato","Phase Diagram of Gross-Neveu Model at Finite Temperature, Density and
+  Constant Curvature","11 pages, Latex. 3 figures (eps files)","Mod.Phys.Lett. A10 (1995) 1777-1786","10.1142/S0217732395001903","LMU-TPW 94-18, OU-HET 205","hep-th",,"  We discuss a phase structure of chiral symmetry breaking in the Gross-Neveu
+model at finite temperature, density and constant curvature. The effective
+potential is evaluated in the leading order of the $1/N$-expansion and in a
+weak curvature approximation. The third order critical line is found on the
+critical surface in the parameter space of temperature, chemical potential and
+constant curvature.
+","[{""version"":""v1"",""created"":""Fri, 16 Dec 1994 19:12:21 GMT""}]","2015-06-26"
+"hep-th/9412150","Ramzi Khuri","Ramzi R. Khuri","Black Hole Solutions in String Theory","Based on talks given at MRST 94, McGill University and at
+  Mini-workshop on Extended Objects, Newton Institute, March 1994, 4 pages, TeX",,,"CERN-TH.7467/94, McGill/94-51","hep-th",,"  We present two-parameter solutions of the low-energy four-dimensional
+heterotic string which in the extremal limit reduce to supersymmetric monopole,
+string and domain wall solutions. The effective scalar coupling to the Maxwell
+field, $e^{-\alpha \phi} F_{\mu\nu} F^{\mu\nu}$, gives rise to a new string
+black hole with $\alpha = \sqrt{3}$, in contrast to the pure dilaton black hole
+solution which has $\alpha=1$. Implications of string/fivebrane duality in
+$D=10$ to four-dimensional dualities are discussed.
+","[{""version"":""v1"",""created"":""Fri, 16 Dec 1994 22:06:14 GMT""}]","2007-05-23"
+"hep-th/9412151","Ramzi Khuri","Daniel Z. Freedman and Ramzi R. Khuri","Spatial Geometry and the Wu-Yang Ambiguity","Based on talks given by R. Khuri at PASCOS-94, Syracuse University,
+  May 1994 and at Gursey Memorial Conference I, Istanbul, June 1994, 7 pages,
+  TeX (typo in first Author's name is corrected.)",,"10.1007/3-540-59163-X_274","CERN-TH.7466/94, McGill/94-52","hep-th",,"  We display continuous families of SU(2) vector potentials $A_i^a(x)$ in 3
+space dimensions which generate the same magnetic field $B^{ai}(x)$ (with det
+$B\neq 0$). These Wu-Yang families are obtained from the Einstein equation
+$R_{ij}=-2G_{ij}$ derived recently via a local map of the gauge field system
+into a spatial geometry with $2$-tensor $G_{ij}=B^a{}_i B^a{}_j\det B$ and
+connection $\Gamma_{jk}^i$ with torsion defined from gauge covariant
+derivatives of $B$.
+","[{""version"":""v1"",""created"":""Fri, 16 Dec 1994 22:30:11 GMT""},{""version"":""v2"",""created"":""Mon, 19 Dec 1994 21:05:50 GMT""}]","2015-06-26"
+"hep-th/9412152",,"Hitoshi Nishino","``Alternative $N=(4,0)$ Superstring and $\s$-Models''","13 pages, latex, no figures","Phys. Lett. B355 (1995) 117","10.1016/0370-2693(95)00743-5","UMDEPP 95-66, HUPAPP 94-104","hep-th",,"  We present an alternative $N=(4,0)$ superstring theory, with field content
+different from that of previously-known $N=(4,0)$ superstring theories. This
+theory is presented as a non-linear $\s$-model on the coset $SU(n,1) / SU(n)
+\otimes U(1)$ as the target space-time with torsion, which is coupled to
+$N=(4,0)$ world-sheet superconformal gravity. Our result indicates that the
+target space-time for $N=4$ superstring theory does not necessarily have to be
+a hyper-K\""ahler or quaternionic K\""ahler manifold.
+","[{""version"":""v1"",""created"":""Sat, 17 Dec 1994 00:24:38 GMT""},{""version"":""v2"",""created"":""Mon, 26 Dec 1994 16:49:28 GMT""}]","2009-10-28"
+"hep-th/9412153",,"Paul Watts (LBL and UC Berkeley)","Differential Geometry on Hopf Algebras and Quantum Groups (Ph.D. Thesis)","91 pages in LaTeX, uses American Mathematical Society symbols style
+  file ""amssymbols.sty""",,,"LBL-36537 and UCB-PTH-94/35","hep-th math.QA q-alg",,"  The differential geometry on a Hopf algebra is constructed, by using the
+basic axioms of Hopf algebras and noncommutative differential geometry. The
+space of generalized derivations on a Hopf algebra of functions is presented
+via the smash product, and used to define and discuss quantum Lie algebras and
+their properties. The Cartan calculus of the exterior derivative, Lie
+derivative, and inner derivation is found for both the universal and general
+differential calculi of an arbitrary Hopf algebra, and, by restricting to the
+quasitriangular case and using the numerical R-matrix formalism, the
+aforementioned structures for quantum groups are determined.
+","[{""version"":""v1"",""created"":""Sat, 17 Dec 1994 01:14:13 GMT""}]","2008-02-03"
+"math/9412223","Randall Dougherty","Randall Dougherty, Vance Faber","The degree-diameter problem for several varieties of Cayley graphs, I:
+  the Abelian case","Revised version, 43 pages: added references to the literature, new
+  results, extended computations, and replaced the section on generators of
+  order 2 (the old version was erroneous)","SIAM J. Discrete Math. 17 (2004), 478-519","10.1137/S0895480100372899","LACES 05C-94-38","math.CO",,"  We address the degree-diameter problem for Cayley graphs of Abelian groups
+(Abelian graphs), both directed and undirected. The problem turns out to be
+closely related to the problem of finding efficient lattice coverings of
+Euclidean space by shapes such as octahedra and tetrahedra; we exploit this
+relationship in both directions. In particular, we find the largest Abelian
+graphs with 2 generators (dimensions) and a given diameter. (The results for 2
+generators are not new; they are given in the literature of distributed loop
+networks.) We find an undirected Abelian graph with 3 generators and a given
+diameter which we conjecture to be as large as possible; for the directed case,
+we obtain partial results, which lead to unusual lattice coverings of 3-space.
+We discuss the asymptotic behavior of the problem for large numbers of
+generators. The graphs obtained here are substantially better than traditional
+toroidal meshes, but, in the simpler undirected cases, retain certain desirable
+features such as good routing algorithms, easy constructibility, and the
+ability to host mesh-connected numerical algorithms without any increase in
+communication times.
+","[{""version"":""v1"",""created"":""Sat, 17 Dec 1994 00:00:00 GMT""},{""version"":""v2"",""created"":""Fri, 8 Sep 2000 21:46:14 GMT""}]","2021-02-09"
+"math/9412226","Wolfram Koepf","Wolfram Koepf","Algebraische Darstellung transzendenter Funktionen",,,,"OP-SF 17 Dec 1994","math.CA",,"  Ich m\""ochte in diesem Bericht algorithmische Methoden vorstellen, die im
+wesentlichen in diesem Jahrzehnt Einzug in die Computeralgebra gefunden haben.
+Die haupts\""achlichen Ideen gehen auf Stanley \cite{Sta} und Zeilberger
+\cite{Zei1}--\cite{Zei4} zur\""uck, vgl.\ die Beschreibung \cite{Strehl1}, und
+haben ihre Wurzeln teilweise bereits im letzten Jahrhundert (siehe z.\ B.\
+\cite{Beke1}--\cite{Beke2}), gerieten aber auf Grund der Komplexit\""at der
+auftretenden Algorithmen wieder in Vergessenheit.
+","[{""version"":""v1"",""created"":""Sat, 17 Dec 1994 00:00:00 GMT""}]","2009-09-25"
+"math/9412227","Wolfram Koepf","Wolfram Koepf","Algorithms for the indefinite and definite summation",,,,"OP-SF 17 Dec 1994","math.CA",,"  The celebrated Zeilberger algorithm which finds holonomic recurrence
+equations for definite sums of hypergeometric terms $F(n,k)$ is extended to
+certain nonhypergeometric terms. An expression $F(n,k)$ is called a
+hypergeometric term if both $F(n+1,k)/F(n,k)$ and $F(n,k+1)/F(n,k)$ are
+rational functions. Typical examples are ratios of products of exponentials,
+factorials, $\Gamma$ function terms, bin omial coefficients, and Pochhammer
+symbols that are integer-linear with respect to $n$ and $k$ in their arguments.
+  We consider the more general case of ratios of products of exponentials,
+factorials, $\Gamma$ function terms, binomial coefficients, and Pochhammer
+symbols that are rational-linear with respect to $n$ and $k$ in their
+arguments, and present an extended version of Zeilberger's algorithm for this
+case, using an extended version of Gosper's algorithm for indefinite summation.
+  In a similar way the Wilf-Zeilberger method of rational function
+certification of integer-linear hypergeometric identities is extended to
+rational-linear hypergeometric identities.
+","[{""version"":""v1"",""created"":""Sat, 17 Dec 1994 00:00:00 GMT""}]","2016-09-06"
+"math/9412228","Wolfram Koepf","Wolfram Koepf","REDUCE package for the indefinite and definite summation",,,,"OP-SF 17 Dec 1994","math.CA",,"  This article describes the REDUCE package ZEILBERG implemented by Gregor
+St\""olting and the author.
+  The REDUCE package ZEILBERG is a careful implementation of the Gosper and
+Zeilberger algorithms for indefinite, and definite summation of hypergeometric
+terms, respectively. An expression $a_k$ is called a {\sl hypergeometric term}
+(or {\sl closed form}), if $a_{k}/a_{k-1}$ is a rational function with respect
+to $k$. Typical hypergeometric terms are ratios of products of powers,
+factorials, $\Gamma$ function terms, binomial coefficients, and shifted
+factorials (Pochhammer symbols) that are integer-linear in their arguments.
+","[{""version"":""v1"",""created"":""Sat, 17 Dec 1994 00:00:00 GMT""}]","2009-09-25"
+"nucl-th/9412027",,"M. Buballa","Role of Cloud Renormalization in Convolution Models for EMC and
+  Drell-Yan Ratios","12 pages, latex, 2 postscript figures (available upon request)",,,"Stony Brook preprint SUNY-NTG-94-61","nucl-th",,"  Generalizing a recent convolution model of the nucleon which explicitly
+conserves charge and momentum we reexamine the influence of an enhanced pion
+field in nuclei on EMC and Drell-Yan ratios. Due to wave function
+renormalization constants the effect is more than 50% smaller than predicted by
+the standard pion excess model. In particular there is no discrepancy between
+the EMC data and our results in the x-region which was expected to be most
+sensitive to the pion.
+","[{""version"":""v1"",""created"":""Fri, 16 Dec 1994 21:30:54 GMT""}]","2009-09-25"

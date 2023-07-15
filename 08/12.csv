@@ -1,0 +1,260 @@
+"astro-ph/9408034","Leandros Perivolaropoulos","Alejandro Gangui (SISSA-Trieste) and Leandros Perivolaropoulos
+  (Harvard CfA)","Cosmic Strings and Cosmic Variance","13 pages including 1 figure. Postscipt file appended (first line %!).
+  To print the file with the figure, save the appended postscript file as
+  kurtox.ps in the same directory as the tex file and then latex and print the
+  tex file as usual. Submitted to the Astrophysical Journal","Astrophys.J.447:1-7,1995","10.1086/175851","SISSA REF. 107/94/A, CfA-3915","astro-ph hep-ph",,"  By using a simple analytical model based on counting random multiple impulses
+inflicted on photons by a network of cosmic strings we show how to construct
+the general q-point temperature correlation function of the Cosmic Microwave
+Background radiation. Our analysis is sensible specially for large angular
+scales where the Kaiser-Stebbins effect is dominant. Then we concentrate our
+study on the four-point function and in particular on its zero-lag limit,
+namely, the excess kurtosis parameter, for which we obtain a predicted value of
+$\sim 10^{-2}$. In addition, we estimate the cosmic variance for the kurtosis
+due to a Gaussian fluctuation field, showing its dependence on the primordial
+spectral index of density fluctuations $n$ and finding agreement with previous
+published results for the particular case of a flat Harrison-Zel'dovich
+spectrum. Our value for the kurtosis compares well with previous analyses but
+falls below the threshold imposed by the cosmic variance when commonly accepted
+parameters from string simulations are considered. In particular the
+non-Gaussian signal is found to be inversely proportional to the scaling number
+of defects, as could be expected by the central limit theorem.
+","[{""version"":""v1"",""created"":""Thu, 11 Aug 1994 18:11:04 GMT""}]","2011-05-10"
+"astro-ph/9408035","Richard Battye","R.A. Battye and E.P.S. Shellard","Current Status of Axion Cosmology","8 Pages UUencoded PostScript file, to appear in the Proceedings of
+  the International Symposium on the Critique of the Sources of Dark Matter in
+  the Universe, UCLA, 16th-18th February 1994",,,,"astro-ph hep-ph",,"  We review the current status of axion cosmology in the light of recent work.
+We conclude that in the standard scenario, in which a global string network
+forms at the Peccei-Quinn phase transition, the largest contribution to the
+axion density is from loops, even when uncertainties in the nature of the QCD
+phase transition are taken into account. We also briefly discuss the
+implications of non-standard scenarios, such as an inflationary epoch and
+entropy production.
+","[{""version"":""v1"",""created"":""Fri, 12 Aug 1994 10:59:48 GMT""}]","2007-05-23"
+"cond-mat/9408039","Raphael Blumenfeld","Raphael Blumenfeld (CNLS, Los Alamos Nat'l Lab., Los Alamos, NM.)","Formulating a first-principles statistical theory of growing surfaces in
+  two-dimensional Laplacian fields","28 pages, plain TeX, 2 postscript figure (not included) available
+  upon request. To appear in Physical Review E. Report LA-UR-93-4338. email:
+  rafi@goshawk.lanl.gov",,"10.1103/PhysRevE.50.2952",,"cond-mat",,"  A statistical theory of two-dimensional Laplacian growths is formulated from
+first-principles. First the area enclosed by the growing surface is mapped
+conformally to the interior of the unit circle, generating a set of dynamically
+evolving quasi-particles. Then it is shown that the evolution of a
+surface-tension-free growing surface is Hamiltonian. The Hamiltonian
+formulation allows a natural extension of the formalism to growths with either
+isotropic or anisotropic surface tension. It is shown that the curvature term
+can be included as a surface energy in the Hamiltonian that gives rise to
+repulsion between the quasi-particles and the surface. This repulsion prevents
+cusp singularities from forming along the surface at any finite time and
+regularizes the growth. An explicit example is computed to demonstrate the
+regularizing effect. Noise is then introduced as in traditional statistical
+mechanical formalism and a measure is defined that allows analysis of the
+spatial distribution of the quasi-particles. Finally, a relation is derived
+between this distribution and the growth probability along the growing surface.
+Since the spatial distribution of quasi-particles flows to a stable limiting
+form, this immediately translates into predictability of the asymptotic
+morphology of the surface. An exactly-solvable class of arbitrary initial
+conditions is analysed explicitly.
+","[{""version"":""v1"",""created"":""Thu, 11 Aug 1994 16:40:09 GMT""}]","2009-10-22"
+"cond-mat/9408040",,"E. Hofstetter and M. Schreiber","Does a magnetic field modify the critical behaviour at the
+  metal-insulator transition in 3-dimensional disordered systems?","10 pages, Revtex, 4 PostScript figures in uuencoded compressed tar
+  file are appended",,"10.1103/PhysRevLett.73.3137",,"cond-mat",,"  The critical behaviour of 3-dimensional disordered systems with magnetic
+field is investigated by analyzing the spectral fluctuations of the energy
+spectrum. We show that in the thermodynamic limit we have two different
+regimes, one for the metallic side and one for the insulating side with
+different level statistics. The third statistics which occurs only exactly at
+the critical point is {\it independent} of the magnetic field. The critical
+behaviour which is determined by the symmetry of the system {\it at} the
+critical point should therefore be independent of the magnetic field.
+","[{""version"":""v1"",""created"":""Fri, 12 Aug 1994 10:36:30 GMT""}]","2009-10-22"
+"gr-qc/9408015",,"J. Gegenberg, G. Kunstatter and D. Louis-Martinez","Observables for Two-Dimensional Black Holes","14 pages, latex","Phys. Rev. D 51, 1781 (1995)","10.1103/PhysRevD.51.1781",,"gr-qc",,"  We consider the most general dilaton gravity theory in 1+1 dimensions. By
+suitably parametrizing the metric and scalar field we find a simple expression
+that relates the energy of a generic solution to the magnitude of the
+corresponding Killing vector. In theories that admit black hole solutions, this
+relationship leads directly to an expression for the entropy $S=2\pi \tau_0/G$,
+where $\tau_0$ is the value of the scalar field (in this parametrization) at
+the event horizon. This result agrees with the one obtained using the more
+general method of Wald. Finally, we point out an intriguing connection between
+the black hole entropy and the imaginary part of the ``phase"" of the exact
+Dirac quantum wave functionals for the theory.
+","[{""version"":""v1"",""created"":""Thu, 11 Aug 1994 17:15:00 GMT""}]","2016-08-24"
+"gr-qc/9408016",,"J.-G. Demers","Fluctuations of the Unruh Temperature","LATEX, 12 pages + 2 figures (available upon request) MIT-CTP 2342","Mod.Phys.Lett.A10:1745-1754,1995","10.1142/S0217732395001861",,"gr-qc hep-th",,"  Using the influence functional formalism, the problem of an accelerating
+detector in the presence of a scalar field in its ground state is considered in
+Minkowski space. As is known since the work of Unruh, to a quantum mechanical
+detector following a definite, classical acceleration, the field appears to be
+thermally excited. We relax the requirement of perfect classicality for the
+trajectory and substitute it with one of {\it derived} classicality through the
+criteria of decoherence. The ensuing fluctuations in temperature are then
+related with the time and the amplitude of excitation in the detector's
+internal degree of freedom.
+","[{""version"":""v1"",""created"":""Thu, 11 Aug 1994 22:12:22 GMT""}]","2011-08-04"
+"hep-lat/9408010",,"M.N. Chernodub, M.I. Polikarpov and A.I. Veselov","""Confinement Mechanism in Various Abelian Projections of $SU(2)$ Lattice
+  Gluodynamics""","16 pages (LaTeX) and 3 figures, report ITEP-94-63","Phys.Lett.B342:303-310,1995","10.1016/0370-2693(94)01353-E",,"hep-lat hep-th",,"  We show that the monopole confinement mechanism in lattice gluodynamics is a
+particular feature of the maximal abelian projection. We give an explicit
+example of the $SU(2) \rightarrow U(1)$ projection (the minimal abelian
+projection), in which the confinement is due to topological objects other than
+monopoles. We perform analytical and numerical study of the loop expansion of
+the Faddeev--Popov determinant for the maximal and the minimal abelian
+projections, and discuss the fundamental modular region for these projections.
+","[{""version"":""v1"",""created"":""Thu, 11 Aug 1994 20:47:57 GMT""}]","2010-11-01"
+"hep-ph/9408271",,"Avijit Ganguly, Jitendra C. Parikh and Utpal Sarkar","Low Energy Leptogenesis in Left-Right Symmetric Models","16 pages (Latex file) - 1 postscript figure appended","Phys.Lett. B385 (1996) 175-180","10.1016/0370-2693(96)00892-1",,"hep-ph",,"  We propose a new mechanism for baryogenesis. We study the effective potential
+of left-right extension of the standard model and show that there can be a
+first order phase transition at the left-right symmetry breaking and hence
+$(B-L)$ symmetry breaking scale, which is around TeV in our scenario. As a
+result, although $(B-L)$ violating interactions are in equilibrium at this
+scale, enough $(B-L)$ asymmetry may be generated. This $(B-L)$ asymmetry is
+then converted to baryon asymmetry during the anomalous electroweak process. If
+right handed gauge bosons are seen in the TeV scale, then we argue that this
+will be the only consistent mechanism to generate baryon asymmetry of the
+universe.
+","[{""version"":""v1"",""created"":""Thu, 11 Aug 1994 17:09:49 GMT""}]","2009-10-28"
+"hep-ph/9408272",,"Mitchell Golden","Unitarity and Fermion Mass Generatation","13 pages incl 3 figures. Uses harvmac or lanlmac with pictex for the
+  figures. HUTP-94/A020","Phys.Lett. B338 (1994) 295-300","10.1016/0370-2693(94)91381-1",,"hep-ph",,"  Some years ago Appelquist and Chanowitz considered the scattering of
+fermion--anti-fermion into a pair of longitudinal gauge bosons. Their
+calculation established that unitarity implies that the physics giving mass to
+a quark of mass $m_f$ must be below a mass scale of $16 \pi v^2 / m_f$ ($v=246$
+GeV). This bound is a bit difficult to interpret, because the unitarity of
+gauge boson scattering requires in any case that there be new physics, such as
+a Higgs boson, with a mass lighter than this. This paper re-examines the
+Appelquist-Chanowitz bound in order to clarify its meaning. This work uses toy
+models with a singlet Higgs boson to unitarize gauge boson scattering, and
+considers other possibilities for the new physics affecting the fermion mass.
+This new physics has the effect of changing the Higgs
+boson--fermion--anti-fermion coupling. New physics cannot significantly alter
+this coupling unless it is substantially lighter than the Appelquist-Chanowitz
+bound.
+","[{""version"":""v1"",""created"":""Thu, 11 Aug 1994 17:05:19 GMT""}]","2009-10-28"
+"hep-ph/9408273","Agustin Nieto","Eric Braaten and Agustin Nieto","Next-to-leading Order Debye Mass for the Quark-gluon Plasma","8 pages, NUHEP-TH-94-18","Phys.Rev.Lett. 73 (1994) 2402-2404","10.1103/PhysRevLett.73.2402",,"hep-ph",,"  The Debye screening mass for a quark-gluon plasma at high temperature is
+calculated to next-to-leading order in the QCD coupling constant from the
+correlator of two Polyakov loops. The result agrees with the screening mass
+defined by the location of the pole in the gluon propagator as calculated by
+Rebhan. It is logarithmically sensitive to nonperturbative effects associated
+with the screening of static chromomagnetic fields.
+","[{""version"":""v1"",""created"":""Thu, 11 Aug 1994 17:54:56 GMT""}]","2009-10-28"
+"hep-ph/9408274","Morris","J.M. Cornwall and D.A. Morris","Unifying Logarithmic and Factorial Behavior in High Energy Scattering","32 pages (LaTeX), 13 PostScript figures (uuencoded), UCLA preprint
+  UCLA/94/TEP/31","Phys.Rev. D51 (1995) 4844-4860","10.1103/PhysRevD.51.4844",,"hep-ph hep-th",,"  The elegant instanton calculus of Lipatov and others used to find
+factorially-divergent behavior (g^N * N!) for N*g >> 1 in g*phi^4 perturbation
+theory is strictly only applicable when all external momenta vanish; a
+description of high-energy 2 --> N scattering with N massive particles is
+beyond the scope of such techniques. On the other hand, a standard
+multiperipheral treatment of scattering with its emphasis on leading logarithms
+gives a reasonable picture of high-energy behavior but does not result in
+factorial divergences. Using a straightforward graphical analysis we present a
+unified picture of both these phenomena as they occur in the two-particle total
+cross section of g*phi^4 theory. We do not attempt to tame the unitarity
+violations associated with either multiperipheralism or the Lipatov technique.
+","[{""version"":""v1"",""created"":""Thu, 11 Aug 1994 19:24:10 GMT""}]","2009-10-28"
+"hep-ph/9408275",,"D. Choudhury, F. Eberlein, A. K\""onig, J. Louis, S. Pokorski","Constraints on non-universal soft terms from flavor changing neutral
+  currents","15 pages (harvmac) and 5 figures (uuencoded), MPI-PhT/94-51","Phys.Lett.B342:180-188,1995","10.1016/0370-2693(94)01380-U",,"hep-ph",,"  The smallness of flavor changing neutral currents constrains the soft
+parameter space of supersymmetric extensions of the Standard Model. These low
+energy constraints are translated to the soft parameter space generated at some
+high energy scale $\Mgut$. For gaugino masses larger than the scalar masses and
+non-universal $A$-terms the constraints are significantly diluted at $\Mgut$
+and do allow for the possibility of non-universal scalar masses. The strongest
+constraints arise in the slepton sector of the theory.
+","[{""version"":""v1"",""created"":""Thu, 11 Aug 1994 19:32:23 GMT""},{""version"":""v2"",""created"":""Wed, 19 Oct 1994 10:38:35 GMT""}]","2010-01-28"
+"hep-ph/9408276","Peter Arnold","Peter Arnold and Chengxing Zhai","The Three-Loop Free Energy for Pure Gauge QCD","42 pages with 10 PostScript figures, UW/PT-94-03","Phys.Rev.D50:7603-7623,1994","10.1103/PhysRevD.50.7603",,"hep-ph",,"  We compute the free energy density for pure non-Abelian gauge theory at high
+temperature and zero chemical potential. The three-loop result to $O(g^4)$ is
+  [a lovely formula. Get the paper and print it out.] We examine the
+sensitivity of this result to the choice of renormalization scale. We also give
+a result for the free energy of scalar $\phi^4$ theory, correcting a result
+previously given in the literature.
+","[{""version"":""v1"",""created"":""Fri, 12 Aug 1994 01:38:40 GMT""}]","2010-02-16"
+"hep-ph/9408277","K. V. L. Sarma","K. V. L. Sarma","Recent Results in Neutrino Physics","This version updates several experimental numbers, and includes an
+  account of the model-independent determination of the solar neutrino fluxes
+  leading to ${}^7$Be-neutrino suppression. The present version has no Fig. It
+  is going to appear in IJMP A",,"10.1142/S0217751X9500036X","TIFR/TH/94-13 PUB","hep-ph",,"  This is a survey of the current experimental information on some of the
+interesting issues in neutrino physics: neutrino species, neutrino masses,
+neutrino magnetic moments, solar neutrinos, and the atmospheric neutrino
+anomaly.
+","[{""version"":""v1"",""created"":""Fri, 12 Aug 1994 09:56:17 GMT""},{""version"":""v2"",""created"":""Mon, 7 Nov 1994 17:47:58 GMT""}]","2009-10-28"
+"hep-ph/9408278",,"E.L.Gubankova, A.Yu.Dubin","Dynamics of the QCD String with Light and Heavy Quarks","31 pages, preprint ITEP 62-94",,"10.1016/0370-2693(94)90608-4",,"hep-ph",,"  The generalization of the effective action [1] of the quark--antiquark system
+in the confining vacuum is performed for the case of arbitrary quark masses.
+The interaction of quarks is described by the averaged Wilson loop for which we
+use the minimal area law asymptotics.
+  The system is quantized by the path integral method and the quantum
+Hamiltonian is obtained. It contains not only quark degrees of freedom but also
+the string energy density.
+  As well as in the equal masses case [1] two dynamical regimes are found [2]:
+for large orbital excitations ($l \gg 1$) the system is represented as rotating
+string, which leads to asymptotically linear Regge trajectories, while at small
+$l$ one obtains a potential-like relativistic or nonrelativistic regime.
+  In the limiting cases of light-light and heavy-light mesons a unified
+description is developed [2]. For the Regge trajectories one obtains nearly
+straight-line patterns with the slope very close to $1/2 \pi \sigma$ and $1/
+\pi\sigma$ correspondingly. The upper bound on the light quark(s) masses which
+doesn't change considerably this property of the trajectories is also found.
+","[{""version"":""v1"",""created"":""Fri, 12 Aug 1994 14:19:29 GMT""}]","2009-10-28"
+"hep-ph/9408279","My Account","J. Lopez","Theoretical expectations for the top-quark mass","CTP-TAMU-39/94, 20 pages, 8 figures included as uuencoded file.
+  Complete postscript file with embedded figures (0.687MB) is available via
+  anonymous ftp from hplaa02.cern.ch /pub/lopez/Erice94.ps",,,,"hep-ph",,"  I review the theoretical expectactions for the top-quark mass in a variety of
+models: the Standard Model, unified models (GUTs), low-energy supersymmetric
+models (SUSY), unified supersymmetric models (SUSY GUTs), supergravity models,
+and superstring models. In all instances I consider the constraints on the
+top-quark mass which arise by demanding that these theories be weakly
+interacting. This assumption is quantified by the use of partial-wave unitarity
+or triviality. The resulting upper bounds on the top-quark mass are most
+stringent in SUSY GUTs models ($m^{\rm pole}_t\lsim200\sin\beta\GeV$). I also
+discuss a class of $SU(5)\times U(1)$ superstring models where $m^{\rm
+pole}_t\sim(170-195)\GeV$ is predicted. I conclude that experimental
+determinations of the top-quark mass can be {\em naturally} understood in SUSY
+GUTs and superstring models. (Lecture presented at the International School of
+Subnuclear Physics, 32nd Course: From Superstring to Present-Day Physics,
+Erice--Sicily: July 3--11, 1994.)
+","[{""version"":""v1"",""created"":""Fri, 12 Aug 1994 15:31:58 GMT""}]","2007-05-23"
+"hep-th/9408068","Sergey Solodukhin","S.N.Solodukhin","On ""Non-Geometric"" Contribution To The Entropy Of Black Hole Due To
+  Quantum Corrections","Latex, 9 pages","Phys.Rev.D51:618-621,1995","10.1103/PhysRevD.51.618",,"hep-th",,"  The quantum corrections to the entropy of charged black holes are calculated.
+The Reissner-Nordstrem and dilaton black holes are considered. The appearance
+of logarithmically divergent terms not proportional to the horizon area is
+demonstrated. It is shown that the complete entropy which is sum of classical
+Bekenstein-Hawking entropy and the quantum correction is proportional to the
+area of quantum-corrected horizon.
+","[{""version"":""v1"",""created"":""Fri, 12 Aug 1994 09:19:09 GMT""}]","2011-05-05"
+"hep-th/9408070","Armen Nersessian","O. M. Khudaverdian (Yerevan State University)","Algebras with Operator and Campbell--Hausdorff Formula","12 pages","Lett.Math.Phys. 35 (1995) 27-38","10.1007/BF00739153",,"hep-th math.QA",,"  We introduce some new classes of algebras and estabilish in these algebras
+Campbell--Hausdorff like formula. We describe the application of these
+constructions to the problem of the connectivity of the Feynman graphs
+corresponding to the Green functions in Quantum Fields Theory.
+","[{""version"":""v1"",""created"":""Fri, 12 Aug 1994 10:32:14 GMT""}]","2009-10-28"
+"hep-th/9408071","Nesterenko","V.V. Nesterenko, A. Feoli, and G. Scarpetta","Dynamics of relativistic particle with Lagrangian dependent on
+  acceleration","15 pages, LATEX, Preprint Salerno University DFT-US-3/94","J.Math.Phys. 36 (1995) 5552-5564","10.1063/1.531332",,"hep-th",,"  Models of relativistic particle with Lagrangian ${\cal L}(k_1)$, depending on
+the curvature of the worldline $k_1$, are considered. By making use of the
+Frenet basis, the equations of motion are reformulated in terms of the
+principal curvatures of the worldline. It is shown that for arbitrary
+Lagrangian function ${\cal L}(k_1)$ these equations are completely integrable,
+i.e., the principal curvatures are defined by integrals. The constants of
+integration are the particle mass and its spin. The developed method is applied
+to the study of a model of relativistic particle with maximal proper
+acceleration, whose Lagrangian is uniquely determined by a modified form of the
+invariant relativistic interval. This model gives us an example of a consistent
+relativistic dynamics obeying the principle of a superiorly limited value of
+the acceleration, advanced recently.
+","[{""version"":""v1"",""created"":""Fri, 12 Aug 1994 14:40:19 GMT""}]","2009-10-28"
+"hep-th/9408072","Pawel Wegrzyn","Leszek Hadasz and Pawel Wegrzyn (Jagellonian Univ.)","Boundary terms in Nambu-Goto string action","9 LaTeX pages and 3 PostScript figures (uuencoded), preprint
+  TPJU-15/94","Phys.Rev. D51 (1995) 2891-2895","10.1103/PhysRevD.51.2891",,"hep-th",,"  We investigate classical strings defined by the Nambu-Goto action with the
+boundary term added. We demonstrate that the latter term has a significant
+bearing on the string dynamics. It is confirmed that new action terms that
+depend on higher order derivatives of string coordinates cannot be considered
+as continuous perturbations from the starting string functional. In the case
+the boundary term reduces to the Gauss-Bonnet term, a stability analysis is
+performed on the rotating rigid string solution. We determined the most generic
+solution that the fluctuations grow to. Longitudinal string excitations are
+found. The Regge trajectories are nonlinear.
+","[{""version"":""v1"",""created"":""Fri, 12 Aug 1994 12:04:44 GMT""}]","2009-10-28"
+"hep-th/9408073",,"A.Cucchieri, S. Deser and M. Porrati","Tree-Level Unitarity Constraints on the Gravitational Couplings of
+  Higher-Spin Massive Fields","12 pages (Latex file, needs FEYNMAN macros), IASSNS-HEP-94/63,
+  NYU-TH-94/05/01, CERN-TH.7388/94","Phys.Rev.D51:4543-4549,1995","10.1103/PhysRevD.51.4543",,"hep-th gr-qc",,"  We analyse the high-energy behavior of tree-level graviton Compton amplitudes
+for particles of mass m and arbitrary spin, concentrating on a combination of
+forward amplitudes that will be unaffected by eventual cross- couplings to
+other, higher spins. We first show that for any spin larger than 2, tree-level
+unitarity is already violated at energies well below the Planck scale M, if m
+<< M. We then restore unitarity to this amplitude up to M by adding non-minimal
+couplings that depend on the curvature and its derivatives, and modify the
+minimal description - including particle gravitational quadrupole moments - at
+scales O(1/m).
+","[{""version"":""v1"",""created"":""Fri, 12 Aug 1994 12:59:10 GMT""},{""version"":""v2"",""created"":""Mon, 15 Aug 1994 13:16:36 GMT""}]","2008-11-26"
+"hep-th/9408074","Cumrun Vafa","Cumrun Vafa and Edward Witten","A Strong Coupling Test of S-Duality","114 pages (some minor changes)","Nucl.Phys.B431:3-77,1994","10.1016/0550-3213(94)90097-3",,"hep-th",,"  By studying the partition function of $N=4$ topologically twisted
+supersymmetric Yang-Mills on four-manifolds, we make an exact strong coupling
+test of the Montonen-Olive strong-weak duality conjecture. Unexpected and
+exciting links are found with two-dimensional rational conformal field theory.
+","[{""version"":""v1"",""created"":""Fri, 12 Aug 1994 13:48:56 GMT""},{""version"":""v2"",""created"":""Thu, 1 Sep 1994 17:11:49 GMT""}]","2010-04-07"
+"nucl-th/9408013","Ulrich Mosel","M. Schaefer, H. C. Doenges and U. Mosel","Electromagnetic Form Factor of the Nucleon in the Time-like Region","12 LATEX pages, 4 figures available from
+  ftp://theorie.physik.uni-giessen.de/","Phys.Lett.B342:13-18,1995","10.1016/0370-2693(94)01394-R","UGI-94-06","nucl-th",,"  We explore the possibility to verify vector meson dominance for the nucleon
+by measuring the half-off-shell form factor in the vector-meson mass region.
+Cross sections for the process $\gamma p \rightarrow p + e^+e^-$ be presented.
+","[{""version"":""v1"",""created"":""Fri, 12 Aug 1994 12:14:07 GMT""}]","2009-09-25"

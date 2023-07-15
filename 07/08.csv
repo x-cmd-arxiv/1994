@@ -1,0 +1,353 @@
+"astro-ph/9407023",,"Ben Moore and Joseph Silk","Dynamical and Observable Constraints on RAMBOs: Robust Associations of
+  Massive Baryonic Objects","10 pages, plain Tex, 2 figures can be requested from
+  frost@pac2.berkeley.edu, CfPA 94-th-18",,"10.1086/187802",,"astro-ph",,"  If the halo dark matter consists of faint baryonic stars, then these objects
+probably formed at an early epoch within large associations with similar
+dynamical properties to globular or open clusters. We use the luminosity
+function of globular clusters as a function of galactocentric distance to
+provide a very strong constraint on the properties of RAMBOs. We show that at
+the solar radius, dynamical constraints confine such clusters to a bounded and
+narrow parameter space with effective radii between 1 pc and 15 pc,
+corresponding to masses between $ \sim 10 -10^4 M_\odot$ and $\sim
+10^4-10^6M_\odot$, respectively. Compact and massive clusters are excluded by
+these constraints, and therefore cannot provide a heating source capable of
+explaining the observed correlation between age and velocity dispersion for
+disk stars. Less than 1\% of the halo could be within RAMBOs of mass
+$10^7M_\odot$;an order magnitude lower than required in the model proposed by
+Wasserman \& Salpeter. Neither the IRAS or ISO infrared satellites have the
+capability to detect clusters of brown dwarfs within the dynamically allowed
+parameter space. Clusters of white dwarfs that formed a Hubble time ago have a
+surface brightness several magnitudes below the sky level; even clusters of low
+mass stars at the edge of the main sequence would remain invisible to the
+deepest K band surveys to date. We conclude that gravitational microlensing is
+the only method capable of constraining the abundance of dark matter in the
+form of clusters of stars. Recovering the dynamical properties of RAMBOs will
+be very difficult due to their large covering factor and low internal velocity
+dispersion.
+","[{""version"":""v1"",""created"":""Thu, 7 Jul 1994 16:28:24 GMT""}]","2009-10-22"
+"astro-ph/9407024",,"Joseph Silk","Baryonic Dark Matter","17 pages, plain Tex, 2 figures can be requested from
+  frost@pac2.berkeley.edu, CfPA 94-th-05",,,,"astro-ph",,"  In the first two of these lectures, I present the evidence for baryonic dark
+matter and describe possible forms that it may take. The final lecture
+discusses formation of baryonic dark matter, and sets the cosmological context.
+","[{""version"":""v1"",""created"":""Thu, 7 Jul 1994 16:38:40 GMT""}]","2009-09-25"
+"astro-ph/9407025","Thomas Schramm","T.Schramm and R.Kayser","Radial cluster lensing: A simple differential equation describing arclet
+  fields","2 pages, uuencoded, compressed postscript, accepted for publication
+  as a Letter in Astronomy and Astrophysics, complete LaTeX-file (using
+  Springer A&A macros l-aa.sty) available via anonymous ftp from
+  ftp.uni-hamburg.de:/pub/incoming/radial2.tex.gz, will be moved to
+  /pub/misc/astronomy/radial2.tex.gz, HH-GRAL-SK-94-01",,,,"astro-ph",,"  Clusters of galaxies acting as gravitational lenses deform the images of
+background galaxies. For small galaxies the deformation is determined by the
+local properties of the lens (shear, convergence). Small circular shaped
+galaxies are seen as small ellipses. The orientation and axial ratio of the
+ellipses could then be used to trace the properties of the lens. We introduce
+and solve an ordinary homogeneous linear first order differential equation
+which describes completely the radial cluster lens. It can be used to
+reconstruct the lens mappeing from the measured axial ratios of lensed
+background galaxies.
+","[{""version"":""v1"",""created"":""Fri, 8 Jul 1994 10:39:46 GMT""}]","2007-05-23"
+"chao-dyn/9407003","Gregory J. Chaitin","G.J. Chaitin (IBM Research Division)","The Limits of Mathematics---The Book","270 pages, LaTeX, ignore numerous Overfull hbox too wide errors",,,,"chao-dyn nlin.CD",,"  This is a revised version of the course notes handed to each participant at
+the limits of mathematics short course, Orono, Maine, June 1994.
+","[{""version"":""v1"",""created"":""Thu, 7 Jul 1994 20:06:26 GMT""}]","2008-02-03"
+"cond-mat/9407038",,"Arunava Chakrabarti, S. N. Karmakar and R. K. Moitra","A renormalization group analysis of extended electronic states in 1d
+  quasiperiodic lattices","19 pages, 7 figures available on request, LaTeX version 2.09,
+  SINP-AKRS94-01",,"10.1103/PhysRevB.50.13276",,"cond-mat",,"  We present a detailed analysis of the nature of electronic eigenfunctions in
+one-dimensional quasi-periodic chains based on a clustering idea recently
+introduced by us [Sil et al., Phys. Rev. {\bf B 48}, 4192 (1993) ], within the
+framework of the real-space renormalization group approach. It is shown that
+even in the absence of translational invariance, extended states arise in a
+class of such lattices if they possess a certain local correlation among the
+constituent atoms. We have applied these ideas to the quasi-periodic
+period-doubling chain, whose spectrum is found to exhibit a rich variety of
+behaviour, including a cross-over from critical to an extended regime, as a
+function of the hamiltonian parameters. Contrary to prevailing ideas, the
+period-doubling lattice is shown to support an infinity of extended states,
+even though the polynomial invariant associated with the trace map is
+non-vanishing. Results are presented for different parameter regimes, yielding
+both periodic as well as non-periodic eigenfunctions. We have also extended the
+present theory to a multi-band model arising from a quasi-periodically arranged
+array of $\delta$-function potentials on the atomic sites. Finally, we present
+a multifractal analysis of these wavefunctions following the method of Godreche
+and Luck [ C. Godreche and J. M. Luck, J. Phys. A :Math. Gen. {\bf 23},
+","[{""version"":""v1"",""created"":""Thu, 7 Jul 1994 16:09:00 GMT""}]","2009-10-22"
+"cond-mat/9407039","Dan Duffy","Adriana Moreo and Daniel Duffy","Hole Pockets in the Doped 2D Hubbard Model","11 pages, 4 postscript figures appended, RevTeX (version 3.0)",,"10.1007/BF00752299",,"cond-mat",,"  The electronic momentum distribution ${\rm n({\bf k})}$ of the two
+dimensional Hubbard model is studied for different values of the coupling ${\rm
+U/t}$, electronic density ${\rm \langle n \rangle}$, and temperature, using
+quantum Monte Carlo techniques. A detailed analysis of the data on $8\times 8$
+clusters shows that features consistent with hole pockets at momenta ${\rm {\bf
+k}=(\pm {\pi\over{2}},\pm {\pi\over{2}})}$ appear as the system is doped away
+from half-filling. Our results are consistent with recent experimental data for
+the cuprates discussed by Aebi et al. (Phys. Rev. Lett. {\bf 72}, 2757 (1994)).
+In the range of couplings studied, the depth of the pockets is maximum at ${\rm
+\langle n \rangle \approx 0.9}$, and it increases with decreasing temperature.
+The apparent absence of hole pockets in previous numerical studies of this
+model is explained.
+","[{""version"":""v1"",""created"":""Thu, 7 Jul 1994 20:47:35 GMT""}]","2009-10-22"
+"cond-mat/9407040","Kanhere","Vaishali Shah, Dinesh Nehete and D. G. Kanhere","Ab initio molecular dynamics via density based energy functionals","15 pages, RevTeX 3.0, 3 PS Figures at the end",,"10.1088/0953-8984/6/49/018",,"cond-mat",,"  The use of energy functionals based on density as the basic variable is
+advocated for ab initio molecular dynamics. It is demonstrated that the
+constraint of positivity of density can be incorporated easily by using square
+root density for minimization of the energy functional. An ad hoc prescription
+for including nonlocal pseudopotentials for plane wave based calculations is
+proposed and is shown to yield improved results. Applications are reported for
+equilibrium geometries of small finite systems, viz. dimers and trimers of
+simple metal atoms like Na and Mg, which represent a rather stringent test for
+approximate kinetic energy functionals involved in such calculations.
+","[{""version"":""v1"",""created"":""Fri, 8 Jul 1994 12:19:58 GMT""}]","2009-10-22"
+"cond-mat/9407041","Nedko Ivanov","J. Richter, N.B. Ivanov, and K. Retzlaff","On The Violation Of Marshall-Peierls Sign Rule In The Frustrated
+  $J_{1}-J_{2}$ Heisenberg Antiferromagnet","8 pages, LaTex, 2 figurs on request","Europhys. Lett. 25 (7), pp.545-550 (1994)","10.1209/0295-5075/25/7/012",,"cond-mat",,"  We present a number of arguments in favor of the suggestion that the
+Marshall-Peierls sign rule survives the frustration in the square-lattice
+Heisenberg antiferromagnet with frustrating next-nearest-neighbor (diagonal)
+bonds ($J_{1}-J_{2}$ model) for relatively large values of the parameter
+$J_{2}/J_{1}$. Both the spin-wave analysis and the exact-diagonalization data
+concerning the weight of Marshall states support the above suggestion.
+","[{""version"":""v1"",""created"":""Fri, 8 Jul 1994 12:29:19 GMT""}]","2009-10-22"
+"cond-mat/9407042","Nedko Ivanov","N.B. Ivanov and J. Richter","$J_1-J_2$ Quantum Heisenberg Antiferromagnet: Improved Spin-Wave
+  Theories Versus Exact-Diagonalization Data","13 pages, LaTex, 7 figures on request","J. Phys. Condens. Matter 6(1994)3785-3792","10.1088/0953-8984/6/20/018",,"cond-mat",,"  We reconsider the results cocerning the extreme-quantum $S=1/2$
+square-lattice Heisenberg antiferromagnet with frustrating diagonal couplings
+($J_1-J_2$ model) drawn from a comparison with exact-diagonalization data. A
+combined approach using also some intrinsic features of the self-consistent
+spin-wave theory leads to the conclusion that the theory strongly overestimates
+the stabilizing role of quantum flutcuations in respect to the N\'{e}el phase
+in the extreme-quantum case $S=1/2$. On the other hand, the analysis implies
+that the N\'{e}el phase remains stable at least up to the limit $J_{2}/J_{1} =
+0.49$ which is pretty larger than some previous estimates. In addition, it is
+argued that the spin-wave ansatz predicts the existence of a finite range
+($J_{2}/J_{1}<0.323$ in the linear spin-wave theory) where the Marshall-Peierls
+sigh rule survives the frustrations.
+","[{""version"":""v1"",""created"":""Fri, 8 Jul 1994 12:32:07 GMT""}]","2009-10-22"
+"dg-ga/9407003","Larry Bates","L. Bates and E. Lerman","Proper group actions and symplectic stratified spaces","25 pages, LaTeX",,,,"dg-ga math.DG",,"  Let $(M,\omega)$ be a Hamiltonian $G$-space with a momentum map $F:M \to
+{\frak g}^*$. It is well-known that if $\alpha$ is a regular value of $F$ and
+$G$ acts freely and properly on the level set $F^{-1}(G\cdot \alpha)$, then the
+reduced space $M_\alpha :=F^{-1}(G\cdot \alpha)/G$ is a symplectic manifold. We
+show that if the regularity assumptions are dropped the space $M_\alpha $ is a
+union of symplectic manifolds, and that the symplectic manifolds fit together
+in a nice way. In other words the reduced space is a {\em symplectic stratified
+space}. This extends results known for the Hamiltonian action of compact
+groups.
+","[{""version"":""v1"",""created"":""Thu, 7 Jul 1994 19:18:10 GMT""}]","2008-02-03"
+"gr-qc/9407006","Christoph Schweigert","K. Peeters, C. Schweigert and J.W. van Holten","Extended Geometry of Black Holes","9pp. (A4) LaTeX, epsf.sty, 1 figure, appended as a compressed and
+  uuencoded postscript file, NIKHEF-H/94-03","Class.Quant.Grav.12:173-180,1995","10.1088/0264-9381/12/1/015",,"gr-qc hep-th",,"  We reconsider space-time singularities in classical Einsteinian general
+relativity: with the help of several new co-ordinate systems we show that the
+Schwarzschild solution can be extended beyond the curvature singularity at r=0.
+The extension appears as an infinite covering of standard Kruskal space-time.
+While the two-dimensional reduction of this infinite sequence of
+Kruskal-Szekeres domains obtained by suppressing the angular degrees of freedom
+is still a topological manifold - albeit one for which the metric structure is
+singular on one-dimensional submanifolds - we obtain for the full
+four-dimensional geometry the more general structure of a stratified variety.
+","[{""version"":""v1"",""created"":""Fri, 8 Jul 1994 10:54:27 GMT""}]","2010-04-06"
+"hep-lat/9407004","Robert Lacaze","T. Bhattacharya, R. Lacaze, A. Morel","Large Energy Cumulants in the 2D Potts Model and their Effects in Finite
+  Size Analysis","20 pages Plain TeX,16 Postscipt figures available by ftp anonymous on
+  amoco.saclay.cea.fr as ftp://amoco.saclay.cea.fr/pubs.spht/94-008.fig.ps
+  SPht-94/008","Nucl.Phys. B435 (1995) 526-554","10.1016/0550-3213(94)00393-S",,"hep-lat",,"  We develop an ansatz for expressing the free energy of the two dimensional
+$q$-states Potts model for $q > 4$ near its first order phase transition point.
+We notice that for the moderate values of $ q \lesssim 15 $, the energy profile
+at the phase transition is not expressible as a sum of gaussians. We discuss
+how this affects the traditional finite size analysis of this phase transition.
+In particular, the dominant length scale governing the finite size corrections
+turns out to be much (${} \sim 6$ ~times) larger than the largest correlation
+length in the problem.
+","[{""version"":""v1"",""created"":""Fri, 8 Jul 1994 13:07:31 GMT""}]","2009-09-25"
+"hep-ph/9407252","Ian Kogan","R. D. Amado and Ian I. Kogan","Quantum Phenomenology for the Disoriented Chiral Condensate","24 pages, PUPT-1483","Phys.Rev. D51 (1995) 190-200","10.1103/PhysRevD.51.190",,"hep-ph",,"  We consider the quantum state describing theDisoriented Chiral Condensate
+(DCC), which may be produced in high energy collisions. We show how a mean
+field treatment of the quantum equations corresponding to the classical linear
+sigma model leads to a squeezed state description of the pions emerging from
+the DCC. We examine various squeezed and coherent state descriptions of those
+pions with particular attention to charge and number fluctuations. We also
+study the phenomenology of multiple DCC domains.
+","[{""version"":""v1"",""created"":""Thu, 7 Jul 1994 20:30:22 GMT""}]","2009-10-28"
+"hep-ph/9407254",,"M. Drees","Phenomenology of the Minimal Supergravity SU(5) Model","based on a talk presented at the 3rd Workshop on High Energy Particle
+  Physics, Madras, India, January 1994; 23 pages in LaTeX with EQUATION.STY, 3
+  figures not included (available on request); MAD/PH/843","Pramana 45 (1995) S85-S108","10.1007/BF02907967",,"hep-ph",,"  The minimal grand unified supergravity model is discussed. Requiring
+radiative breaking of the electroweak gauge symmetry, the unification of b and
+tau Yukawa couplings, a sufficiently stable nucleon, and not too large a relic
+density of neutralinos produced in the Big Bang constrains the parameter space
+significantly. In particular, the soft breaking parameter m_1/2 has to be less
+than about 130 GeV, and the top quark Yukawa coupling has to be near its
+(quasi) fixed point. The former condition implies m_gluino < 400 GeV and hence
+very large production rates for gluino pairs at the LHC, while the latter
+constraint implies that the lighter stop and sbottom eigenstates are
+significantly lighter than the other squarks, leading to characteristic
+signatures for gluino pair events.
+","[{""version"":""v1"",""created"":""Thu, 7 Jul 1994 22:12:00 GMT""}]","2009-10-28"
+"hep-ph/9407255","Matsuda Masahisa","Grish C. Joshi, Masahisa Matsuda and Morimitsu Tanimoto","Maximal $CP$ violation in the Higgs Sector and its Effect on the $\rho$
+  Parameter","13-pages including 2-figures(figures will be sent by fax or postal
+  mail if request), UWThPh-1994-25, AUE-94-04","Phys.Lett.B341:53-59,1994","10.1016/0370-2693(94)01257-1",,"hep-ph",,"  We study the conditions of maximal $CP$ violation in the neutral Higgs mass
+matrix of the two Higgs doublet model. We get fixed values of $\tan\b$ and
+constraints on the Higgs potential parameters. Two neutral Higgs scalars are
+constrained to be lighter than the charged Higgs scalar and these two Higgs
+scalars are expected to be almost degenerate due to the smallness of the $h$
+parameter, where $h$ is the CP violating coupling constant of the Higgs
+interaction. The radiative correction of the $\rho$ parameter from the Higgs
+scalar exchange is rather small and its sign negative for a wide range of Higgs
+masses. It follows that maximum $CP$ violation in the two Higgs doublet model
+is safely allowed for the $\rho$ parameter without the custodial symmetry.
+","[{""version"":""v1"",""created"":""Fri, 8 Jul 1994 00:31:09 GMT""}]","2010-11-01"
+"hep-ph/9407256",,"J. Rosner (University of Chicago)","What Charm Can Tell Us About Beauty","15 pages, LaTeX, uses CHARM2000.STY file (appended). 6 figures not
+  included, available in hard copy upon request. Enrico Fermi Institute report
+  EFI 94-33",,,,"hep-ph",,"  A number of ways are reviewed in which the study of charmed particles can
+answer corresponding questions about particles containing $b$ quarks. Topics
+include the properties of resonances, the magnitude of decay constants, the
+size of spin-dependent effects, and the hierarchy of lifetime differences.
+","[{""version"":""v1"",""created"":""Thu, 7 Jul 1994 16:07:30 GMT""}]","2009-09-25"
+"hep-ph/9407257",,"J. Rosner (University of Chicago)","Our Present Understanding of CP Violation","26 Pages, LaTeX, 7 figures not included (available in hard copy upon
+  request). July, 1994, Enrico Fermi Institute report EFI 94-25",,,,"hep-ph",,"  If CP violation in the decays of neutral kaons is due to phases in the weak
+couplings of quarks, as encoded in the Cabibbo-Kobayashi-Maskawa (CKM) matrix,
+there are many other experimental consequences. Notable among these are
+CP-violating rate asymmetries and triangle relations among decay rates in $B$
+meson decays, while charmed particle decays should not be a good place to see
+CP-violating effects. In the context of the CKM and other models of CP
+violation, we discuss phenomena such as electric dipole moments, the baryon
+asymmetry of the Universe, and the strong CP problem, and speculate on a common
+origin for CP-violating phenomena.
+","[{""version"":""v1"",""created"":""Thu, 7 Jul 1994 16:02:30 GMT""}]","2009-09-25"
+"hep-ph/9407258","Joachim Keppler","J. Keppler and H.M. Hofmann (University of Erlangen, Germany)","The Spin Structure of the Proton in a Non-relativistic Quark Model","email: keppler@faupt31.physik.uni-erlangen.de, 9 pages REVTEX, 1
+  figure added as PostScript-file which should be stripped off before texing","Phys.Rev. D51 (1995) 3936-3939","10.1103/PhysRevD.51.3936",,"hep-ph nucl-th",,"  The spin structure of the proton is investigated in the framework of an
+extended quark potential model which in addition to the conventional
+$3q$--structure also takes into account $(3q)(q\bar q)$--admixtures in the
+proton wave function. For reasons of parity such admixtures contain an odd
+orbital angular momentum thus allowing the proton spin to be shared among quark
+spins and orbital angular momenta. We show that only certain admixtures are
+suited for a significant reduction of the quark spin content of the proton as
+suggested by the EMC--result. Within a Hamiltonian model quark spin
+contributions to the proton spin down to $0.5$ can be reproduced easily.
+","[{""version"":""v1"",""created"":""Fri, 8 Jul 1994 15:06:34 GMT""}]","2009-10-28"
+"hep-ph/9407259",,"X. Zhang, S.K. Lee, K. Whisnant and B.-L. Young","Phenomenology of a non-standard top quark Yukawa coupling","(TeX file, Figures available by request) AMES-HET 94-05, June 1994","Phys.Rev.D50:7042-7047,1994","10.1103/PhysRevD.50.7042",,"hep-ph",,"  There are theoretical speculations that the top quark may have different
+properties from that predicted by the standard model. We use an effective
+Lagrangian technique to model such a non-standard top quark scenario and study
+its effects on the electroweak baryogenesis, low and high energy physics.
+","[{""version"":""v1"",""created"":""Fri, 8 Jul 1994 15:53:53 GMT""}]","2010-11-01"
+"hep-ph/9407262",,"V.Topor Pop, A.Andrighetto, M.Morando, F.Pellegrini, R.A.Ricci,
+  G.Segato","Strangeness Production in pp,pA,AA Interactions at SPS Energies.HIJING
+  Approach","33 pages(LATEX),18 figures not included,available in hard copy upon
+  request , Dipartamento di Fisica Padova,report DFPD-94-NP-42",,,,"hep-ph",,"  In this report we have made a systematic study of strangeness production in
+proton-proton(pp),proton-nucleus(pA) and nucleus- nucleus(AA) collisions at
+CERN Super Proton Synchroton energies, using$\,\,\, HIJING\,\,\, MONTE
+\,\,\,CARLO \,\,\,MODEL $ \\ (version $HIJ.01$). Numerical results for mean
+multiplicities of neutral strange particles ,as well as their ratios to
+negatives hadrons($<h^{-}>$) for
+p-p,nucleon-nucleon(N-N),\,\,p-S,\,\,p-Ag,\,\,p-Au('min. bias')collisions and
+p-Au,\,\,S-S,\,\,S-Ag,\,\,S-Au ('central')collisions are compared to
+experimental data available from CERN experiments and also with recent
+theoretical estimations given by others models. Neutral strange particle
+abundances are quite well described for p-p,N-N and p-A interactions ,but are
+underpredicted by a factor of two in A-A interactions for
+$\Lambda,\bar{\Lambda},
+  K^{0}_{S}$ in symmetric collisions(S-S,\,\,Pb-Pb)and for
+$\Lambda,\bar{\Lambda}\,\,$in asymmetric ones(S-Ag,\,\,S-Au,\,\,S-W). A
+qualitative prediction for rapidity, transverse kinetic energy and transverse
+momenta normalized distributions are performed at 200 GeV/Nucleon in
+p-S,S-S,S-Ag and S-Au collisions in comparison with recent experimental data.
+HIJING model predictions for coming experiments at CERN for S-Au, S-W and Pb-Pb
+interactions are given. The theoretical calculations are estimated in a full
+phase space.
+","[{""version"":""v1"",""created"":""Fri, 8 Jul 1994 14:01:00 GMT""}]","2019-08-17"
+"hep-th/9407043",,"O.Ragnisco","Dynamical R-Matrices for Integrable Maps","16 plain tex pages",,"10.1016/0375-9601(95)00056-9",,"hep-th nlin.SI solv-int",,"  The integrability of two symplectic maps, that can be considered as
+discrete-time analogs of the Garnier and Neumann systems is established in the
+framework of the $r$-matrix approach, starting from their Lax representation.
+In contrast with the continuous case, the $r$-matrix for such discrete systems
+turns out to be of dynamical type; remarkably, the induced Poisson structure
+appears as a linear combination of compatible ``more elementary"" Poisson
+structures. It is also shown that the Lax matrix naturally leads to define
+separation variables, whose discrete and continuous dynamics is investigated.
+","[{""version"":""v1"",""created"":""Thu, 7 Jul 1994 17:33:44 GMT""}]","2009-10-28"
+"hep-th/9407044","Cosmas Zachos","C. Zachos and T. Curtright","The Paradigm of Pseudodual Chiral Models","10 pages, Latex , ANL-HEP-CP-94-33",,,,"hep-th",,"  This is a synopsis and extension of Phys.~Rev.~{\em D49} 5408 (1994). The
+Pseudodual Chiral Model illustrates 2-dimensional field theories which possess
+an infinite number of conservation laws but also allow particle production, at
+variance with naive expectations---a folk theorem of integrable models. We
+monitor the symmetries of the pseudodual model, both local and nonlocal, as
+transmutations of the symmetries of the (very different) usual Chiral Model. We
+refine the conventional algorithm to more efficiently produce the nonlocal
+symmetries of the model. We further find the Canonical transformation which
+connects the usual chiral model to its fully equivalent dual model, thus
+contradistinguishing the pseudodual theory.
+","[{""version"":""v1"",""created"":""Thu, 7 Jul 1994 16:44:05 GMT""}]","2007-05-23"
+"hep-th/9407045","Jorg Schray","J\""org Schray","The general classical solution of the superparticle","11 pages, REVTeX","Class.Quant.Grav. 13 (1996) 27-38","10.1088/0264-9381/13/1/004",,"hep-th",,"  The theory of vectors and spinors in 9+1 dimensional spacetime is introduced
+in a completely octonionic formalism based on an octonionic representation of
+the Clifford algebra $\Cl(9,1)$. The general solution of the classical
+equations of motion of the CBS superparticle is given to all orders of the
+Grassmann hierarchy. A spinor and a vector are combined into a $3 \times 3$
+Grassmann, octonionic, Jordan matrix in order to construct a superspace
+variable to describe the superparticle. The combined Lorentz and supersymmetry
+transformations of the fermionic and bosonic variables are expressed in terms
+of Jordan products.
+","[{""version"":""v1"",""created"":""Fri, 8 Jul 1994 00:45:13 GMT""}]","2009-10-28"
+"hep-th/9407046","Uwe Gebhard Grimm","Uwe Grimm and S. Ole Warnaar","Solvable RSOS models based on the dilute BWM algebra","25 pages, uuencoded compressed PostScript file, Amsterdam preprint
+  ITFA-94-21","Nucl.Phys.B435:482-504,1995","10.1016/0550-3213(94)00405-4",,"hep-th",,"  In this paper we present representations of the recently introduced dilute
+Birman-Wenzl-Murakami algebra. These representations, labelled by the level-$l$
+B$^{(1)}_n$, C$^{(1)}_n$ and D$^{(1)}_n$ affine Lie algebras, are Baxterized to
+yield solutions to the Yang-Baxter equation.
+  The thus obtained critical solvable models are RSOS counterparts of the,
+respectively, D$^{(2)}_{n+1}$, $A^{(2)}_{2n}$ and B$^{(1)}_n$ $R$-matrices of
+Bazhanov and Jimbo. For the D$^{(2)}_{n+1}$ and B$^{(1)}_n$ algebras the RSOS
+models are new. An elliptic extension which solves the Yang-Baxter equation is
+given for all three series of dilute RSOS models.
+","[{""version"":""v1"",""created"":""Fri, 8 Jul 1994 08:50:49 GMT""}]","2011-07-19"
+"hep-th/9407049","Qmw Theory Group","D. Bailin, A. Love, W. A. Sabra and S. Thomas","Modular Symmetries, Threshold Corrections And Moduli For $Z_2 \times Z_2
+  $ Orbifolds","QMW--TH--94/18, 12 pages","Mod.Phys.Lett. A10 (1995) 337-346","10.1142/S0217732395000375",,"hep-th",,"  ${\bf Z}_2\times {\bf Z}_2$ Coxeter orbifolds are constructed with the
+property that some twisted sectors have fixed planes for which the six-torus
+can not be decomposed into a direct sum ${\bf T}^2\bigoplus{\bf T}^4 $ with the
+fixed plane lying in ${\bf T}^2$. The string loop threshold corrections to the
+gauge coupling constants are derived, and display symmetry groups for the $T$
+and $U$ moduli that are subgroups of the full modular group $PSL(2,Z)$. The
+effective potential for duality invariant gaugino condensate in the presence of
+hidden sector matter is constructed and minimized for the values of the moduli.
+The effect of Wilson lines on the modular symmetries is also studied.
+","[{""version"":""v1"",""created"":""Fri, 8 Jul 1994 14:22:11 GMT""}]","2015-06-26"
+"nucl-th/9407014",,"David Seibert and George Fai (Center for Nuclear Research, Department
+  of Physics, Kent State University, Kent, OH)","Heavy resonance production in high energy nuclear collisions","revtex, 15 pages, no figures, KSUCNR-009-94","Phys.Rev.C50:2532-2539,1994","10.1103/PhysRevC.50.2532",,"nucl-th hep-ph",,"  We estimate freezeout conditions for $s$, $c$, and $b$ quarks in high energy
+nuclear collisions. Freezeout is due either to loss of thermal contact, or to
+particles ``wandering'' out of the region of hot matter. We then develop a
+thermal recombination model in which both single-particle (quark and antiquark)
+and two-particle (quark-antiquark) densities are conserved. Conservation of
+two-particle densities is necessary because quarks and antiquarks are always
+produced in coincidence, so that the local two-particle density can be much
+larger than the product of the single-particle densities. We use the freezeout
+conditions and recombination model to discuss heavy resonance production at
+zero baryon density in high energy nuclear collisions.
+","[{""version"":""v1"",""created"":""Thu, 7 Jul 1994 21:00:48 GMT""}]","2008-11-26"
+"nucl-th/9407015","Jochen Wambach","S. Drozdz, S. Nishizaki, J.Speth and J. Wambach","Phase-Space Exploration in Nuclear Giant Resonance Decay","LATEX, 11 pages +4 figures, figs. available from the authors,
+  preprint KFA-IKP(TH)-1994-24","Phys.Rev.Lett. 74 (1995) 1075-1078","10.1103/PhysRevLett.74.1075",,"nucl-th",,"  The rate of phase-space exploration in the decay of isovector and isoscalar
+giant quadrupole resonances in $^{40}$Ca is analyzed. The study is based on the
+time dependence of the survival probability and of the spectrum of generalized
+entropies evaluated in the space of 1p-1h and 2p-2h states. If the 2p-2h
+background shows the characteristics typical for chaotic systems, the isovector
+excitation evolves almost statistically while the isoscalar excitation remains
+largely localized, even though it penetrates the whole available phase space.
+","[{""version"":""v1"",""created"":""Fri, 8 Jul 1994 12:19:42 GMT""}]","2009-10-28"
+"nucl-th/9407016",,"G. Q. Li and C. M. Ko","Can dileptons reveal the in-medium properties of vector mesons?","22 pages, 11 figures available upon request to gqli@comp.tamu.edu","Nucl.Phys. A582 (1995) 731-748","10.1016/0375-9474(94)00500-M",,"nucl-th",,"  Dilepton production from both pion-pion and kaon-antikaon annihilation in
+heavy-ion collisions is studied using the relativistic transport model. The
+formation of a rho meson from pion-pion annihilation and a phi meson from
+kaon-antikaon annihilation, their propagation in the medium, and their decay
+into dileptons are explicitly treated. Including the medium modifications of
+the masses and widths of vector mesons as predicted by the QCD sum-rule
+calculations, we study their effects on the dilepton invariant mass spectra
+from heavy-ion collisions at SIS/GSI energies.
+","[{""version"":""v1"",""created"":""Fri, 8 Jul 1994 15:06:55 GMT""}]","2009-10-28"
+"nucl-th/9407017",,"G. Q. Li and C. M. Ko","Antiproton production in Ni+Ni collisions at 1.85 GeV/nucleon","10 pages, 4 figures available upon request to gqli@comp.tamu.edu.
+  TAMUNT-9404","Phys.Rev.C50:1725-1728,1994","10.1103/PhysRevC.50.1725",,"nucl-th",,"  Antiproton production in Ni+Ni collisions at 1.85 GeV/nucleon is studied in
+the relativistic Vlasov-Uehling-Uhlenbeck model. The self-energies of the
+antiproton are determined from the nucleon self-energies by the G-parity
+transformation. Also, the final-state interactions of the antiproton including
+both rescattering and annihilation are explicitly treated. With a soft nuclear
+equation of state, the calculated antiproton momentum spectrum is in good
+agreement with recent experimental data from the heavy-ion synchrotron at GSI.
+The effect due to the reduced nucleon and antinucleon masses in a medium is
+found to be more appreciable than in earlier Bevalac experiments with lighter
+systems and at higher energies.
+","[{""version"":""v1"",""created"":""Fri, 8 Jul 1994 15:46:30 GMT""}]","2009-09-25"
+"nucl-th/9407018",,"X. S. Fang, C. M. Ko, G. Q. Li, and Y. M. Zheng","The relativistic transport model description of subthreshold kaon
+  production in heavy-ion collisions","27 pages, 16 figures available upon request to gqli@comp.tamu.edu.
+  TAMUNT-9405","Nucl.Phys.A575:766-790,1994","10.1016/0375-9474(94)90165-1",,"nucl-th",,"  The relativistic transport model, in which the nucleon effective mass is
+connected to the scalar field while its energy is shifted by the vector
+potential, is extended to include the kaon degree of freedom. We further take
+into account the medium modification of the kaon mass due to the explicit
+chiral symmetry breaking. Both the propagation of kaons in the mean-field
+potential and the kaon-baryon elastic scattering are explicitly treated in our
+study. We find that the attractive kaon scalar mean-field potential in the
+dense matter leads to an enhanced kaon yield in heavy-ion collisions at
+energies of about 1 GeV/nucleon. The final-state kaon-baryon scattering is seen
+to affect significantly the kaon momentum spectra, leading to an enhanced yield
+of kaons with large momenta or at large laboratory angles. With a soft nuclear
+equation of state and including the attractive kaon scalar potential, the
+calculated kaon energy spectra agree with the data from the heavy-ion
+synchrotron at GSI.
+","[{""version"":""v1"",""created"":""Fri, 8 Jul 1994 15:55:43 GMT""}]","2011-07-19"

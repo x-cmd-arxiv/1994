@@ -1,0 +1,271 @@
+"alg-geom/9408005","Dr A. D. King","A.D. King and P.E. Newstead","Moduli of Brill-Noether pairs on algebraic curves","14 pages, plain TeX",,,,"alg-geom math.AG",,"  We construct coarse moduli spaces for `Brill-Noether pairs'. Such a pair
+consists of a torsion-free sheaf $E$ over an algebraic curve $X$ and a vector
+subspace $\Lambda$ of its space of sections $H^0(E)$. The construction works
+for an arbitrary singular curve $X$ of pure dimension and for all values of the
+positive rational parameter $\alpha$ occurring in the stability condition.
+(Hard copies available on request.)
+","[{""version"":""v1"",""created"":""Wed, 10 Aug 1994 16:45:25 GMT""}]","2008-02-03"
+"astro-ph/9408030","C. Bird","Keith M. Ashman, Christina M. Bird, and Steven E. Zepf","Detecting Bimodality in Astronomical Datasets","32 pages","Astron.J. 108 (1994) 2348-2361","10.1086/117248",,"astro-ph",,"  We discuss statistical techniques for detecting and quantifying bimodality in
+astronomical datasets. We concentrate on the KMM algorithm, which estimates the
+statistical significance of bimodality in such datasets and objectively
+partitions data into sub-populations. By simulating bimodal distributions with
+a range of properties we investigate the sensitivity of KMM to datasets with
+varying characteristics. Our results facilitate the planning of optimal
+observing strategies for systems where bimodality is suspected.
+Mixture-modeling algorithms similar to the KMM algorithm have been used in
+previous studies to partition the stellar population of the Milky Way into
+subsystems. We illustrate the broad applicability of KMM by analysing published
+data on globular cluster metallicity distributions, velocity distributions of
+galaxies in clusters, and burst durations of gamma-ray sources. PostScript
+versions of the tables and figures, as well as FORTRAN code for KMM and
+instructions for its use, are available by anonymous ftp from
+kula.phsx.ukans.edu.
+","[{""version"":""v1"",""created"":""Wed, 10 Aug 1994 19:39:27 GMT""}]","2009-10-22"
+"astro-ph/9408031","Ermanno Borra","M. Beauchemin and E.F. Borra","A Survey of Galaxy Redshifts from Low-Resolution Slitless Spectra:
+  Suggestion of Large-Scale Structures at Z ~0.1","28 pages + 4 figures, uuencoded-compressed-Postscript, EFB08294",,"10.1093/mnras/270.4.811",,"astro-ph",,"  We have conducted a galaxy survey based on low-resolution slitless spectra
+taken from the automated CFHT-Laval survey. We present redshift distributions
+for 522 galaxies distributed in 4 distinct regions of the sky. Redshifts are
+determined from the shifted positions of the 4000 A. stellar break using an
+automated break-finding algorithm. The redshifts so obtained have a precision
+of < 3000 km s-1, good enough to trace the large-scale distribution of
+galaxies. The most striking feature of the survey is an apparent excess of
+galaxies at z ~ 0.1 in 8 of the 10 fields probed. Although the statistical
+significance of the peaks appears marginal (~ 2.5s per field) after taken in
+account the small-scale galaxy clustering, the peaks may nevertheless reveal
+the existence of large-scale structures at z ~ 0.1, indicating that the known
+large structures in the local universe are not unusual.
+","[{""version"":""v1"",""created"":""Wed, 10 Aug 1994 20:32:25 GMT""}]","2015-06-24"
+"astro-ph/9408032","Andrew Gould","Andrew Gould","Macho Parallaxes From A Single Satellite","12 pages, request PostScript file to gould@payne.mps.ohio-state.edu,
+  OSU-TA-15/94",,"10.1086/187779",,"astro-ph",,"  Massive Compact Objects (Machos) are currently being discovered at
+substantially higher rates than would be expected from standard models of known
+stellar populations. To determine whether they are due to non-standard distri-
+butions of known populations or to a heretofore unknown (`dark') population,
+one must acquire more information about the individual events. Space-based
+parallaxes are potentially the best tool for extracting additional information.
+To leading order, parallax measurements by a single satellite result in a four-
+fold degeneracy: two possible values of $\tilde v$ and two possible signs for
+the component of motion perpendicular to the projected satellite-Earth vector.
+It had been believed that a second satellite would be required to break this
+degeneracy. I show that the velocity difference between the satellite and the
+Earth allows one to partially or totally break the degeneracy using a single
+satellite. For most Macho events it is possible to measure $\tilde v$ and
+$\tilde r_e$. For some it is also possible to measure $\Phi$. The proposed
+Space Infrared Telescope could measure $\sim 100$ parallaxes per year by
+applying $\sim 400\,$hr of telescope time.
+","[{""version"":""v1"",""created"":""Wed, 10 Aug 1994 22:34:59 GMT""}]","2009-10-22"
+"astro-ph/9408033","Michael Briley","M. M. Briley, J. E. Hesser, R. A. Bell, M. Bolte and G. H. Smith","Anticorrelated CN and CH Variations on the 47 Tucanae Main-Sequence
+  Turnoff","11 pages in uuencoded compressed postscript (including all figures),
+  to appear in the December 1994 Astronomical Journal",,"10.1086/117229",,"astro-ph",,"  Observations of CN and CH band strengths among a random sample of
+main-sequence turn-off stars (+3.9 < MV < +4.6) in the globular cluster 47 Tuc
+(NGC 104, C0021-723) were made with the CTIO Argus fiber spectrograph for the
+purpose of determining the ratio of CN-strong to CN-weak stars and
+investigating the behavior of CH relative to CN. Of the 20 turn-off stars, 12
+were found to be CN-strong while 8 appear to be CN-weak. This ratio of
+CN-strong to CN-weak stars is similar to the ratios found among the more
+luminous 47 Tuc stars and implies little change in the overall distribution of
+CN with evolutionary state, although the present sample size is small. A
+general anticorrelation between CN and CH is also observed in that the CN-weak
+main-sequence stars all (with one possible exception) exhibit strong CH bands -
+a trend similar to that found among the brighter stars. That these variations
+occur among such relatively un-evolved stars and that the overall CN
+distribution appears to be independent of evolutionary state presents serious
+challenges to internal or mixing theories of their origin. We therefore suggest
+that at least some component of the C and N abundance inhomogeneities observed
+among the brighter (more evolved) stars of this cluster appears to have been
+established prior to the commencement of evolution up the red giant branch.
+","[{""version"":""v1"",""created"":""Thu, 11 Aug 1994 00:30:45 GMT""}]","2009-10-22"
+"cond-mat/9408034","Keith","CJ Mellor, RH Eyles, JE Digby, AJ Kent, KA Benedict, LJ Challis, M
+  Henini, CT Foxon and JJ Harris","Phonon Absorption at the Magneto-Roton Minimum in the Fractional Quantum
+  Hall Effect","12 pages. Typeset using RevTex. Report Number NU-PH-032",,"10.1103/PhysRevLett.74.2339",,"cond-mat",,"  We have made the first phonon absorption measurements in the fractional
+quantum Hall r\'egime. Experiments have been conducted on two samples which
+have similar electron densities but greatly differing mobilities. The energy
+gaps as measured by activation studies of the longitudinal resistance differ by
+a factor of two. Phonon absorption measurements give almost identical values
+for the energy gap demonstrating that the gap measured in this way is rather
+insensitive to disorder. The value of this gap is in agreement with the
+activation gap measured in the high mobility sample. Values obtained at
+$\nu=2/3$ are in good agreement with theory.
+","[{""version"":""v1"",""created"":""Wed, 10 Aug 1994 17:56:52 GMT""}]","2009-10-22"
+"cond-mat/9408035","Klaus Ziegler","K. Ziegler","Integer Quantum Hall Effect for Lattice Fermions","9 pages, Plain-TeX",,"10.1209/0295-5075/28/1/009",,"cond-mat",,"  A two-dimensional lattice model for non-interacting fermions in a magnetic
+field with half a flux quantum per plaquette and $N$ levels per site is
+considered. This is a model which exhibits the Integer Quantum Hall Effect
+(IQHE) in the presence of disorder. It presents an alternative to the
+continuous picture for the IQHE with Landau levels. The large $N$ limit can be
+solved: two Hall transitions appear and there is an interpolating behavior
+between the two Hall plateaux. Although this approach to the IQHE is different
+from the traditional one with Landau levels because of different symmetries
+(continuous for Landau levels and discrete here), some characteristic features
+are reproduced. For instance, the slope of the Hall conductivity is infinite at
+the transition points and the electronic states are delocalized only at the
+transitions.
+","[{""version"":""v1"",""created"":""Wed, 10 Aug 1994 17:23:12 GMT""}]","2009-10-22"
+"cond-mat/9408036","Meb Alouani","M. Alouani, J. W. Wilkins, R. C. Albers, and J. M. Wills","Alouani {\it et al.} Reply to Comment on Tuning of the CDW in MX Chains","RevTex + 2 uuencoded postscript figures",,,,"cond-mat",,"  This is a reply to J. T. Gammel's Comment (9404047) on Tuning of the CDW in
+MX Chains. We show that while the harmonic elastic energy can fit a small
+region around zero dimerization, it is insufficient to treat the large
+amplitude CDW of the MX systems which was the main physics of our Letter (Phys.
+Rev. Lett. {\bf 71}, 1415 (1993)). We also stress that \underline{anharmonic}
+elastic potentials are {\it essential} to explain the charge-density-wave
+systematics of an entire class of MX material.
+","[{""version"":""v1"",""created"":""Wed, 10 Aug 1994 21:58:46 GMT""}]","2007-05-23"
+"cond-mat/9408037","Chao Tang","Colin Denniston and Chao Tang","Dynamics of a Driven Single Flux Line in Superconductors","10 pages with 4 figures, REVTEX","Phys. Rev. B Vol. 51, 8457 (1995)","10.1103/PhysRevB.51.8457",,"cond-mat",,"  We study the low temperature dynamics of a single flux line in a bulk type-II
+superconductor, driven by a surface current, both near and above the onset of
+an instability which sets in at a critical driving. We found that above the
+critical driving, the velocity profile of the flux line develops a
+discontinuity.
+","[{""version"":""v1"",""created"":""Wed, 10 Aug 1994 22:37:08 GMT""}]","2009-10-22"
+"cond-mat/9408038","Frithjof Anders","F.B. Anders","Beyond the Nca: New Results for the Spectral Properties of the Anderson
+  Model","3 pages including 4 figures, Postscript file, self-extracting shell
+  script;(submitted to the SCES 94 Conference, Amsterdam)",,"10.1016/0921-4526(94)00400-P",,"cond-mat",,"  In the framework of direct perturbation theory a fully self-consistent
+approximation beyond the well known NCA will be presented for the Anderson
+Model. The resummation of a class of skeleton diagrams up to infinite order in
+$V$ includes all contribution up to the order $O(1/N^2)$ ( $N$ = degeneracy of
+the magnetic state). Qualitative improvements in maintaining local Fermi-Liquid
+relations and one-particle spectral properties in comparison to the well known
+NCA will be reported. The location and temperature dependence of the
+AS-resonance for the case $N=2$ is found to be rather close to the chemical
+potential in excellent agreement with Friedel's sum rule; the static magnetic
+susceptibility exhibits the same $N$-dependence as the exact {\em Bethe-Ansatz}
+solution.
+","[{""version"":""v1"",""created"":""Thu, 11 Aug 1994 11:55:00 GMT""}]","2009-10-22"
+"gr-qc/9408013","Tim Foxon","Timothy J. Foxon","Spin Networks, Turaev-Viro Theory and the Loop Representation","19 pages in Plain TeX, DAMTP-R-94/30","Class.Quant.Grav.12:951-964,1995","10.1088/0264-9381/12/4/006",,"gr-qc hep-th",,"  We investigate the Ponzano-Regge and Turaev-Viro topological field theories
+using spin networks and their $q$-deformed analogues. I propose a new
+description of the state space for the Turaev-Viro theory in terms of skein
+space, to which $q$-spin networks belong, and give a similar description of the
+Ponzano-Regge state space using spin networks.
+  I give a definition of the inner product on the skein space and show that
+this corresponds to the topological inner product, defined as the manifold
+invariant for the union of two 3-manifolds.
+  Finally, we look at the relation with the loop representation of quantum
+general relativity, due to Rovelli and Smolin, and suggest that the above inner
+product may define an inner product on the loop state space.
+","[{""version"":""v1"",""created"":""Wed, 10 Aug 1994 16:46:25 GMT""}]","2010-04-06"
+"gr-qc/9408014","Robert H. Gowdy","Robert H. Gowdy","Affine projection tensor geometry: Lie derivatives and isometries","23 pages RevTeX","J.Math.Phys. 36 (1995) 1882-1907; Erratum-ibid. 36 (1995) 5200","10.1063/1.531092",,"gr-qc",,"  The generalized projection-tensor geometry introduced in an earlier paper is
+extended. A compact notation for families of projected objects is introduced
+and used to summarize the results of the previous paper and obtain fully
+projected decompositions of Lie derivatives of the projection tensor field, the
+metric and the projected parts of the metric. These results are applied to the
+analysis of spacetimes with isometries. The familiar cases of spacetimes with
+isotropic group orbits --- cosmological models and spherical symmetry --- are
+discussed as illustrations of the results.
+","[{""version"":""v1"",""created"":""Wed, 10 Aug 1994 18:10:21 GMT""}]","2009-10-22"
+"hep-ph/9408265",,"H. Baer, C. H. Chen, R. Munroe, F. Paige and X. Tata","Multi-Channel Search for Minimal Supergravity at $p\bar p$ and $e^+e^-$
+  Colliders","preprint nos. FSU-HEP-940625 and UH-511-795-94, 11 pages (REVTEX)
+  plus 2 uuencoded figures attached","Phys.Rev.D51:1046-1050,1995","10.1103/PhysRevD.51.1046",,"hep-ph",,"  We examine the phenomenology of minimal supergravity models, assuming only
+that the low energy theory has the minimal particle content, that electroweak
+symmetry is radiatively broken, and that R-parity is essentially conserved.
+After delineating regions of supergravity parameter space currently excluded by
+direct particle searches at LEP and the Tevatron, we quantify how this search
+region will be expanded when LEP~II and the Tevatron Main Injector upgrades
+become operational. We describe how various experimental analyses can be
+consistently combined within a single framework, resulting in a multi-channel
+search for supersymmetry, but note that this analysis is sensitive to specific
+assumptions about physics at the unification scale.
+","[{""version"":""v1"",""created"":""Wed, 10 Aug 1994 19:39:54 GMT""}]","2009-02-11"
+"hep-ph/9408266",,"Su Houng Lee, Chungsik Song and Hiroyuki Yabu","Photon Vector Meson Coupling and Vector Meson Properties at Low
+  Temperature Pion Gas","13 pages, Revtex, 3 figures (available upon request),
+  DOE/ER/40427-15-N94,TMU-NT940801","Phys.Lett. B341 (1995) 407-412","10.1016/0370-2693(94)01332-7",,"hep-ph nucl-th",,"  The vector and axial vector current mixing phenomena at low temperature pion
+gas by Dey, Eletsky and Ioffe, leads to the low temperature correction of the
+photon-vector meson coupling ($g_\rho$) at order $\epsilon=T^2/6f_\pi^2$ and
+the $\rho$ meson mass at order $\epsilon^2$. We show how this {\it low
+temperature theorems} involving the photon and vector mesons are satisfied in
+the chiral models based on hidden gauge symmetry and the massive Yang-Mills
+approach with an explicit $a_1$ meson. We discuss possible phenomenological
+consequences of the low temperature corrections in RHIC experiments.
+","[{""version"":""v1"",""created"":""Wed, 10 Aug 1994 19:52:36 GMT""}]","2009-10-28"
+"hep-ph/9408267",,"Zygmunt Lalak and Rudolf Poppe","Quantum Inflation?","11 pages, prep. TUM-HEP-207/94, 4 uuencoded tar-compressed figures",,,,"hep-ph",,"  We consider curved space quantum corrections to the equations of motion of
+the inflaton field in the early Universe. Using the stochastic formalism in
+phase space, we demonstrate that the quantum corrected evolution of the
+inflaton can differ dramatically from its classical evolution when the mass
+scales in the potential become large, which is naturally the case in
+fundamental theories describing Planck scale physics. Using the example of the
+cosine potential, we show that the prolonged, perhaps even eternal,
+quantum--inflationary period is expected with a significant probability. This
+feature of Planck scale potentials can be dangerous, but it offers also a
+possibility of creating the inflationary phase in string or supergravity
+models, where no natural realization of inflation has been found so far.
+","[{""version"":""v1"",""created"":""Wed, 10 Aug 1994 20:33:30 GMT""}]","2009-09-25"
+"hep-ph/9408268","Xerxes Tata","Xerxes Tata","Searching for Supersymmetry: A Minireview","8 pages, UH-511-794-94",,,,"hep-ph",,"  After a lightning review of current bounds on the masses of supersymmetric
+particles, we describe strategies that may be helpful for extracting signals
+from the production of squarks, gluinos or top squarks, and from associated
+chargino-neutralino production at the Tevatron. We then briefly review SUSY
+signals at hadron and $e^+e^-$ supercolliders. We discuss how various SUSY
+signals may be correlated within the supergravity framework and indicate the
+sense in which $e^+e^-$ and hadron colliders may be complementary. **Presented
+at the Eighth DPF Meeting, Albuquerque, NM, August, 1994**
+","[{""version"":""v1"",""created"":""Wed, 10 Aug 1994 22:05:31 GMT""}]","2007-05-23"
+"hep-ph/9408269",,"Michael E. Peskin","Complementarity of $e^+e^-$ and $pp$ Colliders for the Exploration of
+  Electroweak Symmetry Breaking","phyzzx macropackage, 30 pp",,,"SLAC-PUB-6582","hep-ph",,"  I review the physics capabilities of the machines proposed for the next
+generation of high-energy experimentation: in hadron physics, the LHC, and in
+electron physics, a $500$--$1500$ GeV $e^+e^-$ linear collider. Using for
+illustration two specific models of electroweak symmetry breaking, I show how
+the $pp$ and $e^+e^-$ techniques are expected to complement one another in the
+exploration of the next scale of physics. [invited lecture at the 22nd INS
+Symposium, Tokyo] (text only; complete paper with figures and tables available
+by anonymous ftp from preprint.slac.stanford.edu, in the directory
+pub/preprints/hep-ph/9408)
+","[{""version"":""v1"",""created"":""Thu, 11 Aug 1994 02:00:00 GMT""}]","2007-05-23"
+"hep-ph/9408270",,"Sandip Pakvasa","Charm as Probe of New Physics","11 pages,UH-511-797-94,(talk presented at Charm 2000)","Chin.J.Phys.32:1163-1172,1994",,,"hep-ph",,"  In this talk I would like to discuss two aspects of charm physics. One is to
+show that many standard model predictions for rare decay modes (along with $D^0
+-\bar{D}^0$ mixing and CP violation) are extremely small thus opening a window
+for new physics effects\cite{1}; and the other is to review the expectations
+from several plausible and interesting new physics possibilities.
+","[{""version"":""v1"",""created"":""Thu, 11 Aug 1994 02:50:43 GMT""}]","2011-04-15"
+"hep-th/9408063","Swapna Mahapatra","Swapna Mahapatra and Sudipta Mukherji","Tachyon Condensates and Anisotropic Universe","12 pages, IC/94/116, IMSC/94/31","Mod.Phys.Lett. A10 (1995) 183-192","10.1142/S0217732395000211",,"hep-th",,"  We investigate the cosmological solutions in closed bosonic string theory in
+the presence of non zero tachyon condensate. We specifically obtain time
+dependent solutions which describe an anisotropic universe. We also discuss the
+nature of such time dependent solutions when small tachyon fluctuations around
+the condensate are taken into account.
+","[{""version"":""v1"",""created"":""Wed, 10 Aug 1994 22:05:49 GMT""}]","2009-10-28"
+"hep-th/9408064","Michael Penkava","Michael Penkava and Albert Schwarz","$A_\infty$ Algebras and the Cohomology of Moduli Spaces","17 pages, 3 figures. Final version as published, fixes problems in
+  texing earlier version. Revised to eliminate appendices. Uses boxedeps.tex
+  for figures",,,,"hep-th math.QA",,"  We introduce the notion of cyclic cohomology of an A-infinity algebra and
+show that the deformations of an A-infinity algebra which preserve an invariant
+inner product are classified by this cohomology. We use this result to
+construct some cycles on the moduli space of algebraic curves. The paper also
+contains a review of some well known notions and results about Hochschild and
+cyclic cohomology of associative algebras, A-infinity algebras, and deformation
+theory of algebras, and includes a discussion of the homology of the graph
+complex of metric ribbon graphs which is associated to the moduli space of
+Riemann surfaces with marked points.
+","[{""version"":""v1"",""created"":""Wed, 10 Aug 1994 22:35:07 GMT""},{""version"":""v2"",""created"":""Tue, 31 Oct 1995 22:59:17 GMT""}]","2008-02-03"
+"hep-th/9408065",,"I. Tsutsui and L. Feher","Global Aspects of the WZNW Reduction to Toda Theories","22 pages, INS-Rep.-1048","Prog.Theor.Phys.Suppl.118:173-190,1995","10.1143/PTPS.118.173",,"hep-th",,"  It is well-known that the Toda Theories can be obtained by reduction from the
+Wess-Zumino-Novikov-Witten (WZNW) model, but it is less known that this WZNW
+$\rightarrow$ Toda reduction is \lq incomplete'. The reason for this
+incompleteness being that the Gauss decomposition used to define the Toda
+fields from the WZNW field is valid locally but not globally over the WZNW
+group manifold, which implies that actually the reduced system is not just the
+Toda theory but has much richer structures. In this note we furnish a framework
+which allows us to study the reduced system globally, and thereby present some
+preliminary results on the global aspects. For simplicity, we analyze primarily
+0 $+$ 1 dimensional toy models for $G = SL(n, {\bf R})$, but we also discuss
+the 1 $+$ 1 dimensional model for $G = SL(2, {\bf R})$ which corresponds to the
+WZNW $\rightarrow$ Liouville reduction.
+","[{""version"":""v1"",""created"":""Thu, 11 Aug 1994 07:58:48 GMT""}]","2008-11-26"
+"hep-th/9408066","Sergey Solodukhin","Dmitri Fursaev","Black-hole thermodynamics and renormalization","11 pages, preprint DSF-32/94","Mod.Phys.Lett. A10 (1995) 649-656","10.1142/S0217732395000697",,"hep-th",,"  Ultraviolet regime in quantum theory with horizons, contrary to ordinary
+theory, depends on the temperature of the system due to additional surface
+divergences in the effective action. We evaluate their general one-loop
+structure paying attention to effects of the curvature of the space-time near
+the horizon. In particular, apart from the area term, the entropy of a black
+hole is shown to acquire a topological correction in the form of the integral
+curvature of the horizon. To get the entropy, heat capacity and other
+thermodynamical quantities finite, such a kind of singularities should be
+removed by renormalization of a number of constants in a surface functional
+introduced in the effective action at arbitrary temperature. We also discuss a
+discrepancy in the different regularization techniques.
+","[{""version"":""v1"",""created"":""Thu, 11 Aug 1994 11:06:00 GMT""}]","2009-10-28"
+"hep-th/9408067","Silvio Paolo Sorella","Vitor Lemes, Ricardo Renan and S. P. Sorella","Algebraic renormalization of antisymmetric tensor matter fields","12 pages, report C.B.P.F ref. 032/94","Phys.Lett. B344 (1995) 158-163","10.1016/0370-2693(94)01492-U",,"hep-th",,"  The algebraic renormalization of a recently proposed abelian axial gauge
+model with antisymmetric tensor matter fields is presented.
+","[{""version"":""v1"",""created"":""Thu, 11 Aug 1994 15:13:42 GMT""}]","2009-10-28"
+"nucl-th/9408012","Christine Sauermann","Ch. Sauermann, B.L. Friman and W. N\""orenberg","Resonance Model for $\pi$N Scattering and $\eta$-Meson Production in the
+  s$_{11}$ Channel","LaTex 10 pages, 4 figures (not included;the postscript-figures are
+  available from ftp@tpri6f.gsi.de in subdirectory pub/sauerman, files:
+  fig1.ps, fig2.ps,fig3.ps,fig4.ps- or contact the authors via e-mail),
+  GSI-94-45","Phys.Lett.B341:261-267,1995","10.1016/0370-2693(94)01372-J",,"nucl-th hep-ph",,"  A model for $\pi$N scattering and $\eta$-meson production in the S$_{11}$
+channel is presented. The model includes $\pi$N-scattering Born terms as well
+as the N$^*${} resonances S$_{11}$(1535) and S$_{11}$(1610). The $T$-matrix is
+computed in the $K$-matrix approximation. The parameters of the model are
+determined by fitting the elastic $\pi$N-scattering $T$-matrix to empirical
+data. We find an excellent fit for all energies up to $\sqrt{s}$ = 1.75 GeV.
+Furthermore, a good description of the cross section for $\pi^- + p \rightarrow
+\eta + n$ is obtained without further adjustment of parameters.
+","[{""version"":""v1"",""created"":""Thu, 11 Aug 1994 09:10:42 GMT""}]","2009-09-25"

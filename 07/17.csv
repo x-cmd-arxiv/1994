@@ -1,0 +1,128 @@
+"cmp-lg/9407014","Shuly Wintner","Shuly Wintner (Technion, Israel Institute of Technology) and Nissim
+  Francez (Technion, Israel Institute of Technology)","Abstract Machine for Typed Feature Structures","38 pages, uuencoded compressed postscript",,,"TR #LCL 94-8, Laboratory for Computational Linguistics, Technion","cmp-lg cs.CL",,"  This paper describes a first step towards the definition of an abstract
+machine for linguistic formalisms that are based on typed feature structures,
+such as HPSG. The core design of the abstract machine is given in detail,
+including the compilation process from a high-level specification language to
+the abstract machine language and the implementation of the abstract
+instructions. We thus apply methods that were proved useful in computer science
+to the study of natural languages: a grammar specified using the formalism is
+endowed with an operational semantics. Currently, our machine supports the
+unification of simple feature structures, unification of sequences of such
+structures, cyclic structures and disjunction.
+","[{""version"":""v1"",""created"":""Sun, 17 Jul 1994 06:33:35 GMT""}]","2008-02-03"
+"cond-mat/9407073",,"M. C. Diamantini, P. Sodano, C. A. Trugenberger","Oblique Confinement and Phase Transitions in Chern-Simons Gauge Theories","8 pages, harvmac, DFUPG 91/94 and MPI-PhT/94-92","Phys.Rev.Lett. 75 (1995) 3517-3520","10.1103/PhysRevLett.75.3517",,"cond-mat hep-th",,"  We investigate non-perturbative features of a planar Chern-Simons gauge
+theory modeling the long distance physics of quantum Hall systems, including a
+finite gap M for excitations. By formulating the model on a lattice, we
+identify the relevant topological configurations and their interactions. For M
+bigger than a critical value, the model exhibits an oblique confinement phase,
+which we identify with Lauglin's incompressible quantum fluid. For M smaller
+than the critical value, we obtain a phase transition to a Coulomb phase or a
+confinement phase, depending on the value of the electromagnetic coupling.
+","[{""version"":""v1"",""created"":""Sat, 16 Jul 1994 17:08:00 GMT""}]","2009-10-22"
+"hep-ph/9407310",,"Ketino Aladashvili and Murman Margvelashvili","Determination of QCD Condensates Without Hadronic Spectra","Latex file, 9 pages, 4 figures available on request from
+  mm@infn.ferrara.it INFN-FE 07-94","Phys.Lett. B339 (1994) 263-269","10.1016/0370-2693(94)90642-4",,"hep-ph",,"  The bounds on the values of gluon, four-quark and quark-gluon condensates are
+derived from the requirement of consistency of the sum rules for various
+correlators of the hybrid current $a_{\mu}=g\bar d\gamma_{\rho}\tilde
+G_{\rho\mu}u$. The upper bound for the gluon condensate is found to be less
+then twice its standard value while for the four-quark condensates the
+violation of factorization by a factor 3-4 is allowed. The value of the
+quark-gluon condensate is given as a function of $\left<\frac{\alpha_s}{\pi}
+G^2\right>$ and $\left<(\bar q\Gamma q)^2\right >$ which for the standard
+values yields $m_0^2=0.63~\mbox{GeV}^2$ . Our procedure of simultaneous
+solution of a number of sum rules allows the quantitative error analysis and is
+appropriate for condensate determination also in other cases.
+","[{""version"":""v1"",""created"":""Sat, 16 Jul 1994 22:56:19 GMT""}]","2009-10-28"
+"hep-ph/9407311","Bob Holdom","B. Holdom","Hints of New Flavor Physics at LEP?","8 pages, LaTeX, UTPT-94-20. (Version to be published - some
+  discussion added.)","Phys.Lett.B339:114-118,1994","10.1016/0370-2693(94)91142-8",,"hep-ph",,"  A massive gauge boson coupling to the third family but not lighter families
+mixes with the $Z$. The $Z$ partial width to $b\overline{b}$ increases, the
+$\tau$ asymmetry parameter increases, the invisible width of the $Z$ decreases,
+and $\alpha_s(m_Z)$ decreases, all in a manner consistent with present data.
+","[{""version"":""v1"",""created"":""Sun, 17 Jul 1994 13:42:31 GMT""},{""version"":""v2"",""created"":""Thu, 29 Sep 1994 04:00:59 GMT""}]","2010-11-01"
+"hep-th/9407099",,"A.A. Tseytlin","Exact string solutions and duality","31 p., harvmac, Imperial/TP/93-94/46",,,,"hep-th",,"  We review known exact classical solutions in (bosonic) string theory. The
+main classes of solutions are `cosets' (gauged WZW models), `plane wave'-type
+backgrounds (admitting a covariantly constant null Killing vector) and
+`$F$-models' (backgrounds with two null Killing vectors generalising the
+`fundamental string' solution). The recently constructed $D=4$ solutions with
+Minkowski signature are given explicitly. We consider various relations between
+these solutions and, in particular, discuss some aspects of the duality
+symmetry. [To appear in the Proceedings of the 2nd Journe'e Cosmologie,
+Observatoire de Paris, June 2-4, 1994.]
+","[{""version"":""v1"",""created"":""Sun, 17 Jul 1994 11:43:50 GMT""},{""version"":""v2"",""created"":""Mon, 18 Jul 1994 10:18:27 GMT""}]","2008-02-03"
+"hep-th/9407100","Youngjai Kiem","Youngjai Kiem","Phase Transition in Spherically Symmetric Gravitational Collapse of a
+  Massless Scalar Field","9 pages,PUPT-1484",,,,"hep-th",,"  Phase transition in spherically symmetric collapse of a massless scalar field
+is studied in 4-d Einstein gravity. A class of exact solutions that show the
+evolution of a constant incoming energy flux turned on at a point in the past
+null infinity are constructed to serve as an explicit example. The recently
+discovered phase transition in this system via numerical methods
+\cite{choptuik} is manifest; above a threshold value of the incooming energy
+flux, a black hole is dynamically formed and below that, the incoming flux is
+reflected forward into the future null infinity. The critical exponent is
+evaluated and discussed using the solutions.
+","[{""version"":""v1"",""created"":""Sun, 17 Jul 1994 15:54:32 GMT""}]","2007-05-23"
+"math/9407204","Joerg Brendle","J\""org Brendle","Strolling through Paradise",,,,"Logic E-prints July 17, 1994","math.LO",,"  With each of the usual tree forcings I (e.g., I = Sacks forcing S, Laver
+forcing L, Miller forcing M, Mathias forcing R, etc.) we associate a
+sigma--ideal i^0 on the reals as follows: A \in i^0 iff for all T \in I there
+is S \leq T (i.e. S is stronger than T or, equivalently, S is a subtree of T)
+such that A \cap [S] = \emptyset, where [S] denotes the set of branches through
+S. So, s^0 is the ideal of Marczewski null sets, r^0 is the ideal of Ramsey
+null sets (nowhere Ramsey sets) etc.
+  We show (in ZFC) that whenever i^0, j^0 are two such ideals, then i^0 \sem
+j^0 \neq \emptyset. E.g., for I=S and J=R this gives a Marczewski null set
+which is not Ramsey, extending earlier partial results by Aniszczyk,
+Frankiewicz, Plewik, Brown and Corazza and answering a question of the latter.
+In case I=M and J=L this gives a Miller null set which is not Laver null; this
+answers a question addressed by Spinas.
+  We also investigate the question which pairs of the ideals considered are
+orthogonal and which are not.
+  Furthermore we include Mycielski's ideal P_2 in our discussion.
+","[{""version"":""v1"",""created"":""Sun, 17 Jul 1994 00:00:00 GMT""}]","2016-09-06"
+"math/9407205","Joerg Brendle","J\""org Brendle","Mutually Generics and Perfect Free Subsets",,,,"Logic E-prints July 17, 1994","math.LO",,"  We discuss ways of adjoining perfect sets of mutually generic random reals.
+In particular, we show that if V \sub W are models of ZFC and W contains a
+dominating real over V, then W[r], where r is random over W, contains a perfect
+tree of mutually random reals over V. This result improves an earlier result by
+Bartoszynski and Judah and sheds new light on an old Theorem of Mycielski's.
+  We also investigate the existence of perfect free subsets for projective
+functions f: (omega^omega)^n \to omega^omega. In particular, we prove that
+every projective function has a perfect free subset in the Cohen real model,
+while in the Sacks real model the following holds: every Delta^1_2-- function
+f: omega^omega \to omega^omega has a perfect free subset and there is a
+Delta^1_2--function f: (omega^omega)^2 \to omega^omega without perfect free
+subsets. This is connected with recent results of Mildenberger.
+  Finally, we show that the existence of a superperfect tree of Cohen reals
+over a model V of ZFC implies the existence of a dominating real over V, thus
+answering a question addressed by Spinas.
+","[{""version"":""v1"",""created"":""Sun, 17 Jul 1994 00:00:00 GMT""}]","2016-09-06"
+"math/9407206","Joerg Brendle","J\""org Brendle and Tim LaBerge","Forcing tightness in products of fans",,,,"Logic E-prints July 17, 1994","math.LO",,"  The theta--fan F_theta is the quotient space obtained by identifying the
+non--isolated points of the product theta \times (omega+1) with a single point
+\infty. (Here, theta has the discrete topology and omega+1 has the order
+topology.)
+  We define several notions of forcing that allow us to manipulate the
+tightness t of products of fans. Some consequences include: t (F_theta \times
+F_omega) = theta does not imply the existence of a (theta,omega)--gap, new
+examples of first countable <theta--collectionwise Hausdorff (cwH) spaces that
+are not \leq theta--cwH for singular cardinals theta, and for cardinals lambda
+\leq theta with cf(theta) \geq omega_1 and lambda regular, a first countable
+<theta--cwH not \leq theta--cwH space that can be made cwH by removing a closed
+discrete set of cardinality lambda. We also prove two theorems that
+characterize tightness of products of fans in terms of families of integer--
+valued functions.
+","[{""version"":""v1"",""created"":""Sun, 17 Jul 1994 00:00:00 GMT""}]","2016-09-06"
+"math/9407207","Joerg Brendle","J\""org Brendle and Saharon Shelah","Evasion and prediction II",,,,"Logic E-prints July 17, 1994; Shelah [BnSh:540]","math.LO",,"  A subgroup G \leq Z^omega exhibits the Specker phenomenon if every
+homomorphism G \to Z maps almost all unit vectors to 0. We give several
+combinatorial characterizations of the cardinal se, the size of the smallest G
+\leq Z^omega exhibiting the Specker phenomenon.
+  We also prove the consistency of b < e, where b is the unbounding number and
+e the evasion number introduced recently by Blass. Finally we show that e \geq
+\min { aleph_0--e , cov(M) }, where aleph_0--e is the aleph_0--evasion number
+(the uniformity of the evasion ideal) and cov(M) is the covering number of the
+meager ideal.
+  All these results can be dualized. They answer several questions addressed by
+Blass.
+","[{""version"":""v1"",""created"":""Sun, 17 Jul 1994 00:00:00 GMT""}]","2016-09-06"
+"math/9407208","Joerg Brendle","J\""org Brendle","Nicely generated and chaotic ideals",,,,"Logic E-prints July 17, 1994","math.LO",,"  We show that if the real line is the disjoint union of kappa meager sets such
+that every meager set is contained in a countable union of them, then kappa =
+omega_1. This answers a question addressed by J. Cichon. We also prove two
+theorems saying roughly that any attempt to produce the isomorphism type of the
+meager ideal in the Cohen real and the random real extensions must fail. All
+our results hold for ""meager"" replaced by ""null"", as well.
+","[{""version"":""v1"",""created"":""Sun, 17 Jul 1994 00:00:00 GMT""}]","2008-02-03"

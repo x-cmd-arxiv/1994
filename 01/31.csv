@@ -1,0 +1,215 @@
+"alg-geom/9401010","Viacheslav V. Nikulin","Viacheslav V. Nikulin","Diagram Method for 3-Folds and its Application to Kahler Cone and Picard
+  Number of Calabi-Yau 3-Folds, I. with Appendix by Vyacheslav V. Shokurov:
+  ""Anticanonical boundedness for curves""","62 pages, AMS-TEX, version 2,1",,,,"alg-geom math.AG",,"  We prove the general diagram method theorem valid for the quite large class
+of 3-folds with Q-factorial singularities (see Basic Theorem 1.3.2 and also
+Theorem 2.2.6). This gives the generalization of our results about Fano 3-folds
+with Q-factorial terminal singularities (Preprint alg-geom/9311007).
+  As an application, we get the following result about 3-dimensional Calabi-Yau
+manifolds X: Assume that the Picard number \rho (X) > 93. Then one of two cases
+(i) or (ii) holds:
+  (i) there exists a small extremal ray on X;
+  (ii) There exists a nef element h such that h^3=0 (thus, the nef cone NEF(X)
+and the cubic intersection hypersurface W_X have a common point; here, we don't
+claim that h is rational!).
+  As a corollary, we get: Let X be a 3-dimensional Calabi-Yau manifold. Assume
+that the nef cone NEF(X) is finite polyhedral and X does not have a small
+extremal ray. Then there exists a rational nef element h with h^3=0 if
+\rho(X)>93.
+  To prove these results about Calabi-Yau manifolds, we also use one result of
+V.V. Shokurov on the length of divisorial extremal rays (see Appendix by V.V.
+Shokurov). Thus, one should consider the results on Calabi-Yau 3-folds above as
+our common results with V.V. Shokurov.
+  We also discuss generalization of results above to so called Q-factorial
+models of Calabi-Yau 3-folds, which sometimes permits to involve non-polyhedral
+case and small extremal rays to the game.
+","[{""version"":""v1"",""created"":""Mon, 31 Jan 1994 11:21:48 GMT""},{""version"":""v2"",""created"":""Mon, 12 Sep 1994 08:46:25 GMT""}]","2008-02-03"
+"cond-mat/9401072","Marc Potters","Marc Potters and William Bialek","Statistical Mechanics and Visual Signal Processing","34pp, LaTeX, PUPT-1435","J. Phys. I France (1994) 1755-1775","10.1051/jp1:1994219",,"cond-mat q-bio",,"  The nervous system solves a wide variety of problems in signal processing. In
+many cases the performance of the nervous system is so good that it apporaches
+fundamental physical limits, such as the limits imposed by diffraction and
+photon shot noise in vision. In this paper we show how to use the language of
+statistical field theory to address and solve problems in signal processing,
+that is problems in which one must estimate some aspect of the environment from
+the data in an array of sensors. In the field theory formulation the optimal
+estimator can be written as an expectation value in an ensemble where the input
+data act as external field. Problems at low signal-to-noise ratio can be solved
+in perturbation theory, while high signal-to-noise ratios are treated with a
+saddle-point approximation. These ideas are illustrated in detail by an example
+of visual motion estimation which is chosen to model a problem solved by the
+fly's brain. In this problem the optimal estimator has a rich structure,
+adapting to various parameters of the environment such as the mean-square
+contrast and the correlation time of contrast fluctuations. This structure is
+in qualitative accord with existing measurements on motion sensitive neurons in
+the fly's brain, and we argue that the adaptive properties of the optimal
+estimator may help resolve conlficts among different interpretations of these
+data. Finally we propose some crucial direct tests of the adaptive behavior.
+","[{""version"":""v1"",""created"":""Sun, 30 Jan 1994 19:11:51 GMT""}]","2009-10-22"
+"cond-mat/9401073",,"Kazumasa Miyake and Osamu Narikiyo","Comment on `Anomalously Large Gap Anisotropy in the a-b Plane of
+  Bi$_2$Sr$_2$CaCu$_2$O$_{8+\delta}$'","5 pages, Submitted to the Comment section of Phys. Rev. Lett",,,,"cond-mat",,"  Comment on `Anomalously Large Gap Anisotropy in the a-b Plane of Bi$_{{\bf
+2}}$Sr$_{{\bf 2}}$CaCu$_{{\bf 2}}$O$_{{\bf 8+}{\delta}}$', Kazumasa Miyake and
+Osamu Narikiyo, In a recent Letter, Shen and collaborators [Phys. Rev. Lett.
+{\bf 70}, 1555 (1993)] reported that angle-resolved photoemission spectra
+(ARPES) in Bi-2212 cuprate superconductor far below $T_{{\rm c}}$ has
+anomalously large anisotropy and then concluded that the symmetry of Cooper
+pair is likely to be $d_{x^{2}-y^{2}}$, i.e., $\Delta_{{\bf k}}=\Delta(\cos
+k_{x}a-\cos k_{y}a)$. In this Comment we point out that the interpretation done
+by Shen {\it et al\/.}, where the shift of edge near Fermi level has been
+identified with the gap $\Delta_{{\bf k}}$, is not unambiguous, and that a
+possibility of $d_{xy}$ pairing, i.e., $\Delta_{{\bf k}}=2\Delta\sin k_{x}a\sin
+k_{y}a$, cannot be ruled out.
+","[{""version"":""v1"",""created"":""Mon, 31 Jan 1994 04:54:26 GMT""}]","2007-05-23"
+"cond-mat/9401074","Hiroaki","H.Nakamure and M.Takahashi","The Free Energy and the Scaling Function of the Ferromagnetic Heisenberg
+  Chain in a Magnetic Field","16 pages (revtex 2.0) + 6 PS figures upon request","Journal of the Physical Society of Japan, 63, 2563 (1994)","10.1143/JPSJ.63.2563",,"cond-mat",,"  A nonlinear susceptibilities (the third derivative of a magnetization $m_S$
+by a magnetic field $h$ ) of the $S$=1/2 ferromagnetic Heisenberg chain and the
+classical Heisenberg chain are calculated at low temperatures $T.$ In both
+chains the nonlinear susceptibilities diverge as $T^{-6}$ and a linear
+susceptibilities diverge as $T^{-2}.$ The arbitrary spin $S$ Heisenberg
+ferromagnet $[$ ${\cal H} = \sum_{i=1}^{N} \{ - J{\bf S}_{i} {\bf S}_{i+1} -
+(h/S) S_{i}^{z} \}$ $(J>0),$ $]$ has a scaling relation between $m_S,$ $h$ and
+$T:$ $m_S(T,h) = F( S^2 Jh/T^2).$ The scaling function
+$F(x)$=(2$x$/3)-(44$x^{3}$/135) + O($x^{5}$) is common to all values of spin
+$S.$
+","[{""version"":""v1"",""created"":""Mon, 31 Jan 1994 06:54:27 GMT""}]","2015-06-25"
+"hep-lat/9401035","Oscar Hernandez","Oscar F. Hernandez and Brian R. Hill","Tadpole-Improved Perturbation Theory for Heavy-Light Lattice Operators","14 pages, Physical Review D version after incorporating the referee's
+  suggestions","Phys. Rev. D 50, 495 (1994)","10.1103/PhysRevD.50.495","UdeM-LPN-TH-93-183, UCLA/93/TEP/42","hep-lat hep-ph",,"  Lattice calculations of matrix elements involving heavy-light quark bilinears
+are of interest in calculating a variety of properties of B and D mesons,
+including decay constants and mixing parameters. A large source of uncertainty
+in the determination of these properties has been uncertainty in the
+normalization of the lattice-regularized operators that appear in the matrix
+elements. Tadpole-improved perturbation theory, as formulated by Lepage and
+Mackenzie, promises to reduce these uncertainties below the ten per cent level
+at one-loop. In this paper we study this proposal as it applies to
+lattice-regularized heavy-light operators. We consider both the commonly used
+zero-distance bilinear and the distance-one point-split operator. A
+self-contained section on the application of these results is included. The
+calculation reduces the value of $f_B$ obtained from lattice calculations using
+the heavy quark effective theory.
+","[{""version"":""v1"",""created"":""Sun, 30 Jan 1994 23:33:26 GMT""},{""version"":""v2"",""created"":""Thu, 21 Apr 1994 01:48:32 GMT""}]","2013-11-13"
+"hep-lat/9401036",,"She-Sheng Xue","The Spontaneous Breaking of Chiral Symmetry without Goldstone Bosons","8 pages + 3 figures",,,"MITH 94/4","hep-lat hep-th",,"  Considering a self-interaction only of mirror fermions in the context of a
+lattice-regularized fermion field theory, we show that the system undergoes
+spontaneous breaking of chiral symmetry and mirror-fermion masses are
+generated. However, it is explicitly shown that there are no Goldstone bosons
+appearing together with this spontaneous symmetry breaking phenomenon, since
+Lorentz invariance, one of very general prerequisites of the Goldstone theorem,
+is violated. The result and its possible application are briefly discussed.
+","[{""version"":""v1"",""created"":""Mon, 31 Jan 1994 11:16:11 GMT""}]","2009-09-25"
+"hep-lat/9401037","Rainer Sommer","Rainer Sommer","Beauty Physics in Lattice Gauge Theory","68 pages (all figures included), DESY 93-011 (WUB 94-04)","Phys.Rept. 275 (1996) 1-47","10.1016/0370-1573(96)00028-2",,"hep-lat",,"  We summarize the present status of lattice gauge theory computations of the
+leptonic decay constants $f_D$ and $f_B$. The various sources of systematic
+errors are explained in a manner easily understood by the non--expert. The
+results obtained by the different groups are then systematically compared. As a
+result, we derive estimates for $f_D$ and $f_B$ in the quenched approximation
+through an appropriate combination of the data available from the different
+groups. Since we account for a possible lattice spacing dependence, the final
+errors are quite large. However, it is now well known how these uncertainties
+can be reduced. For the decay constant of heavy--light pseudoscalar mesons with
+masses of 1-2~GeV, an interesting comparison of a full QCD result with the
+corresponding simulation in the quenched approximation can be done. Effects of
+sea quarks of mass $m_s$ are below the statistical accuracy of these
+simulations. Related quantities, like $B$--parameters, the spectrum of
+beauty--hadrons and the breaking of the QCD string are discussed briefly.
+","[{""version"":""v1"",""created"":""Mon, 31 Jan 1994 14:59:32 GMT""}]","2009-10-22"
+"hep-ph/9401353",,"X. Song and V. Gupta","Sea Contributions and Nucleon Structure","24 pages","Phys.Rev. D49 (1994) 2211-2220","10.1103/PhysRevD.49.2211","INPP-UVA-93-1","hep-ph",,"  We suggest a general formalism to treat a baryon as a composite system of
+three quarks and a `sea'. In this formalism, the sea is a cluster which can
+consists of gluons and quark-antiquark pairs. The hadron wave function with a
+sea component is given. The magnetic moments, related sum rules and axial weak
+coupling constants are obtained. The data seems to favor a vector sea rather
+than a scalar sea. The quark spin distributions in the nucleon are also
+discussed.
+","[{""version"":""v1"",""created"":""Sun, 30 Jan 1994 16:14:52 GMT""}]","2009-10-28"
+"hep-ph/9401355",,"Ulf-G. Mei{\ss}ner","Topics in Chiral Perturbation Theory","30 pp, TeX, Review talk, Third Workshop on High Energy Particle
+  Physics (WHEPP III), Madras, India, January 1994. 7 figures available upon
+  request. CRN--94/04","Pramana 45 (1995) S183-S207","10.1007/BF02907974",,"hep-ph nucl-th",,"  I consider some selected topics in chiral perturbation theory (CHPT). For the
+meson sector, emphasis is put on processes involving pions in the isospin zero
+S-wave which require multi-loop calculations. The advantages and shortcomings
+of heavy baryon CHPT are discussed. Some recent results on the structure of the
+baryons are also presented.
+","[{""version"":""v1"",""created"":""Mon, 31 Jan 1994 10:09:20 GMT""}]","2009-10-28"
+"hep-th/9401158",,"M. Alimohammadi and F. Ardalan (Institute for Studies in Theoretical
+  Physics and Mathematics, Tehran, Iran)","Vertex Operators of SL(2,R) Black Hole and 2-d gravity","some type mistakes is corrected and a reference added",,,,"hep-th",,"  By boosting the vertex operators of Witten's $SL(2,R)/U(1)$ black hole, we
+show that in the region V they lead to the primary fields of $c=1$ matter
+coupled to gravity at nonzero cosmological constant, while there is no such
+correspondence in the region I, showing that Witten's black hole corresponds to
+$2d$ gravity only in a certain region and in a specific limit. By using the
+free field representation , we will show that the stress tensor of $SL(2,R)$
+gauged by its nilpotent subgroup is equivalent to that of the Liouville theory
+with zero cosmological constant.
+","[{""version"":""v1"",""created"":""Mon, 31 Jan 1994 14:47:14 GMT""},{""version"":""v2"",""created"":""Tue, 29 Mar 1994 14:10:22 GMT""}]","2008-02-03"
+"hep-th/9401159",,"J.S.Dowker","Remarks on geometric entropy","7p.,uses jyTeX,MUTP/94/2","Class.Quant.Grav.11:L55-L60,1994","10.1088/0264-9381/11/4/001",,"hep-th gr-qc",,"  The recently discussed notion of geometric entropy is shown to be related to
+earlier calculations of thermal effects in Rindler space. The evaluation is
+extended to de Sitter space and to a two-dimensional black hole.
+","[{""version"":""v1"",""created"":""Mon, 31 Jan 1994 08:58:30 GMT""}]","2010-04-06"
+"hep-th/9401160","Asher Peres","Orit Levin and Asher Peres (Department of Physics, Technion - Israel
+  Institute of Technology, Haifa, Israel)","Quantum Field Theory with Null-Fronted Metrics","11 pages","Phys.Rev. D50 (1994) 7421-7424","10.1103/PhysRevD.50.7421","TECHNION-PHYS-94-LP2","hep-th",,"  There is a large class of classical null-fronted metrics in which a free
+scalar field has an infinite number of conservation laws. In particular, if the
+scalar field is quantized, the number of particles is conserved. However, with
+more general null-fronted metrics, field quantization cannot be interpreted in
+terms of particle creation and annihilation operators, and the physical meaning
+of the theory becomes obscure.
+","[{""version"":""v1"",""created"":""Mon, 31 Jan 1994 10:10:03 GMT""}]","2009-10-28"
+"hep-th/9401161",,"Joaquim Gomis and Jordi Par\'is","Anomalies and Wess-Zumino Terms in an Extended, Regularized
+  Field-Antifield Formalism","30 pages, Latex file, KUL-TF-93/50, UB-ECM-PF 93/14, UTTG-16-93.
+  (shortened version, to appear in Nucl. Phys. B)","Nucl.Phys. B431 (1994) 378-412","10.1016/0550-3213(94)90110-4",,"hep-th",,"  Quantization of anomalous gauge theories with closed, irreducible gauge
+algebra within the extended Field-Antifield formalism is further pursued. Using
+a Pauli-Villars (PV) regularization of the generating functional at one loop
+level, an alternative form for the anomaly is found which involves only the
+regulator. The analysis of this expression allows to conclude that recently
+found ghost number one cocycles with nontrivial antifield dependence can not
+appear in PV regularization. Afterwards, the extended Field-Antifield formalism
+is further completed by incorporating quantum effects of the extra variables,
+i.e., by explicitly taking into account the regularization of the extra sector.
+In this context, invariant PV regulators are constructed from non-invariant
+ones, leading to an alternative interpretation of the Wess-Zumino action as the
+local counterterm relating invariant and non-invariant regularizations.
+Finally, application of the above ideas to the bosonic string reproduces the
+well-known Liouville action and the shift $(26-D)\rightarrow(25-D)$ at one
+loop.
+","[{""version"":""v1"",""created"":""Mon, 31 Jan 1994 10:39:01 GMT""},{""version"":""v2"",""created"":""Thu, 15 Sep 1994 15:12:07 GMT""}]","2016-08-14"
+"hep-th/9401162","J. W. Goodison","J.W.Goodison and D.J.Toms","When q=0, The Forced Harmonic Oscillator Isn't","10 pages (Revtex), Preprint NCL94-TP3",,,,"hep-th",,"  We consider the forced harmonic oscillator quantized according to infinite
+statistics ( a special case of the `quon' algebra proposed by Greenberg ). We
+show that in order for the statistics to be consistently evolved the forcing
+term must be identically zero for all time. Hence only the free harmonic
+oscillator may be quantized according to infinite statistics.
+","[{""version"":""v1"",""created"":""Mon, 31 Jan 1994 10:31:47 GMT""}]","2007-05-23"
+"hep-th/9401163","Frederic Lesage","P. Di Francesco, M. Gaudin, C. Itzykson and F. Lesage","Laughlin's wave functions, Coulomb gases and expansions of the
+  discriminant","97 pages, using harvmac (with big option recommended) and epsf, 7
+  figures available upon request, Saclay preprint Spht 93/125","Int.J.Mod.Phys. A9 (1994) 4257-4352","10.1142/S0217751X94001734",,"hep-th",,"  In the context of the fractional quantum Hall effect, we investigate
+Laughlin's celebrated ansatz for the groud state wave function at fractional
+filling of the lowest Landau level. Interpreting its normalization in terms of
+a one component plasma, we find the effect of an additional quadrupolar field
+on the free energy, and derive estimates for the thermodynamically equivalent
+spherical plasma. In a second part, we present various methods for expanding
+the wave function in terms of Slater determinants, and obtain sum rules for the
+coefficients. We also address the apparently simpler question of counting the
+number of such Slater states using the theory of integral polytopes.
+","[{""version"":""v1"",""created"":""Mon, 31 Jan 1994 14:27:56 GMT""}]","2015-06-26"
+"hep-th/9401164","Harm Jan Boonstra","H.J. Boonstra","BRST cohomology of the critical $W_4$ string","29 pages, LaTeX, UG-1/94","Class.Quant.Grav.11:1941-1960,1994","10.1088/0264-9381/11/8/003",,"hep-th",,"  We study the cohomology of the critical $W_4$ string using the $W_4$ BRST
+charge in a special basis in which it contains three separately nilpotent BRST
+charges. This allows us to obtain the physical operators in three steps. In the
+first step we obtain the cohomology associated to a spin-four constraint only,
+and it contains operators of the $c={4\over5}$ $W_3$ minimal model. In the next
+step, where the spin-three constraint is added, these operators get dressed to
+operators of the $c={7\over10}$ Virasoro minimal model. Finally, the Virasoro
+constraint is added to obtain the cohomology of the critical $W_4$ string. We
+describe the structure of the complete cohomology and compare with other
+results.
+","[{""version"":""v1"",""created"":""Mon, 31 Jan 1994 14:36:44 GMT""}]","2010-04-06"
+"hep-th/9401165","Jean-Bernard Zuber","B. Eynard","Large Random Matrices: Eigenvalue Distribution","18 pages",,,"Saclay T93/145","hep-th nlin.SI solv-int",,"  A recursive method is derived to calculate all eigenvalue correlation
+functions of a random hermitian matrix in the large size limit, and after
+smoothing of the short scale oscillations. The property that the two-point
+function is universal, is recovered and the three and four-point functions are
+given explicitly. One observes that higher order correlation functions are
+linear combinations of universal functions with coefficients depending on an
+increasing number of parameters of the matrix distribution.
+","[{""version"":""v1"",""created"":""Mon, 31 Jan 1994 14:38:31 GMT""}]","2008-02-03"
+"hep-th/9401166","Matthias R. Gaberdiel","M. Gaberdiel","A general transformation formula for conformal fields","8 pages, LATEX, DAMTP-94-4","Phys.Lett. B325 (1994) 366-370","10.1016/0370-2693(94)90026-4",,"hep-th",,"  An explicit transformation formula for chiral conformal fields under
+arbitrary holomorphic coordinate transformations is established. As an
+application I calculate the transformation law of the general quasiprimary
+field at level 4.
+","[{""version"":""v1"",""created"":""Mon, 31 Jan 1994 14:51:57 GMT""}]","2009-10-28"
+"nucl-th/9401021",,"V.F.Dmitriev, I.B. Khriplovich and V.B. Telitsin","Nuclear Anapole Moments in Single Particle Approximation","20 pages, LateX, One figure available upon request, BINP-93-115","Nucl.Phys. A577 (1994) 691-708","10.1016/0375-9474(94)90940-7",,"nucl-th",,"  Nuclear anapole moments of $\;^{133}$Cs, $\;^{203,205}$Tl, $\;^{207}$Pb,
+$\;^{209}$Bi are treated in the single-particle approximation. Analytical
+results are obtained for the oscillator potential without spin-orbit
+interaction. Then the anapole moments are calculated numerically in a
+Woods-Saxon potential which includes spin-orbit interaction. The results
+obtained demonstrate a remarkable stability of nuclear anapole moment
+calculations in the single-particle approximation.
+","[{""version"":""v1"",""created"":""Mon, 31 Jan 1994 05:12:24 GMT""}]","2009-10-28"

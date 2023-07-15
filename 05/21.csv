@@ -1,0 +1,298 @@
+"alg-geom/9405010","Joseph Lipman","Joseph Lipman","Adjoints of ideals in regular local rings","12 pages, Amstex 2.1",,,,"alg-geom math.AC math.AG",,"  The adjoint of an ideal I in a regular local ring R is the R-ideal
+adj(I):=H^0(Y, I\omega_Y), where f:Y -> Spec(R) is a proper birational map with
+Y nonsingular and IO_Y invertible, and \omega_f is a canonical relative
+dualizing sheaf. (Such an f is supposed to exist.) The basic conjecture is that
+I.adj(I^n)=adj(I^{n+1}) whenever n is >= the analytic spread of I. This is a
+strong version of the Briancon-Skoda theorem, implying all other known
+versions. It follows from the (conjectural) vanishing of H^i(Y,\omega_Y) for
+all i>0. When R is essentially of finite type over a char. 0 field, that
+vanishing has been deduced by Cutkosky from Kodaira vanishing. It also holds
+whenever dim.R = 2; and in this case we can say considerably more about
+adjoints, tying in e.g., with classical material on adjoint curves and
+conductors.
+","[{""version"":""v1"",""created"":""Fri, 20 May 1994 18:13:52 GMT""}]","2008-02-03"
+"cond-mat/9405055","Angus MacKinnon","K Nikoli\'c and A MacKinnon (Imperial College London)","Conductance and conductance fluctuations of narrow disordered quantum
+  wires","RevTeX 22 pages, SST/9394/32",,"10.1103/PhysRevB.50.11008",,"cond-mat",,"  In this paper we present and discuss our results for the conductance and
+conductance fluctuations of narrow quantum wires with two types of disorder:
+boundary roughness (hard wall confining potential) and islands of strongly
+scattering impurities within the bulk of the wire. We use a tight--binding
+Hamiltonian to describe the quantum wire, infinite perfect leads, a
+two--terminal Landauer--type formula for the conductance, and the recursive
+single-particle Green's function technique. We find that conductance
+quantization is easily destroyed by strong scattering. We also find that
+Anderson localization poses a serious restriction on the high carrier mobility
+predicted in quantum wires. Conductance fluctuations in narrow quantum wires
+are not, in general, universal (as in the metallic regime), but can be
+independent of the wire length over a short range of lengths.
+","[{""version"":""v1"",""created"":""Fri, 20 May 1994 16:45:05 GMT""}]","2009-10-22"
+"cond-mat/9405056","Anthony Chan","Anthony Chan and A.H. MacDonald (Department of Physics, Indiana
+  University, Bloomington IN)","On the Thermodynamics of Laughlin Liquid Freezing","17 pages, TeX, 11 figures available upon request, IUCM94-005",,,,"cond-mat",,"  The competition between liquid and solid states of strongly correlated
+electron systems occurs in a novel way in a strong magnetic field. The fact
+that certain Landau level filling factors are especially favorable for the
+formation of strongly correlated liquid states, gives rise to the fractional
+quantum Hall effect. In this article we discuss some consequences of the
+existence of incompressible states with fractionally charged quasiparticle
+excitations for the thermodynamics of the liquid-solid transition.
+","[{""version"":""v1"",""created"":""Fri, 20 May 1994 17:10:52 GMT""}]","2007-05-23"
+"cond-mat/9405057","Ian Affleck","Ian Affleck and Andreas W.W. Ludwig","The Fermi Edge Singularity and Boundary Condition Changing Operators","21 pages of RevTex plus one unencoded postscript figure, UBCT-94-003",,"10.1088/0305-4470/27/16/007",,"cond-mat hep-th",,"  The boundary conformal field theory approach to quantum impurity problems is
+used to study the Fermi edge singularity, occuring in the X-ray adsorption
+probablility. The deep-hole creation operator, in the effective low-energy
+theory, changes the boundary condition on the conduction electrons. By a
+conformal mapping, the dimension of such an operator is related to the
+groundstate energy for a finite system with different boundary conditions at
+the two ends. The Fermi edge singularity is solved using this method, for the
+Luttinger liquid including back-scattering and for the multi-channel Kondo
+problem.
+","[{""version"":""v1"",""created"":""Fri, 20 May 1994 20:55:00 GMT""}]","2009-10-22"
+"cond-mat/9405058",,"B. R. Trees","A Superconducting Instability in the Infinite-U Anderson Lattice in the
+  Presence of Crystal Electric Fields","66 pages+ 17 postscript figures, LATEX",,"10.1103/PhysRevB.51.470",,"cond-mat",,"  We report evidence of a superconducting instability (of $T_{1g}$ symmetry) in
+the infinite-U Anderson lattice in the presence of crystal fields of cubic
+symmetry. We assume a lattice of $4f$ sites, each with a total angular momentum
+of $J=5/2$ that is split by crystal fields into a low-lying doublet of
+$\Gamma_7$ symmetry and an excited quartet of $\Gamma_8$ symmetry. Slave Bosons
+on the $4f$ sites create and destroy $4f^0$ configurations and Lagrange
+multipliers at each $4f$ site enforce the occupancy constraint due to the
+infinite Coulomb repulsion. Quasiparticle interactions are due to exchange of
+$4f$ density fluctuations, which are represented by fluctuations in the slave
+Bosons and Lagrange multipliers. We use the so-called analytic tetrahedron
+method to calculate the dressed (to order 1/N) Boson Green functions. In weak
+couping, the exchange of the dressed Bosons gives rise to a superconducting
+instability of $T_{1g}$, $xy(x^2-y^2)$, symmetry. The $A_{1g}$, ``s-wave'',
+channel has strongly repulsive interactions and hence no pairing instability.
+The $T_{2g}$ channel exhibits weakly repulsive interactions. Average
+quasiparticle interactions in the $E_g$, $x^2-y^2$, $3z^2-r^2$, channel
+fluctuate strongly as a function of the number of tetrahedra used to calculate
+the Bosonic Green functions,
+","[{""version"":""v1"",""created"":""Fri, 20 May 1994 21:48:12 GMT""}]","2009-10-22"
+"cond-mat/9405059","Hans Kroha","Matthias H. Hettler, Johann Kroha, and Selman Hershfield","Nonlinear Conductance for the Two Channel Anderson Model","(11 pages, REVTeX 3.0, 4 figures available via email (postscript) or
+  fax upon request)","Phys. Rev. Lett. 73, 1967 (1994)","10.1103/PhysRevLett.73.1967",,"cond-mat",,"  Using the integral equations of the Noncrossing Approximation, the
+differential conductance is computed as a function of voltage for scattering
+from a two channel Kondo impurity in a point contact. The results compare well
+to experimental data on Cu point contacts by Ralph and Buhrman. They support a
+recently proposed scaling hypothesis, and also show finite temperature
+corrections to scaling in agreement with experiment. The conductance signal is
+predicted to be asymmetric in the bias when the impurity is not equally coupled
+to left and right moving electrons.
+","[{""version"":""v1"",""created"":""Sat, 21 May 1994 02:36:09 GMT""}]","2009-10-22"
+"cond-mat/9405060","Lev Ioffe","M. V. Feigelman and L. B. Ioffe","On the theory of diamagnetism in granular superconductors","REVTEX, 12 pages, two Postscript figures",,"10.1103/PhysRevLett.74.3447",,"cond-mat",,"  We study a highly disordered network of superconducting granules linked by
+weak Josephson junctions in magnetic field and develop a mean field theory for
+this problem. The diamagnetic response to a slow {\it variations} of magnetic
+field is found to be analogous to the response of a type-II superconductor with
+extremely strong pinning. We calculate an effective penetration depth
+$\lambda_g$ and critical current $j_c$ and find that both $\lambda_g^{-1}$ and
+$j_c$ are non-zero but are strongly suppressed by frustration.
+","[{""version"":""v1"",""created"":""Sat, 21 May 1994 03:08:54 GMT""}]","2009-10-22"
+"gr-qc/9405042",,"Yoav Peleg","Singularity Free Quasi-Classical Schwarzschild Space-Times","13p + 3 figures , BRX-TH-357",,,,"gr-qc hep-th",,"  Using canonical (Schrodinger) quantization of spherically symetric
+gravitational dust systems, we find the quasi-classical (coherent) state,
+|\alpha^{(s)}>, that corresponds to the classical Schwarzschild solution. We
+calculate the ``quasi-classical Schwarzschild mertic"", which is the expectation
+value of the quantized metric in thhis quasi-classical state. Depending on the
+quantization scheme that we use, we study three different quasi- classical
+geometries, all of which turn out to be singularity free. Their maximal
+extensions are complete manifolds with no singularities, describing a tower of
+asymptotically flat universes connected through Planck size wormholes.
+","[{""version"":""v1"",""created"":""Fri, 20 May 1994 18:52:00 GMT""}]","2009-09-25"
+"gr-qc/9405043","Steve Carlip","S. Carlip","Time in (2+1)-Dimensional Quantum Gravity","5 pages, LaTeX, UCD-94-18",,,,"gr-qc",,"  General relativity in three spacetime dimensions is used to explore three
+approaches to the ``problem of time'' in quantum gravity: the internal
+Schr\""odinger approach with mean extrinsic curvature as a time variable, the
+Wheeler-DeWitt equation, and covariant canonical quantization with ``evolving
+constants of motion.'' (To appear in {\em Proc.\ of the Lanczos Centenary
+Conference}, Raleigh, NC, December 1993.)
+","[{""version"":""v1"",""created"":""Fri, 20 May 1994 23:24:24 GMT""}]","2007-05-23"
+"gr-qc/9405044","Ian Moss","Ian G. Moss and Stephen J. Poletti","Conformal anomalies on Einstein spaces with Boundary","8 pages, NCL94-TP10, (ReVTeX)","Phys.Lett. B333 (1994) 326-330","10.1016/0370-2693(94)90150-3",,"gr-qc hep-th",,"  The anomalous rescaling for antisymmetric tensor fields, including gauge
+bosons, and Dirac fermions on Einstein spaces with boundary has been prone to
+errors and these are corrected here. The explicit calculations lead to some
+interesting identities that indicate a deeper underlying structure.
+","[{""version"":""v1"",""created"":""Sat, 21 May 1994 09:59:29 GMT""}]","2009-10-22"
+"gr-qc/9405045","Ian Moss","Ian G. Moss","Black hole formation from colliding bubbles","12 pages, NCL93-TP13 (RevTeX)",,"10.1103/PhysRevD.50.676",,"gr-qc",,"  Some indication of conditions that are necessary for the formation of black
+holes from the collision of bubbles during a supercooled phase transition in
+the the early universe are explored. Two colliding bubbles can never form a
+black hole. Three colliding bubbles can refocus the energy in their walls to
+the extent that it becomes infinite.
+","[{""version"":""v1"",""created"":""Sat, 21 May 1994 13:03:17 GMT""}]","2009-10-22"
+"hep-ex/9405011",,"SLD Collaboration (M. Woods et. al.)","Precise Determination of the Weak Mixing Angle from a measurement of ALR
+  in e+e- -> Z0","10 pages (postscript), SLAC-PUB-6493. Presented at the XXIXth
+  Rencontres de Moriond: Electroweak Interactions and Unified Theories,
+  Meribel, France, March 12-19, 1994",,,,"hep-ex",,"  In the 1993 SLC/SLD run, the SLD recorded 50,000 $\z0$ events produced by the
+collision of longitudinally polarized electrons on unpolarized positrons at a
+center-of-mass energy of 91.26 GeV. The luminosity-weighted average
+polarization of the SLC electron beam was (63.0$\pm$1.1)\%. We measure the
+left-right cross-section asymmetry in $\z0$ boson production, $\alr$, to be
+0.1628$\pm$0.0071(stat.)$\pm$0.0028(syst.) which determines the effective weak
+mixing angle to be $\swein=0.2292\pm0.0009({\rm stat.})\pm0.0004({\rm syst.}).$
+","[{""version"":""v1"",""created"":""Fri, 20 May 1994 22:11:00 GMT""}]","2012-08-27"
+"hep-ph/9405342","Wim de Boer","W. de Boer, R. Ehret and D.I. Kazakov","Predictions of SUSY Masses in the Minimal SUSY GUT","latex + eps fig IEKP-KA/94-05","Z.Phys.C67:647-664,1995","10.1007/BF01553992",,"hep-ph","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  The MSSM distinguishes itself from other GUT's by a successful prediction of
+many unrelated phenomena with a minimum number of parameters. Among them: a)
+Unification of the couplings constants; b)Unification of the masses; c) Proton
+decay; d) Electroweak symmetry breaking. A combined fit of the free parameters
+in the MSSM to these low energy constraints shows that the MSSM model can
+satisfy these constraints simultaneously. From the fitted parameters the masses
+of the as yet unobserved superpartners of the SM particles are predicted. The
+2nd order QCD coupling constant is required to be between 0.108 and 0.132. It
+is shown that a top mass of $174\pm16$ GeV, as suggested recently by the CDF
+Collaboration, constrains the mixing angle between the Higgs doublets in the
+MSSM to: $1.2<\tb<5.5$ at the 90% C.L.. The most probable value corresponds to
+$\tb = 1.56$, which leads to a stop mass below the top mass. In this case the
+stop production in $p\bar{p}$ collisions would contribute to the top signature.
+This could be an explanation for the large effective $t\bar{t}$ cross section
+observed by CDF.
+","[{""version"":""v1"",""created"":""Fri, 20 May 1994 19:58:59 GMT""},{""version"":""v2"",""created"":""Mon, 4 Jul 1994 12:02:23 GMT""},{""version"":""v3"",""created"":""Tue, 10 Jan 2012 15:10:24 GMT""}]","2012-01-11"
+"hep-ph/9405343","Claudio Coriano","Claudio Coriano` (Argonne) and Rajesh Parwani (Saclay)","The Three Loop Equation of State of QED at High Temperature","ANL-HEP-PR-94-02, SPhT/94-054 (revised final version)","Phys.Rev.Lett.73:2398-2401,1994","10.1103/PhysRevLett.73.2398",,"hep-ph",,"  We present the three loop contribution (order $e^4$) to the pressure of
+massless quantum electrodynamics at nonzero temperature. The calculation is
+performed within the imaginary time formalism. Dimensional regularization is
+used to handle the usual, intermediate stage, ultraviolet and infrared
+singularities, and also to prevent overcounting of diagrams during resummation.
+","[{""version"":""v1"",""created"":""Fri, 20 May 1994 19:30:09 GMT""},{""version"":""v2"",""created"":""Mon, 5 Sep 1994 19:41:27 GMT""}]","2014-11-17"
+"hep-ph/9405344",,"C. E. Carlson and J. Milana","Penguins leaving the pole: bound-state effects in B decaying to K* +
+  photon","12 pages. U. of MD PP \#94-129; DOE/ER/40762-033; WM-94-104. LaTeX,
+  One figure, available by fax or post","Phys.Rev. D51 (1995) 4950-4954","10.1103/PhysRevD.51.4950",,"hep-ph",,"  Applying perturbative QCD methods recently seen to give a good description of
+the two body hadronic decays of the B meson, we address the question of
+bound-state effects on the decay B into K* + gamma. Consistent with most
+analyses, we demonstrate that gluonic penguins, with photonic bremsstrahlung
+off a quark, change the decay rate by only a few percent. However, explicit
+off-shell b-quark effects normally discarded are found to be large in
+amplitude, although in the standard model accidents of phase minimize the
+effect on the rate. Using an asymptotic distribution amplitude for the K* and
+just the standard model, we can obtain a branching ratio of a few times
+10^{-5}, consistent with the observed rate.
+","[{""version"":""v1"",""created"":""Fri, 20 May 1994 19:05:00 GMT""}]","2009-10-28"
+"hep-ph/9405345","Jonathan Bagger","Jonathan Bagger, Erich Poppitz, and Lisa Randall","The R Axion From Dynamical Supersymmetry Breaking","Minor changes to bring the archived version of the paper into
+  alignment with the published version","Nucl.Phys.B426:3-18,1994","10.1016/0550-3213(94)90123-6","JHU-TIPAC-94005, MIT-CTP-2309, NSF-ITP-94-48","hep-ph astro-ph hep-th",,"  All generic, calculable models of dynamical supersymmetry breaking have a
+spontaneously broken $R$ symmetry and therefore contain an $R$ axion. We show
+that the axion is massive in any model in which the cosmological constant is
+fine-tuned to zero through an explicit $R$-symmetry-breaking constant. In
+visible-sector models, the axion mass is in the 100 MeV range and thus evades
+astrophysical bounds. In nonrenormalizable hidden-sector models, the mass is of
+order of the weak scale and can have dangerous cosmological consequences
+similar to those already present from other fields. In renormalizable hidden-
+sector models, the axion mass is generally quite large, of order $10^7$ GeV.
+Typically, these axions are cosmologically safe. However, if the dominant decay
+mode is to gravitinos, the potentially large gravitino abundance that arises
+from axion decay after inflation might affect the successful predictions of
+big-bang nucleosynthesis. We show that the upper bound on the reheat
+temperature after standard inflation can be competitive with or stronger than
+bounds from thermal gravitino production, depending on the model and the
+gravitino mass.
+","[{""version"":""v1"",""created"":""Fri, 20 May 1994 22:54:23 GMT""},{""version"":""v2"",""created"":""Thu, 16 Jun 1994 20:20:24 GMT""},{""version"":""v3"",""created"":""Fri, 2 Dec 1994 15:57:46 GMT""}]","2019-08-17"
+"hep-ph/9405346","Adam Falk","Adam F. Falk, Mark B. Wise and Isard Dunietz","Inconclusive Inclusive Nonleptonic $B$ Decays","22 pages, 3 uuencoded figures included, uses REVTeX, preprint nos.
+  CALT-68-1933, FERMILAB-PUB-94-106-T, JHU-TIPAC-940005, NSF-ITP-94-43,
+  UCSD/PTH 94-05 (revised version: one equation added for clarity, one
+  reference added, all changes occur on page 16 or later)","Phys.Rev. D51 (1995) 1183-1191","10.1103/PhysRevD.51.1183",,"hep-ph",,"  We reconsider the conflict between recent calculations of the semileptonic
+branching ratio of the $B$ meson and the experimentally measured rate. Such
+calculations depend crucially on the application of ``local duality'' in
+nonleptonic decays, and we discuss the relation of this assumption to the
+weaker assumptions required to compute the semileptonic decay rate. We suggest
+that the discrepancy between theory and experiment might be due to the channel
+with two charm quarks in the final state, either because of a small value for
+$m_c$ or because of a failure of local duality. We examine the experimental
+consequences of such solutions for the charm multiplicity in $B$ decays.
+","[{""version"":""v1"",""created"":""Fri, 20 May 1994 23:41:49 GMT""},{""version"":""v2"",""created"":""Wed, 25 May 1994 21:09:49 GMT""}]","2009-10-28"
+"hep-ph/9405347","Adam Falk","Isard Dunietz, Peter S. Cooper, Adam F. Falk and Mark B. Wise","Another Source of Baryons in $B$ Meson Decays","9 pages, 3 uuencoded figures included, uses REVTeX, preprint nos.
+  CALT-68-1935, FERMILAB-PUB-94-132-T, JHU-TIPAC-940006, UCSD/PTH 94-06","Phys.Rev.Lett. 73 (1994) 1075-1078","10.1103/PhysRevLett.73.1075",,"hep-ph",,"  It is usually assumed that the production of baryons in $B$ meson decays is
+induced primarily by the quark level process $b\to c\bar ud$, where the charm
+quark hadronizes into a charmed baryon. With this assumption, the $\Lambda_c$
+momentum spectrum would indicate that the transition $B\to\Lambda_c X$ is
+dominated by multi-body $B$ decays. However, a closer examination of the
+momentum spectrum reveals that the mass $m_X$ against which the $\Lambda_c$ is
+recoiling almost always satisfies $m_X\agt m_{\Xi_c}$. This fact leads us to
+examine the hypothesis that the production of charmed baryons in $B$ decays is
+in fact dominated by the underlying transition $b\to c\bar cs$, and is seen
+primarily in modes with two charmed baryons in the final state. We propose a
+number of tests of this hypothesis. If this mechanism is indeed important in
+baryon production, then there are interesting consequences and applications,
+including potentially important implications for the ``charm deficit'' in $B$
+decays.
+","[{""version"":""v1"",""created"":""Fri, 20 May 1994 23:42:18 GMT""}]","2009-10-28"
+"hep-ph/9405348",,"Tzu Chiang Yuan","Perturbative QCD Fragmentation Functions for Production of P-wave Mesons
+  with Charm and Beauty","31 pages, Latex file, 1 figure (postscript file appended at the end)","Phys.Rev.D50:5664-5675,1994","10.1103/PhysRevD.50.5664","UCD-94-2 May (1994)","hep-ph",,"  We calculate the leading order QCD fragmentation functions for the production
+of $P$-wave charmed beauty mesons. Long-distance effects are factored into two
+nonperturbative parameters: the derivative of the radial wavefunction at the
+origin and a second parameter related to the probability for a $(\bar b c)$
+heavy quark pair that is produced in a color-octet $S$-wave state to form a
+color-singlet $P$-wave bound state. The four $2P$ states and those $3P$ states
+which lie below the $BD$ flavor threshold eventually all decay into the $1S$
+ground state $B_c$ through hadronic cascades or by emitting photons. The total
+fragmentation probabilities for production of the $1S$ ground state $B_c$ from
+the cascades of the $2P$ and $3P$ states are about $1.7 \times 10^{-4}$ and
+$2.3 \times 10^{-4}$ respectively. Thus the direct production of the $P$-wave
+states via fragmentation may account for a significant fraction of the
+inclusive production rate of the $B_c$ at large transverse momentum in high
+energy colliders. Our analytic results for the $P$-wave fragmentation functions
+disagree with those obtained earlier in the literature.
+","[{""version"":""v1"",""created"":""Sat, 21 May 1994 07:07:11 GMT""}]","2010-11-01"
+"hep-ph/9405349","Apostolos Pilaftsis","C.P. Burgess and A. Pilaftsis","Anomalous Vector-Boson Couplings in Majorana Neutrino Models","LaTeX file, 15 pages (one figure available upon request), NEIP-004,
+  McGill-94/18, RAL/94-053","Phys.Lett.B333:427-433,1994","10.1016/0370-2693(94)90163-5",,"hep-ph",,"  We examine the contributions of Majorana neutrinos to CP-violating WWZ and
+ZZZ self-couplings, using a model in which sterile neutrinos couple to the W
+and Z by mixing with a fourth-generation heavy lepton. We find that the induced
+form factors can be as large as 0.5%. The model satisfies all phenomenological
+bounds in a natural way, including those due to the strong limits on the
+neutron and electron electric dipole moments. Anomalous CP-odd couplings of
+this size are unlikely to be observed at LEP200, but might be detectable at
+NLC.
+","[{""version"":""v1"",""created"":""Sat, 21 May 1994 15:23:30 GMT""}]","2010-11-01"
+"hep-th/9405136","Jens Schnittger","Jean-Loup Gervais and Jens Schnittger","Continous Spins in 2D Gravity: Chiral Vertex Operators and Local Fields","36 pages, LaTex, LPTENS 93/40","Nucl.Phys. B431 (1994) 273-314","10.1016/0550-3213(94)90107-4",,"hep-th",,"  We construct the exponentials of the Liouville field with continuous powers
+within the operator approach. Their chiral decomposition is realized using the
+explicit Coulomb-gas operators we introduced earlier. {}From the quantum-group
+viewpoint, they are related to semi-infinite highest or lowest weight
+representations with continuous spins. The Liouville field itself is defined,
+and the canonical commutation relations verified, as well as the validity of
+the quantum Liouville field equations.
+  In a second part, both screening charges are considered. The braiding of the
+chiral components is derived and shown to agree with the ansatz of a parallel
+paper of J.-L. G. and Roussel: for continuous spins the quantum group structure
+$U_q(sl(2)) \odot U_{\qhat}(sl(2))$ is a non trivial extension of $U_q(sl(2))$
+and $U_{\qhat}(sl(2))$. We construct the corresponding generalized exponentials
+and the generalized Liouville field.
+","[{""version"":""v1"",""created"":""Fri, 20 May 1994 19:02:26 GMT""}]","2009-10-28"
+"hep-th/9405137","Ben Grinstein","Benjamin Grinstein","Exact Heavy To Light Meson Form Factors In The Chiral Limit Of Planar
+  1+1 QCD","8p (uuencoded, includes 4 eps figs, LaTeX & epsf), SMU-HEP/94-11 and
+  UCSD/PTH 94-09",,,,"hep-th hep-ph",,"  The form factors of the flavor changing vector current between a $\bar q
+Q$-meson and the lightest $\bar q q$ (pseudoscalar-)meson are computed exactly
+and explicitly in the 't~Hooft model (planar QCD in $1+1$ dimensions) in the
+limit that the mass of $q$-quark vanishes.
+","[{""version"":""v1"",""created"":""Fri, 20 May 1994 20:19:00 GMT""},{""version"":""v2"",""created"":""Fri, 20 May 1994 20:37:00 GMT""}]","2008-02-03"
+"hep-th/9405139","Enrico Celeghini","E.Celeghini, M.Rasetti and G.Vitiello","Identical Particles and Permutation Group","8 pages, standard TEX, DFF 205/5/94 Firenze","J.Phys.A28:L239-L244,1995","10.1088/0305-4470/28/8/003",,"hep-th",,"  Second quantization is revisited and creation and annihilation operators
+areshown to be related, on the same footing both to the algebra h(1), and to
+the superalgebra osp(1|2) that are shown to be both compatible with Bose and
+Fermi statistics.
+  The two algebras are completely equivalent in the one-mode sector but,
+because of grading of osp(1|2), differ in the many-particle case.
+  The same scheme is straightforwardly extended to the quantum case h_q(1) and
+osp_q(1|2).
+","[{""version"":""v1"",""created"":""Sat, 21 May 1994 09:22:30 GMT""}]","2010-11-01"
+"hep-th/9405140","Per Salomonson","Erik Aurell (Stockholm University), Per Salomonson (Chalmers
+  University of Technology)","Further results on Functional Determinants of Laplacians in Simplicial
+  Complexes",,,,,"hep-th math.DG",,"  We investigate the functional determinant of the laplacian on piece-wise flat
+two-dimensional surfaces, with conical singularities in the interior and/or
+corners on the boundary. Our results extend earlier investigations of the
+determinants on smooth surfaces with smooth boundaries. The differences to the
+smooth case are: a) different ``interaction energies'' between pairs of conical
+singularities than one would expect from a naive extrapolation of the results
+for a smooth surface; and b) ``self-energies'' of the singularities.
+","[{""version"":""v1"",""created"":""Sat, 21 May 1994 14:22:46 GMT""}]","2008-02-03"
+"math/9405212","Doron Zeilberger","Doron Zeilberger (Temple University)","How Joe Gillis Discovered Combinatorial Special Function Theory","Plain TeX","Math. Intell. 17(2), 65-66",,,"math.CO",,"  How Enumerative Combinatorics met Special Functions, thanks to Joe Gillis
+","[{""version"":""v1"",""created"":""Fri, 20 May 1994 19:53:47 GMT""}]","2008-02-03"
+"nucl-th/9405022","Volker Koch","Volker Koch","Cold Kaons from Hot Fireballs","9 pages, 4 figures, SUNY-NTG-94-26",,"10.1016/0370-2693(95)00388-2",,"nucl-th hep-ph",,"  The E814-collaboration has found a component of very low $m_t$ $K^+$ mesons
+with a slope parameter of $T \sim 15 \, \rm MeV$. We will present a scenario
+which explains the observed slope parameter and which allows us to predict the
+expected slope parameter for kaons produced in heavier systems such as Au+Au.
+Implications for the restoration of chiral symmetry in relativistic heavy ion
+collisions are discussed.(figures are being sent on request)
+","[{""version"":""v1"",""created"":""Fri, 20 May 1994 17:43:34 GMT""}]","2009-10-28"
+"nucl-th/9405023","Moshe Gai","Moshe Gai (Yale University) and Carlos Bertulani","Comment on E2 Contribution to the 8B ---> p + 7Be Coulomb Dissociation
+  Cross Section [K. Langanke and T.D. Shoppa, Phys. Rev. C49(1994)R1771,
+  ER(1994)]","3 pages, 1 Figure, ReVTEX.(GAI @ UConnVM.UConn.EDU), GSI (Bertulani @
+  VSBS.GSI.DE)","Phys.Rev.C52:1706-1708,1995","10.1103/PhysRevC.52.1706",,"nucl-th",,"  The E2 cross section calculated by Langanke and Shoppa for the Riken
+experiment on the Coulomb Dissociation of 8B uses E2 nuclear matrix elements
+from one specific model. Other nuclear models predict a considerably smaller E2
+cross section (by a pproximately a factor of 3 to 4), and Langanke and Shoppa
+appear to assume the most optimistic scenario predicting large E2 cross
+section. We also note that Barker has already criticised the nuclear model used
+by Langanke and Shoppa. A MODEL INDEPENDENT Chi-Square analysis of the Riken
+data, suggest the best fit for the current Riken data is obtained with E1
+amplitudes only. The upper limit (90% confidence) on the E2 component derived
+from our Chi-Square analysis is considerably smaller than used by Langanke and
+Shoppa. The MODEL DEPENDENT analysis of Langanke-Shoppa should not be
+considered as a correction to the Riken result, as claimed, and their quoted
+S17(0) is not substantiated.
+","[{""version"":""v1"",""created"":""Sat, 21 May 1994 03:03:41 GMT""}]","2008-11-26"

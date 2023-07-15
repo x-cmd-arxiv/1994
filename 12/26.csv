@@ -1,0 +1,119 @@
+"astro-ph/9412090","Yasushi Suto","Y. Suto, T. Suginohara, and Y. Inagaki","Limits on the global Hubble constant and the age of the universe","7 pages, uuencoded compressed PostScript file. PostScript figures
+  available upon request. Submitted to Progress of Theoretical Physics (Letter)","Prog.Theor.Phys. 93 (1995) 839-844","10.1143/ptp/93.4.839","UTAP-197","astro-ph",,"  While the recent discovery of the Cepheid variables in the Virgo cluster
+galaxies puts additional support for the Hubble constant $H_0 \sim
+80$km/sec/Mpc, a relatively lower value $H_0 \sim 50$km/sec/Mpc is suggested by
+other distance indicators based on the Sunyaev-Zel'dovich effect and the
+gravitational lens which probe the universe at higher redshifts $z=(0.1\sim
+1)$. In order to reconcile the possible discrepancy between the estimates of
+the Hubble constants from nearby galaxy samples and high-redshift clusters, we
+consider a model of locally open universe embedded in the spatially flat
+universe. We find analytic expressions for the lower limit on the global Hubble
+constant $\hg$, and the upper limit on the age of the universe with a given
+value for the Hubble constant $\hl$ in the local universe. We conclude that it
+is quite unlikely that the above difference in the estimates of the Hubble
+constant is explained within the framework of the gravitational instability
+picture.
+","[{""version"":""v1"",""created"":""Mon, 26 Dec 1994 03:04:31 GMT""}]","2017-02-01"
+"chao-dyn/9412012","J. Robert Dorfman","Henk van Beijeren (Inst.Theor.Physics,Utrecht) and J.R. Dorfman (IPST,
+  Maryland)","Lyapunov Exponents and KS Entropy for the Lorentz Gas at Low Densities","11 pages,REVTex, 1 figure (lorentz.eps) included in file",,"10.1103/PhysRevLett.74.4412",,"chao-dyn nlin.CD",,"  The Lyapunov exponents and the KS entropy for a two dimensional Lorentz gas
+at low densities are defined for general non-equilibrium states and calculated
+with the use of a Lorentz-Boltzmann type equation. In equilibrium the density
+dependence of these quantities predicted by Krylov is recovered and explicit
+expressions are obtained. The relationship between the KS entropy, Lyapunov
+exponents, and escape rate, conjectured by Gaspard and Nicolis for
+non-equilibrium systems is confirmed and generalized.
+","[{""version"":""v1"",""created"":""Mon, 26 Dec 1994 15:44:20 GMT""}]","2009-10-22"
+"cond-mat/9412109","A. Ovchinnikov","Anatoly A.Ovchinnikov","Metal-Insulator transition in the Generalized Hubbard model","20 pages, LaTex. Mod.Phys.Lett.B 7 (1993) 1397; Journal of Physics:
+  Condensed Matter (to appear)","J.Phys. C6 (1994) 11057-11069","10.1088/0953-8984/6/50/015",,"cond-mat",,"  We present the exact ground-state wave function and energy of the generalized
+Hubbard model, subjected to the condition that the number of double occupied
+sites is conserved, for a wide, physically relevant range of parameters. For
+one hole and one double occupied site the existence of the ferromagnetic
+ground-state is proved which allow one to determine the critical value of the
+on-site repulsion corresponding to the point of metal-insulator transition. For
+the one dimensional model the exact solution for special values of the
+parameters is obtained.
+","[{""version"":""v1"",""created"":""Sun, 25 Dec 1994 18:42:21 GMT""}]","2009-10-22"
+"hep-ph/9412370",,"D.A.Dicus, B.Dutta and S.Nandi","Top Quark Signature in Extended Color Theories","21 pages, Latex, Figures available on request","Phys.Rev. D51 (1995) 6085-6091","10.1103/PhysRevD.51.6085","OSU-292, DOE-ER 40757, CPP-94-36-059","hep-ph",,"  We consider the implications of an extended color group, $SU\left( 3\right)
+_I\times SU\left( 3\right) _{II}$, spontaneously broken to $SU\left( 3\right)
+_c$ at a TeV or lower scale, for the hadronic colliders. The associated massive
+color octet gauge bosons (the colorons) can enhance the $t \overline{t}$ pair
+production at the Tevatron collider. At the LHC, the colorons can be pair
+produced, each decaying to a $t\overline{t}$ pair. This gives rise to anomalous
+multi W production: a clear signature of physics beyond the Standard Model. We
+calculate the associated multijet and multilepton final states at the Tevatron
+and the LHC energies, and compare these with the expectations from the Standard
+Model.
+","[{""version"":""v1"",""created"":""Mon, 26 Dec 1994 07:05:51 GMT""}]","2009-10-28"
+"hep-th/9412214","Mikhail Volkov","D.Ebert, M.Nagy.M.K.Volkov","To the problem of 1/Nc approximation in the Nambu-Jona-Lasinio model","8 pages, latex, 3 figures are not included","Phys.Atom.Nucl. 59 (1996) 140-143; Yad.Fiz. 59 (1996) 149-152",,"E2-94-488 JINR preprint,Dubna,1994","hep-th",,"  In this article, the gap equation for the constituent quark mass in the
+U(2)*U(2) Nambu-Jona-Lasinio model for the 1/Nc approximation is investigated.
+It is shown that taking into account scalar isovector mesons plays an important
+role for the correct description of quark masses in this approximation. The
+role of the Ward identity in calculations of 1/Nc corrections to the meson
+vertex functions is shortly discussed.
+","[{""version"":""v1"",""created"":""Mon, 26 Dec 1994 11:37:27 GMT""}]","2019-08-17"
+"hep-th/9412215","Masako Asano","Masako Asano, Chigak Itoi and Shin-Ichi Kojima","Random Walk Construction of Spinor Fields on Three Dimensional Lattice","30 pages, LaTeX, 8 ps figures included","Nucl.Phys. B448 (1995) 533-558","10.1016/0550-3213(95)00294-3","TIT/HEP--271, NUP-A-94-19","hep-th cond-mat hep-lat",,"  Euclidean invariant Klein-Gordon, Dirac and massive Chern-Simons field
+theories are constructed in terms of a random walk with a spin factor on a
+three dimensional lattice. We exactly calculate the free energy and the
+correlation functions which allow us to obtain the critical diffusion constant
+and associated critical exponents. It is pointed out that these critical
+exponents do not satisfy the hyper-scaling relation but the scaling
+inequalities. We take the continuum limit of this theory on the basis of these
+analyses. We check the universality of obtained results on other lattice
+structure such as triclinic lattice and body centered lattice.
+","[{""version"":""v1"",""created"":""Mon, 26 Dec 1994 10:28:46 GMT""}]","2009-10-28"
+"hep-th/9412216",,"S.Naftulin","Quantum reparametrizations in the two-dimensional gravity: a look from
+  2+$epsilon$ dimensions","16 pages,LATEX file. This paper removed because it is identical to
+  hep-th/9501011",,,"ISC-94-1","hep-th",,"  We discuss the structure of one-loop counterterms for the two-dimensional
+theory of gravitation in the covariant scheme and study the effect of quantum
+reparametrizations.Some of them are shown to be equivalent to the introduction
+of 2+$epsilon$-dimensional terms into the initially 2-dimensional theory. We
+also argue that the beta-function for the Einstein constant has a non-trivial
+ultraviolet stable point beyond two dimensions.
+","[{""version"":""v1"",""created"":""Mon, 26 Dec 1994 12:44:27 GMT""}]","2007-05-23"
+"hep-th/9412217",,"N.A.Saulina, M.V.Terentiev, K.N.Zyablyuk","Interaction of Dual N=1, D=10 Supergravity with Yang-Mills Matter
+  Multiplet","18 pages, Latex",,,"ITEP 88-94","hep-th",,"  The lagrangian of the N=1, D=10 dual supergravity interacting with the
+Yang-Mills matter multiplet is constructed starting immediately from the
+equations of motion obtained from the Bianchi Identities in the superspace
+approach. The difference is established in comparison with the Gates-Nishino
+lagrangian at the fourth order level in fermionic fields.
+","[{""version"":""v1"",""created"":""Mon, 26 Dec 1994 12:56:14 GMT""}]","2007-05-23"
+"nucl-th/9412036","Barabanov A. L.","A.L.Barabanov","Does the excited state of the $^3$H nucleus exist?","12 pages, latex, 1 Postscript figure included as uuencoded and
+  compressed file, to be published in Pis'ma ZETPh, v.61, n.1 (1995)",,,"preprint IAE-5811/2 (1994)","nucl-th nucl-ex",,"  The suggestion is made that the excited state of the $^3 H$ nucleus found out
+recently in the reaction $H$ ($^6 He$,$\alpha$) ({\it Pis'ma JETPh\/} {\bf 59}
+(1994) 301) has spin and parity $1/2^+$ and the same configuration that the
+ground one of $^6 He$. An amplitude of electromagnetic transition to the triton
+ground state is strongly suppressed, therefore the excited state cannot be
+detected in radiative capture of neutrons by deuterons. It is shown that in an
+elastic nd-scattering a resonance associated with the exited state may be
+absent due to the destructive interference of potential and resonant scattering
+phases.
+","[{""version"":""v1"",""created"":""Mon, 26 Dec 1994 13:27:01 GMT""}]","2007-05-23"
+"quant-ph/9412005",,"Zhong-Qi Ma (CCAST and Institute of High Energy Physics, Beijing)","On the Stronger Statement of Levinson's Theorem for the Dirac Equation",,,,,"quant-ph",,"  Recently a stronger statement of Levinson's theorem for the Dirac equation
+was presented, where the limits of the phase shifts at $E=\pm M$ are related to
+the numbers of nodes of radial functions at the same energies, respectively.
+However, in this letter we show that this statement has to be modified because
+the limits of the phase shifts may be negative for the Dirac equation.
+","[{""version"":""v1"",""created"":""Mon, 26 Dec 1994 14:46:37 GMT""}]","2007-05-23"
+"quant-ph/9412006","Asher Peres","Michael Kernaghan and Asher Peres","Kochen-Specker theorem for 8-dimensional space","LaTeX 8 pages","Phys.Lett. A198 (1995) 1-5","10.1016/0375-9601(95)00012-R",,"quant-ph",,"  A Kochen-Specker contradiction is produced with 36 vectors in a real
+8-dimensional Hilbert space. These vectors can be combined into 30 distinct
+projection operators (14 of rank 2, and 16 of rank 1). A state-specific variant
+of this contradiction requires only 13 vectors, a remarkably low number for 8
+dimensions.
+","[{""version"":""v1"",""created"":""Mon, 26 Dec 1994 07:21:13 GMT""}]","2009-10-28"
+"quant-ph/9412007","Asher Peres","Ofir E. Alon, Nimrod Moiseyev, and Asher Peres","Infinite matrices may violate the associative law","final version in J. Phys. A28 (1995) 1765-1770","J.Phys. A28 (1995) 1765-1770","10.1088/0305-4470/28/6/027",,"quant-ph",,"  The momentum operator for a particle in a box is represented by an infinite
+order Hermitian matrix $P$. Its square $P^2$ is well defined (and diagonal),
+but its cube $P^3$ is ill defined, because $P P^2\neq P^2 P$. Truncating these
+matrices to a finite order restores the associative law, but leads to other
+curious results.
+","[{""version"":""v1"",""created"":""Mon, 26 Dec 1994 11:30:51 GMT""},{""version"":""v2"",""created"":""Thu, 10 Sep 1998 13:48:25 GMT""}]","2009-10-28"
+"supr-con/9412001","Igor Aranson","I. Aranson, M. Gitterman and B. Ya. Shapiro, (Dept. of Physics and
+  Jack and Pearl Resnick Inst. of Advanced Technology, Bar Ilan University)","Onset of Vortices in Thin Superconducting Strips and Wires","REVTeX 3.0, 12 pages, 5Postscript figures (uuencoded). Accepted for
+  Phys. Rev. B",,"10.1103/PhysRevB.51.3092",,"supr-con cond-mat.supr-con",,"  Spontaneous nucleation and the consequent penetration of vortices into thin
+superconducting films and wires, subjected to a magnetic field, can be
+considered as a nonlinear stage of primary instability of the current-carrying
+superconducting state. The development of the instability leads to the
+formation of a chain of vortices in strips and helicoidal vortex lines in
+wires. The boundary of instability was obtained analytically. The nonlinear
+stage was investigated by simulations of the time-dependent generalized
+Ginzburg-Landau equation.
+","[{""version"":""v1"",""created"":""Mon, 26 Dec 1994 11:42:26 GMT""}]","2009-10-28"

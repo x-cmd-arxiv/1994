@@ -1,0 +1,44 @@
+"funct-an/9404001","Chris Phillips","Huaxin Lin and N. Christopher Phillips","Classification of direct limits of even Cuntz-circle algebras","LaTeX, 71 pages (in 10pt type). This replacement corrects assorted
+  misprints and is in smaller type. The paper has been accepted in the Memoirs
+  of the AMS",,,,"funct-an math.OA",,"  We prove a classification theorem for purely infinte simple C*-algebras that
+is strong enough to show that the tensor products of two different irrational
+rotation algebras with the same even Cuntz algebra are isomorphic. In more
+detail, let C be be the class of simple C*-algebras A which are direct limits A
+= lim A_k, in which each A_k is a finite direct sum of algebras of the form
+C(X) \otimes M_n \otimes O_m, where m is even, O_m is the Cuntz algebra, X is
+either a point, a compact interval, or the circle S^1, and each map A_k ---> A
+is approximately absorbing. (""Approximately absorbing"" is defined in Section 1
+of the paper.) We show that two unital C*-algebras A and B in the class C are
+isomorphic if and only if (K_0 (A), [1_A], K_1 (A)) is isomorphic to (K_0 (B),
+[1_B], K_1 (B)). This class is large enough to exhaust all possible K-groups:
+if G_0 and G_1 are countable odd torsion groups and g is in G_0, then there is
+a C*-algebra A in C with (K_0 (A), [1_A], K_1 (A)) isomorphic to (G_0, g, G_1).
+The class C contains the tensor products of irrational rotation algebras with
+even Cuntz algebras. It is also closed under several natural operations.
+","[{""version"":""v1"",""created"":""Sun, 3 Apr 1994 06:24:09 GMT""},{""version"":""v2"",""created"":""Sat, 1 Jul 1995 02:09:05 GMT""}]","2008-02-03"
+"hep-th/9404009","Jae-Suk Park","S. Hyun and J.-S. Park","$N=2$ Topological Yang-Mills Theories and Donaldson's Polynomials","30 pages, YUMS-94-08 : thoroughly rewritten version, including new
+  observations, refinements and corrections","J.Geom.Phys. 20 (1996) 31-53",,,"hep-th",,"  The $N=2$ topological Yang-Mills and holomorphic Yang-Mills theories on
+simply connected compact K\""{a}hler surfaces with $p_g\geq 1$ are reexamined.
+The $N=2$ symmetry is clarified in terms of a Dolbeault model of the
+equivariant cohomology. We realize the non-algebraic part of Donaldson's
+polynomial invariants as well as the algebraic part. We calculate Donaldson's
+polynomials on $H^{2,0}(S,\BZ)\oplus H^{0,2}(S,\BZ)$.
+","[{""version"":""v1"",""created"":""Sun, 3 Apr 1994 13:56:20 GMT""},{""version"":""v2"",""created"":""Sun, 3 Apr 1994 16:27:55 GMT""},{""version"":""v3"",""created"":""Fri, 9 Sep 1994 09:28:44 GMT""}]","2008-02-03"
+"hep-th/9404010","Bong Lian","Bong H. Lian and Gregg J. Zuckerman","Some Classical and Quantum Algebras","19 pages",,,,"hep-th math.QA",,"  We discuss the notion of a Batalin-Vilkovisky (BV) algebra and give several
+classical examples from differential geometry and Lie theory. We introduce the
+notion of a quantum operator algebra (QOA) as a generalization of a classical
+operator algebra. In some examples, we view a QOA as a deformation of a
+commutative algebra. We then review the notion of a vertex operator algebra
+(VOA) and show that a vertex operator algebra is a QOA with some additional
+structures. Finally, we establish a connection between BV algebras and VOAs.
+","[{""version"":""v1"",""created"":""Sat, 2 Apr 1994 16:43:00 GMT""},{""version"":""v2"",""created"":""Wed, 11 May 1994 18:21:27 GMT""}]","2008-02-03"
+"hep-th/9404011",,"S. Aoyama and Y. Kodama","Topological conformal field theory with a rational W potential and the
+  dispersionless KP hierarchy","14 pages, plain TEX, KUL-TF-94/7","Mod.Phys.Lett. A9 (1994) 2481-2492","10.1142/S0217732394002355",,"hep-th",,"  We present a new class of topological conformal field theories (TCFT)
+characterized by a rational $W$ potential, which includes the minimal models of
+A and D types as its subclasses. An explicit form of the $W$ potential is found
+by solving the underlying dispersionless KP hierarchy in a particular small
+phase space. We discuss also the dispersionless KP hierarchy in large phase
+spaces by reformulating the hierarchy, and show that the $W$ potential takes a
+universal form, which does not depend on a specific form of the solution in a
+large space.
+","[{""version"":""v1"",""created"":""Sat, 2 Apr 1994 20:41:38 GMT""}]","2015-06-26"

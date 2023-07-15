@@ -1,0 +1,376 @@
+"alg-geom/9410024","Aaron Bertram","Aaron Bertram (University of Utah)","Quantum Schubert Calculus","20 pages (LaTeX). To appear in Advances in Mathematics. The quantum
+  Pieri formula in the original version has been corrected (see also
+  alg-geom/9705024), and the Title has been ``quantized''",,,,"alg-geom math.AG",,"  This paper works out the versions of the classical Giambelli and Pieri
+formulas in the context of quantum cohomology of a complex Grassmannian.
+","[{""version"":""v1"",""created"":""Mon, 24 Oct 1994 21:59:19 GMT""},{""version"":""v2"",""created"":""Thu, 29 May 1997 16:59:05 GMT""}]","2008-02-03"
+"alg-geom/9410025",,"Dmitri Zaitsev","On the automorphism groups of algebraic bounded domains","29 pages, LaTeX, Mathematischen Annalen, to appear",,,,"alg-geom math.AG math.CV",,"  Let $D$ be a bounded domain in $C^n$. By the theorem of H.~Cartan, the group
+$Aut(D)$ of all biholomorphic automorphisms of $D$ has a unique structure of a
+real Lie group such that the action $Aut(D)\times D\to D$ is real analytic.
+This structure is defined by the embedding $C_v\colon Aut(D)\hookrightarrow
+D\times Gl_n(C)$, $f\mapsto (f(v), f_{*v})$, where $v\in D$ is arbitrary. Here
+we restrict our attention to the class of domains $D$ defined by finitely many
+polynomial inequalities. The appropriate category for studying automorphism of
+such domains is the Nash category. Therefore we consider the subgroup
+$Aut_a(D)\subset Aut(D)$ of all algebraic biholomorphic automorphisms which in
+many cases coincides with $Aut(D)$. Assume that $n>1$ and $D$ has a boundary
+point where the Levi form is non-degenerate. Our main result is theat the group
+$Aut_a(D)$ carries a unique structure of an affine Nash group such that the
+action $Aut_a(D)\times D\to D$ is Nash. This structure is defined by the
+embedding $C_v\colon Aut_a(D)\hookrightarrow D\times Gl_n(C)$ and is
+independent of the choice of $v\in D$.
+","[{""version"":""v1"",""created"":""Tue, 25 Oct 1994 14:13:08 GMT""}]","2008-02-03"
+"astro-ph/9410079","Martin Haehnelt","Martin G. Haehnelt","Momentum transfer by an internal source of ionizing radiation - an
+  important feedback process during galaxy formation ?!","18 pages (incl. 2 figures), uuencoded compressed postscript file
+  (uufiles), MPA-837","MNRAS 273 (1995) 249","10.1093/mnras/273.2.249",,"astro-ph",,"  The role of momentum transfer (``radiation pressure'') due to an internal
+source of ionizing radiation for the formation of baryonic structures is
+investigated. Fully-ionized self-gravitating gaseous objects can be
+radiation-pressure supported on a characteristic length scale $D_{\rm rp} \sim
+100 \pc - 3 \kpc$. On smaller scales momentum transfer due to ionizing
+radiation will be the dominant force and for spherical collapsing objects of
+mass $\la 10^{10}\Msol$ a complete bounce is possible. A population of massive
+stars and/or accretion onto a central compact object are natural sources of
+ionizing radiation in newly-forming baryonic structures. Radiation pressure is
+therefore likely to play an important role for the dynamical and thermal
+evolution of the intergalactic medium and the mass-to-light ratio of small
+galaxies. The effect will be especially important for hierarchical cosmogonies
+where galactic structures build up by merging of smaller objects. Radiation
+pressure due to ionizing radiation might furthermore be responsible for
+substructures of size $D_{\rm rp}$ in the stellar component of large galaxies.
+","[{""version"":""v1"",""created"":""Tue, 25 Oct 1994 12:56:46 GMT""}]","2015-06-24"
+"astro-ph/9410080","Saleem Zaroubi","S. Zaroubi, Y. Hoffman, K.B. Fisher and O. Lahav","Wiener Reconstruction of The Large Scale Structure","submitted to ApJ, 45 pages, 7 figures, compressed and uuencoded
+  Postscript file. (zhfl)",,"10.1086/176070",,"astro-ph",,"  The formalism of Wiener filtering is developed here for the purpose of
+reconstructing the large scale structure of the universe from noisy, sparse and
+incomplete data. The method is based on a linear minimum variance solution,
+given data and an assumed \prior model which specifies the covariance matrix of
+the field to be reconstructed. While earlier applications of the Wiener filter
+have focused on estimation, namely suppressing the noise in the measured
+quantities, we extend the method here to perform both prediction and dynamical
+reconstruction. The Wiener filter is used to predict the values of unmeasured
+quantities, such as the density field in un-sampled regions of space, or to
+deconvolve blurred data. The method is developed, within the context of linear
+gravitational instability theory, to perform dynamical reconstruction of one
+field which is dynamically related to some other observed field. This is the
+case, for example, in the reconstruction of the real space galaxy distribution
+from its redshift distribution When the field to be reconstructed is a Gaussian
+random field, such as the primordial perturbation field predicted by the
+canonical model of cosmology, the Wiener filter can be pushed to its fullest
+potential. In such a case the Wiener estimator coincides with the Bayesian
+estimator designed to maximize the {\it posterior} probability. The Wiener
+filter can be also derived by assuming a quadratic regularization function, in
+analogy with the `Maximum Entropy' method. The mean field obtained by the
+minimal variance solution can be supplemented with constrained realizations of
+the Gaussian field to
+","[{""version"":""v1"",""created"":""Tue, 25 Oct 1994 07:44:02 GMT""}]","2009-10-22"
+"chao-dyn/9410006",,"Omri Gat(1), Itamar Procaccia(1), Reuven Zeitak(1) ((1) Department of
+  Chemical Physics, The Weizmann Institute of Science, 76100 Rehovot, Israel)","The Breakdown of Dynamic Scaling and Intermittency in a Cascade Model of
+  Turbulence","15 pages, 2 figures (included), 1 table, (Paper unchanged, but page
+  count is corrected)",,"10.1103/PhysRevE.51.1148",,"chao-dyn nlin.CD",,"  We present an analytic and numerical analysis of the Gledzer-Ohkitani-Yamada
+(GOY) cascade model for turbulence. We concentrate on the dynamic correlations,
+and demonstrate both numerically and analytically, using resummed perturbation
+theory, that the correlations do not follow a dynamic scaling ansatz. The basic
+reason for this is the existence of a second quadratic invariant, in addition
+to energy. This implies the breakdown of the Kolmogorov type scaling law, in a
+manner different from the conventional mechanisms proposed for Navier-Stokes
+intermittency. By modifying the model equation so as to eliminate the spurious
+invariant, we recover to good accuracy, both dynamic scaling and the Kolmogorov
+exponents. We conclude that intermittency in the GOY model may be attributed to
+the effects of the spurious invariant which does not exist in the 3-dimensional
+Navier-Stokes flow.
+","[{""version"":""v1"",""created"":""Tue, 25 Oct 1994 15:04:54 GMT""},{""version"":""v2"",""created"":""Wed, 26 Oct 1994 10:56:10 GMT""}]","2009-10-22"
+"cmp-lg/9410023",,"Dania Egedi, Martha Palmer, Hyun S. Park, Aravind K. Joshi (University
+  of Pennsylvania)","Korean to English Translation Using Synchronous TAGs","ps file. 8 pages","Proceedings of AMTA 94",,,"cmp-lg cs.CL",,"  It is often argued that accurate machine translation requires reference to
+contextual knowledge for the correct treatment of linguistic phenomena such as
+dropped arguments and accurate lexical selection. One of the historical
+arguments in favor of the interlingua approach has been that, since it revolves
+around a deep semantic representation, it is better able to handle the types of
+linguistic phenomena that are seen as requiring a knowledge-based approach. In
+this paper we present an alternative approach, exemplified by a prototype
+system for machine translation of English and Korean which is implemented in
+Synchronous TAGs. This approach is essentially transfer based, and uses
+semantic feature unification for accurate lexical selection of polysemous
+verbs. The same semantic features, when combined with a discourse model which
+stores previously mentioned entities, can also be used for the recovery of
+topicalized arguments. In this paper we concentrate on the translation of
+Korean to English.
+","[{""version"":""v1"",""created"":""Mon, 24 Oct 1994 19:02:19 GMT""}]","2008-02-03"
+"cmp-lg/9410024",,"Daniel Karp (Stanford U.), Yves Schabes (U. Penn), Martin Zaidel (U.
+  Penn), and Dania Egedi (U. Penn)","A Freely Available Wide Coverage Morphological Analyzer for English","uuencoded compressed ps file. 5 pages. Contact info has been upated
+  from Coling '92 version","Proceedings of Coling 92",,,"cmp-lg cs.CL",,"  This paper presents a morphological lexicon for English that handles more
+than 317000 inflected forms derived from over 90000 stems. The lexicon is
+available in two formats. The first can be used by an implementation of a
+two-level processor for morphological analysis. The second, derived from the
+first one for efficiency reasons, consists of a disk-based database using a
+UNIX hash table facility. We also built an X Window tool to facilitate the
+maintenance and browsing of the lexicon. The package is ready to be integrated
+into an natural language application such as a parser through hooks written in
+Lisp and C.
+","[{""version"":""v1"",""created"":""Mon, 24 Oct 1994 19:55:23 GMT""}]","2008-02-03"
+"cmp-lg/9410025","Pasi Tapanainen","Pasi Tapanainen (Rank Xerox Research Centre), Timo J\""arvinen
+  (University of Helsinki)","Syntactic Analysis Of Natural Language Using Linguistic Rules And
+  Corpus-based Patterns","in Proc Coling-94, Vol I, pp. 629-634, Kyoto. Postscript",,,,"cmp-lg cs.CL",,"  We are concerned with the syntactic annotation of unrestricted text. We
+combine a rule-based analysis with subsequent exploitation of empirical data.
+The rule-based surface syntactic analyser leaves some amount of ambiguity in
+the output that is resolved using empirical patterns. We have implemented a
+system for generating and applying corpus-based patterns. Some patterns
+describe the main constituents in the sentence and some the local context of
+the each syntactic function. There are several (partly) reduntant patterns, and
+the ``pattern'' parser selects analysis of the sentence that matches the
+strictest possible pattern(s). The system is applied to an experimental corpus.
+We present the results and discuss possible refinements of the method from a
+linguistic point of view.
+","[{""version"":""v1"",""created"":""Tue, 25 Oct 1994 14:42:31 GMT""}]","2008-02-03"
+"cmp-lg/9410026","Philip Resnik","Eric Brill (Johns Hopkins) and Philip Resnik (Sun Microsystems)","A Rule-Based Approach To Prepositional Phrase Attachment Disambiguation","7 pages, compressed uuencoded postscript","COLING 1994",,,"cmp-lg cs.CL",,"  In this paper, we describe a new corpus-based approach to prepositional
+phrase attachment disambiguation, and present results comparing performance of
+this algorithm with other corpus-based approaches to this problem.
+","[{""version"":""v1"",""created"":""Tue, 25 Oct 1994 06:24:54 GMT""}]","2008-02-03"
+"cond-mat/9410086","Jun Hu","Jun Hu and A. H. MacDonald (Department of Physics, Indiana University)","Participation-Ratio Entropy and Critical Fluctuations in the
+  Thermodynamics of Pancake Vortices","12 pages (RevTeX 3.0) and 2 figures, available upon request,
+  IUCM94-016",,"10.1103/PhysRevB.52.1286",,"cond-mat",,"  We report on a study of the thermodynamics of the Ginzburg-Landau model for
+two-dimensional type-II superconductors near the transition from the normal
+state to the Abrikosov-lattice state. We couch our analysis in terms of the
+participation-ratio entropy, $s(P)$, which expresses the volume in
+order-parameter-space with a given participation-ratio for the local superfluid
+density. $s(P)$ completely determines the thermodynamics of the system. We
+report on results for $s(P)$ obtained analytically using perturbation expansion
+methods and numerically using Monte Carlo simulation methods and discuss the
+weak first-order phase transition which occurs in this system in terms of the
+properties of $s(P)$.
+","[{""version"":""v1"",""created"":""Mon, 24 Oct 1994 20:35:42 GMT""}]","2009-10-22"
+"cond-mat/9410087","Andreas Fledderjohann","A. Fledderjohann and P.J. Hirschfeld","Thermal Conductivity Anisotropy in Superconducting $UPt_3$","4 postscript pages, UFL1025",,"10.1016/0038-1098(95)00050-X",,"cond-mat",,"  Recent thermal conductivity measurements on $UPt_3$ single crystals by
+Lussier et al. indicate the existence of a strong b--c anisotropy in the
+superconducting state. We calculate the thermal conductivity in various
+unconventional candidate states appropriate for the $UPt_3$ ``B phase"" and
+compare with experiment, specifically the $E_{2u}$ and $E_{1g}$ $(1,i)$ states
+predicted in some Ginzburg-Landau analyses of the phase diagram. For the
+simplest realizations of these states over spherical or ellipsoidal Fermi
+surfaces, the normalized $E_{2u}$ conductivity is found, surprisingly, to be
+completely isotropic. We discuss the effects of inelastic scattering and
+realistic Fermi surface anisotropy, and deduce constraints on the symmetry
+class of the $UPt_3$ ground state.
+","[{""version"":""v1"",""created"":""Tue, 25 Oct 1994 08:03:27 GMT""}]","2009-10-22"
+"cond-mat/9410088","Enzo Marinari","Giorgio Parisi","$D$-dimensional Arrays of Josephson Junctions, Spin Glasses and
+  $q$-deformed Harmonic Oscillators",,,"10.1088/0305-4470/27/23/007",,"cond-mat hep-lat hep-th",,"  We study the statistical mechanics of a $D$-dimensional array of Josephson
+junctions in presence of a magnetic field. In the high temperature region the
+thermodynamical properties can be computed in the limit $D \to \infty$, where
+the problem is simplified; this limit is taken in the framework of the mean
+field approximation. Close to the transition point the system behaves very
+similar to a particular form of spin glasses, i.e. to gauge glasses. We have
+noticed that in this limit the evaluation of the coefficients of the high
+temperature expansion may be mapped onto the computation of some matrix
+elements for the $q$-deformed harmonic oscillator.
+","[{""version"":""v1"",""created"":""Tue, 25 Oct 1994 14:22:28 GMT""}]","2009-10-22"
+"cond-mat/9410089","Enzo Marinari","Enzo Marinari, Giorgio Parisi and Felix Ritort","The Fully Frustrated Hypercubic Model is Glassy and Aging at Large $D$","Figures added in uufiles format, and epsf included",,"10.1088/0305-4470/28/2/010",,"cond-mat hep-lat hep-th",,"  We discuss the behavior of the fully frustrated hypercubic cell in the
+infinite dimensional mean-field limit. In the Ising case the system undergoes a
+glass transition, well described by the random orthogonal model. Under the
+glass temperature aging effects show clearly. In the $XY$ case there is no sign
+of a phase transition, and the system is always a paramagnet.
+","[{""version"":""v1"",""created"":""Tue, 25 Oct 1994 15:15:09 GMT""}]","2009-10-22"
+"cond-mat/9410093","Felix Ritort","Emilio de Santis, Giorgio Parisi and Felix Ritort","On the Static and Dynamical Transition in the Mean-Field Potts Glass","24 pages + 12 figures, LateX, figures uuencoded at the end of file",,,"ROM2F/94/45 (Universita di Roma II and INFN, Roma)","cond-mat",,"  We study the static as well as the glassy or dynamical transition in the
+mean-field $p$-state Potts glass. By numerical solution of the saddle point
+equations we investigate the static and the dynamical transition for all values
+of $p$ in the non-perturbative regime $p>4$. The static and dynamical
+Edwards-Anderson parameter increase with $p$ logarithmically. This makes the
+glassy transition temperature lie very close to the static one. We compare the
+main predictions of the theory with the numerical simulations.
+","[{""version"":""v1"",""created"":""Tue, 25 Oct 1994 13:24:51 GMT""}]","2007-05-23"
+"gr-qc/9410033",,"L. E. Mendes, A. B. Henriques and R. G. Moorhouse","An Exact Calculation of the Energy Density of Cosmological Gravitational
+  Waves","12 pages+5 figures, uuencoded file,DF/IST-2.94","Phys.Rev. D52 (1995) 2083-2088","10.1103/PhysRevD.52.2083",,"gr-qc",,"  In this paper we calculate the Bogoliubov coefficients and the energy density
+of the stochastic gravitational wave background for a universe that undergoes
+inflation followed by radiation domination and matter domination, using a
+formalism that gives the Bogoliubov coefficients as continous functions of
+time. By making a reasonable assumption for the equation of state during
+reheating, we obtain in a natural way the expected high frequency cutoff in the
+spectral energy density.
+","[{""version"":""v1"",""created"":""Mon, 24 Oct 1994 17:12:44 GMT""}]","2019-08-17"
+"gr-qc/9410038","Bronnikov Kirill Alexandrovich","K.A.Bronnikov and V.N.Melnikov","Vacuum Weyl Cosmologies in D Dimensions","6 pages, LaTeX",,,"RGS-CSVR-013/94","gr-qc",,"  Vacuum cosmological models are considered in the context of a
+multidimensional theory of gravity with integrable Weyl geometry. A family of
+exact solutions with a chain of internal spaces is obtained. Models with one
+internal space are considered in more detail; nonsingular models are selected.
+","[{""version"":""v1"",""created"":""Tue, 25 Oct 1994 12:51:03 GMT""}]","2016-08-31"
+"hep-lat/9410017","K. Viswanathan","K.S.Viswanathan and R.Parthasarathy","QCD Strings as Constrained Grassmannian Sigma Model:","22 pages, Preprint: SFU HEP-116-94","Phys.Rev. D51 (1995) 5830-5838","10.1103/PhysRevD.51.5830",,"hep-lat hep-th",,"  We present calculations for the effective action of string world sheet in R3
+and R4 utilizing its correspondence with the constrained Grassmannian sigma
+model. Minimal surfaces describe the dynamics of open strings while harmonic
+surfaces describe that of closed strings. The one-loop effective action for
+these are calculated with instanton and anti-instanton background, reprsenting
+N-string interactions at the tree level. The effective action is found to be
+the partition function of a classical modified Coulomb gas in the confining
+phase, with a dynamically generated mass gap.
+","[{""version"":""v1"",""created"":""Mon, 24 Oct 1994 23:16:44 GMT""}]","2009-10-22"
+"hep-ph/9410358","Ji-Fang Zhang","Carl E. Carlson and Nimai C. Mukhopadhyay","The Bloom-Gilman Duality and Leading Logarithms","7 pages",,,"RPI-N91-1994","hep-ph",,"  The existing inclusive electroproduction data base allow us a look at the
+issue of the relative behaviors of background and resonance excitations, a part
+of the Bloom-Gilman duality. These data lack accuracy at high Q^2, but
+establish PQCD scaling in the resonance region and even allow us a glimpse at
+the leading logarithmic corrections due to the gluon radiation and its possible
+quenching at large W and x. These should inspire better quality experimental
+tests at facilities like CEBAF II.
+","[{""version"":""v1"",""created"":""Mon, 24 Oct 1994 18:28:11 GMT""}]","2007-05-23"
+"hep-ph/9410359","Ji-Fang Zhang","Nimai C. Mukhopadhyay and L. Zhang","Sensitivity to properties of the phi-meson in the nucleon structure in
+  the chiral soliton model","5 pages",,,"RPI-N92-1994","hep-ph",,"  The influence of the phi-meson on the nucleon properties in the chiral
+soliton model is discussed.
+","[{""version"":""v1"",""created"":""Mon, 24 Oct 1994 18:31:58 GMT""}]","2007-05-23"
+"hep-ph/9410360","Peter Arnold","Peter Arnold and Chengxing Zhai","The Three-Loop Free Energy for High-Temperature QED and QCD with
+  Fermions","26 pages, 9 postscript figures, UW/PT-94-11","Phys.Rev.D51:1906-1918,1995","10.1103/PhysRevD.51.1906",,"hep-ph",,"  We compute the free energy density for gauge theories, with fermions, at high
+temperature and zero chemical potential. Specifically, we analytically compute
+the free energy through $O(g^4)$, which requires the evaluation of three-loop
+diagrams. This computation extends our previous result for pure gauge QCD.
+","[{""version"":""v1"",""created"":""Mon, 24 Oct 1994 19:30:20 GMT""}]","2016-09-01"
+"hep-ph/9410361",,"Dima Bardin, Arnd Leike, Tord Riemann","THE PROCESS $e^+ e^- \rightarrow l \bar l q \bar q$ AT LEP AND NLC","10 pages (LaTeX), 1 table, 4 figures (not included, a uuencoded file
+  containing the LaTeX and all postscript files is available via anonymous ftp
+  from convex.ifh.de as /pub/preprint/desy94-185.uu), DESY 94-185","Phys.Lett. B344 (1995) 383-390","10.1016/0370-2693(94)01526-I",,"hep-ph",,"  The cross sections for the reaction $e^+ e^- \rightarrow l \bar l q \bar q $
+and for similar four fermion production processes at LEP~1, LEP~2 and the NLC
+are calculated. Due to the extraordinary symmetry properties of the process,
+very compact analytical formulae describe the double differential distributions
+in the invariant masses of the $l \bar l$ and $q \bar{q}$ pairs. The total
+cross sections may be obtained with two numerical integrations.
+","[{""version"":""v1"",""created"":""Tue, 25 Oct 1994 10:58:02 GMT""}]","2009-10-28"
+"hep-ph/9410362","Cesareo A. Dominguez","C. A. Dominguez","Heavy Quark Masses from QCD Sum Rules","Invited talk at the Mexican School of Particles and Fields,
+  Villahermosa, Mexico, October 1994. 5 pages. LATEX file. UCT-TP-219/94",,,,"hep-ph",,"  I review recent determinations of the (on-shell) charm- and beauty-quark
+masses in the framework of relativistic and non-relativistic ratios of Laplace
+transform QCD moment sum rules. The validity of the non-relativistic version of
+QCD sum rules in this particular application is discussed.
+","[{""version"":""v1"",""created"":""Tue, 25 Oct 1994 11:59:59 GMT""}]","2007-05-23"
+"hep-ph/9410363","Cesareo A. Dominguez","C. A. Dominguez","Deconfinement and Chiral-Symmetry Restoration in Finite Temperature QCD","Invited talk at CAM-94, Cancun, Mexico, September 1994. 21 pages and
+  8 figures (not included). LATEX file. UCT-TP-218/94","AIP Conf.Proc.342:383-390,1995","10.1063/1.48778",,"hep-ph",,"  QCD sum rules are based on the Operator Product Expansion of current
+correlators, and on QCD-hadron duality. An extension of this program to finite
+temperature is discussed. This allows for a study of deconfinement and
+chiral-symmetry restoration. In addition, it is possible to relate certain
+hadronic matrix elements to expectation values of quark and gluon field
+operators by using thermal Finite Energy Sum Rules. In this way one can
+determine the temperature behaviour of hadron masses and couplings, as well as
+form factors. An attempt is made to clarify some misconceptions in the existing
+literature on QCD sum rules at finite temperature.
+","[{""version"":""v1"",""created"":""Tue, 25 Oct 1994 13:00:30 GMT""}]","2010-11-01"
+"hep-ph/9410364",,"S. Dawson (BNL) and G. Valencia (Iowa State)","Bounds on Anomalous Gauge Boson Couplings From Partial Z Widths at LEP","LATEX, 22 pages, 5 figures (appended as uuencoded compressed tar
+  file), BNL-60949","Nucl.Phys. B439 (1995) 3-22","10.1016/0550-3213(95)00042-Q",,"hep-ph",,"  We place bounds on anomalous gauge boson couplings from LEP data with
+particular emphasis on those couplings which do not contribute to $Z$ decays at
+tree level. We use an effective field theory formalism to compute the one-loop
+corrections to the $Z\rightarrow {\overline f} f$ decay widths resulting from
+non-standard model three and four gauge boson vertices. We find that the
+precise measurements at LEP constrain the three gauge boson couplings at a
+level comparable to that obtainable at LEPII and LHC.
+","[{""version"":""v1"",""created"":""Tue, 25 Oct 1994 14:21:49 GMT""}]","2009-10-28"
+"hep-ph/9410365",,"E. Farhi, J. Goldstone, S. Gutmann, K. Rajagopal, R. Singleton","Fermion Production in the Background of Minkowski Space Classical
+  Solutions in Spontaneously Broken Gauge Theory","Version to be published. Argument showing that the topological charge
+  of solutions is undefined has been strengthened and clarified. Conclusions
+  unchanged","Phys.Rev. D51 (1995) 4561-4572","10.1103/PhysRevD.51.4561","CTP-2370, HUTP-94/A038, BU-HEP-94-30","hep-ph hep-th",,"  We investigate fermion production in the background of Minkowski space
+solutions to the equations of motion of $SU(2)$ gauge theory spontaneously
+broken via the Higgs mechanism. First, we attempt to evaluate the topological
+charge $Q$ of the solutions. We find that for solutions $Q$ is not well-defined
+as an integral over all space-time. Solutions can profitably be characterized
+by the (integer-valued) change in Higgs winding number $\Delta N_H$. We show
+that solutions which dissipate at early and late times and which have nonzero
+$\Delta N_H$ must have at least the sphaleron energy. We show that if we couple
+a quantized massive chiral fermion to a classical background given by a
+solution, the number of fermions produced is $\Delta N_H$, and is not related
+to $Q$.
+","[{""version"":""v1"",""created"":""Tue, 25 Oct 1994 15:40:05 GMT""},{""version"":""v2"",""created"":""Fri, 3 Feb 1995 22:24:52 GMT""}]","2009-10-28"
+"hep-th/9410178","George Lavrelashvili","George Lavrelashvili","Fermions in the Background of Dilatonic Sphalerons","Latex, 8p, MPI-PhT/94-65, ZU-TH 31/94","Mod.Phys.Lett. A9 (1994) 3731-3740",,,"hep-th",,"  We discuss the properties and interpretation of a discrete sequence of a
+static spherically symmetric solutions of the Yang-Mills-dilaton theory. This
+sequence is parametrized by the number $n$ of zeros of a component of the gauge
+field potential. It is demonstrated that solutions with odd $n$ posses all the
+properties of the sphaleron. It is shown that there are normalizable fermion
+zero modes in the background of these solutions. The question of instability is
+critically analysed.
+","[{""version"":""v1"",""created"":""Mon, 24 Oct 1994 17:42:39 GMT""}]","2007-05-23"
+"hep-th/9410179","Simon Brian Davis","Simon Davis","Divergences in the Moduli Space Integral and Accumulating Handles in the
+  Infinite-Genus Limit","26 pages, DAMTP-R/94/15","J.Math.Phys. 36 (1995) 648-663; Erratum-ibid. 36 (1995) 3866","10.1063/1.531365",,"hep-th",,"  The symmetries associated with the closed bosonic string partition function
+are examined so that the integration region in Teichmuller space can be
+determined. The conditions on the period matrix defining the fundamental region
+can be translated to relations on the parameters of the uniformizing Schottky
+group. The growth of the lower bound for the regularized partition function is
+derived through integration over a subset of the fundamental region.
+","[{""version"":""v1"",""created"":""Mon, 24 Oct 1994 22:13:46 GMT""}]","2009-10-28"
+"hep-th/9410180","Ali Mostafazadeh","Ali Mostafazadeh","Spectrum Degeneracy of General (p=2)--Parasupersymmetric Quantum
+  Mechanics and Parasupersymmetric Topological Invariants","23 pages, Uni. of Alberta Preprint Oct.1994","Int. J. Mod. Phys. A11 (1996) 1057","10.1142/S0217751X96000493",,"hep-th",,"  A thorough analysis of the general features of $(p=2)$ parasupersymmetric
+quantum mechanics is presented. It is shown that for both Rubakov--Spiridonov
+and Beckers--Debergh formulations of $(p=2)$-parasupersymmetric quantum
+mechanics, the degeneracy structure of the energy spectrum can be derived using
+the defining parasuperalgebras. Thus the results of the present article is
+independent of the details of the Hamiltonian. In fact, they are valid for
+arbitrary systems based on arbitrary dimensional coordinate manifolds. In
+particular, the Rubakov--Spiridonov (R-S) and Beckers--Debergh (B-D) systems
+possess identical degeneracy structures. For a subclass of R-S (alternatively
+B-D) systems, a new topological invariant is introduced. This is a counterpart
+of the Witten index of the supersymmetric quantum mechanics.
+","[{""version"":""v1"",""created"":""Mon, 24 Oct 1994 22:42:45 GMT""}]","2015-06-26"
+"hep-th/9410181","Salman Habib","Salman Habib","Quantum Diffusion","5 pages, LA-UR-94-3329, LaTeX (to appear in Proceedings of the 4th
+  Drexel Symposium on Quantum Nonintegrability)",,,,"hep-th adap-org gr-qc nlin.AO",,"  We consider a simple quantum system subjected to a classical random force.
+Under certain conditions it is shown that the noise-averaged Wigner function of
+the system follows an integro-differential stochastic Liouville equation. In
+the simple case of polynomial noise-couplings this equation reduces to a
+generalized Fokker-Planck form. With nonlinear noise injection new ``quantum
+diffusion'' terms arise that have no counterpart in the classical case. Two
+special examples that are not of a Fokker-Planck form are discussed: the first
+with a localized noise source and the other with a spatially modulated noise
+source.
+","[{""version"":""v1"",""created"":""Tue, 25 Oct 1994 08:58:01 GMT""}]","2008-02-03"
+"hep-th/9410182","Hyeonjoon Shin","Jae Kwan Kim and Hyeonjoon Shin","Low Energy Description of Fermion Pairs in Topologically Massive
+  QED$_{2+1}$ with $N$ Flavours","14 pages, revtex, KAIST-CHEP-94/S3","Phys.Lett. B343 (1995) 323-328","10.1016/0370-2693(94)01459-P",,"hep-th",,"  In topologically massive QED$_{2+1}$ with $N$ flavours, there is the
+possibility that two equal-charged fermions can form a bound state pair in
+either s-wave or p-wave. We are concerned about the s-wave pairs and obtain the
+low energy effective action describing them. It is shown that the fermion pairs
+behave like doubly charged spin-1 bosons and, when they condense, the gauge
+field aquires the longitudinal mass. The approximate $SU(2)$ symmetry due to
+the similarity between the fermion pairs and the gauge field is discussed.
+","[{""version"":""v1"",""created"":""Tue, 25 Oct 1994 09:19:39 GMT""}]","2009-10-28"
+"hep-th/9410183","George Lavrelashvili","George Lavrelashvili","Black Holes and Sphalerons in Low Energy Effective String Theory","Latex, 4p, MPI-PhT/94-66, ZU-TH 32/94",,,,"hep-th",,"  Talk given at the 7th Marcel Grossmann Meeting on General Relativity,
+Stanford University, July 24-30, 1994.
+","[{""version"":""v1"",""created"":""Tue, 25 Oct 1994 09:37:38 GMT""}]","2007-05-23"
+"hep-th/9410184","Sugiyama Katsuyuki","Katsuyuki Sugiyama","A Two Parameter Family of the Calabi-Yau d-Fold","31 pages, Latex file","Annals Phys. 247 (1996) 106-134","10.1006/aphy.1996.0039",,"hep-th",,"  We study a two parameter family of Calabi-Yau d-fold by means of mirror
+symmetry. We construct mirror maps and calculate correlation functions
+associated with {\kae} moduli in the original manifold. We find there are more
+complicated instanton corrections of these couplings than threefolds, which is
+expected to reflect families of instantons with continous parameters.
+","[{""version"":""v1"",""created"":""Tue, 25 Oct 1994 11:28:53 GMT""}]","2009-10-28"
+"hep-th/9410185","Annemarie Blobel","D. Buchholz and C. D'Antoni","Phase space properties of charged fields in theories of local
+  observables","33 pages, no figures, AMSTEX, DESY 94-186","Rev.Math.Phys. 7 (1995) 527-558","10.1142/S0129055X95000219",,"hep-th",,"  Within the setting of algebraic quantum field theory a relation between
+phase-space properties of observables and charged fields is established. These
+properties are expressed in terms of compactness and nuclearity conditions
+which are the basis for the characterization of theories with physically
+reasonable causal and thermal features. Relevant concepts and results of phase
+space analysis in algebraic quantum field theory are reviewed and the
+underlying ideas are outlined.
+","[{""version"":""v1"",""created"":""Tue, 25 Oct 1994 13:15:57 GMT""},{""version"":""v2"",""created"":""Mon, 31 Oct 1994 15:12:47 GMT""}]","2016-09-06"
+"hep-th/9410186","Omer Faruk Dayi","O.F. Dayi and I.H. Duru","$sl_q(2)$ Realizations for Kepler and Oscillator Potentials and
+  q-Canonical Transformations","12 pages, Latex twice, (Comparison with the other approaches and some
+  refs. added. The version which will appear in J. Phys. A)","J.Phys. A28 (1995) 2395-2402","10.1088/0305-4470/28/8/029","MRC.PH.19/94","hep-th",,"  The realizations of the Lie algebra corresponding to the dynamical symmetry
+group SO(2,1) of the Kepler and oscillator potentials are q-deformed. The
+q-canonical transformation connecting two realizations is given and a general
+definition for q-canonical transformation is deduced. q-Schr\""{o}dinger
+equation for a Kepler like potential is obtained from the q-oscillator
+Schr\""{o}dinger equation. Energy spectrum and the ground state wave function
+are calculated.
+","[{""version"":""v1"",""created"":""Tue, 25 Oct 1994 15:50:18 GMT""},{""version"":""v2"",""created"":""Thu, 2 Mar 1995 10:29:49 GMT""}]","2009-10-28"
+"hep-th/9410188","Ivan Cherednik","Ivan Cherednik","Difference-elliptic operators and root systems",,,,,"hep-th math.QA",,"  Recently a new technique in the harmonic analysis on symmetric spaces was
+suggested based on certain remarkable representations of affine and double
+affine Hecke algebras in terms of Dunkl and Demazure operators instead of Lie
+groups and Lie algebras. In the classic case it resulted (among other
+applications) in a new theory of radial part of Laplace operators and their
+deformations including a related concept of the Fourier transform.
+  In the present paper we demonstrate that the new technique works well even in
+the most general difference-elliptic case conjecturally corresponding to the
+$q$-Kac-Moody algebras. We discuss here only the construction of the
+generalized radial (zonal) Laplace operators and connect them with the
+difference-elliptic Ruijsenaars operators generalizing in its turn the
+Olshanetsky-Perelomov differential elliptic operators.
+","[{""version"":""v1"",""created"":""Tue, 25 Oct 1994 08:20:31 GMT""}]","2008-02-03"
+"math/9410207",,"Dmitry Fuchs, Albert Schwarz","Matrix Vieta Theorem",,,,"MSRI 1995-016","math.RA math.OA",,"  We consider generalizations of the Vieta formula (relating the coefficients
+of an algebraic equation to the roots) to the case of equations whose
+coefficients are order-$k$ matrices.
+  Specifically, we prove that if $X_1,\dots ,X_n$ are solutions of an algebraic
+matrix equation $X^n+A_1X^{n-1}+\dots +A_n=0,$ independent in the sense that
+they determine the coefficients $A_1,\dots ,A_n$, then the trace of $A_1$ is
+the sum of the traces of the $X_i$, and the determinant of $A_n$ is, up to a
+sign, the product of the determinants of the $X_i$. We generalize this to
+arbitrary rings with appropriate structures.
+  This result is related to and motivated by some constructions in
+non-commutative geometry.
+","[{""version"":""v1"",""created"":""Tue, 25 Oct 1994 00:00:00 GMT""}]","2016-09-06"
+"nucl-th/9410042",,"P. Magierski, K. Burzynski, J. Dobaczewski, and W. Nazarewicz","The Delta I=4 Bifurcation in Superdeformed Bands","to be published in Acta Physica Polonica, 5 pages, 4 figures
+  available on request from magiersk@fuw.edu.pl, LaTex",,,,"nucl-th",,"  The origin of the Delta I=4 staggering effect which has recently been
+observed in several superdeformed bands is discussed. The Hamamoto and
+Mottelson model, which is based on a phenomenological parametrization of the
+hamiltonian as a quartic function of angular momentum, is analyzed. A stability
+of the description with respect to the C_4 - symmetry breaking terms is
+studied.
+","[{""version"":""v1"",""created"":""Tue, 25 Oct 1994 12:41:47 GMT""}]","2009-09-25"

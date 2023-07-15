@@ -1,0 +1,139 @@
+"astro-ph/9404001","Tim Bedding","T.R. Bedding, J.G. Robertson and R.G. Marson","An Optical Interferometer with Wavelength Dispersion","Accepted for publication in Astronomy and Astrophysics. (9 pages,
+  uuencoded and compressed PostScript; hardcopy on request from
+  tbedding@eso.org). ESO-BRM0494","Astron.Astrophys.290:340,1994",,,"astro-ph",,"  MAPPIT is an optical interferometer installed at the coude focus of the 3.9-m
+Anglo-Australian Telescope. The instrument combines non-redundant masking with
+wavelength dispersion and is able to record fringes simultaneously over a wide
+bandwidth. For typical observations centred near 600 nm, the bandwidth is 55 nm
+and the spectral resolution is 3 nm. This paper describes the instrument and
+the data processing methods and presents some results. We find the star sigma
+Sgr to be a close binary; the system is only partially resolved, with a
+separation of (11.5 +/- 2) milliarcsec (assuming the components to have equal
+magnitudes). We also give angular diameter measurements of two red giant stars,
+alpha Sco and beta Gru. The observations of beta Gru (spectral type M5 III)
+resolve the star for the first time and give an equivalent uniform-disk
+diameter of (27 +/- 3) milliarcsec.
+","[{""version"":""v1"",""created"":""Mon, 4 Apr 1994 15:22:36 GMT""}]","2011-05-23"
+"cmp-lg/9404001","Stuart Shieber","Yves Schabes and Stuart M. Shieber","An Alternative Conception of Tree-Adjoining Derivation","33 pages","Computational Linguistics 20(1):91-124",,"CRCT TR-08-92","cmp-lg cs.CL",,"  The precise formulation of derivation for tree-adjoining grammars has
+important ramifications for a wide variety of uses of the formalism, from
+syntactic analysis to semantic interpretation and statistical language
+modeling. We argue that the definition of tree-adjoining derivation must be
+reformulated in order to manifest the proper linguistic dependencies in
+derivations. The particular proposal is both precisely characterizable through
+a definition of TAG derivations as equivalence classes of ordered derivation
+trees, and computationally operational, by virtue of a compilation to linear
+indexed grammars together with an efficient algorithm for recognition and
+parsing according to the compiled grammar.
+","[{""version"":""v1"",""created"":""Mon, 4 Apr 1994 02:59:51 GMT""}]","2009-09-25"
+"cmp-lg/9404002","Stuart Shieber","Stuart M. Shieber","Lessons from a Restricted Turing Test","20 pages",,,"CRCT TR-19-92","cmp-lg cs.CL",,"  We report on the recent Loebner prize competition inspired by Turing's test
+of intelligent behavior. The presentation covers the structure of the
+competition and the outcome of its first instantiation in an actual event, and
+an analysis of the purpose, design, and appropriateness of such a competition.
+We argue that the competition has no clear purpose, that its design prevents
+any useful outcome, and that such a competition is inappropriate given the
+current level of technology. We then speculate as to suitable alternatives to
+the Loebner prize.
+","[{""version"":""v1"",""created"":""Mon, 4 Apr 1994 03:05:08 GMT""}]","2008-02-03"
+"cmp-lg/9404003","Stuart Shieber","Stuart M. Shieber (Harvard University)","Restricting the Weak-Generative Capacity of Synchronous Tree-Adjoining
+  Grammars","21 pages, uses lingmacros.sty, psfig.sty, fullname.sty; minor
+  typographical changes only","Computational Intelligence 10(4):371-385, November 1994",,,"cmp-lg cs.CL",,"  The formalism of synchronous tree-adjoining grammars, a variant of standard
+tree-adjoining grammars (TAG), was intended to allow the use of TAGs for
+language transduction in addition to language specification. In previous work,
+the definition of the transduction relation defined by a synchronous TAG was
+given by appeal to an iterative rewriting process. The rewriting definition of
+derivation is problematic in that it greatly extends the expressivity of the
+formalism and makes the design of parsing algorithms difficult if not
+impossible. We introduce a simple, natural definition of synchronous
+tree-adjoining derivation, based on isomorphisms between standard
+tree-adjoining derivations, that avoids the expressivity and implementability
+problems of the original rewriting definition. The decrease in expressivity,
+which would otherwise make the method unusable, is offset by the incorporation
+of an alternative definition of standard tree-adjoining derivation, previously
+proposed for completely separate reasons, thereby making it practical to
+entertain using the natural definition of synchronous derivation. Nonetheless,
+some remaining problematic cases call for yet more flexibility in the
+definition; the isomorphism requirement may have to be relaxed. It remains for
+future research to tune the exact requirements on the allowable mappings.
+","[{""version"":""v1"",""created"":""Mon, 4 Apr 1994 03:07:42 GMT""},{""version"":""v2"",""created"":""Tue, 30 Aug 1994 23:16:33 GMT""}]","2008-02-03"
+"cond-mat/9404003","Shoudan Liang","Shoudan Liang and Hanbin Pang","Ferromagnetism in the Infinite-U Hubbard Model","13 pages, RevteX 3.0, seven figures appended in uuencoded form,
+  correcting problems with uuencoded figures",,"10.1209/0295-5075/32/2/014",,"cond-mat",,"  We have studied the stability of the ferromagnetic state in the infinite-U
+Hubbard model on a square lattice by approximate diagonalization of finite
+lattices using the density matrix renormalization group technique. By studying
+lattices with up to 5X20 sites, we have found the ferromagnetic state to be
+stable below the hole density of 22 percent. Beyond 22 percent of hole doping,
+the total spin of the ground state decreased gradually to zero with increasing
+hole density.
+","[{""version"":""v1"",""created"":""Mon, 4 Apr 1994 01:25:27 GMT""},{""version"":""v2"",""created"":""Tue, 5 Apr 1994 01:42:39 GMT""}]","2009-10-22"
+"cond-mat/9404004","Uwe Tauber","E. Frey, U.C. T\""auber, and F. Schwabl","Crossover from Isotropic to Directed Percolation","19 pages, written in RevTeX, 12 figures available upon request (from
+  tauber@cmt.harvard.edu or frey@physik.tu-muenchen.de), EF/UCT--94/2, to be
+  published in Phys. Rev. E (May 1994)","Phys. Rev. E 49 (1994) 5058","10.1103/PhysRevE.49.5058",,"cond-mat",,"  Percolation clusters are probably the simplest example for scale--invariant
+structures which either are governed by isotropic scaling--laws
+(``self--similarity'') or --- as in the case of directed percolation --- may
+display anisotropic scaling behavior (``self--affinity''). Taking advantage of
+the fact that both isotropic and directed bond percolation (with one preferred
+direction) may be mapped onto corresponding variants of (Reggeon) field theory,
+we discuss the crossover between self--similar and self--affine scaling. This
+has been a long--standing and yet unsolved problem because it is accompanied by
+different upper critical dimensions: $d_c^{\rm I} = 6$ for isotropic, and
+$d_c^{\rm D} = 5$ for directed percolation, respectively. Using a generalized
+subtraction scheme we show that this crossover may nevertheless be treated
+consistently within the framework of renormalization group theory. We identify
+the corresponding crossover exponent, and calculate effective exponents for
+different length scales and the pair correlation function to one--loop order.
+Thus we are able to predict at which characteristic anisotropy scale the
+crossover should occur. The results are subject to direct tests by both
+computer simulations and experiment. We emphasize the broad range of
+applicability of the proposed method.
+","[{""version"":""v1"",""created"":""Mon, 4 Apr 1994 15:02:21 GMT""}]","2009-10-22"
+"hep-ph/9404208",,"Xinmin Zhang","Top Quark As A Topological Color Soliton","11 Pages, TeX file, to appear in Phys. Rev. D. A few minor
+  corrections were made","Phys.Rev.D51:5309-5311,1995","10.1103/PhysRevD.51.5309","Ames-HET-94-02","hep-ph",,"  In this paper I propose an scenario for the top quark as a topological color
+soliton. I illustrate some features of the top quark as a soliton in a toy
+model based on nonlinear realization of the $SU(3)_L \times SU(3)_R /
+SU(3)_{L+R}$, with $SU(3)_{L+R}$ being the color gauge group.
+","[{""version"":""v1"",""created"":""Sun, 3 Apr 1994 20:06:41 GMT""},{""version"":""v2"",""created"":""Mon, 11 Apr 1994 19:53:22 GMT""},{""version"":""v3"",""created"":""Thu, 15 Sep 1994 16:12:17 GMT""},{""version"":""v4"",""created"":""Sat, 4 Mar 1995 20:33:37 GMT""}]","2011-01-13"
+"hep-ph/9404209","R. Sekhar Chivukula","R.S. Chivukula, E.H. Simmons, and J. Terning","A Heavy Top Quark and the $Zb\bar{b}$ Vertex in Non-Commuting Extended
+  Technicolor","14 pages, (uses harmac.tex), BUHEP-94-8","Phys.Lett.B331:383-389,1994","10.1016/0370-2693(94)91068-5",,"hep-ph",,"  We explore corrections to electroweak parameters in the context of Extended
+Technicolor (ETC) models in which the ETC gauge-boson which generates the
+top-quark mass carries weak $SU(2)$ charge. For $m_t \sim 150$ GeV there exist
+potentially large corrections to the $Z$ decay width to $b$-quarks.
+Interestingly, in contrast to the situation in ETC models where the gauge-boson
+which generates the top-quark mass is a weak $SU(2)$ singlet, the corrections
+may {\it increase} the $Z \to b \bar{b}$ branching ratio.
+","[{""version"":""v1"",""created"":""Mon, 4 Apr 1994 03:27:47 GMT""}]","2008-11-26"
+"hep-ph/9404210",,"Alon E. Faraggi","Deriving The Standard Model From Superstring Theory","IASSNS--HEP--94/21, 11 pages",,,,"hep-ph hep-th",,"  I outline a program to derive the Standard Model directly from superstring
+theory. I present a class of three generation superstring standard--like models
+in the free fermionic formulation. I discuss some phenomenological properties
+of these models. In particular these models suggest an explanation for the top
+quark mass hierarchy. A numerical estimate yielded $m_t\sim175-180~GeV$. The
+general texture of fermion mass matrices was obtained from analysis of
+nonrenormalizable terms up to order $N=8$.I argue that the realistic features
+of these models are due to the underlying $Z_2\times Z_2$ orbifold, with
+standard embedding, at the free fermionic point in toroidal compactification
+space.
+","[{""version"":""v1"",""created"":""Mon, 4 Apr 1994 13:39:11 GMT""}]","2007-05-23"
+"hep-th/9403196","Sergei Kuzenko","S.M. Kuzenko, S.L. Lyakhovich, and A.Yu. Segal (Department of
+  Theoretical Physics, Tomsk State University, Tomsk, Russia)","A Geometric Model of Arbitrary Spin Massive Particle","25 pages; v2: eq. (45.b) corrected","Int.J.Mod.Phys.A10:1529-1552,1995","10.1142/S0217751X95000735",,"hep-th","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  A new model of relativistic massive particle with arbitrary spin
+(($m,s$)-particle) is suggested. Configuration space of the model is a product
+of Minkowski space and two-dimensional sphere, ${\cal M}^6 = {\Bbb R}^{3,1}
+\times S^2$. The system describes Zitterbewegung at the classical level.
+Together with explicitly realized Poincar\'e symmetry, the action functional
+turns out to be invariant under two types of gauge transformations having their
+origin in the presence of two Abelian first-class constraints in the Hamilton
+formalism. These constraints correspond to strong conservation for the
+phase-space counterparts of the Casimir operators of the Poincar\'e group.
+Canonical quantization of the model leads to equations on the wave functions
+which prove to be equivalent to the relativistic wave equations for the massive
+spin-$s$ field.
+","[{""version"":""v1"",""created"":""Sun, 3 Apr 1994 17:14:37 GMT""},{""version"":""v2"",""created"":""Wed, 29 Nov 2017 06:35:28 GMT""}]","2017-11-30"
+"hep-th/9404012","Krzysztof Gawedzki","Krzysztof Gawedzki","Coulomb Gas Representation of the SU(2) WZW Correlators at Higher Genera","9 pages, latex","Lett.Math.Phys. 33 (1995) 335-345","10.1007/BF00749687",,"hep-th",,"  We express the correlation functions of the SU(2) WZW conformal field theory
+on Riemann surfaces of genus >1 by finite dimensional integrals.
+","[{""version"":""v1"",""created"":""Mon, 4 Apr 1994 14:23:50 GMT""}]","2009-10-28"
+"hep-th/9404014","The Nudibranch","G. Gat and R. Ray","Finite Temperature and Density Effects in Planar Q.E.D","24 pages, LaTeX","Annals Phys. 238 (1995) 208-224","10.1006/aphy.1995.1020",,"hep-th cond-mat",,"  The behavior of finite temperature planar electrodynamics is investigated. We
+calculate the static as well as dynamic characteristic functions using real
+time formalism. The temperature and density dependence of dielectric and
+permeability functions, plasmon frequencies and their relation to the screening
+length is determined. The radiative correction to the fermion mass is also
+calculated. We also calculate the temperature dependence of the electron
+(anyon) magnetic moment. Our results for the gyromagnetic ratio go smoothly to
+the known result at zero temperature, $g=2$, in accordance with the general
+expectation.
+","[{""version"":""v1"",""created"":""Mon, 4 Apr 1994 15:25:39 GMT""}]","2015-06-26"

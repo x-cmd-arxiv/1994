@@ -1,0 +1,247 @@
+"alg-geom/9405006","Ugo Bruzzo","C. Bartocci, U. Bruzzo, and D. Hernandez Ruiperez","A Fourier-Mukai Transform for Stable Bundles on K3 Surfaces","Revised version, 15 pages AMSTeX with AMSppt.sty v. 2.1b","J. reine angew. Math. 486 (1997) 1-16",,,"alg-geom math.AG",,"  We define a Fourier-Mukai transform for sheaves on K3 surfaces over $\C$, and
+show that it maps polystable bundles to polystable ones. The role of ``dual''
+variety to the given K3 surface $X$ is here played by a suitable component
+$\hat X$ of the moduli space of stable sheaves on $X$. For a wide class of K3
+surfaces $\hat X$ can be chosen to be isomorphic to $X$; then the Fourier-Mukai
+transform is invertible, and the image of a zero-degree stable bundle $F$ is
+stable and has the same Euler characteristic as $F$.
+","[{""version"":""v1"",""created"":""Fri, 13 May 1994 17:14:48 GMT""},{""version"":""v2"",""created"":""Mon, 5 Aug 1996 16:57:15 GMT""}]","2008-02-03"
+"astro-ph/9405033","Jonathan Katz","J. I. Katz","Delayed Hard Photons from Gamma-Ray Bursts","9 pp., Tex, WU-JIK-94-2",,"10.1086/187503",,"astro-ph",,"  The delayed hard (up to 25 GeV) photons observed more than an hour following
+a gamma-ray burst on February 17, 1994 may result from the collisions of
+relativistic nucleons with a dense cloud, producing $\pi^0$. The required cloud
+density is $\sim 2 \times 10^{11}$ cm$^{-3}$. This cloud may be the remains of
+the disrupted envelope of a neutron star, and may survive as an excretion disc
+of $\sim 10^{14}$--$10^{15}$ cm radius around the coalescing binary.
+","[{""version"":""v1"",""created"":""Fri, 13 May 1994 20:34:44 GMT""}]","2009-10-22"
+"cond-mat/9405039",,"Elmar S. Heeb and T. Maurice Rice","Superconductivity in the Two-Dimensional $t$-$J$ Model at Low Hole
+  Doping","12 pages and 4 PostScript figures, ReVTeX 3.0, ETH-TH/94-15",,"10.1209/0295-5075/27/9/007",,"cond-mat",,"  By combining a generalized Lanczos scheme with the variational Monte Carlo
+method we can optimize the short- and long-range properties of the groundstate
+separately. This allows us to measure the long-range order of the groundstate
+of the $t$-$J$ model as a function of the coupling constant $J/t$, and identify
+a region of finite d-wave superconducting long-range order. With a lattice size
+of 50 sites we can reliably examine hole densities down to 0.16.
+","[{""version"":""v1"",""created"":""Fri, 13 May 1994 16:32:00 GMT""}]","2016-08-31"
+"cond-mat/9405040","Nick Provatas","N. Provatas, T. Ala-Nissila, Martin Grant, K. R. Elder, Luc Pich","Flame propagation in random media","4, LR5413",,"10.1103/PhysRevE.51.4232",,"cond-mat",,"  We introduce a phase-field model to describe the dynamics of a
+self-sustaining propagating combustion front within a medium of randomly
+distributed reactants. Numerical simulations of this model show that a flame
+front exists for reactant concentration $c > c^* > 0$, while its vanishing at
+$c^*$ is consistent with mean-field percolation theory. For $c > c^*$, we find
+that the interface associated with the diffuse combustion zone exhibits kinetic
+roughening characteristic of the Kardar-Parisi-Zhang equation.
+","[{""version"":""v1"",""created"":""Fri, 13 May 1994 16:04:28 GMT""}]","2009-10-22"
+"cond-mat/9405042","Heiko Rieger","H.Rieger J. Kisker and M.Schreckenberg","Non-equilibrium dynamics in the random bond Ising chain: A reminiscence
+  of aging in spin glasses","RevTeX 15 pages + 9 figures (appended as uuencoded compressed
+  tar-file), THP51-94","Physica A 210 (1994) 324",,,"cond-mat hep-lat",,"  Results of extensive Monte-Carlo simulations that investigate the
+out-of-equilibrium dynamics of the one-dimensional Ising spin glass model with
+a Gaussian bond-distribution are presented. At low enough temperatures a
+typical (interrupted) aging scenario is established as in two- and similar to
+three-dimensional spin glass models. Since the underlying mechanism is a slow
+domain-growth we study in detail spatial correlations and the time-dependence
+of the domain- as well as kink-statistics. We find that all correlation
+functions in time and in space as well as the domain-size probability
+distribution function obey simple scaling laws.
+","[{""version"":""v1"",""created"":""Sat, 14 May 1994 10:46:49 GMT""}]","2007-05-23"
+"hep-ex/9405004",,"The SLD Collaboration","Measurement of the Charged Multiplicity of $Z \rightarrow b
+  \overline{b}$ Events","15 pages (in Phyzzx) and two figures (uuencoded compressed EPS
+  files), Physical Review Letters Volume 72, 3145 (May 1994), SLAC preprint
+  SLAC-PUB-6372 (as revised for Physical Review Letters)","Phys.Rev.Lett.72:3145-3149,1994","10.1103/PhysRevLett.72.3145",,"hep-ex hep-ph",,"  Using an impact parameter tag to select an enriched sample of $Z \rightarrow
+b \overline{b}$ events, we have measured the difference between the average
+charged multiplicity of $Z \rightarrow b \overline{b}$ and $Z^0 \rightarrow
+hadrons$ to be $\overline{n}_{b} - \overline{n}_{had} = 2.24\pm
+0.30(\rm{stat.}) \pm 0.33(\rm{syst.})$ tracks per event. {}From this, we have
+derived $\overline{n}_{b} - \overline{n}_{uds} = 3.31 \pm 0.41 \pm 0.79.$
+Comparing this measurement with those at lower center-of-mass energies, we find
+no evidence that $\overline{n}_{b} - \overline{n}_{uds}$ depends on energy.
+This result is in agreement with a precise prediction of perturbative QCD, and
+supports the notion that QCD remains asymptotically free down to the scale
+$M_b^2$.
+","[{""version"":""v1"",""created"":""Fri, 13 May 1994 23:03:00 GMT""}]","2012-08-27"
+"hep-ph/9405283",,"A. Ali and D. London","Implications of the Top Quark Mass Measurements for the CKM Parameters,
+  $\xs$ and CP Asymmetries","18 pages and 5 figures (not included, can be obtained by request),
+  LaTeX, CERN Report, CERN-TH.7248/94 (May 1994); UdeM-LPN-TH-94-117.
+  (Corrected version; typos corrected in section 6 in the line following Eq.
+  (34).)","Z.Phys. C65 (1995) 431-443",,,"hep-ph",,"  Motivated by the recent determination of the top quark mass by the CDF
+collaboration, $\mt =174 \pm 10 ^{+13}_{-12}$ GeV, we review and update
+constraints on the parameters of the quark flavour mixing matrix $V_{CKM}$ in
+the standard model. In performing these fits, we use inputs from the
+measurements of $\abseps$, the CP-violating parameter in $K$ decays, $\xd =
+(\delm)/\Gamma$, the mixing parameter in \bdbdbar\ mixing, the present
+measurements of the matrix elements $\absvcb$ and $\absvub$, and the $B$-hadron
+lifetimes. The CDF value for $\mt$ considerably reduces the CKM-parameter space
+previously allowed. An interesting result of our analysis is that the present
+data can be used to restrict the coupling constant product ratio
+$f_{B_d}\sqrt{B_{B_d}}$ to the range 110-270 MeV -- in comfortable agreement
+with existing theoretical estimates of this quantity. We use the updated CKM
+matrix to predict the \bsbsbar\ mixing ratio $\xs$, as well as the quantities
+$\sin 2\alpha$, $\sin 2\beta$ and $\sin^2\gamma$, which characterize
+  CP-violating asymmetries in $B$-decays.
+","[{""version"":""v1"",""created"":""Fri, 13 May 1994 17:56:34 GMT""},{""version"":""v2"",""created"":""Sat, 14 May 1994 15:39:50 GMT""}]","2009-09-25"
+"hep-ph/9405284","Felix Schlumpf","Felix Schlumpf","The Form Factors of the Nucleons","10 pages ReVTeX, 5 figures included, SLAC-PUB-6502","AIPConf.Proc.334:583-586,1995",,,"hep-ph",,"  We demonstrate that a relativistic constituent quark model can give nucleon
+form factors that agree well with recent, accurate measurements. The
+relativistic features of the model and the specific form of the wave function
+are essential for the result. (Talk given at 14th International Conference on
+Few-Body Problems in Physics, Williamsburg, Virginia, USA, May 26-31, 1994)
+","[{""version"":""v1"",""created"":""Fri, 13 May 1994 17:11:56 GMT""}]","2009-09-25"
+"hep-ph/9405285","Tanmay Vachaspati","Tanmay Vachaspati","Electroweak Dyons","14 pages, TUTP-94-10","Nucl.Phys. B439 (1995) 79-90","10.1016/0550-3213(94)00562-S",,"hep-ph hep-th",,"  We consider dyon configurations in the standard electroweak model. In the
+presence of a $\theta$ term and no fermions, the usual result $q = (n+\theta
+/2\pi ) e$ is obtained for the electric charge spectrum. The effect of
+including standard model fermions is discussed qualitatively.
+","[{""version"":""v1"",""created"":""Fri, 13 May 1994 19:20:12 GMT""}]","2009-10-28"
+"hep-ph/9405286","Tanmay Vachaspati","Tanmay Vachaspati","Electroweak Strings, Sphalerons and Magnetic Fields","17 pages, TUTP-94-11",,,,"hep-ph",,"  We describe electroweak strings and their ability to carry Chern-Simons
+number. Certain string configurations, for any $\theta_W$, carry Chern-Simons
+number equal to that of the sphaleron and we conjecture that such strings are
+``extended sphalerons''. The production of electroweak strings during the phase
+transition is discussed and it is suggested that electroweak strings could
+survive long enough for them to play a role in baryogenesis. Finally the issue
+of magnetic field generation during the electroweak phase transition is
+addressed and several points not discussed in the existing literature are
+clarified. A connection is made between electroweak strings and magnetic fields
+produced at the phase transition. (Based on the talk presented at the NATO
+workshop on ``Electroweak Physics and the Early Universe'', in Sintra, March
+1994)
+","[{""version"":""v1"",""created"":""Fri, 13 May 1994 19:22:29 GMT""}]","2007-05-23"
+"hep-ph/9405287","David Griegel","David K. Griegel and Thomas D. Cohen","QCD sum rules vs. chiral perturbation theory","9 pages (no figures), UMPP 94-136","Phys.Lett. B333 (1994) 27-32","10.1016/0370-2693(94)91003-0",,"hep-ph",,"  QCD sum rules are useful tools for studying the spectral properties of
+hadrons; however, assumptions underlying standard sum-rule analyses can lead to
+inconsistencies with known results of chiral perturbation theory. This
+possibility is demonstrated with QCD sum-rule extractions of the nucleon mass
+and $\sigma$ term. In both cases, inconsistent chiral behavior leads to an
+uncertainty in the sum-rule predictions of $\sim 100\,\text{MeV}$.
+","[{""version"":""v1"",""created"":""Fri, 13 May 1994 19:36:17 GMT""}]","2009-10-28"
+"hep-ph/9405288","PostDoc Its","Xiao-Gang He and B.H.J. McKellar","$\epsilon'/\epsilon$ And Anomalous Gauge Boson Couplings","17 pages plus one figure (available from the author upon request),
+  Revtex, OITS-541, UM-P-94/47","Phys.Rev.D51:6484-6489,1995","10.1103/PhysRevD.51.6484",,"hep-ph",,"  We study $\epsilon'/\epsilon$ in the Standard Model and $\epsilon'/\epsilon$
+due to anomalous $WW\gamma$ and $WWZ$ interactions %using recent result on the
+top quark mass from CDF. as a function of the top quark mass. In the Standard
+Model, $\epsilon'/\epsilon$ is in the range $10^{-3} \sim 10^{-4}$ for the
+central value of top quark mass reported by CDF. The anomalous gauge couplings
+can have large contributions to the $CP$ violating $I=2$ amplitude in $K
+\rightarrow \pi\pi$. Within the allowed regions for the anomalous gauge
+couplings, $\epsilon'/\epsilon$ can be dramatically different from the standard
+model prediction.
+","[{""version"":""v1"",""created"":""Fri, 13 May 1994 21:42:33 GMT""}]","2010-11-01"
+"hep-ph/9405289","Thomas Meissner","Th.Meissner","The Convergence Radius of the Chiral Expansion in the Dyson-Schwinger
+  Approach","12 pages (REVTEX) + 4 postscript figures (uuencoded tar-compressed),
+  DOE/ER/40561-140INT94-00-01","Phys.Lett. B340 (1994) 226-230","10.1016/0370-2693(94)01307-1",,"hep-ph nucl-th",,"  We determine the convergence radius $m_{conv}$ for the expansion in the
+current quark mass using the Dyson-Schwinger (DS) equation of QCD in the
+rainbow approximation. Within a Gaussian form for the gluon propagator
+$D_{\mu\nu} ({\bf p}) \sim \delta_{\mu\nu} \chi^2 e^{- {{p^2} \over \Delta}}$
+we find that $m_{conv}$ increases with decreasing width $\Delta$ and increasing
+strength $\chi^2$. For those values of $\chi^2$ and $\Delta$, which provide the
+best known description of low energy hadronic phenomena, $m_{conv}$ lies around
+$2 \Lambda_{QCD}$, which is big enough, that the chiral expansion in the
+strange sector converges. Our analysis also explains the rather low value of
+$m_{conv} \approx 50 \dots 80 \ {\text MeV}$ in the Nambu--Jona-Lasinio model,
+which as itself can be regarded as a special case of the rainbow DS models,
+where the gluon propagator is a constant in momentum space.
+","[{""version"":""v1"",""created"":""Sat, 14 May 1994 00:21:13 GMT""}]","2009-10-28"
+"hep-ph/9405290","Gonzalo Parente Bermudez","A.V. Kotikov, V.G. Krivokhizhin and G. Parente","Next-to-Next-to-Leading Order QCD Analysis of DIS Structure Functions","Latex 12 pages, 2 figures available on request, preprint UCI-TR/94-4","Phys.Lett. B333 (1994) 190-195","10.1016/0370-2693(94)91028-6",,"hep-ph",,"  It is performed for the first time a next-to-next-to-leading order analysis
+of deep inelastic structure functions $F_2$ and $F_L$ using the recently
+determined first moments of the non-singlet anomalous dimensions and the
+corresponding Wilson coefficients. {}From a comparison to BCDMS data we found a
+slight decrease in the energy scale of perturbative QCD with respect to the
+next-to-leading order analysis, which brings the scale closer to the value
+predicted from a scheme invariant approach.
+","[{""version"":""v1"",""created"":""Sat, 14 May 1994 01:33:00 GMT""}]","2009-10-28"
+"hep-ph/9405291",,"Gautam Dutta and Anjan S. Joshipura","Pseudo Dirac Neutrinos in Seesaw Model","PRL-Th-94/13 (LATEX File)","Phys.Rev. D51 (1995) 3838-3842","10.1103/PhysRevD.51.3838",,"hep-ph",,"  Specific class of textures for the Dirac and Majorana mass matrices in the
+seesaw model leading to a pair of almost degenerate neutrinos is discussed.
+These textures can be obtained by imposing a horizontal $U(1)$ symmetry. A
+specific model is discussed in which: (1) All three neutrino masses are similar
+in magnitude and could lie around eV providing hot component of the dark matter
+in the universe. (2) Two of these are highly degenerate and their
+${\hbox{(mass)}}^2$ difference could solve the solar neutrino problem through
+large angle MSW solution. (3) The electron neutrino mass may be observable
+through Kurie plot as well as through search of the neutrinoless double beta
+decay.
+","[{""version"":""v1"",""created"":""Fri, 13 May 1994 18:58:48 GMT""}]","2009-10-28"
+"hep-ph/9405292",,"Gautam Dutta, K. B. Vijaykumar and Anjan S. Joshipura","Leptonic Flavor Violations in the Presence of an Extra Z","(LATEX File, Two figures not included)","Phys.Rev. D50 (1994) 2109-2115","10.1103/PhysRevD.50.2109",,"hep-ph",,"  Gauged extensions [$SU(2)_L\otimes U(1)_Y\otimes U(1)_X$] of the standard
+$SU(2)_L\otimes U(1)_Y$ model obtained without extending the fermion content of
+the model are studied. Models that are possible when $U(1)_X$ is identified
+with some combination of the family lepton numbers are systematically
+classified. Most of these contain flavor violations in the leptonic sector.
+These flavor violations are correlated to the mixing of the $U(1)_X$ gauge
+boson $Z'$ with the ordinary $Z$ in the models considered here. Detailed
+phenomenological implications of a typical model are discussed. Constraints on
+the $Z'$ mass and the $Z$-$Z'$ mixing following from ({\em i}) the observations
+at LEP, ({\em ii}) rare processes like $Z\rightarrow e\tau$ and ({\em iii})
+flavor violating $\tau$ decays are presented. It is found that the constraints
+coming from the LEP allows the rare processes like $\tau \rightarrow eee $ at
+the level of the present limits on its branching ratio. Thus the future search
+could either improve on the existing LEP limits or would find such flavor
+violating decays.
+","[{""version"":""v1"",""created"":""Fri, 13 May 1994 18:58:52 GMT""}]","2009-10-28"
+"hep-th/9405088",,"Nelson R.F. Braga","BRST quantization of anomalous gauge theories","16 pages, latex, revised and enlarged version to appear in Phys.Rev.D","Phys.Rev.D51:5905-5910,1995","10.1103/PhysRevD.51.5905","IF-UFRJ-94-05","hep-th",,"  It is shown how the BRST quantization can be applied to a gauge invariant
+sector of theories with anomalously broken symmetries. This result is used to
+show that shifting the anomalies to a classically trivial sector of fields
+(Wess-Zumino mechanism) makes it possible to quantize the physical sector using
+a standard BRST procedure, as for a non anomalous theory. The trivial sector
+plays the role of a topological sector if the system is quantized without
+shifting the anomalies.
+","[{""version"":""v1"",""created"":""Fri, 13 May 1994 17:28:56 GMT""},{""version"":""v2"",""created"":""Tue, 7 Feb 1995 13:32:32 GMT""}]","2008-11-26"
+"hep-th/9405089","Barry McCoy","Rinat Kedem and Barry M. McCoy","Quasi-particles in the chiral Potts model","19 pages in harvmac plus 9 figures appended to the file. (Several
+  references have been added). ITPSB 94-012","Int.J.Mod.Phys. B8 (1994) 3601","10.1142/S0217979294001524",,"hep-th",,"  We study the quasi-particle spectrum of the integrable three-state chiral
+Potts chain in the massive phase by combining a numerical study of the zeroes
+of associated transfer matrix eigenvalues with the exact results of the
+ferromagnetic three-state Potts chain and the three-state superintegrable
+chiral Potts model. We find that the spectrum is described in terms of
+quasi-particles with momenta restricted only to segments of the Brillouin zone
+$0\leq P \leq 2\pi$ where the boundaries of the segments depend on the chiral
+angles of the model.
+","[{""version"":""v1"",""created"":""Fri, 13 May 1994 18:46:28 GMT""},{""version"":""v2"",""created"":""Mon, 13 Jun 1994 16:27:26 GMT""}]","2009-10-28"
+"hep-th/9405090","Klaus Kirsten","Andrei Bytsenko, Klaus Kirsten, Sergio Zerbini","Are p-Branes Asymptotically Black Holes?","8 pages, LaTex, UB-ECM-PF 93/25","Mod.Phys.Lett. A9 (1994) 1569-1578","10.1142/S0217732394001404",,"hep-th",,"  An attempt is made to compare the asymptotic state density of twisted
+$p$-branes and the related state density of mass level $M$ of a $D$-dimensional
+neutral black hole. To this aim, the explicit form of the twisted $p$-brane
+total level degeneracy is calculated. The prefactor of the degeneracy, in
+contrast to the leading behaviour, is found to depend on the winding number of
+the $p$-brane.
+","[{""version"":""v1"",""created"":""Fri, 13 May 1994 18:51:40 GMT""}]","2015-06-26"
+"hep-th/9405091","Stephen S. Pinsky","Stephen Pinsky","The Light-Cone Field Theory Paradigm for Spontaneous Symmetry Breaking","17 pages Talk given at Hadron Structure '93, Banska Strianvnica
+  Slovakia, September 5-10, 1993 based on Notes by Oliver Schnetz and Klaus
+  Lucke, Institut f\""ur theoretische Physik III, Erlangen of lectures presented
+  to the Graduiertenkoleg Erlangen-Regensburg on May 26, 1993",,,"OHSTPY-HEPT-TH-93-15","hep-th",,"  In the first part of this lecture I will give an introduction to light-cone
+field theory, focussing on the ``zero mode problem''. In the second part I
+discuss $\phi^4$-theory in 1+1 dimensions. I will show how the dynamics of the
+zero modes can give rise to spontaneous symmetry breaking in spite of the
+trivial vacuum structure on the light-cone.
+","[{""version"":""v1"",""created"":""Fri, 13 May 1994 19:35:51 GMT""}]","2007-05-23"
+"hep-th/9405092","Oh phillial","Phillial Oh","Exact Propagator for $SU(N)$ Coherent State","11 pages, REVTEX 3.0, SNUTP-93-47",,,,"hep-th",,"  We present a classical integrable model of $SU(N)$ isospin defined on complex
+projective phase space in the external magnetic field and solve it exactly by
+constructing the action-angle variables for the system. We quantize the system
+using the coherent state path integral method and obtain an exact expression
+for quantum mechanical propagator by solving the time-dependent Schr\""odinger
+equations.
+","[{""version"":""v1"",""created"":""Sat, 14 May 1994 06:11:53 GMT""}]","2007-05-23"
+"hep-th/9405093","Yukawa Matsuo","H. Awata, M. Fukuma, Y. Matsuo, S. Odake","Determinant and Character of W-infinity algebra","34 pages, YITP/K-1060, YITP/U-94-17, SULDP-1994-3 Improvement of the
+  proofs of some theorems","Commun.Math.Phys.172:377-400,1995","10.1007/BF02099433",,"hep-th",,"  We diagonalize the Hilbert space of some subclass of the quasifinite module
+of the \Winf algebra. States are classified according to their eigenvalues for
+infinitely many commuting charges and the Young diagrams. The parameter
+dependence of their norms is explicitly derived. The full character formulae of
+the degenerate representations are given as summation of the bilinear
+combinations of the Schur polynomials.
+","[{""version"":""v1"",""created"":""Sat, 14 May 1994 13:29:10 GMT""},{""version"":""v2"",""created"":""Tue, 20 Sep 1994 12:44:22 GMT""}]","2014-11-18"
+"math/9405216","Linda Keen","Adam Epstein, Linda Keen, Charles Tresser","The set of maps F_{a,b}: x -> x+a+{b/{2 pi}} sin(2 pi x) with any given
+  rotation interval is contractible",,,,"Stony Brook IMS 1994/8","math.DS",,"  Consider the two-parameter family of real analytic maps $F_{a,b}:x \mapsto x+
+a+{b\over 2\pi} \sin(2\pi x)$ which are lifts of degree one endomorphisms of
+the circle. The purpose of this paper is to provide a proof that for any closed
+interval $I$, the set of maps $F_{a,b}$ whose rotation interval is $I$, form a
+contractible set.
+","[{""version"":""v1"",""created"":""Sat, 14 May 1994 00:00:00 GMT""}]","2016-09-06"
+"nucl-th/9405014","Gianni Salme' -Sanita'","F. Cardarelli, I.L. Grach, I.M. Narodetskii E. Pace, G. Salm\`e, S.
+  Simula","Hard Constituent Quarks and Electroweak Properties of Pseudoscalar
+  Mesons","11 pages and 5 figs. (to be requested), LaTeX, INFN-ISS 94/3. To
+  appear in Physics Lett.B","Phys.Lett. B332 (1994) 1-7","10.1016/0370-2693(94)90849-4",,"nucl-th hep-ph",,"  The high momentum components generated in the wave function of pseudoscalar
+mes* by the one-gluon-exchange interaction are investigated within a
+relativistic constituent quark model. Adopting the light-cone formalism, the
+sensitivity of the weak decay constant and the charge form factor to hard
+constituent quarks is illustrated.
+","[{""version"":""v1"",""created"":""Fri, 13 May 1994 16:18:55 GMT""}]","2016-08-14"
+"nucl-th/9405015",,"David R. Harrington","Large Angle K+-Deuteron Scattering as a Probe for Meson Exchange Effects","8 pages, LaTex, 6 figures available from author",,,,"nucl-th",,"  Meson exchange contributions have been suggested as one class of medium
+effects which might explain the continuing discrepancy between experimental
+results and theoretical predictions for K+-nucleus scattering. These exchange
+effects are negligible for near-forward K+-deuteron scattering because of the
+large size of the deuteron, but at large angles they might be expected to be
+significant compared to the weak double scattering. Detailed calculations,
+however, show that the quadrupole and magnetic contributions from single
+scattering are large enough to dominate both double scattering and exchange
+contributions even at large momentum transfers. The exchange contributions
+become significant only if the target deuteron is highly aligned so that the
+single scattering contributions are greatly reduced.
+","[{""version"":""v1"",""created"":""Fri, 13 May 1994 18:14:25 GMT""}]","2009-09-25"

@@ -1,0 +1,282 @@
+"chao-dyn/9405001","Jean-Pierre Eckmann","J.-P. Eckmann, C.-A. Pillet (D\'ept. de Physique Th\'eorique,
+  Universit\'e de Gen\`eve, Gen\`eve, Switzerland )","Spectral Duality for Planar Billiards","33 pages, Postscript, A4",,"10.1007/BF02108330",,"chao-dyn nlin.CD",,"  For a bounded open domain $\Omega$ with connected complement in ${\bf R}^2$
+and piecewise smooth boundary, we consider the Dirichlet Laplacian
+$-\Delta_\Omega$ on $\Omega$ and the S-matrix on the complement $\Omega^c$. We
+show that the on-shell S-matrices ${\bf S}_k$ have eigenvalues converging to 1
+as $k\uparrow k_0$ exactly when $-\Delta_\Omega$ has an eigenvalue at energy
+$k_0^2$. This includes multiplicities, and proves a weak form of
+``transparency'' at $k=k_0$. We also show that stronger forms of transparency,
+such as ${\bf S}_{k_0}$ having an eigenvalue 1 are not expected to hold in
+general.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 13:39:48 GMT""}]","2009-10-22"
+"cmp-lg/9405001","Fernando Pereira","Ido Dagan (AT&T Bell Laboratories, Murray Hill, NJ 07974, USA),
+  Fernando Pereira (AT&T Bell Laboratories, Murray Hill, NJ 07974, USA),
+  Lillian Lee (DAS, Harvard University, Cambridge MA 02138, USA)","Similarity-Based Estimation of Word Cooccurrence Probabilities","13 pages, to appear in proceedings of ACL-94",,,,"cmp-lg cs.CL",,"  In many applications of natural language processing it is necessary to
+determine the likelihood of a given word combination. For example, a speech
+recognizer may need to determine which of the two word combinations ``eat a
+peach'' and ``eat a beach'' is more likely. Statistical NLP methods determine
+the likelihood of a word combination according to its frequency in a training
+corpus. However, the nature of language is such that many word combinations are
+infrequent and do not occur in a given corpus. In this work we propose a method
+for estimating the probability of such previously unseen word combinations
+using available information on ``most similar'' words. We describe a
+probabilistic word association model based on distributional word similarity,
+and apply it to improving probability estimates for unseen word bigrams in a
+variant of Katz's back-off model. The similarity-based method yields a 20%
+perplexity improvement in the prediction of unseen bigrams and statistically
+significant reductions in speech-recognition error.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 14:54:10 GMT""}]","2008-02-03"
+"cond-mat/9404101","Yadin Y. Goldschmidt","Yadin Y. Goldschmidt","Manifolds in random media: A variational approach to the spatial
+  probability distribution","22 pages, 3 figures available on request, Revtex",,"10.1051/jp1:1994209","Pitt-CM-4-20-94","cond-mat",,"  We develop a new variational scheme to approximate the position dependent
+spatial probability distribution of a zero dimensional manifold in a random
+medium. This celebrated 'toy-model' is associated via a mapping with directed
+polymers in 1+1 dimension, and also describes features of the
+commensurate-incommensurate phase transition. It consists of a pointlike
+'interface' in one dimension subject to a combination of a harmonic potential
+plus a random potential with long range spatial correlations. The variational
+approach we develop gives far better results for the tail of the spatial
+distribution than the hamiltonian version, developed by Mezard and Parisi, as
+compared with numerical simulations for a range of temperatures. This is
+because the variational parameters are determined as functions of position. The
+replica method is utilized, and solutions for the variational parameters are
+presented. In this paper we limit ourselves to the replica symmetric solution.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 00:41:30 GMT""}]","2009-10-22"
+"cond-mat/9405001","Morten Holm Pedersen","J.J. Rodr\'iguez-N\'u\~nez, S. Schafroth, T. Schneider, M.H. Pedersen
+  and C. Rossel","Comment on ""Evolution from BCS Superconductivity to Bose-Einstein
+  Condensation: Role of the Parameter $k_{\rm F} \xi$ in Interpreting the
+  Experimental Plot by Uemura et al.''}","8 pages - 1 figure (available upon request), Normal LaTeX using
+  Revtex, File 5886",,,,"cond-mat",,"  The problem of crossover from BCS to Bose-Einstein condensation has recently
+attracted considerable interest owing to the discovery of high-$T_{\rm c}$
+cuprates. Their short coherence length, $\xi$, places these materials in the
+interesting region between BCS and Bose-Einstein condensation. In the paper of
+F. Pistolesi and G.C. Strinati (Phys. Rev. B {\bf 49}, 6356 (1994)), the
+Nozi\`eres and Schmitt-Rink approach (NSR) is taken, which is valid for the
+weak coupling regime. They derive a relation between $T_{\rm c}$ and $T_{\rm
+F}$, which they insist is valid for any coupling strength. We present arguments
+that their assumptions are incorrect by using our fully self-consistent
+T-matrix formalism in two dimensions, and show that the NSR approach produces
+unphysical results in this case.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 08:55:39 GMT""}]","2016-08-16"
+"gr-qc/9404065","Sean Carroll","Sean M. Carroll, Edward Farhi, Alan H. Guth, and Ken D. Olum","Energy-Momentum Restrictions on the Creation of Gott Time Machines","Plain TeX, 41 pages incl. 9 figures. MIT-CTP #2252","Phys.Rev. D50 (1994) 6190-6206","10.1103/PhysRevD.50.6190",,"gr-qc hep-th",,"  The discovery by Gott of a remarkably simple spacetime with closed timelike
+curves (CTC's) provides a tool for investigating how the creation of time
+machines is prevented in classical general relativity. The Gott spacetime
+contains two infinitely long, parallel cosmic strings, which can equivalently
+be viewed as point masses in (2+1)-dimensional gravity. We examine the
+possibility of building such a time machine in an open universe. Specifically,
+we consider initial data specified on an edgeless, noncompact, spacelike
+hypersurface, for which the total momentum is timelike (i.e., not the momentum
+of a Gott spacetime). In contrast to the case of a closed universe (in which
+Gott pairs, although not CTC's, can be produced from the decay of stationary
+particles), we find that there is never enough energy for a Gott-like time
+machine to evolve from the specified data; it is impossible to accelerate two
+particles to sufficiently high velocity. Thus, the no-CTC theorems of Tipler
+and Hawking are enforced in an open (2+1)-dimensional universe by a mechanism
+different from that which operates in a closed universe. In proving our result,
+we develop a simple method to understand the inequalities that restrict the
+result of combining momenta in (2+1)-dimensional gravity.
+","[{""version"":""v1"",""created"":""Sun, 1 May 1994 20:35:00 GMT""}]","2009-10-22"
+"gr-qc/9405001","Andrew Chamblin","Andrew Chamblin, Gary Gibbons, Alan R. Steif","Kinks and Time Machines","5 pages of text and 3 figures (obtain figures from A. Chamblin at
+  hachamblin@damtp.cam.ac.uk), DAMTP preprint # R/94/17 (Original submission
+  was slightly garbled.)","Phys.Rev.D50:2353-2355,1994","10.1103/PhysRevD.50.R2353",,"gr-qc",,"  We show that it is not possible to smooth out the metric on the
+Deutsch-Politzer time machine to obtain an everywhere non-singular
+asymptotically flat Lorentzian metric.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 12:54:02 GMT""},{""version"":""v2"",""created"":""Sat, 7 May 1994 16:24:48 GMT""},{""version"":""v3"",""created"":""Mon, 9 May 1994 14:53:37 GMT""}]","2009-10-07"
+"gr-qc/9405002","Peter Peldan","Peter Peldan","Real Formulations of Complex Gravity and a Complex Formulation of Real
+  Gravity","23 pages, CGPG-94/4-6","Nucl.Phys. B430 (1994) 460-484","10.1016/0550-3213(94)00379-3",,"gr-qc",,"  Two gauge and diffeomorphism invariant theories on the Yang-Mills phase space
+are studied. They are based on the Lie-algebras $so(1,3)$ and
+$\widetilde{so(3)}$ -- the loop-algebra of $so(3)$. Although the theories are
+manifestly real, they can both be reformulated to show that they describe
+complex gravity and an infinite number of copies of complex gravity,
+respectively. The connection to real gravity is given. For these theories, the
+reality conditions in the conventional Ashtekar formulation are represented by
+normal constraint-like terms.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 14:28:48 GMT""}]","2009-10-22"
+"gr-qc/9405003","Arthur Wasserman","J. A. Smoller and A. G. Wasserman","Limiting Behavior of Solutions to the Einstein-Yang/Mills Equations","2 pages, um5941","Physica D93:123-136,1996","10.1016/0167-2789(95)00291-X",,"gr-qc",,"  The ADM masses of particle-like solutions to the Einstein-Yang/Mills
+Equations tend to 2 as the number of nodes of the solutions increases. The same
+result is true for black hole solutions with event horizon less than 1. For
+event horizon $\rho > 1$ the ADM masses converge to $\rho + \rho^{-1} .$ These
+statements extend and correct ``An Investigation at the Limiting Behavior of
+Particle-Like Solutions to the Einstein-Yang/Mills Equations and a New black
+Hole Solutions'', by J. A. Smoller and A. G. Wasserman, in Comm. Math. Phys.,
+161, 365-389, (1994).
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 15:41:35 GMT""}]","2015-08-28"
+"hep-lat/9405001",,"Artan Bori\c{c}i and Philippe de Forcrand","Fast Krylov Space Methods for Calculation of Quark Propogator","Postscript file, 4 pages. Figures on request",,,,"hep-lat",,"  Different recently developed Krylov space methods for solving linear systems
+are studied and compared for the solution of the Dirac equation on the lattice.
+Stabilized Biconjugate Gradient (BiCGstab2) is shown to be a robust and
+efficient solver for the calculation of the Wilson quark propagator in lattice
+QCD.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 13:38:24 GMT""}]","2007-05-23"
+"hep-ph/9404358","My Account","M. Veltman","Perturbation Theory and Relative Space","12 pages, report UM-TH-94-12","Acta Phys.Polon.B25:1399-1412,1994",,,"hep-ph",,"  The validity of non-perturbative methods is questioned. The concept of
+relative space is introduced.
+","[{""version"":""v1"",""created"":""Sun, 1 May 1994 16:21:59 GMT""}]","2011-04-15"
+"hep-ph/9404359","Alan Stange","D. Dicus, A. Stange and S. Willenbrock","Higgs Decay to Top Quarks at Hadron Colliders","CPP-94-18, BNL-60339, ILL-(TH)-94-9","Phys.Lett. B333 (1994) 126-131","10.1016/0370-2693(94)91017-0",,"hep-ph",,"  Higgs bosons which decay principally to top quarks, such as in the minimal
+supersymmetric model, produce a peak-dip structure in the $gg\to t\bar t$
+invariant-mass spectrum. This structure is potentially observable at the CERN
+Large Hadron Collider. (see BNL theory home page
+http://penguin.phy.bnl.gov/bnl.html for recent preprints)
+","[{""version"":""v1"",""created"":""Sun, 1 May 1994 22:00:37 GMT""}]","2009-10-28"
+"hep-ph/9404360","Paul Ohmann","V. Barger, M.S. Berger and P. Ohmann","Supergravity Solutions in the Low-$\tan\beta$ $ \lambda_t$ Fixed Point
+  Region","Talk presented by P. Ohmann at the Second IFT Workshop: Yukawa
+  Couplings and the Origins of Mass, Gainesville, Florida, February 11--13,
+  1994. Standard Latex, 11 pages with figures. Uses epsf.sty to incorporate 4
+  postscript figures (uufiled and submitted via figures command). Can be texed
+  without figures. Hardcopies available by conventional mail upon request.
+  MAD/PH/828",,,,"hep-ph",,"  There has been much discussion in the literature about applying the radiative
+electroweak symmetry breaking (EWSB) requirement to GUT models with
+supergravity. We motivate and discuss the application of the EWSB requirement
+to the low $\tan\beta$ fixed-point region and describe the solutions we find.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 01:54:11 GMT""}]","2007-05-23"
+"hep-ph/9404361","Kei-ichi Kondo","Kei-Ichi Kondo, Toru Ebihara, Takuya Iizuka and Eiji Tanaka","Dynamical Breakdown of Chirality and Parity in (2+1)-dimensional QED","22 pages, LaTeX, to be published in Nucl. Phys. B","Nucl.Phys. B434 (1995) 85-108","10.1016/0550-3213(94)00457-P","CHIBA-EP-77-REV","hep-ph",,"  In the (2+1)-dimensional QED with and without the Chern-Simons term, we find
+the non-local gauge in which there is no wavefunction renormalization for the
+fermion in the framework of the Schwinger-Dyson equation. By solving the
+Schwinger-Dyson equation in the non-local gauge, we find a finite critical
+value $N_f^c$ for the number of flavors $N_f$ of four-component Dirac fermions,
+above which the chiral symmetry restores irrespective of presence or absence of
+the Chern-Simons term. In the same framework, we study the possibility of
+dynamical breakdown of the parity. It is shown that the parity is not
+dynamically broken. We discuss this reason from the viewpoint of the
+Schwinger-Dyson equation.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 05:43:31 GMT""},{""version"":""v2"",""created"":""Tue, 2 Aug 1994 10:12:14 GMT""},{""version"":""v3"",""created"":""Fri, 17 Feb 1995 06:07:27 GMT""}]","2009-10-28"
+"hep-ph/9404362","Arnd Leike","D. Choudhury, F. Cuypers, A. Leike","Model-Independent $Z'$ Limits from Electron-Electron Collisions","7 pages, LaTeX, 4 Figures, uuencoded Postscriptfile, MPI-Ph/94-23,
+  LMU-04/94","Phys.Lett. B333 (1994) 531-535","10.1016/0370-2693(94)90179-1",,"hep-ph",,"  Model independent constraints on the mass of an extra neutral gauge boson and
+its couplings to charged leptons are given for the $e^-e^-$ option of a future
+linear collider. Analytic exclusion limits are derived in the Born
+approximation. The results are compared with those of the $e^+e^-$ mode. The
+influence of radiative corrections is discussed.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 07:08:33 GMT""}]","2009-10-28"
+"hep-ph/9404363","Kenton Yee","Ken Yee","Monopoles and Quark Confinement: Introduction and Overview","22 pages, to be published in Lake Louise Winter Institute Proceedings
+  (just fixing some typos)","Helv.Phys.Acta 67:345-356,1994",,"LSUHEP-022094","hep-ph hep-lat",,"  We (try to) pedagogically explain how monopoles arise in QCD, why maximal
+Abelian(MA) gauge is ``special'' for monopole study, the Abelian projection in
+MA gauge, its resultant degrees of freedom(photons, monopoles and charged
+matter fields), and the QCD-equivalent action in terms of these degrees of
+freedom. Then we turn to more recent developments in the subject: Abelian
+dominance, large $N$ behavior of Abelian projected QCD, mass of the charged
+matter fields, notion of an effective photon-monopole action obtained by
+integrating out the charged matter fields, and problems encountered in the
+recent evaluation of this effective action using the microcanonical demon
+method on the lattice.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 07:25:08 GMT""},{""version"":""v2"",""created"":""Wed, 4 May 1994 19:23:16 GMT""},{""version"":""v3"",""created"":""Mon, 20 Jun 1994 19:30:19 GMT""}]","2011-04-15"
+"hep-ph/9405201","Frederic Teubert","M.Martinez and F.Teubert","About the relevance of the Imaginary components of the effective
+  couplings in the Asymmetry measurements","19 pages, IFAE-UAB/94-01","Z.Phys. C65 (1995) 267-276","10.1007/BF01571883",,"hep-ph",,"  The effect coming from imaginary parts of effective couplings in the $e^+
+e^-$ asymmetries is investigated. It is shown that for the present level of
+experimental accuracy, in some asymmetries the imaginary parts of the effective
+couplings cannot be neglected and moreover that the use of different
+prescriptions on how to handle them in quoting just real effective couplings
+from the data may produce sizable differences. A definition of the real
+effective couplings specifying how to handle the imaginary parts is advocated.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 10:31:17 GMT""}]","2009-10-28"
+"hep-ph/9405202",,"X. Jin, M. Nielsen and J. Pasupathy","Calculation of $<p|\overline{u}u-\overline{d}d|p>$ from QCD sum rule and
+  the neutron-proton mass difference","16 pages in revtex (3 figures avaible under request), UMD preprint
+  #94-082","Phys.Rev. D51 (1995) 3688-3696","10.1103/PhysRevD.51.3688",,"hep-ph",,"  The proton matrix element of the isovector-scalar density,
+$<p|\overline{u}u-\overline{d}d|p>/2M_p$, is calculated by evaluating the
+nucleon current correlation function in an external isovector-scalar field
+using the QCD sum-rule method. In addition to the usual chiral and gluon
+condensates of the QCD vacuum, the response of the chiral condensates to the
+external isovector field enters the calculation. The latter is determined by
+two independent methods. One relates it to the difference between the up and
+down quark chiral condensates and the other uses the chiral perturbation
+theory. To first order in the quark mass difference $\delta m=m_d-m_u$, the
+non-electromagnetic part of the neutron-proton mass difference is given by the
+product $\delta m <p|\overline{u}u-\overline{d}d|p>/2M_p$; the resulting value
+is in reasonable agreement with the experimental value.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 15:21:28 GMT""}]","2009-10-28"
+"hep-th/9404192","Joseph A. Minahan","Joseph A. Minahan and Alexios P. Polychronakos","Density Correlation Functions in Calogero Sutherland Models","12 pages phyzzx, CERN-TH/94.7243 One reference changed","Phys.Rev.B50:4236,1994","10.1103/PhysRevB.50.4236",,"hep-th cond-mat",,"  Using arguments from two dimensional Yang-Mills theory and the collective
+coordinate formulation of the Calogero-Sutherland model, we conjecture the
+dynamical density correlation function for coupling $l$ and $1/l$, where $l$ is
+an integer. We present overwhelming evidence that the conjecture is indeed
+correct.
+","[{""version"":""v1"",""created"":""Sun, 1 May 1994 22:09:48 GMT""},{""version"":""v2"",""created"":""Mon, 2 May 1994 20:57:54 GMT""},{""version"":""v3"",""created"":""Wed, 4 May 1994 18:31:15 GMT""}]","2011-07-19"
+"hep-th/9404193",,"A.P.Balachandran and L.Chandar","Discrete Time from Quantum Physics","21 pages with 2 figures, SU-4240-579 (figures corrected in this
+  version)","Nucl.Phys. B428 (1994) 435-448","10.1016/0550-3213(94)90207-0",,"hep-th gr-qc hep-ph",,"  't Hooft has recently developed a discretisation of (2+1) gravity which has a
+multiple-valued Hamiltonian and which therefore admits quantum time evolution
+only in discrete steps. In this paper, we describe several models in the
+continuum with single-valued equations of motion in classical physics, but with
+multiple-valued Hamiltonians. Their time displacements in quantum theory are
+therefore obliged to be discrete. Classical models on smooth spatial manifolds
+are also constructed with the property that spatial displacements can be
+implemented only in discrete steps in quantum theory. All these models show
+that quantization can profoundly affect classical topology.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 03:54:42 GMT""},{""version"":""v2"",""created"":""Tue, 3 May 1994 03:46:33 GMT""}]","2009-10-28"
+"hep-th/9405001","Jens Hoppe","Jens Hoppe","Surface Motions and Fluid Dynamics","9 pages, Plain TeX, YITP/K-1069 unreadable character codes are
+  corrected","Phys.Lett. B335 (1994) 41-44","10.1016/0370-2693(94)91555-5",,"hep-th",,"  A certain class of surface motions, including those of a relativistic
+membrane minimizing the 3-dimensional volume swept out in Minkowski-space, is
+shown to be equivalent to 3-dimensional steady-state irrotational inviscid
+isentropic gas-dynamics. The SU($\infty $) Nahm equations turn out to
+correspond to motions where the time $t$ at which the surface moves through the
+point $\ssatop\rhup{r}$ is a harmonic function of the three space-coordinates.
+This solution also implies the linearisation of a non-trivial-looking scalar
+field theory.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 07:58:29 GMT""},{""version"":""v2"",""created"":""Wed, 20 Jul 1994 03:25:30 GMT""}]","2009-10-28"
+"hep-th/9405002","Dieter Luest","G. Lopes Cardoso, D. Luest and T. Mohaupt","Moduli Spaces and Target Space Duality Symmetries in $(0,2)\; Z_N$
+  Orbifold Theories with Continuous Wilson Lines","43 pages, HUB-IEP-94/6","Nucl.Phys.B432:68-108,1994","10.1016/0550-3213(94)90594-0",,"hep-th",,"  We present the coset structure of the untwisted moduli space of heterotic
+$(0,2) \; Z_N$ orbifold compactifications with continuous Wilson lines. For the
+cases where the internal 6-torus $T_6$ is given by the direct sum $T_4 \oplus
+T_2$, we explicitly construct the K\""{a}hler potentials associated with the
+underlying 2-torus $T_2$. We then discuss the transformation properties of
+these K\""{a}hler potentials under target space modular symmetries. For the case
+where the $Z_N$ twist possesses eigenvalues of $-1$, we find that holomorphic
+terms occur in the K\""{a}hler potential describing the mixing of complex Wilson
+moduli. As a consequence, the associated $T$ and $U$ moduli are also shown to
+mix under target space modular transformations.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 09:42:56 GMT""}]","2009-10-07"
+"hep-th/9405003","Vladimir Dotsenko","Vladimir Dotsenko, Marco Picco and Pierre Pujol","Spin--spin critical point correlation functions for the 2D random bond
+  Ising and Potts models","10pp, latex, PAR--LPTHE 94/17","Phys.Lett. B347 (1995) 113-119","10.1016/0370-2693(95)00035-J",,"hep-th cond-mat hep-lat",,"  We compute the combined two and three loop order correction to the spin-spin
+correlation functions for the 2D Ising and q-states Potts model with random
+bonds at the critical point. The procedure employed is the renormalisation
+group approach for the perturbation series around the conformal field theories
+representing the pure models. We obtain corrections for the correlations
+functions which produce crossover in the amplitude but don't change the
+critical exponent in the case of the Ising model and which produce a shift in
+the critical exponent, due to randomness, in the case of the Potts model.
+Comparison with numerical data is discussed briefly.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 10:38:50 GMT""}]","2009-10-28"
+"hep-th/9405004",,"L.Bonora and C.S.Xiong","Two-matrix model and c=1 string theory","12 pages, LaTeX, SISSA 54/94/EP (misprints corrected)","Phys.Lett. B347 (1995) 41-48","10.1016/0370-2693(95)00153-C",,"hep-th",,"  We show that the most general two--matrix model with bilinear coupling
+underlies $c=1$ string theory. More precisely we prove that $W_{1+\infty}$
+constraints, a subset of the correlation functions and the integrable hierarchy
+characterizing such two--matrix model, correspond exactly to the $W_{1+\infty}$
+constraints, to the discrete tachyon correlation functions and to the
+integrable hierarchy of the $c=1$ string.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 12:12:37 GMT""},{""version"":""v2"",""created"":""Thu, 12 May 1994 11:55:11 GMT""}]","2009-10-28"
+"hep-th/9405005",,"J.J.M. Verbaarschot and I. Zahed","Random matrix theory and $QCD_3$","10p., SUNY-NTG-94/19","Phys.Rev.Lett. 73 (1994) 2288-2291","10.1103/PhysRevLett.73.2288",,"hep-th cond-mat",,"  We suggest that the spectral properties near zero virtuality of three
+dimensional QCD, follow from a Hermitean random matrix model. The exact
+spectral density is derived for this family of random matrix models both for
+even and odd number of fermions. New sum rules for the inverse powers of the
+eigenvalues of the Dirac operator are obtained. The issue of anomalies in
+random matrix theories is discussed.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 13:20:30 GMT""}]","2009-10-28"
+"hep-th/9405006",,"Jacobus Verbaarschot","Chiral random matrix theory and QCD","16 pages and 4 figures (available upon request), SUNY-NTG-94/20",,,,"hep-th cond-mat",,"  As was shown by Leutwyler and Smilga, the fact that chiral symmetry is broken
+and the existence of a effective finite volume partition function leads to an
+infinite number of sum rules for the eigenvalues of the Dirac operator in QCD.
+In this paper we argue these constraints, together with universality arguments
+from quantum chaos and universal conductance fluctuations, completely determine
+its spectrum near zero virtuality. As in the classical random matrix ensembles,
+we find three universality classes, depedending on whether the color
+representation of the gauge group is pseudo-real, complex or real. They
+correspond to $SU(2)$ with fundamental fermions, $SU(N_c)$, $N_c \ge 3$, with
+fundamental fermions, and $SU(N_c)$, $N_c \ge 3$, with adjoint fermions,
+respectively.}
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 14:03:19 GMT""}]","2009-09-25"
+"hep-th/9405007","Tsvi Piran","Renaud Parentani and Tsvi Piran","The Internal Geometry of an Evaporating Black Hole","10 pages using Latex and REVTEX macros. 1 page of 4 figures can be
+  obtained from an anonymous ftp at shemesh.fiz.huji.ac.il (revised version
+  with a minor latex correction)","Phys.Rev.Lett.73:2805-2808,1994","10.1103/PhysRevLett.73.2805",,"hep-th gr-qc",,"  We present a semi-classical model for the formation and evaporation of a four
+dimensional black hole. We solve the equations numerically and obtain solutions
+describing the entire the space-time geometry from the collapse to the end of
+the evaporation. The solutions satisfy the evaporation law: $\dot M \propto
+-M^{-2}$ which confirms dynamically that black holes do evaporate thermally. We
+find that the evaporation process is in fact the shrinking of a throat that
+connects a macroscopic interior ``universe"" to the asymptotically flat
+exterior. It ends either by pinching off the throat leaving a closed universe
+and a Minkowskian exterior or by freezing up when the throat's radius
+approaches a Planck size. In either case the macroscopic inner universe is the
+region where the information lost during the evaporation process is hidden.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 14:28:01 GMT""},{""version"":""v2"",""created"":""Thu, 5 May 1994 07:09:08 GMT""}]","2010-11-01"
+"hep-th/9405008","Frederic Lesage","F. Lesage, V. Pasquier and D. Serban","Dynamical correlation functions in the Calogero-Sutherland model","20pgs, (1 reference added)","Nucl.Phys. B435 (1995) 585-603","10.1016/0550-3213(94)00453-L",,"hep-th cond-mat",,"  We compute the dynamical Green function and density-density correlation in
+the Calogero-Sutherland model for all integer values of the coupling constant.
+An interpretation of the intermediate states in terms of quasi-particles is
+found.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 14:19:25 GMT""},{""version"":""v2"",""created"":""Tue, 3 May 1994 08:38:32 GMT""},{""version"":""v3"",""created"":""Tue, 24 May 1994 13:24:15 GMT""}]","2009-10-28"
+"hep-th/9405032","Partha Mitra","A. GHOSH and P. MITRA (Saha Institute of Nuclear Physics, Calcutta)","Fermion Scattering off Dilatonic Black Holes","SINP/TNP/94-05","Phys.Rev. D50 (1994) 7389-7393","10.1103/PhysRevD.50.7389",,"hep-th",,"  The scattering of massless fermions off magnetically charged dilatonic black
+holes is reconsidered and a violation of unitarity is found. Even for a single
+species of fermion it is possible for a particle to disappear into the black
+hole with its information content.
+","[{""version"":""v1"",""created"":""Mon, 2 May 1994 14:06:42 GMT""}]","2009-10-28"

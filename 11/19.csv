@@ -1,0 +1,191 @@
+"astro-ph/9411081","Matthew Bate","Ian A. Bonnell and Matthew R. Bate","The formation of close binary systems","6 pages, uuencoded compressed postscript file (containing 2 figures)","Mon.Not.Roy.Astron.Soc. 271 (1994) 999","10.1093/mnras/271.4.999",,"astro-ph",,"  A viable solution to the origin of close binary systems, unaccounted for in
+recent theories, is presented. Fragmentation, occurring at the end of the
+secondary collapse phase (during which molecular hydrogen is dissociating), can
+form binary systems with separations less than 1 au. Two fragmentation modes
+are found to occur after the collapse is halted. The first consists of the
+fragmentation of a protostellar disc due to rotational instabilities in a
+protostellar core, involving both an $m=1$ and an $m=2$ mode. This
+fragmentation mechanism is found to be insensitive to the initial density
+distribution: it can occur in both centrally condensed and uniform initial
+conditions. The second fragmentation mode involves the formation of a rapidly
+rotating core at the end of the collapse phase which is unstable to the
+axisymmetric perturbations. This core bounces into a ring which quickly
+fragments into several components. The binary systems thus formed contain less
+than 1 per cent of a solar mass and therefore will need to accrete most of
+their final mass if they are to form a binary star system. Their orbital
+properties will thus be determined by the properties of the accreted matter.
+","[{""version"":""v1"",""created"":""Fri, 18 Nov 1994 16:39:00 GMT""},{""version"":""v2"",""created"":""Fri, 18 Nov 1994 17:32:00 GMT""}]","2015-06-24"
+"astro-ph/9411082","Chris Kochanek","Christopher S. Kochanek","Gravitational Lensing Limits on Cold Dark Matter and Its Variants","27 pages, uuencoded compressed postscript file including figures","Astrophys.J. 453 (1995) 545","10.1086/176417",,"astro-ph",,"  Standard $\Omega_0=1$ cold dark matter (CDM) needs $0.27 < \sigma_8 < 0.63$
+($2\sigma$) to fit the observed number of large separation lenses, and the
+constraint is nearly independent of $H_0=100h^{-1}\kms$ Mpc$^{-1}$. This range
+is strongly inconsistent with the COBE estimate of $\sigma_8=(2.8\pm0.2)h$.
+Tilting the primordial spectrum $\propto k^n$ from $n=1$ to $0.3 \ltorder n
+\ltorder 0.7$, using an effective Hubble constant of $0.15 \ltorder \Gamma=h
+\ltorder 0.30$, or reducing the matter density to $0.15 \ltorder \Omega_0 h
+\ltorder 0.3$ either with no cosmological constant ($\lambda_0=0$) or in a flat
+universe with a cosmological constant ($\Omega_0+\lambda_0=1$) can bring the
+lensing estimate of $\sigma_8$ into agreement with the COBE estimates. The
+models and values for $\sigma_8$ consistent with both lensing and COBE match
+the estimates from the local number density of clusters and correlation
+functions. The conclusions are insensitive to systematic errors except for the
+assumption that cluster core radii are singular. If clusters with
+$\rho\propto(r^2+s^2)^{-1}$ have core radii exceeding $s = 15h^{-1}\sigma_3^2$
+kpc for a cluster with velocity dispersion $\sigma=10^3\sigma_3 \kms$ then the
+estimates are invalid. There is, however, a fine tuning problem in making the
+cluster core radii large enough to invalidate the estimates of $\sigma_8$ while
+producing several lenses that do not have central or ``odd images.'' The
+estimated completeness of the current samples of lenses larger than $5\parcs0$
+is 20\%, because neither quasar surveys nor lens surveys are optimized to this
+class of lenses.
+","[{""version"":""v1"",""created"":""Sat, 19 Nov 1994 15:47:03 GMT""}]","2009-10-22"
+"cond-mat/9411081","Mark A. Novotny","M. A. Novotny","Monte Carlo with Absorbing Markov Chains: Fast Local Algorithms for Slow
+  Dynamics","ReVTeX, Request 3 figures from novotny@scri.fsu.edu","Physical Review Letters Vol.74, p.1 (1995) + erratum","10.1103/PhysRevLett.74.1","FSU-SCRI-94-48","cond-mat adap-org comp-gas hep-lat nlin.AO nlin.CG",,"  A class of Monte Carlo algorithms which incorporate absorbing Markov chains
+is presented. In a particular limit, the lowest-order of these algorithms
+reduces to the $n$-fold way algorithm. These algorithms are applied to study
+the escape from the metastable state in the two-dimensional square-lattice
+nearest-neighbor Ising ferromagnet in an unfavorable applied field, and the
+agreement with theoretical predictions is very good. It is demonstrated that
+the higher-order algorithms can be many orders of magnitude faster than either
+the traditional Monte Carlo or $n$-fold way algorithms.
+","[{""version"":""v1"",""created"":""Fri, 18 Nov 1994 22:09:14 GMT""},{""version"":""v2"",""created"":""Mon, 21 Nov 1994 21:03:16 GMT""},{""version"":""v3"",""created"":""Thu, 29 Jun 1995 14:40:46 GMT""}]","2009-10-22"
+"gr-qc/9411049","Murari Som","M.M. Som (UFRJ - Brasil) and Marcelo de Oliveira Souza (UFRJ and UENF
+  - Brasil)","Gravitational field of an infinitely long supermassive cosmic string","Latex, 8 pages",,,,"gr-qc",,"  We obtain an exact solution of the coupled Einstein-scalar-gauge field
+equations for a local infinitely long supermassive cosmic string. The solution
+correponds to that of Hiscock-Gott . The string appears to be due to the
+freezing of the scalar field at the null value giving rise to a constant linear
+energy density.
+","[{""version"":""v1"",""created"":""Fri, 18 Nov 1994 16:07:19 GMT""}]","2007-05-23"
+"gr-qc/9411050","Serge Droz","A. Bonanno, S. Droz, W.Israel and S.M. Morsink","Structure of the Spherical Black Hole Interior","11 pages, latex, 2 figures",,"10.1098/rspa.1995.0100","Alberta-Thy-35-94","gr-qc",,"  The internal structure of a charged spherical black hole is still a topic of
+debate. In a nonrotating but aspherical gravitational collapse to form a
+spherical charged black hole, the backscattered gravitational wave tails enter
+the black hole and are blueshifted at the Cauchy horizon. This has a
+catastrophic effect if combined with an outflux crossing the Cauchy horizon: a
+singularity develops at the Cauchy horizon and the effective mass inflates.
+Recently a numerical study of a massless scalar field in the \RN background
+suggested that a spacelike singularity may form before the Cauchy horizon
+forms. We will show that there exists an approximate analytic solution of the
+scalar field equations which allows the mass inflation singularity at the
+Cauchy horizon to exist. In particular, we see no evidence that the Cauchy
+horizon is preceded by a spacelike singularity.
+","[{""version"":""v1"",""created"":""Fri, 18 Nov 1994 21:43:23 GMT""}]","2019-08-15"
+"hep-lat/9411032","Bas de Bakker","Bas V. de Bakker","Dynamical Triangulation with Fluctuating Topology","3 pages, LaTeX2e source with postscript result One reference added","Nucl.Phys.Proc.Suppl. 42 (1995) 716-718","10.1016/0920-5632(95)00360-L","ITFA-94-32","hep-lat",,"  We consider a dynamical triangulation model of euclidean quantum gravity
+where the topology is not fixed. This model is equivalent to a tensor
+generalization of the matrix model of two dimensional quantum gravity. A set of
+moves is given that allows Monte Carlo simulation of this model. Some
+preliminary results are presented for the case of four dimensions.
+","[{""version"":""v1"",""created"":""Fri, 18 Nov 1994 16:01:03 GMT""},{""version"":""v2"",""created"":""Fri, 25 Nov 1994 11:22:51 GMT""}]","2009-10-22"
+"hep-lat/9411033","Michael J. Creutz","Michael Creutz (Brookhaven National Laboratory)","Chiral symmetry on the lattice","Eleven pages, uuencoded compressed tar file. Contribution to Lat94,
+  27 Sep -- 1 Oct 1994, Bielefeld, Germany. Also available at
+  http://penguin.phy.bnl.gov/www/papers/61011.ps.Z","Nucl.Phys.Proc.Suppl. 42 (1995) 56-66","10.1016/0920-5632(95)00187-E","BNL-61011","hep-lat",,"  I review some of the difficulties associated with chiral symmetry in the
+context of a lattice regulator. I discuss the structure of Wilson Fermions when
+the hopping parameter is in the vicinity of its critical value. Here one flavor
+contrasts sharply with the case of more, where a residual chiral symmetry
+survives anomalies. I briefly discuss the surface mode approach, the use of
+mirror Fermions to cancel anomalies, and finally speculate on the problems with
+lattice versions of the standard model.
+","[{""version"":""v1"",""created"":""Fri, 18 Nov 1994 18:15:48 GMT""}]","2009-10-22"
+"hep-ph/9411336","Visitante Do Finpe","N. Arbex, U. Ornik, M. Pl\""umer, A. Timmermann, R.M. Weiner","Thermal photon production in heavy ion collisions","9 pages, figures are uudecoded compressed and tared","Phys.Lett. B345 (1995) 307-312","10.1016/0370-2693(94)01620-R",,"hep-ph nucl-th",,"  Using a three-dimensional hydrodynamic simulation of the collision and an
+equation of state containing a first order phase transition to the quark-gluon
+plasma, we study thermal photon production for $Au+Au$ collisions at
+$E_{lab}=11.5$ AGeV and for $Pb+Pb$ collisions at $160$ AGeV. We obtain
+surprisingly high rates of thermal photons even at the lower energy, suggesting
+that, contrary to what was expected so far, photon production may be an
+interesting topic for experimental search also at the Alternating Gradient
+Synchrotron. When applied to the reaction $S+Au$ at $200$ AGeV, our model can
+reproduce preliminary data obtained by the WA80 Collaboration without having to
+postulate the existence of an extremely long-lived mixed phase as was recently
+proposed.
+","[{""version"":""v1"",""created"":""Fri, 18 Nov 1994 19:32:35 GMT""}]","2009-10-28"
+"hep-ph/9411337","Chung Kao","Chung Kao","Parity Violation in Top Quark Pair Production at the Fermilab Tevatron
+  Collider","LaTeX, 17 pages, 5 figures, Figures 2-5 included, Figure 1 (Feynman
+  Diagrams) available upon request","Phys.Lett. B348 (1995) 155-162","10.1016/0370-2693(95)00112-X","UR-1383, ER-40685-832","hep-ph",,"  The leading weak corrections to the production of top quark pairs via
+$q\bar{q} \to t\bar{t}$ in $p\bar{p}$ collisions are evaluated. The
+chromo-anapole form factor of the top quark and effects of parity violation are
+studied in the Standard Model (SM) and the Minimal Supersymmetric Model (MSSM).
+The parity violation effect in $q\bar{q} \to g \to t\bar{t}$ from the SM weak
+corrections is found to be very small. In the MSSM, the effects of parity
+violation can be enhanced for $\tan\beta \equiv v_2/v_1 > \sqrt{m_t/m_b}$.
+","[{""version"":""v1"",""created"":""Fri, 18 Nov 1994 22:34:48 GMT""}]","2009-10-28"
+"hep-ph/9411338",,"Dieter M\""uller","The Evolution of the Pion Distribution Amplitude in Next-to-Leading
+  Order","17 pages LaTeX + 3 uuencoded and compressed postscript figures","Phys.Rev.D51:3855-3864,1995","10.1103/PhysRevD.51.3855","SLAC-PUB 6622","hep-ph",,"  The evolution of the pion distribution amplitude in next-to-leading order is
+studied for a fixed and a running coupling constant. In both cases, the
+evolution provides a logarithmic modification in the endpoint region. Assuming
+a simple parameterization of the distribution amplitude at a scale of $Q_0\sim
+0.5\ \rm GeV$, it is shown numerically that these effects are large enough at
+$Q\sim 2\ \rm GeV$ that they have to be taken into account in the
+next-to-leading-order analysis for exclusive processes. Alternatively, by
+introducing a new distribution amplitude that evolves more smoothly, this
+logarithmic modification can be included in the hard-scattering part of the
+considered process.
+","[{""version"":""v1"",""created"":""Sat, 19 Nov 1994 00:09:11 GMT""}]","2016-09-01"
+"hep-ph/9411339","Paul Langacker","Paul Langacker","Solar Neutrinos","Invited talk presented at 32nd International School of Subnuclear
+  Physics, Erice, July 1994. 33 pages, Latex, 15 figures, not included;
+  postscript file with embedded figures by anonymous ftp at
+  ftp://dept.physics.upenn.edu/pub/Langacker/erice.ps","Subnucl.Ser.32:153-190,1995",,"UPR-0640T","hep-ph astro-ph",,"  The status of the solar neutrino problem is reviewed. Attempts to explain the
+observed deficit and spectral distortion, both by astrophysical and particle
+physics methods, are described. It is argued that the comparison of all
+experiments strongly prefers the particle physics solutions.
+","[{""version"":""v1"",""created"":""Sat, 19 Nov 1994 01:34:44 GMT""}]","2011-06-02"
+"hep-ph/9411340","Xing Zhi-Zhong","Zhi-zhong Xing","Wolfenstein Parametrization Re-examined","5 Latex pages including a figure; Two references are added","Phys.Rev.D51:3958-3959,1995","10.1103/PhysRevD.51.3958","LMU-21/94 (November 1994); Phys. Rev. D (in press)","hep-ph",,"  The Wolfenstein parametrization of the $3\times 3$ Kobayashi-Maskawa (KM)
+matrix $V$ is modified by keeping its unitarity up to the accuracy of
+$O(\lambda^{6})$. This modification can self-consistently lead to the
+off-diagonal asymmetry of $V$: $|V_{ij}|^{2}-|V_{ji}|^{2}$ =
+$Z\displaystyle\sum_{k}\epsilon^{~}_{ijk}$ with $Z=\approx A^{2}\lambda^{6}
+(1-2\rho)$, which is comparable in magnitude with the Jarlskog parameter of
+$CP$ violation $J\approx A^{2}\lambda^{6}\eta$. We constrain the ranges of $J$
+and $Z$ by using the current experimental data, and point out that the
+possibility of a symmetric KM matrix has almost been ruled out.
+","[{""version"":""v1"",""created"":""Sat, 19 Nov 1994 10:10:55 GMT""},{""version"":""v2"",""created"":""Mon, 9 Jan 1995 07:58:03 GMT""},{""version"":""v3"",""created"":""Sun, 8 Jan 1995 08:49:55 GMT""},{""version"":""v4"",""created"":""Mon, 9 Jan 1995 19:54:13 GMT""}]","2010-11-01"
+"hep-ph/9411341",,"Paolo Lipari, Maurizio Lusignoli and Francesca Sartogo","The neutrino cross section and upward going muons","9 pages, REVTEX, 1 uu-encoded compressed file with 3 figures","Phys.Rev.Lett.74:4384-4387,1995","10.1103/PhysRevLett.74.4384","Roma preprint 1072-1994","hep-ph",,"  The charged current cross section for neutrinos with energy of a few GeV is
+reanalysed. In this energy range the cross section for the lowest multiplicity
+exclusive channels is an important fraction of $\sigma_{CC}$ and the
+approximation of describing the cross section with deep inelastic scattering
+formulae may be inaccurate. Possible consequences of our reanalysis of the
+cross section in the interpretation of the data obtained by deep underground
+detectors on $\nu$--induced upward going muons (both stopping and passing) are
+discussed.
+","[{""version"":""v1"",""created"":""Sat, 19 Nov 1994 11:51:10 GMT""}]","2011-07-19"
+"hep-ph/9411342","M. B. Hindmarsh","M.B. Hindmarsh and T.W.B. Kibble","Cosmic strings","120pp Plain TeX (IOP preprint.sty file included) + 18/19
+  self-unpacking .ps figures. TeX twice to get citation numbering. Submitted to
+  Reports on Progress in Physics","Rept.Prog.Phys.58:477-562,1995","10.1088/0034-4885/58/5/001","SUSX--TP--94--74 IMPERIAL/TP/94-95/5 NI94025","hep-ph astro-ph hep-th",,"  The topic of cosmic strings provides a bridge between the physics of the very
+small and the very large. They are predicted by some unified theories of
+particle interactions. If they exist, they may help to explain some of the
+largest-scale structures seen in the Universe today. They are `topological
+defects' that may have been formed at phase transitions in the very early
+history of the Universe, analogous to those found in some condensed-matter
+systems --- vortex lines in liquid helium, flux tubes in type-II
+superconductors, or disclination lines in liquid crystals. In this review, we
+describe what they are, why they have been hypothesized and what their
+cosmological implications would be. The relevant background from the standard
+models of particle physics and cosmology is described in section 1. In section
+2, we review the idea of symmetry breaking in field theories, and show how the
+defects formed are constrained by the topology of the manifold of degenerate
+vacuum states. We also discuss the different types of cosmic strings that can
+appear in different field theories. Section 3 is devoted to the dynamics of
+cosmic strings, and section 4 to their interaction with other fields. The
+formation and evolution of cosmic strings in the early Universe is the subject
+of section 5, while section 6 deals with their observational implications.
+Finally, the present status of the theory is reviewed in section 7.
+","[{""version"":""v1"",""created"":""Sat, 19 Nov 1994 15:20:48 GMT""}]","2010-11-01"
+"hep-th/9411143",,"Stephen G. Naculich and Harold A. Riggs","The String Calculation of QCD Wilson Loops on Arbitrary Surfaces","10 pages, LaTeX, no figures","Phys.Rev. D51 (1995) 4394-4397","10.1103/PhysRevD.51.4394","BRX-TH--359, BOW-PH-103","hep-th",,"  Compact string expressions are found for non-intersecting Wilson loops in
+SU(N) Yang-Mills theory on any surface (orientable or nonorientable) as a
+weighted sum over covers of the surface. All terms from the coupled chiral
+sectors of the 1/N expansion of the Wilson loop expectation values are
+included.
+","[{""version"":""v1"",""created"":""Fri, 18 Nov 1994 16:25:00 GMT""},{""version"":""v2"",""created"":""Fri, 18 Nov 1994 19:30:00 GMT""}]","2009-10-28"
+"hep-th/9411144","Vyjayanthi Chari","V. Chari","Minimal Affinizations of Representations of quantum groups: the
+  U_q(g)--module structure","17 pages",,,,"hep-th math.QA q-alg",,"  We describe the underlying U_q(g)--module structure of representations of
+quantum affine algebras.
+","[{""version"":""v1"",""created"":""Fri, 18 Nov 1994 21:23:52 GMT""}]","2008-02-03"
+"hep-th/9411145","Vyjayanthi Chari","V. Chari and A.N.Pressley","Quantum Affine Algebras and their Representations","19 pages",,,,"hep-th math.QA q-alg",,"  We prove a highest weight theorem classifying irerducible finite--dimensional
+representations of quantum affine algebras and survey what is currently known
+about the structure of these representations.
+","[{""version"":""v1"",""created"":""Fri, 18 Nov 1994 21:33:05 GMT""}]","2008-02-03"
+"math/9411207","Thomas Jech","Thomas Jech","Large ordinals",,,,"Logic E-prints November 19, 1994","math.LO",,"  Let $j$ be an elementary embedding of $V_{\lambda}$ into $V_{\lambda}$ that
+is not the identity, and let $\kappa$ be the critical point of $j$. Let $\Cal
+A$ be the closure of $\{j\}$ under the operation $a (b)$ of application, and
+let $\Omega$ be the closure of $\{\kappa\}$ under the operation $\min \{\xi:
+a(\xi) \ge b(\alpha)\}$. We give a complete description of the set $\Omega$
+under an assumption (Threshold Hypothesis) on cyclic left distributive
+algebras.
+","[{""version"":""v1"",""created"":""Sat, 19 Nov 1994 00:00:00 GMT""}]","2008-02-03"

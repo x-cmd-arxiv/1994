@@ -1,0 +1,261 @@
+"astro-ph/9405017",,"E.Branchini and R.G.Carlberg","Testing the Least Action Principle in an Omega_0=1 Universe","accepted by APJ, uuencoded-compressed-tarred PostScript file
+  including figures. SISSA Ref. 56/94/A",,"10.1086/174702",,"astro-ph",,"  The least action principle (LAP) is a dynamically rigorous method for
+deriving the history of galaxy orbits. In particular it is an Omega_0 test,
+predicting current epoch galaxy velocities as a function of position and of the
+cosmological background. It is most usefully applied to in--falling structures,
+such as the local group, where its application indicates that the preferred
+cosmological model is Omega_0 = 0.1 and h=0.75 (h is the Hubble parameter in
+units of 100 Km s^-1 Mpc^-1). The method assumes that all the mass acts as if
+it were distributed as the visible galaxies. We test the reliability of the LAP
+to Local Group-like systems extracted from Omega_0=1 N--body simulations. While
+the orbits of the galaxies are qualitatively well reconstructed, the LAP
+systematically underestimates the mass of the system. This failure is
+attributed to the presence of extended halos weakly clustered around visible
+galaxies which prevent a large fraction of the group mass from being detected
+by the LAP technique. We conclude that the LAP method cannot rule out an
+Omega_0=1 value on the Local Group scale. Better constraints on Omega_0 may be
+obtained by applying this technique to in--falling systems, such as clusters,
+containing objects with separations large compared to galaxy sizes.
+","[{""version"":""v1"",""created"":""Mon, 9 May 1994 12:37:09 GMT""}]","2009-10-22"
+"astro-ph/9405019","Tomoaki Matsumoto-theoretical group","Tomoaki Matsumoto, Fumitaka Nakamura, and Tomoyuki Hanawa","Fragmentation of a Magnetized Filamentary Molecular Cloud Rotating
+  around its Axis","Submitted to PASJ, Latex file, 18 page + 13 figures available on
+  request, DPNU-94-12",,,,"astro-ph",,"  The dynamical instability of a self-gravitating magnetized filamentary cloud
+was investigated while taking account of rotation around its axis. The
+filamentary cloud of our model is supported against self-gravity in part by
+both a magnetic field and rotation. The density distribution in equilibrium was
+assumed to be a function of the radial distance from the axis, $ \rho _0 (r) \,
+= \, \rho _{\rm c} \, ( 1 \, + \, r ^2 / 8 H ^2 ) ^{-2} $, where $ \rho _{\rm
+c} $ and $ H $ are model parameters specifying the density on the axis and the
+length scale, respectively; the magnetic filed was assumed to have both
+longitudinal ($z$-) and azimuthal ($\varphi$-) components with a strength of $
+B _0 (r) \, \propto \, \sqrt{ \rho _0 (r) } $. The rotation velocity was
+assumed to be $ v _{0\varphi} \, = \, \Omega _{\rm c} \, r \, (1 \, + \, r ^2 /
+8 H ^2 ) ^{-1/2} $. We obtained the growth rate and eigenfunction numerically
+for (1) axisymmetric $ ( m \, = \, 0 ) $ perturbations imposed on a rotating
+cloud with a longitudinal magnetic field, (2) non-axisymmetric $ ( m \, = \, 1
+) $ perturbations imposed on a rotating cloud with a longitudinal magnetic
+filed, and (3) axisymmetric perturbations imposed on a rotating cloud with a
+helical magnetic field. The fastest growing perturbation is an axisymmetric one
+for all of the model clouds studied. Its wavelength is $ \lambda _{\rm max} \,
+\le \, 11.14 \, H $ for a non-rotating cloud without a magnetic field, and is
+shorter
+","[{""version"":""v1"",""created"":""Mon, 9 May 1994 14:27:07 GMT""}]","2007-05-23"
+"cond-mat/9405018","Kurt Stokbro","K. Stokbro, N. Chetty, K. W. Jacobsen, and J. K. N{\o}rskov","Construction of transferable spherically-averaged electron potentials","8 pages (3 uuencoded Postscript figures appended), LaTeX,
+  CAMP-090594-2",,"10.1088/0953-8984/6/28/016",,"cond-mat",,"  A new scheme for constructing approximate effective electron potentials
+within density-functional theory is proposed. The scheme consists of
+calculating the effective potential for a series of reference systems, and then
+using these potentials to construct the potential of a general system. To make
+contact to the reference system the neutral-sphere radius of each atom is used.
+The scheme can simplify calculations with partial wave methods in the
+atomic-sphere or muffin-tin approximation, since potential parameters can be
+precalculated and then for a general system obtained through simple
+interpolation formulas. We have applied the scheme to construct electron
+potentials of phonons, surfaces, and different crystal structures of silicon
+and aluminum atoms, and found excellent agreement with the self-consistent
+effective potential. By using an approximate total electron density obtained
+from a superposition of atom-based densities, the energy zero of the
+corresponding effective potential can be found and the energy shifts in the
+mean potential between inequivalent atoms can therefore be directly estimated.
+This approach is shown to work well for surfaces and phonons of silicon.
+","[{""version"":""v1"",""created"":""Mon, 9 May 1994 13:19:45 GMT""}]","2016-08-14"
+"cond-mat/9405019","Kurt Stokbro","K. Stokbro, N. Chetty, K. W. Jacobsen, and J. K. N{\o}rskov","An Effective-Medium Tight-Binding Model for Silicon","26 pages (11 uuencoded Postscript figures appended), LaTeX,
+  CAMP-090594-1",,"10.1103/PhysRevB.50.10727",,"cond-mat",,"  A new method for calculating the total energy of Si systems is presented. The
+method is based on the effective-medium theory concept of a reference system.
+Instead of calculating the energy of an atom in the system of interest a
+reference system is introduced where the local surroundings are similar. The
+energy of the reference system can be calculated selfconsistently once and for
+all while the energy difference to the reference system can be obtained
+approximately. We propose to calculate it using the tight-binding LMTO scheme
+with the Atomic-Sphere Approximation(ASA) for the potential, and by using the
+ASA with charge-conserving spheres we are able to treat open system without
+introducing empty spheres. All steps in the calculational method is {\em ab
+initio} in the sense that all quantities entering are calculated from first
+principles without any fitting to experiment. A complete and detailed
+description of the method is given together with test calculations of the
+energies of phonons, elastic constants, different structures, surfaces and
+surface reconstructions. We compare the results to calculations using an
+empirical tight-binding scheme.
+","[{""version"":""v1"",""created"":""Mon, 9 May 1994 13:17:16 GMT""}]","2016-08-14"
+"cond-mat/9405020","Jean-Bruno Erismann","N. Angelescu, S. Romano, V.A. Zagrebnov","Nematogenic Lattice Models in One or Two Dimensions and with Long-Range
+  Interactions","5 pages,latex,94/P.3012",,,,"cond-mat",,"  Extending previous rigorous results, we prove existence of an ordering
+transition at finite temperature for a class of nematogenic lattice models,
+where spins are associated with a one- or two-dimensional lattice, and interact
+via long-range potentials.
+","[{""version"":""v1"",""created"":""Mon, 9 May 1994 13:34:14 GMT""}]","2019-08-17"
+"cond-mat/9405021",,"K.J. Niskanen and M.J. Alava","Planar random networks with flexible fibers","13 pages plain LaTex, 5 figures faxed upon request",,"10.1103/PhysRevLett.73.3475",,"cond-mat",,"  The transition in random fiber networks from two-dimensional to
+three-dimensional planar structure driven by increasing coverage (total fiber
+length per unit area) is studied with a deposition model. At low coverage the
+network geometry depends on the scale-free product of fiber length and coverage
+while at high coverage it depends on a scale-free combination of flexibility,
+width and thickness of the fibers. With increasing coverage the roughness of
+the free surface decouples from the substrate, faster when fibers are stiffer.
+In the high coverage region roughness decreases exponentially with increasing
+fiber flexibility.
+","[{""version"":""v1"",""created"":""Mon, 9 May 1994 14:34:55 GMT""}]","2009-10-22"
+"cond-mat/9405023","Sven Sandow","Sven Sandow, Steffen Trimper, David Mukamel","Asymmetric exclusion model for mixed ionic condustors","revised version (Some minor errors were corrected and some changes
+  made.), 16 pages RevTeX and 3 postscript figures",,,,"cond-mat",,"  The ionic conductivity of mixed alkali glasses exhibits a deep minimum as a
+function of the relative concentrations of the two alkali ions. To study this
+behaviour we consider a simple one-dimensional model for asymmetric diffusion
+of two kinds of particles. Different particles are assumed to repulse each
+other. We consider two versions of the model: with or without overtaking of
+particles. For the case of perfect repulsion we find exact expressions for the
+stationary current. The model with weaker repulsion is studied by means of
+numerical simulations. The stationary current as a function of the ratio of
+particle concentrations is found to exhibit a minimum, related to correlations
+existing in this system.
+","[{""version"":""v1"",""created"":""Mon, 9 May 1994 09:18:43 GMT""},{""version"":""v2"",""created"":""Sun, 23 Oct 1994 18:13:21 GMT""}]","2008-02-03"
+"gr-qc/9405017","Kenmoku","Masakatsu Kenmoku, Kaori Otsuki and Rieko Sakai","Gravitational Force by Point Particle in Static Einstein Universe","10 pages, latex, NWU-4/94",,,,"gr-qc",,"  The gravitaional force produced by a point particle, like the sun, in the
+background of the static Einstein universe is studied. Both the approximate
+solution in the weak field limit and exact solution are obtained. The main
+properties of the solution are {\it i}) near the point particle, the metric
+approaches the Schwarzschild one and the radius of its singularity becomes
+larger than that of the Schwarzschild singularity, {\it ii}) far from the point
+particle, the metric approaches the static Einstein closed universe. The
+maximum length of the equator of the universe becomes smaller than that of the
+static Einstein universe due to the existence of the point particle. These
+properties show the strong correlation betweem the particle and the universe.
+","[{""version"":""v1"",""created"":""Mon, 9 May 1994 05:09:28 GMT""}]","2007-05-23"
+"gr-qc/9405021","U. Bleyer","U. Bleyer, K.A.Bronnikov, S.B.Fadeev, V.N. Melnikov","On Black Hole Stability in Multidimensional Gravity","18 pages, LaTeX, Potsdam University, preprint AIP 94-01",,"10.1002/asna.2103150602",,"gr-qc",,"  Exact static, spherically symmetric solutions to the Einstein-Maxwell-scalar
+equations, with a dilatonic-type scalar-vector coupling, in $D$-dimensional
+gravity with a chain of $n$ Ricci-flat internal spaces are considered. Their
+properties and special cases are discussed. A family of multidimensional
+dilatonic black-hole solutions is singled out, depending on two integration
+constants (related to black hole mass and charge) and three free parameters of
+the theory (the coordinate sphere, internal space dimensions, and the coupling
+constant). The behaviour of the solutions under small perturbations preserving
+spherical symmetry, is studied. It is shown that the black-hole solutions
+without a dilaton field are stable, while other solutions, possessing naked
+singularities, are catastrophically unstable.
+","[{""version"":""v1"",""created"":""Mon, 9 May 1994 14:06:44 GMT""}]","2015-06-25"
+"gr-qc/9405022","U. Bleyer","U. Bleyer, A. Zhuk","On Spontaneous Compactification in Multidimensional Cosmology","21 pages, LaTeX, Potsdam University, preprint AIP 94-04",,,,"gr-qc",,"  Mutidimensional cosmological models with $n\left( n\geq 2\right) $ Einstein
+spaces $M_i\left( i=1,\ldots ,n\right) $ are investigated. The cosmological
+constant and homogeneous minimally coupled scalar field as a matter sources are
+considered. The scalar field has a potential of general form depending on the
+scalar field as well as on the scale factors of $M_i$ . The general condition
+of existence of the solutions with spontaneous compactification is obtained and
+applied to physically important cases. Two particular kinds of solutions are
+found. One of them has a wormhole-type continuation into the Euclidean region.
+Another one represents the generalization of the de Sitter universe to the
+multidimensional model under consideration.
+","[{""version"":""v1"",""created"":""Mon, 9 May 1994 14:07:48 GMT""},{""version"":""v2"",""created"":""Fri, 13 May 1994 09:42:47 GMT""}]","2008-02-03"
+"hep-ph/9405248","Bern","Z. Bern, L. Dixon, D. Dunbar, and D.A. Kosower","One-Loop Gauge Theory Amplitudes with an Arbitrary Number of External
+  Legs","Talk presented by Z.B. at Continuous Advances in QCD, Minneapolis,
+  Feb. 18-20, 1994. 23 pages (including three figures), (minor errors
+  corrected), SLAC--PUB--6490",,,,"hep-ph hep-th",,"  We review recent progress in calculations of one-loop QCD amplitudes. By
+imposing the consistency requirements of unitarity and correct behavior as the
+momenta of two legs become collinear, we construct ansatze for one-loop
+amplitudes with an arbitrary number of external legs. For supersymmetric
+amplitudes, which can be thought of as components of QCD amplitudes, the cuts
+uniquely specify the amplitude.
+","[{""version"":""v1"",""created"":""Mon, 9 May 1994 05:28:14 GMT""},{""version"":""v2"",""created"":""Mon, 13 Jun 1994 05:57:29 GMT""}]","2008-02-03"
+"hep-ph/9405250","Jean-Bruno Erismann","Claude Bourrely, Jacques Soffer","Parton Distributions from W+- and Z Production in Polarized pp and pn
+  Collisions at RHIC","16p,CPT-94/P.3000,TEX,19 fig available on cpt.univ-mrs.fr directory
+  ftp/pub/preprints/94/fundamental-interactions/ 94-P.3000","Nucl.Phys.B423:329-348,1994","10.1016/0550-3213(94)90137-6",,"hep-ph",,"  We study the production of $W^{\pm}$ and $Z$ gauge bosons in proton-proton
+and proton-neutron collisions up to a center-of-mass energy $\sqrt s=0.5\ TeV$,
+in connection with the realistic possibility of having proton-deuteron
+collisions at RHIC with a high luminosity. We stress the importance of
+measuring unpolarized cross sections for a better determination of the flavor
+asymmetry of the sea quarks. Since polarized proton beams will be available at
+RHIC, we evaluate several spin-dependent observables like, double helicity
+asymmetries $A_{LL}$ as a test of the sea quark polarization, double transverse
+spin asymmetries $A_{TT}$ as a practical way to determine a new structure
+function, the nucleon transversity distribution $h_1(x)$, and parity-violating
+asymmetries $A_L$ as a further test of our present knowledge of polarized
+parton distributions.
+","[{""version"":""v1"",""created"":""Mon, 9 May 1994 08:15:44 GMT""}]","2019-08-17"
+"hep-ph/9405251","Jean-Bruno Erismann","Pierre Chiappetta","Introduction to Strong Higgs Sector","8 pages,CPT-94/P.3026, latex",,,,"hep-ph",,"  A brief introduction to strong Higgs sector i.e. the possibility of breaking
+electroweak symmetry without an elementary Higgs is given. Constraints from
+present LEP data are studied and the discovery potential of future colliders
+investigated.
+","[{""version"":""v1"",""created"":""Mon, 9 May 1994 08:58:56 GMT""}]","2007-05-23"
+"hep-ph/9405252","Annemarie Blobel","Ralf Hempfling","On the fine-tuning problem in minimal SO(10) SUSY-GUT","20 pages, 10 figs, uses PHYZZX version to be published in Phys Rev. D","Phys.Rev.D52:4106-4115,1995","10.1103/PhysRevD.52.4106","DESY 94-078 and MPI-PTh 95-53","hep-ph",,"  In grand unified theories (GUT) based on SO(10) all fermions of one
+generation are embedded in a single representation. As a result, the top quark,
+the bottom quark, and the $\tau$ lepton have a universal Yukawa coupling at the
+GUT scale. This implies a very large ratio of Higgs vacuum expectation values,
+$\tanb \simeq m_t/m_b$. We analyze the naturalness of such a scenario
+quantitatively including all the relevant radiative corrections and find that
+in minimal unified supergravity models with universal soft supersymmetry
+breaking parameters at the GUT scale, the necessary amount of fine-tuning
+needed is excessive. GUT threshold correction to the universal Higgs mass
+parameter can significantly reduce the fine-tuning required for such large
+values of $\tanb$. We also point out that the top quark mass can play a crucial
+role in explaining the hierarchy between the SUSY breaking scale and the
+electro-weak scale and, hence, the naturalness of large values of $\tanb$.
+","[{""version"":""v1"",""created"":""Mon, 9 May 1994 12:52:55 GMT""},{""version"":""v2"",""created"":""Mon, 19 Jun 1995 10:53:36 GMT""}]","2011-07-19"
+"hep-ph/9405253","Herbert Dreiner","Herbi Dreiner and Peter Morawitz","Signals for Supersymmetry at HERA","23 pages, plus 12 uuencoded figures upon request, preprint
+  ETH-TH/94-13","Nucl.Phys. B428 (1994) 31-60; Erratum-ibid. B574 (2000) 874-875","10.1016/0550-3213(94)90190-2",,"hep-ph",,"  We consider the baryon parity signals at HERA for the case of the MSSM
+production mechanisms and the decays via the lepton number violating couplings
+$L_iQ{\bar D}$. We can probe very small Yukawa couplings $\lam' \gsim 3\cdot
+10^{-6}$, limited only by the decay length of the LSP. We assume the LSP to be
+the lightest neutralino and study its decays in detail. We present the matrix
+element squared for the tree-level decay amplitude of a generally mixed
+neutralino explicitly. We find that the branching fraction to charged leptons
+strongly depends on the SUSY parameters and can differ significantly from the
+naively expected $50\%$. The SUSY mass reaches of the studied processes in the
+ZEUS detector at HERA were found to be: $(m({\tilde e}, {\tilde \nu})+m({\tilde
+q}))\leq 170\gev$, $195\gev$ and $205\gev$ for the $L_\tau Q{\bar D}, L_\mu
+Q{\bar D}$ and $L_e Q{\bar D}$ couplings respectively. These are well above
+existing limits on R-parity violating (\rpv) SUSY from previous experiments. We
+conclude that HERA offers a {\it very promising} discovery potential for \rpv\
+SUSY.
+","[{""version"":""v1"",""created"":""Mon, 9 May 1994 14:21:03 GMT""}]","2009-10-28"
+"hep-th/9405042",,"Daniel I. Fivel","How Interference Effects in Mixtures Determine the Rules of Quantum
+  Mechanics","27 pages of text in harvmac plus six figures appended to the end of
+  the file",,"10.1103/PhysRevA.50.2108",,"hep-th gr-qc",,"  It is shown that elementary indistinguishability properties of partially
+polarized mixtures are consistent only with the conventional Hilbert space
+model of quantum mechanics and a few exotic alternatives. This applies even in
+low dimensions where quantum logic and Gleason's theorem give either weak or no
+constraints. Experimental methods for eliminating the exotic cases (which
+include quaternionic and octonionic variants of quantum mechanics) are
+described.
+","[{""version"":""v1"",""created"":""Mon, 9 May 1994 04:39:35 GMT""}]","2009-10-28"
+"hep-th/9405048",,"Ali Mostafazadeh, Uni. Texas Dissertation, 115 pages, UT-diss-1994","Supersymmetry, Path Integration, and the Atiyah-Singer Index Theorem",,,,,"hep-th",,"  A new supersymmetric proof of the Atiyah-Singer index theorem is presented.
+The Peierls bracket quantization scheme is used to quantize the supersymmetric
+classical system corresponding to the index problem for the twisted Dirac
+operator. The problem of factor ordering is addressed and the unique quantum
+system that is relevant to the index theorem is analyzed in detail. The
+Hamiltonian operator is shown to include a scalar curvature factor,
+$\hbar^2R/8$. The path integral formulation of quantum mechanics is then used
+to obtain a formula for the index. For the first time, the path integral
+""measure"" and the Feynman propagator of the system are exactly computed. The
+derivation of the index formula relies solely on the definition of a Gaussian
+superdeterminant. The two-loop analysis of the path integral is also carried
+out. The results of the loop and heat kernel expansions of the path interal are
+in complete agreement. This confirms the existence of the scalar curvature
+factor in the Schr\""odinger equation and validates the supersymmetric proof of
+the index theorem. Many other related issues are addressed. Finally, reviews of
+the index theorem and the supersymmetric quantum mechanics are presented.
+","[{""version"":""v1"",""created"":""Sun, 8 May 1994 23:48:14 GMT""}]","2007-05-23"
+"hep-th/9405049","Katsushi Ito","Katsushi Ito and Hiroaki Kanno","Lie Superalgebra and Extended Topological Conformal Symmetry in
+  Non-critical $W_{3}$ Strings","14pages, UTHEP-277","Mod.Phys.Lett. A9 (1994) 3063-3076","10.1142/S0217732394002896",,"hep-th",,"  We obtain a new free field realization of $N=2$ super $W_{3}$ algebra using
+the technique of quantum hamiltonian reduction. The construction is based on a
+particular choice of the simple root system of the affine Lie superalgebra
+$sl(3|2)^{(1)}$ associated with a non-standard $sl(2)$ embedding. After
+twisting and a similarity transformation, this $W$ algebra can be identified as
+the extended topological conformal algebra of non-critical $W_{3}$ string
+theory.
+","[{""version"":""v1"",""created"":""Mon, 9 May 1994 09:20:02 GMT""}]","2015-06-26"
+"hep-th/9405050","Denis Juriev","Denis Juriev","Topics in Hidden Symmetries","11 pages AMSTEX, amsppt style",,,,"hep-th alg-geom math.AG",,"  These three topics are an attempt to explicate some curiosities of the
+inverse problem of representation theory (i.e. having a set of operators to
+describe the ""correct"" algebraic object, which is represented by them) on
+simple examples related to the Lie algebra sl(2,C). Such consideration maybe
+regarded as toy one for analogous infinite dimensional problems in the modern
+quantum field theory (conformal field theory, integrable models, field theory
+in non-trivial backgrounds). Some constructions inspired by these topics and
+related to infinite dimensional hidden symmetries, which are produced by vertex
+operator fields, will be discussed in the forthcoming article.
+","[{""version"":""v1"",""created"":""Mon, 9 May 1994 09:42:04 GMT""},{""version"":""v2"",""created"":""Tue, 10 May 1994 07:06:38 GMT""},{""version"":""v3"",""created"":""Mon, 16 May 1994 10:04:25 GMT""},{""version"":""v4"",""created"":""Wed, 21 Sep 1994 08:22:35 GMT""},{""version"":""v5"",""created"":""Tue, 27 Sep 1994 07:17:41 GMT""},{""version"":""v6"",""created"":""Sat, 1 Oct 1994 13:17:56 GMT""}]","2008-02-03"
+"hep-th/9405052","Ulf Danielsson","Ulf H. Danielsson","The Scattering of Strings in a Black-Hole Background","10 pages, Latex, CERN-TH.7240/94","Phys.Lett. B338 (1994) 158-164","10.1016/0370-2693(94)91360-9",,"hep-th",,"  In this paper, correlation functions of tachyons in the two-dimensional
+black-hole are studied. The results are shown to be consistent with the
+prediction of the deformed matrix model.
+","[{""version"":""v1"",""created"":""Mon, 9 May 1994 10:40:08 GMT""}]","2009-10-28"
+"hep-th/9405053",,"A. Bassetto and L. Griguolo","Anomalous dimensions and ghost decoupling in a perturbative approach to
+  the generalized chiral Schwinger model","DFPD 94/TH/29, May 1994, 28 pages, Latex","Phys.Rev. D50 (1994) 7638-7649","10.1103/PhysRevD.50.7638",,"hep-th",,"  A generalized chiral Schwinger model is studied by means of perturbative
+techniques. Explicit expressions are obtained, both for bosonic and fermionic
+propagators, and compared to the ones derived by means of functional
+techniques. In particular a consistent recipe is proposed to describe the
+ambiguity occurring in the regularization of the fermionic determinant. The
+role of the gauge fixing term, which is needed to develop perturbation theory
+and the behaviour of the spectrum as a function of the parameters are clarified
+together with ultraviolet and infrared properties of the model.
+","[{""version"":""v1"",""created"":""Mon, 9 May 1994 15:51:00 GMT""}]","2009-10-28"

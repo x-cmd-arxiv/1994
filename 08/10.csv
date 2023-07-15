@@ -1,0 +1,292 @@
+"alg-geom/9408003","Oliver Kuechle","Lawrence Ein, Oliver K\""uchle and Robert Lazarsfeld","Local Positivity of Ample Line Bundles","23 pages, AMS-TeX 2.1",,,,"alg-geom math.AG",,"  Let $L$ be a nef line bundle on a smooth complex projective variety $X$ of
+dimension $n$. Demailly has introduced a very interesting invariant --- the
+Seshadri constant $\epsilon(L,x)$ --- which in effect measures how positive $L$
+is locally near a given point $x \in X$. For instance, Seshadri's criterion for
+ampleness may be phrased as stating that $L$ is ample if and only if there
+exists a positive number $e > 0$ such that $\epsilon(L,x) > e$ for all $x \in
+X$, and if $L$ is VERY ample, then $\epsilon(L,x) \ge 1$ for every $x$. We
+prove the somewhat surprising result that in each dimension $n$ there is a
+uniform lower bound on the Seshadri constant of an ample line bundle $L$ at a
+very general point of $X$. Specifically, $\epsilon(L,x) \ge (1/n) $ for all $x
+\in X$ outside the union of countably many proper subvarieties of $X$. Examples
+of Miranda show that there cannot exist a bound (independent of $X$ and $L$)
+that holds at every point. The proof draws inspiration from two sources: first,
+the arguments used to prove boundedness of Fano manifolds of Picard number one;
+and secondly some of the geometric ideas involving zero-estimates appearing in
+the work of Faltings and others on Diophantine approximation and transcendence
+theory. We give some elementary applications of the main theorem to adjoint and
+pluricanonical linear series.
+","[{""version"":""v1"",""created"":""Tue, 9 Aug 1994 19:54:08 GMT""}]","2008-02-03"
+"alg-geom/9408004","Ron Donagi","Ron Donagi and Eyal Markman","Cubics, Integrable Systems, and Calabi-Yau Threefolds","28 p., Latex",,,,"alg-geom math.AG",,"  In this work we construct an analytically completely integrable Hamiltonian
+system which is canonically associated to any family of Calabi-Yau threefolds.
+The base of this system is a moduli space of gauged Calabi-Yaus in the family,
+and the fibers are Deligne cohomology groups (or intermediate Jacobians) of the
+threefolds. This system has several interesting properties: the multivalued
+sections obtained as Abel-Jacobi images, or ``normal functions'', of a family
+of curves on the generic variety of the family, are always Lagrangian; the
+natural affine coordinates on the base, which are used in the mirror
+correspondence, arise as action variables for the integrable system; and the
+Yukawa cubic, expressing the infinitesimal variation of Hodge structure in the
+family, is essentially equivalent to the symplectic structure on the total
+space.
+","[{""version"":""v1"",""created"":""Tue, 9 Aug 1994 21:27:20 GMT""}]","2008-02-03"
+"astro-ph/9408028","Edmund Bertschinger","James M. Gelb and Edmund Bertschinger","Cold Dark Matter I: The Formation of Dark Halos","41 pages, plain tex, ApJ, 236, in press; postscript figures available
+  in ftp://arcturus.mit.edu/Preprints/CDM1_figs.tar.Z","Astrophys.J. 436 (1994) 467","10.1086/174922",,"astro-ph",,"  We use numerical simulations of critically-closed cold dark matter (CDM)
+models to study the effects of numerical resolution on observable quantities.
+We study simulations with up to $256^3$ particles using the particle-mesh (PM)
+method and with up to $144^3$ particles using the adaptive particle-particle
+--particle-mesh (P$^3$M) method. Comparisons of galaxy halo distributions are
+made among the various simulations. We also compare distributions with
+observations and we explore methods for identifying halos, including a new
+algorithm that finds all particles within closed contours of the smoothed
+density field surrounding a peak. The simulated halos show more substructure
+than predicted by the Press-Schechter theory. We are able to rule out all
+$\Omega=1$ CDM models for linear amplitude $\sigma_8\gsim 0.5$ because the
+simulations produce too many massive halos compared with the observations. The
+simulations also produce too many low mass halos. The distribution of halos
+characterized by their circular velocities for the P$^3$M simulations is in
+reasonable agreement with the observations for $150\kms\lsim V_{\rm circ} \lsim
+350\kms$.}}
+","[{""version"":""v1"",""created"":""Tue, 9 Aug 1994 19:57:47 GMT""}]","2009-10-22"
+"astro-ph/9408029","Edmund Bertschinger","James M. Gelb and Edmund Bertschinger","Cold Dark Matter II: Spatial and Velocity Statistics","31 pages, plain tex, ApJ, 236, in press; postscript figures available
+  in ftp://arcturus.mit.edu/Preprints/CDM2_figs.tar.Z","Astrophys.J. 436 (1994) 491","10.1086/174923",,"astro-ph",,"  We examine high-resolution gravitational N-body simulations of the $\Omega=1$
+cold dark matter (CDM) model in order to determine whether there is any
+normalization of the initial density fluctuation spectrum that yields
+acceptable results for galaxy clustering and velocities. Dense dark matter
+halos in the evolved mass distribution are identified with luminous galaxies;
+the most massive halos are also considered as sites for galaxy groups, with a
+range of possibilities explored for the group mass to light ratios. We verify
+the earlier conclusions of White et al. (1987) for the low amplitude (high
+bias) CDM model --- the galaxy correlation function is marginally acceptable
+but that there are too many galaxies. We also show that the peak biasing method
+does not accurately reproduce the results obtained using dense halos identified
+in the simulations themselves. The COBE anisotropy implies a higher
+normalization, resulting in problems with excessive pairwise galaxy velocity
+dispersion unless a strong velocity bias is present. Although we confirm the
+strong velocity bias of halos reported by Couchman \& Carlberg (1992), we show
+that the galaxy motions are still too large on small scales. We find no
+amplitude for which the CDM model can reconcile simultaneously the galaxy
+correlation function, the low pairwise velocity dispersion, and the richness
+distribution of groups and clusters. With the normalization implied by COBE,
+the CDM spectrum has too much power on small scales if $\Omega=1$.
+","[{""version"":""v1"",""created"":""Tue, 9 Aug 1994 19:57:50 GMT""}]","2009-10-22"
+"chao-dyn/9408002","Shin-ichi Sasa","Shin-ichi Sasa (Department of physics, Kyoto University, Kyoto 606,
+  Japan; Address as of Aug. 16, 1994: Department of Pure and Applied
+  Sciences,College of Arts and Sciences, University of Tokyo,Komaba, Meguro-ku,
+  Tokyo 153, Japan), and Tsuyoshi Chawanya (Yukawa Institute for Theoretical
+  Physics, Kyoto 606, Japan)","Weakly Chaotic Population Dynamics in Random Ecological Networks","10 pages (Revtex) + 4 figures (postscript)",,,,"chao-dyn nlin.CD q-bio",,"  Population dynamics in random ecological networks are investigated by
+analyzing a simple deterministic equation. It is found that a sequence of
+abrupt changes of populations punctuating quiescent states characterize the
+long time behavior. An asymptotic analysis is developed by introducing a
+log-scaled time, and it is shown that such a dynamical process behaves as
+non-steady weak chaos in which population disturbances grow algebraically in
+time. Also, some relevance of our study to taxonomic data of biological
+extinction is mentioned.
+","[{""version"":""v1"",""created"":""Wed, 10 Aug 1994 06:55:15 GMT""},{""version"":""v2"",""created"":""Fri, 12 Aug 1994 10:08:56 GMT""}]","2008-02-03"
+"cond-mat/9408031","Deepak Dhar","Mustansir Barma and Deepak Dhar","Slow Relaxation in a Model with Many Conservation Laws : Deposition and
+  Evaporation of Trimers on a Line","10 pages, Latex","Phys. Rev. Lett. 73 (1994) 2135","10.1103/PhysRevLett.73.2135","TIFR/TH/94-02","cond-mat",,"  We study the slow decay of the steady-state autocorrelation function $C(t)$
+in a stochastic model of deposition and evaporation of trimers on a line with
+infinitely many conservation laws and sectors. Simulations show that $C(t)$
+decays as different powers of $t$, or as $\exp (-t^{1/2})$, depending on the
+sector. We explain this diversity by relating the problem to diffusion of hard
+core particles with conserved spin labels. The model embodies a matrix
+generalization of the Kardar-Parisi-Zhang model of interface roughening. In the
+sector which includes the empty line, the dynamical exponent $z$ is $2.55 \pm
+0.15$.
+","[{""version"":""v1"",""created"":""Wed, 10 Aug 1994 11:57:18 GMT""}]","2009-10-22"
+"cond-mat/9408032","Lee-Wen Chen","Lee-Wen Chen, M. Cristina Marchetti (Dept. of Physics, Syracuse U.)","Interface Motion in Random Media at Finite Temperature","harvmac.tex, 30 pages, including 9 figures, available upon request.
+  SU-rm-940731",,"10.1103/PhysRevB.51.6296",,"cond-mat",,"  We have studied numerically the dynamics of a driven elastic interface in a
+random medium, focusing on the thermal rounding of the depinning transition and
+on the behavior in the $T=0$ pinned phase. Thermal effects are quantitatively
+more important than expected from simple dimensional estimates. For sufficient
+low temperature the creep velocity at a driving force equal to the $T=0$
+depinning force exhibits a power-law dependence on $T$, in agreement with
+earlier theoretical and numerical predictions for CDW's. We have also examined
+the dynamics in the $T=0$ pinned phase resulting from slowly increasing the
+driving force towards threshold. The distribution of avalanche sizes $S_\|$
+decays as $S_\|^{-1-\kappa}$, with $\kappa = 0.05\pm 0.05$, in agreement with
+recent theoretical predictions.
+","[{""version"":""v1"",""created"":""Wed, 10 Aug 1994 15:28:15 GMT""}]","2009-10-22"
+"cond-mat/9408033","Igor L. Aleiner","I. L. Aleiner, H. U. Baranger, and L. I. Glazman","Tunneling into a Two-Dimensional Electron Liquid in a Weak Magnetic
+  Field","8 pages, preprint TPI-MINN-94/28-T",,"10.1103/PhysRevLett.74.3435",,"cond-mat",,"  We study the spectral density function of a two-dimensional electron liquid
+in a weak magnetic field, the filling factor $\nu\gg 1$. A hydrodynamic model
+for low-energy excitations of the liquid is developed. It is found that even at
+$\nu\gg 1$ the density of states exhibits a gap at low energies. Its width
+$2E_0$ depends on the strength of interaction only logarithmically,
+$2E_0=(\hbar\omega_c/\nu)\ln (\nu e^2/\varepsilon\hbar v_F)$. The effects of
+temperature and disorder on the density of states are discussed.
+","[{""version"":""v1"",""created"":""Wed, 10 Aug 1994 15:35:57 GMT""}]","2016-08-31"
+"gr-qc/9408012","P. Huebner","Peter Huebner","General Relativistic Scalar Field Models in the Large","22 pages, latex, AGG 19",,"10.1088/0264-9381/12/3/016",,"gr-qc",,"  For a class of scalar fields including the massless Klein-Gordon field the
+general relativistic hyperboloidal initial value problems are equivalent in a
+certain sense. By using this equivalence and conformal techniques it is proven
+that the hyperboloidal initial value problem for those scalar fields has an
+unique solution which is weakly asymptotically flat. For data sufficiently
+close to data for flat spacetime there exist a smooth future null infinity and
+a regular future timelike infinity.
+","[{""version"":""v1"",""created"":""Wed, 10 Aug 1994 10:01:48 GMT""}]","2009-10-22"
+"hep-ph/9408258",,"R. Kirschner (DESY - Institut f\""ur Hochenergiephysik Zeuthen)","Low x Physics and Perturbative Regge Asymptotics","15 pages, 6 figures, N5-94",,,,"hep-ph",,"  Deep-inelastic scattering at small x is a new field of QCD phenomenology
+which HERA experiments started to explore. The data show the feature expected
+by the perturbative Regge asymptotics. We describe the parton picture of
+structure function evolution both for increasing $Q^2$ and for decreasing $x$
+and discuss the leading logarithmic approximation of QCD on which this picture
+is based. The steep rise of the parton density towards smaller $x$ gets
+saturated by parton recombination. An essential improvement of the leading
+logarithmic approximation has to be worked out in order to satisfy the
+unitarity conditions and in this way to describe the parton recombination in
+perturbative QCD. We review some ideas of the perturbative Regge asymptotics
+and some recent theoretical results about multi-reggeon exchange in QCD. Talk
+at the Tennessee Intern. Symposium on Rad. Corrections, prepared for the
+proceedings.
+","[{""version"":""v1"",""created"":""Tue, 9 Aug 1994 16:30:00 GMT""}]","2007-05-23"
+"hep-ph/9408260","Stacey Scoville","T. G. O'Neill, et al","A-dependence of nuclear transparency in quasielastic A(e,e'p) at high
+  Q^2","5 pages incl. 2 figures, Caltech preprint OAP-731","Phys.Lett.B351:87-92,1995","10.1016/0370-2693(95)00362-O",,"hep-ph",,"  The A-dependence of the quasielastic A(e,e'p) reaction has been studied at
+SLAC with H-2, C, Fe, and Au nuclei at momentum transfers Q^2 = 1, 3, 5, and
+6.8 (GeV/c)^2. We extract the nuclear transparency T(A,Q^2), a measure of the
+average probability that the struck proton escapes from the nucleus A without
+interaction. Several calculations predict a significant increase in T with
+momentum transfer, a phenomenon known as Color Transparency. No significant
+rise within errors is seen for any of the nuclei studied.
+","[{""version"":""v1"",""created"":""Tue, 9 Aug 1994 17:19:21 GMT""}]","2016-09-01"
+"hep-ph/9408261",,"M. A. Braun","Reggeized Gluons with a Running Coupling Constant","9 pages, LaTeX, US-FT/12-94","Phys.Lett. B348 (1995) 190-195","10.1016/0370-2693(95)00101-P",,"hep-ph",,"  The equation for two reggeized gluons in the vacuum channel is generalized to
+take into account the running QCD coupling constant on the basis of the
+bootstrap condition for gluon reggeization. Both the gluon trajectory as a
+function of momentum and the interaction as a function of distance grow like
+$\log\log$ in the ultraviolet. The resulting equation depends on the
+confinement region. With a simple parametrization of its influence by an
+effective gluon mass the pomeron intercept turns out much smaller than for a
+fixed coupling constant (the BFKL pomeron).
+","[{""version"":""v1"",""created"":""Wed, 10 Aug 1994 05:00:59 GMT""}]","2009-10-28"
+"hep-ph/9408262","Anton Kraemmer-Rebhan","Anton K. Rebhan","Nonabelian Debye Screening in One-Loop Resummed Perturbation Theory","24 pp., REVTEX file, 7 uuencoded tar-compressed postscript figs.
+  included through epsf.sty, DESY 94-132 [substantial corrections in sect. 5,
+  sect. 7, and figs., which simplify the discussion, leaving the conclusions
+  unchanged; appendix added]","Nucl.Phys. B430 (1994) 319-344","10.1016/0550-3213(94)90253-4",,"hep-ph hep-lat",,"  Debye screening of static chromoelectric fields at high temperature is
+investigated at next-to-leading order through one-loop resummed perturbation
+theory. At this order the gluon propagator appears to give rise to strong
+deviations from a Yukawa form of screening. Generally, an oscillatory behavior
+is found which asymptotically becomes repulsive, but in a gauge-dependent
+manner. However, these features are strongly sensitive to the existence of
+screening of static magnetic fields. It is shown that a small magnetic
+screening mass can restore exponential screening with a gauge independent value
+of the screening mass, which depends logarithmically on the magnitude of the
+magnetic mass. Recent results obtained in temporal axial gauge, which instead
+indicate an asymptotic (repulsive) power-law behavior of screening, are also
+critically discussed. In order to arrive at a gauge-invariant treatment of
+chromoelectric screening, Polyakov loop correlations are considered, both with
+and without dynamical gauge symmetry breaking. Again a crucial sensitivity to
+the scale of magnetic screening is found. A detailed comparison of the
+perturbative results with recent high-precision lattice simulations of the
+SU(2) Polyakov loop correlator is made, which are found to agree well with the
+perturbative result in the symmetric phase when a magnetic mass $\sim g^2T/4$
+is included.
+","[{""version"":""v1"",""created"":""Wed, 10 Aug 1994 11:59:02 GMT""},{""version"":""v2"",""created"":""Thu, 11 Aug 1994 16:41:24 GMT""},{""version"":""v3"",""created"":""Sun, 11 Sep 1994 13:20:44 GMT""}]","2009-10-28"
+"hep-ph/9408263","Anton Kraemmer-Rebhan","A. K. Rebhan","The Infrared Sensitivity of Nonabelian Debye Screening","5 pp. incl. 2 figs. (uuencoded tar-compressed postscript file)",,,,"hep-ph",,"  It is shown that a perturbative treatment of nonabelian Debye screening at
+high temperature suffers from infrared problems already at the next-to-leading
+order, which is given by ring-resummed one-loop diagrams. Superficial infrared
+power counting would let one expect a sensitivity to the magnetic mass scale
+only at higher orders, but the form of Debye screening depends on the analytic
+structure of the correlation functions, which is strongly sensitive to the
+existence of screening of static magnetic fields. [Invited talk at the Workshop
+on Quantum Infrared Physics, 6-10 June 1994, American University of Paris,
+France]
+","[{""version"":""v1"",""created"":""Wed, 10 Aug 1994 12:00:09 GMT""},{""version"":""v2"",""created"":""Fri, 12 Aug 1994 11:35:17 GMT""}]","2008-02-03"
+"hep-ph/9408264","A. Leonidov","A.V.Leonidov, G.M.Zinovjev","On the Deconfinement Phase Transition in the Resonance Gas","7 pages, plain LaTeX, BI-TP 94/40","JETP Lett. 63 (1996) 510-515","10.1134/1.567057",,"hep-ph",,"  We obtain the constraints on the ruling parameters of the dense hadronic gas
+model at the critical temperature and propose the quasiuniversal ratios of the
+thermodynamic quantities. The possible appearence of thermodynamical
+instability in such a model is discussed.
+","[{""version"":""v1"",""created"":""Wed, 10 Aug 1994 14:11:58 GMT""}]","2009-10-28"
+"hep-th/9408056","M. J. Rodriguez-Plaza","Shahn Majid and M.J. Rodriguez-Plaza","Anyonic FRT construction","11 pages, Latex, DAMTP/94-64, NIKHEF-H 94-25",,"10.1007/BF01690459",,"hep-th",,"  The Faddeev-Reshetikhin-Takhtajan method to construct matrix bialgebras from
+non-singular solutions of the quantum Yang-Baxter equation is extended to the
+anyonic or $\Z_n$-graded case. The resulting anyonic quantum matrices are
+braided groups in which the braiding is given by a phase factor.
+","[{""version"":""v1"",""created"":""Tue, 9 Aug 1994 16:27:11 GMT""}]","2009-10-28"
+"hep-th/9408057","Michael Martin Nieto","Jamil Daboul and Michael Martin Nieto","Exact, E=0, Solutions for General Power-Law Potentials. I. Classical
+  Orbits","LaTeX, 27 pages with 12 figures available from the authors or can be
+  generated from Mathematica instructions at end of the file","Phys.Rev. E52 (1995) 4430","10.1103/PhysRevE.52.4430","Preprint LA-UR-94-2075","hep-th",,"  For zero energy, $E=0$, we derive exact, classical solutions for {\em all}
+power-law potentials, $V(r)=-\gamma/r^\nu$, with $\gamma>0$ and $-\infty
+<\nu<\infty$. When the angular momentum is non-zero, these solutions lead to
+the orbits $\r(t)= [\cos \mu (\th(t)-\th_0(t))]^{1/\mu}$, for all $\mu \equiv
+\nu/2-1 \ne 0$. When $\nu>2$, the orbits are bound and go through the origin.
+This leads to discrete discontinuities in the functional dependence of $\th(t)$
+and $\th_0(t)$, as functions of $t$, as the orbits pass through the origin. We
+describe a procedure to connect different analytic solutions for successive
+orbits at the origin. We calculate the periods and precessions of these bound
+orbits, and graph a number of specific examples. Also, we explain why they all
+must violate the virial theorem. The unbound orbits are also discussed in
+detail. This includes the unusual orbits which have finite travel times to
+infinity and also the special $\nu = 2$ case.
+","[{""version"":""v1"",""created"":""Tue, 9 Aug 1994 20:06:23 GMT""}]","2009-10-28"
+"hep-th/9408058","Michael Martin Nieto","Jamil Daboul and Michael Martin Nieto","Exact, E=0, Solutions for General Power-Law Potentials. II. Quantum Wave
+  Functions","LaTeX, 19 pages, preprint LA-UR-94-2569","Int.J.Mod.Phys. A11 (1996) 180",,,"hep-th",,"  For zero energy, $E=0$, we derive exact, quantum solutions for {\it all}
+power-law potentials, $V(r) = -\gamma/r^{\nu}$, with $\gamma > 0$ and $-\infty
+< \nu < \infty$. The solutions are, in general, Bessel functions of powers of
+$r$. For $\nu > 2$ and $l \ge 1$ the solutions are normalizable; they
+correspond to states which are bound by the angular-momentum barrier.
+Surprisingly, the solutions for $\nu < -2$ are also normalizable, They are
+discrete states but do not correspond to bound states. For $2> \nu \geq -2$ the
+states are unnormalizable continuum states. The $\nu=2$ solutions are also
+unnormalizable, but are exceptional solutions. Finally, we find that by
+increasing the dimension of the \seq beyond 4 an effective centrifugal barrier
+is created, due solely to the extra dimensions, which is enough to cause
+binding. Thus, if $D>4$, there are $E=0$ bound states for $\nu > 2$ even for
+$l=0$. We discuss the physics of the above solutions are compare them to the
+classical solutions of the preceding paper.
+","[{""version"":""v1"",""created"":""Tue, 9 Aug 1994 20:10:03 GMT""}]","2007-05-23"
+"hep-th/9408059",,"A. Shariati and A. Aghamohammadi","On The Inhomogeneous Quantum Groups","Some references have been added",,,,"hep-th math.QA",,"  Using the multi-parametric deformation of the algebra of functions on $
+\GL{n+1} $ and the universal enveloping algebra $ \U{\igl{n+1}} $, we construct
+the multi-parametric quantum groups $ \IGLq{n} $ and $ \Uq{\igl{n}} $.
+","[{""version"":""v1"",""created"":""Wed, 10 Aug 1994 15:08:00 GMT""},{""version"":""v2"",""created"":""Thu, 22 Sep 1994 18:46:59 GMT""}]","2008-02-03"
+"hep-th/9408060","S. Fawad Hasan","S. F. Hassan","O(d,d;R) Deformations of Complex Structures and Extended Worldsheet
+  Supersymmetry","19 pages, Latex, very minor changes (version to appear in Nuclear
+  Physics B)","Nucl.Phys. B454 (1995) 86-102","10.1016/0550-3213(95)00384-5","TIFR/TH/94-26","hep-th",,"  It is shown that the O(d,d;R) deformations of the superstring vacua and the
+O(d,d+16;R) deformations of the heterotic string vacua preserve extended
+worldsheet supersymmetry and, hence, generate superconformal deformations. The
+transformations of the complex structures are given explicitly and the action
+of the discrete duality subgroup is discussed. The results are valid when the
+complex structures are independent of the d coordinates which appear in the
+transformations. It is shown that generic deformations do not preserve the
+known superfield formulations of (2,2) extended supersymmetry. The analysis is
+performed by decomposing the transformations in terms of the metric vielbein
+and by introducing space-time connections induced due to the non-linear action
+of the O(d,d;R) and O(d,d+16;R) deformations on the background fields.
+","[{""version"":""v1"",""created"":""Wed, 10 Aug 1994 15:18:21 GMT""},{""version"":""v2"",""created"":""Wed, 7 Sep 1994 10:17:46 GMT""},{""version"":""v3"",""created"":""Fri, 21 Jul 1995 14:11:57 GMT""}]","2009-10-28"
+"hep-th/9408061","Gerald Dunne","Gerald Dunne","Vacuum Mass Spectra for SU(N) Self-Dual Chern-Simons-Higgs Systems","19 pages (LaTeX)","Nucl.Phys. B433 (1995) 333-350","10.1016/0550-3213(94)00476-U",,"hep-th",,"  We study the $SU(N)$ self-dual Chern-Simons-Higgs systems with adjoint matter
+coupling, and show that the sixth order self-dual potential has $p(N)$ gauge
+inequivalent degenerate minima, where $p(N)$ is the number of partitions of
+$N$. We compute the masses of the gauge and scalar excitations in these
+different vacua, revealing an intricate mass structure which reflects the
+self-dual nature of the model.
+","[{""version"":""v1"",""created"":""Wed, 10 Aug 1994 13:30:29 GMT""}]","2009-10-28"
+"hep-th/9408062","Matthew Leeming","P.S.Howe and M.I.Leeming","Harmonic Superspaces in Low Dimensions","16, kcl-th-94-15. Two further references have been added (12 and 13)
+  and a few typographical errors have been corrected","Class.Quant.Grav.11:2843-2852,1994","10.1088/0264-9381/11/12/004",,"hep-th",,"  Harmonic superspaces for spacetimes of dimension $d\leq 3$ are constructed.
+Some applications are given.
+","[{""version"":""v1"",""created"":""Wed, 10 Aug 1994 14:12:14 GMT""},{""version"":""v2"",""created"":""Fri, 23 Sep 1994 13:33:28 GMT""},{""version"":""v3"",""created"":""Wed, 28 Sep 1994 10:39:23 GMT""}]","2010-04-06"
+"math/9408203","Paul Bankston","Paul Bankston","Co-elementary equivalence, co-elementary maps, and generalized arcs",,,,"Logic E-prints August 10, 1994","math.LO",,"  By a {\bf generalized arc\/} we mean a continuum with exactly two
+non-separating points; an {\bf arc} is a metrizable generalized arc. It is well
+known that any two arcs are homeomorphic (to the real closed unit interval); we
+show that any two generalized arcs are co-elementarily equivalent, and that
+co-elementary images of generalized arcs are generalized arcs. We also show
+that if $f:X \to Y$ is a function between compact Hausdorff spaces and if $X$
+is an arc, then $f$ is a co-elementary map if and only if $Y$ is an arc and $f$
+is a monotone continuous surjection.
+","[{""version"":""v1"",""created"":""Wed, 10 Aug 1994 00:00:00 GMT""}]","2009-09-25"
+"nucl-th/9408011","T. S. Kosmas","T. S. Kosmas and J. D. Vergados","Muon to Electron Conversion; A Symbiosis of Particle and Nuclear Physics","25 pages, Latex file, 5 figs., uuencoded tar-compressed file is
+  appended","Phys.Rept.264:251-266,1996","10.1016/0370-1573(95)00041-0",,"nucl-th",,"  $\mu-e$ conversion is the experimentally most interesting lepton flavor
+violating process. From a theoretical point of view it is an interesting
+interplay of particle and nuclear physics. The effective transition operator,
+depending on the gauge model, is in general described in terms of a combination
+of four terms of transition operators (isoscalar and isovector, Fermi-like as
+well as axial vector-like). The experimentally most interesting ground state to
+ground state transition is adequately described in terms of the usual proton
+and neutron form factors. These were computed in both the shell model and RPA.
+Since it is of interest to know the portion of the strength exhausted by the
+coherent (ground state to ground state) transition, the total transition rate
+to all final states must also be computed. This was done i) in RPA by
+explicitly summing over all final states ii) in the context of the closure
+approximation (using shell model and RPA for constructing the initial state)
+and iii) in the context of nuclear matter mapped into nuclei via a local
+density approximation. We found that, apart from small local oscillations, the
+conversion rate keeps increasing from light to heavy nuclear elements. We also
+find that the coherent mode is dominant (it exhausts more than 90\% of the sum
+rule). Various gauge models are discussed. In general the predicted branching
+ratio is much smaller compared to the present experimental limit.
+","[{""version"":""v1"",""created"":""Wed, 10 Aug 1994 12:39:07 GMT""}]","2011-07-19"

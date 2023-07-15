@@ -1,0 +1,301 @@
+"astro-ph/9410033",,"G. De Zotti, A. Franceschini, P. Mazzei, L. Toffolatti, and L. Danese","The Extragalactic IR Background","1994, invited review to be published in the Proc. of the Internatinal
+  Conf. ""Dust, Molecules and Backgrounds: from Laboratory to Space"", Capri
+  (NA), Italy, 12--15 September, 1994, in press. Tex file, 16 pages, 6 figures
+  not included. ASTRPD-94-10-03",,"10.1016/0032-0633(95)00060-I",,"astro-ph",,"  Current limits on the intensity of the extragalactic infrared background are
+consistent with the expected contribution from evolving galaxies. Depending on
+the behaviour of the star formation rate and of the initial mass function, we
+can expect that dust extinction during early evolutionary phases ranges from
+moderate to strong. An example of the latter case may be the ultraluminous
+galaxy IRAS F$10214 + 4724$. The remarkable lack of high redshift galaxies in
+faint optically selected samples may be indirect evidence that strong
+extinction is common during early phases. Testable implications of different
+scenarios are discussed; ISO can play a key role in this context. Estimates of
+possible contributions of galaxies to the background under different
+assumptions are presented. The COBE/FIRAS limits on deviations from a blackbody
+spectrum at sub-mm wavelengths already set important constraints on the
+evolution of the far-IR emission of galaxies and on the density of obscured
+(``Type 2'') AGNs. A major progress in the field is expected at the completion
+of the analysis of COBE/DIRBE data.
+","[{""version"":""v1"",""created"":""Tue, 11 Oct 1994 21:28:00 GMT""}]","2009-10-22"
+"astro-ph/9410034","Rosemary Wyse","Rosemary F.G. Wyse","Galactic Structure and Stellar Populations","16pp, plain tex, CfPA 94-th-40",,"10.1086/133624",,"astro-ph",,"  Invited review given at special session on Digitizing the Sky at 1994 Summer
+AAS meeting, Minnesota.
+","[{""version"":""v1"",""created"":""Wed, 12 Oct 1994 00:26:50 GMT""}]","2009-10-22"
+"cond-mat/9410037","Dmitrii Maslov","Daniel Loss and Dmitrii L. Maslov","Spin Stiffness of Mesoscopic Quantum Antiferromagnets","12 pages, LaTeX",,"10.1103/PhysRevLett.74.178",,"cond-mat",,"  We study the spin stiffness of a one-dimensional quantum antiferromagnet in
+the whole range of system sizes $L$ and temperatures $T$. We show that for
+integer and half-odd integer spin case the stiffness differs fundamentally in
+its $L$ and $T$ dependence, and that in the latter case the stiffness exhibits
+a striking dependence on the parity of the number of sites. Integer spin chains
+are treated in terms of the non-linear sigma model, while half-odd integer spin
+chains are discussed in a renormalization group approach leading to a Luttinger
+liquid with Aharonov-Bohm type boundary conditions.
+","[{""version"":""v1"",""created"":""Tue, 11 Oct 1994 20:56:59 GMT""}]","2009-10-22"
+"cond-mat/9410038",,"Sudhansu S. Mandal, S. Ramaswamy, and V.Ravishankar","Quantum Hall Effects at Finite Temperatures","6 pages, 2 figures available on request,report#iitk/phy/cm/8-94",,,,"cond-mat",,"  We study the finite temperature (FT) effects on integer quantum Hall effect
+(IQHE) and fractional quantum Hall effect (FQHE) as predicted by the composite
+fermion model. We find that at $T\neq 0$, universality is lost, as is
+quantization because of a new scale $T_0=\pi\rho /m^\ast p$. We find that this
+loss is not inconsistent with the experimentally observed accuracies. While the
+model seems to work very well for IQHE, it agrees with the bulk results of FQHE
+but is shown to require refinement in its account of microscopic properties
+such as the effective mass. Our analysis also gives a qualitative account of
+the threshold temperatures at which the FQHE states are seen experimentally.
+Finally, we extract model independent features of quantum Hall effect at FT,
+common to all Chern-Simons theories that employ mean field ansatz.
+","[{""version"":""v1"",""created"":""Wed, 12 Oct 1994 08:56:08 GMT""}]","2019-08-17"
+"cond-mat/9410039","Richard Putz","R. Putz, R. Preuss, A. Muramatsu and W. Hanke","Conserving approximation for the three-band Hubbard model: flat
+  quasiparticle dispersion","REVtex, 10 pages, 4 figures (in uuencoded postscript format) appended
+  at the end of the file",,,,"cond-mat",,"  It is shown that the low-energy single-particle excitation-spectrum of the
+three-band Hubbard model at hole-dopings away from half-filling agrees
+remarkably well with Quantum Monte Carlo data and spectroscopic experiments
+within the framework of a conserving approximation that includes
+self-consistently the interaction with charge, spin, and two-particle
+fluctuations. The dispersion of the quasiparticle-peak obtained from the
+spectral-weight function is flat around the $(\pi,0)$ and $(0,\pi)$ points as
+has been observed in recent angle-resolved photoemission measurement. The
+significant reduction of the quasiparticle-dispersion near the Fermi-energy is
+due to spin-fluctuations, rather than being induced by band effects.
+","[{""version"":""v1"",""created"":""Wed, 12 Oct 1994 10:24:17 GMT""},{""version"":""v2"",""created"":""Thu, 13 Oct 1994 09:17:14 GMT""},{""version"":""v3"",""created"":""Mon, 24 Oct 1994 16:01:05 GMT""}]","2008-02-03"
+"cond-mat/9410040","Martin Zirnbauer","M. Zirnbauer","Towards a theory of the integer quantum Hall transition: from the
+  nonlinear sigma model to superspin chains","64 pages, plain TEX, with 8 figures appended as uuencoded postscript
+  files, to appear in Annalen der Physik (Germany)",,"10.1002/andp.19945060702",,"cond-mat hep-th",,"  A careful study of the supersymmetric version of Pruisken's nonlinear sigma
+model for the integer quantum Hall effect is presented. The lattice regularized
+model is cast in Hamiltonian form by taking the anisotropic limit and
+interpreting the topological density as an alternating sum of Wess-Zumino
+terms. It is argued that the relevant large-scale physics of the model is
+preserved by projection of the quantum Hamiltonian on its sector of degenerate
+strong-coupling ground states. For values of the Hall conductivity close to
+e^2/2h (mod e^2/h), where a delocalization transition occurs, this yields the
+Hamiltonian of a quantum superspin chain which is closely related to an
+anisotropic version of the Chalker-Coddington model. The relation implies that
+the ratio of magnetic length over potential correlation length is an irrelevant
+parameter at the transition. The superspin chain resembles a 1d isotropic
+antiferromagnet with spin 1/2. It has an alternating structure which however
+permits an invariance under translation by one site. The conductance
+coefficients of a quantum Hall system with N small contacts translate into
+N-superspin correlation functions which are governed by conformal invariance.
+The superspin formalism provides a framework for studying the crossover from
+classical to quantum percolation. It does not however encompass the
+frequency-dependent correlations of wave amplitudes at criticality.
+","[{""version"":""v1"",""created"":""Wed, 12 Oct 1994 15:30:00 GMT""}]","2009-10-22"
+"cond-mat/9410041","Michael M. Fogler","M. M. Fogler and B. I. Shklovskii","The Probability of an Eigenvalue Number Fluctuation in an Interval of a
+  Random Matrix Spectrum","4 pages, postscript","Phys. Rev. Lett. 74, 3312 (1995)","10.1103/PhysRevLett.74.3312",,"cond-mat",,"  We calculate the probability to find exactly $n$ eigenvalues in a spectral
+interval of a large random $N \times N$ matrix when this interval contains $s
+\ll N$ eigenvalues on average. The calculations exploit an analogy to the
+problem of finding a two-dimensional charge distribution on the interface of a
+semiconductor heterostructure under the influence of a split gate.
+","[{""version"":""v1"",""created"":""Wed, 12 Oct 1994 14:42:09 GMT""}]","2009-10-22"
+"gr-qc/9410013","Jesus Barbero","J. Fernando Barbero","Reality Conditions and Ashtekar Variables: a Different Perspective","22 pages, LATEX, Preprint CGPG-94/10-2","Phys.Rev.D51:5498-5506,1995","10.1103/PhysRevD.51.5498",,"gr-qc",,"  We give in this paper a modified self-dual action that leads to the
+$SO(3)$-ADM formalism without having to face the difficult second class
+constraints present in other approaches (for example if one starts from the
+Hilbert-Palatini action). We use the new action principle to gain some new
+insights into the problem of the reality conditions that must be imposed in
+order to get real formulations from complex general relativity. We derive also
+a real formulation for Lorentzian general relativity in the Ashtekar phase
+space by using the modified action presented in the paper.
+","[{""version"":""v1"",""created"":""Tue, 11 Oct 1994 21:45:03 GMT""}]","2017-03-24"
+"gr-qc/9410014","Jesus Barbero","J. Fernando Barbero","Real Ashtekar Variables for Lorentzian Signature Space-times","10 pages, LATEX, Preprint CGPG-94/10-3","Phys.Rev.D51:5507-5510,1995","10.1103/PhysRevD.51.5507",,"gr-qc",,"  I suggest in this letter a new strategy to attack the problem of the reality
+conditions in the Ashtekar approach to classical and quantum general
+relativity. By writing a modified Hamiltonian constraint in the usual $SO(3)$
+Yang-Mills phase space I show that it is possible to describe space-times with
+Lorentzian signature without the introduction of complex variables. All the
+features of the Ashtekar formalism related to the geometrical nature of the new
+variables are retained; in particular, it is still possible, in principle, to
+use the loop variables approach in the passage to the quantum theory. The key
+issue in the new formulation is how to deal with the more complicated
+Hamiltonian constraint that must be used in order to avoid the introduction of
+complex fields.
+","[{""version"":""v1"",""created"":""Tue, 11 Oct 1994 21:45:45 GMT""}]","2017-03-24"
+"gr-qc/9410015","Renaud Parentani","Renaud Parentani, Joseph Katz and Isao Okamoto","Thermodynamics of a black hole in a cavity","27 pages, latex file, contains 3 figures available on request at
+  okamoto@gprx.miz.nao.ac.jp","Class.Quant.Grav.12:1663-1684,1995","10.1088/0264-9381/12/7/009",,"gr-qc",,"  We present a unified thermodynamical description of the configurations
+consisting on self-gravitating radiation with or without a black hole. We
+compute the thermal fluctuations and evaluate where will they induce a
+transition from metastable configurations towards stable ones. We show that the
+probability of finding such a transition is exponentially small. This indicates
+that, in a sequence of quasi equilibrium configurations, the system will remain
+in the metastable states till it approaches very closely the critical point
+beyond which no metastable configuration exists. Near that point, we relate the
+divergence of the local temperature fluctuations to the approach of the
+instability of the whole system, thereby generalizing the usual fluctuations
+analysis in the cases where long range forces are present. When angular
+momentum is added to the cavity, the above picture is slightly modified.
+Nevertheless, at high angular momentum, the black hole loses most of its mass
+before it reaches the critical point at which it evaporates completely.
+","[{""version"":""v1"",""created"":""Wed, 12 Oct 1994 11:19:00 GMT""}]","2010-04-06"
+"hep-ph/9410264","Jochen Schaefer","H.J.Pirner and B.-J. Schaefer","QCD Phase Transition in Hot Hadronic Matter","10 pages (Latex), 4 figures available on request from Schaefer",,,,"hep-ph",,"  We analyse the QCD chiral phase transition in the nonlinear and linear
+$\sigma$-model. The strategy is the same in both cases. We fix the parameters
+of the effective meson theory at temperature $T=0$ and extrapolate the models
+to temperatures in the vicinity of the phase transition. The linear
+$\sigma$-model in $SU(3)\times SU(3)$ gives a crossover around $T_c\approx190$
+MeV. Around this temperature chiral $SU(2)\times SU(2)$ is almost restored. We
+also calculate meson masses as a function of temperature.
+","[{""version"":""v1"",""created"":""Tue, 11 Oct 1994 17:45:49 GMT""}]","2009-09-25"
+"hep-ph/9410265",,"Yung Su Tsai","Production of Polarized tau Pairs and Tests of CP Violation Using
+  Polarized e+e- Colliders Near Threshold","30 pages, 5 figures, uuencoded file, SLAC-PUB-6685","Phys.Rev.D51:3172-3181,1995","10.1103/PhysRevD.51.3172",,"hep-ph",,"  We consider the production of tau pairs by electron-positron colliding beams
+at the maximum cross section near the threshold. At this energy tau pairs are
+produced mostly in the s-wave which implies that the spin of the tau pairs are
+almost always pointing in the beam direction independent of the production
+angle. When both electrons and positrons are longitudinally polarized in the
+same direction, for example 90%, one can obtain tau pairs with 99% polarization
+in the direction of the polarization vectors of the incident beams. Tests of CP
+violation and study of the structure of weak interactions using such polarized
+tau pairs are discussed.
+","[{""version"":""v1"",""created"":""Tue, 11 Oct 1994 20:08:44 GMT""}]","2009-12-30"
+"hep-ph/9410266",,"U. Baur, T. Han and J. Ohnemus","$WZ$ Production at Hadron Colliders: Effects of Non-Standard $WWZ$
+  Couplings and QCD Corrections","REVTEX3 file, 51 pages, 21 figures (postscript files) can be obtained
+  via anonymous ftp://ucdhep.ucdavis.edu/anonymous/ohnemus/ucd-94-22","Phys.Rev. D51 (1995) 3381-3407","10.1103/PhysRevD.51.3381","FSU-HEP-941010, UCD-94-22","hep-ph",,"  The process $p\,\pbar \rightarrow W^{\pm}Z + X \rightarrow \ell^\pm_1 \nu_1
+\ell_2^+ \ell_2^- + X$ is calculated to ${\cal O}(\alpha_s)$ for general $C$
+and $P$ conserving $WWZ$ couplings. At the Tevatron center of mass energy, the
+QCD corrections to $WZ$ production are modest. At Large Hadron Collider (LHC)
+energies, the inclusive QCD corrections are large, but can be reduced
+significantly if a jet veto is imposed. Sensitivity limits for the anomalous
+$WWZ$ couplings are derived from the next-to-leading order $Z$ boson transverse
+momentum distribution for Tevatron and LHC energies. Unless a jet veto is
+imposed, next-to-leading order QCD corrections decrease the sensitivity to
+anomalous $WWZ$ couplings considerably at LHC energies, but have little
+influence at the Tevatron. We also study, at next-to-leading order, rapidity
+correlations between the $W$ and $Z$ decay products, and the $ZZ/WZ$ and
+$WZ/W\gamma$ cross section ratios. These quantities are found to be useful
+tools in searching for the approximate zero present in the Standard Model $WZ$
+helicity amplitudes. The prospects for observing the approximate amplitude zero
+at the Tevatron and the LHC are critically assessed.
+","[{""version"":""v1"",""created"":""Tue, 11 Oct 1994 23:23:36 GMT""}]","2016-09-01"
+"hep-ph/9410267","Aaron Keith Grant","Aaron K. Grant","The heavy top quark in the two Higgs doublet model","26 pages","Phys.Rev.D51:207-217,1995","10.1103/PhysRevD.51.207","EFI 94-24","hep-ph",,"  Constraints on the two Higgs doublet model are presented, assuming a top mass
+of 174 $\pm$ 17 GeV. We concentrate primarily on the ``type II'' model, where
+up--type quarks receive their mass from one Higgs doublet, and down--type
+quarks receive their mass from the second doublet. High energy constraints
+derived from the $W$ mass, the full width of the $Z$ and the $b \bar b$ partial
+width of the $Z$ are combined with low energy constraints from $\Gamma(b\to s
+\gamma)$, $\Gamma(b \to c \tau \bar\nu_\tau)$ and $B^0$-$\bar B^0$ mixing to
+determine the experimentally favored configurations of the model. This
+combination of observables rules out small charged Higgs masses and small
+values of $\tan\beta$, and provides some information about the neutral Higgs
+masses and the mixing angle $\alpha$. In particular, constraints derived from
+the $\rho$ parameter rule out configurations where the charged Higgs is much
+heavier or much lighter than the neutral Higgses. We discuss a scenario where
+$\Gamma(Z\to b \bar b)$ is enhanced relative to the standard model result,
+which unfortunately is on the verge of being ruled out by the combination of
+$\Gamma(b\to s \gamma)$ and $\rho$ parameter constraints. Implications for
+various extensions of the standard model are briefly discussed.
+","[{""version"":""v1"",""created"":""Wed, 12 Oct 1994 03:42:30 GMT""}]","2010-11-01"
+"hep-ph/9410268","Bryan Webber,Cavendish Laboratory,Cambridge","B R Webber","QCD and Jet Physics","plenary talk at 27th Int Conf on HEP, Glasgow, July 1994, 20 pages
+  uuencoded postscript (875 kbytes, including 24 figures)",,,"Cavendish-HEP-94/15","hep-ph",,"  The current status of the QCD coupling constant $\alpha_S$ and experimental
+and theoretical studies of hadronic jets are reviewed.
+","[{""version"":""v1"",""created"":""Wed, 12 Oct 1994 10:14:31 GMT""}]","2007-05-23"
+"hep-ph/9410269","Yoshio Yamagishi","T.Kobayashi, M.Konmura, D.Suematsu, K.Yamada and Y.Yamagishi","Neutron Electric Dipole Moment under Non-Universal Soft SUSY Breaking
+  Terms","15 pages, LaTeX file included 4 uuencoded tar-compressed figures,
+  KANAZAWA-94-17","Prog.Theor.Phys.94:417-434,1995","10.1143/PTP.94.417",,"hep-ph",,"  The electric dipole moment of the neutron (EDMN) is re-examined in a general
+framework of the soft supersymmetry breaking. We point out some features of the
+relation between the EDMN and non-universal soft supersymmetry breaking terms.
+We give the constraints on the soft scalar masses and the soft CP phases, which
+have the rather large dependence on the non-universality of the soft breaking
+terms. We also show that the soft CP phase $\phi_B$ which has no natural
+suppression mechanism may not have large contribution to the EDMN in a certain
+parameter region where the radiative symmetry breaking occurs successfully.
+$\phi_B$ may not need to be so small.
+","[{""version"":""v1"",""created"":""Wed, 12 Oct 1994 11:34:44 GMT""}]","2010-11-01"
+"hep-ph/9410270","Yoshio Koide","Yoshio Koide","Table of Running Quark Mass Values : 1994","LaTex, 13 pages, US-94-05",,,,"hep-ph",,"  Running quark mass values $m_q(\mu)$ at some typical energy scales ($\mu=1$
+GeV, $\mu=m_W$, and so on) are reviewed. The values depend considerably on the
+value of $\Lambda_{\overline{MS}}$, especially, the value of top quark mass at
+$\mu=1$ GeV does so. The relative ratios of light quark masses ($m_u$, $m_d$
+and $m_s$) to heavy quark masses ($m_c$, $m_b$ and $m_t$) are still
+controversial.
+","[{""version"":""v1"",""created"":""Wed, 12 Oct 1994 13:22:00 GMT""},{""version"":""v2"",""created"":""Mon, 17 Oct 1994 12:16:07 GMT""},{""version"":""v3"",""created"":""Tue, 18 Oct 1994 08:16:41 GMT""}]","2008-02-03"
+"hep-ph/9410271","Vladimir Braun","I.I. Balitsky and V.M. Braun","Instanton-induced production of QCD jets","LATEX, 7 pages, DESY 94-179","Phys.Lett. B346 (1995) 143-148","10.1016/0370-2693(94)01655-V",,"hep-ph",,"  We consider the instanton contributions for the production of a gluon jet
+with large transverse momentum in QCD. We find that Mueller's corrections
+corresponding to the rescattering of hard quanta are likely to remove
+contributions of large instantons, making this cross section well defined. This
+observation generalizes the previous discussion of instanton effects in the
+deep inelastic scattering and suggests that all hard processes in the QCD
+receive hard non-perturbative corrections from instantons of small size, of
+order $\rho\sim 1/(Q\alpha_s)$.
+","[{""version"":""v1"",""created"":""Wed, 12 Oct 1994 15:51:23 GMT""}]","2009-10-28"
+"hep-th/9410079","Jakub Rembielinski","J. Rembielinski","Quantization of the tachyonic field","17pp., RevTeX 3.0, KFT UL 2/94; eq. (29) and minor misprints
+  corrected",,,,"hep-th astro-ph gr-qc",,"  A consistent quantization scheme for imaginary-mass field is proposed. It is
+related to an appriopriate choice of the synchronization procedure (definition
+of time), which guarantee an absolute causality. In that formulation a possible
+existence of field exctitations (tachyons) distinguish an inertial frame
+(tachyon privileged frame of reference) via spontaneous breaking of the so
+called synchronization group.
+","[{""version"":""v1"",""created"":""Tue, 11 Oct 1994 16:33:24 GMT""},{""version"":""v2"",""created"":""Wed, 12 Oct 1994 14:31:34 GMT""}]","2016-09-06"
+"hep-th/9410080",,"L.Maiani and M.Testa","Causality in Local Quantum Field Theory","compressed uu encoded ps file, 9 pages, Roma 1044","Phys. Lett. B356 (1995) 319","10.1016/0370-2693(95)00800-Z",,"hep-th hep-ph",,"  The problem of causality is analyzed in the context of Local Quantum Field
+Theory. Contrary to recent claims, it is shown that apparent noncausal
+behaviour is due to a lack of the notion of sharp localizability for a
+relativistic quantum system. (Replaced corrupted file)
+","[{""version"":""v1"",""created"":""Tue, 11 Oct 1994 18:26:00 GMT""},{""version"":""v2"",""created"":""Wed, 12 Oct 1994 19:50:00 GMT""}]","2009-10-28"
+"hep-th/9410081","Joannis Papavassiliou","Joannis Papavassiliou, Kostas Philippides and Martin Schaden","The heavy quark decomposition of the S-matrix and its relation to the
+  pinch technique","11 uuencoded pages, NYU-TH-94/10/03","Phys.Rev. D51 (1995) 6364-6368","10.1103/PhysRevD.51.6364",,"hep-th",,"  We propose a decomposition of the S-matrix into individually gauge invariant
+sub-amplitudes, which are kinematically akin to propagators, vertices, boxes,
+etc. This decompsition is obtained by considering limits of the S-matrix when
+some or all of the external particles have masses larger than any other
+physical scale. We show at the one-loop level that the effective gluon
+self-energy so defined is physically equivalent to the corresponding gauge
+independent self-energy obtained in the framework of the pinch technique. The
+generalization of this procedure to arbitrary gluonic $n$-point functions is
+briefly discussed.
+","[{""version"":""v1"",""created"":""Tue, 11 Oct 1994 21:49:27 GMT""}]","2009-10-28"
+"hep-th/9410082","Andrei Linde","Andrei Linde","Lectures on Inflationary Cosmology","44 pages, Stanford University preprint SU-ITP-94-36, LaTeX",,,,"hep-th astro-ph gr-qc hep-ph",,"  A general overview of the history and present status of inflationary
+cosmology is given. Recent developments discussed in this paper include the
+hybrid inflation scenario, the theory of reheating, and the theory of inflating
+tolopogical defects. We also discuss the theory of a stationary
+self-reproducing inflationary universe, and its possible implications for
+evaluating the most probable values of the gravitational and cosmological
+constants. Finally, we discuss some preliminary results concerning possible
+nonperturbative large-scale deviations of density from the critical density in
+inflationary universe.
+","[{""version"":""v1"",""created"":""Wed, 12 Oct 1994 02:04:15 GMT""}]","2007-05-23"
+"hep-th/9410083",,"J.Loffelholz, G.Morchio, F.Strocchi","Spectral stochastic processes arising in quantum mechanical models with
+  a non-L2 ground state","15 pages, Plain Tex","Lett. Math. Phys. 35 (1995) 251-262","10.1007/BF00761297","Preprint IFUP-TH 55/94","hep-th funct-an math.FA",,"  A functional integral representation is given for a large class of quantum
+mechanical models with a non--L2 ground state. As a prototype the particle in a
+periodic potential is discussed: a unique ground state is shown to exist as a
+state on the Weyl algebra, and a functional measure (spectral stochastic
+process) is constructed on trajectories taking values in the spectrum of the
+maximal abelian subalgebra of the Weyl algebra isomorphic to the algebra of
+almost periodic functions. The thermodynamical limit of the finite volume
+functional integrals for such models is discussed, and the superselection
+sectors associated to an observable subalgebra of the Weyl algebra are
+described in terms of boundary conditions and/or topological terms in the
+finite volume measures.
+","[{""version"":""v1"",""created"":""Wed, 12 Oct 1994 14:22:09 GMT""}]","2009-10-28"
+"hep-th/9410084","Harald Dorn","H. Dorn","On gravitational dressing of renormalization group beta-functions beyond
+  lowest order of perturbation theory","DESY 94-?, HU Berlin-IEP-94/21, 9 pages, Latex","Phys.Lett. B343 (1995) 81-86","10.1016/0370-2693(94)01450-Q",,"hep-th",,"  Based on considerations in conformal gauge I derive up to nextleading order a
+relation between the coefficients of beta-functions in 2D renormalizable field
+theories before and after coupling to gravity. The result implies a coupling
+constant dependence of the ratio of both beta-functions beyond leading order.
+","[{""version"":""v1"",""created"":""Wed, 12 Oct 1994 14:05:01 GMT""}]","2009-10-28"
+"hep-th/9410085","C. P. Staszkiewicz","B. Schroer","Reminiscences about Many Pitfalls and Some Successes of QFT Within the
+  Last Three Decades","I added some comments and remarks","Rev.Math.Phys. 7 (1995) 645-688","10.1142/S0129055X95000268",,"hep-th cond-mat",,"  Laymen and sometimes even physicists think of natural sciences, in particular
+of theoretical and mathematical physics often as subjects, which unfold
+according to an intrinsic logical pattern, with the limitations being set only
+by the conceptual and (in case of mathematical physics) mathematical
+developments of the times. This view certainly cannot be maintained in view of
+the present stagnation and crisis which in particular affects QFT, an area
+which in the past has been most innovating and fruitful, also in relation to
+other important areas of theoretical physics.
+","[{""version"":""v1"",""created"":""Wed, 12 Oct 1994 15:45:01 GMT""},{""version"":""v2"",""created"":""Thu, 20 Oct 1994 13:15:32 GMT""},{""version"":""v3"",""created"":""Fri, 21 Oct 1994 13:24:36 GMT""},{""version"":""v4"",""created"":""Tue, 8 Nov 1994 20:48:31 GMT""}]","2009-10-28"
+"math/9410208",,"Herbert Edelsbrunner, Ernst M\""ucke","Three-dimensional alpha shapes","32 pages",,,"LACES 52B-94-25","math.CO cs.CC math.MG",,"  Frequently, data in scientific computing is in its abstract form a finite
+point set in space, and it is sometimes useful or required to compute what one
+might call the ``shape'' of the set. For that purpose, this paper introduces
+the formal notion of the family of $\alpha$-shapes of a finite point set in
+$\Real^3$. Each shape is a well-defined polytope, derived from the Delaunay
+triangulation of the point set, with a parameter $\alpha \in \Real$ controlling
+the desired level of detail. An algorithm is presented that constructs the
+entire family of shapes for a given set of size $n$ in time $O(n^2)$, worst
+case. A robust implementation of the algorithm is discussed and several
+applications in the area of scientific computing are mentioned.
+","[{""version"":""v1"",""created"":""Wed, 12 Oct 1994 00:00:00 GMT""}]","2016-09-06"
+"math/9410209",,"Herbert Edelsbrunner, Ernst M\""ucke","Simulation of simplicity: a technique to cope with degenerate cases in
+  geometric algorithms","38 pages",,,"LACES 68Q-94-24","math.CO cs.CC",,"  This paper describes a general-purpose programming technique, called the
+Simulation of Simplicity, which can be used to cope with degenerate input data
+for geometric algorithms. It relieves the programmer from the task to provide a
+consistent treatment for every single special case that can occur. The programs
+that use the technique tend to be considerably smaller and more robust than
+those that do not use it. We believe that this technique will become a standard
+tool in writing geometric software.
+","[{""version"":""v1"",""created"":""Wed, 12 Oct 1994 00:00:00 GMT""}]","2016-09-06"
+"solv-int/9410001","Nimmo Jjc","J J C NIMMO(Department of Mathematics, University of Glasgow, Glasgow
+  G12 8QW, Scotland)","Darboux Transformations from Reductions of the KP Hierarchy","10 pages, LaTeX2e plus Latex2e style file for layout. (Should work
+  with LaTeX209 with minimum changes (see line 3 of source))",,,"University of Glasgow, Department of Mathematics, Paper No. 94/54","solv-int nlin.SI",,"  The use of effective Darboux transformations for general classes Lax pairs is
+discussed. The general construction of ``binary'' Darboux transformations
+preserving certain properties of the operator, such as self-adjointness, is
+given. The classes of Darboux transformations found include the multicomponent
+BKP and CKP reductions of the KP hierarchy.
+","[{""version"":""v1"",""created"":""Tue, 11 Oct 1994 16:10:47 GMT""}]","2008-02-03"

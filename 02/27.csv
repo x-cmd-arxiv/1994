@@ -1,0 +1,62 @@
+"astro-ph/9402068","Eric Blackman","Eric G. Blackman and George B. Field (Harvard Univ.)","Ohm's Law for a Relativistic Pair Plasma","12 pages, plain TeX, Phys. Rev. Lett. 71 3481 (1993)","Phys.Rev.Lett. 71 (1993) 3481-3484","10.1103/PhysRevLett.71.3481",,"astro-ph",,"  We derive the fully relativistic Ohm's law for an electron-positron plasma.
+The absence of non-resistive terms in Ohm's law and the natural substitution of
+the 4-velocity for the velocity flux in the relativistic bulk plasma equations
+do not require the field gradient length scale to be much larger than the
+lepton inertial lengths, or the existence of a frame in which the distribution
+functions are isotropic.
+","[{""version"":""v1"",""created"":""Sun, 27 Feb 1994 04:16:26 GMT""}]","2009-10-22"
+"cond-mat/9402109","Heiko Rieger","Heiko Rieger","Thermocycling experiments with the three-dimensional Ising spin glass
+  model","LaTeX 13 pages (+6 figures upon request), THP11-94","J.Physique (France) I 4 (1994) 883","10.1051/jp1:1994229",,"cond-mat hep-lat",,"  A characteristic feature of the non--equilibrium dynamics of real spin
+glasses at low temperatures are strong aging effects. These phenomena can be
+manipulated by changing the external parameters in various ways: a
+thermo-cycling experiment consists for instance of a short heat pulse during
+the waiting time, by which the relaxation might be strongly affected. Results
+of numerical experiments of this kind, performed via Monte Carlo simulations of
+the three dimensional Ising spin glass model, are presented. The theoretical
+implications are discussed and the scenario found is compared with the
+experimental situation.
+","[{""version"":""v1"",""created"":""Sun, 27 Feb 1994 15:41:37 GMT""}]","2009-10-22"
+"hep-ph/9402359","Goran Senjanovic","Goran Senjanovi\'c","Neutrino Mass","LaTeX, 7 pages. To be published in the Proceedings of the European
+  Physical Society Meeting, HEP93, Marseille, July 1993. IC/94/33",,,,"hep-ph",,"  We review the issue of neutrino mass by concentrating on the minimal
+extensions of the standard model. In particular, we emphasize the role that
+gravitation may play in this regard and discuss the central aspects of the
+see-saw mechanism of generating neutrino mass, including the possibility of the
+see-saw scale being close to the eelectroweak scale.
+","[{""version"":""v1"",""created"":""Sat, 26 Feb 1994 19:08:30 GMT""}]","2007-05-23"
+"hep-ph/9402360",,"I.I. Bigi, M.A. Shifman, N.G. Uraltsev, A.I. Vainshtein","The Pole Mass of The Heavy Quark. Perturbation Theory and Beyond","22 pages, Latex, 6 figures (available upon request), TPI-MINN-94/4-T,
+  CERN-TH.7171/94, UND-HEP-94-BIG","Phys.Rev.D50:2234-2246,1994","10.1103/PhysRevD.50.2234",,"hep-ph",,"  The key quantity of the heavy quark theory is the quark mass $m_Q$. Since
+quarks are unobservable one can suggest different definitions of $m_Q$. One of
+the most popular choices is the pole quark mass routinely used in perturbative
+calculations and in some analyses based on heavy quark expansions. We show that
+no precise definition of the pole mass can be given in the full theory once
+non-perturbative effects are included. Any definition of this quantity suffers
+from an intrinsic uncertainty of order $\Lam /m_Q$. This fact is succinctly
+described by the existence of an infrared renormalon generating a factorial
+divergence in the high-order coefficients of the $\alpha_s$ series; the
+corresponding singularity in the Borel plane is situated at $2\pi /b$. A
+peculiar feature is that this renormalon is not associated with the matrix
+element of a local operator. The difference $\La \equiv M_{H_Q}-m_Q^{pole}$ can
+still be defined in Heavy Quark Effective Theory, but only at the price of
+introducing an explicit dependence on a normalization point $\mu$: $\La (\mu
+)$. Fortunately the pole mass $m_Q(0)$ {\em per se} does not appear in
+calculable observable quantities.
+","[{""version"":""v1"",""created"":""Sun, 27 Feb 1994 06:59:44 GMT""}]","2010-11-01"
+"hep-ph/9402361","Rudolf Baier","R. Baier and O. K. Kalashnikov","The Nonabelian Screening Potential Beyond the Leading Order","10 pages, LATEX, ( 1 figure not included), BI-TP 94/08","Phys.Lett. B328 (1994) 450-456","10.1016/0370-2693(94)91504-0",,"hep-ph",,"  The nonabelian screening potential is calculated in the temporal axial gauge.
+The Slavnov-Taylor identity is used to construct the three-gluon vertex
+function from the inverse gluon propagator. After solving the Schwinger - Dyson
+equation beyond leading order we find that the obtained momentum dependence of
+the gluon self-energy at high temperature does not correspond to an attractive
+QCD - Debye potential, but instead it is repulsive and power behaved ($ \simeq
+1/r^6$) at large distance.
+","[{""version"":""v1"",""created"":""Sun, 27 Feb 1994 15:30:09 GMT""}]","2009-10-28"
+"hep-th/9402148","Toshiya Kawai","Toshiya Kawai and Kenji Mohri","Geometry of (0,2) Landau-Ginzburg Orbifolds","30 pages, LaTeX, KEK-TH 389 ( a reference added)","Nucl.Phys. B425 (1994) 191-216","10.1016/0550-3213(94)90178-3",,"hep-th",,"  Several aspects of (0,2) Landau-Ginzburg orbifolds are investigated.
+Especially the elliptic genera are computed in general and, for a class of
+models recently invented by Distler and Kachru, they are compared with the ones
+from (0,2) sigma models. Our formalism gives an easy way to calculate the
+generation numbers for lots of Distler-Kachru models even if they are based on
+singular Calabi-Yau spaces. We also make some general remarks on the
+Born-Oppenheimer calculation of the ground states elucidating its mathematical
+meaning in the untwisted sector. For Distler-Kachru models based on
+non-singular Calabi-Yau spaces we show that there exist `residue' type formulas
+of the elliptic genera as well.
+","[{""version"":""v1"",""created"":""Sun, 27 Feb 1994 12:47:26 GMT""},{""version"":""v2"",""created"":""Tue, 8 Mar 1994 05:00:16 GMT""}]","2009-10-28"

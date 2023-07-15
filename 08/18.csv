@@ -1,0 +1,367 @@
+"astro-ph/9408056","David Ruffolo","D. Ruffolo","Effect of Adiabatic Deceleration on the Focused Transport of Solar
+  Cosmic Rays","accepted for publication in Astrophys. J., 17 pp. plain TEX + 7
+  uuencoded-compressed-tarred PostScript figures, 1 non-PostScript figure
+  available from david@chulkn.chula.ac.th","Astrophys.J. 442 (1995) 861","10.1086/175489",,"astro-ph",,"  In the framework of focused transport theory, adiabatic deceleration arises
+from adiabatic focusing in the solar wind frame and from differential solar
+wind convection. An explicit formula is given for the deceleration of
+individual particles as a function of the pitch angle. Deceleration and other
+first-order effects of the solar wind, including convection, are incorporated
+into a numerical code for simulating the transport of energetic particles along
+the interplanetary magnetic field. We use this code to model the transport of
+solar flare protons. We find that including deceleration can increase the decay
+rate of the near-Earth intensity by 75\% more than would be expected based on
+advection from higher momenta, due to an interplay with diffusive processes.
+Improved response functions are derived for the impulsive injection of
+particles near the Sun, and it is found that neglecting deceleration leads to
+incorrect estimates of the scattering mean free path based on the intensity
+decay alone, especially for lower-energy particles.
+","[{""version"":""v1"",""created"":""Wed, 17 Aug 1994 16:18:00 GMT""}]","2009-10-22"
+"astro-ph/9408061","Sangjin Lee","Sangjin Lee, David N. Schramm and Grant J. Mathews","A Merger Model and Globular Cluster Formation","14 pages (10 figures available from sjlee@oddjob.uchicago.edu);
+  LaTeX; submitted to The Astrophysical Journal; Fermilab preprint and LLNL
+  preprint","Astrophys.J. 449 (1995) 616","10.1086/176083",,"astro-ph",,"  We propose a self-consistent model for globular cluster formation in, but not
+limited to, our Galaxy, based on the merger model of Mathews and Schramm
+(1993). Stars and star clusters form in bursts at the merging interfaces as
+protogalactic clouds collide. We describe the formation of those star clusters
+with a simple schematic ansatz which takes into account the thermal and
+Kelvin-Helmholtz instabilities. It is shown that this model is consistent with
+many observational properties such as the age and metallicity distributions of
+globular clusters, the overall number of globular clusters, and the near
+constancy of the number of globular clusters in different size host galaxies.
+Most of the features of this merger model are insensitive to choices of
+parameters. However, the model does not exhibit two distinct populations of
+globular clusters, i.e. halo clusters and disk clusters. Possible explanations
+for this are presented.
+","[{""version"":""v1"",""created"":""Wed, 17 Aug 1994 16:06:51 GMT""}]","2009-10-22"
+"astro-ph/9408062","Sean Scully","Sean Thomas Scully and Keith A. Olive","The Deuterium Abundance and Nucleocosmochronology","16 pages, LateX, Figures available by anonymous ftp from
+  ast1.spa.umn.edu in the directory pub with filename deutfig.ps,
+  UMN-TH-1260/94",,"10.1086/175786",,"astro-ph",,"  We examine galactic chemical evolution models which reproduce the present-day
+and pre-solar values of deuterium starting with a primordial value which is
+consistent with a baryon-to-photon ratio of $3 \times 10^{-10}$. We consider
+various galactic chemical evolution models to determine the viability of
+significant deuterium destruction and which provide a consistent age of the
+galaxy at the time of the formation of the solar system and consequently its
+present day age from nuclear chronometers. These models generally require some
+amount of infall which we take with rates proportional to the gas mass as well
+as exponentially decreasing rates and some initial disk enrichment which we
+limit to the range of 0\% to 30\%. We present those models which give the
+observed pre-solar value and present-day value of D/H and which lead to a
+present-day gas fraction of $\sigma = .05\quad - \quad .2$. These models result
+in a braod range for the age of galaxy between $9.8 - 21.6$ Gyrs.
+","[{""version"":""v1"",""created"":""Wed, 17 Aug 1994 16:47:58 GMT""}]","2009-10-22"
+"astro-ph/9408063",,"J.P. Norris (NASA/GSFC), J.T. Bonnell (NASA/USRA), R.J. Nemiroff
+  (NASA/GMU), J. D. Scargle (NASA/AMES), C. Kouveliotou (NASA/USRA), W.S.
+  Paciesas (NASA/UAH), C. A. Meegan (NASA/MSFC), G.J. Fishman (NASA/MSFC)","Duration Distributions of Bright and Dim BATSE Gamma-Ray Bursts","in press: The Astrophysical Journal, 15 pages of Plain TEX version
+  3.0. Postscript text, tables and figures available through RJN's Home Page
+  URL of http://enemy.gsfc.nasa.gov/htmltest/rjn.html","Astrophys.J. 439 (1995) 542","10.1086/175194","RJNSISSA009","astro-ph",,"  We have measured the T90 and T50 durations of bright and dim gamma-ray bursts
+(GRBs) detected by the Compton Gamma Ray Observatory's Burst and Transient
+Source Experiment (BATSE). The T90 (T50) duration is defined as the interval
+over which 5\% (25\%) to 95\% (75\%) of the burst counts accumulate. Out of 775
+bursts observed by BATSE, 159 bursts were analyzed; bursts with durations
+shorter than 1.5 s were excluded. A Kolmogorov-Smirnov test yields a
+probability of 6 x $10^{-5}$ that the T50 durations of the dim and bright
+samples are drawn from the same parent population. We find that the centroid
+and extent of the duration distribution for the dim sample are scaled by
+approximately a factor of two relative to those of the bright sample. The
+measured time dilation factor is not sensitive to choice of energy band. These
+results are quantitatively consistent with previous tests for time dilation in
+a smaller sample of BATSE bursts. The dimmer bursts, if cosmological, would lie
+at redshifts of order two.
+","[{""version"":""v1"",""created"":""Wed, 17 Aug 1994 21:46:53 GMT""}]","2009-10-22"
+"astro-ph/9408064","Thomas Schramm","T. Schramm, R. Kayser","The complex theory of gravitational lensing: Beltrami equation and
+  cluster lensing","submitted to Astron. Astrophys., 9 pages plus 7 figures, uuencoded,
+  compressed postscript, preprint HH-GRAL-SK-94-02",,,,"astro-ph",,"  We introduce a new complex formalism to describe arclet fields in clusters of
+galaxies and derive the appropriate inversion techniques to find the related
+mass distribution of the lensing cluster. Applying the complex formalism to the
+statistics of lensed background sources shows that the mean of the axial ratios
+of locally lensed isotropically distributed elliptical sources is {\em not}
+influenced by the intrinsic ellipticity distribution, if the cluster is
+subcritical in that region.
+","[{""version"":""v1"",""created"":""Thu, 18 Aug 1994 12:04:50 GMT""}]","2007-05-23"
+"astro-ph/9408065","Shaun Cole","Jeremy S. Heyl, Shaun Cole, Carlos S. Frenk and Julio F. Navarro","Galaxy Formation in a Variety of Hierarchical Models","(postscript by anonymous ftp from dust0.dur.ac.uk as
+  /pub/preprint/gf_heyl.ps)",,"10.1093/mnras/274.3.755",,"astro-ph",,"  We predict the observable properties of the galaxy population in popular
+hierarchical models of galaxy formation. We employ a detailed semianalytic
+procedure which incorporates the formation and merging of dark matter halos,
+the shock heating and radiative cooling of gas, self-regulated star formation,
+the merging of galaxies within dark matter halos, and the spectral evolution of
+the stellar populations. We contrast the standard CDM cosmogony with variants
+of the CDM model having either a low value of H_0, or a low value of Omega with
+or without a cosmological constant. In addition, we compare galaxy formation in
+these CDM universes with a CHDM model. We find that although the models have
+some success in remedying the shortcomings of the standard CDM cosmogony, none
+of these new models produce broad agreement with the whole range of
+observations. Although the low-Omega and Omega+Lambda=1 CDM models reduce the
+discrepancy between the predicted and observed Tully-Fisher relations (the main
+weakness of galaxy formation in standard CDM), these models predict an inverted
+colour-magnitude relation and do not produce an exponential cut-off at the
+bright end of the galaxy luminosity function. All of our models predict recent
+star formation and exhibit galaxy colours bluer than observed, but this problem
+is far more severe in the CHDM model which produces colours about two
+magnitudes too blue in B-K. Unlike in the variants of the CDM model in the CHDM
+case this result is not dependent on our model of stellar feedback, but is
+instead directly caused by the late epoch of structure formation in this model.
+","[{""version"":""v1"",""created"":""Thu, 18 Aug 1994 13:36:50 GMT""}]","2015-06-24"
+"cond-mat/9408044","Marco Nardelli","M. Buongiorno Nardelli, S. Baroni, P. Giannozzi","High-Pressure Low-Symmetry Phases of Cesium Halides from First Principle
+  Techniques","13 pages + 8 figures, RevTeX",,,,"cond-mat",,"  The relative stability of different high-pressure phases of various Cesium
+Halides is studied from first principles and analyzed using the Landau theory
+of phase transitions. We present results for CsI, CsBr, and CsCl up to
+pressures of about 100 GPa. A cubic-to-orthorhombic transition, driven by the
+softening of an acoustic phonon at the M point of the Brillouin zone, is
+competing with the cubic-to-tetragonal martensitic transition typical of these
+compounds. The phonon softening takes place only in CsI and CsBr at a residual
+volume of 0.64, 0.52 respectively. A cubic-to-tetragonal instability is found
+instead to occur at 0.54 for all the compounds considered here. The
+orthorhombic phase is stable only in CsI, whereas it is taken over by the
+tetragonal one in the case of CsBr. Our analysis reveals the essential role
+played by the phonon-strain coupling in stabilizing the orthorhombic phase and
+in making the corresponding transition first-order.
+","[{""version"":""v1"",""created"":""Wed, 17 Aug 1994 17:55:10 GMT""}]","2007-05-23"
+"cond-mat/9408048","Erik Sorensen","M V Jaric and E S Sorensen","Self-Diffusion in Random-Tiling Quasicrystals","11 pages + 2 figures, COMPRESSED postscript figures available by
+  anonymous ftp to black_hole.physics.ubc.ca directory outgoing/diffuse (use bi
+  for binary mode to transfer), REVTeX 3.0, CTP-TAMU 21/94",,"10.1103/PhysRevLett.73.2464",,"cond-mat",,"  The first explicit realization of the conjecture that phason dynamics leads
+to self-diffusion in quasicrystals is presented for the icosahedral Ammann
+tilings. On short time scales, the transport is found to be subdiffusive with
+the exponent $\beta\approx0.57(1)$, while on long time scales it is consistent
+with normal diffusion that is up to an order of magnitude larger than in the
+typical room temperature vacancy-assisted self-diffusion. No simple finite-size
+scaling is found, suggesting anomalous corrections to normal diffusion, or
+existence of at least two independent length scales.
+","[{""version"":""v1"",""created"":""Thu, 18 Aug 1994 01:13:06 GMT""},{""version"":""v2"",""created"":""Thu, 18 Aug 1994 16:59:52 GMT""}]","2009-10-22"
+"cond-mat/9408049","Wang Deng Feng Post doc Gruber","D. F. Wang and C. Gruber","Impurity spin coupled to strongly correlated electron system: Ground
+  State Properties","9 pages, Revtex, IPT-EPFL-August-1994",,"10.1103/PhysRevB.51.4820",,"cond-mat",,"  Revised version, a few typing errors that might cause confusion of physics
+argument in the article have been corrected.
+","[{""version"":""v1"",""created"":""Thu, 18 Aug 1994 13:06:47 GMT""},{""version"":""v2"",""created"":""Fri, 19 Aug 1994 09:32:06 GMT""}]","2009-10-22"
+"cond-mat/9408050","Wang Deng Feng Post doc Gruber","C. Gruber and D. F. Wang","One dimensional exactly solvable models of strongly correlated electrons
+  of $1/r^2$ hopping and exchange","19 pages, Revtex, Lecture Notes, IPT-EPFL-May-1994",,,,"cond-mat",,"  We review some recent progresses in study of the 1D strongly correlated
+electron systems of long range hopping and exchange. The systems are completely
+integrable, with infinite number of constants of motions. The results of the
+physical properties, such as wavefunctions, the full excitation spectrum and
+the thermodynamics, are also reviewed.
+","[{""version"":""v1"",""created"":""Thu, 18 Aug 1994 13:25:09 GMT""}]","2007-05-23"
+"cond-mat/9408051","Stefano Baroni","Alberto Debernardi, Stefano Baroni and Elisa Molinari","Anharmonic decay of phonons in semiconductors from first-principles
+  calculations","4 pages, uuencoded, compressed POSTSCRIPT file (debernardi.ps.Z). To
+  extract it, use uudecode and uncompress in turn, SISSA Ref. 116/94/CM/SC",,,,"cond-mat",,"  The anharmonic contribution to phonon lifetime and its temperature dependence
+is calculated from first principle in C, Si and Ge using third-order
+density-functional perturbation theory. Good agreement with available
+experimental data is obtained. Different competing two-phonon decay channels
+are compared and correlated with the density of final states.
+","[{""version"":""v1"",""created"":""Thu, 18 Aug 1994 14:16:01 GMT""}]","2007-05-23"
+"gr-qc/9408021",,"Pedro F. Gonzalez-Diaz","Quantum State of Wormholes and Topological Arrow of Time","22, IMAFF-RC-09-94#","Int.J.Mod.Phys.D3:549-568,1994","10.1142/S0218271894000708",,"gr-qc",,"  This paper studies the time-symmetry problem in quantum gravity. The issue
+depends critically on the choice of the quantum state and has been considered
+in this paper by restricting to the case of quantum wormholes. It is seen that
+pure states represented by a wave functional are time symmetric. However, a
+maximal analytic extension of the wormhole manifold is found that corresponds
+to a mixed state describable by a nondegenerate density-matrix functional that
+involves an extra quantum uncertainty for the three-metric, and is free from
+the divergences encountered so far in statistical states formulated in quantum
+gravity. It is then argued that, relative to one asymptotic region, the
+statistical quantum state of single Euclidean wormholes in semiclassical
+approximation is time-asymmetric and gives rise to a {\it topological} arrow of
+time which will reflect in the set of all quantum fields at low energies of the
+asymptotic flat region (To appear in Int. J. Mod. Phys. D)
+","[{""version"":""v1"",""created"":""Thu, 18 Aug 1994 08:38:51 GMT""}]","2014-11-17"
+"gr-qc/9408022",,"Pedro F. Gonzalez-Diaz","Wormholes and Cosmic Strings","5, IMAFF-RC-10-94#",,,,"gr-qc",,"  A gravitational scenario is proposed where the euclidean action is invariant
+under the isotropic and homogeneous version of the euclidean {\it U(1)} group
+of local transformations of the scale factor and scalar matter field,
+interpreting the the trace of the second fundamental form as the gauge field.
+The model allows spontaneous breakdown of some involved symmetries, including
+possibly diffeomorphism invariance, and leads to the formation of topologiocal
+deffects. In particular, we consider here the case of the wormhole-induced
+formation of cosmic strings. (To appear in the Proceedings of the International
+Workshop on ""Quantum Systems: New Trends and Methods"", World Scientific)
+","[{""version"":""v1"",""created"":""Thu, 18 Aug 1994 09:40:20 GMT""}]","2007-05-23"
+"gr-qc/9408023","Albrecht","Andreas Albrecht","The Theory of Everything vs the Theory of Anything","13 pages plain LaTeX, no figures. To appear in the proceedings of
+  ``The Birth of the Universe and Fundamental Forces'', Rome, May 1994, F.
+  Occhionero Editor, Springer Verlag. Imperial/TP/93-94/56 REVISED 10/94: Minor
+  improvements, more referneces, no major changes","Lect.Notes Phys.455:323-332,1995","10.1007/3-540-60024-8_126",,"gr-qc astro-ph hep-th",,"  To what extent can our limited set of observations be used to pin down the
+specifics of a ``Theory of Everything''? In the limit where the links are
+arbitrarily tenuous, a ``Theory of Everything'' might become a ``Theory of
+Anything''. A clear understanding of what we can and can not expect to learn
+about the universe is particularly important in the field of particle
+cosmology. The aim of this article is to draw attention to some key issues
+which arise in this context, in the hopes of fostering further discussion. In
+particular, I explore the idea that a variety of different inflaton potentials
+may contribute to worlds ``like ours''. A careful examination of the
+conditional probability questions we can ask might give a physical measure of
+what is ``natural'' for an inflation potential which is quite different from
+those previously used.
+","[{""version"":""v1"",""created"":""Thu, 18 Aug 1994 08:03:40 GMT""},{""version"":""v2"",""created"":""Mon, 14 Nov 1994 19:34:00 GMT""}]","2018-05-02"
+"hep-ex/9408004",,"G.E. Forden, the D0 Collaboration","Probing Color Coherency Using High pT W Events at the TEVATRON","AZPH-EXP/94-01",,,,"hep-ex hep-ph",,"  \D0 has used W --> e nu events associated with a high pT jet to probe for the
+effects of extended source color dipole radiation in W-jet rapidity
+correlations. We have also studied the low energy flow in these events and
+shown an enhancement between the jet and the beam directions, indicating the
+effects of color coherency.
+","[{""version"":""v1"",""created"":""Wed, 17 Aug 1994 16:20:00 GMT""}]","2009-09-25"
+"hep-ph/9408307",,"D.S. Du, X.L. Li, and Z.J. Xiao","Reliability of the Estimation of CP Asymmetries for Nonleptonic $B^{0} -
+  \bar{B}^{0}$ Decays into Non-CP-Eigen states","7 pages Latex","Phys.Rev.D51:279-281,1995","10.1103/PhysRevD.51.279",,"hep-ph",,"  CP asymmetries for two-body-nonleptonic $B^{0} - \bar{B}^{0}$ decay into
+non-CP-eigen states are calculated using two different methods: (i) Bauer,
+Stech, and Wirbel factorization method to compute the decay amplitudes
+directly; (ii) using $B^{0}, \bar{B}^{0}$ decay amplitude ratios to avoid the
+direct computation of the decay amplitudes. The comparison of the results are
+made. The conclusion is presented.
+","[{""version"":""v1"",""created"":""Wed, 17 Aug 1994 16:28:08 GMT""}]","2010-11-01"
+"hep-ph/9408309","Dremin","I.M. Dremin","Multiplicity Distributions in QCD at Very High Energies","4 pages, no Figs. Abbreviated version of the talk given at 8th
+  International conf. on Very High Energy Cosmic Ray Interactions, Tokyo, July
+  1994",,,,"hep-ph",,"  Recent results in QCD on multiplicity distributions are briefly reviewed. QCD
+is able to predict very tiny features of multiplicity distributions which
+demonstrate that the negative binomial distribution (and, more generally, any
+infinitely divisible distribution) is inappropriate for precise description of
+experimental data. New fits of high energy multiplicity distributions can be
+derived.
+","[{""version"":""v1"",""created"":""Thu, 18 Aug 1994 03:43:45 GMT""}]","2007-05-23"
+"hep-ph/9408311",,"Thomas A. Kaeding","Pascal Program for Generating Tables of SU(3) Clebsch-Gordan
+  Coefficients","14 pages, LBL-35730","Comput.Phys.Commun.85:82-88,1995","10.1016/0010-4655(94)00115-I",,"hep-ph",,"  Pascal routines are provided that generate representations of the group
+$SU(3)$ and tabulate the Clebsch-Gordan coefficients in the products of
+representations.
+","[{""version"":""v1"",""created"":""Wed, 17 Aug 1994 20:22:08 GMT""}]","2010-11-01"
+"hep-ph/9408312","Harold W. Fearing","S. Scherer and H. W. Fearing","Compton Scattering by a Pion and off--Shell Effects","13 pages in LaTeX, using RevTex macro, TRIUMF preprint TRI-PP-94-65","Phys.Rev.C51:359-363,1995","10.1103/PhysRevC.51.359",,"hep-ph nucl-th",,"  We consider Compton scattering by a pion in the framework of chiral
+perturbation theory. We investigate off--shell effects in the s-- and
+u--channel pole diagrams. For that purpose we perform a field transformation
+which, in comparison with the standard Gasser and Leutwyler Lagrangian,
+generates additional terms at order $p^4$ proportional to the lowest--order
+equation of motion. As a result of the equivalence theorem the two Lagrangians
+predict the same Compton scattering S--matrix even though they generate
+different off--shell form factors. We conclude that off--shell effects are not
+only model--dependent but also representation--dependent.
+","[{""version"":""v1"",""created"":""Wed, 17 Aug 1994 22:13:07 GMT""}]","2008-11-26"
+"hep-ph/9408313","Bernd A. Kniehl","Ralf Hempfling and Bernd A. Kniehl","On the relation between the fermion pole mass and MSbar Yukawa coupling
+  in the standard model","16 pages plus 7 figures appended as postscript files, plain tex w/
+  phyzzx, KEK-TH-408 and KEK Preprint 94-74","Phys.Rev. D51 (1995) 1386-1394","10.1103/PhysRevD.51.1386",,"hep-ph",,"  We present the full one-loop correction to the relation between the running
+MSbar Yukawa coupling, $\overline h_f(\mu)$, at some renormalization scale,
+$\mu$, and the pole mass, $m_f$, of a fermion, $f$, in the standard model. Our
+result complements previous analyses that included just the QCD correction to
+this relation in the case of quarks. This allows us to convert, without loss of
+information, the threshold value, $\overline h_f(m_f)$, of $\overline
+h_f(\mu)$, which satisfies a renormalization-group equation and may be driven
+up to some high-energy scale of new physics, to physical observables at low
+energy. We investigate the limit of the Higgs boson and/or the top quark being
+much heavier than all the other particles. We also list simple and yet rather
+precise approximation formulae, which are convenient for applications.
+","[{""version"":""v1"",""created"":""Thu, 18 Aug 1994 11:14:00 GMT""}]","2009-10-28"
+"hep-ph/9408314","Takahashi Tomohiko","Masako Bando, Izawa Ken-Iti and Tomohiko Takahashi","Hierarchical Mass Matrices in a Minimal SO(10) Grand Unification II","LaTeX, 14 pages + 2 uuencoded LaTeX figures, KUNS-1287","Prog.Theor.Phys.92:1137-1148,1994","10.1143/PTP.92.1137",,"hep-ph",,"  We continue to investigate the minimal SO(10)xU(1)_H model which we proposed
+recently. Renormalization group analysis of the model results in natural
+predictions of quark-lepton masses and Kobayashi-Maskawa matrix along with
+neutrino mixings adequate for solar neutrino oscillation.
+","[{""version"":""v1"",""created"":""Thu, 18 Aug 1994 05:11:24 GMT""}]","2010-11-01"
+"hep-ph/9408315",,"Valerie Ben-Hamo and Yosef Nir","Implications of Horizontal Symmetries on Baryon Number Violation in
+  Supersymmetric Models","11 pages, WIS-94/34/Aug-PH","Phys.Lett.B339:77-82,1994","10.1016/0370-2693(94)91135-5",,"hep-ph",,"  The smallness of the quark and lepton parameters and the hierarchy between
+them could be the result of selection rules due to a horizontal symmetry broken
+by a small parameter. The same selection rules apply to baryon number violating
+terms. Consequently, the problem of baryon number violation in Supersymmetry
+may be solved naturally, without invoking any especially-designed extra
+symmetry. This mechanism is efficient enough even for low-scale flavor physics.
+Proton decay is likely to be dominated by the modes $K^+\bar\nu_i$ or
+$K^0\mu^+(e^+)$, and may proceed at observable rates.
+","[{""version"":""v1"",""created"":""Thu, 18 Aug 1994 07:00:50 GMT""}]","2011-04-08"
+"hep-ph/9408316","Torsten Arens","T. Arens, U.D.J. Gieseler and L.M. Sehgal","Energy correlation and asymmetry of secondary leptons in $H\to t\bar t$
+  and $H\to W^+W^-$","12 pages, + 4 uuencoded figures. report PITHA 94/25","Phys.Lett.B339:127-135,1994","10.1016/0370-2693(94)91144-4",,"hep-ph",,"  We study the energy correlation of charged leptons produced in the decay of a
+heavy Higgs particle $H\to t\bar t\to bl^+\nu_l\bar bl^-\bar{\nu}_l$ and $H\to
+W^+W^-\to l^+\nu_ll^-\bar{\nu}_l.$ The possible influence of $CP$--violation in
+the $Ht\bar t$ and $HW^+W^-$ vertices on the energy spectrum of the secondary
+leptons is analyzed. The energy distribution of the charged leptons in the
+decay $H\to W^+W^-\to l^+\nu_ll^-\bar{\nu}_l$ is sensitive to the $CP$--parity
+of the Higgs particle and yields a simple criterion for distinguishing scalar
+Higgs from pseudoscalar Higgs.
+","[{""version"":""v1"",""created"":""Thu, 18 Aug 1994 14:55:09 GMT""}]","2010-11-01"
+"hep-th/9408098","Atish Dabholkar","Atish Dabholkar","Strings on a Cone and Black Hole Entropy","20 pages, harvmac, revised version published in Nucl. Phys. B","Nucl.Phys. B439 (1995) 650-664","10.1016/0550-3213(95)00050-3","HUTP-94-A019","hep-th",,"  String propagation on a cone with deficit angle $2\pi (1- \frac{1}{N} ) $ is
+described by constructing a non-compact orbifold of a plane by a $Z_{N}$
+subgroup of rotations. It is modular invariant and has tachyons in the twisted
+sectors that are localized to the tip of the cone. A possible connection with
+the quantum corrections to the black hole entropy is outlined. The entropy
+computed by analytically continuing in N would receive contribution only from
+the twisted sectors and be naturally proportional to the area of the event
+horizon. Evidence is presented for a new duality for these orbifolds similar to
+the ${\scriptstyle R} \rightarrow {1\over R} $ duality.
+","[{""version"":""v1"",""created"":""Wed, 17 Aug 1994 19:00:48 GMT""},{""version"":""v2"",""created"":""Tue, 27 Sep 1994 06:19:56 GMT""},{""version"":""v3"",""created"":""Sun, 9 Apr 1995 22:48:50 GMT""}]","2009-10-28"
+"hep-th/9408099","Nathan Seiberg","N. Seiberg and E. Witten","Monopoles, Duality and Chiral Symmetry Breaking in N=2 Supersymmetric
+  QCD","89 pages","Nucl.Phys.B431:484-550,1994","10.1016/0550-3213(94)90214-3","RU-94-60, IASSNS-HEP-94/55","hep-th hep-ph",,"  We study four dimensional $N=2$ supersymmetric gauge theories with matter
+multiplets. For all such models for which the gauge group is $SU(2)$, we derive
+the exact metric on the moduli space of quantum vacua and the exact spectrum of
+the stable massive states. A number of new physical phenomena occur, such as
+chiral symmetry breaking that is driven by the condensation of magnetic
+monopoles that carry global quantum numbers. For those cases in which conformal
+invariance is broken only by mass terms, the formalism automatically gives
+results that are invariant under electric-magnetic duality. In one instance,
+this duality is mixed in an interesting way with $SO(8)$ triality.
+","[{""version"":""v1"",""created"":""Wed, 17 Aug 1994 18:28:15 GMT""}]","2010-04-07"
+"hep-th/9408100","Karyn M. Apfeldorf","K.M. Apfeldorf and C.R. Ordonez","Field Redefinition Invariance and ""Extra Terms""","35pp. A more rigorous derivation of the quantum mechanical extra term
+  is given. Work on the extension to the quantum field theory case is in
+  progress","Nucl.Phys. B479 (1996) 515-526","10.1016/0550-3213(96)00451-8","UTTG-29-93","hep-th cond-mat hep-ph",,"  We investigate the issue of coordinate redefinition invariance by carefully
+performing nonlinear transformations in the discretized quantum mechanical path
+integral. By resorting to hamiltonian path integral methods, we provide the
+first complete derivation of the extra terms (beyond the usual jacobian term)
+which arises in the action when a nonlinear transformation is made. We comment
+on possible connections with the renormalization group, by showing that these
+extra terms may emerge from a ``blocking"" procedure. Finally, by performing
+field redefinitions before and after dimensional reduction of a two dimensional
+field theory, we derive an explicit form fo an extra term appearing in a field
+theory.
+","[{""version"":""v1"",""created"":""Wed, 17 Aug 1994 19:53:13 GMT""},{""version"":""v2"",""created"":""Tue, 28 Nov 1995 21:16:58 GMT""}]","2009-10-28"
+"hep-th/9408101","Elizalde","E. Elizalde and S.D. Odintsov","Conformal Factor Dynamics in the 1/N Expansion","9 pages, LaTeX file, 6-8-18","Mod.Phys.Lett.A10:733-740,1995","10.1142/S0217732395000788",,"hep-th",,"  We suggest to consider conformal factor dynamics as applying to composite
+boundstates, in frames of the $1/N$ expansion. In this way, a new model of
+effective theory for quantum gravity is obtained. The renormalization group
+(RG) analysis of this model provides a framework to solve the cosmological
+constant problem, since the value of this constant turns out to be suppressed,
+as a result of the RG contributions. The effective potential for the conformal
+factor is found too.
+","[{""version"":""v1"",""created"":""Wed, 17 Aug 1994 23:59:18 GMT""}]","2009-09-17"
+"hep-th/9408102",,"Yuri Bespalov","Crossed modules and quantum groups in braided categories I","39 pages, 20 figures",,,"ITP-94-21E","hep-th math.QA",,"  Let $H$ be a Hopf algebra in braided category $\cal C$. Crossed modules over
+$H$ are objects with both module and comodule structures satisfying some
+comatibility condition. Category ${\cal C}^H_H$ of crossed modules is braided
+and is concrete realization of general categorical construction. For quantum
+braided group $(H,{\cal R})$ corresponding braided category ${\cal C}^{\cal
+R}_H$ of modules is identifyed with full subcategory in ${\cal C}_H^H$.
+Connection with crossproducts is discussed. Correct cross product in the class
+of quantum braided groups is built. Radford's--Majid's theorem gives equivalent
+condition for usual Hopf algebra to be crossproduct. Braided variant and analog
+of this theorem for quantum braided qroups are obtained.
+","[{""version"":""v1"",""created"":""Thu, 18 Aug 1994 12:36:38 GMT""}]","2008-02-03"
+"hep-th/9408103","Modanese","Giovanni Modanese (Max-Planck-Institut fuer Physik,
+  Werner-Heisenberg-Institut, Muenchen.)","Potential energy in quantum gravity","12 pages, LaTex, report MPI-PhT/94-53, August 1994","Nucl.Phys. B434 (1995) 697-708","10.1016/0550-3213(94)00489-2",,"hep-th",,"  We give a general expression for the static potential energy of the
+gravitational interaction of two massive particles, in terms of an invariant
+vacuum expectation value of the quantized gravitational field. This formula
+holds for functional integral formulations of euclidean quantum gravity,
+regularized to avoid conformal instability. It could be regarded as the
+analogue of the Wilson loop of gauge theories and allows in principle, through
+numerical lattice simulations or other approximation techniques, non
+perturbative evaluations of the potential or of the effective coupling
+constant.
+","[{""version"":""v1"",""created"":""Thu, 18 Aug 1994 13:17:55 GMT""}]","2009-10-28"
+"hep-th/9408104","Henrik Aratyn","H. Aratyn, J.F. Gomes and A.H. Zimerman","Affine Lie Algebraic Origin of Constrained KP Hierarchies","25 pgs, LaTeX, IFT-P/029/94 and UICHEP-TH/93-10","J.Math.Phys. 36 (1995) 3419-3442","10.1063/1.530970",,"hep-th",,"  We present an affine $sl (n+1)$ algebraic construction of the basic
+constrained KP hierarchy. This hierarchy is analyzed using two approaches,
+namely linear matrix eigenvalue problem on hermitian symmetric space and
+constrained KP Lax formulation and we show that these approaches are
+equivalent. The model is recognized to be the generalized non-linear
+Schr\""{o}dinger ($\GNLS$) hierarchy and it is used as a building block for a
+new class of constrained KP hierarchies. These constrained KP hierarchies are
+connected via similarity-B\""{a}cklund transformations and interpolate between
+$\GNLS$ and multi-boson KP-Toda hierarchies. Our construction uncovers origin
+of the Toda lattice structure behind the latter hierarchy.
+","[{""version"":""v1"",""created"":""Thu, 18 Aug 1994 14:03:44 GMT""}]","2009-10-28"
+"hep-th/9408106",,"Yuri Bespalov","Crossed modules and quantum groups in braided categories II","24 pages, 12 figures",,,,"hep-th math.QA",,"  This is the second part of the paper. Results of the first part about crossed
+modules are applied here to study of quantum groups in braided categories.
+Correct cross product in the class of quantum braided groups is built.
+Criterion when quantum braided group is cross product is otained.
+","[{""version"":""v1"",""created"":""Thu, 18 Aug 1994 12:45:03 GMT""}]","2008-02-03"
+"nucl-th/9408019",,"L. Wilets and R. D. Puff (Department of Physics, FM-15, University of
+  Washington, Seattle WA)","Collapse of Flux Tubes","16 pages plus 12 figures. RevTex3. DOE/ER/40427-160N94","Phys.Rev.C51:339-346,1995","10.1103/PhysRevC.51.339",,"nucl-th",,"  The dynamics of an idealized, infinite, MIT-type flux tube is followed in
+time as the interior evolves from a pure gluon field to a $\overline q \ q$
+plasma. We work in color U(1). $\overline q\ q$ pair formation is evaluated
+according to the Schwinger mechanism using the results of Brink and Pavel. The
+motion of the quarks toward the tube endcaps is calculated by a Boltzmann
+equation including collisions. The tube undergoes damped radial oscillations
+until the electric field settles down to zero. The electric field stabilizes
+the tube against pinch instabilities; when the field vanishes, the tube
+disintegrates into mesons. There is only one free parameter in the problem,
+namely the initial flux tube radius, to which the results are very sensitive.
+Among various quantities calculated is the mean energy of the emitted pions.
+","[{""version"":""v1"",""created"":""Wed, 17 Aug 1994 18:59:01 GMT""}]","2009-09-25"
+"nucl-th/9408020","E. Heinz","E. Heinz, H. M""uther, H.A. Mavromatis","Collective Excitations and Ground State Correlations","16 Pages + 2 Figures (included at the end as uuencoded ps-files),
+  TU-180894","Nucl.Phys. A587 (1995) 77-91","10.1016/0375-9474(94)00807-Y",,"nucl-th",,"  A generalized RPA formalism is presented which treats pp and ph correlations
+on an equal footing. The effect of these correlations on the single-particle
+Green function is discussed and it is demonstrated that a self-consistent
+treatment of the single-particle Green function is required to obtain stable
+solutions. A simple approximation scheme is presented which incorporates for
+this self-consistency requirement and conserves the number of particles.
+Results of numerical calculations are given for $^{16}$O using a G-matrix
+interaction derived from a realistic One-Boson-Exchange potential.
+","[{""version"":""v1"",""created"":""Thu, 18 Aug 1994 10:43:02 GMT""}]","2009-10-28"

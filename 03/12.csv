@@ -1,0 +1,212 @@
+"alg-geom/9403010","Bernd Siebert","Bernd Siebert and Gang Tian","On Quantum Cohomology Rings of Fano Manifolds and a Formula of Vafa and
+  Intriligator","21 pages, latex with amstex-fonts",,,,"alg-geom math.AG",,"  We observe a general structure theorem for quantum cohomology rings, a
+non-homogeneous version of the usual cohomology ring encoding information about
+(almost holomorphic) rational curves. An application is the rigorous
+computation of the quantum cohomology of Grassmannians. As purely algebraic
+consequence we prove a beautiful formula of Vafa and Intriligator for
+intersection numbers of certain compactifications of moduli spaces of maps from
+a Riemann surface (any genus) to G(k,n) which recently has excited many
+mathematicians. The formula generalizes to any Fano manifold whose cohomology
+ring can be presented as complete intersection.
+","[{""version"":""v1"",""created"":""Sat, 12 Mar 1994 00:01:45 GMT""}]","2008-02-03"
+"alg-geom/9403011","Atsushi Moriwaki","Atsushi Moriwaki","Hodge index theorem for arithmetic cycles of codimension one","9 pages, AmSTeX",,,,"alg-geom math.AG",,"  In this note, we will give a partial answer for arithmetic analogues of
+Grothendieck's standard conjectures due to H. Gillet and C. Soule. (Remark : I
+changed the title of this note.)
+","[{""version"":""v1"",""created"":""Sat, 12 Mar 1994 06:17:35 GMT""},{""version"":""v2"",""created"":""Mon, 14 Mar 1994 06:36:52 GMT""},{""version"":""v3"",""created"":""Mon, 14 Mar 1994 09:26:40 GMT""},{""version"":""v4"",""created"":""Tue, 15 Mar 1994 21:22:34 GMT""}]","2008-02-03"
+"astro-ph/9403025","Will Henney","W. J. Henney","Polarization Profiles of Scattered Emission Lines. I. General Formalism
+  for Optically Thin Rayleigh Scattering","18 pages, LaTeX, (uuencoded compressed postscript figures [648kB]
+  available from author [will@astroscu.unam.mx]), accepted for publication in
+  Ap.J., IAUNAM contrib.#339",,"10.1086/174140",,"astro-ph",,"  A general theoretical framework is developed for interpreting
+spectropolarimetric observations of optically thin emission line scattering
+from small dust particles. Spatially integrated and spatially resolved line
+profiles of both scattered intensity and polarization are calculated
+analytically from a variety of simple kinematic models. These calculations will
+provide a foundation for further studies of emission line scattering from dust
+and electrons in such diverse astrophysical environments as Herbig-Haro
+objects, symbiotic stars, starburst galaxies and active galactic nuclei.
+","[{""version"":""v1"",""created"":""Fri, 11 Mar 1994 23:10:26 GMT""}]","2009-10-22"
+"astro-ph/9403026","Will Henney","W. J. Henney, A. C. Raga and D. J. Axon","Polarization Profiles of Scattered Emission Lines. II. Upstream Dust
+  Scattering in the HH 1 Jet","11 pages, uuencoded compressed postscript (including 9 figures),
+  accepted for publication in Ap.J., IAUNAM_contrib.#340",,"10.1086/174141",,"astro-ph",,"  Detailed comparisons are made between observations of scattered light
+upstream of the head of the HH~1 jet and predictions of simple scattering
+models. It is shown that, in order to unambiguously determine the velocity of
+the head of the jet (bow shock) with respect to the upstream dust, existing
+spectroscopic observations are insufficient and that spectropolarimetric
+observations of the scattered light are necessary. Such an independent measure
+of the bow shock velocity is important in order to test ``multiple outflow''
+theories of Herbig-Haro jets. It is also shown 2that the scattering dust must
+have a very forward-throwing scattering phase function
+($\langle\cos\theta\rangle\msim 0.7$) and slight evidence is found for a
+dust-gas ratio that is higher than average.
+","[{""version"":""v1"",""created"":""Fri, 11 Mar 1994 23:54:11 GMT""}]","2009-10-22"
+"astro-ph/9403027","Will Henney","W. J. Henney","Doppler Ghosts in a Hall of Mirrors: Polarisation Profiles of Scattered
+  Emission Lines","4 pages, uuencoded compressed postscript (containing 3 figures),
+  WJH_proc94#1",,,,"astro-ph",,"  The Doppler shifts of optical emission lines which have been scattered by
+surrounding dust and electrons can provide useful information about the
+kinematics, geometry and physical conditions of astrophysical flows. In
+principle, the scatterers can provide views of the line-emitting gas from
+different directions, allowing the 3-d velocity field of the emitting gas to be
+determined and revealing sources which are hidden from direct view.
+Unfortunately, as in a Hall of Mirrors, the resultant multiple images can be
+confusing and hard to interpret. In general, the scattering geometry will be
+unknown, which makes it difficult to disentangle the effect of the motion of
+the scatterers from that of the motion of the emitting source. In this
+situation, spectropolarimetric observations can be a great help, since the
+scattered light will be partially polarised to a degree dependent on the angle
+of scattering and on the details of the scattering process. Analysis of the
+polarisation profiles of the scattered emission lines can then determine the
+relative orientation and velocity of the source and the scatterers. Such
+techniques are applied to the upstream scattered emission lines in the HH 1
+jet, where it is shown that spectropolarimetric measurements would allow an
+independent determination of the bowshock velocity with respect to the upstream
+matter, which would test ``multiple outburst'' models of the jet.
+","[{""version"":""v1"",""created"":""Sat, 12 Mar 1994 00:25:59 GMT""}]","2007-05-23"
+"astro-ph/9403028",,"F. Bernardeau and L. Kofman","Properties of the Cosmological Density Distribution Function","30 pages in Plain Tex, 1 table and 11 figures available as postscript
+  files by anonymous ftp from ftp.cita.utoronto.ca in directory
+  /cita/francis/lev, IFA-94-19","Astrophys.J. 443 (1995) 479-498","10.1086/175542",,"astro-ph",,"  The properties of the probability distribution function of the cosmological
+continuous density field are studied. We present further developments and
+compare dynamically motivated methods to derive the PDF. One of them is based
+on the Zel'dovich approximation (ZA). We extend this method for arbitrary
+initial conditions, regardless of whether they are Gaussian or not. The other
+approach is based on perturbation theory with Gaussian initial fluctuations. We
+include the smoothing effects in the PDFs. We examine the relationships between
+the shapes of the PDFs and the moments. It is found that formally there are no
+moments in the ZA, but a way to resolve this issue is proposed, based on the
+regularization of integrals. A closed form for the generating function of the
+moments in the ZA is also presented, including the smoothing effects. We
+suggest the methods to build PDFs out of the whole series of the moments, or
+out of a limited number of moments -- the Edgeworth expansion. The last
+approach gives us an alternative method to evaluate the skewness and kurtosis
+by measuring the PDF around its peak. We note a general connection between the
+generating function of moments for small r.m.s $\sigma$ and the non-linear
+evolution of the overdense spherical fluctuation in the dynamical models. All
+these approaches have been applied in 1D case where the ZA is exact, and simple
+analytical results are obtained. The 3D case is analyzed in the same manner and
+we found a mutual agreement in the PDFs derived by different methods in the the
+quasi-linear regime. Numerical CDM simulation was used to validate the accuracy
+of considered approximations. We explain the successful log-normal fit of the
+PDF from that simulation at moderate $\sigma$ as mere fortune, but not as a
+universal form of density PDF in general.
+","[{""version"":""v1"",""created"":""Sat, 12 Mar 1994 01:15:03 GMT""}]","2009-10-22"
+"comp-gas/9403003","Bruce Boghosian","Bruce M. Boghosian (Thinking Machines Corp.) and Washington Taylor
+  (MIT)","Correlations and Renormalization in Lattice Gases","94 pages, pure LaTeX including all figures",,"10.1103/PhysRevE.52.510","(MIT-CTP-2265)","comp-gas adap-org chao-dyn cond-mat hep-th nlin.AO nlin.CD nlin.CG nlin.PS patt-sol",,"  A complete formulation is given of an exact kinetic theory for lattice gases.
+This kinetic theory makes possible the calculation of corrections to the usual
+Boltzmann / Chapman-Enskog analysis of lattice gases due to the buildup of
+correlations. It is shown that renormalized transport coefficients can be
+calculated perturbatively by summing terms in an infinite series. A
+diagrammatic notation for the terms in this series is given, in analogy with
+the diagrammatic expansions of continuum kinetic theory and quantum field
+theory. A closed-form expression for the coefficients associated with the
+vertices of these diagrams is given. This method is applied to several standard
+lattice gases, and the results are shown to correctly predict experimentally
+observed deviations from the Boltzmann analysis.
+","[{""version"":""v1"",""created"":""Fri, 11 Mar 1994 17:20:23 GMT""}]","2016-08-31"
+"cond-mat/9403047","Nickolai Prokof'ev","N.Prokof'ev","Effective Masses of Ions in Superfluid $^3$He-B","12 pages, RevTex, postscript file attached at the end, UBCTH-94-03-11",,"10.1103/PhysRevLett.74.2748",,"cond-mat",,"  We show that ion masses in superfluid $^3$He ought to be enormously enhanced
+(by a factor of 100) as compared with the same ion masses in $^4$He measured at
+low temperature. We calculate precisely the dependence of the effective mass on
+pressure in $^3$He-B, and show that the coherent (ballistic) motion of ions in
+$^3$He-B can be studied experimentally at $ T < (0.3-0.2) T_c $.
+","[{""version"":""v1"",""created"":""Fri, 11 Mar 1994 18:28:00 GMT""}]","2009-10-22"
+"gr-qc/9403024","Luis Oxman","M. Kruczenski, L.E. Oxman and M. Zaldarriaga","Large Squeezing Behavior of Cosmological Entropy Generation","19 pages (LaTeX)","Class.Quant.Grav.11:2317-2330,1994","10.1088/0264-9381/11/9/013",,"gr-qc",,"  We consider the generation of entropy when particle pairs are created at a
+cosmological level. Making a reduction via the particle number basis, we
+compute the classical limit for the entropy generation due to the evolution of
+the matter field fluctuations (squeeze transformation), obtaining that it is
+linear in the squeeze parameter for a general class of initial states. We also
+discuss the dependence of the generated entropy on the coarse graining
+criteria.
+","[{""version"":""v1"",""created"":""Fri, 11 Mar 1994 21:40:06 GMT""}]","2010-04-06"
+"gr-qc/9403025","Patrick Peter","Jaume Garriga and Patrick Peter","Lensing Properties of Lightlike Current Carrying Cosmic Strings","21 pages, LaTeX-REVTeX, 7 figures available upon request, preprint #
+  DAMTP-R94/10","Class.Quant.Grav.11:1743-1762,1994","10.1088/0264-9381/11/7/012",,"gr-qc",,"  The lensing properties of superconducting cosmic strings endowed with a time
+dependent pulse of lightlike current are investigated. The metric outside the
+core of the string belongs to the $pp$--wave class, with a deficit angle. We
+study the field theoretic bosonic Witten model coupled to gravity, and we show
+that the full metric (both outside and inside the core) is a Taub-Kerr-Shild
+generalization of that for the static string with no current. It is shown that
+the double image due to the deficit angle evolves in an unambiguous way as a
+pulse of lightlike current passes between the source and the observer.
+Observational consequences of this signature of the existence of cosmic strings
+are briefly discussed.
+","[{""version"":""v1"",""created"":""Sat, 12 Mar 1994 15:34:09 GMT""}]","2010-04-06"
+"hep-ph/9403274","Oleg Tarasov","D.J. Broadhurst, P.A. Baikov, V.A. Ilyin, J. Fleischer, O.V. Tarasov,
+  V.A. Smirnov","Two-Loop Gluon-Condensate Contributions To Heavy-Quark Current
+  Correlators: Exact Results And Approximations","9 pages","Phys.Lett.B329:103-110,1994","10.1016/0370-2693(94)90524-X","OUT--4102--49, INP--94--1/323, BI--TP/94--02,PI--PhT/94--2","hep-ph",,"  The coefficient functions of the gluon condensate $<G^2>$, in the correlators
+of heavy-quark vector, axial, scalar and pseudoscalar currents, are obtained
+analytically, to two loops, for all values of $z=q^2/4m^2$. In the limiting
+cases $z\to0$, $z\to1$, and $z\to-\infty$, comparisons are made with previous
+partial results. Approximation methods, based on these limiting cases, are
+critically assessed, with a view to three-loop work. High accuracy is achieved
+using a few moments as input. A {\em single} moment, combined with only the
+{\em leading} threshold and asymptotic behaviours, gives the two-loop
+corrections to better than 1% in the next 10 moments. A two-loop fit to vector
+data yields $<\frac{\alpha_{\rm s}}{\pi}G^2>\approx0.021$ GeV$^4$.
+","[{""version"":""v1"",""created"":""Fri, 11 Mar 1994 16:49:02 GMT""}]","2010-11-01"
+"hep-ph/9403275",,"R. N. Mohapatra and A. Riotto","A Single Scale Theory for Cold and Hot Dark Matter","UMD-PP-94-102 (latex file; 15 pages )","Phys.Rev.Lett. 73 (1994) 1324-1327","10.1103/PhysRevLett.73.1324",,"hep-ph",,"  We show that a recently proposed extension of the MSSM can provide a scenario
+where both the cold and hot dark matter of the universe owe their origin to a
+single scale connected with the breakdown of the global B-L symmetry. The susy
+partner of the majoron and the light Majorana neutrinos are the cold and hot
+dark matter candidates respectively in this model and their desired relative
+abundances emerge when the scale of B-L symmetry breaking is in the TeV range.
+","[{""version"":""v1"",""created"":""Fri, 11 Mar 1994 17:57:12 GMT""}]","2009-10-28"
+"hep-ph/9403276","Davison Soper","Arjun Berera and Davison E. Soper","Diffractive jet production in a simple model with applications to HERA","23 pages, REVTeX 3.0 with 8 postscript figures compressed with
+  uufiles, OITS 536 and AZPH-TH/94-02","Phys.Rev. D50 (1994) 4328-4340","10.1103/PhysRevD.50.4328",,"hep-ph",,"  In diffractive jet production, two high energy hadrons A and B collide and
+produce high transverse momentum jets, while hadron A is diffractively
+scattered. Ingelman and Schlein predicted this phenomenon. In their model, part
+of the longitudinal momentum transferred from hadron A is delivered to the jet
+system, part is lost. Lossless diffractive jet production, in which all of this
+longitudinal momentum is delivered to the jet system, has been discussed by
+Collins, Frankfurt, and Strikman. We study the structure of lossless
+diffractive jet production in a simple model. The model suggests that the
+phenomenon can be probed experimentally at HERA, with A being a proton and B
+being a bremsstrahlung photon with virtuality $Q^2$. Lossless events should be
+present for small $Q^2$, but not for $Q^2$ larger than $1/R_{\rm P}^2$, where
+$R_{\rm P}$ is a characteristic size of the pomeron.
+","[{""version"":""v1"",""created"":""Fri, 11 Mar 1994 20:26:49 GMT""}]","2009-10-28"
+"hep-ph/9403277","Goran Senjanovic","G. Dvali and Goran Senjanovi{\'c}","Topologically Stable Z - Strings in the Supersymmetric Standard Model","LaTeX, 17 pages, IC/94/56","Phys.Lett. B331 (1994) 63-68","10.1016/0370-2693(94)90943-1",,"hep-ph",,"  We show that the minimal supergravity extension of the standard model
+automatically contains topologically stable electroweak strings if the hidden
+sector is invariant under the exact R-symmetry. These defects appear in the
+form of the semiglobal R-strings, which necessarily carry $Z$-flux inside their
+core. This result is independent from the particular structure of the hidden
+sector. Discussed strings differ fundamentally from the embedded $Z$-strings.
+If R-symmetry is explicitly broken (e.g. due to an anomaly), the decay of the
+semiglobal strings may have important implications for the baryogenesis.
+","[{""version"":""v1"",""created"":""Fri, 11 Mar 1994 21:14:37 GMT""}]","2009-10-28"
+"hep-ph/9403278","Davison Soper","D. E. Soper","Multiparticle Dynamics from 1983 to 1993","Talk at the XIV International Symposium on Multiparticle Dynamics,
+  Aspen, September 1993, 20 pages, Latex with 11 postscript figures compressed
+  with uufiles, OITS 528",,,,"hep-ph",,"  I compare our understanding selected topics in Multiparticle Dynamics at this
+meeting to what we knew at the 1983 Multiparticle Dynamics Symposium. I also
+discuss rapidity gap physics, a subject that has developed in the years since
+1983
+","[{""version"":""v1"",""created"":""Sat, 12 Mar 1994 00:10:41 GMT""}]","2009-09-25"
+"hep-ph/9403280","Yoshiki Kizukuri","Yoshiki Kizukuri and Noriyuki Oshimo","$CP$ violation in minimal supersymmetric standard model","7 pages with 7 figures, TKU-HEP 94/02; IFM 2/94, LaTeX with Elsevir
+  Science Publisher's style file, espcrc2.sty. (To appear in the proceedings of
+  the Third KEK Topical Conference on CP Violation, November 1993) Figures are
+  not included. The complete PostScript file can be obtained by anonymous ftp
+  from ape.sp.u-tokai.ac.jp in the directry","Nucl.Phys.Proc.Suppl.37A:173-180,1994","10.1016/0920-5632(94)90747-1",,"hep-ph",,"  $CP$ violating phenomena predicted by the minimal supersymmetric standard
+model are discussed in a case where the $CP$ violating phases in SUSY sector
+are not suppressed. The electric dipole moments of the neutron and the electron
+are large, but can be smaller than their experimental upper bounds if the
+scalar quarks and leptons are heavier than a few TeV. $T$ violating asymmetries
+in the production processes of the different neutralino pair and the different
+chargino pair emerge at the tree level. They could be as large as of order
+$10^{-2}$ in unpolarized electron beam experiments and $10^{-1}$ in polarized
+electron beam experiments. In a pair production of the charginos of the same
+mass, the asymmetry emerges through the electric and the weak ""electric"" dipole
+moments of the charginos at the loop level, but its magnitude is at most of
+order $10^{-4}$.
+","[{""version"":""v1"",""created"":""Sat, 12 Mar 1994 10:18:02 GMT""}]","2015-06-25"
+"hep-th/9403070","Brian Dolan","Brian Dolan","Co-Variant Derivatives And The Renormalisation Group","25 pages PlainTeX, (bdolan@thphys.may.ie)","Int.J.Mod.Phys. A10 (1995) 2439-2466","10.1142/S0217751X95001170","DIAS-STP-94-05","hep-th cond-mat",,"  The renormalisation group equation for $N$-point correlation functions can be
+interpreted in a geometrical manner as an equation for Lie transport of
+amplitudes in the space of couplings. The vector field generating the
+diffeomorphism has components given by the $\beta$-functions of the theory. It
+is argued that this simple picture requires modification whenever any one of
+the points at which the amplitude is evaluated becomes close to any other. This
+modification requires the introduction of a connection on the space of
+couplings and new terms appear in the renormalisation group equation involving
+co-variant derivatives of the $\beta$-function and the curvature associated
+with the connection. It is shown how the connection is related to the operator
+expansion co-efficients, but there remains an arbitrariness in its definition.
+","[{""version"":""v1"",""created"":""Fri, 11 Mar 1994 18:19:37 GMT""}]","2015-06-26"
+"hep-th/9403071",,"Masato Shimono","N=2 Supersymmetry in Exterior Form","7 pages, Latex, KUNS-1248",,,,"hep-th",,"  An $N=2$ supersymmetric model using K\""{a}hler fields is proposed. It is a
+modified version of two-dimensional Benn-Tucker model. It indicates a
+geometrical origin of $N=2$ supersymmetry.
+","[{""version"":""v1"",""created"":""Sat, 12 Mar 1994 06:56:34 GMT""}]","2007-05-23"

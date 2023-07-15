@@ -1,0 +1,198 @@
+"alg-geom/9409004","Dr. Yakov Karpishpan","Yakov Karpishpan","Riemann reciprocity in higher dimensions","15 pages, LaTeX",,,,"alg-geom math.AG",,"  The reciprocity law for abelian differentials of first and second kind is
+generalized to higher-dimensional varieties. It is shown that $H^1(V)$ of a
+polarized variety $V$ is encoded in the Laurent data along a curve germ in $V$,
+with the polarization form on $H^1(V)$ corresponding to the {\em
+one-dimensional} residue pairing. This associates an {\em extended abelian
+variety} to $V$; if $V$ is an abelian variety itself, our construction
+``extends"" it, even when $V$ is not a Jacobian.
+","[{""version"":""v1"",""created"":""Fri, 9 Sep 1994 18:18:05 GMT""}]","2008-02-03"
+"astro-ph/9409020","Sarah Church","S.E. Church, P.D. Mauskopf, P.A.R. Ade, M.J. Devlin, W.L. Holzapfel,
+  T.M. Wilbanks, A.E. Lange","An Arcminute Resolution Search at 4.7CM^-1 for Point Sources in Msam and
+  Max Fields","compressed uuencoded postscript, 16 pages including 4 figures,
+  submitted to ApJ, SuZIE-94-1",,,,"astro-ph",,"  We have searched for mm-wave emission from compact objects in two fields,
+each approximately 1 square degree in size, taken from regions of the sky in
+which degree-scale structure in the Cosmic Background Radiation (CBR) has
+recently been reported. The observations were made at frequency of 4.7~cm^-1
+and with an angular resolution of 1.7' using the Sunyaev-Zel'dovich Infrared
+Experiment (SuZIE) bolometer array at the Caltech Submillimeter Observatory
+(CSO). The first field was centered on 14.92hr +82deg (1994.0), one of two
+regions in which Cheng et al. (1994) identify the signature of an unresolved
+point source seen during 0.5 degree resolution observations made at 5.6~cm^-1
+with the Medium Scale Anisotropy Measurement (MSAM) experiment. The second
+field was centered on 15.47hr +72.4deg (1994.0), part of the Gamma Ursae
+Minoris (GUM) region where several prominent features have been detected by
+Devlin et al. (1994) in 0.55 degree-resolution observations made at 3.5 and
+6~cm^-1 with the Millimeter Anisotropy eXperiment (MAX). We find that there is
+no point source in either field that can account for the structure observed at
+0.5 degree resolution, and that the structure must arise from objects with an
+angular size greater than 2'.
+","[{""version"":""v1"",""created"":""Fri, 9 Sep 1994 19:47:14 GMT""}]","2007-05-23"
+"astro-ph/9409021","Guohong Xu","Guohong Xu","A New Parallel N-body Gravity Solver: TPM","21 Pages Latex file Figures available from anonymous ftp to
+  astro.princeton.edu under /xu/tpm.ps, POP-579",,"10.1086/192166",,"astro-ph",,"  We have developed a gravity solver based on combining the well developed
+Particle-Mesh (PM) method and TREE methods. It is designed for and has been
+implemented on parallel computer architectures. The new code can deal with tens
+of millions of particles on current computers, with the calculation done on a
+parallel supercomputer or a group of workstations. Typically, the spatial
+resolution is enhanced by more than a factor of 20 over the pure PM code with
+mass resolution retained at nearly the PM level. This code runs much faster
+than a pure TREE code with the same number of particles and maintains almost
+the same resolution in high density regions. Multiple time step integration has
+also been implemented with the code, with second order time accuracy. The
+performance of the code has been checked in several kinds of parallel computer
+configuration, including IBM SP1, SGI Challenge and a group of workstations,
+with the speedup of the parallel code on a 32 processor IBM SP2 supercomputer
+nearly linear (efficiency $\approx 80\%$) in the number of processors. The
+computation/communication ratio is also very high ($\sim 50$), which means the
+code spends $95\%$ of its CPU time in computation.
+","[{""version"":""v1"",""created"":""Fri, 9 Sep 1994 21:00:03 GMT""}]","2009-10-22"
+"cmp-lg/9409009","Cyrus F. Nourani","Cyrus F. Nourani","Linguistics Computation, Automatic Model Generation, and Intensions","The paper is plain text.",,,"METAAI-93-01","cmp-lg cs.CL",,"  Techniques are presented for defining models of computational linguistics
+theories. The methods of generalized diagrams that were developed by this
+author for modeling artificial intelligence planning and reasoning are shown to
+be applicable to models of computation of linguistics theories. It is shown
+that for extensional and intensional interpretations, models can be generated
+automatically which assign meaning to computations of linguistics theories for
+natural languages.
+  Keywords: Computational Linguistics, Reasoning Models, G-diagrams For Models,
+Dynamic Model Implementation, Linguistics and Logics For Artificial
+Intelligence
+","[{""version"":""v1"",""created"":""Fri, 9 Sep 1994 17:04:26 GMT""}]","2008-02-03"
+"cond-mat/9409041","Dr. Dana Browne","B. S. Helmkamp and D. A. Browne","The Inhibition of Mixing in Chaotic Quantum Dynamics","20 pages, RevTeX format with 6 Postscript figures appended in
+  uuencoded tar.Z format",,"10.1103/PhysRevE.51.1849",,"cond-mat chao-dyn nlin.CD",,"  We study the quantum chaotic dynamics of an initially well-localized wave
+packet in a cosine potential perturbed by an external time-dependent force. For
+our choice of initial condition and with $\hbar$ small but finite, we find that
+the wave packet behaves classically (meaning that the quantum behavior is
+indistinguishable from that of the analogous classical system) as long as the
+motion is confined to the interior of the remnant separatrix of the cosine
+potential. Once the classical motion becomes unbounded, however, we find that
+quantum interference effects dominate. This interference leads to a long-lived
+accumulation of quantum amplitude on top of the cosine barrier. This pinning of
+the amplitude on the barrier is a dynamic mechanism for the quantum inhibition
+of classical mixing.
+","[{""version"":""v1"",""created"":""Fri, 9 Sep 1994 19:28:18 GMT""}]","2009-10-22"
+"cond-mat/9409042","Mauro S. Ferreira","M. S. Ferreira, R. B. Muniz, J. d'Albuquerque e Castro and D. M.
+  Edwards","The Nature and Validity of the RKKY limit of exchange coupling in
+  magnetic trilayers","10, RevTex",,"10.1088/0953-8984/6/40/003",,"cond-mat",,"  The effects on the exchange coupling in magnetic trilayers due to the
+presence of a spin-independent potential well are investigated. It is shown
+that within the RKKY theory no bias nor extra periods of oscillation associated
+with the depth of the well are found, contrary to what has been claimed in
+recent works. The range of validity of the RKKY theory is also discussed.
+","[{""version"":""v1"",""created"":""Sat, 10 Sep 1994 10:43:07 GMT""}]","2009-10-22"
+"dg-ga/9409001","Claude LeBrun","Claude LeBrun","Fano Manifolds, Contact Structures, and Quaternionic Geometry","21 pages, LaTeX",,,,"dg-ga math.DG",,"  Let Z be a compact complex (2n+1)-manifold which carries a {\em complex
+contact structure}, meaning a codimension-1 holomorphic sub-bundle D of TZ
+which is maximally non-integrable. If Z admits a K\""ahler-Einstein metric of
+positive scalar curvature, we show that it is the Salamon twistor space of a
+quaternion-K\""ahler manifold (M^{4n}, g). If Z also admits a second complex
+contact structure, then Z= CP_{2n+1}. As an application, we give several new
+characterizations of the Riemannian manifold HP_n=Sp(n+1)/( Sp(n)\times Sp(1)).
+","[{""version"":""v1"",""created"":""Fri, 9 Sep 1994 17:45:13 GMT""}]","2008-02-03"
+"dg-ga/9409002","Claude LeBrun","Jongsu Kim, Claude LeBrun, and Massimiliano Pontecorvo","Scalar-Flat Kaehler Surfaces of All Genera","37 pages, LaTeX with PicTeX diagrams",,,,"dg-ga math.DG",,"  Let (M,J) be a compact complex 2-manifold which which admits a Kaehler metric
+for which the integral of the scalar curvature is non-negative. Also suppose
+that M does not admit a Ricci-flat K\""ahler metric. Then if M is blown up at
+sufficiently many points, the resulting complex surface admits Kaehler metrics
+with scalar curvature identically equal to zero.
+","[{""version"":""v1"",""created"":""Fri, 9 Sep 1994 17:27:55 GMT""}]","2008-02-03"
+"gr-qc/9409019","Cangemi","Daniel Cangemi","Anomaly In 2d-Gravity Coupled To Matter Fields","3 pages, UCLA/94/TEP/34 [One sentence in the conclusion and one
+  reference added.]",,,,"gr-qc",,"  In 1+1 dimensions, the Wheeler-DeWitt equation cannot be imposed owing to an
+anomaly in its commutator with the diffeomorphism constraint. A similar
+obstruction prevents also a semiclassical definition of a WKB local time. (Talk
+given at the 7th Marcel Grossman Meeting on General Relativity, Stanford, July
+28, 1994.)
+","[{""version"":""v1"",""created"":""Sat, 10 Sep 1994 12:54:05 GMT""},{""version"":""v2"",""created"":""Mon, 19 Sep 1994 09:22:49 GMT""}]","2008-02-03"
+"hep-ph/9409267","Sang Jin Sin","S.U. Ji and S.J. Sin (Hanyang University)","Late-time Phase transition and the Galactic halo as a Bose Liquid: (II)
+  the Effect of Visible Matter","10 pages, 10 figures included, to appear in Phys. Rev. D50,p3655","Phys.Rev.D50:3655-3659,1994","10.1103/PhysRevD.50.3655",,"hep-ph",,"  In the previous work, we investigated the rotation curves of galaxies
+assuming that the dark matter consists of ultra light boson appearing in
+$'$late time phase transition' theory. Generalizing this work, we consider the
+effect of visible matter and classify the types of rotation curves as we vary
+the fraction of the mass and extention of visible matter. We show that visible
+matter, in galaxies with flat rotation curves, has mass fraction $ 2\% \sim
+10\% $ and it is confined within the distance fraction $ 10\% \sim 20\%$.
+","[{""version"":""v1"",""created"":""Sat, 10 Sep 1994 00:37:34 GMT""}]","2010-11-30"
+"hep-ph/9409270","Mark Srednicki","Toby Falk, Keith A. Olive, and Mark Srednicki","Heavy Sneutrinos as Dark Matter","7 pages in LaTeX, plus 1 uuencoded figure (uses epsf),
+  UCSBTH--94--29, UMN--TH--1306/94","Phys.Lett.B339:248-251,1994","10.1016/0370-2693(94)90639-4",,"hep-ph",,"  We calculate the relic density of very heavy, stable scalar neutrinos in the
+minimal supersymmetric standard model. We include all two-body final states, as
+well as the effects of co-annihilation with scalar electrons. We find that the
+sneutrino relic density is in the cosmologically interesting region
+$0.1\ltwid\Omega_{\sn}h^2\ltwid 1.0$ for $550\gev\ltwid\msn\ltwid 2300\gev$.
+For nominal values of the parameters of our galactic halo, recent results from
+the Heidelberg--Moscow direct detection experiment set an upper limit on
+$\Omega_{\sn}$ which is lower by a factor ranging from two to ten, depending on
+$\msn$.
+","[{""version"":""v1"",""created"":""Fri, 9 Sep 1994 16:47:12 GMT""}]","2008-11-26"
+"hep-ph/9409271","Vladimir Braun","I.I. Balitsky and V.M. Braun","Instanton-induced production of jets with large transverse momentum in
+  QCD","LATEX, requires espcrc2.sty file, appended at the end. (Invited talk
+  presented by V. Braun at the conference ``QCD-94'', Montpellier, France, July
+  7 -13, 1994), MPI-PhT/94-59","Nucl.Phys.Proc.Suppl. 39BC (1995) 166-168","10.1016/0920-5632(95)00065-H",,"hep-ph",,"  We consider the instanton-induced cross section for production of a gluon jet
+with large transverse momentum in QCD and point out that Mueller's corrections
+corresponding to the rescattering of hard quanta are likely to remove
+contributions of large instantons, making this cross section well defined. Some
+speculations about possible phenomenological signatures are presented.
+","[{""version"":""v1"",""created"":""Fri, 9 Sep 1994 16:55:06 GMT""}]","2009-10-28"
+"hep-ph/9409272","Felix Schlumpf","Felix Schlumpf","Beta decay of hyperons in a relativistic quark model","RevTeX, 14 pages, SLAC-PUB-6661","Phys.Rev.D51:2262-2270,1995","10.1103/PhysRevD.51.2262",,"hep-ph",,"  A relativistic constituent quark model is used to calculate the semileptonic
+beta decay of nucleons and hyperons. The parameters of the model, namely, the
+constituent quark mass and the confinement scale, are fixed by a previous
+calculation of the magnetic moments of the baryon octet within the same model.
+We discuss the momentum dependence of the form factors, possible configuration
+mixing and SU(3) symmetry breaking. We conclude that the relativistic
+constituent quark model is a good framework to analyze electroweak properties
+of the baryons.
+","[{""version"":""v1"",""created"":""Fri, 9 Sep 1994 19:08:04 GMT""}]","2011-08-17"
+"hep-ph/9409273",,"Robin G. Stuart","Algebraic Reduction of Feynman Diagrams to Scalar Integrals: a
+  Mathematica implementation of LERG-I","16 pages","Comput.Phys.Commun. 85 (1995) 267-277","10.1016/0010-4655(94)00141-N","UM-TH-94-22","hep-ph",,"  A Mathematica implementation of the program LERG-I is presented that performs
+the reduction of tensor integrals, encountered in one-loop Feynman diagram
+calculations, to scalar integrals. The program was originally coded in REDUCE
+and in that incarnation was applied to a number of problems of physical
+interest.
+","[{""version"":""v1"",""created"":""Fri, 9 Sep 1994 22:33:07 GMT""}]","2009-10-28"
+"hep-ph/9409275","David Spergel","Glenn D. Starkman (CITA) and David N. Spergel (Princeton)","A New Technique for Detecting Supersymmetric Dark Matter","6 pages plain tex",,"10.1103/PhysRevLett.74.2623",,"hep-ph astro-ph",,"  We estimate the event rate for excitation of atomic transition by
+photino-like dark matter. For excitations of several eV, this event rate can
+exceed naive cross-section by many orders of magnitude. Although the event rate
+for these atomic excitation is smaller than that of nuclear recoil off of
+non-zero spin nuclei, the photons emitted by the deexcitation are easier to
+detect than low-energy nuclear recoils. For many elements, there are several
+low-lying states with comparable excitation rates, thus, spectral ratios could
+be used to distinguish signal from background.
+","[{""version"":""v1"",""created"":""Fri, 9 Sep 1994 21:20:31 GMT""},{""version"":""v2"",""created"":""Tue, 13 Sep 1994 13:16:16 GMT""}]","2009-10-28"
+"hep-th/9409051",,"M. Hage Hassan and M. Kibler","On Hurwitz Transformations","30 pages, Tex, LYCEN 9110",,,,"hep-th",,"  A bibliography on the Hurwitz transformations is given. We deal here, with
+some details, with two particular Hurwitz transformations, viz, the $\grq \to
+\grt$ Kustaanheimo-Stiefel transformation and its $\grh \to \grc$ compact
+extension. These transformations are derived in the context of
+Fock-Bargmann-Schwinger calculus with special emphasis on angular momentum
+theory.
+","[{""version"":""v1"",""created"":""Sat, 10 Sep 1994 13:59:28 GMT""}]","2007-05-23"
+"nucl-th/9409006","Dirk Rischke","Dirk H. Rischke and Miklos Gyulassy","Perturbative versus Lattice QCD Energy Density Correlators at High
+  Temperatures","23 pages, 10 figures (uuencoded), preprint CU-TP-639","Nucl.Phys.B442:563-592,1995","10.1016/0550-3213(95)00073-2",,"nucl-th hep-lat hep-ph",,"  Correlators of magnetic and electric field energy density are investigated
+for SU($N_c$) gauge theory at high temperatures $T$. At separations $z\leq 2/T$
+the correlators are shown to be dominated by a power--law behavior even for
+finite gluon screening masses. This continuum behavior is well approximated on
+current $4\times 16^3$--lattices in the perturbative limit and leads to a
+considerable overestimate of screening masses deduced from fitting the lattice
+correlators with conventional exponential forms. The use of extended sources
+and sinks to enhance the signal improves the situation for screening masses
+$m\gg T$ but leads to a largely uncontrolled error for masses less than $T$. In
+fact, we show that recent lattice QCD data of Grossmann et al., from which a
+magnetic screening mass $m_M \approx 2.9 \, T$ was deduced, may even be
+consistent with a vanishing actual magnetic screening mass.
+","[{""version"":""v1"",""created"":""Fri, 9 Sep 1994 19:06:41 GMT""}]","2009-10-09"
+"nucl-th/9409007","Ziwei Lin","Ziwei Lin and Miklos Gyulassy","Open Charm as a Probe of Pre-Equilibrium Dynamics in Nuclear Collisions?","25 pages, revtex, 10 figures, a typing mistake in equation(16)
+  corrected, a reference changed","Phys.Rev.C51:2177-2187,1995; Erratum-ibid.C52:440,1995;
+  Phys.Rev.C52:440,1995","10.1103/PhysRevC.51.2177 10.1103/PhysRevC.52.440","CU-TP 638","nucl-th",,"  The pre-equilibrium contribution to open charm production in nuclear
+collisions at $\sqrt{s}=200$ AGeV is calculated using three different models
+for the correlations between momentum and space-time coordinates. Ideal
+(Bjorken) correlation between the rapidity $y$ and space-time rapidity $\eta$
+of mini-jet gluons suppresses greatly the pre-equilibrium yield and even
+allowing for the minimal uncertainty correlations leads, in contrast to
+previous estimates, only to a small pre-equilibrium charm yield as compared to
+initial yield due to gluon fusion. The ``intrinsic'' charm process is
+negligible in the mid-rapidity domain.
+","[{""version"":""v1"",""created"":""Fri, 9 Sep 1994 19:23:56 GMT""},{""version"":""v2"",""created"":""Tue, 13 Sep 1994 05:09:36 GMT""},{""version"":""v3"",""created"":""Mon, 17 Oct 1994 15:28:26 GMT""},{""version"":""v4"",""created"":""Fri, 16 Dec 1994 23:00:35 GMT""},{""version"":""v5"",""created"":""Tue, 20 Dec 1994 23:48:59 GMT""}]","2014-11-18"
+"nucl-th/9409008",,"John J. Neumann, David Seibert, and George Fai (Center for Nuclear
+  Research, Kent State University)","Thermal photon production in high-energy nuclear collisions","revised, now includes a_1 contribution. revtex, 10 pages plus 4
+  figures (uuencoded postscript)","Phys.Rev.C51:1460-1464,1995","10.1103/PhysRevC.51.1460","KSUCNR-016-94 (revised)","nucl-th hep-ph",,"  We use a boost-invariant one-dimensional (cylindrically symmetric) fluid
+dynamics code to calculate thermal photon production in the central rapidity
+region of S+Au and Pb+Pb collisions at SPS energy ($\sqrt{s}=20$ GeV/nucleon).
+We assume that the hot matter is in thermal equilibrium throughout the
+expansion, but consider deviations from chemical equilibrium in the high
+temperature (deconfined) phase. We use equations of state with a first-order
+phase transition between a massless pion gas and quark gluon plasma, with
+transition temperatures in the range $150 \leq T_c \leq 200$ MeV.
+","[{""version"":""v1"",""created"":""Fri, 9 Sep 1994 21:35:09 GMT""},{""version"":""v2"",""created"":""Thu, 10 Nov 1994 16:55:04 GMT""},{""version"":""v3"",""created"":""Wed, 11 Jan 1995 16:46:25 GMT""}]","2009-09-25"

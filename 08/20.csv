@@ -1,0 +1,215 @@
+"astro-ph/9408071","Leopoldo Infante","L. Infante and C.J. Pritchet","The Clustering Properties of Faint Galaxies","23 pages, uuencoded compressed PostScript file, figures anonymous ftp
+  to 146.155.21.10 file pub/p3/p3fig.uu.Z, accepted ApJ, IP/3/94",,"10.1086/175197",,"astro-ph",,"  The two-point angular correlation function of galaxies, \wte, has been
+computed from a new survey of faint galaxies covering a 2 deg$^2$ area near the
+North Galactic Pole. This survey, which is complete to limiting magnitudes
+\jmag=24 and \fmag=23, samples angular scales as large as $1\degpoint5$. Faint
+galaxies are found to be more weakly clustered (by a factor of at least two)
+compared to galaxies observed locally. Clustering amplitudes are closer to
+model predictions in the red than in the blue. The weak clustering of faint
+galaxies cannot be explained by any plausible model of clustering evolution
+with redshift. However, one possible explanation of the clustering properties
+of intermediate redshift galaxies is that they resemble those of starburst
+galaxies and H II region galaxies, which are observed locally to possess weak
+clustering amplitudes. Our clustering amplitudes are also similar to those of
+nearby late-type galaxies, which are observed to be more weakly clustered than
+early-type galaxies A simple, self-consistent model is presented that predicts
+the fraction of galaxies in the ``excess'' population at intermediate
+redshifts, and correctly matches observed color distributions. The available
+data on the clustering properties of faint galaxies are consistent with this
+model if the ``excess'' population of faint blue galaxies is also the weakly
+clustered population. Evidence is presented that the power-law slope of the
+angular correlation function becomes shallower at fainter magnitudes. A similar
+effect is seen locally both for dwarf galaxies and for galaxies with late
+morphological type;
+","[{""version"":""v1"",""created"":""Fri, 19 Aug 1994 16:25:59 GMT""}]","2009-10-22"
+"astro-ph/9408072","Leopoldo Infante","L. Infante, P Fouque, G. Hertling, M.J. Way, E. Giraud and H. Quintana","The Medium Redshift Clusters CL0017-20 and CL0500-24","19 pages, compressed uuencoded postscript file, MZ/1/94",,,,"astro-ph",,"  We present magnitudes and redshifts of galaxies in the cluster of galaxies
+CL0017-20 and in the double cluster CL0500-24. Luminosity functions and
+velocity distributions have been derived. CL0017-20 possesses a virial mass of
+$2.9 \times 10^{14}$ M$_\odot$ and a \vmag band luminosity of $2.3 \pm 0.5
+\times 10^{12}$ L$_\odot$ ($M/L_{\rm V} = 127$), much of it in a very compact
+core of size 113 kpc. Our new velocities and photometry of CL0500-24 confirm
+its double nature. Our group algorithm clearly detects two subconcentrations
+with masses 1.9 and $2.2 \times 10^{14}$ M$_{\odot}$. Its total \vmag band
+luminosity amounts to $2.7 \pm 0.8 \times 10^{12}$ L$_{\odot}$ ($M/L_{\rm V}$
+of 157). Since the crossing and collapse times in both clusters are smaller
+than the age of the Universe, they appear bound and virialized. It is
+surprising that although $M/L$ is small in these clusters, giant arcs have been
+detected in both.
+","[{""version"":""v1"",""created"":""Fri, 19 Aug 1994 16:42:07 GMT""}]","2007-05-23"
+"astro-ph/9408073","Leopoldo Infante","L. Infante","Counts and Colours of Faint Stars in 5 Fields Near the North Galactic
+  Pole","compressed uuencoded postscript file, 8 pages, accepted A&A,
+  STARS/1/94",,,,"astro-ph",,"  Faint star number counts in the photographic \jmag band and \bvcol colour
+distributions are presented for a 1.08 deg$^2$ field near the North Galactic
+Pole. Due to the excellent star/galaxy discrimination we count stars as faint
+as \jmag = 23. We compare the number counts and colour distributions in 5
+adjacent fields near SA57. The number counts and colour distributions are in
+very good agreement with previous data. However, we find that the large
+field-to-field scatter in the colour distributions, which we argue is real,
+might prevent us setting strong limits on Galactic structure. A simple two
+component standard model, Bahcall and Soneira (1984), fits the number counts
+reasonably well at the bright \jmag $< 21$, but fails notably at the faint end,
+even if a third component is added, as in Reid and Majewski (1993). The
+standard models are in good agreement with both the number counts and colour
+distribution at $20 < $\vmag$< 21$. Although the standard models bimodal shape
+of the colour distribution compares well with the data at $21 < $\vmag$< 21.5$,
+the number counts of stars are underestimated.
+","[{""version"":""v1"",""created"":""Fri, 19 Aug 1994 16:49:39 GMT""}]","2007-05-23"
+"cond-mat/9408062","Martin Gelfand","Ian Affleck, Martin P. Gelfand, and Rajiv R. P. Singh","A Plane of Weakly Coupled Heisenberg Chains: Theoretical Arguments and
+  Numerical Calculations","21 pages, 10 postscript figures, REVTEX version 3",,"10.1088/0305-4470/27/22/009",,"cond-mat",,"  The $S=1/2$, nearest-neighbor, quantum Heisenberg antiferromagnet on the
+square lattice with spatially anisotropic couplings is reconsidered, with
+particular attention to the following question: at T=0, does N\'eel
+orderdevelop at infinitesimal interchain coupling, or is there a nonzero
+critical coupling? A heuristic renormalization group argument is presented
+which suggests that previous theoretical answers to that question are incorrect
+or at least incomplete, and that the answer is not universal but rather depends
+on the microscopic details of the model under consideration. Numerical
+investigations of the nearest-neighbor model are carried out {\it via}
+zero-temperature series expansions about Ising and dimer Hamiltonians. The
+results are entirely consistent with a vanishing critical interchain coupling
+ratio $R_c$; if $R_c$ is finite, it is unlikely to substantially exceed 0.02.
+","[{""version"":""v1"",""created"":""Fri, 19 Aug 1994 18:04:47 GMT""}]","2011-01-06"
+"cond-mat/9408063","Hua Wu","Hua Wu and D. W. L. Sprung (Department of Physics and Astronomy,
+  McMaster University Hamilton, Ontario, Canada)","Ballistic transport: A view from the quantum theory of motion","14 pages, revtex, 4 postscript figures",,"10.1016/0375-9601(94)91231-9",,"cond-mat",,"  Ballistic transport of electrons through a quantum wire with a constriction
+is studied in terms of Bohm's interpretation of quantum mechanics, in which the
+concept of a particle orbit is permitted. The classical bouncing ball
+trajectories, which justify the name ``ballistic transport'', are established
+in the large wave number limit. The formation and the vital role of quantum
+vortices is investigated.
+","[{""version"":""v1"",""created"":""Fri, 19 Aug 1994 20:40:39 GMT""}]","2015-06-25"
+"dg-ga/9408004","Daniel Pollack","Rob Kusner, Rafe Mazzeo and Daniel Pollack","The Moduli Space of Complete Embedded Constant Mean Curvature Surfaces","15 pages, amsTeX",,,,"dg-ga math.DG",,"  We examine the space of surfaces in $\RR^{3}$ which are complete, properly
+embedded and have nonzero constant mean curvature. These surfaces are
+noncompact provided we exclude the case of the round sphere. We prove that the
+space $\Mk$ of all such surfaces with $k$ ends (where surfaces are identified
+if they differ by an isometry of $\RR^{3}$) is locally a real analytic variety.
+When the linearization of the quasilinear elliptic equation specifying mean
+curvature equal to one has no $L^2-$nullspace we prove that $\Mk$ is locally
+the quotient of a real analytic manifold of dimension $3k-6$ by a finite group
+(i\.e\. a real analytic orbifold), for $k\geq 3$. This finite group is the
+isotropy subgroup of the surface in the group of Euclidean motions. It is of
+interest to note that the dimension of $\Mk$ is independent of the topology of
+the underlying punctured Riemann surface to which $\Sig$ is conformally
+equivalent. These results also apply to hypersurfaces of $\HH^{n+1}$ with
+nonzero constant mean curvature greater than that of a horosphere and whose
+ends are cylindrically bounded.
+","[{""version"":""v1"",""created"":""Fri, 19 Aug 1994 21:51:33 GMT""}]","2008-02-03"
+"gr-qc/9408026",,"D.H. Coule","Canonical measure and the flatness of a FRW universe","22 pages , Latex. University of Cape Town, report 94","Class.Quant.Grav.12:455-470,1995","10.1088/0264-9381/12/2/015",,"gr-qc",,"  We consider the claim of Hawking and Page that the canonical measure applied
+to a FRW universe with a massive scalar field can solve the flatness problem
+regardless of inflation. By considering a general potential we are able to
+understand how the ambiguity for $\Omega$ found by Page in the $R^2$ theory is
+present when the potential is bounded from above. We suggests reasons why such
+potentials are realistic. The ambiguity for the possibility of inflation
+present in the Gibbons- Hawking- Stewart measure can be resolved by an input
+from Quantum cosmology. We contrast the resulting measure obtained in this way
+with those obtained in the more usual approaches to quantum cosmology. The
+measure agrees with that found from a ""classical"" signature change.
+","[{""version"":""v1"",""created"":""Fri, 19 Aug 1994 16:19:55 GMT""}]","2010-04-06"
+"gr-qc/9408027","Hitoshi Kitada","Hitoshi Kitada and Lancelot R. Fletcher","What is and What should be Time?","30 pages, LaTeX, no figures (Enlarged. To appear in ``Apeiron"" no. 2,
+  vol. 3, 1996)",,,"KIMS-1994-08-20","gr-qc",,"  The notions of time in the theories of Newton and Einstein are reviewed so
+that certain of their assumptions are clarified. These assumptions will be seen
+as the causes of the incompatibility between the two different ways of
+understanding time, and seen to be philosophical hypotheses, rather than purely
+scientific ones. The conflict between quantum mechanics and (general)
+relativity is shown to be a consequence of retaining the Newtonian conception
+of time in the context of quantum mechanics. As a remedy for this conflict, an
+alternative definition of time -- earlier presented in Kitada 1994a and 1994b
+-- is reviewed with less mathematics and more emphasis on its philosophical
+aspects. Based on this revised understanding of time it is shown that quantum
+mechanics and general relativity are reconciled while preserving the current
+mathematical formulations of both theories.
+","[{""version"":""v1"",""created"":""Sat, 20 Aug 1994 08:04:50 GMT""},{""version"":""v2"",""created"":""Thu, 10 Nov 1994 14:45:14 GMT""},{""version"":""v3"",""created"":""Thu, 31 Aug 1995 13:59:48 GMT""},{""version"":""v4"",""created"":""Sat, 16 Mar 1996 18:39:35 GMT""}]","2008-02-03"
+"hep-ph/9408326","Hilmar Forkel","Hilmar Forkel, Marina Nielsen, Xuemin Jin and Thomas D. Cohen","Stranger in the Light: The Strange Vector Form Factors of the Nucleon","36 pages, UMPP \#94--097 (six figures available by e-mail or FAX)","Phys.Rev.C50:3108-3121,1994","10.1103/PhysRevC.50.3108",,"hep-ph",,"  A model combining vector meson dominance, $\omega - \phi$ mixing and a kaon
+cloud contribution is used to estimate the strangeness vector form factors of
+the nucleon in the momentum range of the planned measurements at MIT-Bates and
+CEBAF. We compare our results with some other theoretical estimates and discuss
+the nucleon strangeness radius in models based on dynamically dressed, extended
+constituent quarks. For a quantitative estimate in the latter framework we use
+the Nambu-Jona-Lasinio model.
+","[{""version"":""v1"",""created"":""Fri, 19 Aug 1994 21:50:24 GMT""}]","2009-09-25"
+"hep-ph/9408327","Craig Roberts","Craig D. Roberts","Can an Infrared-vanishing Gluon propagator Confine Quarks?","Summary of a presentation at ``The Workshop on Quantum Infrared
+  Physics'', The American University of Paris, 6-10 June, 1994. 10 Pages. 5
+  Figures. Including additional style file and eliminating outdated LaTeX
+  commands",,,"ANL-PHY-7853-TH-94","hep-ph",,"  It is shown that the solution of the quark Dyson-Schwinger equation in QCD
+obtained with a gluon propagator of the form $D(q) \sim q^2/[q^4+b^4]$ and a
+quark-gluon vertex that is free of kinematic singularities does not describe a
+confined particle and that there is always a value of $b^2 = b^2_c$ such that
+chiral symmetry is not dynamically broken for $b^2>b_c^2$.
+","[{""version"":""v1"",""created"":""Fri, 19 Aug 1994 22:29:21 GMT""},{""version"":""v2"",""created"":""Wed, 21 Jun 2000 10:14:48 GMT""}]","2008-02-03"
+"hep-ph/9408328","Kent Hornbostel","C. T. H. Davies, K. Hornbostel, G. P. Lepage, A. Lidsey, J.
+  Shigemitsu, J. Sloan","A Precise Determination of $\alpha_s$ from Lattice QCD","11 pages (LaTeX), OHSTPY-HEP-T-94-013, FSU-SCRI-94-79 (includes minor
+  corrections in tables, additional references)","Phys.Lett. B345 (1995) 42-48","10.1016/0370-2693(94)01598-7",,"hep-ph hep-lat",,"  We present a new determination of the QCD strong coupling constant based on
+precise lattice calculations of the $\Upsilon$ spectrum. The largest systematic
+uncertainty in previous such determinations resulted from the absence of vacuum
+polarization from light quarks. We substantially reduce this error by including
+two flavors of dynamical light quarks and extrapolating to three. We find
+$\alphathree_\V(8.2~\GeV) = 0.196(3)$ for three light flavors, corresponding to
+$\alphafive_\msbar(M_Z) = 0.115(2)$. This is significantly more accurate than
+previous determinations using this or any other technique.
+","[{""version"":""v1"",""created"":""Sat, 20 Aug 1994 02:11:14 GMT""},{""version"":""v2"",""created"":""Mon, 19 Sep 1994 00:02:01 GMT""}]","2009-10-28"
+"hep-ph/9408330",,"Tiehui (Ted) Liu","The $D^0\bar{D}^0$ Mixing Search --- Current Status and Future Prospects","21 pages. Preprint HUTP-94/E021. To appear in Charm 2000 workshop
+  proceedings, use Charm2000.sty, appended after text. 6 compressed figures",,,,"hep-ph",,"  The search for $D^0\bar{D}^0$ mixing carries a large discovery potential for
+new physics since the $D^0\bar{D}^0$ mixing rate is expected to be very small
+in the Standard Model. The past decade has seen significant experimental
+progress in sensitivity, from 20\% down to 0.37\%. This paper discusses the
+techniques, current experimental status, and future prospects for the mixing
+search. Some new ideas, applicable to future mixing searches, are introduced.
+One of the new ideas is to use Singly Cabibbo Suppressed Decays (SCSD), such as
+$D^0 \to K+K-, \pi^+\pi^-$, to study mixing. A postscript version will be
+available through World-Wide-Web in http://w4.lns.cornell.edu/public/TALK/1994
+soon.
+","[{""version"":""v1"",""created"":""Sat, 20 Aug 1994 11:42:31 GMT""}]","2007-05-23"
+"hep-ph/9408336","shunzo Kumano","S. Kumano (Saga University and the ECT*)","SU(2)-Flavor-Symmetry Breaking in Nuclear Antiquark Distributions","LATEX 10 pages (Figs. 1-3 are available upon request), SAGA-HE-67-94","Phys.Lett. B342 (1995) 339-344","10.1016/0370-2693(94)01366-K",,"hep-ph nucl-th",,"  SU(2)-flavor-symmetry breaking in antiquark distributions of the nucleon was
+suggested by the New Muon Collaboration (NMC) in deep inelastic muon
+scattering. As an independent test, Drell-Yan data for the tungsten target have
+been used for examining the asymmetry. We investigate whether there exists
+significant modification of the $\bar u -\bar d$ distribution in nuclei in a
+parton recombination model. It should be noted that a finite $\bar u-\bar d$
+distribution is theoretically possible in nuclei even if the sea is $SU(2)_f$
+symmetric in the nucleon. In neutron-excess nuclei such as the tungsten, there
+exist more $d$-valence quarks than $u$-valence quarks, so that more $\bar
+d$-quarks are lost than $\bar u$-quarks are due to parton recombinations in the
+small $x$ region. Our results suggest that the nuclear modification in the
+tungsten is a 2--10 % effect on the $\bar u-\bar d$ distribution suggested by
+the NMC data. Nuclear effects on the flavor asymmetric distribution could be an
+interesting topic for future theoretical and experimental investigations.
+","[{""version"":""v1"",""created"":""Sat, 20 Aug 1994 02:36:06 GMT""}]","2009-10-28"
+"hep-th/9408111",,"W. Zippold","Hilbert Space Representation of an Algebra of Observables for q-Deformed
+  Relativistic Quantum Mechanics","13 pages, LMU-TPW 94-4","Z.Phys.C67:681-686,1995","10.1007/BF01553995",,"hep-th",,"  Using a representation of the q-deformed Lorentz algebra as differential
+operators on quantum Minkowski space, we define an algebra of observables for a
+q-deformed relativistic quantum mechanics with spin zero. We construct a
+Hilbert space representation of this algebra in which the square of the mass $
+p^2 $ is diagonal.
+","[{""version"":""v1"",""created"":""Fri, 19 Aug 1994 17:04:44 GMT""}]","2010-11-01"
+"hep-th/9408112",,"O. A. Soloviev","Conformal Invariance of Interacting WZNW Models","LaTex file, 17 pages, QMW 94-26",,,,"hep-th",,"  We consider two level $k$ WZNW models coupled to each other through a
+generalized Thirring-like current-current interaction. It is shown that in the
+large $k$ limit, this interacting system can be presented as a two-parameter
+perturbation around a nonunitary WZNW model. The perturbation operators are the
+sigma model kinetic terms with metric related to the Thirring coupling
+constants. The renormalizability of the perturbed model leads to an algebraic
+equation for couplings. This equation coincides with the master Virasoro
+equation. We find that the beta functions of the two-parameter perturbation
+have nontrivial zeros depending on the Thirring coupling constants. Thus we
+exhibit that solutions to the master equation provide nontrivial conformal
+points to the system of two interacting WZNW models.
+","[{""version"":""v1"",""created"":""Fri, 19 Aug 1994 18:21:43 GMT""}]","2007-05-23"
+"hep-th/9408113","Anatol Kirillov","Anatol N. Kirillov","Dilogarithm identities","96 pages","Prog.Theor.Phys.Suppl.118:61-142,1995","10.1143/PTPS.118.61",,"hep-th math.CA math.QA",,"  We study the dilogarithm identities from algebraic, analytic, asymptotic,
+$K$-theoretic, combinatorial and representation-theoretic points of view. We
+prove that a lot of dilogarithm identities (hypothetically all !) can be
+obtained by using the five-term relation only. Among those the Coxeter, Lewin,
+Loxton and Browkin ones are contained. Accessibility of Lewin's one variable
+and Ray's multivariable (here for $n\le 2$ only) functional equations is given.
+For odd levels the $\hat{sl_2}$ case of Kuniba-Nakanishi's dilogarithm
+conjecture is proven and additional results about remainder term are obtained.
+The connections between dilogarithm identities and
+Rogers-Ramanujan-Andrews-Gordon type partition identities via their asymptotic
+behavior are discussed. Some new results about the string functions for level
+$k$ vacuum representation of the affine Lie algebra $\hat{sl_n}$ are obtained.
+Connection between dilogarithm identities and algebraic $K$-theory (torsion in
+$K_3({\bf R})$) is discussed. Relations between crystal basis, branching
+functions $b_{\lambda}^{k\Lambda_0}(q)$ and Kostka-Foulkes polynomials
+(Lusztig's $q$-analog of weight multiplicity) are considered. The Melzer and
+Milne conjectures are proven. In some special cases we are proving that the
+branching functions $b_{\lambda}^{k\Lambda_0}(q)$ are equal to an appropriate
+limit of Kostka polynomials (the so-called Thermodynamic Bethe Ansatz limit).
+Connection between ""finite-dimensional part of crystal base"" and
+Robinson-Schensted-Knuth correspondence is considered.
+","[{""version"":""v1"",""created"":""Sat, 20 Aug 1994 06:10:21 GMT""},{""version"":""v2"",""created"":""Thu, 25 Aug 1994 07:04:49 GMT""}]","2008-11-26"

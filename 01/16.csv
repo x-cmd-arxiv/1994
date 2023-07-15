@@ -1,0 +1,80 @@
+"cond-mat/9401029","Penc","K. Penc and A. Zawadowski","Theory of Orbital Kondo Effect with Assisted Hopping in Strongly
+  Correlated Electron Systems: Parquet Equations, Superconductivity and Mass
+  Enhancement","32 pages, RevTeX 3.0, figures on request",,"10.1103/PhysRevB.50.10578",,"cond-mat",,"  Orbital Kondo effect is treated in a model, where additional to the
+conduction band there are localized orbitals close to the Fermi energy. If the
+hopping between the conduction band and the localized heavy orbitals depends on
+the occupation of the atomic orbitals in the conduction band then orbital Kondo
+correlation occurs. The noncommutative nature of the coupling required for the
+Kondo effect is formally due to the form factors associated with the assisted
+hopping which in the momentum representation depends on the momenta of the
+conduction electrons involved. The leading logarithmic vertex corrections are
+due to the local Coulomb interaction between the electrons on the heavy orbital
+and in the conduction band. The renormalized vertex functions are obtained as a
+solution of a closed set of differential equations and they show power
+behavior. The amplitude of large renormalization is determined by an infrared
+cutoff due to finite energy and dispersion of the heavy particles. The enhanced
+assisted hopping rate results in mass enhancement and attractive interaction in
+the conduction band. The superconductivity transition temperature calculated is
+largest for intermediate mass enhancement, $m^*/m \approx 2-3$. For larger mass
+enhancement the small one particle weight ($Z$) in the Green's function reduces
+the transition temperature which may be characteristic for other
+","[{""version"":""v1"",""created"":""Sat, 15 Jan 1994 18:39:30 GMT""}]","2009-10-22"
+"funct-an/9401001","Braverman Elena","L. Berezansky and E. Braverman","Boundedness and Stability of Impulsively Perturbed Delay Differential
+  Equations","13 pages, Latex-file",,,,"funct-an math.DS math.FA",,"  Suppose any solution of a linear impulsive delay differential equation
+  $$ \dot{x} (t) + \sum_{i=1}^m A_i (t) x[h_i (t)] = 0,~t \geq 0, x(s) = 0, s <
+0, $$
+  $$ x(\tau_j +0) = B_j x(\tau_j -0) + \alpha_j, ~j=1,2, ... ,$$
+  is bounded for any bounded sequence $\{ \alpha_i \}$. The conditions ensuring
+exponential stability of this equation are presented. The behavior of solutions
+of the non-homogeneous equation is analyzed.
+","[{""version"":""v1"",""created"":""Sun, 16 Jan 1994 11:39:06 GMT""}]","2016-08-31"
+"gr-qc/9401013","Carlos O. Lousto","M.Campanelli, C.O.Lousto and J.Audretsch","A Perturbative Method to solve fourth-order Gravity Field Equations","8 pages, UAB-FT-327. RevTeX","Phys.Rev. D49 (1994) 5188-5193","10.1103/PhysRevD.49.5188",,"gr-qc astro-ph hep-th",,"  We develop a method for solving the field equations of a quadratic
+gravitational theory coupled to matter. The quadratic terms are written as a
+function of the matter stress tensor and its derivatives in such a way to have,
+order by order, a set of Einstein field equations with an effective
+$T_{\mu\nu}$. We study the cosmological scenario recovering the de Sitter exact
+solution, and the first order (in the coupling constants $\alpha$ and $\beta$
+appearing in the gravitational Lagrangian) solution to the gauge cosmic string
+metric and the charged black hole. For this last solution we discuss the
+consequences on the thermodynamics of black holes, and in particular, the
+entropy - area relation which gets additional terms to the usual ${1\over4} A$
+value.
+","[{""version"":""v1"",""created"":""Sat, 15 Jan 1994 16:45:33 GMT""}]","2009-10-22"
+"hep-lat/9401016","Yannick Meurice","Y. Meurice, G. Ordaz and V.G.J. Rodgers","A Numerical Study of the Hierarchical Ising Model: High Temperature
+  Versus Epsilon Expansion","15 Pages, 12 Figures not included (hard copies available on request),
+  uses phyzzx.tex","J. Stat. Phys. 77, 607, 1994","10.1007/BF02179452","U. of Iowa 94-03","hep-lat cond-mat hep-th",,"  We study numerically the magnetic susceptibility of the hierarchical model
+with Ising spins ($\sigma =\pm 1$) above the critical temperature and for two
+values of the epsilon parameter. The integrations are performed exactly, using
+recursive methods which exploit the symmetries of the model. Lattices with up
+to $2^18$ sites have been used. Surprisingly, the numerical data can be fitted
+very well with a simple power law of the form $(1- \beta /\beta _c )^{- \gamma}
+$for the {\it whole} temperature range. The numerical values for $\gamma $
+agree within a few percent with the values calculated with a high-temperature
+expansion but show significant discrepancies with the epsilon-expansion. We
+would appreciate comments about these results.
+","[{""version"":""v1"",""created"":""Sun, 16 Jan 1994 15:54:42 GMT""}]","2009-10-22"
+"hep-ph/9401264","Paolo Gambino","M. Anselmino, P. Gambino, and J. Kalinowski","Polarized deep inelastic scattering at high energies and parity
+  violating structure functions","(slightly modified version, includes a few new references and
+  corrects few misprints for publication), 14 pages in TeX (needs harvmac) no
+  figure, DFTT 80/93","Z.Phys. C64 (1994) 267-274","10.1007/BF01557397",,"hep-ph",,"  A comprehensive analysis of deep inelastic scattering of polarized charged
+leptons on polarized nucleons is presented; weak interaction contributions,
+both in neutral and charged current processes, are taken into account and the
+parity violating polarized nucleon structure functions are studied. Possible
+ways of their measurements and their interpretations in the parton model are
+discussed.
+","[{""version"":""v1"",""created"":""Sat, 15 Jan 1994 20:16:53 GMT""},{""version"":""v2"",""created"":""Mon, 16 May 1994 16:39:10 GMT""}]","2009-10-28"
+"hep-th/9401070","John Uglum","L. Susskind and J. Uglum","Black Hole Entropy in Canonical Quantum Gravity and Superstring Theory","30 pages (including figures). (Replaced with version to appear in
+  Physical Review D. Incorrect hep-th number fixed.) SU-ITP-94-1","Phys.Rev.D50:2700-2711,1994","10.1103/PhysRevD.50.2700",,"hep-th gr-qc",,"  In this paper the entropy of an eternal Schwarzschild black hole is studied
+in the limit of infinite black hole mass. The problem is addressed from the
+point of view of both canonical quantum gravity and superstring theory. The
+entropy per unit area of a free scalar field propagating in a fixed black hole
+background is shown to be quadratically divergent near the horizon. It is shown
+that such quantum corrections to the entropy per unit area are equivalent to
+the quantum corrections to the gravitational coupling. Unlike field theory,
+superstring theory provides a set of identifiable configurations which give
+rise to the classical contribution to the entropy per unit area. These
+configurations can be understood as open superstrings with both ends attached
+to the horizon. The entropy per unit area is shown to be finite to all orders
+in superstring perturbation theory. The importance of these conclusions to the
+resolution of the problem of black hole information loss is reiterated.
+","[{""version"":""v1"",""created"":""Sat, 15 Jan 1994 21:16:01 GMT""},{""version"":""v2"",""created"":""Thu, 20 Jan 1994 00:41:36 GMT""},{""version"":""v3"",""created"":""Thu, 14 Jul 1994 23:10:10 GMT""}]","2009-10-07"

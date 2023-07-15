@@ -1,0 +1,319 @@
+"astro-ph/9401034",,"J. Chiang and R. W. Romani","An Outer Gap Model of High-Energy Emission from Rotation-Powered Pulsars","13 pages, LaTeX, for figures send request to chiang@cita.utoronto.ca",,"10.1086/174949",,"astro-ph",,"  We describe a refined calculation of high energy emission from
+rotation-powered pulsars based on the Outer Gap model of Cheng, Ho \&~Ruderman
+(1986a,b). We have improved upon previous efforts to model the spectra from
+these pulsars (e. g. Cheng, et al. 1986b; Ho 1989) by following the variation
+in particle production and radiation properties with position in the outer gap.
+Curvature, synchrotron and inverse-Compton scattering fluxes vary significantly
+over the gap and their interactions {\it via} photon-photon pair production
+build up the radiating charge populations at varying rates. We have also
+incorporated an approximate treatment of the transport of particle and photon
+fluxes between gap emission zones. These effects, along with improved
+computations of the particle and photon distributions, provide very important
+modifications of the model gamma-ray flux. In particular, we attempt to make
+specific predictions of pulse profile shapes and spectral variations as a
+function of pulse phase and suggest further extensions to the model which may
+provide accurate computations of the observed high energy emissions.
+","[{""version"":""v1"",""created"":""Tue, 18 Jan 1994 21:44:03 GMT""}]","2009-10-22"
+"chao-dyn/9401005",,"Detlef Lohse (The James Franck Institute, 5640 South Ellis Avenue,
+  Chicago, IL 60637)","Crossover from high to low Reynolds number turbulence","7 pages, 3 figures (available on request), file in Latex","Phys. Rev. Lett. 73, 3223 (1994)","10.1103/PhysRevLett.73.3223","Preprint 1994-1, Chicago","chao-dyn nlin.CD",,"  The Taylor-Reynolds and Reynolds number ($Re_\lambda$ and $Re$) dependence of
+the dimensionless energy dissipation rate $\ceps =\eps L / \u1rms^3$ is derived
+for statistically stationary isotropic turbulence, employing the results of a
+variable range mean field theory. Here, $\eps$ is the energy dissipation rate,
+$L$ is the (fixed) outer length scale, and $\u1rms$ a rms velocity component.
+Our fit-parameter free results for $\ceps (Re_\lambda)$ and also for
+$Re_\lambda (Re)$ are in good agreement with experimental data. Using the
+$Re$-dependence of $\ceps$ we account for the time dependence of the mean
+vorticity $\omega (t)$ for decaying isotropic turbulence, which was recently
+experimentally examined [M.\ Smith, R.\ J.\ Donelly, N.\ Goldenfeld, and W.\
+F.\ Vinen, Phys.\ Rev.\ Lett.\ 71, 2583 (1993)]. The lifetime of decaying
+turbulence, depending on the initial $Re_{\lambda ,0}$, is predicted and found
+to saturate at $0.18 L^2/\nu \propto Re_{\lambda ,0}^2$ ($\nu$ is the
+viscosity) for large $Re_{\lambda ,0}$.
+","[{""version"":""v1"",""created"":""Tue, 18 Jan 1994 23:39:31 GMT""}]","2009-10-22"
+"chao-dyn/9401006","Gennady Berman","Alexander G. Ramm (Dept of Mathematics, Kansas State University) and
+  Gennady P. Berman (Center for Nonlinear Studies, LANL; and Kirensky Institute
+  of Physics, Krasnoyarsk State University, Russia)","Stability Estimate in Scattering Theory and Its Application to
+  Mesoscopic Systems and Quantum Chaos","LaTeX",,"10.1088/0305-4470/27/18/024","LA-UR 93-4337","chao-dyn nlin.CD",,"  We consider scattering of a free quantum particle on a singular potential
+with rather arbitrary shape of the support of the potential. In the classical
+limit $\hbar=0$ this problem reduces to the well known problem of chaotic
+scattering. The universal estimates for the stability of the scattering
+amplitudes are derived. The application of the obtained results to the
+mesoscopic systems and quantum chaos are discussed. We also discuss a
+possibility of experimental verification of the obtained results.
+","[{""version"":""v1"",""created"":""Wed, 19 Jan 1994 14:41:53 GMT""}]","2009-10-22"
+"cond-mat/9401035","Gennadi V. Uimin","Gennadi Uimin","Concerning Order and Disorder in the Ensemble of Cu-O Chain Fragments in
+  Oxygen Deficient Planes of Y-Ba-Cu-O","Revtex, 27 pages, 14 PostScript figures upon request, ITP/GU/94/01",,"10.1103/PhysRevB.50.9531",,"cond-mat",,"  In connection with numerous X-ray and neutron investigations of some high
+temperature superconductors (YBa$_2$Cu$_3$O$_{6+x}$ and related compounds) a
+non-trivial part of the structure factor, coming from partly disordered
+Cu-O-$\dots$-O-Cu chain fragments, situated within basal planes, CuO$_x$, can
+be a subject of theoretical interest. Closely connected to such a diffusive
+part of the structure factor are the correlation lengths, which are also
+available in neutron and X-ray diffraction studies and depend on a degree of
+oxygen disorder in a basal plane. The quantitative measure of such a disorder
+can be associated with temperature of a sample anneal, $T_q$, at which oxygen
+in a basal plane remains frozen-in high temperature equilibrium after a fast
+quench of a sample to room or lower temperature. The structure factor evolution
+with $x$ is vizualized in figures after the numerical calculations. The
+theoretical approach employed in the paper has been developed for the
+orthorhombic state of YBCO.
+","[{""version"":""v1"",""created"":""Tue, 18 Jan 1994 16:39:41 GMT""}]","2009-10-22"
+"cond-mat/9401036","Dean Petrich","Dean M. Petrich and Raymond E. Goldstein (Princeton University)","A Nonlocal Contour Dynamics Model for Chemical Front Motion","11 pages, revtex, 4 figures available from authors",,"10.1103/PhysRevLett.72.1120",,"cond-mat nlin.PS patt-sol",,"  Pattern formation exhibited by a two-dimensional reaction-diffusion system in
+the fast inhibitor limit is considered from the point of view of interface
+motion. A dissipative nonlocal equation of motion for the boundary between high
+and low concentrations of the slow species is derived heuristically. Under
+these dynamics, a compact domain of high concentration may develop into a
+space-filling labyrinthine structure in which nearby fronts repel. Similar
+patterns have been observed recently by Lee, McCormick, Ouyang, and Swinney in
+a reacting chemical system.
+","[{""version"":""v1"",""created"":""Tue, 18 Jan 1994 18:15:28 GMT""}]","2009-10-22"
+"cond-mat/9401037",,"Hua Chen and Daniel Mattis (Department of Physics, University of Utah
+  Salt Lake City, Utah, USA)","Coulomb Correlations and Instability of Spinless Fermion Gas in 1D and
+  2D","11 Latex pages + 3 PostScript figures (spin0_1D.PS, spin0_2D.PS,
+  spin0_PH.PS)",,"10.1142/S0217984994000996",,"cond-mat",,"  We study the stability of the ordinary Landau Fermi liquid phase for
+interacting, spinless electrons. We require causality and demand that the Pauli
+principle be obeyed. We find a phase diagram determined by two parameters: the
+particle density and the interaction strength. We find that the homogeneous,
+constant density Fermi liquid phase of a spinless Fermion gas is {\em never}
+stable in 1D, but that it may have a restricted domain of stability in 2D.
+","[{""version"":""v1"",""created"":""Wed, 19 Jan 1994 09:48:12 GMT""}]","2015-06-25"
+"cond-mat/9401038",,"Frederic Piechon and Anuradha Jagannathan","Energy level statistics of electrons in a 2D quasicrystal","9 pages including references and figure captions, 6 figures available
+  upon request, LATEX, report-number els1",,"10.1103/PhysRevB.51.179",,"cond-mat",,"  A numerical study is made of the spectra of a tight-binding hamiltonian on
+square approximants of the quasiperiodic octagonal tiling. Tilings may be pure
+or random, with different degrees of phason disorder considered. The level
+statistics for the randomized tilings follow the predictions of random matrix
+theory, while for the perfect tilings a new type of level statistics is found.
+In this case, the first-, second- level spacing distributions are well
+described by lognormal laws with power law tails for large spacing. In
+addition, level spacing properties being related to properties of the density
+of states, the latter quantity is studied and the multifractal character of the
+spectral measure is exhibited.
+","[{""version"":""v1"",""created"":""Wed, 19 Jan 1994 10:05:27 GMT""}]","2009-10-22"
+"funct-an/9401002","Roberto Longo","R. Brunetti, D. Guido, R. Longo","Group Cohomology, Modular Theory and Space-time Symmetries","18 pages, plain TeX, preprint Roma Tor vergata n. 20 dec. 93","Reviews Math. Phys. 7 (1995), 57-71","10.1142/S0129055X95000050",,"funct-an math.OA",,"  The Bisognano-Wichmann property on the geometric behavior of the modular
+group of the von Neumann algebras of local observables associated to wedge
+regions in Quantum Field Theory is shown to provide an intrinsic sufficient
+criterion for the existence of a covariant action of the (universal covering
+of) the Poincar\'e group. In particular this gives, together with our previous
+results, an intrinsic characterization of positive-energy conformal
+pre-cosheaves of von Neumann algebras. To this end we adapt to our use Moore
+theory of central extensions of locally compact groups by polish groups,
+selecting and making an analysis of a wider class of extensions with natural
+measurable properties and showing henceforth that the universal covering of the
+Poincar\'e group has only trivial central extensions (vanishing of the first
+and second order cohomology) within our class.
+","[{""version"":""v1"",""created"":""Tue, 18 Jan 1994 18:21:00 GMT""}]","2008-02-03"
+"gr-qc/9401018","Neil Cornish","N. J. Cornish and J. W. Moffat","Nonsymmetric Gravity Does Have Acceptable Global Asymptotics","7 pages, UT-PT-94-01. Our original arguments have been expanded upon
+  and generalised",,,,"gr-qc",,"  ``Reports of my death are greatly exaggerated''
+  - Mark Twain. We consider the claim by Damour, Deser and McCarthy that
+nonsymmetric gravity theory has unacceptable global asymptotics. We explain why
+this claim is incorrect.
+","[{""version"":""v1"",""created"":""Tue, 18 Jan 1994 23:26:35 GMT""},{""version"":""v2"",""created"":""Wed, 23 Mar 1994 23:41:28 GMT""}]","2008-02-03"
+"gr-qc/9401019","Othmar Brodbeck","O. Brodbeck and N. Straumann","Instability of Einstein-Yang-Mills Solitons for Arbitrary Gauge Groups","11 pages, Latex, ZU-TH 4\94","Phys.Lett.B324:309-314,1994","10.1016/0370-2693(94)90199-6",,"gr-qc",,"  We prove that static, spherically symmetric, asymptotically flat, regular
+solutions of the Einstein-Yang-Mills equations are unstable for arbitrary gauge
+groups. The proof involves the following main steps. First, we show that the
+frequency spectrum of a class of radial perturbations is determined by a
+coupled system of radial ""Schroedinger equations"". Eigenstates with negative
+eigenvalues correspond to exponentially growing modes. Using the variational
+principle for the ground state it is then proven that there always exist
+unstable modes (at least for ""generic"" solitons). This conclusion is reached
+without explicit knowledge of the possible equilibrium solutions.
+","[{""version"":""v1"",""created"":""Wed, 19 Jan 1994 12:16:42 GMT""}]","2010-11-01"
+"gr-qc/9401020",,"Harald F. Muller and Christoph Schmid","Energy Fluctuations Generated by Inflation","14 pages, no figures, AMS TeX, ETH--TH/93--15",,,,"gr-qc",,"  The energy density correlation function $C(x,y)=<\rho(x)\rho(y)>-<\rho>^2$
+and its Fourier transform generated by the gravitational tidal forces of the
+inflationary de Sitter expansion are derived for a massless or light ($m<<H$)
+neutral scalar field $\Phi$ without self--interactions, minimally coupled to
+gravity. The field has no classical background component, $<\Phi>=0$. Every
+observationally relevant mode (which has today $\lambda_{phys}<H_0^{-1}$) had
+at early times $R/k_{phys}^2\to0$, and is taken to be initially in the
+Minkowski vacuum state. Our computation of $C(x,y)$, which involves four field
+operators, is finite and unambiguous at each step, since we use the following
+two tools: (1) We use a normal ordered energy density operator N$[\rho]$ and
+show that any normal ordering N gives the same finite result. (2) Since
+$C(x,y)$ has the universal $|x-y|^{-8}$ short--distance behaviour, the Fourier
+transform can only be performed after smearing the energy density operator in
+space and time with a smearing scale $\tau$. The resulting energy density
+fluctuations are non--Gaussian, but obey a $\chi^2$--distribution. The power
+spectrum $\dk$ involves a smearing scale $\tau$, and we choose $\tau=k^{-1}$.
+For massless scalars we obtain $k^3\dk\sim H^4k^4$ on super--horizon scales
+$k<H$. For light scalars with masses $m\ll H$ a plateau appears on the largest
+scales $k<\sqrt{m^3/H}$, the result is $k^3\dk\sim m^6H^2(k/H)^{4m^2/3H^2}$. On
+sub--horizon scales $k>H$ we have the universal law $k^3\dk\sim k^8$.
+","[{""version"":""v1"",""created"":""Wed, 19 Jan 1994 14:26:00 GMT""}]","2007-05-23"
+"hep-lat/9401019","Julius Kuti","Chuan Liu, Karl Jansen, and Julius Kuti","A Heavy Higgs Particle in the TeV Mass Range ?","3 pages, UCSD/PTH 93-39 preprint, paper presented at Lattice 93,
+  Postscript file","Nucl.Phys.Proc.Suppl. 34 (1994) 635-637","10.1016/0920-5632(94)90468-5",,"hep-lat",,"  The first simulation results are presented on Higgs mass calculations in the
+spontaneously broken phase of the Higgs sector in the minimal Standard Model
+with higher derivative regulator. A heavy Higgs particle is found in the TeV
+mass range in the presence of a complex conjugate ghost pair at higher
+energies. The ghost pair evades easy experimental detection and a
+nonperturbative reinterpretation of the triviality Higgs mass bound becomes
+necessary.
+","[{""version"":""v1"",""created"":""Tue, 18 Jan 1994 17:40:44 GMT""}]","2009-10-22"
+"hep-lat/9401020","Don Weingarten","H. Chen, J. Sexton, A. Vaccarino and D. Weingarten","The scalar and tensor glueballs in the valence approximation","(talk presented by A. Vaccarino at Lattice 93) 3 pages of PostScript
+  in uufiles compressed form. IBM-HET-94-1","Nucl.Phys.Proc.Suppl. 34 (1994) 357-359","10.1016/0920-5632(94)90389-1",,"hep-lat",,"  We evaluate the infinite volume, continuum limit of $0^{++}$ and $2^{++}$
+glueball masses in the valence approximation. We find $m_{0^{++}} = 1740 \pm 71
+$~MeV and $m_{2^{++}} = 2359 \pm 128 $~MeV, consistent with the interpretation
+of $f_0 ( 1710 )$ as the lightest scalar glueball.
+","[{""version"":""v1"",""created"":""Wed, 19 Jan 1994 02:31:29 GMT""}]","2009-10-22"
+"hep-lat/9401021","Don Weingarten","D. Weingarten","QCD Spectroscopy","Plenary talk at Lattice 93, 18 pages of PostScript","Nucl.Phys.Proc.Suppl. 34 (1994) 29-46","10.1016/0920-5632(94)90318-2","IBM-HET-94-2","hep-lat",,"  I review recent work on the calculation of hadron masses, decay constants and
+wave functions.
+","[{""version"":""v1"",""created"":""Wed, 19 Jan 1994 02:38:23 GMT""}]","2009-10-22"
+"hep-lat/9401022",,"J. Ambjorn, P. Bialas, J. Jurkiewicz, Z. Burda, B. Petersson","Effective Sampling of Random Surfaces by Baby Universe Surgery","16 pages, ps-file","Phys.Lett. B325 (1994) 337-346","10.1016/0370-2693(94)90022-1","NBI-HE-93-77","hep-lat hep-th",,"  We propose a new, very efficient algorithm for sampling of random surfaces in
+the Monte Carlo simulations, based on so-called baby universe surgery, i.e.
+cutting and pasting of baby universes. It drastically reduces slowing down as
+compared to the standard local flip algorithm, thereby allowing simulations of
+large random surfaces coupled to matter fields. As an example we investigate
+the efficiency of the algorithm for 2d simplicial gravity interacting with a
+one-component free scalar field. The radius of gyration is the slowest mode in
+the standard local flip/shift algorithm. The use of baby universe surgery
+decreases the autocorrelation time by three order of magnitude for a random
+surface of $0.5 \cdot 10^5$ triangles, where it is found to be $\tau_{int} =
+150 \pm 31$ sweeps.
+","[{""version"":""v1"",""created"":""Wed, 19 Jan 1994 11:21:52 GMT""}]","2009-10-22"
+"hep-lat/9401023","Clive Baillie","C.F. Baillie, K.A. Hawick and D.A. Johnston","Quenching 2D Quantum Gravity","8 pages","Phys.Lett. B328 (1994) 284-290","10.1016/0370-2693(94)91481-8","COLO-HEP-334; LPTHE-Orsay-94-07; SCCS-593","hep-lat",,"  We simulate the Ising model on a set of fixed random $\phi^3$ graphs, which
+corresponds to a {\it quenched} coupling to 2D gravity rather than the annealed
+coupling that is usually considered. We investigate the critical exponents in
+such a quenched ensemble and compare them with measurements on dynamical
+$\phi^3$ graphs, flat lattices and a single fixed $\phi^3$ graph.
+","[{""version"":""v1"",""created"":""Wed, 19 Jan 1994 15:58:44 GMT""}]","2009-10-22"
+"hep-ph/9401278","Ariel R. Zhitnitsky","A.Zhitnitsky","The Nonperturbative Wave Functions, Transverse Momentum Distribution and
+  QCD Vacuum Structure","14pages, Cut down to meet Phys. Lett. space requirement and some
+  additional references included","Phys.Lett. B329 (1994) 493-504","10.1016/0370-2693(94)91095-2","SMU-HEP-93-25","hep-ph",,"  It is shown that there is one-to-one correspondence between two, apparently
+different problems: \\ 1. The determination of the meanvalues of transverse
+moments $\la \vec{k}_{\perp}^{2n} \ra $ for the nonperturbative pion wave
+function $\psi(\k, x)$ and \\ 2. The evaluation of the mixed vacuum condensates
+$ \la \bar{q}G_{\mu\nu}^n q\ra $. eneral properties of the theory. We define
+and model $\psi(\k, x)$, satisfying all these constraints.
+","[{""version"":""v1"",""created"":""Wed, 19 Jan 1994 01:54:46 GMT""},{""version"":""v2"",""created"":""Fri, 4 Mar 1994 18:13:19 GMT""}]","2009-10-28"
+"hep-ph/9401279","J. J. de Swart","J.J. de Swart, Th.A. Rijken, and R.Timmermans","pbarp partial wave analysis and NbarN potentials","20 pages latex and 4 fig in ps, Nijmegen report THEF-NYM-94.01","Phys.Atom.Nucl.57:1547-1556,1994; Yad.Fiz.57N9:1621-1629,1994",,,"hep-ph nucl-th",,"  Invited talk given at the NAN '93 Conference in Moscow, Russia, sept 1993. A
+review is given of the different ways to describe pbarp scattering. Next the
+Nijmegen partial wave analyses of the pbarp data as well as the corresponding
+Nijmegen NbarN database are discussed. These partial wave analyses are finally
+used as a tool to construct a better NbarN potential model and also to clarify
+questions raised in the literature.
+","[{""version"":""v1"",""created"":""Wed, 19 Jan 1994 02:27:38 GMT""}]","2011-04-15"
+"hep-ph/9401281","Matts Sporre","T.H. Hansson, M. Sporre, I. Zahed","Baryonic and Gluonic Correlators in Hot QCD","20 pages, USITP-94-1 (SUNY-NTG-93-12)","Nucl.Phys.B427:545-560,1994","10.1016/0550-3213(94)90639-4",,"hep-ph",,"  We extend our earlier work on static color singlet correlators in high T QCD
+(DeTar correlators) to baryonic and gluonic sources, and estimate the
+corresponding screening masses using the dimensionally reduced theory. We
+discuss spin and polarization dependence of meson and baryon masses in the $T
+\rightarrow \infty$ limit, and possible nonperturbative effects at
+non-asymptotic temperatures.
+","[{""version"":""v1"",""created"":""Wed, 19 Jan 1994 08:46:54 GMT""}]","2010-11-01"
+"hep-ph/9401282",,"R.F. Alvarez-Estrada, A. Dobado and A. Gomez Nicola (Departamento
+  Fisica Teorica U.C.M., Madrid, Spain)","One loop calculations on the Wess-Zumino-Witten anomalous functional at
+  finite temperature","Latex, 13 pages and 3 figures avalaible upon request","Phys.Lett. B324 (1994) 345-350","10.1016/0370-2693(94)90204-6","FT/UCM/15/93","hep-ph",,"  We analyze the finite temperature (T) extension of the Wess-Zumino- Witten
+functional, discussed in a previous work, to one loop in chiral perturbation
+theory. As a phenomenological application, we calculate finite temperature
+corrections to the amplitude of the $\pi^0$ decay into two photons. This
+calculation is performed in three limits : i)$T/M_{\pi}<<1$, ii)the chiral
+limit at finite T and iii)$T/M_{\pi}>>1$ ($M_{\pi}$ being the pion mass). The
+$T$-corrections tend to vanish in the chiral limit, where only the kaon
+contribution remains (although it is exponentially suppressed).
+","[{""version"":""v1"",""created"":""Wed, 19 Jan 1994 11:14:21 GMT""}]","2009-10-28"
+"hep-ph/9401283","Thomas Teubner","A.H. Hoang, M. Je\.zabek, J.H. K\""uhn and T. Teubner","Hadron Radiation in Leptonic $Z$ Decays","7 pages, LaTex (uses epsf.sty, 2 figures appended as uuencoded eps
+  files). Errors of some numerical values corrected. Conclusions are not
+  affected by these modifications","Phys.Lett.B325:495-499,1994; ERRATUM-ibid.B327:439,1994","10.1016/0370-2693(94)90045-0",,"hep-ph",,"  The rate for the final state radiation of hadrons in leptonic $Z$ decays is
+evaluated, using as input experimental data for $\sigma (e^+e^-\to hadrons)$ in
+the low energy region. Configurations with a lepton pair of large and a
+hadronic state of low invariant mass are dominant. A relative rate
+$\Gamma_{l\bar l had}/\Gamma_{l\bar l}=6.3\times 10^{-4}$ is calculated. This
+result is about twice the prediction based on a parton model calculation with a
+quark mass of $300$ MeV. The rate for secondary production of heavy quarks is
+calculated in the same formalism.
+","[{""version"":""v1"",""created"":""Wed, 19 Jan 1994 12:25:00 GMT""},{""version"":""v2"",""created"":""Fri, 8 Apr 1994 18:28:16 GMT""}]","2010-11-01"
+"hep-ph/9401284","Volker Koch","Volker Koch","On the temperature dependence of correlation functions in the space like
+  direction in hot QCD","15 pages 8 figures (not included, will be sent on request),
+  (SUNY-NTG-94-3)","Phys.Rev.D49:6063-6071,1994","10.1103/PhysRevD.49.6063",,"hep-ph hep-lat",,"  We study the temperature dependence of quark antiquark correlations in the
+space like direction. In particular, we predict the temperature dependence of
+space like Bethe-Salpeter amplitudes using recent Lattice gauge data for the
+space like string potential. We also investigate the effect of the space like
+string potential on the screening mass and discuss possible corrections which
+may arise when working with point sources.
+","[{""version"":""v1"",""created"":""Wed, 19 Jan 1994 14:54:47 GMT""}]","2010-11-01"
+"hep-ph/9401285",,"E.-M.Ilgenfritz and E. V. Shuryak","Quark-Induced Correlations between Instantons Drive the Chiral Phase
+  Transition",,"Phys.Lett. B325 (1994) 263-266","10.1016/0370-2693(94)90007-8",,"hep-ph hep-lat",,"  A simple model for the instanton ensemble at finite temperature T is
+proposed, including ``random"" and strongly correlated ``molecular"" component.
+  T-dependence of fermionic zero modes naturally leads to chiral symmetry
+restoration, without instanton suppression. Moreover, at $T=(1-2) T_c$ the
+non-perturbative effects due to ``molecules"" are so strong, that they even
+dominate the global thermodynamics. % two figures are enclosed as .ps files
+","[{""version"":""v1"",""created"":""Wed, 19 Jan 1994 15:31:06 GMT""}]","2009-10-28"
+"hep-ph/9401286","Rudolf Baier","O.K.Kalashnikov","The Nonperturbative Equation for the Infrared \Pi_{44}(0) - Limit in the
+  Temporal Axial Gauge","8 pages, typeset using Latex, BI-TP 93/77",,,,"hep-ph",,"  The nonperturbative equation for the infrared $\Pi_{44}(0)$-limit is built by
+using the Slavnov-Taylor identity to define the three-gluon vertex function in
+the temporal axial gauge. We found that all vertex corrections should be taken
+into account along with the standard ring graphs to keep the gauge covariance
+throughout calculations and to give correctly the nonperturbative $g^3$-term.
+This term is explicitly calculated and compared with the previously known
+results.
+","[{""version"":""v1"",""created"":""Wed, 19 Jan 1994 15:32:37 GMT""}]","2007-05-23"
+"hep-ph/9401292",,"A.V.Batunin and S.M.Sergeev","Transfer matrix method and intermittency generating dynamics","13 pages, report IHEP 93-108","Phys.Lett. B327 (1994) 293-300","10.1016/0370-2693(94)90731-5",,"hep-ph",,"  A transfer matrix method relating the process of refinement of a fractal
+measure to thermodynamic formalism of an appropriate Ising model is applied to
+the analysis of intermittency in hadron collisions revealing that underlying
+dynamics is that of period doublings.
+","[{""version"":""v1"",""created"":""Wed, 19 Jan 1994 12:42:44 GMT""}]","2009-10-28"
+"hep-th/9401085","M. Pflaum","Markus J. Pflaum","Quantum Groups on Fibre Bundles","50 pages","Commun.Math.Phys.166:279-316,1994","10.1007/BF02112317",,"hep-th math.QA",,"  It is shown that the principle of locality and noncommutative geometry can be
+connnected by a sheaf theoretical method. In this framework quantum spaces are
+introduced and examples in mathematical physics are given. With the language of
+quantum spaces noncommutative principal and vector bundles are defined and
+their properties are studied. Important constructions in the classical theory
+of principal fibre bundles like associated bundles and differential calculi are
+carried over to the quantum case. At the end $q$-deformed instanton models are
+introduced for every integral index.
+","[{""version"":""v1"",""created"":""Wed, 19 Jan 1994 09:27:37 GMT""}]","2008-11-26"
+"hep-th/9401086",,"M. Cavicchi","A Bilocal Field Approach to the Large-N Expansion of Two-Dimensional
+  (Gauge) Theories","36 pages + 7 uuencoded postcript figures, Latex, Preprint DFUB-93-17","Int.J.Mod.Phys. A10 (1995) 167-198","10.1142/S0217751X95000097",,"hep-th",,"  We consider a wide class of two-dimensional models as gauge theories,
+Gross-Neveu model, $O(N)$ and $CP^{N-1}$-like models using a formalism based on
+the introduction of bilocal fields that permits to perform easily the large-N
+expansion of this set of models in a unified and general way. We mainly discuss
+the $SU(N)$ gauge field theory minimally coupled to fermionic plus bosonic
+matter in the fundamental representation, and we obtain within the path
+integral approach exact equations for the particle spectrum, also in presence
+of renormalizable polynomial potentials. Finally, we discuss the correspondence
+between this new approach and the one previously used in the context of the
+$O(N)$ vector models.
+","[{""version"":""v1"",""created"":""Wed, 19 Jan 1994 15:22:27 GMT""}]","2015-06-26"
+"hep-th/9401087",,"Phung Ho Hai (Munich Univ.)","Poincar\'{e} series of quantum matrix bialgebras determined by a pair of
+  quantum spaces","12 pages",,,"LMU-TPW 93-28","hep-th math.QA",,"  The dimension of the third homogeneous component of a matrix quantum
+bialgebra, determined by pair of quantum spaces, is calculated. The
+Poincar\'{e} series of some deformations of $GL(n)$ is calculated. A new
+deformation of $GL(3)$ with the correct dimension is given.
+","[{""version"":""v1"",""created"":""Wed, 19 Jan 1994 15:18:26 GMT""},{""version"":""v2"",""created"":""Fri, 3 Jun 1994 16:52:16 GMT""}]","2008-02-03"
+"hep-th/9401088","Andrei Dubikovsky","A. Dubikovsky and K. Sveshnikov","Spin Content of the Quantum Soliton","10 pages, Standard LaTeX","Phys.Lett. B321 (1994) 80-87","10.1016/0370-2693(94)90330-1","Moscow preprint ITMP-PRE/93-23, October, 1993","hep-th",,"  The classical soliton solution, quantized by means of suitable translational
+and rotational collective coordinates, is embedded into the one-particle
+irreductible representation of the Poincare group corresponding to a definite
+spin. It is shown, that within the conventional quasiclassical expansion such
+embedding leads to a set of nontrivial consistency conditions imposed on the
+classical solution. The validity of these relations is considered for a number
+of soliton models in 2+1- and 3+1-dimensions.
+","[{""version"":""v1"",""created"":""Wed, 19 Jan 1994 08:56:43 GMT""}]","2009-10-28"
+"hep-th/9401089","Andrei Dubikovsky","A. Dubikovsky and K. Sveshnikov","Decoupling of Translational and Rotational Modes for a Quantum Soliton","13 pages, Standard LaTeX","Phys. Lett. B317 (1993) 381",,"Moscow preprint ITMP-PRE/93-17, June, 1993","hep-th",,"  A set of integral relations for rotational and translational zero modes in
+the vicinity of the soliton solution are derived from the particle-like
+properties of the latter and verified for a number of models (solitons in
+1+1-dimensions, skyrmeons in 2+1- and 3+1-dimensions, non-abelian monopoles).
+It is shown, that by consistent quantization within the framework of collective
+coordinates these relations ensure the correct diagonal expressions for the
+kinetic and centrifugal terms in the Hamiltonian in the lowest orders of the
+perturbation expansion. The connection between these properties and virial
+relations is also determined.
+","[{""version"":""v1"",""created"":""Wed, 19 Jan 1994 08:48:02 GMT""}]","2007-05-23"
+"nucl-th/9401014",,"Lothar Tiator","Meson Photo- and Electroproduction","40 pages, 22 figures (available from the author) Lecture notes given
+  at the II TAPS workshop, Alicante 1993 Mainz preprint MKPH-T-93-16",,,,"nucl-th",,"  Photo- and electroproduction of pions and eta-mesons is studied on the
+nucleon. The formalism of such reactions is presented including polarization
+degrees of freedom and theoretical approaches are discussed. In particular, the
+threshold and $\Delta$-resonance region of pion photoproduction is considered
+and recent developments on low energy theorems (LET) and the E2/C2 quadrupole
+excitation of the $\Delta$ are presented. For eta photoproduction we show our
+calculations for the threshold region of the new Mainz experiment and
+demonstrate the sensitivity of this reaction to the elementary $\eta NN$
+coupling and the resonance parameters of the $S_{11}(1535)$. In nuclear
+applications we point out the importance and advantage of light nuclei as $d$,
+$^3H$, $^3He$ and $^4He$ for the isospin structure of the reactions as well as
+for medium effects of the nucleon resonances.
+","[{""version"":""v1"",""created"":""Wed, 19 Jan 1994 15:04:11 GMT""}]","2007-05-23"
+"nucl-th/9401015","Pomorski Krzysztof","B. Nerlo-Pomorska and K. Pomorski (The Maria Curie-Sklodowska
+  University, Lublin, Poland)","Simple Formula for Nuclear Charge Radius","The paper contains 7 pages in LateX and 6 figures (available upon
+  request) in postscript. Email: pomorski@golem.umcs.lublin.pl",,"10.1007/BF01291913",,"nucl-th",,"  A new formula for the nuclear charge radius is proposed, dependent on the
+mass number (A) and neutron excess (N-Z) in the nucleus. It is simple and it
+reproduces all the experimentally available mean square radii and their
+isotopic shifts of even--even nuclei much better than other frequently used
+relations.
+","[{""version"":""v1"",""created"":""Wed, 19 Jan 1994 14:33:42 GMT""}]","2015-06-26"

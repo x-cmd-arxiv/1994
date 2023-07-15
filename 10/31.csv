@@ -1,0 +1,267 @@
+"alg-geom/9410030","Oleg Viro","Oleg Viro","Self-linking number of a real algebraic link","7 pages, AMS-LaTeX with 6 pictures in the format of *.EPS files",,,,"alg-geom math.AG",,"  For a nonsingular real algebraic curve in the 3-dimensional projective space
+and sphere a new numeric characteristic is introduced. It takes integer values,
+is invariant under rigid isotopy, multiplied by -1 under mirror reflection. In
+a sense it is a Vassiliev invariant of degree 1 and a counter-part of a link
+diagram writhe.
+","[{""version"":""v1"",""created"":""Sun, 30 Oct 1994 20:55:15 GMT""}]","2008-02-03"
+"astro-ph/9410096","Hyung Mok Lee","Hyung Mok Lee and Jeremy Goodman","Influence of the Stellar Mass Function on the Evaporation Rate of
+  Tidally Limited Postcollapse Globular Clusters","17 pages, uuencoded compressed postscript including 7 figures; to
+  appear in ApJ part 1",,,,"astro-ph",,"  We study the rate of escape of stars (``evaporation'') from tidally-limited
+postcollapse globular clusters having a power-law distribution of stellar
+masses. We use a multi-mass Fokker-Planck code and assume a steady tidal field.
+Stellar-dynamical processes cause the inner parts of the cluster to expand,
+which in turn causes stars to overflow the tidal boundary. Mass loss by stellar
+evolution is assumed to be unimportant in these later evolutionary stages. The
+fraction of the cluster mass lost per half-mass relaxation time ($\trh$) is
+roughly constant, in agreement with simple homologous models with equal-mass
+stars. If $\trh$ is computed in the conventional way from the mean stellar
+mass, however, a broad stellar mass function can double the loss of mass per
+$\trh$. We discuss implications of our results for the evolution of
+globular-cluster systems in our own and other galaxies. In particular, the
+number of Galactic clusters destroyed by evaporation alone may be as large or
+larger than the present cluster population.
+","[{""version"":""v1"",""created"":""Mon, 31 Oct 1994 05:47:31 GMT""}]","2007-05-23"
+"astro-ph/9410097",,"L. Perivolaropoulos (MIT, Center for Theoretical Physics)","Cosmic String Theory: The Current Status","Based on four lectures presented at the Trieste 1994 Summer School
+  for Particle Physics and Cosmology. To appear in the School Proceedings. 67
+  pages plus 18 figures (not included). Use LaTeX. MIT-CTP-2375",,,,"astro-ph hep-ph",,"  This is a pedagogical introduction to the basics of the cosmic string theory
+and also a review of the recent progress made with respect to the macrophysical
+predictions of the theory. Topics covered include, string formation and
+evolution, large scale structure formation, generation of peculiar velocity
+flows, cosmic microwave background (CMB) fluctuations, lensing, gravitational
+waves and constraints from the msec pulsar. Particular emphasis is placed on
+the signatures predicted on the CMB and the corresponding non-gaussian
+features.
+","[{""version"":""v1"",""created"":""Mon, 31 Oct 1994 14:34:34 GMT""}]","2009-09-25"
+"chao-dyn/9410007","Giovanni Gallavotti","G. Gallavotti, E.G.D.Cohen","Dynamical Ensembles in Nonequilibrium Statistical Mechanics","Postscript, 12 pages, 132K, 1 uncompressed file Keywords: chaos,
+  nonequilibrium ensembles, Markov partitions, Ruelle principle, Lyapunov
+  exponents, gas","Physical Review Letters, 74, 2694--2697, 1995","10.1103/PhysRevLett.74.2694",,"chao-dyn nlin.CD",,"  Ruelle's principle for turbulence leading to what is usually called the
+Sinai-Ruelle-Bowen distribution (SRB) is applied to the statistical mechanics
+of many particle systems in nonequilibrium stationary states. A specific
+prediction, obtained without the need to construct explicitly the SRB itself,
+is shown to be in agreement with a recent computer experiment on a strongly
+sheared fluid. This presents the first test of the principle on a many particle
+system far from equilibrium. A possible application to fluid mechanics is also
+discussed.
+","[{""version"":""v1"",""created"":""Sun, 30 Oct 1994 18:18:03 GMT""}]","2009-10-22"
+"chao-dyn/9410008","Giovanni Gallavotti","G. Gallavotti","Topics in chaotic dynamics","Plain TeX; compile twice; 30 pages; 140K Keywords: chaos,
+  nonequilibrium ensembles, Markov partitions, Ruelle principle, Lyapunov
+  exponents, random matrices, gaussian thermostats, ergodic theory, billiards,
+  conductivity, gas.}","in {\sl Computational Physics}, Ed. P. Garrido, J. Marro, in
+  Lecture Notes in Physics, Springer Verlag, 448, p. 271--311, 1995","10.1007/3-540-59178-8_34",,"chao-dyn nlin.CD",,"  Various kinematical quantities associated with the statistical properties of
+dynamical systems are examined: statistics of the motion, dynamical bases and
+Lyapunov exponents. Markov partitons for chaotic systems, without any attempt
+at describing ``optimal results''. The Ruelle principle is illustrated via its
+relation with the theory of gases. An example of an application predicts the
+results of an experiment along the lines of Evans, Cohen, Morriss' work on
+viscosity fluctuations. A sequence of mathematically oriented problems
+discusses the details of the main abstract ergodic theorems guiding to a proof
+of Oseledec's theorem for the Lyapunov exponents and products of random
+matrices
+","[{""version"":""v1"",""created"":""Sun, 30 Oct 1994 18:39:37 GMT""}]","2009-10-22"
+"cond-mat/9410112","Heiko Rieger","S. Franz and H. Rieger","Fluctuation Dissipation Ratio in Three-Dimensional Spin Glasses","LaTeX 10 pages + 4 figures (appended as uuencoded compressed
+  tar-file), THP81-94","J.Stat.Phys. 79 (1995) 749","10.1007/BF02184881",,"cond-mat",,"  We present an analysis of the data on aging in the three-dimensional Edwards
+Anderson spin glass model with nearest neighbor interactions, which is well
+suited for the comparison with a recently developed dynamical mean field
+theory. We measure the parameter $x(q)$ describing the violation of the
+relation among correlation and response function implied by the fluctuation
+dissipation theorem.
+","[{""version"":""v1"",""created"":""Sun, 30 Oct 1994 17:03:08 GMT""}]","2009-10-22"
+"cond-mat/9410113",,"Gregor Hackenbroich and Felix von Oppen","Semiclassical theory of transport in antidot lattices","37 pages, RevTeX, Figures will be sent upon request",,"10.1007/BF01307466",,"cond-mat",,"  We present a detailed study of quantum transport in large antidot arrays
+whose classical dynamics is chaotic. We calculate the longitudinal and Hall
+conduc- tivities semiclassically starting from the Kubo formula. The leading
+contribu- tion reproduces the classical conductivity. In addition, we find
+oscillatory quantum corrections to the classical conductivity which are given
+in terms of the periodic orbits of the system. These periodic-orbit
+contributions provide a consistent explanation of the quantum oscillations in
+the magnetoconductivity observed by Weiss et al.\ [Phys.\ Rev.\ Lett.\ {\bf70},
+4118 (1993)]. We find that the phase of the oscillations is given by the
+classical action of the periodic orbit. The amplitude is determined by the
+stability and the velocity correlations of the orbit. The amplitude also
+decreases exponentially with temperature on the scale of the inverse orbit
+traversal time $\hbar/T_\gamma$. We also present a semiclassical derivation of
+Shubnikov-de Haas oscillations where the corresponding classical motion is
+integrable. We show that the quantum oscillations in antidot lattices and the
+Shubnikov-de Haas oscillations are closely related. However, the amplitude of
+the quantum oscillations in antidot lattices is of a higher power in Planck's
+constant $\hbar$ and hence smaller than that of Shubnikov-de Haas oscillations.
+In this sense, the quantum oscillations in the conductivity are a sensitive
+probe of chaos.
+","[{""version"":""v1"",""created"":""Mon, 31 Oct 1994 08:33:11 GMT""}]","2009-10-22"
+"cond-mat/9410114","Antti-Pekka Jauho","J. Rotvig, A. P. Jauho, and H. Smith","Bloch oscillations, Zener tunneling and Wannier-Stark ladders in the
+  time-domain","4 pages, 6 PostScript figures available from antti@mic.dth.dk, REVTEX
+  3.0",,"10.1103/PhysRevLett.74.1831",,"cond-mat",,"  We present a time-domain analysis of carrier dynamics in a semiconductor
+superlattice with two minibands. Integration of the density-matrix equations of
+motion reveals a number of new features: (i) for certain values of the applied
+static electric field strong interband transitions occur; (ii) in static fields
+the complex time-dependence of the density-matrix displays a sequence of stable
+plateaus in the low field regime, and (iii) for applied fields with a periodic
+time-dependence the dynamic response can be understood in terms of the
+quasienergy spectra.
+","[{""version"":""v1"",""created"":""Mon, 31 Oct 1994 09:46:30 GMT""}]","2009-10-22"
+"cond-mat/9410115","Yang Xian","R. F. Bishop, R. G. Hale, and Y. Xian","Systematic Inclusion of High-Order Multi-Spin Correlations for the
+  Spin-$1\over2$ $XXZ$ Models","(to appear in PRL). 4 pages, ReVTeX, two figures available upon
+  request. UMIST Preprint MA-000-0001","Phys. Rev. Lett. 73 (1994), 3157-3160","10.1103/PhysRevLett.73.3157",,"cond-mat",,"  We apply the microscopic coupled-cluster method (CCM) to the spin-$1\over2$
+$XXZ$ models on both the one-dimensional chain and the two-dimensional square
+lattice. Based on a systematic approximation scheme of the CCM developed by us
+previously, we carry out high-order {\it ab initio} calculations using
+computer-algebraic techniques. The ground-state properties of the models are
+obtained with high accuracy as functions of the anisotropy parameter.
+Furthermore, our CCM analysis enables us to study their quantum critical
+behavior in a systematic and unbiased manner.
+","[{""version"":""v1"",""created"":""Mon, 31 Oct 1994 09:48:26 GMT""}]","2017-08-24"
+"cond-mat/9410116",,"Joonhyun Yeo","Metastable Dynamics of the Hard-Sphere System","21 pages, 5 figures (available upon request), RevTEX3.0, JFI
+  Preprint#",,"10.1103/PhysRevE.52.853",,"cond-mat",,"  The reformulation of the mode-coupling theory (MCT) of the liquid-glass
+transition which incorporates the element of metastability is applied to the
+hard-sphere system. It is shown that the glass transition in this system is not
+a sharp one at the special value of the density or the packing fraction, which
+is in contrast to the prediction by the conventional MCT. Instead we find that
+the slowing down of the dynamics occurs over a range of values of the packing
+fraction. Consequently, the exponents governing the sequence of time
+relaxations in the intermediate time regime are given as functions of packing
+fraction with one additional parameter which describes the overall scale of the
+metastable potential energy for defects in the hard-sphere system. Implications
+of the present model on the recent experiments on colloidal systems are also
+discussed.
+","[{""version"":""v1"",""created"":""Mon, 31 Oct 1994 10:57:11 GMT""}]","2016-08-31"
+"cond-mat/9410117",,"Dimitra Karabali and V.P. Nair","Many-body States and Operator Algebra for Exclusion Statistics","14 pages, plainTex. The first few pages have been modified. Note and
+  references added. (This version will appear in Nucl. Phys. B.)",,"10.1016/0550-3213(95)00003-B","IASSNS-HEP-94/88, CCNY-HEP 94/9","cond-mat hep-th",,"  We discuss many-body states and the algebra of creation and annihilation
+operators for particles obeying exclusion statistics.
+","[{""version"":""v1"",""created"":""Mon, 31 Oct 1994 15:28:54 GMT""},{""version"":""v2"",""created"":""Tue, 8 Nov 1994 18:57:47 GMT""},{""version"":""v3"",""created"":""Mon, 6 Mar 1995 14:45:06 GMT""}]","2009-10-22"
+"hep-ph/9410405","Sinisa Veseli","M. G. Olsson, S. Veseli, and K. Williams","Observations On the Potential Confinement of a Light Fermion","Latex (uses epsf macro), 25 pages of text, 12 postscript figures
+  included. One reference is added and some typos are fixed","Phys.Rev. D51 (1995) 5079-5089","10.1103/PhysRevD.51.5079","MADPH-94-852","hep-ph",,"  We consider possible dynamical models for a light fermion confined by a
+potential field. With the Dirac equation only Lorentz scalar confinement yields
+normalizable wavefunctions, while with the ``no pair'' variant of the Dirac
+equation only Lorentz vector confinement has normal Regge behaviour.
+  A systematic investigation of Regge properties and phenomenological
+properties is carried out, including calculations of the Isgur-Wise function.
+We point out that the Isgur-Wise function provides a sensitive test of
+confinement models. In particular, the slope of the IW function at zero recoil
+point is found to be $\xi'(1)\simeq -0.90$ for the Dirac equation with scalar
+confinement, and $\xi'(1)\simeq -1.20$ for the no pair equation with vector
+confinement. Using heavy-light data alone we argue against scalar confinement.
+","[{""version"":""v1"",""created"":""Sun, 30 Oct 1994 18:08:37 GMT""},{""version"":""v2"",""created"":""Mon, 16 Jan 1995 22:13:39 GMT""}]","2009-10-28"
+"hep-ph/9410406","Hubert Simma","G. Kramer, W.F. Palmer, H. Simma","CP Violation and Strong Phases from Penguins in $\bf B^{\pm}\rightarrow
+  PP$ and $\bf B^{\pm}\rightarrow VP$ Decays","19 pages, 4 figures (3 available as uuencoded ps-files), LaTeX,
+  preprint DESY 94-170","Z.Phys.C66:429-438,1995","10.1007/BF01556369",,"hep-ph",,"  We calculate direct CP-violating rate asymmetries in charged $B\to PP$ and
+$B\to VP$ decays arising from the interference of amplitudes with different
+strong and CKM phases. The perturbative strong phases develop at order
+$\alpha_s$ from absorptive parts of one-loop matrix elements of the
+next-to-leading logarithm corrected effective Hamiltonian. CPT constraints are
+maintained. Based on this model, we find that partial rate asymmetries between
+charge conjugate $B^{\pm}$ decays can be as high as 20\% for certain channels
+with branching ratios in the $10^{-6}$ range. Because the $c\bar{c}$ threshold
+lies so close to the physical momentum scale, the asymmetries depend
+sensitively on the model assumptions used to evaluate the imaginary parts of
+the matrix elements, in particular, on the internal momentum transfer. The
+charge asymmetries of partial rates would provide unambiguous evidence for
+direct CP violation.
+","[{""version"":""v1"",""created"":""Sun, 30 Oct 1994 18:56:44 GMT""},{""version"":""v2"",""created"":""Mon, 31 Oct 1994 11:51:03 GMT""}]","2014-11-17"
+"hep-ph/9410407","Tom Gould","Thomas M. Gould and Stephen D.H. Hsu","Anomalous Violation of Conservation Laws in Minkowski Space","30 pgs., LaTeX with optional PicTex figures, JHU-TIPAC-940017,
+  HUTP-A0/03","Nucl.Phys. B446 (1995) 35-64","10.1016/0550-3213(95)00247-P",,"hep-ph hep-th",,"  We consider the evolution of quantum fermi fields in Minkowski gauge field
+backgrounds. Our motivation is the study of anomalous fermion number violating
+processes. We derive selection rules for fermion scattering amplitudes which
+relate the violation of fermionic charge to the change in winding between early
+and late times of the vacuum part of the gauge field. We find that the amount
+of fermion number violation is always integer, even when the topological charge
+of the gauge field is fractional. As an explicit example, we apply our results
+to spherically symmetric Minkowski solutions.
+","[{""version"":""v1"",""created"":""Sun, 30 Oct 1994 20:27:01 GMT""}]","2009-10-28"
+"hep-ph/9410408","Tom Gould","Thomas M. Gould and Stephen D.H. Hsu","Anomalous Violation of Conservation Laws in Minkowski Space:
+  Spontaneously Broken Gauge Theories","15 pgs. LaTeX, optional PicTeX figures, factors of 2 fixed in new
+  version","Nucl.Phys. B446 (1995) 65-78","10.1016/0550-3213(95)00246-O","HUTP-A0/039, JHU-TIPAC-940018","hep-ph hep-th",,"  We extend our previous results on the evolution of quantum fermi fields in
+Minkowski gauge field backgrounds to the case of spontaneously broken gauge
+theories. We obtain a selection rule which relates the amount of fermion number
+violation to the change in Higgs winding number of the configuration. This
+selection rule is applicable to any classical solution which dissipates at both
+early and late times.
+","[{""version"":""v1"",""created"":""Sun, 30 Oct 1994 20:28:57 GMT""},{""version"":""v2"",""created"":""Fri, 11 Nov 1994 00:04:58 GMT""}]","2009-10-28"
+"hep-ph/9410409","Levan Surguladze","Levan R. Surguladze","Quark Mass Corrections to the Z Boson Decay Rates","10 pages, LATeX, +1 figure available upon request, preprint OITS-554
+  (University of Oregon, USA, September 1994)","Phys.Rev. D54 (1996) 2118-2122","10.1103/PhysRevD.54.2118",,"hep-ph",,"  The results of perturbative QCD evaluation of the ~m_f^2/M_Z^2 contributions
+to the decay rates in Z--->bb and Z--->hadrons for the quark masses m_f << M_Z
+are presented. The recent results due to the combination of renormalization
+group constraints and the results of several other calculations are
+independently confirmed by the direct computation. Some existing confusion in
+the literature is clarified. In addition, the calculated O(alpha_s^2)
+correction to the correlation function in the axial channel is a necessary
+ingredient for the yet uncalculated axial part of the O(alpha_s^3) mass
+correction to the Z decay rates. The results can be applied to the \tau
+hadronic width.
+","[{""version"":""v1"",""created"":""Mon, 31 Oct 1994 04:51:47 GMT""}]","2009-10-28"
+"hep-ph/9410410",,"Chung-Yi Wu","Spin Structure of the Proton","13 pages, NCKU-HEP/94-01","Mod.Phys.Lett. A10 (1995) 1659-1666","10.1142/S0217732395001770",,"hep-ph",,"  By assuming that there is no significant intrinsic polarization of the gluon,
+we have computed the polarized quark contributions to the proton's spin under
+SU(3) flavor symmetry breaking for the polarized sea and have performed a
+global leading-order QCD fit to obtain the spin-dependent quark distributions,
+which could be used as input for analyzing lepton-hadron and hadron-hadron
+collisions.
+","[{""version"":""v1"",""created"":""Mon, 31 Oct 1994 15:41:12 GMT""},{""version"":""v2"",""created"":""Wed, 2 Nov 1994 14:00:48 GMT""}]","2009-10-28"
+"hep-ph/9410411",,"N. Armesto and M. A. Braun","The Intercept of Symmetric Multigluon Configurations in the Variational
+  Approach","18 pages (1 table, no figures), LaTeX, Santiago preprint US-FT/9-94",,,,"hep-ph",,"  To calculate the intercept of the multigluon system in a symmetric spatial
+configuration a variational method is developed based on a complete system of
+one-gluon functions. The method is applied to two- and three- gluon cases to
+compare with the known results. The convergence turns out rather slow. Ways to
+improve results are discussed.
+","[{""version"":""v1"",""created"":""Mon, 31 Oct 1994 02:59:31 GMT""}]","2007-05-23"
+"hep-ph/9410412","Apostolos Pilaftsis","Apostolos Pilaftsis","Heavy-Neutrino Effects on tau-Lepton Decays","14 pages (1 Figure), based on a contribution submitted to ichep94,
+  LaTeX, RAL/94-113","Mod.Phys.Lett.A9:3595-3604,1994","10.1142/S0217732394003439",,"hep-ph",,"  Minimal extensions of the Standard Model that are motivated by grand unified
+theories or superstring models with an E_6 symmetry can naturally predict heavy
+neutrinos of Dirac or Majorana nature. Such heavy neutral leptons violate the
+de- coupling theorem at the one-loop electroweak order and hence offer a unique
+chance for possible lepton-flavour decays of the tau lepton, e.g. tau -> eee or
+tau -> mu mu mu, to be seen in LEP experiments. We analyze such decays in
+models with three and four generations.
+","[{""version"":""v1"",""created"":""Mon, 31 Oct 1994 11:03:39 GMT""}]","2011-04-15"
+"hep-ph/9410413","Matsuda Masahisa","Takemi HAYASHI, Yoshio Koide, Masahisa Matsuda, Morimitsu Tanimoto and
+  Seiichi Wakaizumi","Electric Dipole Moments of Neutron and Electron in Two-Higgs-Doublet
+  Model with Maximal $CP$ violation","15pages, UWThPh-1994-48, AUE-08-94, US-94-06. The post-script files
+  of figures will be sent by request by electric mail","Phys.Lett.B348:489-495,1995","10.1016/0370-2693(95)00156-F",,"hep-ph",,"  We study the electric dipole moments(EDM) of the neutron and the electron in
+the two-Higgs-doublet model, in the case that $CP$ symmetry is violated
+maximally in the neutral Higgs sector. We take account of the Weinberg's
+operator $O_{3g}=GG\t G$ as well as the operator $O_{qg}=\bar q\sigma\tilde Gq$
+for the neutron, and the Barr-Zee diagrams for the electron. It is found that
+the predicted neutron EDM could be considerably reduced by the destructive
+contribution of the two Higgs scalars to get the lower value than the
+experimental bound. As to the electron EDM, the predicted value is smaller in
+one order than the experimental one.
+","[{""version"":""v1"",""created"":""Mon, 31 Oct 1994 12:03:52 GMT""}]","2010-11-01"
+"hep-th/9410230",,"E. Bergshoeff, R. Kallosh and T. Ort\'in","Duality Versus Supersymmetry and Compactification","LaTeX file, 19 pages, U. of Groningen Report UG-8/94, Stanford U.
+  Report SU-ITP-94-19, QMW College Report QMW-PH-94-13","Phys.Rev.D51:3009-3016,1995","10.1103/PhysRevD.51.3009",,"hep-th",,"  We study the interplay between T-duality, compactification and supersymmetry.
+We prove that when the original configuration has unbroken space-time
+supersymmetries, the dual configuration also does if a special condition is
+met: the Killing spinors of the original configuration have to be independent
+on the coordinate which corresponds to the isometry direction of the bosonic
+fields used for duality. Examples of ``losers"" (T-duals are not supersymmetric)
+and ``winners"" (T-duals are supersymmetric) are given.
+","[{""version"":""v1"",""created"":""Sun, 30 Oct 1994 20:16:52 GMT""}]","2016-08-14"
+"hep-th/9410231",,"F. Ardalan, K. Kaviani","Chiral Perturbation Theory in the Framework of Non-Commutative Geometry","In this revised manuscript, we alter one of the conclusions","Int.J.Mod.Phys. A11 (1996) 1509-1522","10.1142/S0217751X96000699","IPM-94-67","hep-th hep-ph",,"  We consider the non-commutative generalization of the chiral perturbation
+theory. The resultant coupling constants are severely restricted by the model
+and in good agreement with the data. When applied to the Skyrme model, our
+scheme reproduces the non-Skyrme term with the right coefficient. We comment on
+a similar treatment of the linear $\sigma $-model.
+","[{""version"":""v1"",""created"":""Mon, 31 Oct 1994 13:27:23 GMT""},{""version"":""v2"",""created"":""Sun, 6 Nov 1994 12:20:31 GMT""},{""version"":""v3"",""created"":""Thu, 10 Nov 1994 06:35:05 GMT""}]","2009-10-28"
+"hep-th/9410232",,"Dao Vong Duc","generalised q-deformed oscillators and their statistics","9 pages,no figure, (visit2@lapphp0.in2p3.fr), ENSLAPP-A-494/94",,,,"hep-th",,"  We consider a version of generalised $q$-oscillators and some of their
+applications. The generalisation includes also ""quons"" of infinite statistics
+and deformed oscillators of parastatistics. The statistical distributions for
+different $q$-oscillators are derived for their corresponding Fock space
+representations. The deformed Virasoro algebra and SU(2) algebra are also
+treated.
+","[{""version"":""v1"",""created"":""Mon, 31 Oct 1994 14:12:35 GMT""}]","2007-05-23"
+"hep-th/9410233","Shibaji Roy","Pablo M. Llatas and Shibaji Roy","$c_M<1$ String Theory as a Constrained Topological Sigma Model","12 pages, Latex file, UG-9/94","Phys.Lett.B345:6-14,1995","10.1016/0370-2693(94)01618-M",,"hep-th",,"  It has been argued by Ishikawa and Kato that by making use of a specific
+bosonization, $c_M=1$ string theory can be regarded as a constrained
+topological sigma model. We generalize their construction for any $(p,q)$
+minimal model coupled to two dimensional (2d) gravity and show that the
+energy--momentum tensor and the topological charge of a constrained topological
+sigma model can be mapped to the energy--momentum tensor and the BRST charge of
+$c_M<1$ string theory at zero cosmological constant. We systematically study
+the physical state spectrum of this topological sigma model and recover the
+spectrum in the absolute cohomology of $c_M<1$ string theory. This procedure
+provides us a manifestly topological representation of the continuum Liouville
+formulation of $c_M<1$ string theory.
+","[{""version"":""v1"",""created"":""Mon, 31 Oct 1994 15:03:38 GMT""}]","2011-07-19"
+"hep-th/9410236","Joachim Giesen","J. Giesen","On a non-CP-violating electric dipole moment of elementary particles","7 pages, LATEX, JG11/94",,,,"hep-th",,"  A description of elementary particles should be based on irreducible
+representations of the Poincar\'e group. In the theory of massive
+representations of the full Poincar\'e group there are essentially four
+different cases. One of them corresponds to the ordinary Dirac theory. The
+extension of Dirac theory to the remaining three cases makes it possible to
+describe an anomalous electric dipole moment of elementary particles without
+breaking the reflections.
+","[{""version"":""v1"",""created"":""Mon, 31 Oct 1994 15:15:44 GMT""}]","2007-05-23"

@@ -1,0 +1,153 @@
+"astro-ph/9407026",,"M.Gasperini","The Inflationary Role of the Dilaton in String Cosmology","9 pages, plain tex, DFTT-29/94",,"10.1007/3-540-60024-8_75",,"astro-ph gr-qc hep-th",,"  It is stressed that the kinematical problems of the standard cosmological
+model can be solved by a phase of accelerated contraction of the cosmic scale
+factor. Such a behaviour is only a particular case of a more general
+``pre-big-bang"" inflationary scenario, arising naturally in a string cosmology
+context, and driven asymptotically by the free dilaton field without any
+self-interaction potential and/or vacuum contribution.
+","[{""version"":""v1"",""created"":""Fri, 8 Jul 1994 17:11:43 GMT""}]","2009-10-22"
+"chem-ph/9407001",,"A. E. Cho and J. D. Doll (Department of Chemistry, Brown University,
+  Providence, RI) and D. L. Freeman (Department of Chemistry, University of
+  Rhode Island, Kingston, RI)","The Construction of Double-Ended Classical Trajectories","(12 pages, submitted to Chemical Physics Letters. Figures are too
+  large for convenient e-mail access. they are available via anonymous ftp on
+  willie.chem.brown.edu and reside in the directory pub/chem-ph/9407 as the
+  compressed tar file 9407001.tar.Z. If you have difficulty retrieving the
+  figures, please contact J. Doll (doll@carlo.chem.brown.edu) for assistance)",,"10.1016/0009-2614(94)01058-7",,"chem-ph cond-mat physics.chem-ph",,"  In the present paper we describe relaxation methods for constructing
+double-ended classical trajectories. We illustrate our approach with an
+application to a model anharmonic system, the Henon-Heiles problem.
+Trajectories for this model exhibit a number of interesting energy-time
+relationships that appear to be of general use in characterizing the dynamics.
+","[{""version"":""v1"",""created"":""Fri, 8 Jul 1994 18:01:19 GMT""}]","2009-10-22"
+"comp-gas/9407001","Wolfram Miller","W. Miller (CRS4 - Centre for Advanced Studies, Research and
+  Developement, Cagliari, Italy)","Flow in the Driven Cavity Calculated by the Lattice Boltzmann Method","post-script-file text without figures. figures can be asked from the
+  Author",,"10.1103/PhysRevE.51.3659",,"comp-gas nlin.CG",,"  The lattice Boltzmann method with enhanced collisions and rest particles is
+used to calculate the flow in a two-dimensional lid-driven cavity. The
+abilitity of this method to compute the velocity and the pressure of an
+incompressible fluid in a geometry with Dirichlet and Neumann boundary
+conditions is verified by calculating a test-problem where the analytical
+solution is known. Different parameter configurations have been tested for
+Reynolds numbers from $Re=10$ to $Re=2000$. The vortex structure for a more
+generalized lid-driven cavity problem with a non-uniform top speed has been
+studied for various acpect ratios.
+","[{""version"":""v1"",""created"":""Fri, 8 Jul 1994 19:10:18 GMT""}]","2009-10-22"
+"cond-mat/9407043","R. A. Guimaraes-Dias","R. G. Dias and J. M. Wheatley","Upper Critical Field in a Spin-Charge Separated Superconductor","3 pages, postscript file (compressed and uuencoded)",,"10.1103/PhysRevB.50.13887",,"cond-mat",,"  It is demonstrated that the spatial decay of the pair propagator in a
+Luttinger liquid with spin charge separation contains a logarithmic correction
+relative to the free fermi gas result in a finite interval between the spin and
+charge thermal lengths. It is argued that similar effects can be expected in
+higher dimensional systems with spin charge separation and that the temperature
+dependence of the upper critical field $H_{c2}$ curve is a probe of this
+effect.
+","[{""version"":""v1"",""created"":""Fri, 8 Jul 1994 16:21:16 GMT""}]","2009-10-22"
+"cond-mat/9407044",,"M. Buttiker","Characteristic Potentials for Mesoscopic Rings Threaded by an
+  Aharonov-Bohm Flux","23 pages + 4 figures, revtex, IBM-RC19557",,"10.1088/0031-8949/1994/T54/025",,"cond-mat",,"  Electro-static potentials for samples with the topology of a ring and
+penetrated by an Aharonov-Bohm flux are discussed. The sensitivity of the
+electron-density distribution to small variations in the flux generates an
+effective electro-static potential which is itself a periodic function of flux.
+We investigate a simple model in which the flux sensitive potential leads to a
+persistent current which is enhanced compared to that of a loop of
+non-interacting electrons. For sample geometries with contacts the sensitivity
+of the electro-static potential to flux leads to a flux-induced capacitance.
+This capacitance gives the variation in charge due to an increment in flux. The
+flux-induced capacitance is contrasted with the electro-chemical capacitance
+which gives the variation in charge due to an increment in an electro-chemical
+potential. The discussion is formulated in terms of characteristic functions
+which give the variation of the electro-static potential in the interior of the
+conductor due to an increment in the external control parameters (flux,
+electro-chemical potentials). Paper submitted to the 16th Nordic Semiconductor
+Meeting, Laugarvatan, Iceland, June 12-15, 1994. The proceedings will be
+published in Physica Scripta.
+","[{""version"":""v1"",""created"":""Fri, 8 Jul 1994 16:55:00 GMT""}]","2015-06-25"
+"cond-mat/9407045",,"M.Lassig","New Criticality of 1D Fermions","10 pages (latex), with 2 figures (not included)",,"10.1103/PhysRevLett.73.561",,"cond-mat",,"  One-dimensional massive quantum particles (or 1+1-dimensional random walks)
+with short-ranged multi-particle interactions are studied by exact
+renormalization group methods. With repulsive pair forces, such particles are
+known to scale as free fermions. With finite $m$-body forces (m = 3,4,...), a
+critical instability is found, indicating the transition to a fermionic bound
+state. These unbinding transitions represent new universality classes of
+interacting fermions relevant to polymer and membrane systems. Implications for
+massless fermions, e.g. in the Hubbard model, are also noted. (to appear in
+Phys. Rev. Lett.)
+","[{""version"":""v1"",""created"":""Fri, 8 Jul 1994 17:47:31 GMT""}]","2015-06-25"
+"cond-mat/9407046","Pablo Tamayo","P. Tamayo, F. J. Alexander and R. Gupta","A Study of Two-Temperature Non-Equilibrium Ising Models: Critical
+  Behavior and Universality","12 pages of LaTeX plus 18 pages of postscript figures in a uuencoded
+  file (608k)",,"10.1103/PhysRevE.50.3474",,"cond-mat hep-lat",,"  We study a class of 2D non-equilibrium Ising models based on competing
+dynamics induced by contact with heat-baths at two different temperatures. We
+make a comparative study of the non-equilibrium versions of Metropolis, heat
+bath/Glauber and Swendsen-Wang dynamics and focus on their critical behavior in
+order to understand their universality classes. We present strong evidence that
+some of these dynamics have the same critical exponents and belong to the same
+universality class as the equilibrium 2D Ising model. We show that the bond
+version of the Swendsen-Wang update algorithm can be mapped into an equilibrium
+model at an effective temperature.
+","[{""version"":""v1"",""created"":""Fri, 8 Jul 1994 20:26:39 GMT""}]","2009-10-22"
+"cond-mat/9407047","Daniel Ben-Avraham","Dexin Zhong and Daniel ben-Avraham","Diffusion-Limited Coalescence with Finite Reaction Rates in One
+  Dimension","13 pages (and 4 figures), plain TeX, SISSA-94-02","J. Phys. A 28, 33--44 (1995).","10.1088/0305-4470/28/1/010",,"cond-mat",,"  We study the diffusion-limited process $A+A\to A$ in one dimension, with
+finite reaction rates. We develop an approximation scheme based on the method
+of Inter-Particle Distribution Functions (IPDF), which was formerly used for
+the exact solution of the same process with infinite reaction rate. The
+approximation becomes exact in the very early time regime (or the
+reaction-controlled limit) and in the long time (diffusion-controlled)
+asymptotic limit. For the intermediate time regime, we obtain a simple
+interpolative behavior between these two limits. We also study the coalescence
+process (with finite reaction rates) with the back reaction $A\to A+A$, and in
+the presence of particle input. In each of these cases the system reaches a
+non-trivial steady state with a finite concentration of particles. Theoretical
+predictions for the concentration time dependence and for the IPDF are compared
+to computer simulations. P. A. C. S. Numbers: 82.20.Mj 02.50.+s 05.40.+j
+05.70.Ln
+","[{""version"":""v1"",""created"":""Fri, 8 Jul 1994 20:07:04 GMT""}]","2016-08-31"
+"hep-ph/9407260","Ming Lu","Ming Lu, Martin J. Savage and Mark B. Wise","Strong $\Lambda \pi$ Phase Shifts for CP Violation in Weak $\Xi
+  \rightarrow \Lambda \pi$ Decay","8 pages, uses phyzzx, 2 figures included as uuencoded file,
+  CALT-68-1940 and CMU-HEP94-22","Phys.Lett.B337:133-136,1994","10.1016/0370-2693(94)91456-7",,"hep-ph nucl-th",,"  Strong interaction $\Lambda\pi$ phase shifts relevant for the weak
+nonleptonic decay $\Xi \rightarrow \Lambda \pi$ are calculated using baryon
+chiral perturbation theory. We find in leading order that the S-wave phase
+shift vanishes and the $J={1 \over 2}$ P-wave phase shift is $-1.7 ^{\rm o} $.
+The small phase shifts imply that CP violation in this decay will be difficult
+to observe. Our results follow from chiral $SU(2)_L\times SU(2)_R$ symmetry.
+","[{""version"":""v1"",""created"":""Fri, 8 Jul 1994 21:06:57 GMT""}]","2010-11-01"
+"hep-th/9407047","Pavel Etingof","Pavel Etingof, Igor Frenkel, and Alexander Kirillov Jr","Spherical functions on affine Lie groups","30 pages. Minor misprints and errors in Def. 1.3, 2.2, formulas after
+  (2.8), and Lemma 3.9 were corrected",,,,"hep-th math.QA",,"  We describe vector valued conjugacy equivariant functions on a group K in two
+cases -- K is a compact simple Lie group, and K is an affine Lie group.
+  We construct such functions as weighted traces of certain intertwining
+operators between representations of K. For a compact group $K$, Peter-Weyl
+theorem implies that all equivariant functions can be written as linear
+combinations of such traces. Next, we compute the radial parts of the Laplace
+operators of $K$ acting on conjugacy equivariant functions and obtain a comple-
+tely integrable quantum system with matrix coefficients, which in a special
+case coincides with the trigonometric Calogero-Sutherland-Moser multi-particle
+system. In the affine Lie group case, we prove that the space of equivariant
+functions having a fixed homogeneity degree with respect to the action of the
+center of the group is finite-dimensional and spanned by weighted traces of
+intertwining operators. This space coincides with the space of
+Wess-Zumino-Witten conformal blocks on an elliptic curve. We compute the radial
+part of the second order Laplace operator on the affine Lie group acting on
+equivariant functions, and find that it is a certain parabolic partial
+differential operator, which degenerates to the elliptic
+Calogero-Sutherland-Moser hamiltonian as the central charge tends to minus the
+dual Coxeter number (the critical level). Quantum integrals of this hamiltonian
+are obtained as radial part of the higher Sugawara operators which are central
+at the critical level.
+","[{""version"":""v1"",""created"":""Sat, 9 Jul 1994 00:30:33 GMT""},{""version"":""v2"",""created"":""Sat, 9 Jul 1994 14:51:40 GMT""},{""version"":""v3"",""created"":""Fri, 28 Oct 1994 14:31:58 GMT""},{""version"":""v4"",""created"":""Mon, 31 Oct 1994 19:47:42 GMT""}]","2008-02-03"
+"hep-th/9407048","Rim Chai Ho","N. W. Park, Chaiho Rim and D. S. Soh","Effect of rotation symmetry to abelian Chern-Simons field theory and
+  anyon equation on a sphere","Revtex 25pages","Phys.Rev.D50:5241-5251,1994","10.1103/PhysRevD.50.5241","SNUTP-94-60","hep-th",,"  We analyze the Chern-Simons field theory coupled to non-relativistic matter
+field on a sphere using canonical transformation on the fields with special
+attention to the role of the rotation symmetry: SO(3) invariance restricts the
+Hilbert space to the one with a definite number of charges and dictates Dirac
+quantization condition to the Chern-Simons coefficient, whereas SO(2)
+invariance does not. The corresponding Schr\""odinger equation for many anyons
+(and for multispecies) on the sphere are presented with appropriate boundary
+condition. In the presence of an external magnetic monopole source, the ground
+state solutions of anyons are compared with monopole harmonics. The role of the
+translation and modular symmetry on a torus is also expounded.
+","[{""version"":""v1"",""created"":""Sat, 9 Jul 1994 01:23:33 GMT""}]","2010-11-01"
+"hep-th/9407050",,"M. Kibler","Point Group Invariants in the $U_{qp}(u(2))$ Quantum Algebra Picture","10 pages, Tex, LYCEN 9338",,"10.1139/p94-056",,"hep-th",,"  Some consequences of a $qp$-quantization of a point group invariant developed
+in the enveloping algebra of $SU(2)$ are examined in the present note. A set of
+open problems concerning such invariants in the $U_{qp}(u(2))$ quantum algebra
+picture is briefly discussed.
+","[{""version"":""v1"",""created"":""Fri, 8 Jul 1994 16:36:44 GMT""}]","2015-06-26"
+"hep-th/9407051","Fernando Tadeu C. Brandt","Fernando T. Brandt and Josif Frenkel","Non-linear electromagnetic interactions in thermal QED","7 pages, IFUSP/P-1118","Phys.Rev.Lett.74:1705-1707,1995","10.1103/PhysRevLett.74.1705",,"hep-th",,"  We examine the behavior of the non-linear interactions between
+electromagnetic fields at high temperature. It is shown that, in general, the
+log(T) dependence on the temperature of the Green functions is simply related
+to their UV behavior at zero-temperature. We argue that the effective action
+describing the nonlinear thermal electromagnetic interactions has a finite
+limit as T tends to infinity. This thermal action approaches, in the long
+wavelength limit, the negative of the corresponding zero-temperature action.
+","[{""version"":""v1"",""created"":""Fri, 8 Jul 1994 17:26:22 GMT""}]","2010-11-01"

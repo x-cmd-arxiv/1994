@@ -1,0 +1,184 @@
+"adap-org/9407002","Torsten Becker","T. Becker, H. de Vries, B. Eckhardt (Institut fuer Chemie und Biologie
+  des Meeres and Fachbereich Physik der C.v. Ossietzky Universitaet, Oldenburg,
+  Germany)","Dynamics of a stochastically driven running sandpile","19 pages PostScript; use uudecode and uncompress. 12 PostScript
+  figures available by anonymous
+  ftp://hpa.icbm.uni-oldenburg.de/dist/papers/sandpile/ . Comments and requests
+  to becker@icbm.uni-oldenburg.de",,"10.1007/BF01208378",,"adap-org nlin.AO",,"  We analyze in detail a one-dimensional stochastically driven running
+sandpile. The dynamics shows three different phases, depending on the on-site
+relaxation rate and stochastic driving rate. Two phases are characterized by
+the presence of travelling waves. The third shows algebraic relaxation.
+","[{""version"":""v1"",""created"":""Mon, 11 Jul 1994 10:49:02 GMT""}]","2009-10-22"
+"astro-ph/9407028","David F. Crawford","David F. Crawford","The Quasar Distribution in a Static Universe","23 pages, Latex, submitted to Apj, report dfc9403","Astrophys.J. 441 (1995) 488","10.1086/175375",,"astro-ph",,"  A crucial test of any cosmological model is the distribution of distant
+objects such as quasars. Because of well defined selection criteria quasars
+found by a ultraviolet excess (UVX) survey are ideal candidates for testing the
+model out to a redshift of z = 2.2. The static cosmology proposed by Crawford
+(1993) is used to analyse a recent quasar survey (BOYLE et al MNRAS 227, 717
+1990). It is shown that the distribution of number of quasars from the survey
+as a function of redshift is in excellent agreement with the predictions of the
+model. A V/V_m test on 351 confirmed quasars with defined redshifts has a mean
+value of 0.568\pm 0.015 with the discrepancy being most likely due to
+incompleteness of the catalogue at low redshifts. For the redshift range $1.5 <
+z < 2.2$ where the accuracy of the cosmological model is critical V/V_m was
+0.51 \pm 0.02. A well defined quasar luminosity function is derived that has a
+peak at M_B = -21.16 mag and is well fitted by a Gaussian distribution in
+absolute magnitude with a standard deviation of 1.52 magnitudes.
+","[{""version"":""v1"",""created"":""Mon, 11 Jul 1994 03:31:10 GMT""}]","2009-10-22"
+"astro-ph/9407029","David F. Crawford","David F. Crawford","Angular Size in a Static Universe","13 pages, Latex, submitted to ApJ, report dfc9402","Astrophys.J. 440 (1995) 466","10.1086/175288",,"astro-ph",,"  In principle the geometry of the universe can be investigated by measuring
+the angular size of known objects as a function of distance. Thus the
+distribution of angular sizes provides a critical test of the stable and static
+model of the universe described by Crawford (1991,1993) that has a simple and
+explicit relationship between the angular size of an object and its redshift.
+The result is that the agreement with observations of galactic diameters and
+the size of double radio sources with the static model is much better than the
+standard (Big Bang) theory without evolution. However there is still a small
+discrepancy at large redshifts that could be due to selection effects.
+","[{""version"":""v1"",""created"":""Mon, 11 Jul 1994 03:31:39 GMT""}]","2009-10-22"
+"chao-dyn/9407004",,"R. D. Parmentier (Department of Physics, University of Salerno,
+  I-84081 Baronissi (SA), Italy)","Nonlinear dynamics in one and two dimensional arrays of discrete
+  Josephson elements","8 pages, LaTeX file; requires the LaTeX style file P.STY, a copy of
+  which is appended; to be published in Acta Physica Slovaca.;
+  parment@salerno.infn.it",,,,"chao-dyn nlin.CD",,"  Discrete arrays of Josephson junction elements differ from their continuum
+counterparts in two essential ways: i) localized dynamic states in discrete
+arrays, which are not present in the corresponding continuum system, can
+interact with other excitations that are present; ii) fluxoid quantization for
+the non-superconducting `holes' provides a constraint for discrete arrays that
+is not present in the corresponding continuum system. The consequences of these
+effects in one-dimensional systems are now beginning to be understood; in
+two-dimesional systems, on the other hand, the picture is not yet altogether
+clear. Progress in fabrication technology and potential applications in
+practical electronic devices -- as well as intrinsic interest in nonlinear
+dynamics -- have contributed significantly to the growing interest in these
+systems.
+","[{""version"":""v1"",""created"":""Mon, 11 Jul 1994 11:34:00 GMT""}]","2008-02-03"
+"cond-mat/9407049","Jorge Jose","Daniel Dom\'inguez and Jorge V. Jos\'e","Non-equilibrium coherent vortex states and subharmonic giant Shapiro
+  steps in Josephson junction arrays","33 pages, TEX-Macro included",,"10.1142/S0217979294001639",,"cond-mat chao-dyn nlin.CD",,"  This is a review of recent work on the dynamic response of Josephson junction
+arrays driven by dc and ac currents. The arrays are modeled by the resistively
+shunted Josephson junction model, appropriate for proximity effect junctions,
+including self-induced magnetic fields as well as disorder. The relevance of
+the self-induced fields is measured as a function of a parameter
+$\kappa=\lambda_L/a$, with $\lambda_L$ the London penetration depth of the
+arrays, and $a$ the lattice spacing. The transition from Type II ($\kappa>1$)
+to Type I ($\kappa <1$) behavior is studied in detail. We compare the results
+for models with self, self+nearest-neighbor, and full inductance matrices. In
+the $\kappa=\infty$ limit, we find that when the initial state has at least one
+vortex-antivortex pair, after a characteristic transient time these vortices
+unbind and {\it radiate} other vortices. These radiated vortices settle into a
+parity-broken, time-periodic, {\em axisymmetric coherent vortex state} (ACVS),
+characterized by alternate rows of positive and negative vortices lying along a
+tilted axis. The ACVS produces subharmonic steps in the current voltage (IV)
+characteristics, typical of giant Shapiro steps. For finite $\kappa$ we find
+that the IV's show subharmonic giant Shapiro steps, even at zero external
+magnetic field. We find that these subharmonic steps are produced by a whole
+family of coherent vortex oscillating patterns, with their structure changing
+as a function of $\kappa$. In general, we find that these patterns are due to a
+break down of translational invariance produced, for example, by disorder or
+antisymmetric edge-fields. The zero field case results are in good qualitative
+agreement with experiments
+","[{""version"":""v1"",""created"":""Mon, 11 Jul 1994 08:39:29 GMT""}]","2016-08-14"
+"hep-ph/9407263","Mariusz Sadzikowski","M. Sadzikowski","Semileptonic Decays of Heavy to Light Mesons from an Mit Bag Model","14 pages, Latex, TPJU - 13/94","Z.Phys.C67:129-136,1995","10.1007/BF01564828",,"hep-ph",,"  Using the (modified) MIT bag model we calculated formfactors and decay widths
+for pseudoscalar - pseudoscalar and pseudoscalar - vector semileptonic decays
+of heavy to light mesons. We discuss the physical phenomena which are important
+in these processes and their influence on the measurable quantities. Our
+results are consistent with the available experimental data. A comparison with
+the results of other models is also given.
+","[{""version"":""v1"",""created"":""Mon, 11 Jul 1994 09:36:29 GMT""}]","2011-07-19"
+"hep-ph/9407264",,"Zurab G. Berezhiani","New Predictive Framework for Fermion Masses in SUSY SO(10)","22 pages, 5 figures (cut out as separate postscript file), LATEX,
+  INFN-FE-05-94",,,,"hep-ph",,"  We present a new predictive approach based on SUSY $SO(10)$ theory. The
+inter-family hierarchy is first generated in the sector of hypothetical
+superheavy fermions and then transfered inversely to ordinary quarks and
+leptons by means of the universal seesaw mechanism. The obtained mass matrices
+are simply parametrized by two small complex coefficients $\eps_u$ and
+$\eps_d$, which can be given by the ratio of the GUT scale $M_G\simeq 10^{16}$
+GeV and some higher scale $M\simeq 10^{17}-10^{18}$ GeV (presumably superstring
+scale). The model provides a possibility for doublet-triplet splitting without
+fine tuning and the Higgsino mediated $d=5$ operators for the proton decay are
+naturally suppressed.
+  Our ansatz provides the correct {\em qualitative} picture of fermion mass
+hierarchy and mixing pattern, provided that $\eps_d/\eps_u\sim 10$. The running
+masses of the first family fermions: electron, u-quark and d-quark obey an
+approximate $SO(10)$ symmetry limit. At GUT scale we have: $u\sim d\simeq 3e$,
+$(\frac{\eps_u}{\eps_d})c\sim s\simeq \frac{1}{3}\mu$ and
+$(\frac{\eps_u}{\eps_d})^2t\sim b\simeq \tau$. The Cabibbo angle is large:
+$s_{12}\simeq \sqrt{m_d/m_s}$ while other mixing angles have their natural
+size: $s_{23}\sim m_s/m_b$ and $s_{13}\sim m_d/m_b$. We have many strong {\em
+quantitative} predictions though no special `zero' texture is utilized (in
+contrast to the known predictive frameworks). Namely, taking as input the
+lepton, c-quark and b-quark masses, $m_s/m_d$ mass ratio and Cabibbo angle, we
+can obtain the light (u,d,s) quark masses, top mass and $\tan\beta$. The top
+quark is naturally in the 100 GeV range, but not too heavy: $m_t<165$ GeV. The
+lower bound $M_t>150$ GeV (160 GeV)
+","[{""version"":""v1"",""created"":""Mon, 11 Jul 1994 13:02:17 GMT""}]","2009-09-25"
+"hep-ph/9407265",,"Zurab G. Berezhiani and Anna Rossi","Majoron Decay in Matter","11 pages, no figures, LATEX, INFN-FE-04-94","Phys.Lett. B336 (1994) 439-445","10.1016/0370-2693(94)90556-8",,"hep-ph",,"  It is well known that the matter can significantly alter the picture of
+neutrino oscillation \cite{W} or neutrino decay \cite{BV}. Here we show that
+the presence of dense matter induces also the decay of {\it massless} majoron,
+a Goldstone boson associated with the spontaneous lepton number violation, into
+a couple of neutrinos with the same (or in some cases also opposite)
+helicities. We calculate the rates of such matter induced majoron decays in
+various cases, depending on the neutrino type and the chemical content of the
+medium, and analyse their properties.
+","[{""version"":""v1"",""created"":""Mon, 11 Jul 1994 13:03:08 GMT""}]","2009-10-28"
+"hep-ph/9407266","Tord Riemann","Arif Akhundov, Dima Bardin, Lida Kalinovskaya, Tord Riemann","Model independent QED corrections to the process $ep \longrightarrow eX$","112 pages (LaTex), 42 figures. Corrected misprints in the formulae:
+  (2.25), (8.10), (8.11), (8.12), (A.23), (A.26), (A.31), (D.72). All these
+  formulae are correct in journal version of this article:
+  Fortsch.Phys.44:373-482,1996","Fortsch.Phys.44:373-482,1996","10.1002/prop.2190440502",,"hep-ph","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  We give an exhaustive presentation of the semi-analytical approach to the
+model independent leptonic QED corrections to deep inelastic neutral current
+lepton-nucleon scattering. These corrections include photonic bremsstrahlung
+from and vertex corrections to the lepton current of the order ${\cal
+O}(\alpha)$ with soft photon exponentiation. % A common treatment of these
+radiative corrections in several variables -- leptonic, hadronic, mixed,
+Jaquet-Blondel variables -- has been developed and double differential
+cross-sections are calculated. In all sets of variables we use some structure
+functions, which depend on the hadronic variables and which do not have to be
+defined in the quark parton model. The remaining numerical integrations are
+twofold (for leptonic variables) or onefold (for all other variables). For the
+case of hadronic variables, all phase space integrals have been performed
+analytically. Numerical results are presented for a large kinematical range,
+covering fixed target as well as collider experiments at HERA or
+LEP$\otimes$LHC, with a special emphasis on HERA physics.
+","[{""version"":""v1"",""created"":""Mon, 11 Jul 1994 14:02:10 GMT""},{""version"":""v2"",""created"":""Thu, 10 Jul 2008 09:46:22 GMT""},{""version"":""v3"",""created"":""Thu, 17 Jul 2008 22:50:47 GMT""}]","2009-10-28"
+"hep-ph/9407267","Daniel Litim","D. Litim, C. Wetterich and N. Tetradis","Non-Perturbative Analysis of the Coleman-Weinberg Phase Transition","17 pages, 4 figures added in PostScript, HD-THEP-94-23, OUTP-94-12","Mod.Phys.Lett. A12 (1997) 2287-2308","10.1142/S0217732397002363",,"hep-ph",,"  We perform a non-perturbative study of the Coleman-Weinberg phase transition
+in scalar QED. Our method permits a consistent treatment of the effective
+potential near the origin, a region not accessible to perturbation theory. As a
+result, we establish reliably the first order character of the phase transition
+for arbitrary values of the scalar coupling.
+","[{""version"":""v1"",""created"":""Mon, 11 Jul 1994 15:53:20 GMT""}]","2009-10-28"
+"hep-ph/9407268","C. Lovett-Turner","C.N. Lovett-Turner and C.J. Maxwell","Renormalon Singularities of the QCD Vacuum Polarization Function to
+  Leading Order in $1/N_{f}$","22 pages of LaTeX, revisions to this paper are mainly typographical","Nucl.Phys. B432 (1994) 147-162","10.1016/0550-3213(94)90597-5","DTP/94/58","hep-ph",,"  We explicitly determine the residues and orders of all the ultra-violet (UV)
+and infra-red (IR) renormalon poles in the Borel plane for the QCD vacuum
+polarization function (Adler D-function), to leading order in an expansion in
+the number of quark flavours, $N_{f}$. The singularity structure is precisely
+as anticipated on general grounds. In particular, the leading IR renormalon is
+absent, in agreement with operator product expansion ideas. There is a curious
+and unexplained symmetry between the third and higher UV and IR renormalon
+residues. We are able to sum up separately UV and IR contributions to obtain
+closed form results involving $\zeta$-functions. We argue that the leading UV
+renormalon should have a more complicated structure than conventionally
+assumed. The disappearance of IR renormalons in flavour-saturated SU($N$) QCD
+is shown to occur for $N=3,6$ or 9.
+","[{""version"":""v1"",""created"":""Mon, 11 Jul 1994 15:45:54 GMT""},{""version"":""v2"",""created"":""Fri, 30 Sep 1994 14:19:52 GMT""}]","2009-10-28"
+"hep-th/9407052","Hiroshi Kunitomo","Hiroshi Kunitomo","On the Nonlinear Realization of the Superconformal Symmetry","5 pages, phyzzx, OU-HET 196","Phys.Lett. B343 (1995) 144-146","10.1016/0370-2693(94)01421-8",,"hep-th",,"  The nonlinear realization of the superconformal symmetry in two dimensions is
+considered. The superconformal symmetry is realized by means of dimension
+$-1/2$\ Nambu-Goldstone fermion $\xi$\ and its dimension 3/2 conjugate $\eta$.
+A matter coupling of these Nambu- Goldstone fermions reproduce the realization
+found by Berkovits and Vafa to show the equivalence between the bosonic string
+and a $N=1$\ superstring. This indicates that this equivalence is a result of
+the super Higgs mechanism as a two dimensional field theory, in which the NG
+fermions become unphysical.
+","[{""version"":""v1"",""created"":""Mon, 11 Jul 1994 06:42:58 GMT""},{""version"":""v2"",""created"":""Tue, 12 Jul 1994 03:39:37 GMT""}]","2009-10-28"
+"hep-th/9407054",,"R. Barbier, J. Meyer and M. Kibler","An Uqp(u2) Model for Rotational Bands of Nuclei","11 pages, Tex, LYCEN 9348","J.Phys. G20 (1994) L13-L20","10.1088/0954-3899/20/1/003",,"hep-th nucl-th",,"  A rotational model is developed from a new version of the two-parameter
+quantum algebra $U_{qp}({\rm u}_2)$. This model is applied to the description
+of some recent experimental data for the rotating superdeformed nuclei
+$^{192-194-196-198}{\rm Pb}$ and $^{192-194 }{\rm Hg}$. A comparison between
+the $U_{qp}({\rm u}_2)$ model presented here and the Raychev-Roussev-Smirnov
+model with $U_{q }({\rm su}_2)$ symmetry shows the relevance of the
+introduction of a second parameter of a ``quantum algebra'' type.
+","[{""version"":""v1"",""created"":""Mon, 11 Jul 1994 14:31:50 GMT""}]","2009-10-28"
+"hep-th/9407055","Terry Gannon","Terry Gannon and Mark A. Walton","On the Classification of Diagonal Coset Modular Invariants","24 pp (plain tex)","Commun.Math.Phys. 173 (1995) 175-198","10.1007/BF02100186",,"hep-th",,"  We relate in a novel way the modular matrices of GKO diagonal cosets without
+fixed points to those of WZNW tensor products. Using this we classify all
+modular invariant partition functions of $su(3)_k\oplus su(3)_1/su(3)_{k+1}$
+for all positive integer level $k$, and $su(2)_k\oplus
+su(2)_\ell/su(2)_{k+\ell}$ for all $k$ and infinitely many $\ell$ (in fact, for
+each $k$ a positive density of $\ell$). Of all these classifications, only that
+for $su(2)_k\oplus su(2)_1/su(2)_{k+1}$ had been known. Our lists include many
+new invariants.
+","[{""version"":""v1"",""created"":""Mon, 11 Jul 1994 15:59:32 GMT""}]","2009-10-28"

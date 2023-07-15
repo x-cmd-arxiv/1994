@@ -1,0 +1,26 @@
+"cond-mat/9404020","Felix Ritort","Felix Ritort","Static chaos and scaling behaviour in the spin-glass phase","28 pages + 6 figures, LateX, figures uuencoded at the end of file",,"10.1103/PhysRevB.50.6844","Preprint ROM2F/94 (Universita di Roma II and INFN, Roma)","cond-mat",,"  We discuss the problem of static chaos in spin glasses. In the case of
+magnetic field perturbations, we propose a scaling theory for the spin-glass
+phase. Using the mean-field approach we argue that some pure states are
+suppressed by the magnetic field and their free energy cost is determined by
+the finite-temperature fixed point exponents. In this framework, numerical
+results suggest that mean-field chaos exponents are probably exact in finite
+dimensions. If we use the droplet approach, numerical results suggest that the
+zero-temperature fixed point exponent $\theta$ is very close to
+$\frac{d-3}{2}$. In both approaches $d=3$ is the lower critical dimension in
+agreement with recent numerical simulations.
+","[{""version"":""v1"",""created"":""Sat, 9 Apr 1994 16:32:21 GMT""}]","2009-10-22"
+"hep-ph/9404245",,"A. P. Kobushkin, A. I. Syamtomov, C. F. Perdrisat, V. Punjabi","Polarization observables of the $\vec{d} \vec{p} \rightarrow \vec{p}d$
+  reaction and one-neutron-exchange approximation","11 pages, LaTeX, Kiev, Bogolyubov Institute for Theoretical Physics",,,"ITP-94-19E","hep-ph",,"  The polarization observables in the elastic scattering of polarized deuterons
+on a polarized hydrogen target, with measurement of the recoil proton
+polarization, are considered. The observables are calculated in the one-neutron
+exchange approximation, for the special case of backward scattering
+($\theta_{c.m.} = 180^{\circ}$). Several new relations between polarization
+observables of the reaction are derived within the framework of this
+approximation.
+","[{""version"":""v1"",""created"":""Sat, 9 Apr 1994 22:28:38 GMT""}]","2007-05-23"
+"math/9404204",,"Moti Gitik","Blowing up the power of a singular cardinal",,,,"Logic E-prints April 10, 1994","math.LO",,"  Suppose that kappa is a singular cardinal of cofinality omega and GCH holds.
+Assume that for every n<omega the set of alphas with o(alpha)>= alpha^{+n} is
+unbounded in kappa.Then there is a cardinal preserving extension satisfying
+2^kappa=kappa^++ and GCH below kappa.
+  By a result of W. Mitchell and the author the assumptions are optimal.
+","[{""version"":""v1"",""created"":""Sun, 10 Apr 1994 00:00:00 GMT""}]","2016-09-06"

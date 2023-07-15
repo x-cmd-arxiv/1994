@@ -1,0 +1,467 @@
+"adap-org/9410002","Hoi Fung Chau","S. W. Chan (Dept. of Math.,Ohio State Univ.) and H. F. Chau (School of
+  Natural Sci.,Inst. for Advanced Study)","On The Avalanche-finiteness Of Abelian Sandpiles","8 pages with no figure, typeset using RevTex 3.0 with some symbols
+  from AMS Fonts as well",,"10.1016/0378-4371(95)00079-M","(IASSNS-HEP-94/86)","adap-org cond-mat nlin.AO",,"  We prove a necessary and sufficient condition for an Abelian Sandpile Model
+(ASM) to be avalanche-finite, namely: all unstable states of the system can be
+brought back to stability in finite number of topplings. The method is also
+computationally feasible since it involves no greater than $\mbox{O} \left( N^3
+\right)$ arithmetic computations where $N$ is the total number of sites of the
+system. Key words: Abelian sandpile model; avalanche-finiteness; self-organized
+criticality
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 19:03:10 GMT""}]","2015-06-24"
+"adap-org/9410003",,"C.D. Levermore (Mathematics Department, U. Arizona, Tucson, AZ 85721),
+  W. Nadler (Inst. f. Theor. Chem., U. Tuebingen, D-72076 Tuebingen, FRG), and
+  D.L. Stein (Physics Department, U. Arizona, Tucson, AZ 85721)","Random Walks on a Fluctuating Lattice: A Renormalization Group Approach
+  Applied in One Dimension","PostScript file including 2 figures, total 15 pages, 8 other figures
+  obtainable by mail from D.L. Stein",,"10.1103/PhysRevE.51.2779",,"adap-org nlin.AO",,"  We study the problem of a random walk on a lattice in which bonds connecting
+nearest neighbor sites open and close randomly in time, a situation often
+encountered in fluctuating media. We present a simple renormalization group
+technique to solve for the effective diffusive behavior at long times. For
+one-dimensional lattices we obtain better quantitative agreement with
+simulation data than earlier effective medium results. Our technique works in
+principle in any dimension, although the amount of computation required rises
+with dimensionality of the lattice.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 22:13:20 GMT""}]","2009-10-22"
+"astro-ph/9410050","Chris Aikman","J.B. Hutchings, D. Crampton, Andrea Johnson","Companions of Qsos at Redshift 1.1","9 pages Plain Tex, 8 figures upon request, SISSA-DAO-94-007","Astron.J. 109 (1995) 73-80","10.1086/117257",,"astro-ph",,"  We discuss broad- and narrow-band imaging of 7 arcmin fields of 14 QSOs with
+redshift ~1.1. The narrow-band filters were chosen to detect redshifted [O II]
+3727A, and the broad bands are R and I, which correspond to rest wavelengths
+{}~3300A and ~3800A. In 100 arcsec subfields surrounding the QSOs, we detect an
+excess of typically 15 detected objects over the background of 25. Several of
+the QSO subfields also contain an excess of blue (R-I < 1.0) galaxies compared
+with the other subfields. Finally, several of the QSO subfields contain an
+excess of galaxies with significant narrow-band flux compared with the other
+subfields, and many of these are also blue. Most of the QSOs are radio-quiet in
+a region of sky overpopulated with z=1.1 QSOs, and 3 others are radio-loud from
+other parts of the sky. We suggest that most of these z=1.1 QSOs are in compact
+groups of starbursting galaxies. In our data, there is no significant
+difference between radio-loud and radio-quiet QSOs. We discuss cosmic
+evolutionary implications.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 17:44:47 GMT""}]","2009-10-22"
+"astro-ph/9410051","Sharon L. Vadas","Sharon L. Vadas","Collapse of a Superhorizon-sized Void in the Early Universe","(vasha@physics.berkeley.edu), 37 pages Latex, 13 figures can be
+  mailed upon request. Entire double-sided paper mailed upon request also. To
+  be published in Phys. Rev D","Phys.Rev. D50 (1994) 7179-7201","10.1103/PhysRevD.50.7179",,"astro-ph gr-qc",,"  In this paper, we study the collapse of a superhorizon-sized void in the
+early, radiation-dominated universe using an improved general relativistic
+code. We find that in general a relativistic or nonrelativistic void collapses
+via a shock at the speed of light. This is true even if the outward velocity of
+the void wall is enormous. As the wall thickness decreases, the shock strength
+increases and the collapse time decreases up to a limit set by the shock tube
+solution. In addition, as the outward velocity of the wall increases, the
+collapse time increases somewhat. When the collapse occurs in much less than a
+Hubble time outside the void, gravitational forces contribute negligibly to the
+solution at the collapse time; non-gravitational forces (caused by pressure and
+velocity gradients) shape the solution almost entirely. This is true even if
+the wall velocity is large enough that fluid in the peak shocks outward
+substantially during this time. Gravitational forces are expected to be
+dominant only {\it after} a void has collapsed.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 18:50:07 GMT""}]","2009-10-22"
+"astro-ph/9410052","Han Cheongho","Cheongho Han and Andrew Gould","Statistics Of Microlensing Optical Depth","13 pages, 2 figures, 1 tables, request hard copy of preprint to
+  cheongho@payne.mps.ohio-state.edu, OSU-TA-23/94",,"10.1086/176076",,"astro-ph",,"  We show that the statistical error, $\sigma_{\tau}$, in estimating the
+optical depth, $\tau$, due to microlensing is substantially higher than the
+naive Poisson estimate: $\sigma_{\tau} = \sqrt{\eta / N} \tau$, where $N$ is
+the number of detections and $1.65 \leq \eta \lsim 3$. We construct a
+``microlensing map'' using an observationally well-constrained barred bulge
+model and compare this with a map based on a spherical bulge model. The result
+indicates a significant differences in the distribution of optical depths. If
+the optical depths are determined over a wide range of positions around the
+Galactic center, one could make a rudimentary determination of the geometry of
+the mass distribution of the Galactic bulge by observing $\sim 200$ events.
+About 800 events are required to determine the relative contributions to the
+event rate by bulge and disk Machos.
+","[{""version"":""v1"",""created"":""Tue, 18 Oct 1994 02:44:41 GMT""}]","2009-10-22"
+"astro-ph/9410053","Ferrara Andrea","A. Ferrara and E. Corbelli","Acoustic and Thermoreactive Instabilities in a Photoionized Multiphase
+  Medium","11 pages PASP LaTeX, 5 figures upon request, invited paper at ""The
+  Physics of ISM and IGM"", in honour of Prof. G.B. Field, ARCETRI-22-94",,,,"astro-ph",,"  We study thermoreactive and acoustic instabilities in a diffuse gas,
+photoionized and heated by a radiation field. The analysis of the thermal
+instability by Field (1965) is extended to include the effects of the hydrogen
+recombination reaction, which, in general, is found to be a stabilizing agent
+for the condensation mode. This effect is stronger when the mean photon energy
+is not much larger than the hydrogen ionization energy. In addition, there are
+thermoreactive unstable equilibria for which an isobaric transition to a stable
+phase is not possible and the system evolves toward a dynamic state
+characterized by large amplitude, nonlinear periodic oscillations of
+temperature, density and hydrogen ionization fraction. Acoustic waves are found
+to be unstable for some temperatures of both the cold and the warm phase of the
+ISM, also in regions where the gas is {\it thermally stable}, independently of
+the mean photon energy.
+","[{""version"":""v1"",""created"":""Tue, 18 Oct 1994 09:32:19 GMT""}]","2007-05-23"
+"comp-gas/9410001","Ramon Lopez","H. Waelbroeck (Instituto de Ciencias Nucleares, Universidad Nacional
+  Autonoma de Mexico)","Deterministic Chaos in Tropical Atmospheric Dynamics","41 pages in Plain TeX, with 10 figures avalaible in hardcopy on
+  request to the author",,"10.1175/1520-0469(1995)052<2404:DCITAD>2.0.CO;2",,"comp-gas nlin.CG",,"  We examine an 11-year data set from the tropical weather station of Tlaxcala,
+Mexico. We find that mutual information drops quickly with the delay, to a
+positive value which relaxes to zero with a time scale of 20 days. We also
+examine the mutual dependence of the observables and conclude that the data set
+gives the equivalent of 8 variables per day, known to a precision of $2\%$. We
+determine the effective dimension of the attractor to be $D_{eff} \approx 11.7$
+at the scale $3.5\% < R/R_{max} < 8\%$. We find evidence that the effective
+dimension increases as $R/R_{max} \to 0$, supporting a conjecture by Lorenz
+that the climate system may consist of a large number of weakly coupled
+subsystems, some of which have low-dimensional attractors. We perform a local
+reconstruction of the dynamics in phase space; the short-term predictability is
+modest and agrees with theoretical estimates. Useful skill in predictions of
+10-day rainfall accumulation anomalies reflects the persistence of weather
+patterns, which follow the 20-day decay rate of the mutual information.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 16:15:05 GMT""}]","2009-10-22"
+"cond-mat/9410052","Frank Tzschicholz","F. Tzschichholz and H.J.Herrmann","Simulations of Pressure Fluctuations and Acoustic Emission in Hydraulic
+  Fracturing","Plain TeX (20 pages), 13 postscript figures, tarred, gzipped,
+  uuencoded using `uufiles', coming with a separate file. Previous version
+  contained raw postscript figures!","Phys. Rev. E bf 51, (3), 1961-70, (1995)","10.1103/PhysRevE.51.1961",,"cond-mat",,"  We consider a two dimensional lattice model to describe the opening of a
+crack in hydraulic fracturing. In particular we consider that the material only
+breaks under tension and the fluid has no pressure drop inside the crack. For
+the case in which the material is completely homogeneous (no disorder) we
+present results for pressure and elastic energy as a function of time and
+compare our findings with some analytic results from continuum fracture
+mechanics. Then we investigate fracture processes in strongly heterogeneous
+cohesive environments. We determine the cummulative probability distribution
+for breaking events of a given energetical magnitude (acoustic emission).
+Further we estimate the probabilty distribution of emission free time
+intervals. %We present results for a scaling relation between the amount of
+%injected fluids, the crack pressures, the time dependent crack %extensions and
+the system sizes. Finally we determine the fractal dimension(s) of the cracks.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 18:10:02 GMT""},{""version"":""v2"",""created"":""Sat, 3 Jun 1995 23:41:35 GMT""}]","2009-10-22"
+"cond-mat/9410053",,"B. Coluzzi","Numerical simulations on the 4d Heisenberg spin glass","11 pages, LaTeX, preprint ROMA1 n. 1054",,"10.1088/0305-4470/28/3/027",,"cond-mat",,"  We study the 4d Heisenberg spin glass model with Gaussian nearest-neighbor
+interactions. We use finite size scaling to analyze the data. We find a
+behavior consistent with a finite temperature spin glass transition. Our
+estimates for the critical exponents agree with the results from
+epsilon-expansion.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 18:59:48 GMT""},{""version"":""v2"",""created"":""Tue, 18 Oct 1994 10:51:06 GMT""}]","2009-10-22"
+"cond-mat/9410054","Sergio de Queiroz","S. L. A. de Queiroz","Correlation decay and conformal anomaly in the two-dimensional
+  random-bond Ising ferromagnet","RevTeX 3, 11 pages +2 figures, uuencoded, IF/UFF preprint","Phys Rev E 51, 1030 (1995)","10.1103/PhysRevE.51.1030",,"cond-mat",,"  The two-dimensional random-bond Ising model is numerically studied on long
+strips by transfer-matrix methods. It is shown that the rate of decay of
+correlations at criticality, as derived from averages of the two largest
+Lyapunov exponents plus conformal invariance arguments, differs from that
+obtained through direct evaluation of correlation functions. The latter is
+found to be, within error bars, the same as in pure systems. Our results
+confirm field-theoretical predictions. The conformal anomaly $c$ is calculated
+from the leading finite-width correction to the averaged free energy on strips.
+Estimates thus obtained are consistent with $c=1/2$, the same as for the pure
+Ising model.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 19:05:11 GMT""}]","2009-10-22"
+"cond-mat/9410055","Mark Millonas","Mark M. Millonas","Self-Consistent Microscopic Model of Fluctuation-Induced Transport","15 pages, 2 ps figures on request, LaTeX Article Format (submitted to
+  Phys. Rev. Lett.)",,"10.1103/PhysRevLett.74.10",,"cond-mat",,"  A Maxwell's demon type ``information engine"" which extracts work from a bath
+is constructed from a microscopic Hamiltonian for the whole system including a
+subsystem, a thermal bath, and a nonequilibrium bath of phonons or photons
+which represents an information source/sink. The kinetics of the engine is
+calculated self-consistently from the state of the nonequilibrium bath, and the
+relation of this kinetics to the underlying microscopic thermodynamics is
+established.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 22:23:06 GMT""}]","2009-10-22"
+"cond-mat/9410056","Mark Millonas","Mark I. Dykman, Mark M. Millonas, Vadim N. Smelyanskiy","Observable and hidden singular features of large fluctuations in
+  nonequilibrium systems","10 pages, 3 ps figures by request, LaTeX Article Format (In press,
+  Phys. Lett. A)",,"10.1016/0375-9601(94)90426-X",,"cond-mat",,"  We study local features, and provide a topological insight into the global
+structure of the probability density distribution and of the pattern of the
+optimal paths for large rare fluctuations away from a stable state. In contrast
+to extremal paths in quantum mechanics, the optimal paths do {\it not}
+encounter caustics. We show how this occurs, and what, instead of caustics, are
+the experimentally observable singularities of the pattern. We reveal the
+possibility for a caustic and a switching line to start at a saddle point, and
+discuss the consequences.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 22:35:05 GMT""}]","2009-10-22"
+"cond-mat/9410057","Mark Millonas","Dante R. Chialvo and Mark M. Millonas","Temporally Asymmetric Fluctuations are Sufficient for the Operation of a
+  Correlation Ratchet","17 pages, ps figures on request, LaTeX Article Format",,"10.1016/0375-9601(95)00773-0",,"cond-mat",,"  It has been shown that the combination of a broken spatial symmetry in the
+potential (or ratchet potential) and time correlations in the driving are
+crucial, and enough to allow transformation of the fluctuations into work. The
+required broken spatial symmetry implies a specific molecular arrangement of
+the proteins involved. Here we show that a broken spatial symmetry is not
+required, and that temporally asymmetric fluctuations (with mean zero) can be
+used to do work, even when the ratchet potential is completely symmetric.
+Temporal asymmetry, defined as a lack of invariance of the statistical
+properties under the operation to temporal inversion, is a generic property of
+nonequilibrium fluctuation, and should therefore be expected to be quite common
+in biological systems.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 23:03:43 GMT""}]","2009-10-22"
+"cond-mat/9410058","Steve Strong","S.P. Strong","Spectral Functions of Local Operators In The Tomonaga-Luttinger Model","8 pages, RevTeX 3.0",,,,"cond-mat",,"  I give a simple general prescription for computing the spectral functions of
+local operators in the Tomonaga-Luttinger model from the space-time correlation
+functions. The method is significantly simpler than directly transforming the
+space-time Greens function and allows a physical interpretation of the
+singularities encountered in the spectral function.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 23:22:33 GMT""}]","2007-05-23"
+"cond-mat/9410059","Fujimoto Satoshi","S. Fujimoto and N. Kawakami","Bosonization approach to the one-dimensional Kondo lattice model","11 page, YITP/K-1085",,"10.1143/JPSJ.63.4322",,"cond-mat hep-th",,"  The one-dimensional Kondo lattice model is investigated by using bosonization
+techniques and conformal field theory. In the half-filled band, the charge and
+spin gaps open for the anti-ferromagnetic Kondo coupling. Away from
+half-filling, the paramagnetic metallic state is characterized by the fixed
+point of Tomonaga-Luttinger liquid with the {\it large} Fermi surface in
+accordance with known results. It is suggested that as the electron density
+approaches half-filling, both of spin and charge susceptibilities may show a
+divergence property.
+","[{""version"":""v1"",""created"":""Tue, 18 Oct 1994 08:39:17 GMT""}]","2009-10-22"
+"cond-mat/9410060",,"M.Di Stasio and X. Zotos","Connection between low energy effective Hamiltonians and energy level
+  statistics","REVTEX, 5 postscript figures at the end of the file",,"10.1103/PhysRevLett.74.2050",,"cond-mat",,"  We study the level statistics of a non-integrable one dimensional interacting
+fermionic system characterized by the GOE distribution. We calculate
+numerically on a finite size system the level spacing distribution $P(s)$ and
+the Dyson-Mehta $\Delta_3$ correlation. We observe that its low energy spectrum
+follows rather the Poisson distribution, characteristic of an integrable
+system, consistent with the fact that the low energy excitations of this system
+are described by the Luttinger model. We propose this Random Matrix Theory
+analysis as a probe for the existence and integrability of low energy effective
+Hamiltonians for strongly correlated systems.
+","[{""version"":""v1"",""created"":""Tue, 18 Oct 1994 09:43:23 GMT""}]","2009-10-22"
+"cond-mat/9410061",,"Stephen Cornell","Refined Simulations of the Reaction Front for Diffusion-Limited
+  Two-Species Annihilation in One Dimension","Resubmitted as TeX rather than Postscript file. RevTeX version 3.0,
+  10 pages with 16 Encapsulated Postscript figures (need epsf). University of
+  Geneva preprint UGVA/DPT 1994/10-857","Phys. Rev. E 51, 4055 (1995)","10.1103/PhysRevE.51.4055",,"cond-mat",,"  Extensive simulations are performed of the diffusion-limited reaction
+A$+$B$\to 0$ in one dimension, with initially separated reagents. The reaction
+rate profile, and the probability distributions of the separation and midpoint
+of the nearest-neighbour pair of A and B particles, are all shown to exhibit
+dynamic scaling, independently of the presence of fluctuations in the initial
+state and of an exclusion principle in the model. The data is consistent with
+all lengthscales behaving as $t^{1/4}$ as $t\to\infty$. Evidence of
+multiscaling, found by other authors, is discussed in the light of these
+findings.
+","[{""version"":""v1"",""created"":""Tue, 18 Oct 1994 14:58:47 GMT""},{""version"":""v2"",""created"":""Thu, 20 Oct 1994 11:48:08 GMT""}]","2009-10-22"
+"cond-mat/9410062","Peter Neu","Peter Neu and Alois W\""urger","Relaxation due to Incoherent Tunnelling in Dielectric Glasses","9 pages, Rev-Tex, Europhys.Lett, 27, 457 (1994)",,"10.1209/0295-5075/27/6/008",,"cond-mat",,"  A new relaxation mechanism is shown to arise from overdamped two-level
+systems above a critical temperature $T^*\approx 5$ K, thus yielding an
+explanation for experimental observations in dielectric glasses in the
+temperature range between $T^*$ and the relaxation peak at 50 K. Using the
+distribution function of the tunnelling model for the parameters of the
+two-level systems, both the linear decrease of the sound velocity and the
+linear increase of the absorptionup to the relaxation maximum, are
+quantitatively accounted for by our theory.
+","[{""version"":""v1"",""created"":""Tue, 18 Oct 1994 14:55:58 GMT""}]","2009-10-22"
+"cond-mat/9410063","Peter Neu","Peter Neu and Roland Speicher","Random matrix theory for CPA: Generalization of Wegner's $n$--orbital
+  model","3 pages, Rev-Tex",,"10.1088/0305-4470/28/3/004",,"cond-mat funct-an math.FA",,"  We introduce a generalization of Wegner's $n$-orbital model for the
+description of randomly disordered systems by replacing his ensemble of
+Gaussian random matrices by an ensemble of randomly rotated matrices. We
+calculate the one- and two-particle Green's functions and the conductivity
+exactly in the limit $n\to\infty$. Our solution solves the CPA-equation of the
+$(n=1)$-Anderson model for arbitrarily distributed disorder. We show how the
+Lloyd model is included in our model.
+","[{""version"":""v1"",""created"":""Tue, 18 Oct 1994 15:00:16 GMT""}]","2009-10-22"
+"funct-an/9410005","Jean-Bruno Erismann","J.M. Combes, P.D. Hislop","Landau Hamiltonians with Random Potentials: Localization and the Density
+  of States","34 pages,CPT-94/P.3061,LaTex",,,,"funct-an math-ph math.FA math.MP",,"  We prove the existence of localized states at the edges of the bands for the
+two-dimensional Landau Hamiltonian with a random potential, of arbitrary
+disorder, provided that the magnetic field is sufficiently large. The
+corresponding eigenfunctions decay exponentially with the magnetic field and
+distance. We also prove that the integrated density of states is Lipschitz
+continuous away from the Landau energies. The proof relies on a Wegner estimate
+for the finite-area magnetic Hamiltonians with random potentials and
+exponential decay estimates for the finite-area Green's functions. The proof of
+the decay estimates for the Green's functions uses fundamental results from
+two-dimensional bond percolation theory.
+","[{""version"":""v1"",""created"":""Tue, 18 Oct 1994 14:16:46 GMT""}]","2008-02-03"
+"gr-qc/9410023","Ted Jacobson","Ted Jacobson and Shankar Venkataramani","Topology of Event Horizons and Topological Censorship","11 pages, plain latex (minor revision: $\Sigma$ replaced by its
+  closure in various places.)","Class.Quant.Grav.12:1055-1062,1995","10.1088/0264-9381/12/4/012","UMDGR-95-019","gr-qc hep-th",,"  We prove that, under certain conditions, the topology of the event horizon of
+a four dimensional asymptotically flat black hole spacetime must be a 2-sphere.
+No stationarity assumption is made. However, in order for the theorem to apply,
+the horizon topology must be unchanging for long enough to admit a certain kind
+of cross section. We expect this condition is generically satisfied if the
+topology is unchanging for much longer than the light-crossing time of the
+black hole. More precisely, let $M$ be a four dimensional asymptotically flat
+spacetime satisfying the averaged null energy condition, and suppose that the
+domain of outer communication $\C_K$ to the future of a cut $K$ of $\Sm$ is
+globally hyperbolic. Suppose further that a Cauchy surface $\Sigma$ for $\C_K$
+is a topological 3-manifold with compact boundary $\partial\S$ in $M$, and
+$\S'$ is a compact submanifold of $\bS$ with spherical boundary in $\S$ (and
+possibly other boundary components in $M/\S$). Then we prove that the homology
+group $H_1(\Sigma',Z)$ must be finite. This implies that either $\partial\S'$
+consists of a disjoint union of 2-spheres, or $\S'$ is nonorientable and
+$\partial\S'$ contains a projective plane. Further,
+$\partial\S=\partial\Ip[K]\cap\partial\Im[\Sp]$, and $\partial \Sigma$ will be
+a cross section of the horizon as long as no generator of $\partial\Ip[K]$
+becomes a generator of $\partial\Im[\Sp]$. In this case, if $\S$ is orientable,
+the horizon cross section must consist of a disjoint union of 2-spheres.}
+","[{""version"":""v1"",""created"":""Tue, 18 Oct 1994 04:26:56 GMT""},{""version"":""v2"",""created"":""Mon, 31 Oct 1994 20:23:53 GMT""}]","2010-04-06"
+"hep-lat/9410007",,"A. Soni","Lattice Results for Heavy Light Matrix Elements","3 pages",,,"BNL-60828","hep-lat hep-ph",,"  Lattice results for heavy light matrix elements are reviewed and some of
+their implications are very briefly discussed. Despite the fact that in most
+cases the lattice results for weak matrix elements at the moment have only a
+modest accuracy of about 20--30\% they already have important phenomenological
+repercussions; e.g.\ for $V_{td}/V_{ts}$, $x_s/x_d$ and $B\to K^\ast\gamma$.
+Presented at the XXVII International Conference on High Energy Physics,
+Glasgow, July 1994.
+","[{""version"":""v1"",""created"":""Tue, 18 Oct 1994 01:30:22 GMT""}]","2007-05-23"
+"hep-ph/9410299","Michelangelo Mangano","Michelangelo MANGANO","Recent Progress in the Theory of Heavy Quark and Quarkonium Production
+  in Hadronic Collisions","to appear in the Proceedings of the International Conference on High
+  Energy Physics, Glasgow (UK), July 1994. Latex, 4 pages, 5 figures available
+  upon request. (revised file: postscript figures removed) Also available as
+  postscript file from 39198::DISK$ALEPH:[MLM]GLASGOW.PS. (5 pages)",,,,"hep-ph",,"  We review heavy quark and quarkonium production in high energy hadronic
+collisions. We discuss the status of the theoretical calculations and their
+uncertainties. We then compare the current theoretical results with the most
+recent measurements from the tevatron collider experiments.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 23:51:09 GMT""}]","2009-09-25"
+"hep-ph/9410306","Paul A. Griffin","L. Susskind and P. Griffin","Partons and Black Holes","23 pages LaTeX + 10 figs. (epsf.sty needed for figs.). Based on
+  lectures given by L.S. at the `Theory of Hadrons and Light-front QCD'
+  workshop in Zakopane, Poland, August 1994",,,"Florida preprint ufift-hep-94-13","hep-ph hep-th",,"  A light-front renormalization group analysis is applied to study matter which
+falls into massive black holes, and the related problem of matter with
+transplankian energies. One finds that the rate of matter spreading over the
+black hole's horizon unexpectedly saturates the causality bound. This is
+related to the transverse growth behavior of transplankian particles as their
+longitudinal momentum increases. This growth behavior suggests a natural
+mechanism to impliment 'tHooft's scenario that the universe is an image of data
+stored on a 2 + 1 dimensional hologram-like projection.
+","[{""version"":""v1"",""created"":""Tue, 18 Oct 1994 00:02:35 GMT""}]","2007-05-23"
+"hep-ph/9410307",,"Howard Georgi, Lev Kaplan, David Morin, Andreas Schenk","Effects of Top Compositeness","LaTeX 18pp., PicTeX, PrePicTex, PostPicTex required for three figures","Phys.Rev.D51:3888-3894,1995","10.1103/PhysRevD.51.3888","HUTP-94/A035","hep-ph",,"  We investigate the effects of top quark compositeness on various physical
+parameters, and obtain lower limits on the compositeness scale from electroweak
+precision data. We consider corrections to top quark decay rates and other
+physical processes. Our results depend sensitively on whether the left-handed
+top is composite. A considerable enhancement of $t \bar t$ production is
+possible if only the right-handed top is composite.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 22:02:26 GMT""},{""version"":""v2"",""created"":""Fri, 13 Jan 1995 03:01:13 GMT""}]","2009-09-11"
+"hep-ph/9410308",,"Andrei L. Kataev","Radiative QCD Corrections: A Personal Outlook","Invited Summary Talk at the Symposium on ""Radiative Corrections:
+  Status and Outlook"", Galtinburg,Tennessee, USA, 27 June- 1 July 1994;
+  preprint CERN-TH.7465/94; 27 pages, 8 figures not included in the text; the
+  copy with figures can be recieved from the author by the additional
+  request;additional correction of Eq. (12) is made",,,,"hep-ph",,"  We describe several problems related to the studies of the effects of
+radiative QCD corrections in the phenomenological and theoretical
+considerations thus summarizing the work of the QCD part of the Symposium on
+""Radiative Corrections: Status and Outlook"".
+","[{""version"":""v1"",""created"":""Tue, 18 Oct 1994 12:50:06 GMT""},{""version"":""v2"",""created"":""Wed, 19 Oct 1994 20:09:44 GMT""},{""version"":""v3"",""created"":""Mon, 24 Oct 1994 13:04:36 GMT""}]","2009-09-25"
+"hep-th/9410116","Kostas Skenderis","Kostas Skenderis","Background gauge invariance in the antifield formalism for theories with
+  open gauge algebras","17pp., Latex, mispelling in my name! corrected, no other changes","Class.Quant.Grav. 12 (1995) 2487-2498","10.1088/0264-9381/12/10/008","ITP-SB-94-21","hep-th",,"  We show that any BRST invariant quantum action with open or closed gauge
+algebra has a corresponding local background gauge invariance. If the BRST
+symmetry is anomalous, but the anomaly can be removed in the antifield
+formalism, then the effective action possesses a local background gauge
+invariance. The presence of antifields (BRST sources) is necessary. As an
+example we analyze chiral $W_3$ gravity.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 18:57:21 GMT""},{""version"":""v2"",""created"":""Sat, 4 Nov 1995 19:23:58 GMT""}]","2009-10-28"
+"hep-th/9410117",,"G. Delfino, G. Mussardo and P. Simonetti","Correlation Functions Along a Massless Flow","11 pages (two figures not included in the text), Latex file,
+  ISAS/EP/94/152","Phys.Rev.D51:6620-6624,1995","10.1103/PhysRevD.51.6620",,"hep-th cond-mat",,"  A non-perturbative method based on the Form Factor bootstrap approach is
+proposed for the analysis of correlation functions of 2-D massless integrable
+theories and applied to the massless flow between the Tricritical and the
+Critical Ising Models.
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 17:08:20 GMT""}]","2009-12-30"
+"hep-th/9410118",,"N. Brambilla and G.M. Prosperi","Wilson loops, $q \bar{q}$ and $3 q$ potentials, Bethe--Salpeter equation","13 pages, Latex file, 1 figure available upon request, Talk given at
+  the workshop ``Quark confinement and the hadron spectrum'', 20--24 June 1994,
+  Como, Italy",,,,"hep-th hep-ph",,"  The derivation of the $ q \bar q $ and the $ 3q $ potential for two dynamical
+quarks in a Wilson--loop context is reviewed. Some improvements are introduced.
+Only the usual assumptions in the evaluation of the Wilson loop integrals and
+expansions in the quark velocities are required for the result. It is shown
+that under the same assumptions it is possible to obtain the relativistic
+flux--tube lagrangian and a $ q \bar{q}$ Bethe--Salpeter equation with a
+confining kernel for spinless quarks. IFUM 482/FT
+","[{""version"":""v1"",""created"":""Mon, 17 Oct 1994 17:14:29 GMT""},{""version"":""v2"",""created"":""Tue, 22 Nov 1994 15:49:45 GMT""}]","2008-02-03"
+"hep-th/9410119","Kim Chanju","Chanju Kim and Yoonbai Kim","Comment on ""Obstructions to the Existence of Static Cosmic Strings in an
+  Abelian Higgs Model""","4 pages, LaTeX, DPNU-94-42, SNUTP-94-98",,,,"hep-th gr-qc",,"  There has been considerable interest in the possible cosmic string
+configurations and Y. Yang has recently derived intriguing obstructions to the
+existence of cylindrically symmetric solutions in the Bogomol'nyi critical
+phase of the Einstein-Maxwell-Higgs system. In this comment, we would like to
+mention some earlier results and recent progress which were not reflected there
+but are important in connection with the obstructions he claimed. Some of his
+obstructions are not consistent with the ealier results. Also, we give a new
+condition stronger than those found before.
+","[{""version"":""v1"",""created"":""Tue, 18 Oct 1994 10:45:25 GMT""}]","2007-05-23"
+"hep-th/9410120","Shamir Yigal","Yigal Shamir","Quantum Gravity via Random Triangulations of R^4 and Gravitons as
+  Goldstone Bosons of SL(4)/O(4)","WIS-94/44-PH, LaTeX, 20 p",,,,"hep-th gr-qc hep-lat",,"  A model of random triangulations of a domain in $R^{(4)}$ is presented. The
+global symmetries of the model include SL(4) transformations and translations.
+If a stable microscopic scale exists for some range of parameters, the model
+should be in a translation invariant phase where SL(4) is spontaneously broken
+to O(4). In that phase, SL(4) Ward identities imply that the correlation length
+in the spin two channel of a symmetric tensor field is infinite. Consequently,
+it may be possible to identify the continuum limit of four dimensional Quantum
+Gravity with points inside that phase.
+","[{""version"":""v1"",""created"":""Tue, 18 Oct 1994 13:13:51 GMT""}]","2007-05-23"
+"hep-th/9410121","John A. Gracey","J.A. Gracey","O(1/N^3) Conformal Bootstrap Solution of the SU(2) x SU(2)
+  Nambu--Jona-Lasinio Model","11 (latex) pages, 2 figures (available from author on request)","Phys.Lett. B342 (1995) 297-302","10.1016/0370-2693(94)01355-G",,"hep-th",,"  Using the full conformal bootstrap method an analytic expression is given in
+d-dimensions for the anomalous dimension of the fermion at O(1/N^3) in a large
+N expansion of the Nambu--Jona-Lasinio model with SU(2) x SU(2) continuous
+chiral symmetry.
+","[{""version"":""v1"",""created"":""Tue, 18 Oct 1994 13:48:56 GMT""}]","2009-10-28"
+"hep-th/9410122","Young Jai Park","Chang-Ho Kim, Young-Jai Park, Kee Yong Kim, and Yongduk Kim","Successive Superalgebraic Truncations from the Four-Dimensional Maximal
+  Supergravity","25pages, SOGANG-HEP 193/94","Mod.Phys.Lett.A10:1929-1948,1995","10.1142/S0217732395002088",,"hep-th",,"  We study the four-dimensional {\it N}=8 maximal supergravity in the context
+of Lie superalgebra SU(8/1). All possible successive superalgebraic truncations
+from four-dimensional {\it N}=8 theory to {\it N}=7, 6, $\cdots$, 1
+supergravity theories are systematically realized as sub-superalgebra chains of
+SU(8/1) by using the Kac-Dynkin weight techniques.
+","[{""version"":""v1"",""created"":""Tue, 18 Oct 1994 05:58:31 GMT""}]","2014-11-18"
+"hep-th/9410123","Jorge Stephany Ruiz","R.Gianvittorio, A.Restuccia and J.Stephany","A New Action Principle for Witten's Topological Field Theory","8 pages, SB/F-94-225","Phys. Lett. B347 (1995) 279","10.1016/0370-2693(95)00061-O",,"hep-th",,"  In this letter a new gauge invariant, metric independent action is introduced
+from which Witten's Topological Quantum Field Theory may be obtained after
+gauge fixing using standard BRST techniques. In our model the BRST algebra of
+transformations, under which the effective action is invariant, close off-shell
+in distintion with what occurs in the one proposed by Labastida and Pernici.
+Our approach provides the geometrical principle for the quantum theory. We also
+compare our results with an alternative formulation presented by Baulieu and
+Singer.
+","[{""version"":""v1"",""created"":""Tue, 18 Oct 1994 15:36:45 GMT""}]","2009-10-28"
+"hep-th/9410124","Ali Chamseddine","A. H. Chamseddine","Review of Non-Commutative Geometric Methods Applied to Particle Physics","16 pages","QUARKS '94: Proceedings371-386, Edited by D.Yu et al. World
+  Scientific, 1995",,,"hep-th",,"  This is a brief review where some basic elements of non-commutative geometry
+are given. The rules and ingredients that enter in the construction of the
+standard model and grand unification models in non-commutative geometry are
+summarized. A connection between some space-time supersymmetric models and
+non-commutative geometry is made. The advantages and problems of this direction
+are discussed.
+","[{""version"":""v1"",""created"":""Tue, 18 Oct 1994 15:59:18 GMT""}]","2015-03-10"
+"hep-th/9410126","Michael Fry","M. P. Fry","Fermion Determinants in Static, Inhomogeneous Magnetic Fields","36 pages","Phys.Rev. D51 (1995) 810-823","10.1103/PhysRevD.51.810",,"hep-th",,"  The renormalized fermionic determinant of QED in 3 + 1 dimensions,
+$\mbox{det}_{{ren}}$, in a static, unidirectional, inhomogeneous magnetic field
+with finite flux can be calculated from the massive Euclidean Schwinger model's
+determinant, $\mbox{det}_{{Sch}}$, in the same field by integrating
+$\mbox{det}_{{Sch}}$, over the fermion's mass. Since $\mbox{det}_{{ren}}$ for
+general fields is central to QED, it is desirable to have nonperturbative
+information on this determinant, even for the restricted magnetic fields
+considered here. To this end we continue our study of the physically relevant
+determinant $\mbox{det}_{{Sch}}$. It is shown that the contribution of the
+massless Schwinger model to $\mbox{det}_{{Sch}}$ is cancelled by a contribution
+from the massive sector of QED in 1 + 1 dimensions and that zero modes are
+suppressed in $\mbox{det}_{{Sch}}$. We then calculate $\mbox{det}_{{Sch}}$
+analytically in the presence of a finite flux, cylindrical magnetic field. Its
+behaviour for large flux and small fermion mass suggests that the zero-energy
+bound states of the two-dimensional Pauli Hamiltonian are the controlling
+factor in the growth of $\ln \mbox{det}_{{Sch}}$. Evidence is presented that
+$\mbox{det}_{{Sch}}$ does not converge to the determinant of the massless
+Schwinger model in the small mass limit for finite, nonzero flux magnetic
+fields.
+","[{""version"":""v1"",""created"":""Tue, 18 Oct 1994 15:42:44 GMT""}]","2009-10-28"
+"hep-th/9410132",,"A.L. Larsen and N. Sanchez","Mass Spectrum of Strings in Anti de Sitter Spacetime","31 pages, Latex, DEMIRM-Paris-94047","Phys.Rev. D52 (1995) 1051-1064","10.1103/PhysRevD.52.1051",,"hep-th astro-ph gr-qc",,"  We perform string quantization in anti de Sitter (AdS) spacetime. The string
+motion is stable, oscillatory in time with real frequencies $\omega_n=
+\sqrt{n^2+m^2\alpha'^2H^2}$ and the string size and energy are bounded. The
+string fluctuations around the center of mass are well behaved. We find the
+mass formula which is also well behaved in all regimes. There is an {\it
+infinite} number of states with arbitrarily high mass in AdS (in de Sitter (dS)
+there is a {\it finite} number of states only). The critical dimension at which
+the graviton appears is $D=25,$ as in de Sitter space. A cosmological constant
+$\Lambda\neq 0$ (whatever its sign) introduces a {\it fine structure} effect
+(splitting of levels) in the mass spectrum at all states beyond the graviton.
+The high mass spectrum changes drastically with respect to flat Minkowski
+spacetime. For $\Lambda<0,$ we find $<m^2>\sim \mid\Lambda\mid N^2,$ {\it
+independent} of $\alpha',$ and the level spacing {\it grows} with the
+eigenvalue of the number operator, $N.$ The density of states $\rho(m)$ grows
+like $\mbox{Exp}[(m/\sqrt{\mid\Lambda\mid}\;)^{1/2}]$ (instead of
+$\rho(m)\sim\mbox{Exp}[m\sqrt{\alpha'}]$ as in Minkowski space), thus {\it
+discarding} the existence of a critical string temperature.
+  For the sake of completeness, we also study the quantum strings in the black
+string background, where strings behave, in many respects, as in the ordinary
+black hole backgrounds. The mass spectrum is equal to the mass spectrum in flat
+Minkowski space.
+","[{""version"":""v1"",""created"":""Tue, 18 Oct 1994 15:40:16 GMT""}]","2009-10-28"
+"math/9410210",,"David J. Balding, David C. Torney","Optimal pooling designs with error detection","10 pages",,,"LACES 05B-94-26","math.CO",,"  Consider a collection of objects, some of which may be `bad', and a test
+which determines whether or not a given sub-collection contains no bad objects.
+The non-adaptive pooling (or group testing) problem involves identifying the
+bad objects using the least number of tests applied in parallel. The
+`hypergeometric' case occurs when an upper bound on the number of bad objects
+is known {\em a priori}. Here, practical considerations lead us to impose the
+additional requirement of {\em a posteriori} confirmation that the bound is
+satisfied. A generalization of the problem in which occasional errors in the
+test outcomes can occur is also considered. Optimal solutions to the general
+problem are shown to be equivalent to maximum-size collections of subsets of a
+finite set satisfying a union condition which generalizes that considered by
+Erd\""os \etal \cite{erd}. Lower bounds on the number of tests required are
+derived when the number of bad objects is believed to be either 1 or 2. Steiner
+systems are shown to be optimal solutions in some cases.
+","[{""version"":""v1"",""created"":""Tue, 18 Oct 1994 00:00:00 GMT""}]","2016-09-06"
+"nucl-th/9410024","Avraham Rinat","A.S. Rinat and M.F. Taragin","Nuclear transparencies for nucleons, knocked-out under various
+  semi-inclusive conditions","13 pages + 3 figsin appended PS file, report # WIS-94/43/Oct-PH","Phys.Rev. C52 (1995) 28-32","10.1103/PhysRevC.52.R28",,"nucl-th",,"  Using hadron dynamics we calculate nuclear transparencies for protons,
+knocked-out in high-$Q^2$, semi-inclusive reactions. Predicted transparencies
+are, roughly half a standard deviation above the NE18 data. The latter contain
+the effects of binned proton missing momenta and mass, and of finite detector
+acceptances. In order to test sensitivity we compare computed transparencies
+without restrictions and the same with maximal cuts for missing momenta and the
+electron energy loss. We find hardly any variation, enabling a meaningful
+comparison with data and predictions based on hadron dynamics. Should
+discrepancies persist in high-statistics data, the above may with greater
+confidence be attributed to exotic components in the description of the
+outgoing proton.
+","[{""version"":""v1"",""created"":""Tue, 18 Oct 1994 09:59:25 GMT""}]","2009-10-28"
+"nucl-th/9410025","Lorenzo Luis Salcedo Moreno","J. Caro, E. Ruiz Arriola and L.L. Salcedo","Semiclassical expansions up to $\hbar^4$-order in relativistic nuclear
+  physics","No. pages: 47 pages (plus 1 uuencoded fig. in a separate file).
+  Report No.: UG-DFM-32/94","J.Phys.G22:981-1011,1996","10.1088/0954-3899/22/7/006",,"nucl-th",,"  We present the first calculation of the $\hbar^4$-Wigner--Kirkwood
+corrections to a relativistic system of fermions in the presence of external
+scalar and vector potentials. The method we propose allows to compute
+efficiently semiclassical corrections to one body operators such as mean
+energies and local densities. It also preserves gauge invariance and produces
+explicitly convergent results despite some apparent divergencies at the
+classical turning points. As a byproduct we obtain the $\hbar^4$ corrections
+stemming from the polarization of the Dirac sea. We apply our results to the
+relativistic $\sigma$-$\omega$ Lagrangian in the Hartree valence approximation.
+We compare the semiclassical expansion with the exact result and with the
+Strutinsky average whenever it can be obtained. We find that the $\hbar^4 $
+corrections are much smaller than typical shell effects. Our results provide
+convincing arguments to neglect higher than second order $\hbar$ effects in the
+Wigner--Kirkwood scheme to relativistic nuclear physics in the mean field
+approximation.
+","[{""version"":""v1"",""created"":""Tue, 18 Oct 1994 12:17:04 GMT""}]","2009-09-25"

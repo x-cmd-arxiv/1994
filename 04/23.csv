@@ -1,0 +1,193 @@
+"alg-geom/9404010","Robert Friedman","Robert Friedman and Zhenbo Qin","On complex surfaces diffeomorphic to rational surfaces","34 pages, AMS-TeX",,"10.1007/BF01241123","OSU Math 1995-10","alg-geom math.AG math.GT",,"  In this paper we prove that no complex surface of general type is
+diffeomorphic to a rational surface, thereby completing the smooth
+classification of rational surfaces and the proof of the Van de Ven conjecture
+on the smooth invariance of Kodaira dimension.
+","[{""version"":""v1"",""created"":""Fri, 22 Apr 1994 18:16:24 GMT""}]","2009-10-22"
+"astro-ph/9404056","Peter Meszaros","P. Meszaros and M.J. Rees","Delayed Gev Emission from Cosmological Gamma-Ray Bursts : Impact of a
+  Relativistic Wind on External Matter","5 pages, plain TeX","Mon.Not.Roy.Astron.Soc.269:L41,1994","10.1093/mnras/269.1.L41",,"astro-ph",,"  Sudden collapse of a compact object, or coalescence of a compact binary, can
+generate an unsteady relativistic wind that lasts for a few seconds. The wind
+is likely to carry a high magnetic field; and its Lorentz factor depends on the
+extent to which it is 'loaded' with baryons. If the Lorentz factor is $\sim
+100$, internal dissipation and shocks in this wind produce a non-thermal
+gamma-ray burst, detectable in the range $0.1\MeV \siml E_\gamma \siml
+0.1-1\GeV$ out to cosmological distances. The cooled wind ejecta would
+subsequently be decelerated by the external medium. The resultant blast wave
+and reverse shock can then give rise to a second burst component, mainly
+detectable in the GeV range, with a time delay relative to the MeV burst
+ranging from minutes to hours.
+","[{""version"":""v1"",""created"":""Fri, 22 Apr 1994 17:56:42 GMT""}]","2016-06-08"
+"astro-ph/9404057","Tammy Smecker-Hane","T. A. Smecker-Hane, P. B. Stetson, J. E. Hesser and M. D. Lehnert","The Stellar Populations of the Carina Dwarf Spheroidal Galaxy: I. a New
+  Color-Magnitude Diagram for the Giant and Horizontal Branches","18 pages, 9 figures, uses AAS LaTex macros, PostScript figures
+  available through anonymous ftp, accepted for publication in the Astronomical
+  Journal, DAO-tsh94-1","Astron.J. 108 (1994) 507-513","10.1086/117087",,"astro-ph",,"  We report on the first in a series of studies of the Carina dwarf spheroidal
+galaxy, a nearby satellite of our Galaxy. Our two major results are: 1) precise
+BI photometry ($\sigma_{B-I} \simlt 0.05$ for $V \simlt 22$) for 11,489 stars
+in the Carina field, and 2) the detection of two, morphologically distinct,
+horizontal branches, which confirms that star formation in Carina occurred in
+two well-separated episodes. The old horizontal branch and RR Lyrae instability
+strip belong to a > 10 Gyr stellar population, while the populous red-clump
+horizontal branch belongs to an approximately 6 Gyr stellar population. We
+derive a distance modulus $(m-M)_0=20.09 \pm 0.06$ for Carina from the apparent
+magnitudes of the old horizontal branch and the tip of the red giant branch,
+and discuss modifications to the previously estimated distance, total
+magnitude, and stellar ages. Using the color of the red giant branch, we
+estimate the metallicities of the younger and older populations to be [Fe/H] =
+-2.0 and -2.2, respectively.
+","[{""version"":""v1"",""created"":""Fri, 22 Apr 1994 18:41:18 GMT""}]","2009-10-22"
+"astro-ph/9404058","David Weinberg","A. Szomoru, P. Guhathakurta, J. van Gorkom, J. Knapen, D. Weinberg &
+  A. Fruchter","The Properties of an HI-Selected Galaxy Sample","24 pages w/o figures, uuencoded postscript. Version w/ figs available
+  as compressed postscript file (1 Mb compressed, 20 Mb [!] uncompressed) by
+  anon ftp from eku.ias.edu. Directory /pub, file pp_dwarfs.ps.Z. Accepted by
+  AJ, IAS preprint AST-94/18",,"10.1086/117086",,"astro-ph",,"  We analyze the properties of a sample of galaxies identified in a 21-cm,
+HI-line survey of selected areas in the Perseus-Pisces supercluster and its
+foreground void. Twelve fields were observed in the supercluster, five of them
+(target fields) centered on optically bright galaxies, and the other seven
+(blank fields) selected to contain no bright galaxies. We detected nine
+previously uncataloged, gas-rich galaxies, six of them in the target fields. We
+also detected HI from seven previously cataloged galaxies in these fields.
+Observations in the void covered the same volume as the twelve supercluster
+fields at the same HI-mass sensitivity, but no objects were detected. Combining
+our HI data with optical broad-band and H-alpha imaging, we conclude that the
+properties of HI-selected galaxies do not differ substantially from those of
+late-type galaxies found in optical surveys. In particular, the galaxies in our
+sample do not appear to be unusually faint for their HI mass, or for their
+circular velocity. The previously cataloged, optically bright galaxies in our
+survey volume dominate the total HI mass density and cross-section; the
+uncataloged galaxies contribute only 19% of the mass and 12% of the
+cross-section. Thus, existing estimates of the density and cross-section of
+neutral hydrogen, most of which are based on optically-selected galaxy samples,
+are probably accurate.
+","[{""version"":""v1"",""created"":""Fri, 22 Apr 1994 19:13:30 GMT""}]","2009-10-22"
+"chao-dyn/9404002","Michael Youssefmir","Michael Youssefmir and Bernardo Huberman (Dynamics of Computation
+  Group, Xerox Palo Alto Research Center, 3333 Coyote Hill Rd., Palo Alto, CA
+  94304)","Local Controls for Large Assemblies of Nonlinear Elements","Postscript file with 7 figures, 19 pages, 1.1Mb compressed, 2.9 MB
+  uncompressed. Hard Copy available upon request to youssefm@parc.xerox.com",,,,"chao-dyn nlin.CD",,"  We introduce a set of local procedures that are capable of controlling
+distributed systems that exhibit complex dynamical behavior. These local
+controllers need only perturb local parameters and use local information about
+the state of the system. Besides eliminating the wiring and overhead needed for
+implementing a central controller, our procedure leads to desired states in
+short times. By resoring to a probabalistic dynamical argument, we also show
+that there are critical values for the couplings among the nonlinear elements
+beyond which the local controllers do not achieve the desired final state.
+","[{""version"":""v1"",""created"":""Fri, 22 Apr 1994 18:51:37 GMT""}]","2008-02-03"
+"cond-mat/9404075","Satoshi Iso","Satoshi Iso","Long-Distance Universality of Laughlin State and Calogero-Sutherland
+  Model","20, UT-676","Mod.Phys.Lett. A9 (1994) 2123","10.1142/S0217732394001982",,"cond-mat",,"  We study the universal long-distance behaviour of the Laughlin state for the
+fractional quantum Hall effect and the ground state of the Calogero-Sutherland
+model (one dimensional $1/r^2$ interaction model). In particular, it is shown
+that these two wave functions coincide exactly when Laughlin state is confined
+in a narrow cylinder geometry. The seeming difference of dimensionality is
+merely a difference of representation of wave functions. We also give a recipe
+to interpret operators acting on states in the lowest Landau level in terms of
+the usual one dimensional Fermion operators, which is important for extracting
+the Tomonaga-Luttinger liquid behaviour of the edge states.
+","[{""version"":""v1"",""created"":""Sat, 23 Apr 1994 11:13:55 GMT""}]","2015-06-25"
+"gr-qc/9404041","Jose Pizarro de Sande Lemos","Jose' P. S. Lemos","Cylindrical Black Hole in General Relativity",,"Phys.Lett.B353:46-51,1995","10.1016/0370-2693(95)00533-Q",,"gr-qc",,"  A black hole solution of Einstein's field equations with cylindrical symmetry
+is found. Using the Hamiltonian formulation one is able to define mass and
+angular momentum for the cylindrical black hole through the corresponding and
+equivalent three dimensional theory. The causal structure is analyzed.
+Comments: revised version.
+","[{""version"":""v1"",""created"":""Sat, 23 Apr 1994 00:40:06 GMT""},{""version"":""v2"",""created"":""Wed, 17 May 1995 01:05:44 GMT""}]","2010-11-01"
+"hep-ph/9404324",,"Joseph I. Kapusta and Ajit M. Srivastava","The Proximal Chiral Phase Transition","21 pages (LATEX), 6 figures in postscript (uuencoded, compressed tar
+  file included at the end of the paper), NSF-ITP-94-28, NUC-MINN-94/3-T","Phys.Rev. D50 (1994) 5379-5388","10.1103/PhysRevD.50.5379",,"hep-ph nucl-th",,"  We consider the form of the chiral symmetry breaking piece of the effective
+potential in the linear sigma model. Surprisingly, it allows for a second local
+minimum at both zero and finite temperature. Even though chiral symmetry is not
+exact, and therefore is not restored in a true phase transition at finite
+temperature, this second minimum can nevertheless mimic many of the effects of
+a first order phase transition. We derive a lower limit on the height of the
+second minimum relative to the global minimum based on cosmological
+considerations; this limit is so weak as to be practically nonexistent. In high
+energy nuclear collisions, it may lead to observable effects in Bose-Einstein
+interferometry due to domain walls and to coherent pion emission.
+","[{""version"":""v1"",""created"":""Fri, 22 Apr 1994 21:22:00 GMT""}]","2009-10-28"
+"hep-ph/9404325",,"E. V. Shuryak and L. Xiong","Where the excess photons and dileptons in SPS nuclear collisions come
+  from?",,"Phys.Lett. B333 (1994) 316-319; Erratum-ibid. B339 (1994) 334","10.1016/0370-2693(94)90148-1",,"hep-ph nucl-th",,"  Recently the first single photon spectra from CERN energy heavy-ion
+collisions were reported by WA80, while NA34/3 and NA38 have obtained the
+spectra for dileptons with the mass up to 4-5 GeV. The production rates for
+photons and dileptons significantly increase when reactions involving the $A_1$
+meson are included. However, with the conventional expansion scenario, the
+absolute yields are still significantly smaller than the observed ones. It may
+indicate that expansion in the ``mixed state"" takes much more time.
+","[{""version"":""v1"",""created"":""Fri, 22 Apr 1994 20:45:34 GMT""}]","2009-10-28"
+"hep-ph/9404326",,"I. Zahed","QCD Instantons in Vacuum and Matter","18 Pages","Nucl.Phys. B427 (1994) 561-574","10.1016/0550-3213(94)90640-8","SUNY-NTG-94-22","hep-ph",,"  The singlet coupling to the topological charge density in the instanton
+vacuum, causes the instantons and antiinstantons to be screened over distances
+of the order of 1/2 fm. Dilute instanton systems behave as a free gas, while
+dense instanton systems behave as a plasma. The free gas behaviour is favored
+by a density of 1 fm$^{-4}$. Owing to the Higgs mechanism, the $\eta$' mass is
+heavy (1100 MeV). The vacuum topological susceptibility is small (0.07
+fm$^{-4}$) and consistent with the QCD Ward identity. In the chiral limit, the
+singlet screening vanishes, leading to a four dimensional plasma state with a
+temperature given by the nonet decay constant $f$ (90 MeV). The phase is Debye
+screened. In the presence of matter, the screening is quenched, and a
+Kosterlitz-Thouless transition may occur signaling the restoration of the
+$U_A(1)$ symmetry. We suggest to use the spatial asymptotics of the static
+topological charge correlator together with the topological susceptibility to
+probe the interplay between the $U_A(1)$ restoration and the chiral restoration
+in finite temperature QCD. The relevance of these results to the bulk
+thermodynamics in the instanton vacuum is discussed.
+","[{""version"":""v1"",""created"":""Sat, 23 Apr 1994 02:00:18 GMT""}]","2009-10-28"
+"hep-ph/9404327","Alexandre Rozanov","V.A. Novikov, L.B. Okun, A.N. Rozanov and M.I. Vysotsky","First Evidence for Electroweak Radiative Corrections from the New
+  Precision Data","10 pages, 2 figures, preprint CERN-TH.7217/94","Mod.Phys.Lett.A9:2641-2648,1994","10.1142/S0217732394002483",,"hep-ph",,"  The analysis of the newest data on the leptonic $Z$-decays and $m_W$ appears
+to reveal the first manifestations of electroweak radiative corrections.
+  In fact, these data differ, at the level of $2\sigma$, from their electroweak
+Born values, while they agree, to within $1\sigma$, with the theoretical values
+which take the electroweak radiative corrections into account. Previous data
+were within $1\sigma$ in agreement with both sets of values.
+","[{""version"":""v1"",""created"":""Sat, 23 Apr 1994 12:54:24 GMT""}]","2008-11-26"
+"hep-th/9404141","Alejandro Gonzalez Ruiz","H. J. de Vega and A. Gonz\'alez--Ruiz","Exact Bethe Ansatz solution for $A_{n-1}$ chains with non-$SU_{q}(n)$
+  invariant open boundary conditions","Two references added",,"10.1142/S0217732394002069",,"hep-th",,"  The Nested Bethe Ansatz is generalized to open and independent boundary
+conditions depending on two continuous and two discrete free parameters. This
+is used to find the exact eigenvectors and eigenvalues of the $A_{n-1}$ vertex
+models and $SU(n)$ spin chains with such boundary conditions. The solution is
+found for all diagonal families of solutions to the reflection equations in all
+possible combinations. The Bethe ansatz equations are used to find de first
+order finite size correction.
+","[{""version"":""v1"",""created"":""Fri, 22 Apr 1994 16:26:07 GMT""},{""version"":""v2"",""created"":""Thu, 5 May 1994 12:05:16 GMT""}]","2009-10-28"
+"hep-th/9404142","Bruce W. Westbury","Bruce W. Westbury","A three parameter invariant of oriented links","6 pages",,,,"hep-th math.QA",,"  This paper defines a new sequence of finite dimensional algebras as quotients
+of the group algebras of the braid groups. This sequence depends on three
+homogeneous parameters and has a one-parameter family of Markov traces, and so
+gives a three parameter invariant of oriented links.
+","[{""version"":""v1"",""created"":""Fri, 22 Apr 1994 20:28:07 GMT""}]","2008-02-03"
+"hep-th/9404143",,"Joshua Feinberg","Non Trivial Saddle Points and Band Structure of Bound States of the Two
+  Dimensional O(N) Vector Model","46 pages, latex twice, epsf figs in separate uuencoded file,
+  UTTG-03-94","Nucl.Phys. B433 (1995) 625-656","10.1016/0550-3213(94)00505-9",,"hep-th cond-mat hep-ph",,"  We discuss O(N) invariant scalar field theories in 0+1 and 1+1 space-time
+dimensions. Combining ordinary ``Large N"" saddle point techniques and simple
+properties of the diagonal resolvent of one dimensional Schr\""odinger operators
+we find {\it exact} non-trivial (space dependent) solutions to the saddle point
+equations of these models in addition to the saddle point describing the ground
+state of the theory. We interpret these novel saddle points as collective O(N)
+singlet excitations of the field theory, each embracing a host of finer quantum
+states arranged in O(N) multiplets, in an analogous manner to the band
+structure of molecular spectra. We comment on the relation of our results to
+the classical work of Dashen, Hasslacher and Neveu and to a previous analysis
+of bound states in the O(N) model by Abbott.}
+","[{""version"":""v1"",""created"":""Fri, 22 Apr 1994 20:53:27 GMT""}]","2009-10-28"
+"hep-th/9404144","Valeri Dvoeglazov","Valeri V. Dvoeglazov","Comment on ``the Klein-Gordon Oscillator''","LaTeX file, 5pp","Nuovo Cim.A107:1413-1418,1994","10.1007/BF02775780","EFUAZ 94-02","hep-th",,"  The different ways of description of the $S=0$ particle with oscillator-like
+interaction are considered. The results are in conformity with the previous
+paper of S. Bruce and P. Minning.
+","[{""version"":""v1"",""created"":""Sat, 23 Apr 1994 01:48:09 GMT""}]","2015-06-26"
+"hep-th/9404145","Valeri Dvoeglazov","Valeri V. Dvoeglazov","The Dirac-Dowker Oscillator","LaTeX file, 4pp. Preprint EFUAZ 94-03","Nuovo Cim.A107:1785-1788,1994","10.1007/BF02780711",,"hep-th",,"  The oscillator-like interaction is introduced in the equation for the
+particle of arbitrary spin, given by Dirac and re-written to a matrix form by
+Dowker.
+","[{""version"":""v1"",""created"":""Sat, 23 Apr 1994 01:49:51 GMT""}]","2011-07-19"
+"hep-th/9404146","Oh phillial","Myung-Ho Kim and Phillial Oh","Phase Space Structure of Non-Abelian Chern-Simons Particles","18 pages, REVTEX 3.0, SNUTP-93-41","J.Math.Phys. 35 (1994) 3959-3968","10.1063/1.530896",,"hep-th",,"  We investigate the classical phase space structure of $N$ $SU(n+1)$
+non-Abelian Chern-Simons (NACS) particles by first constructing the product
+space of associated $SU(n+1)$ bundle with ${\bf CP}^n$ as the fiber. We
+calculate the Poisson bracket using the symplectic structure on the associated
+bundle and find that the minimal substitution in the presence of external gauge
+fields is equivalent to the modification of symplectic structure by the
+addition of field strength two form. Then, we take a direct product of the
+associated bundle by the space of all connections and choose a specific
+connection by the condition of vanishing momentum map corresponding to the
+gauge transformation, thus recovering the quantum mechanical model of NACS
+particles in Ref.\cite{lo1}.
+","[{""version"":""v1"",""created"":""Sat, 23 Apr 1994 07:19:15 GMT""}]","2009-10-28"
+"hep-th/9404147",,"Hiromichi Nakazato, Mikio Namiki, Saverio Pascazio","Exponential behavior of a quantum system in a macroscopic medium","8 pages, report BA-TH/94-170","Phys.Rev.Lett. 73 (1994) 1063-1066","10.1103/PhysRevLett.73.1063",,"hep-th",,"  An exponential behavior at all times is derived for a solvable dynamical
+model in the weak-coupling, macroscopic limit. Some implications for the
+quantum measurement problem are discussed, in particular in connection with
+dissipation.
+","[{""version"":""v1"",""created"":""Sat, 23 Apr 1994 11:17:00 GMT""}]","2009-10-28"
+"hep-th/9404148","Fedele Lizzi","F. Lizzi (Napoli)","The Zero Tension Limit of The Virasoro Algebra and the Central Extension","LaTeX, 7 pag","Mod.Phys.Lett. A9 (1994) 1495-1500","10.1142/S0217732394001337",,"hep-th",,"  We argue that the Virasoro algebra for the closed bosonic string can be cast
+in a form which is suitable for the limit of vanishing string tension. In this
+form the limit of the Virasoro algebra gives the null string algebra. The
+anomalous central extension is seen to vanish as well when $T\to 0$.
+","[{""version"":""v1"",""created"":""Sat, 23 Apr 1994 14:48:24 GMT""}]","2015-06-26"

@@ -1,0 +1,184 @@
+"astro-ph/9406066","Gary Mamon","Guillermo Gonz\'alez-Casado, Gary A. Mamon, and Eduard Salvador-Sol\'e","The Dynamical Survival of Small-Scale Substructure in Relaxed Galaxy
+  Clusters","accepted in ApJ Letters, 4 pages uuencoded compressed postscript (4
+  figures included), IAP preprint 465","ApJ 433 (1994), L61","10.1086/187548",,"astro-ph",,"  We consider the dynamical evolution of small-scale substructure in clusters
+within two extreme alternate scenarios for their possible origin: 1) the
+accretion of groups (or small clusters) on quasi-radial orbits, and 2) the
+merger of clusters of similar masses, followed by the decoupling of their dense
+cores. Using simple analytical arguments and checking with numerical
+computations, we show that objects are destroyed by the tidal field of the
+global cluster potential if their mean density is small compared to the mean
+cluster density within the radius of closest approach of the group or detached
+core. Accreted groups and small clusters are thus tidally disrupted in one
+cluster crossing. Since the cores of clusters are much denser than groups, they
+are considerably more robust to tides, but the least massive are destroyed or
+severely stripped by tides, while the others are brought to the cluster center
+by dynamical friction (and subsequently merge) in less than one orbit. The
+longest lived substructures are detached cores, roughly ten times less massive
+than the cluster, starting in near-circular orbits beyond $1 \, h^{-1} \, \rm
+Mpc$ from the cluster center.
+","[{""version"":""v1"",""created"":""Fri, 24 Jun 1994 17:57:18 GMT""}]","2009-10-22"
+"chem-ph/9406003","Peter Nightingale","Andrei Mushinski and M.P. Nightingale (Department of Physics,
+  University of Rhode Island, Kingston, RI 02881)","Many-body trial wave functions for atomic systems and ground states of
+  small noble gas clusters","19 pages","J. Chem. Phys. 101 (1994) 8831","10.1063/1.468076",,"chem-ph physics.chem-ph",,"  Clusters of sizes ranging from two to five are studied by variational quantum
+Monte Carlo techniques. The clusters consist of Ar, Ne and hypothetical lighter
+(``$1 \over 2$-Ne"") atoms. A general form of trial function is developed for
+which the variational bias is considerably smaller than the statistical error
+of currently available diffusion Monte Carlo estimates. The trial functions are
+designed by a careful analysis of long- and short-range behavior as a function
+of inter-atomic distance; at intermediate distances, on the order of the
+average nearest neighbor distance, the trial functions are constructed to have
+considerable variational freedom. A systematic study of the relative importance
+of $n$-body contributions to the quality of the optimized trial wave function
+is made with $2\le n \le 5$. Algebraic invariants are employed to deal
+efficiently with the many-body interactions.
+","[{""version"":""v1"",""created"":""Fri, 24 Jun 1994 18:33:28 GMT""}]","2009-10-22"
+"cond-mat/9406100","Luca Moriconi","L. Moriconi","Renormalization Group Derivation of the Localization Length Exponent in
+  the Integer Quantum Hall Effect","Computations are discussed in a more detailed way","Phys. Lett. A199, 257 (1995)","10.1016/0375-9601(95)00100-H","PUPT-1477","cond-mat",,"  We compute, neglecting possible effects of subleading irrelevant couplings,
+the localization length exponent in the integer quantum Hall effect, for the
+case of white noise random potentials. The result obtained is $\nu=2$ for all
+Landau levels. Our approach consists in a renormalization group transformation
+of Landau orbitals, which iterates the generating functional of Green's
+functions for the localization problem. The value of $\nu$ is obtained from the
+asymptotic form of the renormalization group mapping. The basic assumptions in
+our derivation are the existence of a scaling law for the localization length
+and the absence of Landau level mixing.
+","[{""version"":""v1"",""created"":""Fri, 24 Jun 1994 18:10:58 GMT""},{""version"":""v2"",""created"":""Sun, 3 Jul 1994 01:57:46 GMT""},{""version"":""v3"",""created"":""Fri, 6 Feb 1998 14:58:47 GMT""}]","2009-10-22"
+"cond-mat/9406101","Denis Golosov","D. I. Golosov and A. E. Ruckenstein","Low-Temperature Spin Diffusion in a Spin-Polarized Fermi Gas","13 pages, REVTEX, 3 figures available upon request, RU-94-49","Phys. Rev. Lett., 74, 1613-1616 (1995)","10.1103/PhysRevLett.74.1613",,"cond-mat",,"  We present a finite temperature calculation of the transverse spin-diffusion
+coefficient, $D_\bot$, in a dilute degenerate Fermi gas in the presence of a
+small external magnetic field, $H$. While the longitudinal diffusion
+coefficient displays the conventional low-temperature Fermi-liquid behavior,
+$D_\parallel \propto T^{-2}$, the corresponding results for $D_\bot$ show three
+separate regimes: (a) $D_\bot \sim H^{-2}$ for $T \ll H$; (b) $D_\bot \sim
+T^{-2}$, $D_\bot /D_\parallel \neq 1$ for $T \gg H$ and large spin-rotation
+parameter $\xi \gg 1$, and (c) $D_\bot = D_\parallel \propto T^{-2}$ for $T \gg
+H$ and $\xi \ll 1$. Our results are qualitatively consistent with the available
+experimental data in weakly spin-polarized $^3{\rm He}$ and $^3{\rm He} -
+^4{\rm He}$ mixtures.
+","[{""version"":""v1"",""created"":""Fri, 24 Jun 1994 19:49:11 GMT""}]","2009-10-22"
+"hep-lat/9406017",,"C.T.H. Davies, K. Hornbostel, A. Langnau, G.P. Lepage, A. Lidsey, J.
+  Shigemitsu, and J. Sloan","Precision Upsilon Spectroscopy from Nonrelativistic Lattice QCD","8 pages, latex, SCRI-94-57, OHSTPY-HEP-T-94-005","Phys.Rev.D50:6963-6977,1994","10.1103/PhysRevD.50.6963",,"hep-lat",,"  The spectrum of the Upsilon system is investigated using the Nonrelativistic
+Lattice QCD approach to heavy quarks and ignoring light quark vacuum
+polarization. We find good agreement with experiment for the Upsilon(1S),
+Upsilon(2S), Upsilon(3S) and for the center of mass and fine structure of the
+chi_b states. The lattice calculations predict b-bbar D-states with center of
+mass at (10.20 +/- 0.07 +/- 0.03)GeV. Fitting procedures aimed at extracting
+both ground and excited state energies are developed. We calculate a
+nonperturbative dispersion mass for the Upsilon(1S) and compare with
+tadpole-improved lattice perturbation theory.
+","[{""version"":""v1"",""created"":""Sat, 25 Jun 1994 01:25:48 GMT""}]","2011-01-27"
+"hep-lat/9406018","Wolfgang Bock","Wolfgang Bock and Jeroen C. Vink","Failure of the Regge approach in two dimensional quantum gravity","27 pages, LaTex + uuencoded figure files (13 postscript files)","Nucl.Phys. B438 (1995) 320-346","10.1016/0550-3213(94)00587-5","UCSD/PTH 94-08","hep-lat gr-qc hep-th",,"  Regge's method for regularizing euclidean quantum gravity is applied to two
+dimensional gravity. We use two different strategies to simulate the Regge path
+integral at a fixed value of the total area: A standard Metropolis simulation
+combined with a histogramming method and a direct simulation using a Hybrid
+Monte Carlo algorithm. Using topologies with genus zero and two and a scale
+invariant integration measure, we show that the Regge method does not reproduce
+the value of the string susceptibility of the continuum model. We show that the
+string susceptibility depends strongly on the choice of the measure in the path
+integral. We argue that the failure of the Regge approach is due to spurious
+contributions of reparametrization degrees of freedom to the path integral.
+","[{""version"":""v1"",""created"":""Sat, 25 Jun 1994 08:11:56 GMT""}]","2009-10-22"
+"hep-ph/9406389",,"Pran Nath and R. Arnowitt","$b \rightarrow s\gamma$ Decay in Supergravity Grand Unification and Dark
+  Matter","10 pages LaTeX+ 2 Figs ( hard copies available on request)
+  CERN-TH.7214/94,NUB-TH.3093/94,CTP-TAMU-32/94","Phys.Lett.B336:395-401,1994","10.1016/0370-2693(94)90550-9",,"hep-ph",,"  An analysis of the $b \rightarrow s\gamma$ is given in supergravity grand
+unification using the framework of the radiative breaking of the electro-weak
+symmetry under three separate sets of constraints:1) neutralino relic density
+does not overclose the universe,2)p-stability constraint, and 3) the combined
+constraints of p-stability and COBE data .For case 1 it is found that the CLEO
+II data on the branching ratio already imposes very strong further constraints
+on dark matter analyses. For case2 the branching ratio is found to lie in the
+range (1.5-6.3)x$10^{-4}$ and thus the data does not at present significantly
+limit the analyses with p-stability constraint. It is shown that improvements
+by a factor of 3 in the $p \rightarrow\bar\nu K^{+}$ lifetime will reduce SUSY
+effects to less than O(30$\%$) of the Standard Model value.For case3,the
+branching ratio lies in the interval (3.1-5.3)x$10^{-4}$, and the SUSY effects
+lie within (-10$\%$,+50$\%$) of the SM value. Thus as experimental bounds on
+$B(b \rightarrow s\gamma)$ improve, one would need in cases 2 and 3 the
+next-to-leading order QCD corrections to disentangle SUSY effects.
+","[{""version"":""v1"",""created"":""Fri, 24 Jun 1994 16:49:25 GMT""}]","2009-09-25"
+"hep-ph/9406390","Francesca Borzumati","Francesca M. Borzumati, Manuel Drees and Mihoko M. Nojiri","Implications for Supersymmetric Dark Matter Detection from Radiative $b$
+  Decays","12 pp + 5 uuencoded PS figures. The new upper and lower bounds on the
+  $\br(\bsg)$ coming from the recent measurement by the CLEO Collaboration are
+  implemented: the results are qualitatively unchanged.","Phys.Rev. D51 (1995) 341-347","10.1103/PhysRevD.51.341",,"hep-ph",,"  We point out that combinations of parameters that predict large counting
+rates in experiments searching for supersymmetric dark matter often tend to
+predict a very large branching ratio for the inclusive decay \bsg. The recent
+measurement of this branching ratio, therefore, indicates that searches for
+supersymmetric dark matter might be even more difficult than previously
+anticipated.
+","[{""version"":""v1"",""created"":""Fri, 24 Jun 1994 17:34:41 GMT""},{""version"":""v2"",""created"":""Mon, 29 Aug 1994 22:22:15 GMT""}]","2016-09-01"
+"hep-ph/9406391",,"D. Atwood and A. Soni","CP Violation in $B^\pm\to \gamma\pi^\pm\pi^+\pi^-$","8, SLAC-PUB-6524","Phys.Rev.Lett.74:220-223,1995","10.1103/PhysRevLett.74.220",,"hep-ph",,"  We consider CP violating effects in decays of the type $B^\pm\to \gamma
+a^\pm_{1,2}$ where $a_{1,2}$ are the $J^P=1^+$ and $2^+$ resonances each
+decaying to the common final state via $a^\pm_{1,2} \to\pi^\pm\rho^0$. The
+resonances enhance the CP asymmetries and also knowledge of their masses and
+widths facilitates calculations of the effects. Several types of CP asymmetries
+are sizable ($\sim10$--30\%) requiring about (3--10)${}\times10^8$ $B^\pm$
+mesons for detection at the $3\sigma$ level thereby providing a method for
+measuring the angle $\alpha$ in the unitarity triangle. \bigskip
+","[{""version"":""v1"",""created"":""Fri, 24 Jun 1994 19:01:16 GMT""}]","2010-11-01"
+"hep-ph/9406392","Aneesh V. Manohar","Aneesh V. Manohar and Mark B. Wise","Power Suppressed Corrections to Hadronic Event Shape Variables","(12 pages, 2 figures, uses harvmac and uufiles), UCSD/PTH 94-11","Phys.Lett. B344 (1995) 407-412","10.1016/0370-2693(94)01504-6",,"hep-ph",,"  For high energy processes ($M\gg \Lambda_{QCD}$) there are infrared safe
+hadronic shape variables that have a calculable perturbative expansion in
+$\alpha_s(M^2)$. However, nonperturbative power suppressed corrections to these
+variables are not well understood. We use the behavior of large orders of the
+perturbation expansion to gain insight into the nonperturbative corrections.
+Our results suggest that certain shape variables have nonperturbative
+corrections suppressed by fractional powers of $\Lambda_{QCD}^2/M^2$.
+","[{""version"":""v1"",""created"":""Fri, 24 Jun 1994 19:39:01 GMT""}]","2009-10-28"
+"hep-ph/9406393","Josip Trampetic","N. G. Deshpande and Josip Trampetic","Exclusive and Semi-Inclusive B Decays Based on \hspace{0.3cm} b
+  $\rightarrow$ s \hspace{0.01cm}$\eta_c$ \hspace{0.3cm} Transition","12 pages LATEX, (used new data on B decays, give determination of
+  $f_{\eta_c}$ and more models)","Phys.Lett. B339 (1994) 270-274","10.1016/0370-2693(94)90643-2",,"hep-ph",,"  We calculate the semi-inclusive processes B $\rightarrow X_{s} \eta_c$ and
+relate it to B $\rightarrow X_{s} \psi$ in next to leading order QCD, and show
+how it can be used to determine an accurate value of $f_{\eta_{c}}$. The
+exclusive modes B $\rightarrow$ K$\eta_c$ and B $\rightarrow$ K$\psi$ also
+yield similar results, whereas B $\rightarrow$ K$^*\eta_c$ and B $\rightarrow$
+K$^*\psi$ can provide valuable information on hadronic form factors. We also
+estimate the branching ratios and the ratios of exclusive to inclusive decay
+modes dominated by $b \rightarrow s\e$.
+","[{""version"":""v1"",""created"":""Fri, 24 Jun 1994 22:43:07 GMT""},{""version"":""v2"",""created"":""Tue, 12 Jul 1994 23:45:44 GMT""}]","2009-10-28"
+"hep-th/9406166","Flad","Michel Dubois-Violette and Peter W. Michor","Derivations and noncommutative differential calculus II","7 pages (AMS-LaTEX)","Compt.Rend.Math. 319 (1994) 927-931",,"LPTHE-ORSAY 94/50","hep-th dg-ga math.DG",,"  We characterize the derivation $d:A\to \Omega^1_{\der}(A)$ by a universal
+property introducing a new class of bimodules.
+","[{""version"":""v1"",""created"":""Fri, 24 Jun 1994 17:26:34 GMT""}]","2008-02-03"
+"hep-th/9406168","Jochen Schwenk","J. Schwenk","q-deformed Fourier Theory","19, MPI-PhT/94-36 (14.July 1994)",,,,"hep-th",,"  We solve the problem of Fourier transformation for the one-dimensional
+$q$-deformed Heisenberg algebra. Starting from a matrix representation of this
+algebra we observe that momentum and position are unbounded operators in the
+Hilbert space. Therefore, in order to diagonalise the position operator in a
+momentum eigenbasis we have to study self-adjoint extensions of these
+operators. It turns out that there exist a whole family of such extensions for
+the position operator. This leads, correspondingly, to a one-parametric family
+of Fourier transformations. These transformations, which are related to
+continued fractions, are constructed in terms of $q$-deformed trigonometric
+functions. The entire family of the Fourier transformations turns out to be
+characterised by an elliptic function.
+","[{""version"":""v1"",""created"":""Fri, 24 Jun 1994 18:21:29 GMT""},{""version"":""v2"",""created"":""Fri, 15 Jul 1994 17:17:21 GMT""}]","2008-02-03"
+"hep-th/9406169","Yutaka Hosotani","Denne Wesolowski, Yutaka Hosotani and Sumantra Chakravarty","The Energy Density in the Maxwell-Chern-Simons Theory","19 pages (plain Tex), 12 figures not included, UMN-TH-1246/94","Phys.Rev.D50:7624-7637,1994","10.1103/PhysRevD.50.7624",,"hep-th cond-mat",,"  A two-dimensional nonrelativistic fermion system coupled to both
+electromagnetic gauge fields and Chern-Simons gauge fields is analysed.
+Polarization tensors relevant in the quantum Hall effect and anyon
+superconductivity are obtained as simple closed integrals and are evaluated
+numerically for all momenta and frequencies. The correction to the energy
+density is evaluated in the random phase approximation (RPA), by summing an
+infinite series of ring diagrams. It is found that the correction has
+significant dependence on the particle number density.
+  In the context of anyon superconductivity, the energy density relative to the
+mean field value is minimized at a hole concentration per lattice plaquette
+(0.05 \sim 0.06) (p_c a/\hbar)^2 where p_c and a are the momentum cutoff and
+lattice constant, respectively. At the minimum the correction is about -5 %
+\sim -25 %, depending on the ratio (2m \omega_c)/(p_c^2) where \omega_c is the
+frequency cutoff.
+  In the Jain-Fradkin-Lopez picture of the fractional quantum Hall effect the
+RPA correction to the energy density is very large. It diverges logarithmically
+as the cutoff is removed, implying that corrections beyond RPA become important
+at large momentum and frequency.
+","[{""version"":""v1"",""created"":""Fri, 24 Jun 1994 21:01:55 GMT""}]","2014-11-18"
+"hep-th/9406170","Joseph C. Varilly","Jose M. Gracia-Bondia and Joseph C. Varilly","From geometric quantization to Moyal quantization","7 two-column pages, RevTeX, UCR--FM--03--94","J.Math.Phys. 36 (1995) 2691-2701","10.1063/1.531059",,"hep-th",,"  We show how the Moyal product of phase-space functions, and the Weyl
+correspondence between symbols and operator kernels, may be obtained directly
+using the procedures of geometric quantization, applied to the symplectic
+groupoid constructed by ``doubling'' the phase space.
+","[{""version"":""v1"",""created"":""Fri, 24 Jun 1994 22:03:05 GMT""}]","2009-10-28"
+"hep-th/9406171","Shinji Hirano","Shinji Hirano and Hiroshi Ishikawa","Topological Structure in ${\hat c}=1$ Fermionic String Theory","13 pages, LaTeX","Mod.Phys.Lett.A9:3077-3088,1994","10.1142/S0217732394002902","UT-Komaba/94-14","hep-th",,"  $\chat=1$ fermionic string theory, which is considered as a fermionic string
+theory in two dimension, is shown to decompose into two mutually independent
+parts, one of which can be viewed as a topological model and the other is
+irrelevant for the theory. The physical contents of the theory is largely
+governed by this topological structure, and the discrete physical spectrum of
+$\chat=1$ string theory is naturally explained as the physical spectrum of the
+topological model. This topological structure turns out to be related with a
+novel hidden $N=2$ superconformal algebra (SCA) in the enveloping algebra of
+the $N=3$ SCA in fermionic string theories.
+","[{""version"":""v1"",""created"":""Sat, 25 Jun 1994 11:07:26 GMT""}]","2011-07-19"

@@ -1,0 +1,177 @@
+"cmp-lg/9405027","Michael Gasser","Michael Gasser","Acquiring Receptive Morphology: A Connectionist Model","8 pages, Postscript file; extract with Unix uudecode and uncompress","In Proceedings of ACL-94",,,"cmp-lg cs.CL",,"  This paper describes a modular connectionist model of the acquisition of
+receptive inflectional morphology. The model takes inputs in the form of phones
+one at a time and outputs the associated roots and inflections. Simulations
+using artificial language stimuli demonstrate the capacity of the model to
+learn suffixation, prefixation, infixation, circumfixation, mutation, template,
+and deletion rules. Separate network modules responsible for syllables enable
+to the network to learn simple reduplication rules as well. The model also
+embodies constraints against association-line crossing.
+","[{""version"":""v1"",""created"":""Fri, 27 May 1994 19:22:29 GMT""}]","2008-02-03"
+"cmp-lg/9405028","Hiroshi Nakagawa","Hiroshi Nakagawa, and Shin'ichiro Nishizawa","Semantics of Complex Sentences in Japanese","10pages, To appear at COLING-94",,,,"cmp-lg cs.CL",,"  The important part of semantics of complex sentence is captured as relations
+among semantic roles in subordinate and main clause respectively. However if
+there can be relations between every pair of semantic roles, the amount of
+computation to identify the relations that hold in the given sentence is
+extremely large. In this paper, for semantics of Japanese complex sentence, we
+introduce new pragmatic roles called `observer' and `motivated' respectively to
+bridge semantic roles of subordinate and those of main clauses. By these new
+roles constraints on the relations among semantic/pragmatic roles are known to
+be almost local within subordinate or main clause. In other words, as for the
+semantics of the whole complex sentence, the only role we should deal with is a
+motivated.
+","[{""version"":""v1"",""created"":""Sat, 28 May 1994 08:34:39 GMT""}]","2008-02-03"
+"comp-gas/9405005","Dean Prichard","Dean Prichard (Univ. of Alaska and LANL)","The correlation dimension of differenced data","8 pages uuencoded compressed postscript file (using uufiles script)",,"10.1016/0375-9601(94)90134-1","LA-UR-94-1288","comp-gas nlin.CG",,"  The effect differencing has on the estimated correlation dimension of a
+nongaussian time series is discussed. Two different methods for generating
+surrogate data sets are compared. The results suggest that any filtering should
+be applied to both the raw and surrogate time series, otherwise spurious
+results can occur.
+","[{""version"":""v1"",""created"":""Fri, 27 May 1994 20:27:14 GMT""}]","2009-10-22"
+"comp-gas/9405006","Dean Prichard","Dean Prichard (Univ. of Alaska and LANL) and James Theiler (LANL and
+  SFI)","Generalized redundancies for time series analysis","19 pages uuencoded compressed postscript file (using uufiles script)",,"10.1016/0167-2789(95)00041-2","LA-UR-94-1772","comp-gas nlin.CG",,"  Extensions to various information theoretic quantities used for nonlinear
+time series analysis are discussed, as well as their relationship to the
+generalized correlation integral. It is shown that calculating redundancies
+from the correlation integral can be more accurate and more efficient than
+direct box counting methods. It is also demonstrated that many commonly used
+nonlinear statistics have information theory based analogues. Furthermore, the
+relationship between the correlation integral and information theoretic
+statistics allows us to define ``local'' versions of many information theory
+based statistics; including a local version of the Kolmogorov-Sinai entropy,
+which gives an estimate of the local predictability.
+","[{""version"":""v1"",""created"":""Fri, 27 May 1994 20:35:24 GMT""}]","2015-06-24"
+"cond-mat/9405085",,"Matthias Troyer, Hirokazu Tsunetsugu and Diethelm Wuertz","Thermodynamics and spin gap of the Heisenberg ladder calculated by the
+  look-ahead Lanczos algorithm","13 pages uuencoded compressed PostScript file including 11 figures,
+  ETH-TH/9417","Phys. Rev. B 50, 013515 (1994)","10.1103/PhysRevB.50.13515",,"cond-mat",,"  We have developed an improved version of the quantum transfer matrix
+algorithm. The extreme eigenvalues and eigenvectors of the transfer matrix are
+calculated by the recently developed look-ahead Lanczos algorithm for
+non-Hermitian matrices with higher efficiency and accuracy than by the power
+method. We have applied this method to the Heisenberg ladder. The temperature
+dependence of the susceptibility, specific heat, correlation length and nuclear
+spin relaxation rate $1/T_1$ are calculated. Our results support the existence
+of a spin gap of about $0.5 J$. The preprint is submitted as a uuencoded
+compressed PostScript file. In case of printing problems the original TeX file
+(without figures) can be retrieved by anonymous ftp to 'maggia.ethz.ch'
+filename 'CSSP/preprints/hblad.tex'. Alternatively from June 1, 1994 by WWW:
+URL ""http://www.ips.id.ethz.ch/CSSP/preprints.html""
+","[{""version"":""v1"",""created"":""Fri, 27 May 1994 19:33:00 GMT""}]","2007-05-23"
+"cond-mat/9405086",,"Jian Ma, C.Quitmann, R.J.Kelley, G. Margaritondo, and M.Onellion (Dept
+  of Phys. & Applied Superconductivity Center, UW-Madison, and EPFL, Lausanne,
+  Switzerland.)","Localized electronic states and photoemission superconducting condensate
+  in Bi$_{2}$Sr$_{2}$Ca$_{1}$Cu$_{2}$O$_{8+x}$","APS_Revtex, 11 pages, including 3 figures, available upon request.
+  UW-Madison preprint#4",,"10.1016/0038-1098(95)00008-9",,"cond-mat",,"  We present the first detailed angle-resolved photoemission evidence that
+there are two types of carriers that contribute to the photoemission
+superconducting condensate in $Bi_{2}Sr_{2}Ca_{1}Cu_{2}O_{8+x}$. Our data
+indicate that both itinerant and somewhat localized normal state carriers can
+contribute to the formation of Cooper pairs.
+","[{""version"":""v1"",""created"":""Fri, 27 May 1994 18:00:00 GMT""}]","2009-10-22"
+"gr-qc/9405068","Cm41","Charles W. Misner","The Mixmaster cosmological metrics","13pp., LaTeX, 1 uuencoded figure, UMCP PP94-162",,,,"gr-qc",,"  This paper begins with a short presentation of the Bianchi IX or
+``Mixmaster'' cosmological model, and some ways of writing the Einstein
+equations for it. There is then an interlude describing how I came to a study
+of this model, and then a report of some mostly unpublished work from a Ph.\ D.
+thesis of D. M. (Prakash) Chitre relating approximate solutions to geodesic
+flows on finite volume negative curvature Riemannian manifolds, for which he
+could quote results on ergodicity. A final section restates studies of a zero
+measure set of solutions which in first approximation appear to have only a
+finite number of Kasner epochs before reaching the singularity. One finds no
+plausible case for such behavior in better approximations.
+","[{""version"":""v1"",""created"":""Fri, 27 May 1994 19:42:00 GMT""}]","2009-09-25"
+"gr-qc/9405069","Dr. Beverly Berger","B.K. Berger, D. Garfinkle, V. Swamy","Detection of Computer Generated Gravitational Waves in Numerical
+  Cosmologies","15 pages Plain TeX, 9 pages of figures available on request by FAX or
+  mail","Gen.Rel.Grav. 27 (1995) 511-527","10.1007/BF02105076",,"gr-qc",,"  We propose to study the behavior of complicated numerical solutions to
+Einstein's equations for generic cosmologies by following the geodesic motion
+of a swarm of test particles. As an example, we consider a cylinder of test
+particles initially at rest in the plane symmetric Gowdy universe on $T^3
+\times R$. For a circle of test particles in the symmetry plane, the geodesic
+equations predict evolution of the circle into distortions and rotations of an
+ellipse as well as motion perpendicular to the plane. The evolutionary sequence
+of ellipses depends on the initial position of the circle of particles. We
+display snapshots of the evolution of the cylinder.
+","[{""version"":""v1"",""created"":""Fri, 27 May 1994 23:50:09 GMT""}]","2009-10-22"
+"hep-ph/9405395","W. S. Hou","Wei-Shu Hou and Gwo-Guang Wong","Radiative Majorana Neutrino Masses","12 pages, 5 figures (not included), REVTeX, NTUTH--94--04","Phys.Lett. B339 (1994) 109-113","10.1016/0370-2693(94)91141-X",,"hep-ph",,"  We present new radiative mechanisms for generating Majorana neutrino masses,
+within an extension of the standard model that successfully generates radiative
+charged lepton masses, order by order, from heavy sequential leptons. Only the
+new sequential neutral lepton has a right-handed partner, and its Majorana mass
+provides the seed for Majorana neutrino mass generation. Saturating the
+cosmological bound of $50$ eV with $m_{\nu_\tau}$, we find that $m_{\nu_\mu}$
+and $m_{\nu_e}$ could be at most $10^{-2}$, and $10^{-3}$ eV, respectively. The
+electron neutrino mass may vanish in the limit of degenerate charged Higgs
+bosons. Unfortunately, $\nu_e - \nu_\tau$ mixing is also radiatively induced,
+and is too small for sake of solving the solar neutrino problem via the
+Mikheyev--Smirnov--Wolfenstein effect.
+","[{""version"":""v1"",""created"":""Fri, 27 May 1994 23:03:31 GMT""}]","2009-10-28"
+"hep-ph/9405400","Little Peter","K.Golec-Biernat, J.Kwiecinski, A.D.Martin and P.J.Sutton","Transverse Energy Flow at HERA","8 LaTeX pages, 4 figures included as uuencoded postscript at the end
+  of the LaTeX file, Durham preprint DTP/94/30","Phys.Lett.B335:220-225,1994","10.1016/0370-2693(94)91417-6",,"hep-ph",,"  We calculate the transverse energy flow accompanying small $x$ deep-inelastic
+events and compare with recent data obtained at HERA. In the central region
+between the current jet and the remnants of the proton we find that BFKL
+leading $\ln(1/x)$ dynamics gives a distinctively large transverse energy
+distribution, in approximate agreement with recent data.
+","[{""version"":""v1"",""created"":""Fri, 27 May 1994 17:04:42 GMT""}]","2010-03-25"
+"hep-ph/9405401","Jim Ohnemus","D. L. Borden, V. A. Khoze, W. J. Stirling, and J. Ohnemus","Three-jet final states and measuring the $\gamma\gamma$ width of the
+  Higgs at a photon linear collider","14 pages + 8 postscript figures appended, UCSB-HEP-94-05, DTP/94/12,
+  UCD-94-8; figure 6 corrected","Phys.Rev.D50:4499-4507,1994","10.1103/PhysRevD.50.4499",,"hep-ph",,"  The identification of the intermediate-mass Higgs process $\gamma\gamma\to H
+\to b \bar b$ will be one of the most important goals of a future photon linear
+collider. Potentially important backgrounds from the continuum $\gamma\gamma
+\to c \bar c, b \bar b$ leading-order processes can be suppressed by a factor
+$m_q^2/s$ by using polarized photon beams in the $J_z=0$ initial-state
+configuration. We show that the same $m_q^2/s$ suppressions do not necessarily
+apply to the radiative processes $\gamma\gamma \to c \bar c g, b \bar b g$.
+These processes can mimic the two-jet topology of the Higgs signal when two of
+the three partons are collinear, or when one of the partons is soft or directed
+down the beam pipe. We calculate the contribution of these processes to the
+two-jet background in the $J_z=0$ channel. We investigate the effect of
+imposing additional event shape, jet width and secondary vertex cuts on both
+signal and background, and show that with reasonable detector capabilities it
+should be possible to reduce the background to a manageable level.
+","[{""version"":""v1"",""created"":""Fri, 27 May 1994 19:58:09 GMT""},{""version"":""v2"",""created"":""Mon, 30 May 1994 04:45:40 GMT""}]","2011-01-25"
+"hep-ph/9405403","Claudio Coriano","Claudio Coriano'","Dispersive Methods and QCD Sum Rules for \gamma \gamma Collisions","38 pages in plane latex 8 figs. available upon request as hardcopy
+  and as a poscript file, (ANL-HEP-PR-94-18)","Nucl.Phys. B434 (1995) 565-605","10.1016/0550-3213(94)00486-X",,"hep-ph",,"  It has been shown, in the case of meson photoproduction, that the power-law
+falloff of these reactions can be described by lowest order (real) sum rules,
+at moderate momentum transfer. The phases of these processes, in this regime,
+are usually thought to be non-perturbative. In a sum rule framework, however,
+they can possibly be described by radiative corrections to the hadronic
+spectral densities of the corresponding helicities, which become complex
+functions to order $\alpha_s$, and the effects of interference can be strongly
+enhanced by the presence of the vacuum condensates in the dispersion relation.
+It is shown that the imaginary parts of these complex corrections have a
+factorized form and can be evaluated in a systematic fashion, while their real
+parts, at the same perturbative order, are down by at least 2 powers of
+momentum transfer. The analysis is done at two loop level, combining
+dimensional regularization and light-cone methods. The calculations are
+performed for all the independent set of scalar diagrams generated by the OPE.
+The analytical bounds are identified and discussed.
+","[{""version"":""v1"",""created"":""Fri, 27 May 1994 21:25:58 GMT""}]","2009-10-28"
+"hep-ph/9405404",,"Jonathan L. Rosner","CKM Matrix Elements: Magnitudes, Phases, Uncertainties","23 pages, latex, 10 figures, invited talk published in Proceedings of
+  the 2nd IFT Workshop on Yukawa Couplings and the Origins of Mass,
+  Gainesville, FL, 11-13 February, 1994, edited by P. Ramond (International
+  Press, 1996), pp. 273-293. Version with figures was not submitted previously",,,"EFI-94-21","hep-ph",,"  Schemes for fermion masses should predict elements of the
+Cabibbo-Kobayashi-Maskawa (CKM) matrix. We review the freedom allowed by
+present experiments and how the parameter space will shrink in the next few
+years. In addition to experiments which directly affect CKM parameters, we
+discuss constraints arising from precise electroweak tests.
+","[{""version"":""v1"",""created"":""Fri, 27 May 1994 23:09:47 GMT""},{""version"":""v2"",""created"":""Tue, 19 Jan 1999 23:57:56 GMT""}]","2008-02-03"
+"hep-ph/9405405",,"Hisashi Kikuchi and Ernest Ma","Neutrino Decay in the Doublet Majoron Model","(A discussion on a constraint from nucleosynthesis is revised,
+  related references are added, the figure is corrected accordingly.), 16 pages
+  + 1 figure (figure is available upon request.), LaTeX, UCRHEP-T126","Phys.Lett. B335 (1994) 444-451","10.1016/0370-2693(94)90376-X",,"hep-ph astro-ph",,"  A new Majoron model is presented within the framework of the seesaw
+mechanism. Its Higgs sector consists of only doublet representations and the
+lepton-number violation takes place at the same scale of the electroweak
+symmetry breaking. This model is different from the singlet- or triplet-Majoron
+model in several respects: it is free from the \(\rho\)-parameter constraint
+and it provides moderately fast neutrino decay, but the constraint from the
+stellar cooling of red giants is satisfied only with an imposed approximate
+symmetry. A \(\tau\) neutrino as heavy as 10 MeV is possible in this model
+despite various cosmological and astrophysical constraints.
+","[{""version"":""v1"",""created"":""Fri, 27 May 1994 23:30:52 GMT""},{""version"":""v2"",""created"":""Mon, 6 Jun 1994 22:42:48 GMT""}]","2009-10-28"
+"hep-th/9405183","Louis Crane","Louis Crane and Igor B. Frenkel","Four dimensional topological quantum field theory, Hopf categories, and
+  the canonical bases","38 pages","J.Math.Phys. 35 (1994) 5136-5154","10.1063/1.530746",,"hep-th math.QA",,"  We propose a new mwthod of constructing 4D-TQFTs. The method uses a new type
+of algebraic structure called a Hopf Category. We also outline the construction
+of a family of Hopf categories related to the quantum groups, using the
+canonical bases.
+","[{""version"":""v1"",""created"":""Fri, 27 May 1994 18:19:40 GMT""},{""version"":""v2"",""created"":""Fri, 24 Jun 1994 16:24:48 GMT""},{""version"":""v3"",""created"":""Thu, 16 Dec 2004 13:39:22 GMT""}]","2009-10-28"
+"hep-th/9405184","Mark Burgess","Mark Burgess","Infrared Behaviour, sources and the Schwinger action principle","Revised version inluding cosmetic changes and some recent references",,,,"hep-th",,"  The paper describes a dynamical analogy for the renormalization group which
+leads to insights into its structure.
+","[{""version"":""v1"",""created"":""Sat, 28 May 1994 08:13:53 GMT""},{""version"":""v2"",""created"":""Mon, 7 Nov 1994 08:02:33 GMT""}]","2008-02-03"
+"hep-th/9405185","Ichiro Oda","Ichiro Oda","Black Hole Thermodynamics from String Theory","11, EDO-EP-1","Phys.Lett. B338 (1994) 165-168","10.1016/0370-2693(94)91361-7",,"hep-th",,"  In this note we consider a stringy description of black hole horizon. We
+start with a nonlinear sigma model defined on a two dimensional Euclidean
+surface with background Rindler metric. By solving the field equations, we show
+that to the leading order the Bekenstein-Hawking formula of black hole entropy
+can be produced. We also point out a relation between the present formalism and
+the 'tHooft formalism.
+","[{""version"":""v1"",""created"":""Sat, 28 May 1994 11:28:42 GMT""}]","2009-10-28"

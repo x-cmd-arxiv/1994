@@ -1,0 +1,534 @@
+"astro-ph/9409051","Matt Visser","John G. Cramer, Robert L. Forward, Michael S. Morris, Matt Visser,
+  Gregory Benford, and Geoffrey A. Landis","Natural Wormholes as Gravitational Lenses","4 pages; plus 4 figures; ReV_TeX 3.0; DOE/ER/40537-001/NPL94-07-01]","Phys.Rev. D51 (1995) 3117-3120","10.1103/PhysRevD.51.3117",,"astro-ph gr-qc",,"  Visser has suggested traversable 3-dimensional wormholes that could plausibly
+form naturally during Big Bang inflation. A wormhole mouth embedded in high
+mass density might accrete mass, giving the other mouth a net *negative* mass
+of unusual gravitational properties. The lensing of such a gravitationally
+negative anomalous compact halo object (GNACHO) will enhance background stars
+with a time profile that is observable and qualitatively different from that
+recently observed for massive compact halo objects (MACHOs) of positive mass.
+We recommend that MACHO search data be analyzed for GNACHOs.
+","[{""version"":""v1"",""created"":""Tue, 20 Sep 1994 20:29:13 GMT""}]","2009-10-22"
+"chem-ph/9409002","David L. Freeman","A. Matro and D.L. Freeman (Department of Chemistry, The University of
+  Rhode Island, Kingston, RI) and J.D. Doll (Department of Chemistry, Brown
+  University, Providence, RI)","Locating transition states using double-ended classical trajectories","Journal of Chemical Physics, 13 pages","J. Chem. Phys. 101, 10458 (1994)","10.1063/1.467863",,"chem-ph physics.chem-ph",,"  In this paper we present a method for locating transition states and
+higher-order saddles on potential energy surfaces using double-ended classical
+trajectories. We then apply this method to 7- and 8-atom Lennard-Jones
+clusters, finding one previously unreported transition state for the 7-atom
+cluster and two for the 8-atom cluster.
+","[{""version"":""v1"",""created"":""Tue, 20 Sep 1994 18:54:43 GMT""}]","2009-10-22"
+"cond-mat/9409081","Peter Hessling","J. P. Hessling and Yu. Galperin","Flicker Noise Induced by Dynamic Impurities in a Quantum Point Contact","26 revtex APR 94-40",,"10.1103/PhysRevB.52.5082",,"cond-mat",,"  We calculate low-frequency noise (LFN) in a quantum point contact (QPC) which
+is electrostatically defined in a 2D electron gas of a GaAs-AlGaAs
+heterostructure. The conventional source of LFN in such systems are scattering
+potentials fluctuating in time acting upon injected electrons. One can
+discriminate between potentials of different origin -- noise may be caused by
+the externally applied gate- and source-drain voltages, the motion of defects
+with internal degrees of freedom close to the channel, electrons hopping
+between localized states in the doped region, etc. In the present study we
+propose a model of LFN based upon the assumption that there are many dynamic
+defects in the surrounding of a QPC. A general expression for the
+time-dependent current-current correlation function is derived and applied to a
+QPC with quantized conductance. It is shown that the level of LFN is
+significantly different at and between the steps in a plot of the conductance
+vs. gate voltage. On the plateaus, the level of noise is found to be low and
+strongly model-dependent. At the steps, LFN is much larger and only weakly
+model-dependent. As long as the system is biased to be at a fixed position
+relative the conductance step,
+","[{""version"":""v1"",""created"":""Tue, 20 Sep 1994 16:38:36 GMT""}]","2009-10-22"
+"cond-mat/9409083","Michael M. Fogler","M. M. Fogler and B. I. Shklovskii","Thermally Activated Deviations from Quantum Hall Plateaus","4 pages in PostScript (figures included)","Solid State Commun. 94, 503 (1994)","10.1016/0038-1098(95)00119-0",,"cond-mat",,"  The Hall conductivity $\sigma_{\rm xy}$ of a two-dimensional electron system
+is quantized in units of $e^2/h$ when the Fermi level is located in the
+mobility gap between two Landau levels. We consider the deviation of
+$\sigma_{\rm xy}$ from a quantized value caused by the thermal activation of
+electrons to the extended states for the case of a long range random potential.
+This deviation is of the form $\sigma_{\rm xy}^*\exp(-\Delta/T)$. The prefactor
+$\sigma_{\rm xy}^*$ is equal to $e^2/h$ at temperatures above a characteristic
+temperature $T_2$. With the temperature decreasing below $T_2$, $\sigma_{\rm
+xy}^*$ decays according to a power law: $\sigma_{\rm xy}^* =
+\frac{e^2}{h}(T/T_2)^\gamma$. Similar results are valid for a fractional Hall
+plateau near filling factor $p/q$ if $e$ is replaced by the fractional charge
+$e/q$.
+","[{""version"":""v1"",""created"":""Tue, 20 Sep 1994 16:56:45 GMT""}]","2009-10-22"
+"cond-mat/9409084","Andreas Kluemper","R. Z. Bariev, A. Kl\""umper, A. Schadschneider, and J.Zittartz","Exact solution of a one-dimensional fermion model with interchain
+  tunneling","10 pages, 4 Postscript figures appended as uuencoded compressed
+  tar-file to appear in PRB Rapid Communications, preprint Cologne-94-4743",,"10.1103/PhysRevB.50.9676",,"cond-mat",,"  A fermion model consisting of two chains with interchain tunneling is
+formulated and solved exactly by the Bethe ansatz method. The interchain
+tunneling leads to Cooper pair like bound states and a threshold energy is
+required to overcome the binding energy. The correlation functions manifest
+superconducting properties.
+","[{""version"":""v1"",""created"":""Tue, 20 Sep 1994 20:27:19 GMT""}]","2009-10-22"
+"cond-mat/9409085","Joel Shore","Joel D. Shore and Dirk Jan Bukman","Phase Separation of Crystal Surfaces: A Lattice Gas Approach","16 pages (RevTex 3.0); 12 postscript figures available on request
+  (shore@physics.mcgill.ca). Submitted to Physical Review E. SFU-JDSDJB-94-02",,"10.1103/PhysRevE.51.4196",,"cond-mat",,"  We consider both equilibrium and kinetic aspects of the phase separation
+(``thermal faceting"") of thermodynamically unstable crystal surfaces into a
+hill--valley structure. The model we study is an Ising lattice gas for a simple
+cubic crystal with nearest--neighbor attractive interactions and weak
+next--nearest--neighbor repulsive interactions. It is likely applicable to
+alkali halides with the sodium chloride structure. Emphasis is placed on the
+fact that the equilibrium crystal shape can be interpreted as a phase diagram
+and that the details of its structure tell us into which surface orientations
+an unstable surface will decompose. We find that, depending on the temperature
+and growth conditions, a number of interesting behaviors are expected. For a
+crystal in equilibrium with its vapor, these include a low temperature regime
+with logarithmically--slow separation into three symmetrically--equivalent
+facets, and a higher temperature regime where separation proceeds as a power
+law in time into an entire one--parameter family of surface orientations. For a
+crystal slightly out of equilibrium with its vapor (slow crystal growth or
+etching), power--law growth should be the rule at late enough times. However,
+in the low temperature regime, the rate of separation rapidly decreases as the
+chemical potential difference between crystal and vapor phases goes to zero.
+","[{""version"":""v1"",""created"":""Wed, 21 Sep 1994 00:19:35 GMT""}]","2009-10-22"
+"cond-mat/9409086","Vagov Alexey","O.K.Vorov and A.V.Vagov","Problem of a quantum particle in a random potential on a line revisited","11 pages, RevTex, preprint ANU-RSPhySE-20994 (comment added)",,"10.1016/0375-9601(95)92832-O",,"cond-mat",,"  The density of states for a particle moving in a random potential with a
+Gaussian correlator is calculated exactly using the functional integral
+technique. It is achieved by expressing the functional degrees of freedom in
+terms of the spectral variables and the parameters of isospectral
+transformations of the potential. These transformations are given explicitly by
+the flows of the Korteweg-de Vries hierarchy which deform the potential leaving
+all its spectral properties invariant. Making use of conservation laws reduces
+the initial Feynman integral to a combination of quadratures which can be
+readily calculated. Different formulations of the problem are analyzed.
+","[{""version"":""v1"",""created"":""Wed, 21 Sep 1994 07:27:34 GMT""},{""version"":""v2"",""created"":""Wed, 5 Oct 1994 04:49:59 GMT""}]","2009-10-22"
+"cond-mat/9409087",,"Rodolfo A. Jalabert and Jean-Louis Pichard","Quantum Mesoscopic Scattering: Disordered Systems and Dyson Circular
+  Ensembles","39 pages, 14 figures available under request, RevTex, IPNO/TH 94-64",,"10.1051/jp1:1995128",,"cond-mat",,"  We consider elastic reflection and transmission of electrons by a disordered
+system characterized by a $2N\!\times\!2N$ scattering matrix $S$. Expressing
+$S$ in terms of the $N$ radial parameters and of the four $N\!\times\!N$
+unitary matrices used for the standard transfer matrix parametrization, we
+calculate their probability distributions for the circular orthogonal (COE) and
+unitary (CUE) Dyson ensembles. In this parametrization, we explicitely compare
+the COE--CUE distributions with those suitable for quasi--$1d$ conductors and
+insulators. Then, returning to the usual eigenvalue--eigenvector
+parametrization of $S$, we study the distributions of the scattering phase
+shifts. For a quasi--$1d$ metallic system, microscopic simulations show that
+the phase sift density and correlation functions are close to those of the
+circular ensembles. When quasi--$1d$ longitudinal localization breaks $S$ into
+two uncorrelated reflection matrices, the phase shift form factor $b(k)$
+exhibits a crossover from a behavior characteristic of two uncoupled COE--CUE
+(small $k$) to a single COE--CUE behavior (large $k$). Outside quasi--one
+dimension, we find that the phase shift density is no longer uniform and $S$
+remains nonzero after disorder averaging. We use perturbation theory to
+calculate the deviations to the isotropic Dyson distributions. When the
+electron dynamics is no
+","[{""version"":""v1"",""created"":""Wed, 21 Sep 1994 09:17:23 GMT""}]","2009-10-22"
+"cond-mat/9409088","Mbctpan","A. D. Rutenberg and A. J. Bray","The Energy-Scaling Approach to Phase-Ordering Growth Laws","LATeX 18 pages (REVTeX macros), one postscript figure appended,
+  REVISED --- rearranged and clarified, new paragraph on naive dimensional
+  analysis at end of section II","Phys. Rev. E vol. 51, p. 5499 (1995)","10.1103/PhysRevE.51.5499","M/C.TH.94/19","cond-mat",,"  We present a simple, unified approach to determining the growth law for the
+characteristic length scale, $L(t)$, in the phase ordering kinetics of a system
+quenched from a disordered phase to within an ordered phase. This approach,
+based on a scaling assumption for pair correlations, determines $L(t)$
+self-consistently for purely dissipative dynamics by computing the
+time-dependence of the energy in two ways. We derive growth laws for conserved
+and non-conserved $O(n)$ models, including two-dimensional XY models and
+systems with textures. We demonstrate that the growth laws for other systems,
+such as liquid-crystals and Potts models, are determined by the type of
+topological defect in the order parameter field that dominates the energy. We
+also obtain generalized Porod laws for systems with topological textures.
+","[{""version"":""v1"",""created"":""Wed, 21 Sep 1994 14:54:30 GMT""},{""version"":""v2"",""created"":""Thu, 15 Dec 1994 18:47:05 GMT""}]","2009-10-22"
+"funct-an/9409002","Naruhiko","A. Tsutsumi and S. Haruki","On an Application of Hypoellipticity to Solutions of Functional
+  Equations","9 pages, LaTeX",,,,"funct-an math.FA",,"  We study the regularity of solutions of functional equations of a generalized
+mean value type. In this paper we give sufficient conditions for the regularity
+by using hypoellipticity which is a concept of the theory of partial
+differential equations. Further we also give an affirmative answer to a
+conjecture of H.\'Swiatak. A part of the results was announced in the
+comprehensive paper [8] on series of our joint works. To prove the regularity
+of solutions of functional equation is in general one of central problem in the
+theory of functional equations.
+","[{""version"":""v1"",""created"":""Wed, 21 Sep 1994 10:33:18 GMT""}]","2016-08-31"
+"gr-qc/9409043","Matt Visser","Matt Visser","Scale anomalies imply violation of the averaged null energy condition","6 pages; ReV_TeX 3.0]","Phys.Lett. B349 (1995) 443-447","10.1016/0370-2693(95)00303-3",,"gr-qc hep-th",,"  Considerable interest has recently been expressed regarding the issue of
+whether or not quantum field theory on a fixed but curved background spacetime
+satisfies the averaged null energy condition (ANEC). A comment by Wald and
+Yurtsever [Phys. Rev. D43, 403 (1991)] indicates that in general the answer is
+no. In this note I explore this issue in more detail, and succeed in
+characterizing a broad class of spacetimes in which the ANEC is guaranteed to
+be violated. Finally, I add some comments regarding ANEC violation in
+Schwarzschild spacetime.
+","[{""version"":""v1"",""created"":""Tue, 20 Sep 1994 19:50:35 GMT""}]","2009-10-22"
+"gr-qc/9409044","Jorge Pullin","Jorge Pullin","Is there a connection between no-hair behavior and universality in
+  gravitational collapse?","RevTeX, 3 Pages, no figures, CGPG-94/9-2","Phys.Lett. A204 (1995) 7","10.1016/0375-9601(95)00471-E",,"gr-qc",,"  We apply linear perturbation theory to the study of the universality and
+criticality first observed by Choptuik in gravitational collapse. Since these
+are essentially nonlinear phenomena our attempt is only a rough approximation.
+In spite of this, universal behavior of the final black hole mass is observed
+with an exponent of 1/2, slightly higher than the observed value of 0.367. The
+universal behavior is rooted in the universal form that in-falling
+perturbations on black holes have at the horizon.
+","[{""version"":""v1"",""created"":""Tue, 20 Sep 1994 21:32:23 GMT""}]","2009-10-22"
+"gr-qc/9409045","Tatsuhiko Koike","Tatsuhiko Koike and Takashi Mishima","An Analytic Model with Critical Behavior in Black Hole Formation","21pp., ReVTeX, 7 figures (postscript, compressed and uuencoded),
+  TIT/HEP-266/COSMO-46","Phys.Rev. D51 (1995) 4045-4053","10.1103/PhysRevD.51.4045",,"gr-qc hep-th",,"  A simple analytic model is presented which exhibits a critical behavior in
+black hole formation, namely, collapse of a thin shell coupled with outgoing
+null fluid. It is seen that the critical behavior is caused by the
+gravitational nonlinearity near the event horizon. We calculate the value of
+the critical exponent analytically and find that it is very dependent on the
+coupling constants of the system.
+","[{""version"":""v1"",""created"":""Wed, 21 Sep 1994 08:37:57 GMT""},{""version"":""v2"",""created"":""Sun, 25 Sep 1994 21:35:25 GMT""}]","2009-10-22"
+"gr-qc/9409046","Sucheta Koshti","Sucheta Koshti and Naresh Dadhich","The General Self-dual solution of the Einstein Equations","14 Pages, Latex, IUCAA 94/29",,,,"gr-qc",,"  We obtain the most general explicit (anti)self-dual solution of the Einstein
+equations. We find that any (anti)self-dual solution can be characterised by
+three free functions of which one is harmonic. Any stationary (anti)self-dual
+solution can be characterised by a harmonic function. It turns out that the
+form of the Gibbons and Hawking multi-center metrics is the most general
+stationary (anti)self-dual solution. We further note that the stationary
+(anti)self-dual Einstein equations can be reinterpreted as the (anti)self-dual
+Maxwell equations on the Euclidean background metric.
+","[{""version"":""v1"",""created"":""Wed, 21 Sep 1994 11:51:14 GMT""}]","2007-05-23"
+"hep-ex/9409003",,"A. Kreutz, M. Holder, M. Rost, R. Werthenbach (Fachbereich Physik,
+  Universit\""at Gesamthochschule Siegen, Germany), K.J.Peach (Edinburgh, UK),
+  H.Bl\""umer, R.Heinz, K.Kleinknecht, P.Mayer, B.Panzer, B.Renk, H.Rohrer,
+  A.Wagner (Universit\""at Mainz, Germany), E.Aug\'e, D.Fournier,
+  L.Iconomidou-Fayard, O.Perdereau, A.C.Schaffer, L.Serin (Universit\'e de
+  Paris-Sud, France), L.Bertanza, A.Bigi, P.Calafiura, M.Calvetti, R.Carosi,
+  R.Casali, C.Cerri, I.Mannelli, V.Marzulli, A.Nappi, G.M.Pierazzini (INFN,
+  Pisa, Italy)","Determination of the branching ratios $\Gamma (K_L \to 3 \pi^0) / \Gamma
+  (K_L \to \pi^+ \pi^- \pi^0)$ and $\Gamma (K_L \to 3 \pi^0) / \Gamma (K_L \to
+  \pi e \nu )$",,"Z.Phys.C65:67-74,1995","10.1007/BF01571304",,"hep-ex",,"  Improved branching ratios were measured for the $K_L \to 3 \pi^0 $ decay in a
+neutral beam at the CERN SPS with the NA31 detector: $\Gamma (K_L \to 3 \pi^0)
+/ \Gamma (K_L \to \pi^+ \pi^- \pi^0) = 1.611 \pm 0.037$ and $\Gamma (K_L \to 3
+\pi^0) / \Gamma (K_L \to \pi e \nu ) = 0.545 \pm 0.010$.
+  From the first number an upper limit for $\Delta I =5/2$ and $\Delta I = 7/2
+$ transitions in neutral kaon decay is derived. Using older results for the
+Ke3/K$\mu $3 fraction, the 3$\pi^0$ branching ratio is found to be $\Gamma (K_L
+\to 3 \pi^0 )/ \Gamma_{tot} = (0.211 \pm 0.003)$, about a factor three more
+precise than from previous experiments.
+","[{""version"":""v1"",""created"":""Wed, 21 Sep 1994 07:55:33 GMT""}]","2019-08-17"
+"hep-lat/9409017","Istvan Montvay","Z. Fodor, J. Hein, K. Jansen, A. Jaster, I. Montvay","Simulating the Electroweak Phase Transition in the SU(2) Higgs Model","46 pages with 16 figures, DESY-94-159","Nucl.Phys. B439 (1995) 147-186","10.1016/0550-3213(95)00038-T",,"hep-lat hep-ph",,"  Numerical simulations are performed to study the finite temperature phase
+transition in the SU(2) Higgs model on the lattice. In the presently
+investigated range of the Higgs boson mass, below 50 GeV, the phase transition
+turns out to be of first order and its strength is rapidly decreasing with
+increasing Higgs boson mass. In order to control the systematic errors, we also
+perform studies of scaling violations and of finite volume effects.
+","[{""version"":""v1"",""created"":""Wed, 21 Sep 1994 07:04:03 GMT""},{""version"":""v2"",""created"":""Thu, 22 Sep 1994 15:16:18 GMT""}]","2009-10-22"
+"hep-ph/9409365","Lynne Orr","Lynne H. Orr and W.J. Stirling","Soft Jets and Top Mass Measurement at the Tevatron","4 pages LaTeX (ichep.sty appended) plus 3 uuencoded figures submitted
+  separately, UR-1379, DTP/94/72. Talk presented by L. Orr at the XXVII
+  International Conference on High Energy Physics, Glasgow, July 20-27, 1994",,,,"hep-ph",,"  Extra soft jets in top events in $p \bar p$ collisions may arise not only
+from gluons radiated off initial state partons or final state $b$ quarks, but
+may also be radiated from the $t$ quarks themselves. We discuss predictions for
+distributions of soft gluons in $t \bar t$ production at the Tevatron and the
+implications for attempts to measure the top mass by reconstructing the
+invariant mass of its decay products.
+","[{""version"":""v1"",""created"":""Wed, 21 Sep 1994 00:10:53 GMT""}]","2009-09-25"
+"hep-ph/9409366","Matsuda Masahisa","T. Hayashi, Y. Koide, M. Matsuda and M. Tanimoto","Neutron Electric Dipole Momento in Two-Higgs-Doublet Model","10pages, UWThPh-1994-38 AUE-07-94, Talk given by M.Tanimoto at QCD94
+  in Montpellier on 7-13 July 1994 and also presented by M. matsuda at the 27th
+  International Conference on High Energy Physics in Glasgow on 20-27 July 1994","Nucl.Phys.Proc.Suppl.39BC:276-278,1995","10.1016/0920-5632(95)00087-P",,"hep-ph",,"  The effect of the ""chromo-electric"" dipole moment on the electric dipole
+moment(EDM) of the neutron is studied in the two-Higgs-doublet model.
+  The Weinberg's operator $O_{3g}=GG\t G$ and the operator $O_{qg}=\bar
+q\sigma\t Gq$ are both investigated in the cases of $\tan\b\gg 1$, $\tan\b\ll
+1$ and $\tan\b\simeq 1$.
+  The neutron EDM is considerably reduced due to the destructive contribution
+with two light Higgs scalars exchanges.
+","[{""version"":""v1"",""created"":""Wed, 21 Sep 1994 04:46:31 GMT""}]","2010-11-01"
+"hep-ph/9409367","Takeo Moroi","T. Moroi, M. Yamaguchi and T. Yanagida","On the Solution to the Polonyi Problem with $O$(10~TeV) Gravitino Mass
+  in Supergravity",,"Phys.Lett. B342 (1995) 105-110","10.1016/0370-2693(94)01337-C",,"hep-ph",,"  We study the solution to the Polonyi problem where the Polonyi field weighs
+as $O(10{\rm TeV})$ and decays just before the primordial nucleosynthesis. It
+is shown that in spite of a large entropy production by the Polonyi field
+decay, one can naturally explain the present value of the baryon-to-entropy
+ratio, $n_B/s \sim (10^{-10}-10^{-11})$ if the Affleck-Dine mechanism for
+baryogenesis works. It is pointed out, however, that there is another
+cosmological problem related to the abundance of the lightest superparticles
+produced by the Polonyi decay.
+","[{""version"":""v1"",""created"":""Wed, 21 Sep 1994 08:37:35 GMT""}]","2009-10-28"
+"hep-ph/9409368","Phil Ratcliffe","Philip G. Ratcliffe","The Bjorken System of Equations and Nucleon Spin Structure-Function Data","4 pages (no figures), report MITH 94/11",,,,"hep-ph",,"  The status of the Bjorken sum rule is examined in the light of recent data on
+the spin structure functions of the deuteron and proton obtained by the SMC
+group, the neutron by the E142 group and the proton by the E143 group.
+Combining the new data with that already obtained for the proton by the EMC
+group and SLAC/YALE collaborations, we show that the Bjorken system of
+equations is violated at the 2-3 sigma level. We also discuss in detail the
+role of possible higher-twist contributions and higher-order PQCD corrections.
+","[{""version"":""v1"",""created"":""Wed, 21 Sep 1994 09:33:40 GMT""}]","2007-05-23"
+"hep-ph/9409369","George Leontaris","H. Dreiner, G.K. Leontaris, S. Lola, Graham G. Ross and C. Scheich","Neutrino Masses from Gauge Symmetries","(CERN-TH.7412/94, Latex file 16 p, no figures)","Nucl.Phys.B436:461-473,1995","10.1016/0550-3213(94)00555-S",,"hep-ph",,"  A very simple extension of the standard model to include an Abelian family
+symmetry is able to describe the hierarchy of quark and lepton masses and their
+mixing angles together with the unification of gauge couplings. We consider the
+implications of this model for neutrino masses and mixing angles and show that
+they are determined up to a discrete ambiguity corresponding to the
+representation content of the Higgs sector responsible for the Majorana mass
+matrix.
+","[{""version"":""v1"",""created"":""Wed, 21 Sep 1994 10:58:26 GMT""}]","2011-07-19"
+"hep-ph/9409370","Phil Ratcliffe","Philip G. Ratcliffe","Higher Twist, Polarised Structure Functions and the Bjorken System of
+  Equations","11 pages (3 figures, available on request from author), report MITH
+  94/10",,,,"hep-ph",,"  We discuss the present situation with regard to polarised nucleon structure
+function measurements. In particular we examine the status of the Bjorken sum
+rule in the light of the recent data on the spin structure functions of (i) the
+deuteron obtained by the SMC group at CERN and (ii) the neutron by the E142
+group at SLAC. In order to fully exploit all the available data it is necessary
+to study the complete Bjorken system of equations, which may be done in any of
+several equivalent ways. Combining the new data with that already obtained for
+the proton by the EMC group and earlier SLAC/YALE collaborations, together with
+bounds obtained on the strange quark polarisation, we show that the Bjorken
+system of equations is violated at about the 2 sigma level. We also show, using
+unpolarised data, that arguments based on possible higher-twist contributions
+are unable to account for this discrepancy. In conclusion, a simple explanation
+in terms of a non-perturbative renormalisation of the relevant Wilson
+coefficients is presented.
+","[{""version"":""v1"",""created"":""Wed, 21 Sep 1994 12:14:57 GMT""}]","2009-09-25"
+"hep-ph/9409371",,"K.G.Chetyrkin, C.A.Dominguez, D.Pirjol and K.Schilcher","Mass singularities in light quark correlators: the strange quark case","19 pages, Latex + 5 figures as uuencoded PS files, MZ-TH/94-21,
+  UCT-TP 214/94","Phys.Rev. D51 (1995) 5090-5100","10.1103/PhysRevD.51.5090",,"hep-ph",,"  The correlators of light-quark currents contain mass-singularities of the
+form log(m^2/Q^2). It has been known for quite some time that these mass-
+logarithms can be absorbed into the vacuum expectation values of other
+operators of appropriate dimension, provided that schemes without normal-
+ordering are used. We discuss in detail this procedure for the case of the mass
+logarithms m^4 log(m^2/Q^2), including also the mixing with the other
+dimension-4 operators to two-loop order. As an application we present an
+improved QCD sum rule determination of the strange-quark mass. We obtain m_s(1
+GeV)=171 \pm 15 MeV.
+","[{""version"":""v1"",""created"":""Wed, 21 Sep 1994 14:08:57 GMT""}]","2009-10-28"
+"hep-ph/9409372","Naoya Hata","Naoya Hata and Paul Langacker","Model Independent Determination of the Solar Neutrino Spectrum with and
+  without MSW","Revtex 3.0, 61 pages including 23 figures, uuencoded ps file
+  attached. Easy way: compressed ps file of entire paper in landscape format
+  available by anonymous
+  ftp://upenn5.hep.upenn.edu/pub/hata/papers/model_ind.ps.Z","Phys.Rev. D52 (1995) 420-440","10.1103/PhysRevD.52.420","UPR-0625T","hep-ph astro-ph",,"  Besides the opportunity for discovering new neutrino physics, solar neutrino
+measurements provide a sensitive probe of the solar interior, and thus a
+rigorous test of solar model predictions. We present model independent
+determinations of the neutrino spectrum by using relevant flux components as
+free parameters subject only to the luminosity constraint. (1) Without the
+Mikheyev-Smirnov-Wolfenstein (MSW) effect, the best fit for the combined data
+is poor. Furthermore, the data indicate a severe suppression of the $^7$Be flux
+relative to the $^8$B, contradicting both standard and nonstandard solar models
+in general; the $pp$ flux takes its maximum value allowed by the luminosity
+constraint. This pathology consistently appears even if we ignore any one of
+the three data. (2) In the presence of the two-flavor MSW effect, the current
+constraint on the initial $^8$B flux is weak, but consistent with the SSM and
+sufficient to exclude nonstandard models with small $^8$B fluxes. No meaningful
+constraint is obtained for the other fluxes. In the future, even allowing MSW,
+the $^8$B and $^7$Be fluxes can be determined at the $\pm$(15 -- 20)\% level,
+making competing solar models distinguishable. We emphasize that the neutral
+current sensitivity for $^7$Be neutrinos in BOREXINO, HELLAZ, and HERON is
+essential for determining the initial fluxes. The constraints on the MSW
+parameters in the model independent analysis are also discussed.
+","[{""version"":""v1"",""created"":""Wed, 21 Sep 1994 15:03:42 GMT""}]","2016-09-01"
+"hep-ph/9409373","Richard Ball","R. D. Ball and S. Forte","The Rise in F_2^p at HERA","7 pages, TeX with harvmac, 6 figures in compressed postscript,
+  CERN-TH.7421/94",,,,"hep-ph",,"  We show that the rise in $F_2^p$ at small $x$ and large $Q^2$ seen at HERA is
+indeed the non-Regge double asymptotic scaling behaviour expected from the
+perturbative emission of strongly ordered hard gluons. An alternative
+explanation, in which there is no strong ordering, and a new hard Reggeon is
+generated, is also tried but found wanting: its theoretical short-comings are
+betrayed by its failure to properly account for the HERA data.
+","[{""version"":""v1"",""created"":""Wed, 21 Sep 1994 15:06:19 GMT""}]","2009-09-25"
+"hep-ph/9409374","Richard Ball","R. D. Ball and S. Forte","Calculating F_2^p at small x and large Q^2","7 pages, TeX with harvmac, 4 figures in compressed postscript,
+  CERN-TH.7422/94","Nucl.Phys.Proc.Suppl. 39BC (1995) 25-27","10.1016/0920-5632(95)00036-9",,"hep-ph",,"  We show that the double asymptotic scaling of the HERA structure function
+data is consistent with pre-HERA data at larger $x$, soft pomeron behaviour at
+small $x$ and a sensible starting scale $Q_0$. We can thus actually calculate
+$F_2^p$ at small $x$ and large $Q^2$ by evolving up perturbatively at two
+loops, without any fitting.
+","[{""version"":""v1"",""created"":""Wed, 21 Sep 1994 15:06:45 GMT""}]","2009-10-28"
+"hep-ph/9409375","Andreas Dabelstein","A. Dabelstein","The one-loop renormalization of the MSSM Higgs sector and its
+  application to the neutral scalar Higgs masses","32 pages, report KA-THEP-5-1994","Z.Phys.C67:495-512,1995","10.1007/BF01624592",,"hep-ph",,"  The structure of the Higgs sector in the minimal supersymmetric standard
+model is reviewed at the one-loop level. An on-shell renormalization scheme of
+the MSSM Higgs sector is presented in detail together with the complete list of
+formulae for the neutral Higgs masses at the one-loop level. The results of a
+complete one- loop calculation for the mass spectrum of the neutral MSSM Higgs
+bosons and the quality of simpler Born-like approximations are discussed for
+sfermion and gaugino masses in the range of the electroweak scale.
+","[{""version"":""v1"",""created"":""Wed, 21 Sep 1994 15:31:22 GMT""},{""version"":""v2"",""created"":""Thu, 22 Sep 1994 09:10:42 GMT""}]","2011-07-19"
+"hep-th/9409118",,"M.Bianchi, F.Fucito, G.C.Rossi and M.Martellini","ALE Instantons in String Theory","5 pages, phyzzx.tex, ROM2F-94-35",,,,"hep-th",,"  In this talk we will describe a string solution which contains a self-dual
+(instantonic) metric and study its properties. Talk given by M.Bianchi at the
+Seventh Marcel Grossmann Meeting, Stanford July 24-30, 1994.
+","[{""version"":""v1"",""created"":""Tue, 20 Sep 1994 16:20:53 GMT""}]","2007-05-23"
+"hep-th/9409119","Donam Youm","Mirjam Cveti\v{c} and Donam Youm","Supersymmetric Dyonic Black Holes in Kaluza-Klein Theory","36 pages TEX (1 Postscript figure available via anonymous ftp to
+  dept.physics.upenn.edu:/pub/UPR-623-T), UPR-623-T","Nucl.Phys.B438:182-210,1995; Addendum-ibid.B449:146-148,1995","10.1016/0550-3213(94)00598-9",,"hep-th gr-qc",,"  We study supersymmetric, four-dimensional (4-d), Abelian charged black holes
+(BH's) arising in (4+n)-d (1 \le n \le 7) Kaluza-Klein (KK) theories. Such
+solutions, which satisfy supersymmetric Killing spinor equations (formally
+satisfied for any n) and saturate the corresponding Bogomol'nyi bounds, can be
+obtained if and only if the isometry group of the internal space is broken down
+to the U(1)_E \times U(1)_M gauge group; they correspond to dyonic BH's with
+electric Q and magnetic P charges associated with {\it different} U(1) factors.
+The internal metric of such configurations is diagonal with (n-2) internal
+radii constant, while the remaining two radii (associated with the respective
+electric and magnetic U(1) gauge fields) and the 4-d part of the metric turn
+out to be independent of n, i.e., solutions are effectively those of
+supersymmetric 4-d BH's of 6-d KK theory. For Q \ne 0 and P \ne 0, 4-d
+space-time has a null singularity, finite temperature (T_H \propto 1 /
+\sqrt{|QP|}) and zero entropy. Special cases with either Q=0 or P=0 correspond
+to the supersymmetric 4-d BH's of 5-d KK theory, first derived by Gibbons and
+Perry, which have a naked singularity and infinite temperature.
+","[{""version"":""v1"",""created"":""Tue, 20 Sep 1994 16:23:16 GMT""}]","2009-09-25"
+"hep-th/9409120",,"T. A. Osborn and F. H. Molzahn","Moyal Quantum Mechanics: The Semiclassical Heisenberg Dynamics","50, MANIT-94-01","Annals Phys. 241 (1995) 79-127","10.1006/aphy.1995.1057",,"hep-th",,"  The Moyal--Weyl description of quantum mechanics provides a comprehensive
+phase space representation of dynamics. The Weyl symbol image of the Heisenberg
+picture evolution operator is regular in $\hbar$. Its semiclassical expansion
+`coefficients,' acting on symbols that represent observables, are simple,
+globally defined differential operators constructed in terms of the classical
+flow. Two methods of constructing this expansion are discussed. The first
+introduces a cluster-graph expansion for the symbol of an exponentiated
+operator, which extends Groenewold's formula for the Weyl product of symbols.
+This Poisson bracket based cluster expansion determines the Jacobi equations
+for the semiclassical expansion of `quantum trajectories.' Their Green function
+solutions construct the regular $\hbar\downarrow0$ asymptotic series for the
+Heisenberg--Weyl evolution map. The second method directly substitutes such a
+series into the Moyal equation of motion and determines the $\hbar$
+coefficients recursively. The Heisenberg--Weyl description of evolution
+involves no essential singularity in $\hbar$, no Hamilton--Jacobi equation to
+solve for the action, and no multiple trajectories, caustics or Maslov indices.
+","[{""version"":""v1"",""created"":""Wed, 21 Sep 1994 03:08:31 GMT""}]","2015-06-26"
+"hep-th/9409121",,"K. Behrndt","Creation of a scalar potential in 2D dilaton gravity","talk presented at MG 7, 4 Pages, latex, SLAC-PUB-6673",,,,"hep-th gr-qc",,"  We investigate quantum corrections of the 2-d dilaton gravity near the
+singularity. Our motivation comes from a s-wave reduced cosmological solution
+which is classically singular in the scalar fields (dilaton and moduli). As
+result we find, that the singularity disappears and a dilaton/moduli potential
+is created.
+","[{""version"":""v1"",""created"":""Wed, 21 Sep 1994 04:54:52 GMT""}]","2007-05-23"
+"hep-th/9409122","Andreas Honecker","A. Honecker","A Perturbative Approach to the Chiral Potts Model","plain TeX, 48 pages + 3 PostScript figures, (various improvements and
+  corrections - for details see beginning of the file)",,,"BONN-TH-94-21","hep-th cond-mat hep-lat",,"  The massive high-temperature phase of the chiral Potts quantum chain is
+studied using perturbative methods. For the Z_3-chain we present
+high-temperature expansions for the groundstate energy and the dispersion
+relations of the two single-particle states as well as two-particle states at
+general values of the parameters. We also present a perturbative argument
+showing that a large class of massive Z_n-spin quantum chains have
+quasiparticle spectra with n-1 fundamental particles. It is known from earlier
+investigations that -at special values of the parameters- some of the
+fundamental particles exist only for limited ranges of the momentum. In these
+regimes our argument is not rigorous as one can conclude from a discussion of
+the radius of convergence of the perturbation series. We also derive
+correlation functions from a perturbative evaluation of the groundstate for the
+Z_3-chain. In addition to an exponential decay we observe an oscillating
+contribution. The oscillation length seems to be related to the asymmetry of
+the dispersion relations. We show that this relation is exact at special values
+of the parameters for general Z_n using a form factor expansion.
+","[{""version"":""v1"",""created"":""Wed, 21 Sep 1994 07:43:33 GMT""},{""version"":""v2"",""created"":""Mon, 24 Apr 1995 14:59:30 GMT""}]","2009-09-25"
+"hep-th/9409123",,"M. Sakamoto and M. Tachibana","Topological Terms in String Theory on Orbifolds","15pages,LaTex,KOBE-TH-94-05","Prog.Theor.Phys. 93 (1995) 471-482","10.1143/PTP.93.471",,"hep-th",,"  We study toroidal orbifold models with topologically invariant terms in the
+path integral formalism and give physical interpretations of the terms from an
+operator formalism point of view. We briefly discuss a possibility of a new
+class of modular invariant orbifold models.
+","[{""version"":""v1"",""created"":""Wed, 21 Sep 1994 09:39:25 GMT""}]","2009-10-28"
+"hep-th/9409124",,"H. Sato","The Monomial-Divisor Mirror Map for Landau-Ginzburg Orbifolds","10pages, LaTex, KOBE-TH-94-03","Mod. Phys. Lett. A9 (1994) 3721-3730","10.1142/S0217732394003579",,"hep-th",,"  We present the new explicit geometrical knowledge of the Landau-Ginzburg
+orbifolds, when a typical type of superpotential is considered. Relying on
+toric geometry, we show the one-to-one correspondence between some of the
+$(a,c)$ states with $U(1)$ charges $(-1,1)$ and the $(1,1)$ forms coming from
+blowing-up processes. Consequently, we find the monomial-divisor mirror map for
+Landau-Ginzburg orbifolds. The possibility of the application of the models of
+other types is briefly discussed.
+","[{""version"":""v1"",""created"":""Wed, 21 Sep 1994 10:10:11 GMT""}]","2015-06-26"
+"hep-th/9409125","Francesco Toppan","F. Toppan","On Classical Rational $\cw$ Algebras","8 pages, LaTex, Talk given at Rakhov, February 1994",,,,"hep-th",,"  The structure of classical non-linear $\cw$ algebras closing on rational
+functions is analyzed both for the ordinary and the supersymmetric case. Such
+algebras appear as a result of a coset construction. Their relevance to
+physical applications is pointed out.
+","[{""version"":""v1"",""created"":""Wed, 21 Sep 1994 12:10:44 GMT""}]","2007-05-23"
+"hep-th/9409126","Francesco Toppan","F. Toppan","On Coset Reductions of KP Hierarchies","8 pages, LaTex, Talk given at Alushta, June 1994","Theor.Math.Phys.104:861-865,1995; Teor.Mat.Fiz.104:123-128,1995","10.1007/BF02066658",,"hep-th",,"  In this talk the class of multi-fields reductions of the KP and super-KP
+hierarchies (leading to non-purely differential Lax operators) is revisited
+from the point of view of coset construction. This means in particular that all
+the hamiltonian densities of the infinite tower belong to a coset algebra of a
+given Poisson brackets structure.
+","[{""version"":""v1"",""created"":""Wed, 21 Sep 1994 12:11:09 GMT""}]","2011-04-15"
+"hep-th/9409127","Franco Ferrari","F. Ferrari and J. Sobczyk","Operator Formalism on General Algebraic Curves","34 pages of plain TeX + harvmac, With respect to the first version
+  some new references have been added and a statement in the Introduction has
+  been changed",,"10.1016/0393-0440(95)00037-2","Preprint UTF 333, IFT UWR 899/94","hep-th alg-geom math.AG",,"  The usual Laurent expansion of the analytic tensors on the complex plane is
+generalized to any closed and orientable Riemann surface represented as an
+affine algebraic curve. As an application, the operator formalism for the $b-c$
+systems is developed. The physical states are expressed by means of creation
+and annihilation operators as in the complex plane and the correlation
+functions are evaluated starting from simple normal ordering rules. The Hilbert
+space of the theory exhibits an interesting internal structure, being splitted
+into $n$ ($n$ is the number of branches of the curve) independent Hilbert
+spaces. Exploiting the operator formalism a large collection of explicit
+formulas of string theory is derived.
+","[{""version"":""v1"",""created"":""Wed, 21 Sep 1994 12:18:50 GMT""},{""version"":""v2"",""created"":""Tue, 11 Oct 1994 13:21:51 GMT""}]","2015-06-26"
+"hep-th/9409128","Josh Boorstein","Joshua Boorstein and David Kutasov","Wilson Loops, Winding modes, and Domain Walls in Finite Temperature QCD","26 pages, harvmac, EFI-94-42","Phys.Rev. D51 (1995) 7111-7123","10.1103/PhysRevD.51.7111",,"hep-th hep-ph",,"  We discuss the effective action for Polyakov-Wilson loops winding around
+compact Euclidean time, which serve as order parameters for the finite
+temperature deconfinement transition in $SU(N)$ Yang-Mills gauge theory. We
+then apply our results to the study of the high temperature continuation of the
+confining phase, and to the analysis of certain $Z_N$ domain walls that have
+been argued to play a role in cosmology. We argue that the free energy of these
+walls is much larger than previously thought.
+","[{""version"":""v1"",""created"":""Wed, 21 Sep 1994 15:36:19 GMT""}]","2009-10-28"
+"math/9409222",,"R. Ravi, R. Sundaram, Madhav V. Marathe, S. S. Ravi, Daniel J.
+  Rosenkrantz","Spanning trees short or small","27 pages",,,"LACES 05C-94-17","math.CO",,"  We study the problem of finding small trees. Classical network design
+problems are considered with the additional constraint that only a specified
+number $k$ of nodes are required to be connected in the solution. A
+prototypical example is the $k$MST problem in which we require a tree of
+minimum weight spanning at least $k$ nodes in an edge-weighted graph. We show
+that the $k$MST problem is NP-hard even for points in the Euclidean plane. We
+provide approximation algorithms with performance ratio $2\sqrt{k}$ for the
+general edge-weighted case and $O(k^{1/4})$ for the case of points in the
+plane. Polynomial-time exact solutions are also presented for the class of
+decomposable graphs which includes trees, series-parallel graphs, and bounded
+bandwidth graphs, and for points on the boundary of a convex region in the
+Euclidean plane. We also investigate the problem of finding short trees, and
+more generally, that of finding networks with minimum diameter. A simple
+technique is used to provide a polynomial-time solution for finding $k$-trees
+of minimum diameter. We identify easy and hard problems arising in finding
+short networks using a framework due to T. C. Hu.
+","[{""version"":""v1"",""created"":""Wed, 21 Sep 1994 00:00:00 GMT""}]","2009-09-25"
+"math/9409223",,"Avrim Blum, Prasad Chalasani, Don Coppersmith, Bill Pulleyblank,
+  Prabhakar Raghavan, Madhu Sudan","On the minimum latency problem","9 pages",,,"LACES 68Q-94-18","math.CO cs.CC",,"  We are given a set of points $p_1,\ldots , p_n$ and a symmetric distance
+matrix $(d_{ij})$ giving the distance between $p_i$ and $p_j$. We wish to
+construct a tour that minimizes $\sum_{i=1}^n \ell(i)$, where $\ell(i)$ is the
+{\em latency} of $p_i$, defined to be the distance traveled before first
+visiting $p_i$. This problem is also known in the literature as the {\em
+deliveryman problem} or the {\em traveling repairman problem}. It arises in a
+number of applications including disk-head scheduling, and turns out to be
+surprisingly different from the traveling salesman problem in character. We
+give exact and approximate solutions to a number of cases, including a
+constant-factor approximation algorithm whenever the distance matrix satisfies
+the triangle inequality.
+","[{""version"":""v1"",""created"":""Wed, 21 Sep 1994 00:00:00 GMT""}]","2009-09-25"
+"math/9409224",,"Avrim Blum, Prasad Chalasani","An on-line algorithm for improving performance in navigation","10 pages",,,"LACES 68Q-94-19","math.CO cs.CC",,"  Recent papers have shown optimally-competitive on-line strategies for a robot
+traveling from a point $s$ to a point $t$ in certain unknown geometric
+environments. We consider the question: Having gained some partial information
+about the scene on its first trip from $s$ to $t$, can the robot improve its
+performance on subsequent trips it might make? This is a type of on-line
+problem where a strategy must exploit {\em partial information \/} about the
+future (e.g., about obstacles that lie ahead). For scenes with axis-parallel
+rectangular obstacles where the Euclidean distance between $s$ and $t$ is $n$,
+we present a deterministic algorithm whose {\em average\/} trip length after
+$k$ trips, $k \leq n$, is $O(\rootnbyk)$ times the length of the shortest
+$s$-$t$ path in the scene. We also show that this is the best a deterministic
+strategy can do. This algorithm can be thought of as performing an optimal
+tradeoff between search effort and the goodness of the path found. We improve
+this algorithm so that for {\em every\/} $i \leq n$, the robot's $i$th trip
+length is $O(\rootnbyi)$ times the shortest $s$-$t$ path length. A key idea of
+the paper is that a {\em tree\/} structure can be defined in the scene, where
+the nodes are portions of certain obstacles and the edges are ``short'' paths
+from a node to its children. The core of our algorithms is an on-line strategy
+for traversing this tree optimally.
+","[{""version"":""v1"",""created"":""Wed, 21 Sep 1994 00:00:00 GMT""}]","2016-09-06"
+"math/9409225",,"Madhav V. Marathe, Harry B. Hunt III, S. S. Ravi","The complexity of approximating PSPACE-Complete problems for
+  hierarchical specifications","41 pages",,,"LACES 68Q-94-21","math.CO cs.CC",,"  We extend the concept of polynomial time approximation algorithms to apply to
+problems for hierarchically specified graphs, many of which are
+PSPACE-complete. Assuming P != PSPACE, the existence or nonexistence of such
+efficient approximation algorithms is characterized, for several standard graph
+theoretic and combinatorial problems. We present polynomial time approximation
+algorithms for several standard PSPACE-hard problems considered in the
+literature. In contrast, we show that unless P = PSPACE, there is no polynomial
+time epsilon-approximation for any epsilon>0, for several other problems, when
+the instances are specified hierarchically. We present polynomial time
+approximation algorithms for the following problems when the graphs are
+specified hierarchically: {minimum vertex cover}, {maximum 3SAT}, {weighted max
+cut}, {minimum maximal matching}, {bounded degree maximum independent set}
+  In contrast, we show that unless P = PSPACE, there is no polynomial time
+epsilon-approximation for any epsilon>0, for the following problems when the
+instances are specified hierarchically: {the number of true gates in a monotone
+acyclic circuit when all input values are specified} and {the optimal value of
+the objective function of a linear program} It is also shown that unless P =
+PSPACE, a performance guarantee of less than 2 cannot be obtained in polynomial
+time for the following problems when the instances are specified
+hierarchically: {high degree subgraph}, {k-vertex connected subgraph}, and
+{k-edge connected subgraph}
+","[{""version"":""v1"",""created"":""Wed, 21 Sep 1994 00:00:00 GMT""}]","2016-09-06"
+"math/9409226",,"Madhav V. Marathe, H. Breu, Harry B. Hunt III, S. S. Ravi, Daniel J.
+  Rosenkrantz","Geometry based heuristics for unit disk graphs","19 pages",,,"LACES 68Q-94-22","math.CO cs.CC",,"  Unit disk graphs are intersection graphs of circles of unit radius in the
+plane. We present simple and provably good heuristics for a number of classical
+NP-hard optimization problems on unit disk graphs. The problems considered
+include maximum independent set, minimum vertex cover, minimum coloring and
+minimum dominating set. We also present an on-line coloring heuristic which
+achieves a competitive ratio of 6 for unit disk graphs. Our heuristics do not
+need a geometric representation of unit disk graphs. Geometric representations
+are used only in establishing the performance guarantees of the heuristics.
+Several of our approximation algorithms can be extended to intersection graphs
+of circles of arbitrary radii in the plane, intersection graphs of regular
+polygons, and to intersection graphs of higher dimensional regular objects.
+","[{""version"":""v1"",""created"":""Wed, 21 Sep 1994 00:00:00 GMT""}]","2016-09-06"
+"math/9409230","Erik Koelink","Erik Koelink","On Jacobi and continuous Hahn polynomials",,,,"OP-SF 21 Sep 1994","math.CA",,"  Jacobi polynomials are mapped onto the continuous Hahn polynomials by the
+Fourier transform and the orthogonality relations for the continuous Hahn
+polynomials then follow from the orthogonality relations for the Jacobi
+polynomials and the Parseval formula. In a special case this relation dates
+back to work by Bateman in 1933 and we follow a part of the historical
+development for these polynomials. Some applications of this relation are
+given.
+","[{""version"":""v1"",""created"":""Wed, 21 Sep 1994 00:00:00 GMT""}]","2009-09-25"
+"math/9409231","Erik Koelink","Erik Koelink","Yet another basic analogue of Graf's addition formula",,,,"OP-SF 21 Sep 1994","math.CA",,"  An identity involving basic Bessel functions and Al-Salam--Chihara
+polynomials is proved for which we recover Graf's addition formula for the
+Bessel function as the base $q$ tends to $1$. The corresponding product formula
+is derived. Some known identities for Jackson's $q$-Bessel functions are
+obtained as limiting cases. As special cases we prove identities for
+$q$-Charlier polynomials.
+","[{""version"":""v1"",""created"":""Wed, 21 Sep 1994 00:00:00 GMT""}]","2016-09-06"
+"nucl-th/9409017",,"C. Ciofi degli Atti and S. Simula","Nucleon-Nucleon Correlations and Six-Quark Cluster Effects in
+  Semi-Inclusive Deep Inelastic Lepton Scattering off Few-Nucleon Systems","17 pages, preprint INFN-ISS 94/8, September 1994. To appear in
+  Few-Body Systems. 8 figures available by fax upon request at
+  simula@iss.infn.it","Few Body Syst. 18 (1995) 55-71","10.1007/s006010050004",,"nucl-th hep-ph",,"  Semi-inclusive deep inelastic lepton scattering off few-nucleon systems is
+investigated assuming that virtual boson absorption occurs on a hadronic
+cluster which can be either a two-nucleon correlated pair or a six-quark bag.
+In both cases the relevance of nuclear effects on forward and backward nucleon
+emissions is illustrated and the differences expected in the energy
+distribution of the emitted nucleons are analyzed both at x>1 and x<1.
+","[{""version"":""v1"",""created"":""Wed, 21 Sep 1994 15:31:13 GMT""}]","2009-10-28"

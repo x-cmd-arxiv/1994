@@ -1,0 +1,35 @@
+"chao-dyn/9402004","Lord of Chaos","D. D. Dixon (Institute of Geophysics and Planetary Physics, University
+  of California, Riverside), M. Zak (Jet Propulsion Laboratory) and J. P.
+  Zbilut (Rush Medical College, Chicago)","A Method for Detecting Possible Non-determinism in a Time Series","4 pages, RevTeX, 3 PostScript figures available upon request",,,,"chao-dyn nlin.CD",,"  A method for detecting possible non-deterministic dynamics underlying a time
+series is introduced. Non-deterministic dynamics may arise due to the failure
+of the Lipschitz condition in the equations of motion. At a singular point, the
+phase space trajectory of the system may jump from one solution to another.
+This discontinous change implies divergence of the second derivative of the
+solution whenever it passes near the singular point. A time series can be
+examined for such divergences, which may indicate non-determinism in the
+dynamical system. Examples with both simulated and actual data are given.
+","[{""version"":""v1"",""created"":""Sat, 19 Feb 1994 21:58:00 GMT""}]","2008-02-03"
+"gr-qc/9402035",,"Alexander V. Evako","Dimension on Discrete Spaces","16 pages, 8 figures, Latex. Figures are not included, available from
+  the author upon request. Preprint SU-GP-93/1-1. To appear in ""International
+  Journal of Theoretical Physics""","Int.J.Theor.Phys. 33 (1994) 1553-1568","10.1007/BF00670697",,"gr-qc astro-ph hep-lat hep-th",,"  In this paper we develop some combinatorial models for continuous spaces. In
+this spirit we study the approximations of continuous spaces by graphs,
+molecular spaces and coordinate matrices. We define the dimension on a discrete
+space by means of axioms, and the axioms are based on an obvious geometrical
+background. This work presents some discrete models of n-dimensional Euclidean
+spaces, n-dimensional spheres, a torus and a projective plane. It explains how
+to construct new discrete spaces and describes in this connection several
+three-dimensional closed surfaces with some topological singularities
+  It also analyzes the topology of (3+1)-spacetime. We are also discussing the
+question by R. Sorkin [19] about how to derive the system of simplicial
+complexes from a system of open covering of a topological space S.
+","[{""version"":""v1"",""created"":""Sat, 19 Feb 1994 23:15:11 GMT""}]","2009-10-22"
+"hep-th/9402114","Maximilian Kreuzer","Maximilian Kreuzer","The Mirror Map for Invertible LG Models","10 pages, latex, CERN-TH.7165/94 and TUW-94/01","Phys.Lett. B328 (1994) 312-318","10.1016/0370-2693(94)91485-0",,"hep-th",,"  Calculating the (a,c) ring of the maximal phase orbifold for `invertible'
+Landau--Ginzburg models, we show that the Berglund--H""ubsch construction works
+for all potentials of the relevant type. The map that sends a monomial in the
+original model to a twisted state in the orbifold representation of the mirror
+is constructed explicitly. Via this map, the OP selection rules of the chiral
+ring exactly correspond to the twist selection rules for the orbifold. This
+shows that we indeed arrive at the correct point in moduli space, and that the
+mirror map can be extended to arbitrary orbifolds, including non-abelian twists
+and discrete torsion, by modding out the appropriate quantum symmetries.
+","[{""version"":""v1"",""created"":""Sat, 19 Feb 1994 16:04:49 GMT""}]","2009-10-28"
